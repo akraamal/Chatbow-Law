@@ -1,3 +1,12 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# ADLI Morocco — chatbot RAG juridique marocain
+# ─────────────────────────────────────────────────────────────────────────────
+
+# --- Web (chatbot + analyseur) ---
+flask>=3.0.0             # Application web (routes, templates, SSE)
+python-dotenv>=1.0.0     # Chargement de GROQ_API_KEY depuis .env
+groq>=0.9.0              # API LLM (qwen/qwen3.6-27b par défaut)
+
 # --- Étape 1 : Ingestion ---
 pymupdf>=1.24.0           # Extraction de texte depuis les PDF (fitz)
 pytesseract>=0.3.10       # OCR (nécessite le binaire Tesseract installé séparément)
@@ -9,28 +18,20 @@ pdfplumber>=0.11.0        # Détection et extraction des tableaux (table_extract
 #   apt-get install tesseract-ocr tesseract-ocr-fra tesseract-ocr-ara
 # Vérifier : tesseract --list-langs
 
-# --- Étape 2 : Prétraitement ---
-# (ajouté à l'étape suivante)
-
 # --- Étape 3 : Extraction NLP ---
 spacy>=3.7.0                # Pipeline blank (fr/ar) + EntityRuler (ministères) + spans regex (dahir/loi/décret/arrêté/BO)
 
 # --- Étape 4 : NER statistique (AR) ---
-camel-tools>=1.5.0         # Requis par src/extraction/ner_statistical_ar.py (NERecognizer),
-                            # utilisé par etape4_pipeline.py pour les personnes/organisations en arabe.
+camel-tools>=1.5.0         # Requis par src/extraction/ner_statistical_ar.py (NERecognizer)
 
 # --- Étape 4 : NER statistique (FR) ---
 # Modèle spaCy entraîné requis par src/extraction/ner_statistical.py :
 #   python -m spacy download fr_core_news_md
 
-# --- Étape 5 : Classification ---
-# scikit-learn>=1.4.0
-# transformers>=4.40.0
-
-# --- Étape 6 : Recherche ---
+# --- Étape 6 : Recherche sémantique ---
 sentence-transformers>=3.0.0   # Embeddings multilingues (intfloat/multilingual-e5-base par défaut)
-faiss-cpu>=1.8.0                # Index vectoriel (IndexFlatIP, recherche exacte)
-# elasticsearch>=8.13.0         # Pas utilisé pour l'instant : FAISS + SQLite suffisent à cette échelle de corpus
+faiss-cpu>=1.8.0               # Index vectoriel (IndexFlatIP, recherche exacte)
 
-# --- Étape 7 : Interface ---
-# streamlit>=1.33.0
+# --- Scripts / data wrangling ---
+numpy>=1.26.0             # Scripts de pipeline et d'audit
+pandas>=2.0.0             # build_training_dataset, classification

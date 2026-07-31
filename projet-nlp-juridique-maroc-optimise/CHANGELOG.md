@@ -1,5 +1,20 @@
 # Corrections apportées à cette version
 
+0. **Réorganisation du dépôt (v5 → template GitHub centré chatbot)** :
+   - Les deux interfaces Flask fusionnées dans un package unique `app/`
+     (point d'entrée `python -m app.main`) :
+     `/` = chatbot RAG (`app/chat.py`), `/analyzer` = analyseur de BO
+     (`app/analyzer.py`), `lanceur_web.py` mis à jour en conséquence.
+   - UIs Streamlit (`app.py`) et Chainlit (`chainlit/`) supprimées — le
+     projet est désormais centré uniquement sur le chatbot LLM.
+   - Fichiers supprimés : `scripts/web_app.py`, `scripts/templates/`,
+     `app/flask_app.py`, scripts d'audit ponctuels, fichiers de test jetables.
+   - Ajouts : `README.md`, `LICENSE` (MIT), `.env.example`,
+     `src/rag/__init__.py`, `src/export/__init__.py`.
+   - `reports/pipeline_diagram.md` déplacé vers `docs/` ;
+     `CHANGELOG_OPTIMISATION.md` renommé en `CHANGELOG.md`.
+   - `requirements.txt` complété (flask, groq, python-dotenv, numpy, pandas).
+
 1. **scripts/run_ingestion_batch.py** : import cassé vers un module
    `pipeline_ingestion.py` qui n'existait plus (seul le `.pyc` traînait).
    `run_ingestion_pipeline` et `IngestionResult` ont été réimplémentés dans
@@ -267,7 +282,7 @@ granularité plus fin — ont été trouvés et corrigés :
 
 ### 1. Ordre des mots à l'intérieur d'une ligne (nouveau bug, distinct du précédent)
 
-M�me après la correction de l'entrelacement des 2 colonnes, certaines
+M�me après la correction de l'entrelacement des 2 colonnes, certaines
 lignes RTL (typiquement les lignes de référence "dahir/décret/arrêté n°
 X du [date hégirienne] ([date grégorienne])") ressortaient toujours dans
 le mauvais ordre : `"من23 صادر في943.26 والتجارة رقمةقرار لوزير الصناع"`
@@ -393,7 +408,7 @@ change quoi que ce soit pour le français, qui n'a jamais dépendu de
 
 ## Étape 5 (préparation) — Relecture manuelle du dataset arabe
 
-M�me démarche que pour le français : lecture du texte réel de chaque
+M�me démarche que pour le français : lecture du texte réel de chaque
 article arabe (pas seulement les scores de mots-clés) et correction du
 jeu de données `domain_dataset_final.csv` (679 lignes : 134 FR + 545 AR).
 

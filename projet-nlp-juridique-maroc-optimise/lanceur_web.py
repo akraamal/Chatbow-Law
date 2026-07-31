@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lanceur pour l'interface web d'analyse des BO marocains."""
+"""Lanceur de l'interface web ADLI Morocco (chatbot RAG + analyseur de BO)."""
 import subprocess
 import sys
 import threading
@@ -45,4 +45,4 @@ watcher = threading.Thread(target=_wait_for_server_then_open_browser, daemon=Tru
 watcher.start()
 
 # Run the Flask app as a module so imports resolve correctly
-subprocess.run([sys.executable, "-m", "scripts.web_app"], cwd=str(ROOT))
+subprocess.run([sys.executable, "-m", "app.main"], cwd=str(ROOT))

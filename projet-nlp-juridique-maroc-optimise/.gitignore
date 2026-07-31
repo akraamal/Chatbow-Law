@@ -1,10 +1,15 @@
+# Secrets
 .env
 
 # Virtual environment
 .venv/
+venv/
 
 # Regenerable data (PDFs + pipeline outputs)
 data/
+
+# OCR comparison outputs (scripts/compare_ocr_engines.py)
+testresults/
 
 # Downloaded models (fastText lid.176.bin, etc.)
 models/
@@ -12,12 +17,19 @@ models/
 # Python caches
 __pycache__/
 *.pyc
-
-# Temp / debug files
-tmp_audit_7522.py
-_tmp_audit_7492.py
-_tmp_debug_ref.py
-audit_stderr.txt
+*.pyo
 
 # Backup archives
 *.zip
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/settings.json
+
+# OS
+Thumbs.db
+.DS_Store

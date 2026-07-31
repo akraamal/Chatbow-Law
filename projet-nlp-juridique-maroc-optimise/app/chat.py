@@ -1,13 +1,8 @@
 """
-app/flask_app.py
---------------------
-Alternative Flask à l'interface Streamlit — mêmes données réelles
-(recherche sémantique étape 6 + chatbot RAG étape 7), juste une
-interface différente.
-
-Usage :
-    cd app && flask --app flask_app run --debug
-    (ou : python app/flask_app.py)
+app/chat.py
+--------------
+Chatbot RAG « ADLI Morocco » : routes Flask du chat juridique.
+Interface : app/templates/index.html + app/static/js/chat.js
 
 Nécessite :
     - un index de recherche déjà construit : python -m scripts.build_search_index
@@ -22,13 +17,13 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
-from flask import Flask, jsonify, render_template, request, send_file, abort
+from flask import Blueprint, abort, jsonify, render_template, request, send_file
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-app = Flask(__name__)
+chat_bp = Blueprint("chat", __name__)
 
 _chatbot = None
 _chatbot_error: str | None = None
@@ -55,13 +50,13 @@ def get_chatbot():
         return None, _chatbot_error
 
 
-@app.route("/")
+@chat_bp.route("/")
 def index():
     _, error = get_chatbot()
     return render_template("index.html", setup_error=error)
 
 
-@app.route("/api/chat", methods=["POST"])
+@chat_bp.route("/api/chat", methods=["POST"])
 def api_chat():
     data = request.get_json(silent=True) or {}
     query = (data.get("query") or "").strip()
@@ -83,7 +78,7 @@ def api_chat():
     return jsonify(result)
 
 
-@app.route("/download/<doc_id>")
+@chat_bp.route("/download/<doc_id>")
 def download_source(doc_id):
     """Sert le PDF source correspondant à doc_id, si présent dans data/raw/."""
     safe_id = Path(doc_id).name
@@ -92,7 +87,3 @@ def download_source(doc_id):
         if candidate.exists():
             return send_file(candidate, as_attachment=True, download_name=candidate.name)
     abort(404, description=f"PDF source introuvable pour {safe_id}")
-
-
-if __name__ == "__main__":
-    app.run(debug=True, port=5000)

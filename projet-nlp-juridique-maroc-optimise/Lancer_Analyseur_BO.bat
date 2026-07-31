@@ -1,9 +1,9 @@
 @echo off
-title Analyseur BO - NLP Juridique Marocain
+title ADLI Morocco - Chatbot RAG & Analyseur BO
 cd /d "%~dp0"
 echo ============================================
-echo   Analyseur de Bulletins Officiels
-echo   NLP Juridique Marocain
+echo   ADLI Morocco - NLP Juridique Marocain
+echo   Chatbot RAG + Analyseur de BO
 echo ============================================
 echo.
 python lanceur_web.py

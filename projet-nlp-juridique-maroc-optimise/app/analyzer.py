@@ -1,16 +1,13 @@
 #!/usr/bin/env python3
-"""Web interface for Moroccan NLP legal document analysis.
+"""Analyseur de Bulletins Officiels — routes Flask.
 
-Usage:
-    python scripts/web_app.py
-    -> Opens http://localhost:5000
+Upload d'un PDF du Bulletin Officiel, lancement du pipeline en arrière-plan
+(scripts/run_pipeline_complet.py), streaming des logs via SSE, puis
+visualisation des instruments, articles et entités extraits, avec un chat
+documentaire basé sur le document analysé.
 
-Upload a PDF BO (Bulletin Officiel) and instantly see extracted:
-    - Instruments (Dahirs, Lois, Décrets, Arrêtés) with references
-    - Articles with highlighted entities
-    - Entity counts and statistics
+Interface : app/templates/analyzer.html
 """
-
 import json
 import os
 import subprocess
@@ -21,14 +18,14 @@ import uuid
 from pathlib import Path
 
 import flask
+from flask import Blueprint
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
 ANNOTATED_DIR = PROJECT_ROOT / "data" / "annotated"
 
-app = flask.Flask(__name__)
-app.config["MAX_CONTENT_LENGTH"] = 50 * 1024 * 1024  # 50 MB
+analyzer_bp = Blueprint("analyzer", __name__)
 
 # ── In-memory task store ──────────────────────────────────────────────
 
@@ -150,12 +147,12 @@ def _run_pipeline_task(tid: str, pdf_path: Path):
 
 # ── Routes ────────────────────────────────────────────────────────────
 
-@app.route("/")
+@analyzer_bp.route("/analyzer")
 def index():
-    return flask.render_template("index.html")
+    return flask.render_template("analyzer.html")
 
 
-@app.route("/upload", methods=["POST"])
+@analyzer_bp.route("/upload", methods=["POST"])
 def upload():
     if "file" not in flask.request.files:
         return {"error": "Aucun fichier fourni"}, 400
@@ -179,7 +176,7 @@ def upload():
     return flask.jsonify({"task_id": tid})
 
 
-@app.route("/stream/<task_id>")
+@analyzer_bp.route("/stream/<task_id>")
 def stream(task_id: str):
     """SSE endpoint: yields log lines in real-time, then done/error event."""
 
@@ -235,7 +232,7 @@ def stream(task_id: str):
     )
 
 
-@app.route("/result/<task_id>")
+@analyzer_bp.route("/result/<task_id>")
 def result(task_id: str):
     task = _tasks.get(task_id)
     if not task:
@@ -363,12 +360,12 @@ def build_response(data: dict) -> dict:
     }
 
 
-@app.route("/health")
+@analyzer_bp.route("/health")
 def health():
     return {"ok": True}
 
 
-# ── Chatbot ────────────────────────────────────────────────────────────
+# ── Chatbot documentaire (règles, basé sur le document analysé) ───────
 
 def _search_articles(data: dict, query: str) -> list:
     """Return articles whose text or number matches query (case-insensitive)."""
@@ -446,7 +443,7 @@ def _chat_answer(data: dict, question: str) -> str:
            "- « Article 5 »\n- « Recherche [mot-clé] »\n- « BO numéro ? »"
 
 
-@app.route("/chat", methods=["POST"])
+@analyzer_bp.route("/chat", methods=["POST"])
 def chat():
     body = flask.request.get_json(silent=True) or {}
     question = (body.get("question") or "").strip()
@@ -463,13 +460,3 @@ def chat():
 
     answer = _chat_answer(data, question)
     return flask.jsonify({"answer": answer})
-
-
-if __name__ == "__main__":
-    print(f"  -> http://localhost:5000")
-    # use_reloader=False: with the reloader on, Werkzeug forks a second
-    # process that re-imports everything (spaCy, camel-tools, etc.) before
-    # actually binding the port, which delays startup further and can
-    # produce a stale/duplicate process. Since lanceur_web.py already waits
-    # on /health before opening the browser, we don't need the reloader.
-    app.run(debug=True, use_reloader=False, host="0.0.0.0", port=5000, threaded=True)
