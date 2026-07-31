@@ -35,8 +35,10 @@ OPTIONAL_ARTICLE_FIELDS = {
 REQUIRED_INSTRUMENT_FIELDS = {
     "instrument_type": str,
     "reference": (str, type(None)),
-    "articles": list,
     "instrument_id": str,
+    # Les instruments produisent `article_indices` (indices dans l'array
+    # plat data["articles"]) depuis le refactor de _group_into_instruments.
+    "article_indices": list,
 }
 
 REQUIRED_DOC_FIELDS = {
@@ -93,8 +95,9 @@ def validate_enriched_json(path: Path) -> list[str]:
                     errors += [f"instruments[{i}].{field}: {e}" for e in errs]
 
             # Check that instrument articles have page info (optional)
-            nm = sum(1 for a in instr.get("articles", []) if a.get("pdf_page"))
-            if nm == 0 and len(instr.get("articles", [])) > 0:
+            art_idxs = instr.get("article_indices", [])
+            nm = sum(1 for a in data.get("articles", []) if a.get("pdf_page"))
+            if nm == 0 and len(art_idxs) > 0:
                 pass  # acceptable — page backfill may not have run
 
         # Check instrument_id uniqueness

@@ -132,10 +132,16 @@ def process_pdf(pdf_path: str):
     # 3. OCR
     # ----------------------------------------------------------
 
-    document = ocr_missing_pages(
-        pdf_path,
-        document
-    )
+    try:
+        document = ocr_missing_pages(
+            pdf_path,
+            document
+        )
+    except Exception as e:
+        # Un échec OCR ne doit JAMAIS perdre le document : on conserve le
+        # texte natif tel quel (les pages vides resteront vides, mais le
+        # reste du pipeline peut continuer) au lieu de crasher process_pdf.
+        print(f"    --> OCR échoué ({type(e).__name__}: {e}) — texte natif conservé")
 
     # ----------------------------------------------------------
     # 3bis. Extraction des tableaux + retrait de leurs blocs du texte

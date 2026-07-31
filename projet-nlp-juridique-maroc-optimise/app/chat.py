@@ -60,7 +60,10 @@ def index():
 def api_chat():
     data = request.get_json(silent=True) or {}
     query = (data.get("query") or "").strip()
-    history = data.get("history") or []
+    # Plafond serveur (défense en profondeur, même si le client est bridé) :
+    # un historique interminable renchérirait chaque reformulation et
+    # offrirait une surface d'injection inutile.
+    history = (data.get("history") or [])[-8:]
     lang = data.get("lang") or None
 
     if not query:

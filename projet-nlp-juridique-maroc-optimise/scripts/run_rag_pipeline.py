@@ -33,7 +33,7 @@ def _load_all_enriched_jsons() -> tuple[list[dict], dict[str, list[dict]]]:
     """
     articles = []
     doc_unlinked: dict[str, list[dict]] = {}
-    for p in sorted(ANNOTATED_DIR.glob("*_entities.json")):
+    for p in sorted(ANNOTATED_DIR.glob("**/*_entities.json")):
         with open(p, encoding="utf-8") as f:
             data = json.load(f)
         doc_id = data.get("doc_id", p.stem)

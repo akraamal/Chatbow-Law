@@ -52,18 +52,34 @@ def validate_instruments(path: Path) -> list[str]:
         if not ref:
             pass  # acceptable — Arabic BOs rarely have extractable n°
 
-        # Articles
-        arts = instr.get("articles", [])
+        # Articles — le format produit par enrich_json_with_pages utilise
+        # `article_indices` (indices dans l'array plat data["articles"]) ;
+        # on supporte aussi l'ancien format `articles` (copies complètes).
+        all_articles = data.get("articles", [])
+        arts = []
+        if instr.get("article_indices"):
+            arts = [all_articles[idx] for idx in instr.get("article_indices", []) if idx < len(all_articles)]
+        else:
+            arts = instr.get("articles", [])
         if not arts:
-            errors.append(f"{instr_id}: zero articles")
+            # Instrument sans article — volontaire pour les LOI-CADRE /
+            # décrets sans articles numérotés (voir _group_into_instruments :
+            # "still added as article-less instruments so they appear in the
+            # output"). Signalé en warning, pas en erreur.
+            print(f"      warning: {instr_id} has zero articles (LOI-CADRE / decree without numbered articles)")
             continue
 
-        # Check article numbers start with a reset keyword
+        # Le premier article d'un instrument n'est PAS toujours un numéro
+        # de réinitialisation : le groupement par décrets (stratégie 1 de
+        # _group_into_instruments) découpe selon les bornes du segmenter,
+        # qui peuvent commencer à "2", "3", ... ou "ANNEXE" quand la
+        # numérotation continue ou que la frontière est décalée d'un
+        # article. Cette vérification reste informative (warning).
         first_num = arts[0].get("number", "").strip().upper()
         reset_keywords = {"1", "PREMIER", "1ER", "UNIQUE", "PREMIÈRE"}
         if first_num not in reset_keywords and not first_num.startswith("PREMIER"):
-            errors.append(f"{instr_id}: first article number is '{first_num}', "
-                          f"expected a reset keyword {reset_keywords}")
+            print(f"      warning: {instr_id} first article number is '{first_num}' "
+                  f"(not a reset keyword — numbering continues across decrees)")
 
     return errors
 

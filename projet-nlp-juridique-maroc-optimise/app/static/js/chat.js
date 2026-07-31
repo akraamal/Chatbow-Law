@@ -214,7 +214,9 @@
       const response = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ query, history }),
+        // Historique plafonné aux 8 derniers tours (coût de la reformulation
+        // et surface d'injection) ; lang transmet le toggle FR/AR réellement.
+        body: JSON.stringify({ query, history: history.slice(-8), lang: uiLang }),
       });
       data = await response.json();
       if (!response.ok) {
@@ -232,6 +234,7 @@
     addBotMessage(data.answer, data.sources);
     updateAnalysisPanel(data.sources);
     history.push({ question: query, answer: data.answer });
+    if (history.length > 8) history.splice(0, history.length - 8);
   }
 
   formEl.addEventListener("submit", (e) => {

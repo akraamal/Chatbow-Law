@@ -148,14 +148,14 @@ def _split_oversized_article(article, max_chars=MAX_ARTICLE_CHARS):
             chunks.append(head.strip())
             continue
 
-        # 2) Try to split on an all-caps heading line
-        caps_heading = re.search(
-            r"\n(?:TITRE|CHAPITRE|SECTION|ANNEXE|APPENDICE)\b",
-            chunk[::-1],
-            re.IGNORECASE,
-        )
+        # 2) Try to split on an all-caps heading line (last occurrence).
+        #    (Avant : le pattern était cherché dans chunk[::-1] — la chaîne
+        #    inversée — donc ne matchait JAMAIS : branche morte.)
+        caps_heading = None
+        for m in re.finditer(r"\n(?:TITRE|CHAPITRE|SECTION|ANNEXE|APPENDICE)\b", chunk, re.IGNORECASE):
+            caps_heading = m
         if caps_heading:
-            pos = len(chunk) - caps_heading.start()
+            pos = caps_heading.start()
             head, remaining = remaining[:pos], remaining[pos:]
             chunks.append(head.strip())
             continue
@@ -238,6 +238,15 @@ ARTICLE_PATTERN_FR = re.compile(
 DOCUMENT_TITLE_PATTERN_FR = re.compile(
     r"^[ \t]*(?:Arr[eê]t[eé]|D[eé]cret|Dahir|D[eé]cision|R[eè]glement|Avis|Circulaire|Annexe)\b",
     re.MULTILINE | re.IGNORECASE,
+)
+
+# Équivalent arabe pour les titres de textes juridiques du BO (ظهير/مرسوم/
+# قرار/قانون/أمر/منشور/بلاغ) en tête de ligne. L'arabe n'a pas de casse :
+# l'ancrage en début de ligne (^) suffit à écarter les citations en milieu
+# de phrase (« وكذا القانون رقم ... »).
+DOCUMENT_TITLE_PATTERN_AR = re.compile(
+    r"^[ \t]*(?:ظهير|مرسوم|قرار|مقرر|قانون|أمر|منشور|بلاغ)\b",
+    re.MULTILINE,
 )
 
 
@@ -414,11 +423,15 @@ def _filter_article_matches(text: str, lang: str = "fr") -> list:
         # Must be at line start
         if not (pos == 0 or text[pos - 1] in "\n\r"):
             continue
-        # Keyword must start with uppercase
-        match_text = m.group(1).strip()
-        first_word = match_text.split()[0] if match_text else ""
-        if not first_word or not first_word[0].isupper():
-            continue
+        # Keyword must start with uppercase — French only. Arabic has no
+        # case distinction: .isupper() is always False on Arabic letters,
+        # which rejected every Arabic marker and made get_preamble() return
+        # the whole document (and get_per_decree_preamble_map() nothing).
+        if lang == "fr":
+            match_text = m.group(1).strip()
+            first_word = match_text.split()[0] if match_text else ""
+            if not first_word or not first_word[0].isupper():
+                continue
         # Must not be inside guillemets
         if _inside_guillemets(text, pos):
             continue
@@ -630,6 +643,17 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
     if not matches:
         return []
 
+    title_pattern = DOCUMENT_TITLE_PATTERN_FR if lang == "fr" else DOCUMENT_TITLE_PATTERN_AR
+
+    def _title_matches(region: str) -> list:
+        # Français : ne garder que les titres à majuscule (les minuscules
+        # comme "loi n° 17-99 portant..." sont des citations). Arabe :
+        # pas de casse, l'ancrage début de ligne du pattern suffit.
+        return [
+            m for m in title_pattern.finditer(region)
+            if lang == "ar" or m.group().strip()[0].isupper()
+        ]
+
     sommaire_end = _skip_sommaire(text)
     decrees = []
 
@@ -652,10 +676,7 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
         # The FIRST match is the document title; subsequent matches are
         # typically enactment verbs ("ARRÊTE :", "DÉCRÈTE :") or other
         # occurrences within the preamble — we skip those.
-        doc_matches_in_gap = [
-            m for m in DOCUMENT_TITLE_PATTERN_FR.finditer(gap)
-            if m.group().strip()[0].isupper()
-        ]
+        doc_matches_in_gap = _title_matches(gap)
         if doc_matches_in_gap:
             first_doc = doc_matches_in_gap[0]
             title = first_doc.group().strip()
@@ -681,10 +702,7 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
     if matches:
         last_art_end = matches[-1].end()
         remaining = text[last_art_end:]
-        remaining_titles = [
-            m for m in DOCUMENT_TITLE_PATTERN_FR.finditer(remaining)
-            if m.group().strip()[0].isupper()
-        ]
+        remaining_titles = _title_matches(remaining)
         for ti, dm in enumerate(remaining_titles):
             dm_start = last_art_end + dm.start()
             if ti + 1 < len(remaining_titles):

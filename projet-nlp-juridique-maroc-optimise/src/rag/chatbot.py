@@ -37,6 +37,12 @@ NO_RESULT_MESSAGE = (
     "vérifie que le domaine concerné est bien couvert par les documents indexés."
 )
 
+NO_RESULT_MESSAGE_AR = (
+    "لم أتمكن من العثور على معلومات كافية وذات صلة في الوثائق المفهرسة "
+    "للإجابة على هذا السؤال. حاول إعادة صياغته، أو تأكد من أن المجال "
+    "المعني مغطى بالوثائق المفهرسة."
+)
+
 # Utilisé uniquement quand un historique de conversation est fourni, pour
 # reformuler une question de suivi ("et pour les décrets ?") en requête
 # autonome exploitable par le retrieval sémantique seul.
@@ -52,7 +58,7 @@ def _load_doc_unlinked(annotated_dir: str | Path = "data/annotated") -> dict[str
     """Load document-level unlinked_tables from enriched JSONs."""
     import json
     doc_unlinked: dict[str, list[dict]] = {}
-    for p in sorted(Path(annotated_dir).glob("*_entities.json")):
+    for p in sorted(Path(annotated_dir).glob("**/*_entities.json")):
         try:
             with open(p, encoding="utf-8") as f:
                 data = json.load(f)
@@ -89,7 +95,12 @@ class LegalRAGChatbot:
         """
         turns = "\n".join(f"Q: {t['question']}\nR: {t['answer']}" for t in history)
         prompt = f"Historique :\n{turns}\n\nDernière question : {query}\n\nQuestion reformulée :"
-        reformulated = self.llm.generate(REFORMULATION_SYSTEM_INSTRUCTION, prompt).strip()
+        try:
+            reformulated = self.llm.generate(REFORMULATION_SYSTEM_INSTRUCTION, prompt).strip()
+        except Exception:
+            # Panne LLM : on replie sur la question brute plutôt que de casser
+            # toute la requête (l'historique est un bonus, pas une condition).
+            return query
         return reformulated or query  # repli sur la question brute si la reformulation échoue
 
     def answer(
@@ -108,8 +119,14 @@ class LegalRAGChatbot:
 
         results = self.search_engine.search(search_query, top_k=top_k or self.top_k, lang=lang)
 
-        if not results or results[0]["score"] < self.score_threshold:
-            return {"answer": NO_RESULT_MESSAGE, "sources": [], "query_used": search_query}
+        # Garde-fou anti-hallucination : appliqué à TOUS les résultats, pas
+        # seulement au premier — un hit sous le seuil n'a pas sa place dans
+        # le contexte du prompt.
+        results = [r for r in results if r["score"] >= self.score_threshold]
+
+        if not results:
+            no_result = NO_RESULT_MESSAGE_AR if lang == "ar" else NO_RESULT_MESSAGE
+            return {"answer": no_result, "sources": [], "query_used": search_query}
 
         system_instruction, user_prompt = build_prompt(
             search_query, results, doc_unlinked=self.doc_unlinked, max_context_chars=MAX_CONTEXT_CHARS

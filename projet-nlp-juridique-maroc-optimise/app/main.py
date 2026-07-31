@@ -34,4 +34,7 @@ if __name__ == "__main__":
     # actually binding the port, which delays startup further and can
     # produce a stale/duplicate process. Since lanceur_web.py already waits
     # on /health before opening the browser, we don't need the reloader.
-    app.run(debug=True, use_reloader=False, host="0.0.0.0", port=5000, threaded=True)
+    # debug=False: debug=True expose le débogueur interactif Werkzeug
+    # (console Python exécutable à distance via les pages d'erreur) sur le
+    # réseau — RCE dès que l'app est joignable hors localhost.
+    app.run(use_reloader=False, host="0.0.0.0", port=5000, threaded=True)

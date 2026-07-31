@@ -20,14 +20,11 @@ DEFAULT_MODEL_NAME = "qwen/qwen3.6-27b"
 DEFAULT_TEMPERATURE = 0.2
 DEFAULT_MAX_OUTPUT_TOKENS = 1024
 
-# qwen/qwen3.6-27b sur le tier on_demand de Groq est plafonné à 8000 TPM —
-# assez bas. Le retry ci-dessous absorbe les 429 transitoires (pic de
-# trafic), mais si tu vois des 429 en continu même avec un prompt réduit
-# (cf. prompt_builder.MAX_CONTEXT_CHARS), la vraie solution est de changer
-# de modèle (llama-3.3-70b a un tier TPM plus élevé sur Groq) ou de passer
-# au Dev Tier payant.
+# qwen/qwen3.6-27b (préversion Groq) — le retry ci-dessous absorbe les 429
+# transitoires (pic de trafic) et les erreurs réseau/5xx passagères.
 MAX_RETRIES = 3
 RETRY_BASE_DELAY_SECONDS = 2.0
+REQUEST_TIMEOUT_SECONDS = 60.0
 
 
 class LLMClient:
@@ -65,10 +62,10 @@ class LLMClient:
         self.model_name = model_name
         self.temperature = temperature
         self.max_output_tokens = max_output_tokens
-        self._client = Groq(api_key=api_key)
+        self._client = Groq(api_key=api_key, timeout=REQUEST_TIMEOUT_SECONDS)
 
     def generate(self, system_instruction: str, user_prompt: str) -> str:
-        from groq import RateLimitError
+        from groq import APIConnectionError, APIStatusError, RateLimitError
 
         safe_prompt = user_prompt or "(requête vide)"
         safe_instruction = system_instruction or "Tu es un assistant."
@@ -87,12 +84,20 @@ class LLMClient:
                 )
                 return response.choices[0].message.content or ""
             except RateLimitError as e:
+                retryable, last_error = True, e
+            except APIConnectionError as e:
+                # Réseau, DNS, TLS, timeout serveur — transitoire.
+                retryable, last_error = True, e
+            except APIStatusError as e:
+                # 4xx (clé invalide, contexte trop long) : définitif ;
+                # 5xx : transitoire.
+                retryable = e.status_code >= 500
                 last_error = e
-                if attempt == MAX_RETRIES - 1:
-                    break
-                # Backoff exponentiel simple ; Groq renvoie parfois un
-                # Retry-After mais on reste conservateur si absent.
-                delay = RETRY_BASE_DELAY_SECONDS * (2**attempt)
-                time.sleep(delay)
+            except Exception as e:
+                retryable, last_error = False, e
+            if not retryable or attempt == MAX_RETRIES - 1:
+                break
+            # Backoff exponentiel (429 = rate limit, 5xx/réseau = pic transitoire)
+            time.sleep(RETRY_BASE_DELAY_SECONDS * (2**attempt))
 
-        raise last_error  # tous les essais ont échoué avec un 429
+        raise last_error  # tous les essais ont échoué

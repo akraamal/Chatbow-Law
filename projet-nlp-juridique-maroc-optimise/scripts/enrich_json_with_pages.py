@@ -77,9 +77,15 @@ def _article_signature(text: str, max_chars: int = 40) -> str:
     return sig[:max_chars]
 
 
-def _article_signature_ngrams(text: str, n: int = 10) -> set[str]:
+def _article_signature_ngrams(text: str, n: int = 4) -> set[str]:
     """Overlapping n-gram fingerprint of the article text, used as a
-    fuzzy fallback when the exact 40-char substring match fails."""
+    fuzzy fallback when the exact 40-char substring match fails.
+
+    ``n`` is 4 by default: the native text of scanned pages carries OCR
+    noise (Arabic ligatures lam-alef / hamza, hyphenation, column
+    reordering) that breaks longer n-grams, while 4-grams survive and
+    still separate true pages from noise.
+    """
     flat = re.sub(r"\s+", " ", text).strip().lower()
     return {flat[i:i+n] for i in range(len(flat) - n + 1)} if len(flat) >= n else {flat}
 
@@ -93,12 +99,14 @@ def _backfill_pages(
     Assign `pdf_page` and `printed_page` to each article by matching
     article text against each PDF page's native text.
 
-    Uses a three-tier strategy:
-      1. Exact 40-char signature substring (fast, works for most articles).
-      2. Overlapping 10-gram scoring (robust against whitespace, hyphenation,
-         and column-reordering differences between ``get_text("text")`` and
-         the ingestion pipeline's ``get_text("rawdict")`` path).
-      3. Short 20-char signature substring (broad fallback).
+    Uses a two-tier strategy:
+      1. Global max over pages ≥ last_page-1 — exact 40-char signature
+         scores 100%, 4-gram overlap scores its ratio; the 7-page-window
+         argmax wins when it reaches 90% of the global max (local evidence
+         beats distant annex repeats), otherwise the global max page wins
+         (handles sparse documents with repeated form articles).
+      2. Short 20-char signature substring (broad fallback, mainly for
+         articles too short for n-gram scoring).
 
     Returns articles enriched with page info.
     """
@@ -114,6 +122,30 @@ def _backfill_pages(
             page_texts.append(raw)
             page_texts_flat.append(raw.replace("\n", " ").replace("\r", " "))
 
+    # Les articles sont dans l'ordre du document : leurs pages doivent être
+    # monotones non décroissantes. On ne cherche donc JAMAIS un article sur
+    # une page antérieure à celle du dernier article mappé — cela élimine
+    # les faux positifs du fallback (signatures courtes de phrases répétées
+    # comme « Il sera publié au Bulletin officiel » ou les en-têtes du
+    # sommaire, retrouvées par erreur sur la page de couverture).
+    #
+    # Fenêtre : le scan commence à last_page - 1 — l'article courant peut
+    # très bien commencer sur la MÊME page que le précédent (et même en
+    # chevaucher la fin). Toute affectation inférieure à last_page est
+    # remontée à last_page (clamp) : la suite reste monotone non décroissante.
+    #
+    # Piège des textes répétés : un article dont le texte est reproduit
+    # plus loin (annexe, liste de renvois) obtient une correspondance
+    # EXACTE sur la page lointaine alors que sa position réelle est proche
+    # de last_page. Pour trancher, on garde le maximum GLOBAL (la page vraie
+    # domine le sommaire et les reproductions — 65-97 % FR / 45-82 % AR)
+    # mais l'argmax de la fenêtre locale de 7 pages prime dès qu'il atteint
+    # 90 % du maximum global : l'occurrence proche du flux du document
+    # l'emporte, sauf quand la page lointaine est nettement plus forte
+    # (documents épars dont les formulaires d'arrêtés se répètent).
+    last_page = 0
+    n_pages = len(page_texts_flat)
+
     for art in articles:
         sig = _article_signature(art.get("text", ""))
         if not sig:
@@ -121,39 +153,76 @@ def _backfill_pages(
             art["printed_page"] = None
             continue
 
-        # Tier 1: exact 40-char substring
-        best_page = None
-        for p_idx, flat in enumerate(page_texts_flat):
-            if sig in flat:
-                best_page = p_idx + 1
-                break
+        search_from = max(0, last_page - 1)
 
-        # Tier 2: n-gram scoring
-        if best_page is None and len(sig) >= 30:
-            sig_ngrams = _article_signature_ngrams(art.get("text", ""), n=10)
+        # N-gram fingerprint (only meaningful for articles >= 30 chars).
+        # 4-grammes : le texte natif des pages scannées est bruité par
+        # l'OCR (ligatures lam-alef, diacritiques, césures) — les 10-grammes
+        # tombaient à 20-30 % sur la BONNE page en arabe. La page vraie
+        # marque 65-97 % (FR) / 45-82 % (AR), alors que le sommaire de la
+        # couverture (titres répétés) marque 30-67 % : aucun seuil global ne
+        # les sépare — on prend donc le MAXIMUM sur une fenêtre locale de
+        # 7 pages, la page vraie dominant toujours les pages de couverture.
+        sig_ngrams = None
+        if len(sig) >= 30:
+            sig_ngrams = _article_signature_ngrams(art.get("text", ""))
             if sig_ngrams:
-                best_score = 0
-                for p_idx, flat in enumerate(page_texts_flat):
-                    flat_lower = flat.lower()
-                    score = sum(1 for g in sig_ngrams if g in flat_lower)
-                    if score > best_score:
-                        best_score = score
-                        best_page = p_idx + 1
-                # Require at least 30% of n-grams to match
-                threshold = max(3, len(sig_ngrams) * 0.30)
-                if best_score < threshold:
-                    best_page = None
+                # Plancher faible (20 %) : certaines régions du PDF (pages
+                # scannées par un OCR différent) tombent à 25-40 % même sur
+                # la bonne page ; le max local + la fenêtre monotone
+                # suffisent à écarter sommaire et reproductions lointaines.
+                ngram_floor = max(3, len(sig_ngrams) * 0.20)
 
-        # Tier 3: short 20-char fallback
+        best_page = None
+        if sig_ngrams:
+            # Tier A: score par page = 100 % si signature exacte, sinon
+            # ratio de n-grammes. On garde le MAXIMUM GLOBAL (la page vraie
+            # domine toujours — 65-97 % FR / 45-82 % AR) MAIS l'argmax de la
+            # fenêtre locale de 7 pages l'emporte quand il atteint 90 % du
+            # maximum global : cela préserve la monotonie (page vraie 96-99 %
+            # contre reproduction d'annexe à 100 %) tout en rattrapant les
+            # documents épars (formulaires d'arrêtés répétés à 53 % en
+            # local contre 89 % sur la page vraie 7 pages plus loin).
+            global_page = None
+            global_score = 0
+            local_page = None
+            local_score = 0
+            window_end = min(search_from + 7, n_pages)
+            for p_idx in range(search_from, n_pages):
+                flat = page_texts_flat[p_idx]
+                if sig in flat:
+                    score = 1.0
+                else:
+                    flat_lower = flat.lower()
+                    score = sum(1 for g in sig_ngrams if g in flat_lower) / len(sig_ngrams)
+                if score > global_score:
+                    global_score = score
+                    global_page = p_idx + 1
+                if p_idx < window_end and score > local_score:
+                    local_score = score
+                    local_page = p_idx + 1
+            if global_page and global_score * len(sig_ngrams) >= ngram_floor:
+                if local_page and local_score >= 0.9 * global_score:
+                    best_page = local_page
+                else:
+                    best_page = global_page
+
+        # Tier B: short 20-char fallback (window restreint aux pages >=
+        # last_page pour éviter les retours arrière) — sert surtout aux
+        # articles trop courts pour le score de n-grammes
         if best_page is None:
             sig_short = sig[:20]
-            for p_idx, flat in enumerate(page_texts_flat):
-                if sig_short in flat:
+            for p_idx in range(search_from, n_pages):
+                if sig_short in page_texts_flat[p_idx]:
                     best_page = p_idx + 1
                     break
 
         art["pdf_page"] = best_page
         art["printed_page"] = printed_pages.get(best_page) if best_page else None
+        if best_page:
+            if best_page < last_page:
+                best_page = last_page  # clamp — jamais de retour arrière
+            last_page = best_page
 
     return articles
 
@@ -309,16 +378,16 @@ def _extract_reference(text: str, instr_type: str) -> str | None:
     and return the first reference number found there (2-part or 3-part).
     """
     type_pat = re.compile(
-        r"(?:D[ée]cret|Arr[êe]t[ée](?:\s+conjoint)?|"
+        r"(?:^|\n)\s*(Loi(?:-cadre)?|D[ée]cret|Arr[êe]t[ée](?:\s+conjoint)?|"
         r"Dahir|Circulaire|D[ée]cision)",
-        re.IGNORECASE,
+        re.IGNORECASE | re.MULTILINE,
     )
     type_match = type_pat.search(text)
     if not type_match:
         return None
 
     # Text from TYPE keyword up to first "Vu" clause (the instrument's own header)
-    type_pos = type_match.start()
+    type_pos = type_match.start(1)
     vu_pos = text.upper().find("VU", type_pos)
     if vu_pos < 0:
         own_text = text[type_pos:]
@@ -326,23 +395,32 @@ def _extract_reference(text: str, instr_type: str) -> str | None:
         own_text = text[type_pos:vu_pos]
 
     # Try 3-part number first (most common for moroccan legal refs)
-    m = re.search(r"(?:n[°oº]\s*)?(\d{1,4}[-–.]\d{2}[-–.]\d{2,4})", own_text)
-    if m and not _ref_is_false_positive(m.group(1)):
+    m = re.search(r"(?i:n[°oº]\s*)?(\d{1,4}[-–.]\d{2}[-–.]\d{2,4})", own_text)
+    if m and not _ref_is_false_positive(m, own_text):
         return m.group(1)
 
     # Then try 2-part number (e.g. "Arrêté n° 168-26")
-    m = re.search(r"(?:n[°oº]\s*)?(\d{1,4}[-–.]\d{2,4})", own_text)
-    if m and not _ref_is_false_positive(m.group(1)):
+    m = re.search(r"(?i:n[°oº]\s*)?(\d{1,4}[-–.]\d{2,4})", own_text)
+    if m and not _ref_is_false_positive(m, own_text):
         return m.group(1)
 
     return None
 
 
-def _ref_is_false_positive(ref: str) -> bool:
-    """Return True if *ref* is a monetary amount, date, or page range."""
-    # Monetary amount like "95.000" (the leading part of 95.000.000,00)
-    if re.match(r"^\d{1,4}\.000", ref):
-        return True
+def _ref_is_false_positive(match: re.Match, text: str) -> bool:
+    """Return True if *ref* is a monetary amount, date, or page range.
+
+    A number directly preceded by "n°" (e.g. "Loi n° 2-25") is a legal
+    reference, NOT a page range or a date — those never carry the "n°"
+    prefix. Without this check, the "écart < 100" heuristic below would
+    reject every short 2-part reference like 2-25 (écart 23).
+    """
+    ref = match.group(1)
+    if re.match(r"(?i)n[°ºo]", match.group(0)):
+        return False
+    before = text[max(0, match.start() - 5):match.start()]
+    if re.search(r"(?i)n\s*[°ºo]\s*$", before):
+        return False
     # Date like "6-10-2022" or "01-01-2022"
     parts = re.split(r"[-–.]", ref)
     if len(parts) == 3 and all(p.isdigit() for p in parts):

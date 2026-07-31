@@ -617,7 +617,10 @@ def enrich_article_json(
     else:
         try:
             persons, orgs_stat = _NER_MODULES[lang].extract_persons_orgs(full_text)
-        except ImportError as e:
+        except (ImportError, OSError) as e:
+            # OSError = modèle spaCy absent (spacy.load("fr_core_news_md")
+            # lève OSError E050 si le modèle n'est pas installé) ; on dégrade
+            # proprement au lieu de faire échouer tout l'enrichissement.
             if lang not in _NER_UNAVAILABLE_WARNED:
                 _NER_UNAVAILABLE_WARNED.add(lang)
                 logger.warning(

@@ -36,6 +36,39 @@ _tasks_lock = threading.Lock()
 _chat_contexts: dict[str, dict] = {}
 _chat_lock = threading.Lock()
 
+# Pipeline simultanés max : chaque run charge spaCy + camel-tools en
+# sous-processus (plusieurs Go de RAM) — sans limite, 5 uploads simultanés
+# font planter la machine. Les demandes en excès attendent un slot.
+_MAX_CONCURRENT_PIPELINES = 2
+_pipeline_slots = threading.Semaphore(_MAX_CONCURRENT_PIPELINES)
+
+# TTL de nettoyage : une tâche jamais consommée par /result (onglet fermé)
+# ou un contexte de chat jamais réutilisé ne doivent pas rester en RAM
+# indéfiniment.
+_TASK_TTL_SECONDS = 2 * 3600
+_CHAT_CONTEXT_TTL_SECONDS = 24 * 3600
+_JANITOR_INTERVAL_SECONDS = 300
+
+
+def _janitor_loop():
+    """Purge périodique de _tasks et _chat_contexts (fuites mémoire quand
+    le navigateur ferme l'onglet sans consommer /result ni /chat)."""
+    while True:
+        time.sleep(_JANITOR_INTERVAL_SECONDS)
+        now = time.time()
+        with _tasks_lock:
+            for tid in list(_tasks):
+                if now - _tasks[tid].get("created_at", now) > _TASK_TTL_SECONDS:
+                    _tasks.pop(tid, None)
+        with _chat_lock:
+            for doc_id in list(_chat_contexts):
+                if now - _chat_contexts[doc_id].get("_created_at", now) > _CHAT_CONTEXT_TTL_SECONDS:
+                    _chat_contexts.pop(doc_id, None)
+
+
+_janitor_thread = threading.Thread(target=_janitor_loop, daemon=True)
+_janitor_thread.start()
+
 
 def _new_task() -> str:
     tid = uuid.uuid4().hex[:12]
@@ -45,6 +78,7 @@ def _new_task() -> str:
             "done": False,
             "error": None,
             "result_path": None,
+            "created_at": time.time(),
         }
     return tid
 
@@ -94,6 +128,19 @@ def _run_pipeline_task(tid: str, pdf_path: Path):
     _append_log(tid, f"  Fichier : {pdf_path.name}")
     _append_log(tid, f"  Lancement du pipeline...")
     _append_log(tid, "")
+
+    # Limite la RAM : attendre un slot au lieu d'enchaîner les pipelines.
+    if not _pipeline_slots.acquire(timeout=0):
+        _append_log(tid, f"  Limite de {_MAX_CONCURRENT_PIPELINES} pipelines simultanés atteinte — file d'attente...")
+        _pipeline_slots.acquire()
+
+    try:
+        _run_pipeline_subprocess(tid, pdf_path)
+    finally:
+        _pipeline_slots.release()
+
+
+def _run_pipeline_subprocess(tid: str, pdf_path: Path):
 
     # -u + PYTHONUNBUFFERED: without this, stdout is fully buffered because
     # it's a pipe rather than a TTY. Long silent steps (like OCR) then
@@ -249,21 +296,17 @@ def result(task_id: str):
     with open(result_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Store chat context before cleanup
+    # Cache du contexte chat (TTL géré par le janitor ci-dessus)
     doc_id = data.get("doc_id", "")
     if doc_id:
+        data["_created_at"] = time.time()
         with _chat_lock:
             _chat_contexts[doc_id] = data
 
-    # Clean up result file
-    try:
-        Path(result_path).unlink()
-    except Exception:
-        pass
-
-    # Clean up task from memory
-    with _tasks_lock:
-        _tasks.pop(task_id, None)
+    # Note : le fichier de résultat n'est PLUS supprimé et la tâche n'est
+    # PLUS dépilée ici — un second onglet / un rafraîchissement rechargent
+    # le même résultat au lieu d'obtenir un 404 + fichier perdu. Le
+    # nettoyage mémoire est confié au janitor (TTL).
 
     return flask.jsonify(build_response(data))
 

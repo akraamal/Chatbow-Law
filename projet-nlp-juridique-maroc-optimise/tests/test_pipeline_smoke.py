@@ -21,7 +21,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from src.ingestion.pipeline import run_ingestion_pipeline
 from src.preprocessing.segmenter import segment_into_articles, get_preamble
-from src.extraction.etape4_pipeline import extract_article_entities
+from src.extraction.etape4_pipeline import enrich_article_json
 
 SMALL_PDF = "data/raw/BO_7500_Fr.pdf"
 
@@ -49,11 +49,10 @@ def test_smoke_pipeline():
 
     # Step 3: Extraction on first 3 articles
     for i, art in enumerate(articles[:3]):
-        enriched = extract_article_entities(
+        enriched = enrich_article_json(
             article=art,
+            full_text=art.get("text", ""),
             doc_id="smoke_test",
-            bo_number="0000",
-            preamble_text=preamble,
             lang="fr",
         )
         assert enriched.get("text"), f"Article {i}: missing text after enrichment"
@@ -86,8 +85,8 @@ def test_enrichment_smoke():
     assert len(instruments) == 2, f"Expected 2 instruments, got {len(instruments)}"
     assert instruments[0]["instrument_type"] in ("DECRET", "ARRETE", "ARRETE_CONJOINT", "DAHIR"), \
         f"Unexpected type: {instruments[0]['instrument_type']}"
-    assert len(instruments[0]["articles"]) == 3
-    assert len(instruments[1]["articles"]) == 2
+    assert len(instruments[0]["article_indices"]) == 3
+    assert len(instruments[1]["article_indices"]) == 2
     print(f"  Instrument detection: {len(instruments)} instruments (type={instruments[0]['instrument_type']})")
     print("  PASSED")
 

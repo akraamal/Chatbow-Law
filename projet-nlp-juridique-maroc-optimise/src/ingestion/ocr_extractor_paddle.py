@@ -264,7 +264,22 @@ def ocr_single_page(page, dpi=400, lang="fra", debug=False, debug_path="debug_pa
     return text, conf
 
 
-def ocr_missing_pages(pdf_path: str, extracted_document, min_gain: int = 100):
+def _lang_for_page(page, default_lang: str) -> str:
+    """Choisit le code OCR selon la langue détectée de la page.
+
+    `page.language` vaut 'fr'/'ar'/'mixed'/'unknown' (language_detector.py).
+    PaddleOCR ne gère pas le mélange sur une même image : 'mixed' replie
+    sur la langue par défaut du document. 'unknown' aussi (page scannée
+    sans texte = rien à déduire)."""
+    page_lang = getattr(page, "language", None)
+    if page_lang == "ar":
+        return "ara"
+    if page_lang in ("fr", "mixed", "unknown", None):
+        return "ara" if default_lang in ("ara", "ar") else "fra"
+    return "fra"
+
+
+def ocr_missing_pages(pdf_path: str, extracted_document, min_gain: int = 100, lang: str = "fra"):
     """
     Équivalent PaddleOCR de ocr_extractor.ocr_missing_pages() — même
     signature, pour pouvoir être branché à pipeline.py par un simple
@@ -272,8 +287,9 @@ def ocr_missing_pages(pdf_path: str, extracted_document, min_gain: int = 100):
 
     NOTE : contrairement à Tesseract ("fra+ara" en un seul appel),
     PaddleOCR ne supporte pas nativement le mélange de langues sur une
-    même image. On OCRise en français par défaut ici — passe lang="ara"
-    si le document est majoritairement arabe.
+    même image. La langue est résolue page par page via page.language
+    (détecté par language_detector.py) ; *lang* sert de langue par défaut
+    pour les pages non identifiées (mixed/unknown).
     """
     doc = fitz.open(pdf_path)
 
@@ -286,7 +302,8 @@ def ocr_missing_pages(pdf_path: str, extracted_document, min_gain: int = 100):
         pdf_page = doc[page.page_number - 1]
         print(f"OCR page {page.page_number}")
 
-        ocr_text, confidence = ocr_single_page(pdf_page, dpi=400, lang="fra")
+        page_lang = _lang_for_page(page, lang)
+        ocr_text, confidence = ocr_single_page(pdf_page, dpi=400, lang=page_lang)
 
         native_chars = page.char_count
         ocr_chars = len(ocr_text.strip())

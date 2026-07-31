@@ -685,8 +685,9 @@ function connectSSE(tid) {
     document.getElementById('progressInfo').innerHTML = `
       <div class="progress-stat"><div class="ps-value" style="color:var(--green)">&#x2713; Terminé</div><div class="ps-label">Pipeline complet</div></div>
     `;
-    // Fetch results
-    fetchResult(taskId);
+    // Fetch results (uses the captured tid, not the global taskId — a
+    // second upload could otherwise trigger fetchResult with the wrong id)
+    fetchResult(tid);
   });
 
   eventSource.addEventListener('error', (e) => {
@@ -776,13 +777,13 @@ function renderResults(data) {
     <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.n_instruments}</div><div class="stat-label">Instruments</div></div>
     <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.n_articles}</div><div class="stat-label">Articles</div></div>
     <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
-    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.bo_number || '—'}</div><div class="stat-label">BO</div></div>
-    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.date_publication || '—'}</div><div class="stat-label">Date</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${escapeHtml(data.bo_number || '—')}</div><div class="stat-label">BO</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${escapeHtml(data.date_publication || '—')}</div><div class="stat-label">Date</div></div>
   `;
 
   // Entity pills
   document.getElementById('entityPills').innerHTML = data.entity_counts.map(e =>
-    `<span class="entity-pill" style="background:${e.color}">${e.label} ${e.count}</span>`
+    `<span class="entity-pill" style="background:${e.color}">${escapeHtml(e.label)} ${e.count}</span>`
   ).join('');
 
   // Preamble
@@ -797,30 +798,37 @@ function renderResults(data) {
   // Instruments tab
   const cmap = { LOI:'#e74c3c', DAHIR:'#8e44ad', DECRET:'#2980b9', ARRETE:'#16a085',
     DECISION:'#d35400', DELIBERATION:'#c0392b', AVIS:'#95a5a6', CIRCULAIRE:'#7f8c8d' };
+  // Note: data from the PDF is untrusted — every interpolated value is
+  // escaped, and toggling is wired via addEventListener (no inline onclick
+  // with a raw id).
   document.getElementById('tab-instruments').innerHTML = data.instruments.map(instr => {
     const bg = cmap[instr.instrument_type] || '#6b7280';
-    const id = instr.instrument_id;
     return `
       <div class="instrument-card">
-        <div class="instrument-header" onclick="toggleInstr('${id}')">
+        <div class="instrument-header">
           <div>
-            <span class="type-badge" style="background:${bg}">${instr.instrument_type}</span>
-            <span class="ref">${instr.reference || '—'}</span>
+            <span class="type-badge" style="background:${bg}">${escapeHtml(instr.instrument_type)}</span>
+            <span class="ref">${escapeHtml(instr.reference || '—')}</span>
           </div>
           <div class="meta">${instr.n_articles} article${instr.n_articles > 1 ? 's' : ''}</div>
         </div>
-        <div class="instrument-body" id="${id}">
+        <div class="instrument-body">
           ${instr.articles.map(a => `
             <div class="article-item">
-              <div class="article-number">Article ${a.number}</div>
+              <div class="article-number">Article ${escapeHtml(a.number)}</div>
               <div class="article-text">${highlightText(a.text, a.entities)}</div>
-              <div class="article-meta">${[a.pdf_page ? `Page PDF ${a.pdf_page}` : '', a.printed_page ? `p. ${a.printed_page}` : ''].filter(Boolean).join(' · ')}</div>
+              <div class="article-meta">${[a.pdf_page ? `Page PDF ${escapeHtml(a.pdf_page)}` : '', a.printed_page ? `p. ${escapeHtml(a.printed_page)}` : ''].filter(Boolean).join(' · ')}</div>
             </div>
           `).join('')}
         </div>
       </div>
     `;
   }).join('');
+  document.querySelectorAll('#tab-instruments .instrument-card').forEach(card => {
+    card.querySelector('.instrument-header').addEventListener('click', () => {
+      card.querySelector('.instrument-body').classList.toggle('open');
+    });
+  });
 
   // Articles tab
   const allArticles = data.instruments.flatMap(instr => instr.articles.map(a => ({ ...a, instrType: instr.instrument_type, instrRef: instr.reference })));
@@ -829,11 +837,11 @@ function renderResults(data) {
     return `
       <div class="article-item">
         <div class="article-number">
-          <span class="type-badge" style="display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600;color:#fff;background:${bg};margin-right:5px;vertical-align:middle">${a.instrType}</span>
-          Article ${a.number}
+          <span class="type-badge" style="display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600;color:#fff;background:${bg};margin-right:5px;vertical-align:middle">${escapeHtml(a.instrType)}</span>
+          Article ${escapeHtml(a.number)}
         </div>
         <div class="article-text">${highlightText(a.text, a.entities)}</div>
-        <div class="article-meta">${[a.pdf_page ? `Page PDF ${a.pdf_page}` : '', a.printed_page ? `p. ${a.printed_page}` : '', a.instrRef ? a.instrRef : ''].filter(Boolean).join(' · ')}</div>
+        <div class="article-meta">${[a.pdf_page ? `Page PDF ${escapeHtml(a.pdf_page)}` : '', a.printed_page ? `p. ${escapeHtml(a.printed_page)}` : '', a.instrRef ? escapeHtml(a.instrRef) : ''].filter(Boolean).join(' · ')}</div>
       </div>
     `;
   }).join('');
@@ -847,7 +855,7 @@ function renderResults(data) {
     : allTables.map(t => `
       <div class="instrument-card">
         <div class="instrument-header">
-          <div><strong>Tableau</strong> &mdash; ${t.instrType} ${t.instrRef || ''} &mdash; Page ${t.page || '?'}</div>
+          <div><strong>Tableau</strong> &mdash; ${escapeHtml(t.instrType)} ${escapeHtml(t.instrRef || '')} &mdash; Page ${escapeHtml(t.page || '?')}</div>
           <div class="meta">${t.n_rows} lignes &times; ${t.n_cols} colonnes</div>
         </div>
         <div class="table-wrap">
@@ -870,11 +878,6 @@ function renderResults(data) {
       document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
     });
   });
-}
-
-function toggleInstr(id) {
-  const body = document.getElementById(id);
-  if (body) body.classList.toggle('open');
 }
 
 function showError(msg) {
@@ -951,25 +954,25 @@ function exportPDF() {
     return map[lbl] || '#6b7280';
   };
   const entityPills = d.entity_counts.map(e =>
-    `<span style="display:inline-block;padding:2px 8px;border-radius:10px;font-size:10px;color:#fff;background:${entityColor(e.label)};margin:2px">${e.label} ${e.count}</span>`
+    `<span style="display:inline-block;padding:2px 8px;border-radius:10px;font-size:10px;color:#fff;background:${entityColor(e.label)};margin:2px">${escapeHtml(e.label)} ${e.count}</span>`
   ).join(' ');
   const instrHtml = d.instruments.map(instr => {
     const bg = entityColor(instr.instrument_type);
     const arts = instr.articles.map(a =>
       `<div style="margin:6px 0;padding:6px 10px;background:#f5f5f5;border-radius:4px">
-        <div style="font-weight:600;font-size:12px;color:#2980b9">Article ${a.number}</div>
-        <div style="font-size:12px;line-height:1.5;margin-top:2px">${a.text}</div>
+        <div style="font-weight:600;font-size:12px;color:#2980b9">Article ${escapeHtml(a.number)}</div>
+        <div style="font-size:12px;line-height:1.5;margin-top:2px">${escapeHtml(a.text)}</div>
       </div>`
     ).join('');
     return `<div style="margin-bottom:12px;border:1px solid #ddd;border-radius:6px;padding:10px">
-      <div style="margin-bottom:6px"><span style="display:inline-block;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:600;color:#fff;background:${bg}">${instr.instrument_type}</span>
-      <strong style="margin-left:6px;font-size:13px">${instr.reference || '—'}</strong>
+      <div style="margin-bottom:6px"><span style="display:inline-block;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:600;color:#fff;background:${bg}">${escapeHtml(instr.instrument_type)}</span>
+      <strong style="margin-left:6px;font-size:13px">${escapeHtml(instr.reference || '—')}</strong>
       <span style="float:right;color:#888;font-size:11px">${instr.n_articles} articles</span></div>
       ${arts}
     </div>`;
   }).join('');
   const html = `<!DOCTYPE html><html><head><meta charset="utf-8">
-    <title>BO ${d.bo_number || ''}</title>
+    <title>BO ${escapeHtml(d.bo_number || '')}</title>
     <style>
       body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; color: #222; padding: 20px; }
       h1 { font-size: 20px; margin-bottom: 4px; }
@@ -983,15 +986,15 @@ function exportPDF() {
       .preamble h3 { margin: 0 0 6px 0; font-size: 12px; color: #888; text-transform: uppercase; }
       @media print { body { padding: 0; } }
     </style></head><body>
-    <h1>Bulletin Officiel n° ${d.bo_number || ''}</h1>
-    <div class="meta">${d.date_publication || ''} &middot; ${d.n_instruments} instruments &middot; ${d.n_articles} articles</div>
+    <h1>Bulletin Officiel n° ${escapeHtml(d.bo_number || '')}</h1>
+    <div class="meta">${escapeHtml(d.date_publication || '')} &middot; ${d.n_instruments} instruments &middot; ${d.n_articles} articles</div>
     <div class="stats">
       <div class="stat"><div class="stat-value">${d.n_instruments}</div><div class="stat-label">Instruments</div></div>
       <div class="stat"><div class="stat-value">${d.n_articles}</div><div class="stat-label">Articles</div></div>
       <div class="stat"><div class="stat-value">${d.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
     </div>
     <div>${entityPills}</div>
-    ${d.preamble_text ? '<div class="preamble"><h3>Préambule</h3>'+d.preamble_text+'</div>' : ''}
+    ${d.preamble_text ? '<div class="preamble"><h3>Préambule</h3>'+escapeHtml(d.preamble_text)+'</div>' : ''}
     <h2>Instruments</h2>
     ${instrHtml}
     <script>window.print();<\/script>

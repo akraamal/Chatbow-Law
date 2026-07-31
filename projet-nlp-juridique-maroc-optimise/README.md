@@ -61,7 +61,7 @@ python -m scripts.run_rag_pipeline --build-index
 
 # Option B — analyser un nouveau BO puis l'indexer :
 python -m scripts.run_pipeline_complet --file data/raw/fr/BO_7522_Fr.pdf --enrich --tables
-python -m scripts.build_search_index
+python -m scripts.run_rag_pipeline --build-index   # relit data/annotated/ (pas de base SQLite)
 ```
 
 ### 5. Lancer l'application web
