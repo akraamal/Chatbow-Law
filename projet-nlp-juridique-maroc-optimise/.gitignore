@@ -1,0 +1,23 @@
+.env
+
+# Virtual environment
+.venv/
+
+# Regenerable data (PDFs + pipeline outputs)
+data/
+
+# Downloaded models (fastText lid.176.bin, etc.)
+models/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Temp / debug files
+tmp_audit_7522.py
+_tmp_audit_7492.py
+_tmp_debug_ref.py
+audit_stderr.txt
+
+# Backup archives
+*.zip

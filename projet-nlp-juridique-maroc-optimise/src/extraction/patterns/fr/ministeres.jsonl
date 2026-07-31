@@ -1,0 +1,9 @@
+{"label": "MINISTERE", "pattern": [{"LOWER": {"IN": ["ministère", "ministre"]}}, {"LOWER": "de"}, {"LOWER": "l'"}, {"LOWER": "intérieur"}]}
+{"label": "MINISTERE", "pattern": [{"LOWER": {"IN": ["ministère", "ministre"]}}, {"LOWER": "de"}, {"LOWER": "la"}, {"LOWER": "justice"}]}
+{"label": "MINISTERE", "pattern": [{"LOWER": {"IN": ["ministère", "ministre"]}}, {"LOWER": "de"}, {"LOWER": "l'"}, {"LOWER": "économie"}, {"LOWER": "et"}, {"LOWER": "des"}, {"LOWER": "finances"}]}
+{"label": "MINISTERE", "pattern": [{"LOWER": {"IN": ["ministère", "ministre"]}}, {"LOWER": "de"}, {"LOWER": "l'"}, {"LOWER": "industrie"}, {"LOWER": "et"}, {"LOWER": "du"}, {"LOWER": "commerce"}]}
+{"label": "MINISTERE", "pattern": [{"LOWER": {"IN": ["ministère", "ministre"]}}, {"LOWER": "de"}, {"LOWER": "l'"}, {"LOWER": "éducation"}, {"LOWER": "nationale"}]}
+{"label": "MINISTERE", "pattern": [{"LOWER": {"IN": ["ministère", "ministre"]}}, {"LOWER": "de"}, {"LOWER": "la"}, {"LOWER": "santé"}]}
+{"label": "MINISTERE", "pattern": [{"LOWER": {"IN": ["ministère", "ministre"]}}, {"LOWER": "des"}, {"LOWER": "affaires"}, {"LOWER": "étrangères"}]}
+{"label": "MINISTERE", "pattern": [{"LOWER": {"IN": ["ministère", "ministre"]}}, {"LOWER": "de"}, {"LOWER": "l'"}, {"LOWER": "agriculture"}]}
+{"label": "MINISTERE", "pattern": [{"LOWER": "secrétariat"}, {"LOWER": "général"}, {"LOWER": "du"}, {"LOWER": "gouvernement"}]}

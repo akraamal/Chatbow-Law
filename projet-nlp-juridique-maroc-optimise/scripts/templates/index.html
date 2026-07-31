@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Analyseur de Bulletins Officiels</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --surface-2: #1c2333;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #8b949e;
+    --accent: #58a6ff;
+    --accent-hover: #79c0ff;
+    --radius: 8px;
+    --green: #3fb950;
+    --orange: #d29922;
+    --red: #f85149;
+    --font-mono: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+  .app-header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .app-header h1 { font-size: 18px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+  .app-header h1 .logo { width: 24px; height: 24px; background: var(--accent); border-radius: 6px; display: inline-flex; align-items: center; justify-content: center; color: #fff; font-size: 14px; }
+  .app-header span { color: var(--text-muted); font-size: 13px; }
+  .container { max-width: 1400px; margin: 0 auto; padding: 20px 24px; }
+
+  /* Upload zone */
+  .upload-zone {
+    background: var(--surface);
+    border: 2px dashed var(--border);
+    border-radius: var(--radius);
+    padding: 56px 24px;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color .2s, background .2s, padding .3s;
+    position: relative;
+    max-width: 640px;
+    margin: 40px auto;
+  }
+  .upload-zone:hover, .upload-zone.dragover {
+    border-color: var(--accent);
+    background: #0d1a2b;
+  }
+  .upload-zone.hidden { display: none; }
+  .upload-zone input[type="file"] {
+    position: absolute; inset: 0; opacity: 0; cursor: pointer;
+  }
+  .upload-zone .upload-icon { font-size: 48px; margin-bottom: 12px; color: var(--text-muted); }
+  .upload-zone h2 { font-size: 18px; font-weight: 500; margin-bottom: 6px; }
+  .upload-zone p { color: var(--text-muted); font-size: 14px; }
+
+  /* Pipeline view */
+  .pipeline-view { display: none; }
+  .pipeline-view.active { display: block; }
+
+  /* Step indicators */
+  .step-bar {
+    display: flex; gap: 4px; margin-bottom: 16px; background: var(--surface);
+    border-radius: var(--radius); padding: 4px; border: 1px solid var(--border);
+  }
+  .step {
+    flex: 1; padding: 10px 12px; text-align: center; font-size: 13px; font-weight: 500;
+    border-radius: 6px; transition: .2s; color: var(--text-muted);
+    display: flex; align-items: center; justify-content: center; gap: 6px;
+  }
+  .step .step-num {
+    width: 20px; height: 20px; border-radius: 50%; background: var(--border);
+    color: var(--text-muted); font-size: 11px; font-weight: 700;
+    display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .step.active { background: #0d2a4a; color: var(--accent); }
+  .step.active .step-num { background: var(--accent); color: #fff; }
+  .step.done { background: #0a2618; color: var(--green); }
+  .step.done .step-num { background: var(--green); color: #fff; }
+  .step-time { font-size: 11px; margin-left: 4px; font-variant-numeric: tabular-nums; }
+  .step.active .step-time { color: var(--accent); }
+  .step.done .step-time { color: var(--green); }
+
+  /* Terminal log */
+  .terminal {
+    background: #0a0e14;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    font-family: var(--font-mono);
+    font-size: 13px;
+    line-height: 1.5;
+    overflow: hidden;
+    margin-bottom: 16px;
+  }
+  .terminal-header {
+    background: var(--surface);
+    padding: 8px 14px;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: space-between;
+    font-size: 12px; color: var(--text-muted); font-family: inherit;
+  }
+  .terminal-body {
+    height: 420px; overflow-y: auto; padding: 12px 14px;
+    scroll-behavior: smooth;
+  }
+  .terminal-body .line {
+    white-space: pre-wrap; word-break: break-all; min-height: 1.25em;
+    color: #abb2bf;
+  }
+  .terminal-body .line.etape {
+    color: var(--accent); font-weight: 600;
+  }
+  .terminal-body .line.ok {
+    color: var(--green);
+  }
+  .terminal-body .line.warn {
+    color: var(--orange);
+  }
+  .terminal-body .line.err {
+    color: var(--red);
+  }
+  .terminal-body .line.sep {
+    color: var(--text-muted); opacity: 0.4;
+  }
+
+  /* Progress info bar */
+  .progress-info {
+    display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 16px;
+    justify-content: center;
+  }
+  .progress-stat {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 10px 16px; text-align: center;
+    min-width: 100px;
+  }
+  .progress-stat .ps-value { font-size: 20px; font-weight: 700; color: var(--accent); }
+  .progress-stat .ps-label { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+
+  /* Results */
+  .results { display: none; }
+  .results.active { display: block; }
+  .results-header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  .results-header h2 { font-size: 20px; font-weight: 600; }
+  .btn-outline {
+    background: transparent; border: 1px solid var(--border); color: var(--text-muted);
+    padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px;
+    transition: .15s;
+  }
+  .btn-outline:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* Stats bar */
+  .stats-bar {
+    display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px;
+  }
+  .stat-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 14px 18px; flex: 1; min-width: 120px;
+  }
+  .stat-card .stat-value { font-size: 24px; font-weight: 700; }
+  .stat-card .stat-label { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+  /* Entity pills */
+  .entity-pills {
+    display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px;
+  }
+  .entity-pill {
+    display: inline-flex; align-items: center; gap: 5px;
+    padding: 4px 12px; border-radius: 999px; font-size: 12px; font-weight: 500;
+    color: #fff;
+  }
+
+  /* Preamble */
+  .preamble-box {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); padding: 14px 18px; margin-bottom: 20px;
+  }
+  .preamble-box h3 {
+    font-size: 13px; font-weight: 600; margin-bottom: 8px; color: var(--text-muted);
+    text-transform: uppercase; letter-spacing: .05em;
+  }
+  .preamble-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #c9d1d9; }
+
+  /* Tabs */
+  .tabs {
+    display: flex; gap: 2px; background: var(--border); border-radius: var(--radius);
+    padding: 2px; margin-bottom: 16px;
+  }
+  .tab-btn {
+    flex: 1; padding: 8px 16px; border: none; background: transparent;
+    font-size: 13px; font-weight: 500; cursor: pointer; border-radius: 6px;
+    color: var(--text-muted); white-space: nowrap; transition: .15s;
+  }
+  .tab-btn:hover { color: var(--text); }
+  .tab-btn.active { background: var(--surface); color: var(--text); }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  /* Instrument cards */
+  .instrument-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: var(--radius); margin-bottom: 12px; overflow: hidden;
+  }
+  .instrument-header {
+    padding: 12px 16px; cursor: pointer; display: flex;
+    align-items: center; justify-content: space-between;
+  }
+  .instrument-header:hover { background: var(--surface-2); }
+  .instrument-header .type-badge {
+    display: inline-block; padding: 3px 10px; border-radius: 4px;
+    font-size: 11px; font-weight: 600; color: #fff; margin-right: 8px;
+  }
+  .instrument-header .ref { font-weight: 600; font-size: 14px; }
+  .instrument-header .meta { color: var(--text-muted); font-size: 12px; }
+  .instrument-body { padding: 0 16px 16px; display: none; }
+  .instrument-body.open { display: block; }
+
+  /* Article */
+  .article-item {
+    padding: 10px 0; border-bottom: 1px solid var(--border);
+  }
+  .article-item:last-child { border-bottom: none; }
+  .article-number {
+    font-weight: 600; font-size: 12px; color: var(--accent); margin-bottom: 3px;
+  }
+  .article-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #c9d1d9; }
+  .article-text em {
+    font-style: normal; padding: 1px 4px; border-radius: 3px; color: #fff;
+  }
+  .article-meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
+
+  /* Table */
+  .table-wrap { overflow-x: auto; margin-top: 10px; }
+  .table-wrap table {
+    width: 100%; border-collapse: collapse; font-size: 12px;
+  }
+  .table-wrap th, .table-wrap td {
+    border: 1px solid var(--border); padding: 5px 8px; text-align: left;
+    white-space: nowrap; min-width: 70px;
+  }
+  .table-wrap th {
+    background: var(--surface-2); font-weight: 600; position: sticky; top: 0;
+  }
+
+  /* Error */
+  .error-box {
+    background: #2d1215; border: 1px solid var(--red);
+    border-radius: var(--radius); padding: 14px 18px; color: var(--red);
+    margin-bottom: 16px; display: none; font-size: 14px;
+  }
+
+  /* ── Chat ─────────────────────────────────────── */
+  .chat-toggle {
+    position: fixed; bottom: 24px; right: 24px; z-index: 1000;
+    width: 56px; height: 56px; border-radius: 50%;
+    background: var(--accent); color: #fff; border: none;
+    font-size: 24px; cursor: pointer; box-shadow: 0 4px 16px rgba(0,0,0,.4);
+    transition: transform .2s, background .2s;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .chat-toggle:hover { transform: scale(1.08); background: var(--accent-hover); }
+  .chat-toggle.active { background: var(--red); transform: rotate(45deg); }
+  .chat-panel {
+    position: fixed; bottom: 92px; right: 24px; z-index: 999;
+    width: 400px; max-height: 560px; background: var(--surface);
+    border: 1px solid var(--border); border-radius: var(--radius);
+    box-shadow: 0 8px 32px rgba(0,0,0,.5);
+    display: none; flex-direction: column; overflow: hidden;
+    font-size: 13px;
+  }
+  .chat-panel.open { display: flex; }
+  .chat-header {
+    padding: 12px 14px; border-bottom: 1px solid var(--border);
+    font-weight: 600; font-size: 14px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .chat-header .chat-status { font-size: 11px; font-weight: 400; color: var(--text-muted); }
+  .chat-messages {
+    flex: 1; overflow-y: auto; padding: 10px 12px;
+    max-height: 380px; min-height: 120px;
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .chat-msg {
+    max-width: 85%; padding: 8px 12px; border-radius: 8px;
+    line-height: 1.5; white-space: pre-wrap; word-break: break-word;
+  }
+  .chat-msg.user { background: #0d2a4a; color: var(--text); align-self: flex-end; }
+  .chat-msg.bot { background: var(--surface-2); color: var(--text); align-self: flex-start; }
+  .chat-msg.bot strong { color: var(--accent); }
+  .chat-input-area {
+    display: flex; border-top: 1px solid var(--border); padding: 8px;
+    gap: 6px;
+  }
+  .chat-input-area input {
+    flex: 1; background: var(--bg); border: 1px solid var(--border);
+    border-radius: 6px; padding: 8px 10px; color: var(--text); font-size: 13px;
+    outline: none;
+  }
+  .chat-input-area input:focus { border-color: var(--accent); }
+  .chat-input-area button {
+    background: var(--accent); color: #fff; border: none;
+    border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 13px;
+    font-weight: 500;
+  }
+  .chat-input-area button:hover { background: var(--accent-hover); }
+  .chat-input-area button:disabled { opacity: .5; cursor: default; }
+  .chat-welcome {
+    color: var(--text-muted); text-align: center; padding: 20px 10px;
+    font-size: 12px; line-height: 1.6;
+  }
+
+  @media (max-width: 768px) {
+    .container { padding: 12px; }
+    .app-header { padding: 10px 14px; flex-direction: column; gap: 4px; }
+    .stat-card { min-width: 80px; }
+    .terminal-body { height: 300px; }
+    .step-bar { flex-wrap: wrap; }
+    .step { font-size: 11px; padding: 6px 8px; }
+    .chat-panel { width: calc(100% - 32px); right: 16px; bottom: 80px; max-height: 480px; }
+    .chat-toggle { bottom: 16px; right: 16px; width: 48px; height: 48px; font-size: 20px; }
+  }
+</style>
+</head>
+<body>
+<div class="app-header">
+  <h1><span class="logo">&#x2696;</span> Analyseur BO</h1>
+  <span>NLP juridique marocain &middot; Temps r&eacute;el</span>
+</div>
+<div class="container">
+
+  <!-- Upload -->
+  <div class="upload-zone" id="uploadZone">
+    <input type="file" accept=".pdf" id="fileInput">
+    <div class="upload-icon">&#x1F4C1;</div>
+    <h2>D&eacute;posez un Bulletin Officiel (PDF)</h2>
+    <p>ou cliquez pour parcourir &mdash; pipeline complet visible en direct</p>
+  </div>
+
+  <!-- Pipeline View (live) -->
+  <div class="pipeline-view" id="pipelineView">
+
+    <div class="step-bar" id="stepBar">
+      <div class="step" data-step="1"><span class="step-num">1</span> Ingestion &amp; OCR <span class="step-time" id="time1"></span></div>
+      <div class="step" data-step="2"><span class="step-num">2</span> Nettoyage <span class="step-time" id="time2"></span></div>
+      <div class="step" data-step="3"><span class="step-num">3</span> Extraction NLP <span class="step-time" id="time3"></span></div>
+      <div class="step" data-step="4"><span class="step-num">4</span> Enrichissement <span class="step-time" id="time4"></span></div>
+      <div class="step" data-step="5"><span class="step-num">5</span> Tables <span class="step-time" id="time5"></span></div>
+    </div>
+
+    <div style="display:flex;gap:8px;margin-bottom:12px;justify-content:space-between;align-items:center">
+      <div style="display:flex;gap:8px">
+        <button class="btn-outline" onclick="resetToUpload()" style="font-size:12px">&#x25C0; Nouvelle analyse</button>
+        <button class="btn-outline" id="btnBackToResults" onclick="showResultsView()" style="font-size:12px;display:none">&#x25B6; R&eacute;sultats</button>
+      </div>
+      <div class="progress-info" id="progressInfo" style="margin:0;flex:1"></div>
+    </div>
+
+    <div class="terminal" id="terminal">
+      <div class="terminal-header">
+        <span>Pipeline output</span>
+        <span id="lineCount">0 lines</span>
+      </div>
+      <div class="terminal-body" id="terminalBody"></div>
+    </div>
+  </div>
+
+  <!-- Error -->
+  <div class="error-box" id="errorBox"></div>
+
+  <!-- Results -->
+  <div class="results" id="results">
+    <div class="results-header">
+      <h2 id="resultTitle">R&eacute;sultats</h2>
+      <div style="display:flex;gap:8px;align-items:center">
+        <button class="btn-outline" onclick="showPipelineView()">&#x25B6; Voir le pipeline</button>
+        <button class="btn-outline" style="border-color:var(--accent);color:var(--accent)" onclick="resetToUpload()">&#x1F4C1; Nouvelle analyse</button>
+        <div style="position:relative">
+          <button class="btn-outline" id="exportBtn" onclick="toggleExportMenu()" style="border-color:var(--green);color:var(--green)">&#x2B07; Exporter</button>
+          <div id="exportMenu" style="display:none;position:absolute;right:0;top:100%;margin-top:4px;background:var(--surface);border:1px solid var(--border);border-radius:6px;overflow:hidden;z-index:100;min-width:140px;box-shadow:0 4px 16px rgba(0,0,0,.4)">
+            <div onclick="exportJSON()" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px" onmouseover="this.style.background='var(--surface-2)'" onmouseout="this.style.background='transparent'">&#x1F4CB; JSON</div>
+            <div onclick="exportMarkdown()" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px" onmouseover="this.style.background='var(--surface-2)'" onmouseout="this.style.background='transparent'">&#x1F4DD; Markdown</div>
+            <div onclick="exportPDF()" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px" onmouseover="this.style.background='var(--surface-2)'" onmouseout="this.style.background='transparent'">&#x1F4C4; PDF</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="stats-bar" id="statsBar"></div>
+    <div class="entity-pills" id="entityPills"></div>
+    <div class="preamble-box" id="preambleBox"></div>
+    <div class="tabs">
+      <button class="tab-btn active" data-tab="instruments">Instruments</button>
+      <button class="tab-btn" data-tab="articles">Articles</button>
+      <button class="tab-btn" data-tab="tables">Tableaux</button>
+    </div>
+    <div class="tab-content active" id="tab-instruments"></div>
+    <div class="tab-content" id="tab-articles"></div>
+    <div class="tab-content" id="tab-tables"></div>
+  </div>
+
+</div>
+
+<!-- Chat toggle button -->
+<button class="chat-toggle" id="chatToggle" onclick="toggleChat()" title="Chat">💬</button>
+
+<!-- Chat panel -->
+<div class="chat-panel" id="chatPanel">
+  <div class="chat-header">
+    <span>🤖 Assistant BO</span>
+    <span class="chat-status" id="chatStatus">Aucun document</span>
+  </div>
+  <div class="chat-messages" id="chatMessages">
+    <div class="chat-welcome" id="chatWelcome">
+      Analysez un BO pour discuter de son contenu.<br>
+      Questions possibles :<br>
+      • « Combien d'articles ? »<br>
+      • « Liste des instruments »<br>
+      • « Article 5 »<br>
+      • « Recherche [mot-clé] »
+    </div>
+  </div>
+  <div class="chat-input-area">
+    <input type="text" id="chatInput" placeholder="Posez une question..." onkeydown="if(event.key==='Enter') sendChat()" disabled>
+    <button id="chatSendBtn" onclick="sendChat()" disabled>Envoyer</button>
+  </div>
+</div>
+
+<script>
+// ── State ────────────────────────────────────────────────────────────
+
+let taskId = null;
+let eventSource = null;
+let cachedResult = null;
+
+// Step timing: { 1: { start: timestamp, done: bool }, ... }
+let stepTiming = {};
+let timerInterval = null;
+
+function initStepTiming() {
+  stepTiming = {};
+  for (let i = 1; i <= 5; i++) stepTiming[i] = { start: null, done: false };
+  document.querySelectorAll('.step-time').forEach(el => el.textContent = '');
+}
+
+function formatElapsed(ms) {
+  const s = Math.floor(ms / 1000);
+  const m = Math.floor(s / 60);
+  const sec = s % 60;
+  return m > 0 ? `${m}m ${sec}s` : `${sec}s`;
+}
+
+function updateTimers() {
+  for (let i = 1; i <= 5; i++) {
+    const t = stepTiming[i];
+    const el = document.getElementById(`time${i}`);
+    if (!el) continue;
+    if (t.done && t.elapsed) {
+      el.textContent = '⏱' + formatElapsed(t.elapsed);
+    } else if (t.start && !t.done) {
+      el.textContent = '⏱' + formatElapsed(Date.now() - t.start);
+    }
+  }
+}
+
+function startTimerInterval() {
+  if (timerInterval) clearInterval(timerInterval);
+  timerInterval = setInterval(updateTimers, 1000);
+}
+
+function stopTimerInterval() {
+  if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
+}
+
+function markStepActive(stepNum) {
+  // Mark current step start if not already set
+  if (!stepTiming[stepNum].start) {
+    stepTiming[stepNum].start = Date.now();
+  }
+}
+
+function markStepDone(stepNum) {
+  const t = stepTiming[stepNum];
+  if (t.start && !t.done) {
+    t.elapsed = Date.now() - t.start;
+    t.done = true;
+  }
+}
+
+// ── Helpers ──────────────────────────────────────────────────────────
+
+function highlightText(text, entities) {
+  if (!entities || entities.length === 0) return escapeHtml(text);
+  const sorted = [...entities].sort((a, b) => a.start - b.start);
+  const parts = [];
+  let pos = 0;
+  for (const e of sorted) {
+    if (e.start > pos) parts.push(escapeHtml(text.slice(pos, e.start)));
+    parts.push(`<em style="background:${e.color}">${escapeHtml(text.slice(e.start, e.end))}</em>`);
+    pos = e.end;
+  }
+  if (pos < text.length) parts.push(escapeHtml(text.slice(pos)));
+  return parts.join('');
+}
+
+function escapeHtml(s) {
+  if (typeof s !== 'string') s = String(s);
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+// ── Pipeline step detection ──────────────────────────────────────────
+
+function detectStep(line) {
+  const steps = { 'ÉTAPE 1': 1, 'ÉTAPE 2': 2, 'ÉTAPE 3': 3, 'ÉTAPE 4': 4, 'ÉTAPE 5': 5 };
+  for (const [key, num] of Object.entries(steps)) {
+    if (line.includes(key)) return num;
+  }
+  return null;
+}
+
+function lineClass(line) {
+  if (line.startsWith('  ÉTAPE')) return 'etape';
+  if (line.includes('→') || line.startsWith('    ->') || line.includes('Fichier :')) return 'ok';
+  if (line.includes('⚠') || line.includes('Ignoré')) return 'warn';
+  if (line.includes('Err') || line.includes('erreur') || line.includes('fail')) return 'err';
+  if (line.trim() === '' || line.match(/^[=]{5,}/)) return 'sep';
+  return '';
+}
+
+// ── Upload ───────────────────────────────────────────────────────────
+
+const uploadZone = document.getElementById('uploadZone');
+const fileInput = document.getElementById('fileInput');
+
+fileInput.addEventListener('change', () => {
+  const file = fileInput.files[0];
+  if (file) uploadFile(file);
+});
+
+uploadZone.addEventListener('dragover', (e) => { e.preventDefault(); uploadZone.classList.add('dragover'); });
+uploadZone.addEventListener('dragleave', () => { uploadZone.classList.remove('dragover'); });
+uploadZone.addEventListener('drop', (e) => {
+  e.preventDefault();
+  uploadZone.classList.remove('dragover');
+  const file = e.dataTransfer.files[0];
+  if (file && file.name.endsWith('.pdf')) {
+    fileInput.files = e.dataTransfer.files;
+    uploadFile(file);
+  }
+});
+
+// ── Upload & stream ──────────────────────────────────────────────────
+
+async function uploadFile(file) {
+  document.getElementById('errorBox').style.display = 'none';
+  document.getElementById('results').classList.remove('active');
+  cachedResult = null;
+
+  // Show pipeline view
+  uploadZone.classList.add('hidden');
+  const pv = document.getElementById('pipelineView');
+  pv.classList.add('active');
+
+  // Reset terminal
+  document.getElementById('terminalBody').innerHTML = '';
+  document.getElementById('lineCount').textContent = '0 lines';
+  document.getElementById('progressInfo').innerHTML = '';
+
+  // Reset steps
+  document.querySelectorAll('.step').forEach(s => s.classList.remove('active', 'done'));
+
+  // Init timers
+  initStepTiming();
+  startTimerInterval();
+
+  // Add initial log line
+  addLogLine(`  Envoi de ${file.name}...`);
+  addLogLine('');
+
+  const form = new FormData();
+  form.append('file', file);
+
+  try {
+    const resp = await fetch('/upload', { method: 'POST', body: form });
+    const data = await resp.json();
+    if (data.error) { showError(data.error); return; }
+    taskId = data.task_id;
+    addLogLine(`  Tâche démarrée : ${taskId}`);
+    addLogLine('');
+    connectSSE(taskId);
+  } catch (err) {
+    showError('Erreur de connexion au serveur.');
+  }
+}
+
+// ── SSE connection ───────────────────────────────────────────────────
+
+function connectSSE(tid) {
+  if (eventSource) eventSource.close();
+
+  eventSource = new EventSource(`/stream/${tid}`);
+
+  // Prevent auto-reconnection on network errors - we handle done/error explicitly
+  eventSource.onerror = (e) => {
+    eventSource.close();
+    // Don't show error here - the server sends explicit 'error' event
+  };
+
+  eventSource.onmessage = (e) => {
+    const line = e.data;
+    addLogLine(line);
+
+    // Update step indicators
+    const stepNum = detectStep(line);
+    if (stepNum) {
+      // Mark previous steps as done
+      for (let i = 1; i < stepNum; i++) {
+        const el = document.querySelector(`.step[data-step="${i}"]`);
+        if (el) { el.classList.remove('active'); el.classList.add('done'); }
+        markStepDone(i);
+      }
+      // Mark current as active
+      const curr = document.querySelector(`.step[data-step="${stepNum}"]`);
+      if (curr) { curr.classList.add('active'); }
+      markStepActive(stepNum);
+
+      // Update progress info
+      const stepNames = {
+        1: 'Ingestion & OCR', 2: 'Nettoyage', 3: 'Extraction NLP',
+        4: 'Enrichissement', 5: 'Tables'
+      };
+      document.getElementById('progressInfo').innerHTML = `
+        <div class="progress-stat"><div class="ps-value">${stepNames[stepNum]}</div><div class="ps-label">Étape ${stepNum}/5</div></div>
+      `;
+    }
+
+    // Extract article count
+    const artMatch = line.match(/(\d+)\s+articles?/);
+    if (artMatch && !line.includes('→')) {
+      document.getElementById('progressInfo').innerHTML += `
+        <div class="progress-stat"><div class="ps-value">${artMatch[1]}</div><div class="ps-label">Articles</div></div>
+      `;
+    }
+    // Extract entity count
+    const entMatch = line.match(/(\d+)\s+entit[ée]s?/);
+    if (entMatch) {
+      document.getElementById('progressInfo').innerHTML += `
+        <div class="progress-stat"><div class="ps-value">${entMatch[1]}</div><div class="ps-label">Entités</div></div>
+      `;
+    }
+    // Extract instrument count
+    const instrMatch = line.match(/(\d+)\s+instrument/);
+    if (instrMatch) {
+      document.getElementById('progressInfo').innerHTML += `
+        <div class="progress-stat"><div class="ps-value">${instrMatch[1]}</div><div class="ps-label">Instruments</div></div>
+      `;
+    }
+  };
+
+  eventSource.addEventListener('done', () => {
+    eventSource.close();
+    addLogLine('');
+    addLogLine('  Pipeline terminé avec succès');
+    // Mark all steps done and freeze timers
+    document.querySelectorAll('.step').forEach(s => {
+      s.classList.remove('active');
+      s.classList.add('done');
+    });
+    for (let i = 1; i <= 5; i++) markStepDone(i);
+    updateTimers();
+    stopTimerInterval();
+    document.getElementById('progressInfo').innerHTML = `
+      <div class="progress-stat"><div class="ps-value" style="color:var(--green)">&#x2713; Terminé</div><div class="ps-label">Pipeline complet</div></div>
+    `;
+    // Fetch results
+    fetchResult(taskId);
+  });
+
+  eventSource.addEventListener('error', (e) => {
+    eventSource.close();
+    if (e.data) showError(e.data);
+    else showError('Erreur de connexion au pipeline');
+  });
+}
+
+// ── Log ──────────────────────────────────────────────────────────────
+
+function addLogLine(text) {
+  const body = document.getElementById('terminalBody');
+  const div = document.createElement('div');
+  div.className = 'line ' + lineClass(text);
+  div.textContent = text;
+  body.appendChild(div);
+  body.scrollTop = body.scrollHeight;
+  document.getElementById('lineCount').textContent = body.children.length + ' lines';
+}
+
+// ── Fetch result ─────────────────────────────────────────────────────
+
+async function fetchResult(tid) {
+  try {
+    const resp = await fetch(`/result/${tid}`);
+    const data = await resp.json();
+    if (data.error) { showError(data.error); return; }
+    cachedResult = data;
+    renderResults(data);
+    enableChat(data.doc_id);
+  } catch (err) {
+    showError('Erreur lors de la récupération des résultats.');
+  }
+}
+
+// ── Show/hide views ──────────────────────────────────────────────────
+
+function showResultsView() {
+  document.getElementById('pipelineView').classList.remove('active');
+  document.getElementById('results').classList.add('active');
+}
+
+function showPipelineView() {
+  document.getElementById('results').classList.remove('active');
+  document.getElementById('pipelineView').classList.add('active');
+}
+
+function resetToUpload() {
+  // Close SSE
+  if (eventSource) { eventSource.close(); eventSource = null; }
+  stopTimerInterval();
+  // Reset state
+  taskId = null;
+  cachedResult = null;
+  chatDocId = null;
+  // Hide pipeline & results
+  document.getElementById('pipelineView').classList.remove('active');
+  document.getElementById('results').classList.remove('active');
+  document.getElementById('errorBox').style.display = 'none';
+  // Show upload zone
+  document.getElementById('uploadZone').classList.remove('hidden');
+  // Reset file input
+  document.getElementById('fileInput').value = '';
+  // Reset chat
+  document.getElementById('chatStatus').textContent = 'Aucun document';
+  document.getElementById('chatInput').disabled = true;
+  document.getElementById('chatSendBtn').disabled = true;
+  // Hide back-to-results button
+  document.getElementById('btnBackToResults').style.display = 'none';
+}
+
+// ── Render ───────────────────────────────────────────────────────────
+
+function renderResults(data) {
+  // Show results view
+  document.getElementById('pipelineView').classList.remove('active');
+  document.getElementById('results').classList.add('active');
+  // Show back-to-results button in pipeline view
+  document.getElementById('btnBackToResults').style.display = 'inline-block';
+
+  document.getElementById('resultTitle').textContent =
+    `Résultats — BO ${data.bo_number || ''} ${data.date_publication || ''}`;
+
+  // Stats
+  document.getElementById('statsBar').innerHTML = `
+    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.n_instruments}</div><div class="stat-label">Instruments</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.n_articles}</div><div class="stat-label">Articles</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.bo_number || '—'}</div><div class="stat-label">BO</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.date_publication || '—'}</div><div class="stat-label">Date</div></div>
+  `;
+
+  // Entity pills
+  document.getElementById('entityPills').innerHTML = data.entity_counts.map(e =>
+    `<span class="entity-pill" style="background:${e.color}">${e.label} ${e.count}</span>`
+  ).join('');
+
+  // Preamble
+  const preBox = document.getElementById('preambleBox');
+  if (data.preamble_text) {
+    preBox.innerHTML = `<h3>Préambule</h3><div class="preamble-text">${highlightText(data.preamble_text, data.preamble_entities)}</div>`;
+    preBox.style.display = 'block';
+  } else {
+    preBox.style.display = 'none';
+  }
+
+  // Instruments tab
+  const cmap = { LOI:'#e74c3c', DAHIR:'#8e44ad', DECRET:'#2980b9', ARRETE:'#16a085',
+    DECISION:'#d35400', DELIBERATION:'#c0392b', AVIS:'#95a5a6', CIRCULAIRE:'#7f8c8d' };
+  document.getElementById('tab-instruments').innerHTML = data.instruments.map(instr => {
+    const bg = cmap[instr.instrument_type] || '#6b7280';
+    const id = instr.instrument_id;
+    return `
+      <div class="instrument-card">
+        <div class="instrument-header" onclick="toggleInstr('${id}')">
+          <div>
+            <span class="type-badge" style="background:${bg}">${instr.instrument_type}</span>
+            <span class="ref">${instr.reference || '—'}</span>
+          </div>
+          <div class="meta">${instr.n_articles} article${instr.n_articles > 1 ? 's' : ''}</div>
+        </div>
+        <div class="instrument-body" id="${id}">
+          ${instr.articles.map(a => `
+            <div class="article-item">
+              <div class="article-number">Article ${a.number}</div>
+              <div class="article-text">${highlightText(a.text, a.entities)}</div>
+              <div class="article-meta">${[a.pdf_page ? `Page PDF ${a.pdf_page}` : '', a.printed_page ? `p. ${a.printed_page}` : ''].filter(Boolean).join(' · ')}</div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  // Articles tab
+  const allArticles = data.instruments.flatMap(instr => instr.articles.map(a => ({ ...a, instrType: instr.instrument_type, instrRef: instr.reference })));
+  document.getElementById('tab-articles').innerHTML = allArticles.map(a => {
+    const bg = cmap[a.instrType] || '#6b7280';
+    return `
+      <div class="article-item">
+        <div class="article-number">
+          <span class="type-badge" style="display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600;color:#fff;background:${bg};margin-right:5px;vertical-align:middle">${a.instrType}</span>
+          Article ${a.number}
+        </div>
+        <div class="article-text">${highlightText(a.text, a.entities)}</div>
+        <div class="article-meta">${[a.pdf_page ? `Page PDF ${a.pdf_page}` : '', a.printed_page ? `p. ${a.printed_page}` : '', a.instrRef ? a.instrRef : ''].filter(Boolean).join(' · ')}</div>
+      </div>
+    `;
+  }).join('');
+
+  // Tables tab
+  const allTables = data.instruments.flatMap(instr =>
+    instr.tables.map(t => ({ ...t, instrType: instr.instrument_type, instrRef: instr.reference }))
+  );
+  document.getElementById('tab-tables').innerHTML = allTables.length === 0
+    ? '<p style="color:var(--text-muted);padding:20px;">Aucun tableau extrait.</p>'
+    : allTables.map(t => `
+      <div class="instrument-card">
+        <div class="instrument-header">
+          <div><strong>Tableau</strong> &mdash; ${t.instrType} ${t.instrRef || ''} &mdash; Page ${t.page || '?'}</div>
+          <div class="meta">${t.n_rows} lignes &times; ${t.n_cols} colonnes</div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr>${t.headers.map(h => `<th>${escapeHtml(h)}</th>`).join('')}</tr></thead>
+            <tbody>
+              ${t.data.map(row => `<tr>${(row.length ? row : Array(t.n_cols).fill('')).map(c => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`).join('')}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    `).join('');
+
+  // Tabs logic
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+    });
+  });
+}
+
+function toggleInstr(id) {
+  const body = document.getElementById(id);
+  if (body) body.classList.toggle('open');
+}
+
+function showError(msg) {
+  const box = document.getElementById('errorBox');
+  box.textContent = msg;
+  box.style.display = 'block';
+}
+
+// ── Export ──────────────────────────────────────────────────────────────
+
+function toggleExportMenu() {
+  const menu = document.getElementById('exportMenu');
+  menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
+}
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('#exportBtn') && !e.target.closest('#exportMenu')) {
+    document.getElementById('exportMenu').style.display = 'none';
+  }
+});
+
+function downloadFile(content, filename, mime) {
+  const blob = new Blob([content], { type: mime });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function exportJSON() {
+  document.getElementById('exportMenu').style.display = 'none';
+  if (!cachedResult) { showError('Aucun résultat à exporter.'); return; }
+  const jsonStr = JSON.stringify(cachedResult, null, 2);
+  downloadFile(jsonStr, `BO_${cachedResult.bo_number || 'export'}.json`, 'application/json');
+}
+
+function exportMarkdown() {
+  document.getElementById('exportMenu').style.display = 'none';
+  if (!cachedResult) { showError('Aucun résultat à exporter.'); return; }
+  const d = cachedResult;
+  let md = `# Analyse BO ${d.bo_number || ''} — ${d.date_publication || ''}\n\n`;
+  md += `- **Instruments** : ${d.n_instruments}\n`;
+  md += `- **Articles** : ${d.n_articles}\n`;
+  md += `- **Entités** : ${d.entity_counts.reduce((s,e)=>s+e.count,0)}\n\n`;
+  md += `## Entités\n\n`;
+  for (const e of d.entity_counts) {
+    md += `- **${e.label}** : ${e.count}\n`;
+  }
+  md += '\n';
+  if (d.preamble_text) {
+    md += `## Préambule\n\n${d.preamble_text}\n\n`;
+  }
+  md += `## Instruments\n\n`;
+  for (const instr of d.instruments) {
+    md += `### ${instr.instrument_type} ${instr.reference || ''}\n`;
+    md += `- **${instr.n_articles} articles**\n\n`;
+    for (const a of instr.articles) {
+      md += `**Article ${a.number}** `;
+      if (a.pdf_page) md += `(p. ${a.pdf_page})`;
+      md += ` : ${a.text}\n\n`;
+    }
+  }
+  downloadFile(md, `BO_${d.bo_number || 'export'}.md`, 'text/markdown');
+}
+
+function exportPDF() {
+  document.getElementById('exportMenu').style.display = 'none';
+  if (!cachedResult) { showError('Aucun résultat à exporter.'); return; }
+  const d = cachedResult;
+  const entityColor = (lbl) => {
+    const map = { LOI:'#e74c3c', DAHIR:'#8e44ad', DECRET:'#2980b9', ARRETE:'#16a085',
+      DECISION:'#d35400', DELIBERATION:'#c0392b', AVIS:'#95a5a6', CIRCULAIRE:'#7f8c8d',
+      MINISTERE:'#f39c12', DATE_HIJRI:'#2c3e50', DATE_GREGORIAN:'#34495e', BULLETIN_OFFICIEL:'#e67e22' };
+    return map[lbl] || '#6b7280';
+  };
+  const entityPills = d.entity_counts.map(e =>
+    `<span style="display:inline-block;padding:2px 8px;border-radius:10px;font-size:10px;color:#fff;background:${entityColor(e.label)};margin:2px">${e.label} ${e.count}</span>`
+  ).join(' ');
+  const instrHtml = d.instruments.map(instr => {
+    const bg = entityColor(instr.instrument_type);
+    const arts = instr.articles.map(a =>
+      `<div style="margin:6px 0;padding:6px 10px;background:#f5f5f5;border-radius:4px">
+        <div style="font-weight:600;font-size:12px;color:#2980b9">Article ${a.number}</div>
+        <div style="font-size:12px;line-height:1.5;margin-top:2px">${a.text}</div>
+      </div>`
+    ).join('');
+    return `<div style="margin-bottom:12px;border:1px solid #ddd;border-radius:6px;padding:10px">
+      <div style="margin-bottom:6px"><span style="display:inline-block;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:600;color:#fff;background:${bg}">${instr.instrument_type}</span>
+      <strong style="margin-left:6px;font-size:13px">${instr.reference || '—'}</strong>
+      <span style="float:right;color:#888;font-size:11px">${instr.n_articles} articles</span></div>
+      ${arts}
+    </div>`;
+  }).join('');
+  const html = `<!DOCTYPE html><html><head><meta charset="utf-8">
+    <title>BO ${d.bo_number || ''}</title>
+    <style>
+      body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; color: #222; padding: 20px; }
+      h1 { font-size: 20px; margin-bottom: 4px; }
+      .meta { color: #666; font-size: 12px; margin-bottom: 16px; }
+      h2 { font-size: 16px; margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 4px; }
+      .stats { display: flex; gap: 12px; margin: 12px 0; }
+      .stat { padding: 8px 14px; background: #f0f4f8; border-radius: 6px; }
+      .stat-value { font-size: 18px; font-weight: 700; color: #2980b9; }
+      .stat-label { font-size: 10px; color: #666; }
+      .preamble { background: #f9f9f9; padding: 10px; border-radius: 6px; font-size: 11px; line-height: 1.6; margin-bottom: 16px; }
+      .preamble h3 { margin: 0 0 6px 0; font-size: 12px; color: #888; text-transform: uppercase; }
+      @media print { body { padding: 0; } }
+    </style></head><body>
+    <h1>Bulletin Officiel n° ${d.bo_number || ''}</h1>
+    <div class="meta">${d.date_publication || ''} &middot; ${d.n_instruments} instruments &middot; ${d.n_articles} articles</div>
+    <div class="stats">
+      <div class="stat"><div class="stat-value">${d.n_instruments}</div><div class="stat-label">Instruments</div></div>
+      <div class="stat"><div class="stat-value">${d.n_articles}</div><div class="stat-label">Articles</div></div>
+      <div class="stat"><div class="stat-value">${d.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
+    </div>
+    <div>${entityPills}</div>
+    ${d.preamble_text ? '<div class="preamble"><h3>Préambule</h3>'+d.preamble_text+'</div>' : ''}
+    <h2>Instruments</h2>
+    ${instrHtml}
+    <script>window.print();<\/script>
+  </body></html>`;
+  const win = window.open('', '_blank');
+  win.document.write(html);
+  win.document.close();
+}
+
+// ── Chat ──────────────────────────────────────────────────────────────
+
+let chatDocId = null;
+
+function enableChat(docId) {
+  chatDocId = docId;
+  document.getElementById('chatStatus').textContent = 'BO ' + (docId || '');
+  document.getElementById('chatInput').disabled = false;
+  document.getElementById('chatSendBtn').disabled = false;
+}
+
+function toggleChat() {
+  const panel = document.getElementById('chatPanel');
+  const btn = document.getElementById('chatToggle');
+  panel.classList.toggle('open');
+  btn.classList.toggle('active');
+  btn.textContent = panel.classList.contains('open') ? '+' : '💬';
+  if (panel.classList.contains('open')) {
+    document.getElementById('chatInput').focus();
+  }
+}
+
+async function sendChat() {
+  const input = document.getElementById('chatInput');
+  const btn = document.getElementById('chatSendBtn');
+  const question = input.value.trim();
+  if (!question || !chatDocId) return;
+
+  input.value = '';
+  input.focus();
+  btn.disabled = true;
+
+  // Add user message
+  const msgs = document.getElementById('chatMessages');
+  const welcome = document.getElementById('chatWelcome');
+  welcome.style.display = 'none';
+  const userDiv = document.createElement('div');
+  userDiv.className = 'chat-msg user';
+  userDiv.textContent = question;
+  msgs.appendChild(userDiv);
+  msgs.scrollTop = msgs.scrollHeight;
+
+  // Add placeholder bot
+  const botDiv = document.createElement('div');
+  botDiv.className = 'chat-msg bot';
+  botDiv.textContent = '…';
+  msgs.appendChild(botDiv);
+  msgs.scrollTop = msgs.scrollHeight;
+
+  try {
+    const resp = await fetch('/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question, doc_id: chatDocId }),
+    });
+    const data = await resp.json();
+    botDiv.textContent = data.answer || 'Pas de réponse.';
+  } catch (err) {
+    botDiv.textContent = 'Erreur de connexion au serveur.';
+  }
+  btn.disabled = false;
+  msgs.scrollTop = msgs.scrollHeight;
+}
+</script>
+</body>
+</html>
