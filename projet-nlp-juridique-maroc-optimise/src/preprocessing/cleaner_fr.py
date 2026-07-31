@@ -39,19 +39,28 @@ _HEADER_COMBINED_FR = re.compile(
 )
 # Lignes de sommaire avec points de suite : "Edition générale...................790"
 DOT_LEADER_LINE = re.compile(r"^.*?\.{4,}\s*\d*\s*$", re.MULTILINE)
-# Séquences de points au milieu d'une ligne (4+ points consécutifs) provenant
-# de la fusion d'une ligne de sommaire avec du texte adjacent lors de
-# l'extraction PDF. Ex : "L'opération ................................ recours"
+# Séquences de points au milieu d'une ligne (4+ points consécutifs).  Deux
+# sources possibles :
+#   - artefact d'extraction PDF (ligne de sommaire fusionnée avec du texte
+#     adjacent, ex. "L'opération ................................ recours") ;
+#   - convention de rédaction législative : le BO publie les amendements en
+#     remplaçant les passages non modifiés par une ligne de points
+#     ("L'opération ................................ recours") pour signifier
+#     « texte inchangé, omis ici ».
+# On ne peut pas les distinguer : au lieu de les réduire à un espace (ce qui
+# fait perdre le signal « contenu volontairement élidé »), on les remplace
+# par un marqueur explicite conservé dans le texte.
 INLINE_DOT_SEQUENCE = re.compile(r"\.{4,}")
+ELISION_MARKER = " […texte non modifié…] "
 
 CONTROL_CHARS = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f\u200E\u200F]")
 
 # Caractères arabes isolés qui débordent de la colonne arabe voisine lors
-# de l'extraction PDF. On supprime tout caractère dans les plages Unicode
-# arabes (lettres, signes, formes de présentation) car un texte français
-# n'en contient légitimement aucun — les rares mots arabes qu'on voudrait
-# conserver (ex: noms de mois hégiriens) sont déjà capturés par les regex
-# de dates AVANT ce nettoyage.
+# de l'extraction PDF. Le BO français cite CEPENDANT légitimement des
+# passages en arabe (titres d'émissions, clauses du cahier des charges
+# reprises verbatim) : ces tronçons sont donc collectés (paramètre
+# ``collector`` de remove_arabic_artifacts) au lieu d'être perdus, et
+# exposés à part (champ ``possible_embedded_arabic`` du JSON annoté).
 ARABIC_CHARS = re.compile(
     "[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF"
     "\uFB50-\uFDFF\uFE70-\uFEFF"
@@ -112,23 +121,36 @@ def remove_page_headers_footers(text: str) -> str:
 def remove_dot_leader_lines(text: str) -> str:
     """
     Retire les lignes de sommaire/table des matières avec points de suite
-    (ex : "Edition générale...................790") et les séquences de
-    points résiduelles au milieu des lignes (ex : "L'opération ........
-    recours") — artefacts de l'extraction PDF qui n'apportent pas
-    d'information juridique exploitable pour l'extraction d'entités.
+    (ex : "Edition générale...................790") et remplace les
+    séquences de points résiduelles au milieu des lignes par un marqueur
+    explicite : dans le BO, ces points sont la convention d'élision des
+    amendements (« texte inchangé, omis ici ») — les réduire à un espace
+    rendrait un texte partiel indistinguable d'un texte tronqué par erreur.
     """
     text = DOT_LEADER_LINE.sub("", text)
-    text = INLINE_DOT_SEQUENCE.sub(" ", text)
+    text = INLINE_DOT_SEQUENCE.sub(ELISION_MARKER, text)
     return text
 
 
-def remove_arabic_artifacts(text: str) -> str:
+def remove_arabic_artifacts(text: str, collector: list | None = None) -> str:
     """
     Supprime les caractères arabes isolés qui ont débordé de la colonne
     arabe lors de l'extraction PDF. Nettoie aussi les marqueurs RTL/LTR
     (U+200E, U+200F) qui polluent le texte français.
+
+    Si *collector* est fourni, chaque tronçon arabe supprimé y est ajouté
+    (au lieu d'être perdu silencieusement) : le BO français cite
+    légitimement des passages en arabe que l'appelant peut exposer à part
+    (champ ``possible_embedded_arabic`` du JSON annoté) pour relecture.
     """
-    return ARABIC_CHARS.sub("", text)
+    if collector is None:
+        return ARABIC_CHARS.sub("", text)
+
+    def _drop(match: re.Match) -> str:
+        collector.append(match.group(0).strip())
+        return ""
+
+    return ARABIC_CHARS.sub(_drop, text)
 
 
 def collapse_blank_lines(text: str) -> str:
@@ -142,6 +164,7 @@ def clean_french_text(
     remove_dot_leaders: bool = True,
     normalize_apos: bool = True,
     remove_arabic: bool = True,
+    arabic_runs: list | None = None,
 ) -> str:
     """
     Pipeline complet de nettoyage du texte français.
@@ -154,6 +177,9 @@ def clean_french_text(
             si on veut traiter spécifiquement la page de sommaire).
         normalize_apos: si True, normalise les apostrophes typographiques.
         remove_arabic: si True, supprime les artefacts arabes résiduels.
+        arabic_runs: liste optionnelle recevant chaque tronçon arabe retiré
+            (voir remove_arabic_artifacts) — pour exposer les citations
+            arabes du BO français au lieu de les perdre.
 
     Returns:
         Texte nettoyé, prêt pour la segmentation en articles.
@@ -168,7 +194,7 @@ def clean_french_text(
     if normalize_apos:
         text = normalize_apostrophes(text)
     if remove_arabic:
-        text = remove_arabic_artifacts(text)
+        text = remove_arabic_artifacts(text, collector=arabic_runs)
 
     text = collapse_blank_lines(text)
 

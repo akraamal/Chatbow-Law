@@ -56,8 +56,10 @@ DAHIR_PATTERN = re.compile(
 # --- LOI (numéro type "03-25", "12-06", parfois "1-73-255" pour les lois anciennes) ---
 # Le texte "relative à ..." s'arrête devant un `, le/la/les/l'` qui signale une
 # nouvelle entité, mais capture les virgules internes au titre.
+# Accepte "loi organique n° 066-13" (qualificatif entre "loi" et "n°"),
+# courant dans les lois constitutionnelles/organiques marocaines.
 LOI_PATTERN = re.compile(
-    rf"[Ll]oi\s+(?:{_N})?\s*{_NUM}"
+    rf"[Ll]oi\s+(?:(?:organique|cadre|ordinaire)\s+)?(?:{_N})?\s*{_NUM}"
     rf"(?:\s+relative?s?\s+[àa](?:(?!{_NEW_ENTITY})[^;.\n]){{0,200}})?",
 )
 # --- DECRET (numéro type "2-25-1062", "2-08-562") ---
@@ -67,8 +69,12 @@ DECRET_PATTERN = re.compile(
 )
 
 # --- ARRETE (simple ou conjoint, souvent sans numéro, identifié par le ministère) ---
+# Accepte aussi "arrêté n° 1165-26 du 25 juin 2026" (numéro + date, sans
+# ministère) et "arrêté susvisé n° 256-91" (renvoi à un arrêté antérieur).
 ARRETE_PATTERN = re.compile(
-    rf"[Aa]rr[êe]t[ée](?:\s+{_N}{_NUM})?(?:\s+conjoint)?\s+du\s+ministre[^,;.\n]{{0,100}}",
+    rf"[Aa]rr[êe]t[ée](?:\s+susvisé)?(?:\s+{_N}{_NUM})?"
+    rf"(?:\s+conjoint)?"
+    rf"(?:\s+du\s+ministre[^,;.\n]{{0,100}}|\s+du\s+{_DATE_TEXT})?",
 )
 
 # --- Référence au Bulletin Officiel lui-même (numéro + date de publication) ---

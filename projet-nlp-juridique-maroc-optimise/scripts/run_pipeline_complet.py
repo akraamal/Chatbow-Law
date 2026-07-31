@@ -124,8 +124,13 @@ def _detect_language(text: str) -> str:
     return "ar" if arabic_char_ratio(text) > 0.30 else "fr"
 
 
-def run_preprocessing(interim_file: Path) -> Path | None:
-    """Nettoie un fichier interim/ et retourne le chemin dans processed/."""
+def run_preprocessing(interim_file: Path, arabic_runs: list | None = None) -> Path | None:
+    """Nettoie un fichier interim/ et retourne le chemin dans processed/.
+
+    *arabic_runs* (optionnel) : collecte les tronçons arabes cités dans le
+    texte français (titres d'émissions, clauses reprises verbatim) au lieu
+    de les perdre — exposés ensuite dans le JSON (possible_embedded_arabic).
+    """
     parts = list(interim_file.parts)
     parts = ["processed" if p == "interim" else p for p in parts]
     out = Path(*parts)
@@ -133,7 +138,10 @@ def run_preprocessing(interim_file: Path) -> Path | None:
     print(f"\n  ÉTAPE 2 — Nettoyage : {interim_file.name}")
     raw = interim_file.read_text(encoding="utf-8")
     lang = _detect_language(raw)
-    cleaned = clean_arabic_text(raw) if lang == "ar" else clean_french_text(raw)
+    if lang == "ar":
+        cleaned = clean_arabic_text(raw)
+    else:
+        cleaned = clean_french_text(raw, arabic_runs=arabic_runs)
 
     # Post-OCR correction (French only — corrects common character
     # transpositions and accent-loss patterns from PDF extraction)
@@ -195,7 +203,8 @@ def _extract_bo_metadata_from_interim(pdf_stem: str, interim_files: list[Path]) 
 
 
 def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
-                   metadata_override: dict | None = None) -> Path | None:
+                   metadata_override: dict | None = None,
+                   arabic_runs: list | None = None) -> Path | None:
     """Extrait les entités d'un fichier processed/ et sauvegarde le JSON.
 
     Utilise enrich_articles_batch() pour exécuter le NER statistique en
@@ -461,6 +470,7 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
         **metadata,
         "preamble_text": preamble,
         "preamble_entities": filter_entities(_entities_to_dicts(preamble_doc)),
+        "possible_embedded_arabic": arabic_runs or [],
         "sommaire": get_sommaire(text, lang=lang),
         "decrees": decrees,
         "n_articles": len(articles_out), "articles": articles_out,
@@ -544,7 +554,8 @@ def process_single_pdf(pdf_path: Path, enrich: bool = False, tables: bool = Fals
             continue
 
         # Étape 2
-        processed_file = run_preprocessing(interim_file)
+        arabic_runs: list = []
+        processed_file = run_preprocessing(interim_file, arabic_runs=arabic_runs)
         if processed_file is None:
             continue
 
@@ -556,6 +567,8 @@ def process_single_pdf(pdf_path: Path, enrich: bool = False, tables: bool = Fals
 
         json_kw = {"nlp_fr": _NLP_CACHE.get("fr"), "nlp_ar": _NLP_CACHE.get("ar"),
                    "metadata_override": bo_metadata if bo_metadata.get("bo_number") else None}
+        if lang == "fr":
+            json_kw["arabic_runs"] = arabic_runs
         out_path = run_extraction(processed_file, lang, **json_kw)
 
         # Étape 4 : enrichissement (pages + instruments)

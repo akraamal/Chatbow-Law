@@ -292,6 +292,83 @@ def _is_ltr_char(ch: str) -> bool:
     return ch.isalpha() and not _is_rtl_char(ch)
 
 
+def _rtl_segment_to_logical(visual_chars: list) -> str:
+    """Rétablit l'ordre logique d'un tronçon arabe disposé en ordre VISUEL.
+
+    Le rendu RTL affiche les caractères de droite à gauche : on inverse la
+    séquence puis on rétablit les chiffres (forts LTR, affichés à l'endroit
+    même dans un contexte RTL — "90" ne doit pas ressortir "09") et on
+    permute les parenthèses/crochets (miroir BiDi).
+    """
+    rev = [_BIDI_MIRROR.get(ch, ch) for ch in reversed(visual_chars)]
+    out = []
+    i = 0
+    while i < len(rev):
+        if rev[i].isdigit():
+            j = i
+            while j < len(rev) and rev[j].isdigit():
+                j += 1
+            out.extend(reversed(rev[i:j]))
+            i = j
+        else:
+            out.append(rev[i])
+            i += 1
+    return "".join(out)
+
+
+def _fix_ltr_line_with_rtl_segments(chars: list) -> str:
+    """Ligne LTR (français) contenant des tronçons arabes cités.
+
+    Ex. « relative aux émissions «الحقيقة في 90 دقيقة» et «أسد إفريقيا»
+    diffusées par ... » (décision du CSN, BO_7522) : le français est déjà
+    dans l'ordre de lecture, mais chaque tronçon arabe est disposé en
+    ordre VISUEL (inversé) — «ةقيقد 90 يف ةقيقحلا».  On isole chaque
+    segment RTL (run arabe + neutres/chiffres intercalés) et on rétablit
+    son ordre logique sans toucher au reste de la ligne.
+    """
+    runs, cur_type, cur = [], None, []
+    for c in chars:
+        ch = c["c"]
+        t = "rtl" if _is_rtl_char(ch) else "other"
+        if t != cur_type and cur:
+            runs.append((cur_type, cur))
+            cur = []
+        cur_type = t
+        cur.append(ch)
+    if cur:
+        runs.append((cur_type, cur))
+
+    if not any(t == "rtl" for t, _ in runs):
+        return "".join(c["c"] for c in chars)  # ligne purement LTR
+
+    out = []
+    i = 0
+    n = len(runs)
+    while i < n:
+        t, chs = runs[i]
+        if t != "rtl":
+            out.append("".join(chs))
+            i += 1
+            continue
+        # Segment RTL : runs arabes + éventuels runs neutres INTERCALÉS
+        # (espaces, chiffres — jamais de lettres latines, qui signaleraient
+        # du français entre deux citations, ex. "» et «").
+        j = i
+        while j + 1 < n:
+            nt, nchs = runs[j + 1]
+            if nt == "rtl":
+                j += 1
+            elif (j + 2 < n and runs[j + 2][0] == "rtl"
+                  and not any(c.isalpha() and not _is_rtl_char(c) for c in nchs)):
+                j += 1
+            else:
+                break
+        visual = [c for _, chs2 in runs[i:j + 1] for c in chs2]
+        out.append(_rtl_segment_to_logical(visual))
+        i = j + 1
+    return "".join(out)
+
+
 def _fix_bidi_line(chars: list) -> str:
     """
     Reconstruit une ligne à partir de ses caractères (voir page.get_text
@@ -347,7 +424,12 @@ def _fix_bidi_line(chars: list) -> str:
             paragraph_is_rtl = False
             break
     if paragraph_is_rtl is False:
-        return "".join(c["c"] for c in chars)  # ligne LTR : rien à corriger
+        # Ligne LTR (français) : les éventuels tronçons arabes cités
+        # («الحقيقة في 90 دقيقة») sont inversés UNIQUEMENT, pas toute la
+        # ligne — l'ancien comportement laissait les tronçons arabes dans
+        # leur ordre visuel (supprimés ensuite par le nettoyage) ou
+        # inversait toute la ligne quand un caractère RTL était présent.
+        return _fix_ltr_line_with_rtl_segments(chars)
 
     runs, cur_type, cur = [], None, []
     for c in chars:

@@ -66,6 +66,16 @@ BLACKLIST_ORG = {
     "crédit", "emprunt", "ministère", "direction", "service",
 }
 
+# Références légales et dates : intrinsèquement porteuses de numéros et de
+# dates ("dahir n° 1-14-139 du 16 chaoual 1435 (13 août 2014)" est à moins
+# de 50 % de lettres).  Le ratio alphabétique ne s'applique PAS à elles,
+# sinon toutes ces entités sont rejetées (0 LOI/DAHIR/DATE conservés —
+# observé sur BO_7522 : 26 entités seulement pour 141 pages).
+_DIGIT_HEAVY_LABELS = {
+    "DAHIR", "LOI", "DECRET", "ARRETE", "BULLETIN_OFFICIEL",
+    "CIRCULAIRE", "DATE_HIJRI", "DATE_GREGORIAN",
+}
+
 
 def clean_entity_text(entity: dict) -> dict:
     """
@@ -97,8 +107,10 @@ def is_valid_entity(text: str, label: str, context: str = "") -> bool:
     if _INCOMPLETE_ENTITY_PATTERN.search(norm):
         return False
     
-    # Pas assez alphabétique
-    if sum(1 for c in text if c.isalpha()) / len(text) < 0.5:
+    # Pas assez alphabétique (uniquement pour les entités "génériques" :
+    # les références légales et dates contiennent légitimement des numéros)
+    if (label not in _DIGIT_HEAVY_LABELS
+            and sum(1 for c in text if c.isalpha()) / len(text) < 0.5):
         return False
     
     # Liste noire
