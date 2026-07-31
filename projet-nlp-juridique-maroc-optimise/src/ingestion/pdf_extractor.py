@@ -103,6 +103,11 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
       6. Dans ce cas, on assigne chaque bloc à la colonne de gauche ou de
          droite selon la position de son centre (x0+x1)/2 par rapport au
          milieu du gap.
+      7. Les blocs qui CHEVAUCHENT la frontière entre les deux colonnes
+         (titres de section centrés comme « TEXTES GENERAUX » qui
+         traversent l'espace inter-colonnes) sont isolés dans ``spanning`` :
+         ils n'appartiennent à aucune colonne et doivent être émis à leur
+         position verticale, comme un bloc pleine largeur.
 
     Cette approche est plus robuste que les seuils absolus (pourcentage
     de l'emprise ou médiane des largeurs) car elle compare les écarts
@@ -111,15 +116,16 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
     corps d'arrêté ~200 pt).
 
     Returns:
-        Liste de listes de blocs (une par colonne détectée).
-        Si aucune séparation nette n'est trouvée, retourne une seule
-        liste contenant tous les blocs.
+        (columns, spanning) : liste de listes de blocs (une par colonne
+        détectée) et liste des blocs chevauchant la frontière.  Si aucune
+        séparation nette n'est trouvée, retourne une seule liste
+        contenant tous les blocs (spanning vide).
     """
     if not blocks:
-        return []
+        return [], []
 
     if len(blocks) < 2:
-        return [list(blocks)]
+        return [list(blocks)], []
 
     sorted_by_x = sorted(blocks, key=lambda b: b[0])
 
@@ -141,7 +147,7 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
 
     # Décider si le plus grand écart est une séparation de colonne
     if max_gap < max(min_gap_floor, typical_gap * min_ratio):
-        return [sorted(blocks, key=lambda b: b[1])]
+        return [sorted(blocks, key=lambda b: b[1])], []
 
     # Position de la frontière (milieu du gap)
     split_x = (sorted_by_x[max_idx][2] + sorted_by_x[max_idx + 1][0]) / 2
@@ -155,12 +161,29 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
         else:
             right_col.append(b)
 
+    # Blocs chevauchant la frontière entre colonnes : leur emprise X
+    # s'étend de part et d'autre du milieu de l'espace inter-colonnes.
+    # Ex. page 3 du BO_7522, « TEXTES GENERAUX » (x 236-359) centré au
+    #-dessus du dahir n° 1-26-08 : sans cette étape, il était rattaché à
+    # la colonne de droite et se retrouvait émis après toute la colonne
+    # gauche, en plein milieu de la loi organique n° 36-24.
+    spanning = []
+    if left_col and right_col:
+        gap_left = max(b[2] for b in left_col)
+        gap_right = min((b[0] for b in right_col if b[0] >= gap_left), default=gap_left)
+        mid_gap = (gap_left + gap_right) / 2
+        spanning = [b for b in blocks if b[0] < mid_gap < b[2]]
+        if spanning:
+            span_ids = {id(b) for b in spanning}
+            left_col = [b for b in left_col if id(b) not in span_ids]
+            right_col = [b for b in right_col if id(b) not in span_ids]
+
     # Ne garder que les colonnes non vides
     columns = [col for col in (left_col, right_col) if col]
     for col in columns:
         col.sort(key=lambda b: b[1])
 
-    return columns
+    return columns, spanning
 
 
 FULL_WIDTH_RATIO = 0.6
@@ -209,32 +232,64 @@ def _order_blocks_for_reading(raw_blocks):
 
     page_width = max(b[2] for b in raw_blocks) - min(b[0] for b in raw_blocks)
     full_width_blocks, column_candidates = _split_full_width_blocks(raw_blocks, page_width)
-    bands = _group_into_bands(column_candidates)
 
-    items = [(b[1], "full_width", b) for b in full_width_blocks]
-    items += [(min(b[1] for b in band), "band", band) for band in bands]
-    items.sort(key=lambda x: x[0])
+    if not column_candidates:
+        return sorted(full_width_blocks, key=lambda b: (b[1], b[0]))
+
+    columns, spanning = _group_into_columns(column_candidates)
+
+    if len(columns) <= 1:
+        # Une seule colonne : ordre de lecture vertical simple.
+        all_blocks = full_width_blocks + spanning + (columns[0] if columns else [])
+        return sorted(all_blocks, key=lambda b: (b[1], b[0]))
+
+    # Deux colonnes (mise en page type BO) : l'ordre de lecture est
+    # COLONNE PAR COLONNE (toute la colonne de gauche, puis celle de
+    # droite) et non ligne par ligne.  L'ancien découpage en bandes
+    # horizontales intercalait les deux colonnes rangée par rangée, ce
+    # qui mélangeait des textes distincts côte à côte — ex. BO_7522,
+    # page 15 : la fin de l'arrêté antidumping (annexes 1 et 2) en
+    # colonne gauche se retrouvait entrelacée avec l'arrêté
+    # "laboratoires habilités" de la colonne droite, contaminant les
+    # articles des deux instruments.
+    if page_is_rtl:
+        columns = sorted(columns, key=lambda col: -max(b[0] for b in col))
+    else:
+        columns = sorted(columns, key=lambda col: min(b[0] for b in col))
 
     ordered = []
-    for _, kind, content in items:
-        if kind == "full_width":
-            ordered.append(content)
-            continue
+    fw_sorted = sorted(full_width_blocks + spanning, key=lambda b: b[1])
 
-        columns = _group_into_columns(content)
-        if len(columns) > 1:
-            if page_is_rtl:
-                columns = sorted(columns, key=lambda col: -max(b[0] for b in col))
-            else:
-                columns = sorted(columns, key=lambda col: min(b[0] for b in col))
+    def _emit_pending_full_width(before_y: float) -> None:
+        while fw_sorted and fw_sorted[0][1] < before_y:
+            ordered.append(fw_sorted.pop(0))
 
-        for col in columns:
-            ordered.extend(sorted(col, key=lambda b: b[1]))
+    for col in columns:
+        col_blocks = sorted(col, key=lambda b: b[1])
+        if col_blocks:
+            _emit_pending_full_width(col_blocks[0][1])
+        for b in col_blocks:
+            _emit_pending_full_width(b[1])
+            ordered.append(b)
+    ordered.extend(fw_sorted)
 
     return ordered
 
 
 _BIDI_MIRROR = {"(": ")", ")": "(", "[": "]", "]": "[", "{": "}", "}": "{"}
+
+# Plages Unicode arabes (arabe, arabe étendu-A/B, formes de présentation)
+_RTL_RANGES = ((0x0600, 0x06FF), (0x0750, 0x077F), (0x08A0, 0x08FF),
+               (0xFB50, 0xFDFF), (0xFE70, 0xFEFF))
+
+
+def _is_rtl_char(ch: str) -> bool:
+    return any(lo <= ord(ch) <= hi for lo, hi in _RTL_RANGES)
+
+
+def _is_ltr_char(ch: str) -> bool:
+    # Lettre hors plages arabes (latin, etc.) → caractère fort LTR.
+    return ch.isalpha() and not _is_rtl_char(ch)
 
 
 def _fix_bidi_line(chars: list) -> str:
@@ -272,15 +327,32 @@ def _fix_bidi_line(chars: list) -> str:
     """
     chars = sorted(chars, key=lambda c: c["bbox"][0])
 
+    # Direction du paragraphe (UAX #9, règle P2) : le PREMIER caractère
+    # fort (lettre) de la ligne décide du sens.  Une ligne française qui
+    # contient un caractère arabe isolé (chiffre arabo-indien, glyphe
+    # parasite, date hégirienne) reste LTR — l'ancien comportement
+    # inversait alors TOUTE la ligne dès qu'un caractère RTL était
+    # présent (ex. « relative aux émissions « 09 » « et » » ressortait
+    # « » « te » 09 « snoissimé xua evitaler »), même si la ligne était
+    # du français pur.  La correction BiDi n'est appliquée que si le
+    # premier caractère fort est RTL (ligne arabe, éventuellement
+    # ponctuée de nombres latins).
+    paragraph_is_rtl = None
+    for c in chars:
+        ch = c["c"]
+        if _is_rtl_char(ch):
+            paragraph_is_rtl = True
+            break
+        if _is_ltr_char(ch):
+            paragraph_is_rtl = False
+            break
+    if paragraph_is_rtl is False:
+        return "".join(c["c"] for c in chars)  # ligne LTR : rien à corriger
+
     runs, cur_type, cur = [], None, []
     for c in chars:
         ch = c["c"]
-        is_rtl_char = any(
-            lo <= ord(ch) <= hi
-            for lo, hi in ((0x0600, 0x06FF), (0x0750, 0x077F), (0x08A0, 0x08FF),
-                           (0xFB50, 0xFDFF), (0xFE70, 0xFEFF))
-        )
-        t = "rtl" if is_rtl_char else "other"
+        t = "rtl" if _is_rtl_char(ch) else "other"
         if t != cur_type and cur:
             runs.append((cur_type, cur))
             cur = []

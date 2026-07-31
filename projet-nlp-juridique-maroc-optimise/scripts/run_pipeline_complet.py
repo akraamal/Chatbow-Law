@@ -36,7 +36,7 @@ from src.extraction.document_metadata_extractor import extract_document_metadata
 from src.extraction.ner_filter import filter_entities
 from src.extraction.ocr_corrector import correct_ocr
 from src.preprocessing.segmenter import (
-    segment_into_articles, get_preamble, get_per_decree_preamble_map,
+    segment_into_articles, get_preamble, get_sommaire, get_per_decree_preamble_map,
 )
 from src.export.article_to_markdown import build_full_markdown
 from src.extraction.entity_ruler_builder_fr import build_fr_nlp, extract_legal_entities_fr
@@ -287,12 +287,12 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
     # Also cache the PREVIOUS decree's entities (for cross-decree references).
     decree_entities_cache = {}
     for i, dec in enumerate(decrees):
-        preamble = dec.get("preamble", "")
-        if not preamble:
+        dec_preamble = dec.get("preamble", "")
+        if not dec_preamble:
             continue
         # Flatten newlines so regexes can match numbers that span lines
         # (e.g. "décret n°2-22-\n191" → "décret n°2-22- 191").
-        preamble = preamble.replace("\n", " ")
+        dec_preamble = dec_preamble.replace("\n", " ")
         ents = []
         for label, pattern in [
             ("ARRETE", re.compile(r"Arr[êe]t[ée](?:\s+conjoint)?\s+n[°°]\s*[\w\-\.]+", re.IGNORECASE)),
@@ -300,7 +300,7 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
             ("LOI", re.compile(r"Loi\s+n[°°]\s*[\w\-\.]+", re.IGNORECASE)),
             ("DAHIR", re.compile(r"Dahir\s+n[°°]\s*[\w\-\.]+", re.IGNORECASE)),
         ]:
-            for m in pattern.finditer(preamble):
+            for m in pattern.finditer(dec_preamble):
                 ents.append({"text": m.group(), "label": label,
                              "start": m.start(), "end": m.end()})
         decree_entities_cache[id(dec)] = ents
@@ -335,9 +335,9 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
                 existing_texts.add(pe["text"].lower())
 
         # Replace DOCUMENT_SOURCE citations with decree entity
-        preamble = dec.get("preamble", "")
-        if preamble:
-            ent_match = _DECREE_TITLE_RE.search(preamble)
+        dec_preamble = dec.get("preamble", "")
+        if dec_preamble:
+            ent_match = _DECREE_TITLE_RE.search(dec_preamble)
             if ent_match:
                 dec_entity_text = ent_match.group(0).strip()
                 raw_label = ent_match.group(1)
@@ -461,6 +461,7 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
         **metadata,
         "preamble_text": preamble,
         "preamble_entities": filter_entities(_entities_to_dicts(preamble_doc)),
+        "sommaire": get_sommaire(text, lang=lang),
         "decrees": decrees,
         "n_articles": len(articles_out), "articles": articles_out,
     }

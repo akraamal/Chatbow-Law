@@ -123,9 +123,13 @@ ORG_KEYWORDS_FR = {"office", "agence", "autorité", "direction", "ministère", "
                    "chambre", "fédération", "union", "régie"}
 
 # Patterns pré-compilés pour l'évaluation des mots-clés d'organisations
-# (évite de recompiler re.escape(kw) dans une boucle pour chaque entité)
-_ORG_PATTERNS_AR = [re.compile(rf"\b{re.escape(kw)}\b") for kw in ORG_KEYWORDS_AR]
-_ORG_PATTERNS_FR = [re.compile(rf"\b{re.escape(kw)}\b") for kw in ORG_KEYWORDS_FR]
+# (évite de recompiler re.escape(kw) dans une boucle pour chaque entité).
+# IGNORECASE : le NER statistique (spaCy/camel-tools) renvoie des formes
+# en casse mixte ("Chambre des représentants", "Cour constitutionnelle")
+# que le filtre en casse sensible rejetait systématiquement — toutes les
+# organisations étaient ainsi supprimées (0 ORG sur 137 articles).
+_ORG_PATTERNS_AR = [re.compile(rf"\b{re.escape(kw)}\b", re.IGNORECASE) for kw in ORG_KEYWORDS_AR]
+_ORG_PATTERNS_FR = [re.compile(rf"\b{re.escape(kw)}\b", re.IGNORECASE) for kw in ORG_KEYWORDS_FR]
 
 # Mots-clés à exclure des organisations (faux positifs)
 COMMON_ORG_WORDS_AR = {"دوار", "سعيد", "بن", "ايت", "مطير", "بنحسين", "البيضاء", "الشق", "احسين", "حسين", "نعمان"}

@@ -240,6 +240,16 @@ DOCUMENT_TITLE_PATTERN_FR = re.compile(
     re.MULTILINE | re.IGNORECASE,
 )
 
+# Marqueur de section du Bulletin officiel (« TEXTES GENERAUX »,
+# « TEXTES PARTICULIERS ») : il sépare des rubriques entières du BO et
+# ne fait pas partie du corps de l'article qui le précède.  Ex. le
+# « TEXTES PARTICULIERS » qui suit l'arrêté n° 1197-26 (BO_7522) était
+# absorbé en fin d'article.
+SECTION_MARKER_RE = re.compile(
+    r"^[ \t]*TEXTES[ \t]+(?:G[ÉE]N[ÉE]RAUX|PARTICULIERS)\b",
+    re.MULTILINE,
+)
+
 # Équivalent arabe pour les titres de textes juridiques du BO (ظهير/مرسوم/
 # قرار/قانون/أمر/منشور/بلاغ) en tête de ligne. L'arabe n'a pas de casse :
 # l'ancrage en début de ligne (^) suffit à écarter les citations en milieu
@@ -248,6 +258,36 @@ DOCUMENT_TITLE_PATTERN_AR = re.compile(
     r"^[ \t]*(?:ظهير|مرسوم|قرار|مقرر|قانون|أمر|منشور|بلاغ)\b",
     re.MULTILINE,
 )
+
+
+def _is_doc_title_match(text: str, match, lang: str = "fr") -> bool:
+    """Un match de DOCUMENT_TITLE_PATTERN est-il un VRAI titre de texte ?
+
+    Français : un titre commence normalement par une majuscule
+    (« Décret n° ... ») — les minuscules en tête de ligne sont en général
+    des citations (« loi n° 17-99 portant ... »).  MAIS l'extraction PDF
+    minusculise parfois de vrais titres (« décret n° 2-26-489 du ... ») :
+    dans ce cas on accepte le titre si la ligne précédente ne se termine
+    pas par une lettre minuscule — sinon c'est une continuation de phrase
+    du type « Vu le\\ndécret n° 2-15-743 ... », qui ne doit PAS créer de
+    frontière d'instrument.  Arabe : pas de casse, tout match est accepté.
+    """
+    if lang == "ar":
+        return True
+    title = match.group().strip()
+    if not title:
+        return False
+    if title[0].isupper():
+        return True
+    line_start = text.rfind("\n", 0, match.start()) + 1
+    if line_start == 0:
+        return True  # tout début de texte : pas de contexte de continuation
+    # dernier caractère NON-espace de la ligne précédente (le "\n" lui-même
+    # est à line_start - 1)
+    j = line_start - 2
+    while j >= 0 and text[j] in " \t\r":
+        j -= 1
+    return j < 0 or not text[j].islower()
 
 
 # --- Arabe ---
@@ -461,15 +501,21 @@ def segment_into_articles_fr(text: str) -> list:
         # Si le titre d'un nouveau texte juridique (Arrêté/Décret/Dahir/
         # Décision) apparaît avant le prochain marqueur d'article, il ne
         # fait pas partie de l'article courant : on coupe là, pas au
-        # prochain "ART. N.–" (qui appartient au texte suivant).
-        # Seuls les titres commençant par une majuscule sont considérés
-        # (les minuscules comme "décret n° ..." sont des citations).
+        # prochain "ART. N.–" (qui appartient au texte suivant).  Un
+        # marqueur de section (TEXTES GENERAUX / PARTICULIERS) coupe
+        # également : ce qui suit appartient aux rubriques suivantes.
         original_end = end
         boundary_match = None
+        candidates = []
         for bm in DOCUMENT_TITLE_PATTERN_FR.finditer(text, start, end):
-            if bm.group().strip()[0].isupper():
-                boundary_match = bm
+            if _is_doc_title_match(text, bm, "fr"):
+                candidates.append(bm)
                 break
+        for sm in SECTION_MARKER_RE.finditer(text, start, end):
+            candidates.append(sm)
+            break
+        if candidates:
+            boundary_match = min(candidates, key=lambda m: m.start())
         if boundary_match:
             end = boundary_match.start()
 
@@ -498,28 +544,33 @@ def segment_into_articles_fr(text: str) -> list:
             boundary_title = text[boundary_match.start():boundary_match.start() + 20]
             gap_text = text[end:original_end]
             if re.match(r"^\s*Annexe", boundary_title, re.IGNORECASE):
-                # The gap starts at the "Annexe" header.  Look for the next
-                # document title inside the gap so that the following
-                # decree's title is not absorbed into the annexe chunk.
-                first_doc = DOCUMENT_TITLE_PATTERN_FR.search(gap_text)
-                next_doc = None
-                if first_doc:
-                    next_doc = DOCUMENT_TITLE_PATTERN_FR.search(
-                        gap_text, first_doc.end(),
-                    )
-                if next_doc:
-                    annexe_text = gap_text[:next_doc.start()].strip()
-                else:
-                    annexe_text = gap_text.strip()
-                if len(annexe_text) > 200:
-                    articles.append(
-                        Article(
-                            number=_extract_annexe_number(annexe_text),
-                            text=annexe_text,
-                            raw_header=_extract_annexe_header(annexe_text),
-                            start_pos=end,
+                # Le gap commence à l'en-tête "Annexe".  Il peut contenir
+                # PLUSIEURS annexes consécutives (chacune devient une
+                # entrée Article séparée), puis le titre de l'instrument
+                # suivant : tout ce qui suit la dernière annexe est le
+                # préambule de cet instrument et est reporté à l'article
+                # suivant (champ `.preamble`).
+                gap_matches = list(DOCUMENT_TITLE_PATTERN_FR.finditer(gap_text))
+                pos = 0
+                mi = 0
+                while mi < len(gap_matches) and re.match(
+                    r"^\s*Annexe", gap_matches[mi].group().strip(), re.IGNORECASE
+                ):
+                    next_pos = (gap_matches[mi + 1].start() if mi + 1 < len(gap_matches)
+                                else len(gap_text))
+                    annexe_text = gap_text[pos:next_pos].strip()
+                    if len(annexe_text) > 200:
+                        articles.append(
+                            Article(
+                                number=_extract_annexe_number(annexe_text),
+                                text=annexe_text,
+                                raw_header=_extract_annexe_header(annexe_text),
+                                start_pos=end + pos,
+                            )
                         )
-                    )
+                    pos = next_pos
+                    mi += 1
+                pending_preamble = gap_text[pos:].strip()
             else:
                 # Not an annexe — this gap is the preamble of the next
                 # decree/arrêté.  Defer it so the following article
@@ -625,6 +676,30 @@ def get_preamble(text: str, lang: str = "fr") -> str:
     return text.strip()
 
 
+def get_sommaire(text: str, lang: str = "fr") -> str:
+    """
+    Retourne le sommaire (table des matières) du Bulletin officiel,
+    s'il existe : de l'en-tête ``SOMMAIRE`` jusqu'au début du contenu
+    réel (première section TEXTES GÉNÉRAUX / PARTICULIERS hors liste),
+    même logique de délimitation que _skip_sommaire.  Chaîne vide si le
+    document n'a pas de sommaire.
+    """
+    sommaire_pos = text.find("SOMMAIRE")
+    if sommaire_pos == -1:
+        return ""
+    end = _skip_sommaire(text)
+    if end <= sommaire_pos:
+        return ""
+    # _skip_sommaire renvoie la position APRÈS le premier marqueur de
+    # section (ex. « TEXTES GENERAUX ») : ce marqueur marque le début du
+    # contenu réel et ne fait pas partie du sommaire lui-même.
+    for marker in ["TEXTES GÉNÉRAUX", "TEXTES GENERAUX", "TEXTES PARTICULIERS"]:
+        if text[end - len(marker):end] == marker:
+            end -= len(marker)
+            break
+    return text[sommaire_pos:end].strip()
+
+
 def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
     """
     Extrait les préambules par décret à partir des articles segmentés.
@@ -636,6 +711,14 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
     l'article précédent et le début de l'article courant.  Si oui, le
     préambule de ce décret est le texte entre ce titre et l'article.
 
+    Les ``first_article_idx`` référencent le tableau FINAL des articles
+    (après fusion des fragments courts, découpage des annexes et des
+    articles trop longs) — pas les indices bruts des marqueurs ART., qui
+    dérivent dès qu'une annexe est insérée ou qu'un article est scindé.
+    Les instruments de queue sans article (décisions courtes, avis,
+    annexes) reçoivent ``first_article_idx = len(articles)`` (un cran
+    au-delà du tableau : instrument virtuel sans article).
+
     Retourne une liste de dicts :
         {"title": str, "preamble": str, "first_article_idx": int}
     """
@@ -643,15 +726,18 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
     if not matches:
         return []
 
+    final_articles = segment_into_articles(text, lang)
+    start_to_idx: dict[int, int] = {}
+    for idx, art in enumerate(final_articles):
+        start_to_idx.setdefault(art.start_pos, idx)
+    final_len = len(final_articles)
+
     title_pattern = DOCUMENT_TITLE_PATTERN_FR if lang == "fr" else DOCUMENT_TITLE_PATTERN_AR
 
     def _title_matches(region: str) -> list:
-        # Français : ne garder que les titres à majuscule (les minuscules
-        # comme "loi n° 17-99 portant..." sont des citations). Arabe :
-        # pas de casse, l'ancrage début de ligne du pattern suffit.
         return [
             m for m in title_pattern.finditer(region)
-            if lang == "ar" or m.group().strip()[0].isupper()
+            if lang == "ar" or _is_doc_title_match(region, m, lang)
         ]
 
     sommaire_end = _skip_sommaire(text)
@@ -670,13 +756,14 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
 
         gap = text[search_start:art_start]
 
-        # Find the first doc title in the gap that starts with uppercase.
-        # Lowercase titles (e.g. "loi n° 17-99 portant...") are continuation
-        # lines from citations, not real document boundaries.
-        # The FIRST match is the document title; subsequent matches are
-        # typically enactment verbs ("ARRÊTE :", "DÉCRÈTE :") or other
-        # occurrences within the preamble — we skip those.
-        doc_matches_in_gap = _title_matches(gap)
+        # Les titres "Annexe" en tête de gap appartiennent à l'instrument
+        # PRÉCÉDENT (annexes jointes à ses articles) — le titre de
+        # l'instrument suivant arrive APRÈS.  On ne retient une "Annexe"
+        # que si le gap ne contient aucun autre titre.
+        raw_titles = _title_matches(gap)
+        non_annexe = [t for t in raw_titles
+                      if not t.group().strip().lower().startswith("annexe")]
+        doc_matches_in_gap = non_annexe or raw_titles
         if doc_matches_in_gap:
             first_doc = doc_matches_in_gap[0]
             title = first_doc.group().strip()
@@ -693,12 +780,13 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
                 decrees.append({
                     "title": title,
                     "preamble": preamble,
-                    "first_article_idx": i,
+                    "first_article_idx": start_to_idx.get(m.start(), i),
                 })
 
     # Post-process: scan text after the last article for document titles
     # that have no article markers (e.g. short CSCA decisions, AVIS, Annexes).
-    # Add them as article-less decrees.
+    # Add them as article-less decrees: first_article_idx = len(articles)
+    # (one past the end of the array — "virtual instrument").
     if matches:
         last_art_end = matches[-1].end()
         remaining = text[last_art_end:]
@@ -714,7 +802,7 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
                 decrees.append({
                     "title": dm.group().strip(),
                     "preamble": preamble,
-                    "first_article_idx": len(matches) + ti,
+                    "first_article_idx": final_len,
                 })
 
     return decrees
