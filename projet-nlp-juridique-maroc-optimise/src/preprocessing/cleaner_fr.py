@@ -168,19 +168,20 @@ def _is_arabic_char(ch: str) -> bool:
 def _is_quoted_arabic(text: str, start: int, end: int) -> bool:
     """Un tronçon arabe est une citation légitime s'il est précédé d'un
     guillemet ouvrant « ou suivi d'un guillemet fermant » (en sautant les
-    espaces, les autres caractères arabes et les marqueurs d'élision
-    ``)(.`` — ex. clause du cahier des charges SNRT citée sous la forme
-    «)...( تمتنع الشركة ... )...(», et titres d'émissions scindés par des
-    chiffres latins : «الحقيقة في 90 دقيقة» → 3 runs arabes)."""
+    espaces, les autres caractères arabes, les marqueurs d'élision
+    ``)(.`` et les CHIFFRES — les citations du cahier des charges SNRT
+    contiennent des numéros d'articles : «...المادة 2 (الفقرة 2 و3) 67،
+    66، 68 من القانون 77.03...» ; sans ce saut, les tronçons arabes
+    encadrés de chiffres étaient classés à tort « artefacts »)."""
     i = start - 1
     while i >= 0 and (text[i].isspace() or _is_arabic_char(text[i])
-                      or text[i] in ")(."):
+                      or text[i] in ")(." or text[i].isdigit()):
         i -= 1
     if i >= 0 and text[i] == "«":
         return True
     j = end
     while j < len(text) and (text[j].isspace() or _is_arabic_char(text[j])
-                             or text[j] in ")(."):
+                             or text[j] in ")(." or text[j].isdigit()):
         j += 1
     return j < len(text) and text[j] == "»"
 

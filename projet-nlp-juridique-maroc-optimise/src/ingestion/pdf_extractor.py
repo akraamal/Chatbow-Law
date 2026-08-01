@@ -336,21 +336,30 @@ def _is_ltr_char(ch: str) -> bool:
     return ch.isalpha() and not _is_rtl_char(ch)
 
 
-def _rtl_segment_to_logical(visual_chars: list) -> str:
+def _rtl_segment_to_logical(visual_chars: list, mirror_parens: bool = True) -> str:
     """Rétablit l'ordre logique d'un tronçon arabe disposé en ordre VISUEL.
 
     Le rendu RTL affiche les caractères de droite à gauche : on inverse la
-    séquence puis on rétablit les chiffres (forts LTR, affichés à l'endroit
-    même dans un contexte RTL — "90" ne doit pas ressortir "09") et on
-    permute les parenthèses/crochets (miroir BiDi).
+    séquence puis on rétablit les nombres (forts LTR, affichés à l'endroit
+    même dans un contexte RTL) et on permute les parenthèses/crochets
+    (miroir BiDi, désactivable via *mirror_parens* : dans une ligne RTL
+    entière, les parenthèses physiques sont déjà les caractères logiques,
+    simplement déplacés — l'inversion suffit, le miroir les inverserait).
+
+    La restauration des nombres porte sur des TOKENS complets
+    (``r"[0-9][0-9.,]*"``, ex. "943.26", "1.080.246,00") et non sur des
+    groupes de chiffres contigus : "943.26" inversé donne "62.349" dont
+    une restauration groupe-par-groupe produirait "26.943" à tort.
     """
-    rev = [_BIDI_MIRROR.get(ch, ch) for ch in reversed(visual_chars)]
+    rev = [_BIDI_MIRROR.get(ch, ch) for ch in reversed(visual_chars)] \
+        if mirror_parens else list(reversed(visual_chars))
     out = []
     i = 0
-    while i < len(rev):
+    n = len(rev)
+    while i < n:
         if rev[i].isdigit():
             j = i
-            while j < len(rev) and rev[j].isdigit():
+            while j < n and (rev[j].isdigit() or rev[j] in ".,"):
                 j += 1
             out.extend(reversed(rev[i:j]))
             i = j
@@ -430,13 +439,13 @@ def _fix_bidi_line(chars: list) -> str:
     Principe (mini algorithme BiDi, cf. Unicode UAX #9) : on trie les
     caractères par position physique gauche→droite, on découpe en
     tronçons homogènes (arabe vs "autre" : chiffres/latin/ponctuation),
-    on inverse l'ORDRE des tronçons (paragraphe RTL) et le contenu de
-    CHAQUE tronçon (arabes comme "autre" : dans un paragraphe RTL, tout
-    est disposé physiquement de droite à gauche, donc même les chiffres
-    apparaissent dans l'ordre inverse de leur lecture logique — "943.26"
-    est placé physiquement comme "6,2,.,3,4,9" de gauche à droite), et on
-    permute les parenthèses/crochets (miroir BiDi standard : "(" et ")"
-    échangent de rôle quand le sens de lecture s'inverse).
+    on inverse l'ORDRE des tronçons (paragraphe RTL) et on inverse le
+    contenu des tronçons ARABES.  Les tronçons «autre» sont gérés selon
+    leur contenu (cf. le code) :
+      - latin (sigle, unité, ex. "NM 01.4.510") : laissés tels quels ;
+      - chiffres/ponctuation purs : inversés, puis leurs tokens numériques
+        rétablis dans l'ordre de lecture ("943.26" est disposé
+        physiquement en ordre LTR ; l'inversion le retournerait sinon).
 
     Limite connue : les caractères neutres (espaces, parenthèses) ne sont
     pas toujours rattachés au bon tronçon voisin dans les dates
@@ -501,11 +510,18 @@ def _fix_bidi_line(chars: list) -> str:
     runs.reverse()
     out = []
     for t, chs in runs:
-        rev = list(reversed(chs))
         if t == "rtl":
-            out.append("".join(rev))
+            out.append("".join(reversed(chs)))
+        elif any(_is_ltr_char(c) for c in chs):
+            # Run «autre» contenant des lettres latines (sigle, unité —
+            # ex. "NM 01.4.510") : segment LTR déjà dans l'ordre logique ;
+            # l'inverser casserait le sigle et son nombre.
+            out.append("".join(chs))
         else:
-            out.append("".join(_BIDI_MIRROR.get(ch, ch) for ch in rev))
+            # Run «autre» pur (chiffres/ponctuation/espaces) : l'inversion
+            # + restauration des tokens numériques, SANS miroir des
+            # parenthèses (elles sont déjà des caractères logiques).
+            out.append(_rtl_segment_to_logical(chs, mirror_parens=False))
     return "".join(out)
 
 
