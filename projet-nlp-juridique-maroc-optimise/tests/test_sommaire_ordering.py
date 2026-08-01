@@ -109,10 +109,33 @@ def test_org_money_patterns():
         "CHARIOT OIL & GAS HOLDINGS": ["CHARIOT OIL & GAS HOLDINGS"],
         "TANGER MED PORT AUTHORITY": ["TANGER MED PORT AUTHORITY"],
         "XYZ BANK": ["XYZ BANK"],
+        # Déclencheurs « ... » validés corpus-wide (casse mixte) :
+        "dans le site « Analysis and Control Laboratory (ACLAB) »":
+            ["site « Analysis and Control Laboratory (ACLAB) »"],
+        "à l'entreprise «SMAËX»": ["entreprise «SMAËX»"],
+        "de la banque « CDG Capital »": ["banque « CDG Capital »"],
+        "de la banque « Attijariwafa Bank »": ["banque « Attijariwafa Bank »"],
+        "l'organisme « Bureau Veritas »": ["organisme « Bureau Veritas »"],
+        "le groupe « SANLAM »": ["groupe « SANLAM »"],
+        "Higher Educational Institution « Prydniprovska State Academy of Civil Engineering And Architecture »":
+            ["Institution « Prydniprovska State Academy of Civil Engineering And Architecture »"],
+        "Société « CHARIOT RISSANA LIMITED »": ["Société « CHARIOT RISSANA LIMITED »"],
     }
     for text, expected in org_cases.items():
         got = [m.group(0) for m in ORG_PATTERN.finditer(text)]
         assert got == expected, f"ORG {text!r}: {got} != {expected}"
+
+    # Bruit confirmé sur le corpus : NE PAS capturer.
+    neg_cases = [
+        "permis de recherche d'hydrocarbures dit « RISSANA OFFSHORE 1 »",
+        "pôle dénommé « Maison de l'investisseur »",
+        "l'huître creuse « Crassostrea Gigas »",
+        "taxe parafiscale dite « Taxe de solidarité »",
+        "l'entreprise « d'assurances concernée …….... engagées à cet effet. »",
+    ]
+    for text in neg_cases:
+        got = [m.group(0) for m in ORG_PATTERN.finditer(text)]
+        assert got == [], f"ORG bruit {text!r}: {got}"
 
     e = clean_entity_text({"label": "ORG", "text": "société\n« MURPHY\nMOROCCO »",
                            "start": 0, "end": 30})

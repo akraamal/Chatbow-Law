@@ -86,9 +86,24 @@ CIRCULAIRE_PATTERN = re.compile(
     rf"[Cc]irculaire\s+(?:{_N})?\s*[\d]+(?:[-–./][\d]+){{0,2}}",
 )
 
-# --- ORG (sociétés) ---
+# --- ORG (sociétés et organisations) ---
 # Deux formes réelles du BO :
-#   - "Société « ... »" (dénomination entre guillemets français) ;
+#   - déclencheur + dénomination entre guillemets français, casse mixte :
+#     "Société « ... »", "la banque « CDG Capital »",
+#     "l'organisme « Bureau Veritas »", "dans le site « Analysis and Control
+#     Laboratory (ACLAB) »", "à l'entreprise «SMAËX»", "le groupe « SANLAM »",
+#     "State Higher Educational Institution « ... »".
+#     Liste validée sur TOUT le corpus (pas seulement BO_7522) : banque,
+#     organisme, site, entreprise, groupe, établissement, université,
+#     institution précèdent réellement des noms d'organisations ; en
+#     revanche "dit/dite/dénommé" (permis d'hydrocarbures, taxes, pôles,
+#     commissions) et les noms d'espèces ("l'huître creuse « Crassostrea
+#     Gigas »") sont exclus — bruit confirmé corpus-wide.
+#     Pour ces nouveaux déclencheurs, le contenu doit commencer par une
+#     majuscule : élimine "entreprise « d'assurances concernée ... »"
+#     (phrase de formulaire, BO_7506) sans perdre aucun vrai nom du corpus
+#     ("« chada radio s.a. »" en minuscule n'existe QUE derrière "société",
+#     donc la branche société reste sans contrainte).
 #   - raisons sociales tout en majuscules sans accents, terminées par un
 #     suffixe courant : "MURPHY MOROCCO OIL CO., LTD",
 #     "CHARIOT OIL & GAS HOLDINGS", "TANGER MED PORT AUTHORITY".
@@ -96,9 +111,14 @@ CIRCULAIRE_PATTERN = re.compile(
 # noms de ministères ("MINISTRE DE L'ÉCONOMIE" contient des é/accentués).
 # Le tiret est autorisé (raisons sociales avec trait d'union, ex.
 # "AL-MAGHRIB").
+_ORG_TRIGGER = (
+    r"(?:[Bb]anque|[Oo]rganisme|[Ss]ite|[Ee]ntreprise|[Gg]roupe"
+    r"|[ÉéEe]tablissement|[Uu]niversit[ée]|[Ii]nstitution)"
+)
 _ALLCAPS_NAME = r"[A-Z][A-Z0-9]*(?:\s+[A-Z0-9&'.+-]+)*"
 ORG_PATTERN = re.compile(
     rf"(?:[Ss]oci[ée]t[ée]\s+«[^»]{{2,80}}»"
+    rf"|{_ORG_TRIGGER}\s+«\s*[A-ZÀ-Ü0-9][^»]{{1,80}}»"
     rf"|\bBANK\s+AL-MAGHRIB\b"
     rf"|\b{_ALLCAPS_NAME}\s+(?:CO\.?\s*,\s*(?:LTD|INC|PLC|LLC)\b|CO\b"
     rf"|LTD\b"
