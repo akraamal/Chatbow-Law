@@ -276,6 +276,50 @@ def _order_blocks_for_reading(raw_blocks):
     return ordered
 
 
+# Marge verticale au-dessus du bloc « SOMMAIRE » pour rattacher les blocs
+# du sommaire (ex. « Pages ») à la zone sommaire et non au bandeau haut.
+_SOMMAIRE_MARGIN_Y = 12.0
+
+
+def _order_sommaire_page(raw_blocks):
+    """
+    Page de garde des éditions FR (couverture + sommaire) : le bandeau haut
+    (tarifs d'abonnement, table de prix sur 4 colonnes) et le sommaire
+    (2 colonnes en bas) ont des structures de colonnes DIFFÉRENTES — aucun
+    split global ne peut les traiter ensemble, car les blocs des deux zones
+    s'intercalent en x (ex. BO_7522 page 1 : « A destination de l'étranger »
+    du tableau d'abonnement chevauche la colonne droite du sommaire, et
+    l'écart maximal est celui du tableau, pas celui du sommaire → les
+    entrées « Arrêté conjoint... » étaient étiquetées "spanning" et se
+    retrouvaient intercalées ligne par ligne avec la colonne gauche :
+    "Arrêté conjoint du ministre de l'industrie et du Cour
+    constitutionnelle. commerce et de la ministre...").
+
+    On découpe donc la page en deux zones :
+      - zone sommaire (à partir du bloc « SOMMAIRE ») : ordonnée
+        colonne-par-colonne (_order_blocks_for_reading, fiable ici car la
+        zone est proprement bicolonne) ;
+      - bandeau haut (abonnements) : simple tri par y.
+
+    Retourne None si la page ne contient pas de sommaire détectable.
+    """
+    sommaire_y = None
+    for b in raw_blocks:
+        t = b[4].strip()
+        if t == "SOMMAIRE" or (t.startswith("SOMMAIRE") and len(t) < 20):
+            sommaire_y = b[1]
+            break
+    if sommaire_y is None:
+        return None
+
+    toc = [b for b in raw_blocks if b[1] >= sommaire_y - _SOMMAIRE_MARGIN_Y]
+    toc_ids = {id(b) for b in toc}
+    top = [b for b in raw_blocks if id(b) not in toc_ids]
+
+    ordered_toc = _order_blocks_for_reading(toc)
+    return sorted(top, key=lambda b: (b[1], b[0])) + ordered_toc
+
+
 _BIDI_MIRROR = {"(": ")", ")": "(", "[": "]", "]": "[", "{": "}", "}": "{"}
 
 # Plages Unicode arabes (arabe, arabe étendu-A/B, formes de présentation)
@@ -404,26 +448,34 @@ def _fix_bidi_line(chars: list) -> str:
     """
     chars = sorted(chars, key=lambda c: c["bbox"][0])
 
-    # Direction du paragraphe (UAX #9, règle P2) : le PREMIER caractère
-    # fort (lettre) de la ligne décide du sens.  Une ligne française qui
-    # contient un caractère arabe isolé (chiffre arabo-indien, glyphe
-    # parasite, date hégirienne) reste LTR — l'ancien comportement
-    # inversait alors TOUTE la ligne dès qu'un caractère RTL était
-    # présent (ex. « relative aux émissions « 09 » « et » » ressortait
-    # « » « te » 09 « snoissimé xua evitaler »), même si la ligne était
-    # du français pur.  La correction BiDi n'est appliquée que si le
-    # premier caractère fort est RTL (ligne arabe, éventuellement
-    # ponctuée de nombres latins).
-    paragraph_is_rtl = None
+    # Direction du paragraphe : le PREMIER caractère fort (UAX #9, P2)
+    # DOIT CONVERGER avec la majorité des lettres fortes.  Seule la règle
+    # P2 se trompe sur les lignes françaises dont le saut de ligne place
+    # une citation arabe EN TÊTE (ex. «الحقيقة في 90 دقيقة» et de
+    # l'édition du 18 janvier 2026...) : le premier caractère fort y est
+    # arabe, mais la ligne est majoritairement française — l'ancien code
+    # inversait alors toute la ligne (sortie : "ed 6202 reivnaj 81 ud
+    # noitidé'l ed te »الحقيقة...«").  Inversement, une majorité seule se
+    # trompe sur les lignes ~50/50 (ex. «relative aux émissions
+    # «الحقيقة...» et «أسد إفريقيا»», 24 lettres arabes vs 22 latines).
+    # Les deux signaux doivent donc être RTL pour appliquer l'inversion
+    # RTL complète ; sinon on traite la ligne comme LTR avec tronçons RTL.
+    first_strong_rtl = None
     for c in chars:
         ch = c["c"]
         if _is_rtl_char(ch):
-            paragraph_is_rtl = True
+            first_strong_rtl = True
             break
         if _is_ltr_char(ch):
-            paragraph_is_rtl = False
+            first_strong_rtl = False
             break
-    if paragraph_is_rtl is False:
+    rtl_letters = sum(1 for c in chars if _is_rtl_char(c["c"]))
+    ltr_letters = sum(1 for c in chars if _is_ltr_char(c["c"]))
+    paragraph_is_rtl = bool(first_strong_rtl) and rtl_letters >= ltr_letters
+
+    if not paragraph_is_rtl:
+        if ltr_letters == 0:
+            return "".join(c["c"] for c in chars)  # pas de lettres du tout
         # Ligne LTR (français) : les éventuels tronçons arabes cités
         # («الحقيقة في 90 دقيقة») sont inversés UNIQUEMENT, pas toute la
         # ligne — l'ancien comportement laissait les tronçons arabes dans
@@ -511,7 +563,11 @@ def extract_text_from_pdf(pdf_path: str) -> ExtractedDocument:
 
             raw_blocks = _extract_blocks_via_rawdict(page)
 
-            raw_blocks = _order_blocks_for_reading(raw_blocks)
+            sommaire_ordered = _order_sommaire_page(raw_blocks)
+            if sommaire_ordered is not None:
+                raw_blocks = sommaire_ordered
+            else:
+                raw_blocks = _order_blocks_for_reading(raw_blocks)
 
             page_blocks = []
             page_text_parts = []

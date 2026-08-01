@@ -134,23 +134,55 @@ def remove_dot_leader_lines(text: str) -> str:
 
 def remove_arabic_artifacts(text: str, collector: list | None = None) -> str:
     """
-    Supprime les caractères arabes isolés qui ont débordé de la colonne
-    arabe lors de l'extraction PDF. Nettoie aussi les marqueurs RTL/LTR
-    (U+200E, U+200F) qui polluent le texte français.
+    Nettoie les caractères arabes résiduels du texte français.
 
-    Si *collector* est fourni, chaque tronçon arabe supprimé y est ajouté
-    (au lieu d'être perdu silencieusement) : le BO français cite
-    légitimement des passages en arabe que l'appelant peut exposer à part
-    (champ ``possible_embedded_arabic`` du JSON annoté) pour relecture.
+    Distingue deux cas :
+      - Tronçons arabes LÉGITIMES cités entre guillemets français
+        («الحقيقة في 90 دقيقة», titre d'émission dans la décision du CSN ;
+        «)...( تمتنع الشركة...», clause du cahier des charges SNRT reprise
+        verbatim) : CONSERVÉS dans le texte.  Ils font partie du contenu
+        juridique ; les retirer laissait des guillemets vides («  ») et
+        rendait le RAG incapable de répondre sur ces clauses.  L'extracteur
+        PDF a déjà rétabli leur ordre logique (voir _fix_bidi_line).
+      - Artefacts (débordements isolés de la colonne arabe voisine, sans
+        guillemets) : SUPPRIMÉS et, si *collector* est fourni, ajoutés
+        pour relecture (champ ``possible_embedded_arabic`` du JSON).
+
+    Nettoie aussi les marqueurs RTL/LTR (U+200E, U+200F).
     """
-    if collector is None:
-        return ARABIC_CHARS.sub("", text)
 
     def _drop(match: re.Match) -> str:
-        collector.append(match.group(0).strip())
+        if _is_quoted_arabic(text, match.start(), match.end()):
+            return match.group(0)
+        if collector is not None:
+            collector.append(match.group(0).strip())
         return ""
 
     return ARABIC_CHARS.sub(_drop, text)
+
+
+def _is_arabic_char(ch: str) -> bool:
+    return ARABIC_CHARS.fullmatch(ch) is not None
+
+
+def _is_quoted_arabic(text: str, start: int, end: int) -> bool:
+    """Un tronçon arabe est une citation légitime s'il est précédé d'un
+    guillemet ouvrant « ou suivi d'un guillemet fermant » (en sautant les
+    espaces, les autres caractères arabes et les marqueurs d'élision
+    ``)(.`` — ex. clause du cahier des charges SNRT citée sous la forme
+    «)...( تمتنع الشركة ... )...(», et titres d'émissions scindés par des
+    chiffres latins : «الحقيقة في 90 دقيقة» → 3 runs arabes)."""
+    i = start - 1
+    while i >= 0 and (text[i].isspace() or _is_arabic_char(text[i])
+                      or text[i] in ")(."):
+        i -= 1
+    if i >= 0 and text[i] == "«":
+        return True
+    j = end
+    while j < len(text) and (text[j].isspace() or _is_arabic_char(text[j])
+                             or text[j] in ")(."):
+        j += 1
+    return j < len(text) and text[j] == "»"
 
 
 def collapse_blank_lines(text: str) -> str:
@@ -178,8 +210,9 @@ def clean_french_text(
         normalize_apos: si True, normalise les apostrophes typographiques.
         remove_arabic: si True, supprime les artefacts arabes résiduels.
         arabic_runs: liste optionnelle recevant chaque tronçon arabe retiré
-            (voir remove_arabic_artifacts) — pour exposer les citations
-            arabes du BO français au lieu de les perdre.
+            (voir remove_arabic_artifacts) — les citations arabes légitimes
+            entre guillemets sont conservées dans le texte ; seuls les
+            artefacts sont collectés ici.
 
     Returns:
         Texte nettoyé, prêt pour la segmentation en articles.

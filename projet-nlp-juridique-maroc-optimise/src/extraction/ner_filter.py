@@ -73,7 +73,7 @@ BLACKLIST_ORG = {
 # observé sur BO_7522 : 26 entités seulement pour 141 pages).
 _DIGIT_HEAVY_LABELS = {
     "DAHIR", "LOI", "DECRET", "ARRETE", "BULLETIN_OFFICIEL",
-    "CIRCULAIRE", "DATE_HIJRI", "DATE_GREGORIAN",
+    "CIRCULAIRE", "DATE_HIJRI", "DATE_GREGORIAN", "MONEY",
 }
 
 

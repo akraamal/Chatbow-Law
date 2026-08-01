@@ -86,6 +86,36 @@ CIRCULAIRE_PATTERN = re.compile(
     rf"[Cc]irculaire\s+(?:{_N})?\s*[\d]+(?:[-–./][\d]+){{0,2}}",
 )
 
+# --- ORG (sociétés) ---
+# Deux formes réelles du BO :
+#   - "Société « ... »" (dénomination entre guillemets français) ;
+#   - raisons sociales tout en majuscules sans accents, terminées par un
+#     suffixe courant : "MURPHY MOROCCO OIL CO., LTD",
+#     "CHARIOT OIL & GAS HOLDINGS", "TANGER MED PORT AUTHORITY".
+# Les minuscules/accents exclus du run majuscule évitent de capturer les
+# noms de ministères ("MINISTRE DE L'ÉCONOMIE" contient des é/accentués).
+_ALLCAPS_NAME = r"[A-Z][A-Z0-9]*(?:\s+[A-Z0-9&'.]+)*"
+ORG_PATTERN = re.compile(
+    rf"(?:[Ss]oci[ée]t[ée]\s+«[^»]{{2,80}}»"
+    rf"|\b{_ALLCAPS_NAME}\s+(?:CO\b|CO\.?\s*,\s*(?:LTD|INC|PLC|LLC)\b|LTD\b"
+    rf"|LLC\b|PLC\b|INC\b|SARL\b|SPA\b|S\.A\.\b|GROUP\b|HOLDINGS\b"
+    rf"|PORT\s+AUTHORITY\b|BANK\b|AGENCY\b))",
+)
+
+# --- MONEY (montants) ---
+# Formes réelles du BO (ex. convention de crédit CMA, BO_7522) :
+#   - numérique : "100.000.000,00 euros", "2.500.000 DH" ;
+#   - en toutes lettres : "cent millions d'euros" (souvent suivi du
+#     montant numérique entre parenthèses).
+_AMOUNT_NUM = r"\d{{1,3}}(?:[.\s]\d{{3}})+,\d{{2}}\s*(?:DH|MAD|EUR|USD|euros?|dirhams?|dollars?)"
+_MAGNITUDE_WORDS = (r"(?:cent|deux cents|trois cents|cinq cents|"
+                    r"deux|trois|quatre|cinq|six|sept|huit|neuf|dix|douze|quinze|"
+                    r"vingt|trente|quarante|cinquante|soixante)")
+MONEY_PATTERN = re.compile(
+    rf"(?:{_AMOUNT_NUM}"
+    rf"|\b{_MAGNITUDE_WORDS}\s+(?:millions?|milliards?)\s+d['’]?euros?)",
+)
+
 # Regroupement pour itération facile côté entity_ruler_builder_fr.py
 # Note : MINISTERE n'est pas ici car il est géré par l'EntityRuler spaCy
 # (patterns/fr/ministeres.jsonl) qui capture les noms complets, contrairement
@@ -96,6 +126,8 @@ LEGAL_REFERENCE_PATTERNS = {
     "DECRET": DECRET_PATTERN,
     "ARRETE": ARRETE_PATTERN,
     "BULLETIN_OFFICIEL": BULLETIN_OFFICIEL_PATTERN,
+    "MONEY": MONEY_PATTERN,
+    "ORG": ORG_PATTERN,
 }
 
 

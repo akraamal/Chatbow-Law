@@ -292,26 +292,22 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
         for j in range(start_idx, end_idx):
             article_to_decree[j] = dec
 
-    # Extract legal entities from each decree preamble once.
-    # Also cache the PREVIOUS decree's entities (for cross-decree references).
+    # Extract legal entities from each decree preamble once (full NER —
+    # arrêtés/décrets/lois/dahirs, dates, ministères).  Crucial pour les
+    # Décisions (ex. CSN Radio Mars) dont le préambule est la quasi-totalité
+    # du contenu et qui n'ont pas de numérotation "Article" : sans cela,
+    # ces instruments n'ont AUCUNE entité, structurellement.  Les entités
+    # sont stockées sur le décret (decrees[i]["entities"]) et propagées
+    # aux articles du décret plus bas.
     decree_entities_cache = {}
     for i, dec in enumerate(decrees):
         dec_preamble = dec.get("preamble", "")
         if not dec_preamble:
+            dec["entities"] = []
             continue
-        # Flatten newlines so regexes can match numbers that span lines
-        # (e.g. "décret n°2-22-\n191" → "décret n°2-22- 191").
-        dec_preamble = dec_preamble.replace("\n", " ")
-        ents = []
-        for label, pattern in [
-            ("ARRETE", re.compile(r"Arr[êe]t[ée](?:\s+conjoint)?\s+n[°°]\s*[\w\-\.]+", re.IGNORECASE)),
-            ("DECRET", re.compile(r"D[ée]cret\s+n[°°]\s*[\w\-\.]+", re.IGNORECASE)),
-            ("LOI", re.compile(r"Loi\s+n[°°]\s*[\w\-\.]+", re.IGNORECASE)),
-            ("DAHIR", re.compile(r"Dahir\s+n[°°]\s*[\w\-\.]+", re.IGNORECASE)),
-        ]:
-            for m in pattern.finditer(dec_preamble):
-                ents.append({"text": m.group(), "label": label,
-                             "start": m.start(), "end": m.end()})
+        doc = extract_fn(dec_preamble, nlp=nlp)
+        ents = filter_entities(_entities_to_dicts(doc))
+        dec["entities"] = ents
         decree_entities_cache[id(dec)] = ents
 
     # Also extract document-level preamble entities for cross-decree references
