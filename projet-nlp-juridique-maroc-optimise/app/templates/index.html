@@ -2,7 +2,7 @@
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <title>ADLI MOROCCO - Portail Légal</title>
-<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script src="{{ url_for('static', filename='js/tailwind.js') }}"></script>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&amp;family=Cairo:wght@400;600;700&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
 <script id="tailwind-config">
@@ -56,8 +56,8 @@
 <span class="font-display-lg text-headline-md text-primary uppercase tracking-tight">ADLI MOROCCO</span>
 <nav class="hidden md:flex gap-6">
 <a class="text-on-surface-variant font-medium hover:text-primary-container transition-colors" href="#">Directives</a>
-<a class="text-on-surface-variant font-medium hover:text-primary-container transition-colors" href="#">Bulletins</a>
-<a class="text-tertiary font-bold border-b-2 border-tertiary pb-1" href="#">Jurisprudence</a>
+<a class="text-on-surface-variant font-medium hover:text-primary-container transition-colors" href="/analyzer">Bulletins</a>
+<a class="text-tertiary font-bold border-b-2 border-tertiary pb-1" href="/analyzer">Jurisprudence</a>
 </nav>
 </div>
 <div class="flex items-center gap-6">
@@ -99,7 +99,7 @@
 <span class="material-symbols-outlined text-primary group-hover:translate-x-1 transition-transform">book</span>
 <span class="font-body-md">Bibliothèque</span>
 </a>
-<a class="flex items-center gap-3 p-3 bg-primary-container text-on-primary-container font-bold rounded-lg translate-x-1" href="#">
+<a class="flex items-center gap-3 p-3 bg-primary-container text-on-primary-container font-bold rounded-lg translate-x-1" href="/analyzer">
 <span class="material-symbols-outlined">gavel</span>
 <span class="font-body-md">Analyses</span>
 </a>
@@ -219,5 +219,5 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
 </div>
 </footer>
 
-<script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+<script src="{{ url_for('static', filename='js/chat.js') }}?v=2"></script>
 </body></html>
