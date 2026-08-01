@@ -94,12 +94,16 @@ CIRCULAIRE_PATTERN = re.compile(
 #     "CHARIOT OIL & GAS HOLDINGS", "TANGER MED PORT AUTHORITY".
 # Les minuscules/accents exclus du run majuscule évitent de capturer les
 # noms de ministères ("MINISTRE DE L'ÉCONOMIE" contient des é/accentués).
-_ALLCAPS_NAME = r"[A-Z][A-Z0-9]*(?:\s+[A-Z0-9&'.]+)*"
+# Le tiret est autorisé (raisons sociales avec trait d'union, ex.
+# "AL-MAGHRIB").
+_ALLCAPS_NAME = r"[A-Z][A-Z0-9]*(?:\s+[A-Z0-9&'.+-]+)*"
 ORG_PATTERN = re.compile(
     rf"(?:[Ss]oci[ée]t[ée]\s+«[^»]{{2,80}}»"
-    rf"|\b{_ALLCAPS_NAME}\s+(?:CO\b|CO\.?\s*,\s*(?:LTD|INC|PLC|LLC)\b|LTD\b"
+    rf"|\bBANK\s+AL-MAGHRIB\b"
+    rf"|\b{_ALLCAPS_NAME}\s+(?:CO\.?\s*,\s*(?:LTD|INC|PLC|LLC)\b|CO\b"
+    rf"|LTD\b"
     rf"|LLC\b|PLC\b|INC\b|SARL\b|SPA\b|S\.A\.\b|GROUP\b|HOLDINGS\b"
-    rf"|PORT\s+AUTHORITY\b|BANK\b|AGENCY\b))",
+    rf"|PORT\s+AUTHORITY\b|BANK\b(?!\s+[A-Z])|AGENCY\b))",
 )
 
 # --- MONEY (montants) ---
@@ -107,7 +111,11 @@ ORG_PATTERN = re.compile(
 #   - numérique : "100.000.000,00 euros", "2.500.000 DH" ;
 #   - en toutes lettres : "cent millions d'euros" (souvent suivi du
 #     montant numérique entre parenthèses).
-_AMOUNT_NUM = r"\d{{1,3}}(?:[.\s]\d{{3}})+,\d{{2}}\s*(?:DH|MAD|EUR|USD|euros?|dirhams?|dollars?)"
+# Chaîne BRUTE (pas rf"") : les quantifieurs doivent être en accolades
+# SIMPLES — des accolades doublées (syntaxe f-string) feraient matcher le
+# littéral "{1,3}" et le pattern ne matcherait JAMAIS (régression
+# confirmée : "100.000.000,00 euros" non capturé).
+_AMOUNT_NUM = r"\d{1,3}(?:[.\s]\d{3})+,\d{2}\s*(?:DH|MAD|EUR|USD|euros?|dirhams?|dollars?)"
 _MAGNITUDE_WORDS = (r"(?:cent|deux cents|trois cents|cinq cents|"
                     r"deux|trois|quatre|cinq|six|sept|huit|neuf|dix|douze|quinze|"
                     r"vingt|trente|quarante|cinquante|soixante)")

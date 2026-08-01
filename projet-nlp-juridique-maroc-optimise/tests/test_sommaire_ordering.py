@@ -85,3 +85,36 @@ def test_quoted_arabic_preserved_in_cleaner():
     assert "الحقيقة في 90 دقيقة" in out, "titre d'émission cité supprimé"
     assert "الحقي artefact" not in out, "artefact non cité conservé"
     assert runs == ["الحقي"], f"collecteur inattendu : {runs}"
+
+
+def test_org_money_patterns():
+    """Régression patterns ORG/MONEY :
+    - le montant numérique (accolades simples) doit matcher ;
+    - « BANK AL-MAGHRIB » ne doit pas être tronqué à « BANK » ;
+    - « CO., LTD » doit être capturé en entier ;
+    - les espaces internes (retours à la ligne) sont aplatis dans le texte
+      de l'entité sans casser les offsets."""
+    import re
+
+    from extraction.loi_decrets_patterns import MONEY_PATTERN, ORG_PATTERN
+    from extraction.ner_filter import clean_entity_text
+
+    s = "cent millions d'euros (100.000.000,00 euros)"
+    assert "100.000.000,00 euros" in [m.group(0) for m in MONEY_PATTERN.finditer(s)], \
+        "montant numérique non capturé (accolades doublées ?)"
+
+    org_cases = {
+        "LE WALI DE BANK AL-MAGHRIB": ["BANK AL-MAGHRIB"],
+        "MURPHY MOROCCO OIL CO., LTD": ["MURPHY MOROCCO OIL CO., LTD"],
+        "CHARIOT OIL & GAS HOLDINGS": ["CHARIOT OIL & GAS HOLDINGS"],
+        "TANGER MED PORT AUTHORITY": ["TANGER MED PORT AUTHORITY"],
+        "XYZ BANK": ["XYZ BANK"],
+    }
+    for text, expected in org_cases.items():
+        got = [m.group(0) for m in ORG_PATTERN.finditer(text)]
+        assert got == expected, f"ORG {text!r}: {got} != {expected}"
+
+    e = clean_entity_text({"label": "ORG", "text": "société\n« MURPHY\nMOROCCO »",
+                           "start": 0, "end": 30})
+    assert e["text"] == "société « MURPHY MOROCCO »"
+    assert e["start"] == 0 and e["end"] == 30

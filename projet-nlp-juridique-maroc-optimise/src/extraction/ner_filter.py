@@ -77,13 +77,23 @@ _DIGIT_HEAVY_LABELS = {
 }
 
 
+# Espacements internes (retours à la ligne sautés par un pattern — ex.
+# une classe négative [^»] matche \n) : à aplatir dans le TEXTE affiché,
+# pas dans le pattern (start/end restent les offsets dans le texte source).
+_WS_RUN = re.compile(r"\s+")
+
+
 def clean_entity_text(entity: dict) -> dict:
     """
-    Nettoie le texte d'une entité en retirant les numéros de page
-    résiduels (4 chiffres collés à la fin, courants dans la table
-    des matières du BO). Ajuste end pour rester cohérent.
+    Nettoie le texte d'une entité :
+      - aplatit les espaces internes (retours à la ligne d'extraction) ;
+      - retire les numéros de page résiduels (4 chiffres collés à la fin,
+        courants dans la table des matières du BO).
+    start/end restent des offsets valides dans le texte source.
     """
-    text = entity.get("text", "")
+    text = entity.get("text", "") or ""
+    text = _WS_RUN.sub(" ", text).strip()
+    entity["text"] = text
     m = _TRAILING_PAGE_NUMBER.search(text)
     if m:
         trailing = m.group(1)
