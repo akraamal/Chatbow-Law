@@ -116,3 +116,43 @@ def test_bo7510_arrete_pairs_not_merged(tmp_path, monkeypatch):
     counts.append(len(data["articles"]) - indices[-1])
     assert counts[:3] == [2, 2, 2], \
         f"arrêtés non découpés en 2 articles : {list(zip(nums, counts))}"
+
+
+FR_PDF_7492 = Path("data/raw/fr/BO_7492_Fr.pdf")
+
+
+@pytest.mark.skipif(
+    not FR_PDF_7492.exists(), reason="BO_7492_Fr.pdf absent du dépôt (données gitignorées)"
+)
+def test_bo7492_arrete_pairs_not_merged(tmp_path, monkeypatch):
+    """Cas n=2 (BO_7492_Fr.pdf) : les arrêtés « équivalences de diplômes »
+    (168-26 chirurgie générale, 349-26 et 350-26 architecte) font chacun
+    2 articles (ARTICLE PREMIER + ART. 2) et doivent rester trois
+    instruments séparés, pas être fusionnés.
+    """
+    import scripts.run_pipeline_complet as rpc
+
+    for name in ("INTERIM_DIR", "PROCESSED_DIR", "ANNOTATED_DIR", "ANNOTATED_MD_DIR"):
+        monkeypatch.setattr(rpc, name, tmp_path / name)
+
+    rpc.process_single_pdf(FR_PDF_7492)
+
+    out = tmp_path / "ANNOTATED_DIR" / "fr_BO_7492_Fr_entities.json"
+    data = json.loads(out.read_text(encoding="utf-8"))
+    decs = data["decrees"]
+
+    ensup = [d for d in decs if d["preamble"].startswith(
+        "Arrêté du ministre de l'enseignement supérieur")]
+    nums = [d["preamble"].split("n° ")[1].split(" ")[0] for d in ensup]
+    for expected in ("168-26", "349-26", "350-26"):
+        assert expected in nums, \
+            f"arrêté {expected} manquant : {nums}"
+
+    positions = [decs.index(d) for d in ensup]
+    counts = []
+    for p in positions:
+        end = (decs[p + 1]["first_article_idx"] if p + 1 < len(decs)
+               else len(data["articles"]))
+        counts.append(end - decs[p]["first_article_idx"])
+    assert counts == [2, 2, 2], \
+        f"arrêtés non découpés en 2 articles : {list(zip(nums, counts))}"

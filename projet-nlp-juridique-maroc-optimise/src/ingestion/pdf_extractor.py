@@ -21,7 +21,7 @@ import fitz
 # détectés comme stalés via leur sidecar .meta.json
 # (pipeline.stamp_interim_provenance) et la régénération des JSON est
 # refusée tant que l'ingestion n'a pas été relancée.
-EXTRACTOR_VERSION = "1"
+EXTRACTOR_VERSION = "4"
 
 
 # ======================================================================
@@ -96,6 +96,70 @@ def _is_rtl_text(text: str) -> bool:
     return arabic_count > len(text) * 0.3
 
 
+# Nombre minimal de blocs ENTIERS requis de part et d'autre d'une gouttière
+# candidate pour la retenir comme séparation de colonnes (cf.
+# _is_valid_column_gap).
+MIN_BLOCKS_PER_COLUMN = 2
+
+
+def _is_valid_column_gap(sorted_by_x, idx, min_blocks=MIN_BLOCKS_PER_COLUMN):
+    """Un écart entre deux blocs consécutifs (en x) n'est une gouttière de
+    colonnes que si des blocs ENTIERS se trouvent de part et d'autre de la
+    frontière : aucun bloc ne doit chevaucher la séparation (les titres
+    centrés qui traversent l'inter-colonnes sont retirés en ``spanning``
+    après le split).  Un simple max-gap se trompe sinon : ex. un bloc
+    centré « ARRÊTE : » (x0 420,8) précédé en x d'une fin de ligne courte
+    (x1 387,3) produit un écart supérieur à la vraie gouttière."""
+    split_x = (sorted_by_x[idx][2] + sorted_by_x[idx + 1][0]) / 2
+    left = sum(1 for b in sorted_by_x if b[2] <= split_x)
+    right = sum(1 for b in sorted_by_x if b[0] >= split_x)
+    return left >= min_blocks and right >= min_blocks
+
+
+def _find_empty_band(blocks, min_blocks=MIN_BLOCKS_PER_COLUMN):
+    """Cherche la bande verticale vide la plus large entre les blocs, avec
+    au moins ``min_blocks`` blocs ENTIERS de part et d'autre.
+
+    On balaie la COUVERTURE de l'axe X (union des intervalles x des blocs),
+    pas les écarts entre blocs consécutifs : un bloc centré DANS une
+    colonne (ex. « ARRÊTE : » de la page 98 du BO_7492, x 134-174) interrompt
+    la séquence des blocs triés par x0 et masque la vraie gouttière
+    (289→309) — aucun couple consécutif ne la traverse, alors que le
+    balayage de couverture la voit comme une bande sans aucun bloc.
+
+    Returns:
+        (start, end) du milieu de la bande la plus large, ou None si aucune
+        bande valide (blocs entiers des deux côtés).
+    """
+    if not blocks:
+        return None
+
+    events = []
+    for b in blocks:
+        events.append((b[0], +1))
+        events.append((b[2], -1))
+    events.sort()
+
+    coverage = 0
+    bands = []
+    x = events[0][0]
+    for pos, delta in events:
+        if pos > x and coverage == 0:
+            bands.append((x, pos))
+        coverage += delta
+        x = max(x, pos)
+
+    best = None
+    for start, end in bands:
+        left = sum(1 for b in blocks if b[2] <= start)
+        right = sum(1 for b in blocks if b[0] >= end)
+        if left < min_blocks or right < min_blocks:
+            continue
+        if best is None or (end - start) > (best[1] - best[0]):
+            best = (start, end)
+    return best
+
+
 def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
     """
     Détecte une éventuelle séparation en colonnes par un algorithme
@@ -104,25 +168,29 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
     Principe :
       1. Trie les blocs par x0 (projection sur l'axe X).
       2. Calcule tous les écarts x0(n) - x1(n-1) entre blocs consécutifs.
-      3. Identifie l'écart MAXIMAL (le plus grand gap).
-      4. Calcule la MÉDIANE des AUTRES écarts (valeur typique).
-      5. Si le plus grand gap est significativement plus grand que les autres
-         (ratio >= min_ratio) ET dépasse un seuil plancher (min_gap_floor),
-         on considère qu'il s'agit d'une séparation entre colonnes.
-      6. Dans ce cas, on assigne chaque bloc à la colonne de gauche ou de
+      3. Parmi les écarts qui dépassent le seuil adaptatif
+         (max(min_gap_floor, médiane des écarts * min_ratio)), retient
+         les gouttières PLAUSIBLES : un écart ne sépare deux colonnes que
+         si des blocs ENTIERS se trouvent de part et d'autre (aucun bloc
+         ne chevauche la séparation — les titres centrés sont traités en
+         spanning plus tard).
+      4. Choisit la gouttière au plus grand écart valide.
+      5. Dans ce cas, on assigne chaque bloc à la colonne de gauche ou de
          droite selon la position de son centre (x0+x1)/2 par rapport au
-         milieu du gap.
-      7. Les blocs qui CHEVAUCHENT la frontière entre les deux colonnes
+         milieu de la gouttière.
+      6. Les blocs qui CHEVAUCHENT la frontière entre les deux colonnes
          (titres de section centrés comme « TEXTES GENERAUX » qui
          traversent l'espace inter-colonnes) sont isolés dans ``spanning`` :
          ils n'appartiennent à aucune colonne et doivent être émis à leur
          position verticale, comme un bloc pleine largeur.
 
-    Cette approche est plus robuste que les seuils absolus (pourcentage
-    de l'emprise ou médiane des largeurs) car elle compare les écarts
-    entre eux au sein d'une même zone, ce qui s'adapte naturellement
-    à des mises en page très différentes (sommaires denses ~100 pt,
-    corps d'arrêté ~200 pt).
+    Le filtre « blocs entiers de part et d'autre » (étape 3) corrige un
+    faux positif du simple max-gap : BO_7492 page 103, le bloc centré
+    « ARRÊTE : » (x0 420,8) précédé en x de la fin courte « de fgiuier. »
+    (x1 387,3) créait un écart de 33,5 pt supérieur à la vraie gouttière
+    (21,4 pt) — la page était alors lue en bandes horizontales et
+    « ARRÊTE : » émis seul en fin de page (fausse frontière d'instrument
+    dans l'arrêté n° 197-26).
 
     Returns:
         (columns, spanning) : liste de listes de blocs (une par colonne
@@ -144,22 +212,29 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
         gap = b[0] - a[2]
         gaps.append(gap)
 
-    # Identifier le plus grand écart
-    max_gap = max(gaps)
-    max_idx = gaps.index(max_gap)
+    typical_gap = statistics.median(gaps) if gaps else 0.0
+    threshold = max(min_gap_floor, typical_gap * min_ratio)
 
-    if len(gaps) > 1:
-        other_gaps = gaps[:max_idx] + gaps[max_idx + 1:]
-        typical_gap = statistics.median(other_gaps)
+    # 1) Gouttière par balayage de couverture : robuste aux blocs centrés
+    # dans une colonne (ex. « ARRÊTE : » de la page 98 du BO_7492) qui
+    # masquent la gouttière dans la projection des écarts adjacents.
+    band = _find_empty_band(blocks)
+    if band is not None and (band[1] - band[0]) >= threshold:
+        split_x = (band[0] + band[1]) / 2
     else:
-        typical_gap = 0.0
-
-    # Décider si le plus grand écart est une séparation de colonne
-    if max_gap < max(min_gap_floor, typical_gap * min_ratio):
-        return [sorted(blocks, key=lambda b: b[1])], []
-
-    # Position de la frontière (milieu du gap)
-    split_x = (sorted_by_x[max_idx][2] + sorted_by_x[max_idx + 1][0]) / 2
+        # 2) Repli : écarts entre blocs consécutifs (nécessaire quand un
+        # titre centré traverse l'inter-colonnes, ex. « TEXTES GENERAUX »
+        # du BO_7522 : la bande n'est alors pas vide et le balayage ne
+        # trouve rien — le titre est isolé en ``spanning`` après le split).
+        candidates = [
+            (gap, idx)
+            for idx, gap in enumerate(gaps)
+            if gap >= threshold and _is_valid_column_gap(sorted_by_x, idx)
+        ]
+        if not candidates:
+            return [sorted(blocks, key=lambda b: b[1])], []
+        _, max_idx = max(candidates)
+        split_x = (sorted_by_x[max_idx][2] + sorted_by_x[max_idx + 1][0]) / 2
 
     left_col = []
     right_col = []
@@ -244,6 +319,18 @@ def _order_blocks_for_reading(raw_blocks):
 
     if not column_candidates:
         return sorted(full_width_blocks, key=lambda b: (b[1], b[0]))
+
+    # Page dominée par des blocs pleine largeur (paragraphes pleins, titre +
+    # visas) : les « candidats colonnes » ne sont alors que des fragments de
+    # lignes (ex. le « ARRÊTE : » centré de la page 83 du BO_7492, x 273-322,
+    # qui crée un faux écart de 78 pt accepté comme gouttière) — la lecture
+    # est un simple tri vertical.  Sur les vraies pages bicolonnes, le
+    # pleine largeur se réduit au bandeau d'en-tête (~60 caractères) et les
+    # colonnes portent le reste du texte.
+    fw_chars = sum(len(b[4]) for b in full_width_blocks)
+    cc_chars = sum(len(b[4]) for b in column_candidates)
+    if fw_chars >= cc_chars:
+        return sorted(raw_blocks, key=lambda b: (b[1], b[0]))
 
     columns, spanning = _group_into_columns(column_candidates)
 
