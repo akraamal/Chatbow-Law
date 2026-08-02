@@ -23,7 +23,11 @@ import argparse
 import json
 from pathlib import Path
 
-from src.ingestion.pipeline import run_ingestion_pipeline, IngestionResult
+from src.ingestion.pipeline import (
+    run_ingestion_pipeline,
+    IngestionResult,
+    stamp_interim_provenance,
+)
 
 RAW_DIR = Path("data/raw")
 INTERIM_DIR = Path("data/interim")
@@ -50,12 +54,14 @@ def _save_result(result: IngestionResult, pdf_path: Path) -> dict:
             out_path = INTERIM_DIR / "fr" / f"{stem}.txt"
             out_path.parent.mkdir(parents=True, exist_ok=True)
             out_path.write_text(result.text_fr, encoding="utf-8")
+            stamp_interim_provenance(out_path, pdf_path)
             saved_files.append(str(out_path))
 
         if result.text_ar.strip():
             out_path = INTERIM_DIR / "ar" / f"{stem}.txt"
             out_path.parent.mkdir(parents=True, exist_ok=True)
             out_path.write_text(result.text_ar, encoding="utf-8")
+            stamp_interim_provenance(out_path, pdf_path)
             saved_files.append(str(out_path))
 
     else:
@@ -73,6 +79,7 @@ def _save_result(result: IngestionResult, pdf_path: Path) -> dict:
             out_path = INTERIM_DIR / dominant_lang / f"{stem}.txt"
             out_path.parent.mkdir(parents=True, exist_ok=True)
             out_path.write_text(dominant_text, encoding="utf-8")
+            stamp_interim_provenance(out_path, pdf_path)
             saved_files.append(str(out_path))
 
     if result.text_unknown.strip():

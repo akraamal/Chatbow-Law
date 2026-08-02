@@ -16,8 +16,11 @@ Pipeline principal.
 
 from dataclasses import dataclass, field
 from statistics import median
+from datetime import datetime
+import json
+from pathlib import Path
 
-from src.ingestion.pdf_extractor import extract_text_from_pdf
+from src.ingestion.pdf_extractor import extract_text_from_pdf, EXTRACTOR_VERSION
 from src.ingestion.ocr_extractor import ocr_missing_pages
 from src.ingestion.language_detector import (
     detect_document_languages,
@@ -242,6 +245,88 @@ def run_ingestion_pipeline(pdf_path: str) -> IngestionResult:
         used_ocr=used_ocr,
         warnings=warnings,
     )
+
+
+# ----------------------------------------------------------------------
+# Provenance des fichiers interim/ (anti-cache stale)
+# ----------------------------------------------------------------------
+
+def interim_provenance_path(interim_file: Path) -> Path:
+    """Sidecar .meta.json du fichier interim : enregistre la version de
+    l'extracteur et le hash du PDF source au moment de l'extraction."""
+    return interim_file.with_name(interim_file.name + ".meta.json")
+
+
+def stamp_interim_provenance(interim_file: Path, pdf_path: Path) -> None:
+    """Horodate un fichier interim/ avec sa provenance (version de
+    l'extracteur + hash du PDF).  Sans ce sidecar, on ne peut pas savoir si
+    un texte extrait provient d'une version antérieure de pdf_extractor.py —
+    c'est ce qui a rendu silencieusement stale le BO_7510 (ancien ordre de
+    lecture des colonnes) malgré le correctif déjà en place."""
+    meta = {
+        "pdf": str(pdf_path),
+        "pdf_sha256": _sha256_file(pdf_path),
+        "extractor_version": EXTRACTOR_VERSION,
+        "generated_at": datetime.now().isoformat(timespec="seconds"),
+    }
+    meta_path = interim_provenance_path(interim_file)
+    meta_path.parent.mkdir(parents=True, exist_ok=True)
+    meta_path.write_text(
+        json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
+def interim_freshness(interim_file: Path) -> tuple[bool, str]:
+    """(frais, raison) : le texte interim correspond-il à l'extracteur et au
+    PDF actuels ?  Meta absent ou illisible → stale (provenance inconnue)."""
+    meta_path = interim_provenance_path(interim_file)
+    if not meta_path.exists():
+        return False, f"provenance inconnue ({meta_path.name} absent)"
+    try:
+        meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    except Exception as e:  # noqa: BLE001 - meta corrompu = stale
+        return False, f"meta illisible : {e}"
+    if meta.get("extractor_version") != EXTRACTOR_VERSION:
+        return False, (
+            f"extrait par l'extracteur v{meta.get('extractor_version')!r} "
+            f"alors que l'actuel est v{EXTRACTOR_VERSION!r}"
+        )
+    src = Path(meta.get("pdf", ""))
+    if not src.exists():
+        return False, f"PDF source introuvable : {src}"
+    if meta.get("pdf_sha256") != _sha256_file(src):
+        return False, "le PDF source a changé depuis l'extraction"
+    return True, "frais"
+
+
+def ensure_interim_fresh(interim_file: Path) -> None:
+    """Bloque la régénération des JSON à partir d'un texte interim stale.
+
+    Lève RuntimeError si la provenance ne correspond pas à l'extracteur /
+    au PDF actuels.  Saut de garantie explicite : la variable d'environnement
+    ALLOW_STALE_INGESTION=1 (réservée au débogage).
+    """
+    import os
+
+    if os.environ.get("ALLOW_STALE_INGESTION") == "1":
+        return
+    fresh, reason = interim_freshness(interim_file)
+    if not fresh:
+        raise RuntimeError(
+            f"data/interim/{interim_file.name} stale ({reason}). "
+            "Relance l'ÉTAPE 1 (ingestion, ex. run_pipeline_complet) avant de "
+            "régénérer le JSON — ou passe ALLOW_STALE_INGESTION=1 en débogage."
+        )
+
+
+def _sha256_file(path: Path) -> str:
+    import hashlib
+
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 16), b""):
+            h.update(chunk)
+    return h.hexdigest()
 
 
 # ----------------------------------------------------------------------

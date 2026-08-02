@@ -15,6 +15,15 @@ import statistics
 import fitz
 
 
+# Version de la logique d'extraction/ordonnancement.  À incrémenter à chaque
+# modification qui peut changer le texte produit (ordre des blocs, colonnes,
+# BiDi, bandes) : les fichiers data/interim/*.txt antérieurs sont alors
+# détectés comme stalés via leur sidecar .meta.json
+# (pipeline.stamp_interim_provenance) et la régénération des JSON est
+# refusée tant que l'ingestion n'a pas été relancée.
+EXTRACTOR_VERSION = "1"
+
+
 # ======================================================================
 # Dataclasses
 # ======================================================================

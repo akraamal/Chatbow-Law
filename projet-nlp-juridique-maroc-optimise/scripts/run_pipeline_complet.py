@@ -22,7 +22,11 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src.ingestion.pipeline import run_ingestion_pipeline
+from src.ingestion.pipeline import (
+    run_ingestion_pipeline,
+    stamp_interim_provenance,
+    ensure_interim_fresh,
+)
 
 from src.preprocessing.cleaner_fr import clean_french_text
 from src.preprocessing.cleaner_ar import clean_arabic_text
@@ -68,11 +72,13 @@ def _save_ingestion_result(result, pdf_path: Path) -> list[Path]:
             p = INTERIM_DIR / "fr" / f"{stem}.txt"
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(result.text_fr, encoding="utf-8")
+            stamp_interim_provenance(p, pdf_path)
             saved.append(p)
         if result.text_ar.strip():
             p = INTERIM_DIR / "ar" / f"{stem}.txt"
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(result.text_ar, encoding="utf-8")
+            stamp_interim_provenance(p, pdf_path)
             saved.append(p)
     else:
         len_fr = len(result.text_fr.strip())
@@ -81,11 +87,13 @@ def _save_ingestion_result(result, pdf_path: Path) -> list[Path]:
             p = INTERIM_DIR / "fr" / f"{stem}.txt"
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(result.text_fr, encoding="utf-8")
+            stamp_interim_provenance(p, pdf_path)
             saved.append(p)
         elif len_ar > 0:
             p = INTERIM_DIR / "ar" / f"{stem}.txt"
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(result.text_ar, encoding="utf-8")
+            stamp_interim_provenance(p, pdf_path)
             saved.append(p)
 
     if result.text_unknown.strip():
@@ -202,6 +210,20 @@ def _extract_bo_metadata_from_interim(pdf_stem: str, interim_files: list[Path]) 
     return {}
 
 
+def _ensure_processed_fresh(processed_file: Path) -> None:
+    """Bloque la régénération d'un JSON depuis un texte intermédiaire stale.
+
+    Le fichier interim/ correspondant (même chemin relatif, dossier
+    « interim » au lieu de « processed ») doit avoir été extrait par
+    l'extracteur actuel et depuis le PDF actuel — sinon on régénérerait
+    silencieusement des JSON sur du texte obsolète (cas BO_7510 : interim
+    antérieur au correctif de lecture colonne par colonne)."""
+    parts = list(processed_file.parts)
+    interim = Path(*["interim" if p == "processed" else p for p in parts])
+    if interim.exists():
+        ensure_interim_fresh(interim)
+
+
 def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
                    metadata_override: dict | None = None,
                    arabic_runs: list | None = None) -> Path | None:
@@ -213,6 +235,7 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
     out_path = ANNOTATED_DIR / f"{processed_file.parent.name}_{processed_file.stem}_entities.json"
 
     print(f"\n  ÉTAPE 3 — Extraction NLP : {processed_file.name} ({lang})")
+    _ensure_processed_fresh(processed_file)
     text = processed_file.read_text(encoding="utf-8")
 
     extract_fn = extract_legal_entities_fr if lang == "fr" else extract_legal_entities_ar

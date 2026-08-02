@@ -68,3 +68,51 @@ def test_bo7480_dahir_decret_boundary(tmp_path, monkeypatch):
     assert loi_nums == ["premier", "2", "3", "4", "5"], f"articles loi 44-22 : {loi_nums}"
     assert dec_nums == ["PREMIER", "2", "3", "4", "5", "6", "7"], \
         f"articles décret 2-20-716 : {dec_nums}"
+
+
+FR_PDF_7510 = Path("data/raw/fr/BO_7510_Fr.pdf")
+
+
+@pytest.mark.skipif(
+    not FR_PDF_7510.exists(), reason="BO_7510_Fr.pdf absent du dépôt (données gitignorées)"
+)
+def test_bo7510_arrete_pairs_not_merged(tmp_path, monkeypatch):
+    """Cas n=2 (BO_7510_Fr.pdf) : les courts arrêtés « équivalences de
+    diplômes » (2 articles chacun : ARTICLE PREMIER + ART. 2) ne doivent PAS
+    être fusionnés deux à deux.
+
+    Cause racine vérifiée : page 18 du PDF, deux corps côte à côte (405-26
+    colonne gauche, 406-26 colonne droite) ; une ancienne extraction
+    empilait leurs deux titres avant le premier corps, si bien que le titre
+    406-26 était consommé comme préambule du 405-26 et le second arrêté se
+    retrouvait sans frontière.  Depuis l'ordre de lecture colonne par
+    colonne (_order_blocks_for_reading), chaque titre précède son corps :
+    405-26, 406-26, 407-26... sont des instruments séparés.
+    """
+    import scripts.run_pipeline_complet as rpc
+
+    for name in ("INTERIM_DIR", "PROCESSED_DIR", "ANNOTATED_DIR", "ANNOTATED_MD_DIR"):
+        monkeypatch.setattr(rpc, name, tmp_path / name)
+
+    rpc.process_single_pdf(FR_PDF_7510)
+
+    out = tmp_path / "ANNOTATED_DIR" / "fr_BO_7510_Fr_entities.json"
+    data = json.loads(out.read_text(encoding="utf-8"))
+    decs = data["decrees"]
+
+    ensup = [d for d in decs if d["preamble"].startswith(
+        "Arrêté du ministre de l'enseignement supérieur")]
+    nums = [d["preamble"].split("n° ")[1].split(" ")[0] for d in ensup]
+    assert "405-26" in nums and "406-26" in nums, \
+        f"arrêtés équivalences de diplômes manquants : {nums}"
+
+    d405 = next(d for d in ensup if "405-26" in d["preamble"])
+    d406 = next(d for d in ensup if "406-26" in d["preamble"])
+    assert d406["first_article_idx"] - d405["first_article_idx"] == 2, \
+        "arrêté 406-26 fusionné avec 405-26 (cas n=2)"
+
+    indices = [d["first_article_idx"] for d in ensup]
+    counts = [b - a for a, b in zip(indices, indices[1:])]
+    counts.append(len(data["articles"]) - indices[-1])
+    assert counts[:3] == [2, 2, 2], \
+        f"arrêtés non découpés en 2 articles : {list(zip(nums, counts))}"

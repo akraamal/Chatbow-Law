@@ -26,9 +26,20 @@ from src.preprocessing.arabic_utils import arabic_char_ratio
 from src.preprocessing.segmenter import segment_into_articles, get_preamble
 from src.extraction.entity_ruler_builder_fr import build_fr_nlp, extract_legal_entities_fr
 from src.extraction.entity_ruler_builder_ar import build_ar_nlp, extract_legal_entities_ar
+from src.ingestion.pipeline import ensure_interim_fresh
 
 PROCESSED_DIR = Path("data/processed")
 ANNOTATED_DIR = Path("data/annotated")
+
+
+def _ensure_processed_fresh(processed_file: Path) -> None:
+    """Refuse d'extraire un JSON depuis un texte processed/ dont l'interim
+    correspondant est stale (version d'extracteur antérieure ou PDF modifié)
+    — même garde que run_pipeline_complet.run_extraction()."""
+    parts = list(processed_file.parts)
+    interim = Path(*["interim" if p == "processed" else p for p in parts])
+    if interim.exists():
+        ensure_interim_fresh(interim)
 
 
 def _entities_to_dicts(doc) -> list:
@@ -89,6 +100,7 @@ def detect_language_from_text(text: str) -> str:
 def process_single_file(input_path: str, lang: str | None = None) -> Path:
     """Traite un seul fichier et sauvegarde le résultat en JSON."""
     path = Path(input_path)
+    _ensure_processed_fresh(path)
     text_sample = path.read_text(encoding="utf-8")[:1000]
     if lang is None:
         lang = detect_language_from_text(text_sample)
