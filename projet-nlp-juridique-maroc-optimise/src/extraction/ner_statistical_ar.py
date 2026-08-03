@@ -8,6 +8,8 @@ requirements.txt depuis l'étape 3 :
 À décommenter et installer avant d'utiliser ce module.
 """
 
+import re
+
 _NER = None
 
 
@@ -31,10 +33,13 @@ def extract_persons_orgs(text):
 
     labels = ner.predict_sentence(tokens)
 
-    print("Labels trouvés par le modèle :")
-    print(sorted(set(labels)))
-
     return _bio_tags_to_spans(tokens, labels, text)
+
+
+# Ponctuations collées aux spans par le tokenizer (ex. "البيضاء.",
+# "صالح:") : à rogner de part et d'autre du span, avec ajustement des
+# offsets start/end pour que text[start:end] == text d'affichage.
+_PUNCT_RUN = re.compile(r"[\s.,;:!?()\[\]{}«»\"'`/\\|\u2010-\u2015-]+")
 
 
 def _bio_tags_to_spans(tokens, labels, text):
@@ -51,8 +56,25 @@ def _bio_tags_to_spans(tokens, labels, text):
             return
         start, end = buf[0][0], buf[-1][1]
         target = persons if label_type == "PERS" else orgs
+
+        # Rognure des ponctuations/espaces collés au span par le tokenizer
+        # (camel-tools les attache au token : "البيضاء.", "بن صالح:").
+        # On coupe un run de ponctuation au début puis à la fin, en
+        # ajustant les offsets pour conserver l'invariant
+        # text[start:end] == entité affichée.
+        m_lead = _PUNCT_RUN.match(text, start, end)
+        if m_lead:
+            start = m_lead.end()
+        while end > start and (
+            text[end - 1] in " \t.,;:!?()[]{}«»\"'`/\\|\u2010-\u2015"
+        ):
+            end -= 1
+
+        span_text = text[start:end].strip()
+        if not span_text:
+            return
         target.append({
-            "text": text[start:end], "start": start, "end": end,
+            "text": span_text, "start": start, "end": end,
             "label": "PERSON" if label_type == "PERS" else "ORGANIZATION",
         })
 
