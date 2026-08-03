@@ -26,10 +26,20 @@ DEFAULT_TOP_K = 3
 
 # Seuil de similarité cosinus (embeddings E5 normalisés, cf. embedder.py) en
 # dessous duquel on considère qu'aucun résultat n'est assez pertinent pour
-# servir de base à une réponse — à recalibrer empiriquement sur ton corpus
-# (regarder la distribution des scores sur quelques dizaines de requêtes
-# test réelles/hors-sujet pour ajuster cette valeur).
-DEFAULT_SCORE_THRESHOLD = 0.55
+# servir de base à une réponse.
+#
+# Calibré empiriquement le 2026-08-03 sur 24 requêtes (12 pertinentes déjà
+# couvertes par le corpus + 12 hors-sujet, en fr et ar) avec l'index
+# data/index/ (1161 docs, intfloat/multilingual-e5-base) :
+#   - scores top-1 des requêtes pertinentes : min 0.819 / médiane 0.833 / max 0.844
+#   - scores top-1 des requêtes hors-sujet  : min 0.777 / médiane 0.801 / max 0.818
+#   - seuil 0.80  → recall 12/12, fp 6/12 (F1 0.800) — garde-fou presque inerte
+#   - seuil 0.82  → recall 11/12, fp 0/12   (F1 0.957) — meilleur compromis
+# Les scores saturant ~0.80 même pour du hors-sujet (documents juridiques très
+# homogènes), un seuil strictement supérieur à 0.818 est nécessaire ; 0.82
+# bloque tout le hors-sujet testé tout en ne perdant qu'un seul résultat
+# pertinent réel (score 0.819, très proche de la limite).
+DEFAULT_SCORE_THRESHOLD = 0.82
 
 NO_RESULT_MESSAGE = (
     "Je n'ai pas trouvé d'information suffisamment pertinente dans le corpus "
