@@ -93,13 +93,32 @@ class LegalRAGChatbot:
         sémantique fonctionne même sur une question de suivi elliptique.
         N'est appelée que si `history` est non vide.
         """
-        turns = "\n".join(f"Q: {t['question']}\nR: {t['answer']}" for t in history)
-        prompt = f"Historique :\n{turns}\n\nDernière question : {query}\n\nQuestion reformulée :"
         try:
-            reformulated = self.llm.generate(REFORMULATION_SYSTEM_INSTRUCTION, prompt).strip()
+            # History vient du client (app/chat.py) sans validation de
+            # forme : on ne garde que les items valides, et on ne construit
+            # la chaîne QUE dans le try — un historique malformé replie sur
+            # la question brute au lieu de crasher avant le garde-fou.
+            turns = "\n".join(
+                f"Q: {t['question']}\nR: {t['answer']}"
+                for t in history
+                if isinstance(t, dict)
+                and isinstance(t.get("question"), str)
+                and isinstance(t.get("answer"), str)
+                and t["question"]
+            )
+            if not turns:
+                return query
+            prompt = (
+                f"Historique :\n{turns}\n\n"
+                f"Dernière question : {query}\n\nQuestion reformulée :"
+            )
+            reformulated = self.llm.generate(
+                REFORMULATION_SYSTEM_INSTRUCTION, prompt
+            ).strip()
         except Exception:
-            # Panne LLM : on replie sur la question brute plutôt que de casser
-            # toute la requête (l'historique est un bonus, pas une condition).
+            # Panne LLM (ou historique malformé) : on replie sur la question
+            # brute plutôt que de casser toute la requête (l'historique est
+            # un bonus, pas une condition).
             return query
         return reformulated or query  # repli sur la question brute si la reformulation échoue
 

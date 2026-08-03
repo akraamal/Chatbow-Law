@@ -36,3 +36,5 @@ faiss-cpu>=1.8.0               # Index vectoriel (IndexFlatIP, recherche exacte)
 # --- Scripts / data wrangling ---
 numpy>=1.26.0             # Scripts de pipeline et d'audit
 pandas>=2.0.0             # build_training_dataset, classification
+
+pytest>=7.0.0             # Tests (suite tests/ : pytest tests)

@@ -121,6 +121,20 @@ def get_entity_color(label: str) -> str:
     return ENTITY_COLORS.get(label, "#95a5a6")
 
 
+def _looks_like_pdf(f) -> bool:
+    """Vérifie le magic-bytes « %PDF- » plutôt que la seule extension.
+    Les librairies de parsing PDF (PyMuPDF/pdfplumber/PaddleOCR) ont des
+    CVEs connues : on refuse les fichiers renommés .pdf dont le contenu
+    n'est pas un vrai PDF, avant qu'ils n'atteignent le pipeline."""
+    try:
+        f.stream.seek(0)
+        head = f.stream.read(5)
+        f.stream.seek(0)
+        return head == b"%PDF-"
+    except Exception:
+        return False
+
+
 # ── Background pipeline runner ───────────────────────────────────────
 
 def _run_pipeline_task(tid: str, pdf_path: Path):
@@ -207,6 +221,8 @@ def upload():
     pdf_file = flask.request.files["file"]
     if not pdf_file.filename.lower().endswith(".pdf"):
         return {"error": "Le fichier doit être un PDF"}, 400
+    if not _looks_like_pdf(pdf_file):
+        return {"error": "Le fichier n'est pas un PDF valide (extension trompeuse ?)"}, 400
 
     stem = Path(pdf_file.filename).stem.replace(" ", "_")
     unique_id = uuid.uuid4().hex[:8]
