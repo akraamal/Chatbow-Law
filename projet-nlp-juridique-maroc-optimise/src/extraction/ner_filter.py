@@ -139,3 +139,58 @@ def is_valid_entity(text: str, label: str, context: str = "") -> bool:
 def filter_entities(entities: list, context: str = "") -> list:
     cleaned = [clean_entity_text(e) for e in entities]
     return [e for e in cleaned if is_valid_entity(e.get("text", ""), e.get("label", ""), context)]
+
+
+def align_entity_text(entity: dict, source_text: str):
+    """
+    Repositionne une entité dans *source_text* et restaure son ``text``
+    comme le slice EXACT ``source_text[start:end]``.
+
+    Ceci rétablit l'invariant requis par les consommateurs
+    (``source_text.find(entity["text"])``) :
+      - si les offsets fournis sont déjà dans le texte, on restaure le
+        slice exact (avant correctif, ``clean_entity_text`` aplatissait les
+        retours à la ligne en espaces SANS ajuster les offsets → le text
+        stocké différait du slice source et find() renvoyait -1) ;
+      - si ``start == -1`` (entité propagée depuis un préambule de décret),
+        une recherche tolérante aux espaces retrouve le fragment ;
+      - en dernier recours, une recherche par le numéro de référence.
+
+    Returns:
+        l'entité mise à jour, ou ``None`` si introuvable (à écarter).
+    """
+    start = entity.get("start", -1)
+    end = entity.get("end", -1)
+
+    def _restore(s, e):
+        entity["start"] = s
+        entity["end"] = e
+        entity["text"] = source_text[s:e]
+        return entity
+
+    # Chemin rapide : offsets déjà dans le texte source.
+    if (start != -1 and end != -1 and 0 <= start < len(source_text)
+            and end > start and end <= len(source_text)):
+        return _restore(start, end)
+
+    text = (entity.get("text") or "").strip()
+    if not text:
+        return None
+
+    # Le texte aplati (retours à la ligne → espaces) ne matche pas
+    # `source_text` tel quel : recherche tolérante (n'importe quels \s+).
+    parts = _WS_RUN.split(text)
+    if not parts:
+        return None
+    pattern = re.compile(r"\s+".join(re.escape(p) for p in parts))
+    m = pattern.search(source_text)
+    if m:
+        return _restore(m.start(), m.end())
+
+    # Dernier recours : le numéro de référence seul (ex. "731.25").
+    nums = re.findall(r"[\d]+(?:[-–.][\d]+){1,2}", text)
+    for n in nums:
+        pos = source_text.find(n)
+        if pos >= 0:
+            return _restore(pos, pos + len(n))
+    return None

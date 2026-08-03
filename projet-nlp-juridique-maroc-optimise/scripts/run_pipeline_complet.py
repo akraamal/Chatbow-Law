@@ -37,7 +37,7 @@ from src.extraction.citation_resolver import resolve_citations, LEGAL_TEXT_LABEL
 from src.extraction.article_citation_patterns import find_article_citations
 from src.extraction.entity_span_utils import normalize_entity
 from src.extraction.document_metadata_extractor import extract_document_metadata
-from src.extraction.ner_filter import filter_entities
+from src.extraction.ner_filter import filter_entities, align_entity_text
 from src.extraction.ocr_corrector import correct_ocr
 from src.preprocessing.segmenter import (
     segment_into_articles, get_preamble, get_sommaire, get_per_decree_preamble_map,
@@ -264,34 +264,17 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
     def _fix_entity_positions(art: dict, art_text: str) -> None:
         """Try to locate entities with start=-1 in *art_text* and update
         their positions.  Entities whose text cannot be found at all are
-        removed from the article (they are invisible to downstream users)."""
-        import re as _re2
+        removed from the article (they are invisible to downstream users).
+
+        Uses align_entity_text which ALSO restores the exact source slice
+        as entity text (clean_entity_text flattens \n → space without
+        adjusting offsets, which previously produced text != source[start:end]
+        and made source.find(entity.text) return -1)."""
         fixed = []
         for e in art.get("entities", []):
-            if e.get("start") != -1:
-                fixed.append(e)
-                continue
-            # Try the full entity text first
-            et = e.get("text", "")
-            pos = art_text.find(et) if et else -1
-            if pos >= 0:
-                e["start"] = pos
-                e["end"] = pos + len(et)
-                fixed.append(e)
-                continue
-            # Try just the reference number
-            nums = _re2.findall(r"[\d]+(?:[-–.][\d]+){1,2}", et)
-            found = False
-            for n in nums:
-                pos = art_text.find(n)
-                if pos >= 0:
-                    e["start"] = pos
-                    e["end"] = pos + len(n)
-                    found = True
-                    break
-            if found:
-                fixed.append(e)
-                # else: entity text not found in article, drop it
+            aligned = align_entity_text(e, art_text)
+            if aligned is not None:
+                fixed.append(aligned)
         art["entities"] = fixed
 
     # Post-process: decree context propagation
@@ -488,7 +471,12 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
         "source": str(processed_file), "lang": lang,
         **metadata,
         "preamble_text": preamble,
-        "preamble_entities": filter_entities(_entities_to_dicts(preamble_doc)),
+        "preamble_entities": [
+            a for a in (
+                align_entity_text(e, preamble) for e in
+                filter_entities(_entities_to_dicts(preamble_doc))
+            ) if a is not None
+        ],
         "possible_embedded_arabic": arabic_runs or [],
         "sommaire": get_sommaire(text, lang=lang),
         "decrees": decrees,

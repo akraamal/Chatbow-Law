@@ -423,23 +423,32 @@ def _inside_guillemets(text: str, pos: int) -> bool:
     return before_open > before_close
 
 
-def _skip_sommaire(text: str) -> int:
-    """Find the position where actual legal text starts, after the SOMMAIRE.
+# Marqueurs de sommaire et de section, par langue du BO.  L'édition
+# arabe utilise « فهرست » pour l'en-tête du sommaire et « نصوص عامة »
+# / « نصوص خاصة » pour les rubriques de section.
+SOMMAIRE_MARKERS = {"fr": "SOMMAIRE", "ar": "فهرست"}
+SECTION_MARKERS = {
+    "fr": ["TEXTES GÉNÉRAUX", "TEXTES GENERAUX", "TEXTES PARTICULIERS"],
+    "ar": ["نصوص عامة", "نصوص خاصة"],
+}
 
-    Strategy: locate the ``SOMMAIRE`` heading, then find the *first* occurrence
-    of a section marker (``TEXTES GÉNÉRAUX`` / ``TEXTES GENERAUX`` /
-    ``TEXTES PARTICULIERS``) that appears **after** the sommaire content
-    (500+ chars from the ``SOMMAIRE`` line).  This avoids matching the
+
+def _skip_sommaire(text: str, lang: str = "fr") -> int:
+    """Find the position where actual legal text starts, after the sommaire.
+
+    Strategy: locate the sommaire heading (``SOMMAIRE`` / ``فهرست``), then
+    find the *first* occurrence of a section marker (``TEXTES GÉNÉRAUX`` /
+    ``TEXTES GENERAUX`` / ``TEXTES PARTICULIERS`` / ``نصوص عامة`` /
+    ``نصوص خاصة``) that appears **after** the sommaire content
+    (500+ chars from the sommaire line).  This avoids matching the
     marker inside the table-of-contents list.
     """
-    sommaire_pos = text.find("SOMMAIRE")
+    sommaire_marker = SOMMAIRE_MARKERS.get(lang, SOMMAIRE_MARKERS["fr"])
+    sommaire_pos = text.find(sommaire_marker)
     if sommaire_pos == -1:
         return 0
     search_from = sommaire_pos + 500
-    for marker in [
-        "TEXTES GÉNÉRAUX", "TEXTES GENERAUX",
-        "TEXTES PARTICULIERS",
-    ]:
+    for marker in SECTION_MARKERS.get(lang, SECTION_MARKERS["fr"]):
         pos = text.find(marker, search_from)
         if pos != -1:
             return pos + len(marker)
@@ -668,7 +677,7 @@ def get_preamble(text: str, lang: str = "fr") -> str:
     """
     matches = _filter_article_matches(text, lang)
     if matches:
-        start = _skip_sommaire(text)
+        start = _skip_sommaire(text, lang)
         first_art = matches[0].start()
         if first_art > start:
             return text[start:first_art].strip()
@@ -679,21 +688,23 @@ def get_preamble(text: str, lang: str = "fr") -> str:
 def get_sommaire(text: str, lang: str = "fr") -> str:
     """
     Retourne le sommaire (table des matières) du Bulletin officiel,
-    s'il existe : de l'en-tête ``SOMMAIRE`` jusqu'au début du contenu
-    réel (première section TEXTES GÉNÉRAUX / PARTICULIERS hors liste),
-    même logique de délimitation que _skip_sommaire.  Chaîne vide si le
-    document n'a pas de sommaire.
+    s'il existe : de l'en-tête ``SOMMAIRE`` (ou ``فهرست`` en arabe) jusqu'au
+    début du contenu réel (première section TEXTES GÉNÉRAUX / PARTICULIERS,
+    ou ``نصوص عامة`` / ``نصوص خاصة``, hors liste), même logique de
+    délimitation que _skip_sommaire.  Chaîne vide si le document n'a pas
+    de sommaire.
     """
-    sommaire_pos = text.find("SOMMAIRE")
+    sommaire_marker = SOMMAIRE_MARKERS.get(lang, SOMMAIRE_MARKERS["fr"])
+    sommaire_pos = text.find(sommaire_marker)
     if sommaire_pos == -1:
         return ""
-    end = _skip_sommaire(text)
+    end = _skip_sommaire(text, lang)
     if end <= sommaire_pos:
         return ""
     # _skip_sommaire renvoie la position APRÈS le premier marqueur de
     # section (ex. « TEXTES GENERAUX ») : ce marqueur marque le début du
     # contenu réel et ne fait pas partie du sommaire lui-même.
-    for marker in ["TEXTES GÉNÉRAUX", "TEXTES GENERAUX", "TEXTES PARTICULIERS"]:
+    for marker in SECTION_MARKERS.get(lang, SECTION_MARKERS["fr"]):
         if text[end - len(marker):end] == marker:
             end -= len(marker)
             break
@@ -740,7 +751,7 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
             if lang == "ar" or _is_doc_title_match(region, m, lang)
         ]
 
-    sommaire_end = _skip_sommaire(text)
+    sommaire_end = _skip_sommaire(text, lang)
     decrees = []
 
     for i, m in enumerate(matches):

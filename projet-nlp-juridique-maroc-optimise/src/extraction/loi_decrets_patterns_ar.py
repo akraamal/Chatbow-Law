@@ -29,16 +29,26 @@ import re
 _NUM = r"[\d٠-٩]+(?:[.\-–][\d٠-٩]+){1,2}"
 _OPT_NUM = rf"(?:رقم\s*)?{_NUM}"
 
-# Date hégirienne ou grégorienne en texte arabe :
-#   - jour : 1‑2 chiffres (latins ou arabo‑indiens)
-#   - mois : un mot de 2‑15 lettres qui n'est PAS "عدد"
-#   - année : 3‑4 chiffres
-# L'anticipation négative (?!عدد\b) empêche de capturer "عدد 2610" (numéro de BO).
+# Mois hégiriens réels (réutilisés de dates_patterns_ar.py) : le pattern
+# DATE_HIJRI ne doit PAS accepter n'importe quel mot comme mois — sinon
+# les dates grégoriennes ("28 فبراير 2025") étaient étiquetées DATE_HIJRI.
+from src.extraction.dates_patterns_ar import MOIS_GREGORIEN_AR, MOIS_HIJRI_AR
+_HIJRI_MONTHS_SORTED = sorted(MOIS_HIJRI_AR.keys(), key=len, reverse=True)
+_GREG_MONTHS_SORTED = sorted(MOIS_GREGORIEN_AR.keys(), key=len, reverse=True)
+
+# Date hégirienne : jour (1‑2 chiffres) + mois hégirien (éventuellement
+# précédé de "من" : « 24 من ذي القعدة 1446 ») + année 3‑4 chiffres.
 _HIJRI_DATE = (
-    r"[\d٠-٩]{1,2}\s+"
-    r"(?!عدد\b)"                     # exclut le mot "عدد"
-    r"[^\d٠-٩\s,،؛.\n]{2,15}\s+"
-    r"[\d٠-٩]{3,4}"
+    rf"[\d٠-٩]{{1,2}}\s+(?:من\s+)?"
+    rf"(?:{'|'.join(map(re.escape, _HIJRI_MONTHS_SORTED))})"
+    rf"\s+[\d٠-٩]{{3,4}}"
+)
+
+# Date grégorienne : jour + mois grégorien + année 4 chiffres.
+_GREG_DATE = (
+    rf"[\d٠-٩]{{1,2}}\s+"
+    rf"(?:{'|'.join(map(re.escape, _GREG_MONTHS_SORTED))})"
+    rf"\s+[\d٠-٩]{{4}}"
 )
 
 # Date entre parenthèses type "(18 فبراير 2009)" ou hégirien "27 chaoual 1393"
@@ -93,7 +103,8 @@ LEGAL_REFERENCE_PATTERNS_AR = {
     "ARRETE": ARRETE_PATTERN,
     "CIRCULAIRE": CIRCULAIRE_PATTERN,
     "BULLETIN_OFFICIEL": BULLETIN_OFFICIEL_PATTERN,
-    "DATE_HIJRI": re.compile(_HIJRI_DATE),   # uniquement les dates, pas les numéros de BO
+    "DATE_HIJRI": re.compile(_HIJRI_DATE),       # uniquement les dates hégiriennes réelles
+    "DATE_GREGORIAN": re.compile(_GREG_DATE),    # dates grégoriennes (mois arabes)
 }
 
 
