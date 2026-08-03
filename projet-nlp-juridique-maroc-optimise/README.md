@@ -17,7 +17,7 @@ numéro de bulletin), propulsé par Groq + embeddings multilingues + FAISS.
 - Chaque affirmation cite sa source : `[Source 1]` → bulletin, article, page
 - Questions de suivi avec historique (reformulation automatique)
 - Bilingue FR/AR (question → réponse dans la même langue)
-- Garde-fou par seuil de similarité cosinus (score < 0.55 → pas de réponse inventée)
+- Garde-fou par seuil de similarité cosinus (score < 0.82 → pas de réponse inventée)
 - Tableaux extraits inclus dans le contexte (liés ou non liés aux articles)
 - Téléchargement du PDF source de chaque extrait
 
@@ -125,7 +125,8 @@ models/               # (gitignoré) modèles téléchargés
 ## 🔧 Détails techniques
 - **Génération** : Groq, modèle `qwen/qwen3.6-27b` (retry avec backoff sur 429)
 - **Embeddings** : `intfloat/multilingual-e5-base`, index FAISS `IndexFlatIP`
-- **Seuil anti-hallucination** : score cosinus ≥ 0.55, budget contexte 9000 chars
+- **Seuil anti-hallucination** : score cosinus ≥ 0.82 (calibré sur 24 requêtes
+  pertinentes/hors-sujet : recall 11/12, faux positifs 0/12), budget contexte 9000 chars
 - **Segmentation** : prises en compte des préambules, sommaires et `Article unique`
 - **Nettoyage** : normalisation NFC, correction OCR (dictionnaire FR/AR)
 

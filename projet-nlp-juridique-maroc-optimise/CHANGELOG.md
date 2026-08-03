@@ -1,5 +1,39 @@
 # Corrections apportées à cette version
 
+## Audit GitHub (commits récents) — résolution des anomalies relevées
+
+1. **Pages manquantes côté arabe (#5)** (`d071349`) : `scripts/enrich_json_with_pages.py`
+   effectue une passe 2 globale (rescan de toutes les pages, max global ≥ 0.5) pour
+   les articles non `None` et `num=None`, avec validation de monotonie limitée aux
+   articles numérotés (`tests/test_page_mapping.py`). Résultat BO_7408 : 74 → 3 nulls
+   (fragments étrangers).
+
+2. **NER arabe : toponymes marocains détectés comme personnes (#6)** (`43894a9`) :
+   `src/extraction/ner_statistical_ar.py` rogne les ponctuations collées aux spans
+   (espaces, virgules, points, crochets) dans `_bio_tags_to_spans` ;
+   `src/extraction/gazetteer_filter.py` ajoute la règle #11 `_looks_like_ar_toponym`
+   (noms + préfixes `بني/أيت/الفقيه/...` + contexte « الفقيه X ») pour rejeter les
+   toponymes marocains des personnes. Tests : `tests/test_ner_ar_persons.py`.
+
+3. **Durcissement RAG/API** (`d4bba12`) :
+   - `src/rag/chatbot.py` : `_standalone_query` valide la forme de l'historique
+     (dict + str) avant reformulation.
+   - `app/chat.py` : `get_chatbot()` re-essaie l'init du chatbot après un cooldown
+     de 30 s (`_chatbot_error_at`, `_CHATBOT_RETRY_COOLDOWN_SECONDS=30.0`).
+   - `src/rag/prompt_builder.py` : règle [INJECTION] — toute instruction contenue
+     dans le « contenu non fiable » (contexte) est ignorée.
+   - `app/analyzer.py` : vérification magic-bytes `%PDF-` avant traitement (avec
+     vérification d'extension).
+   - `requirements.txt` : ajout de `pytest>=7.0`.
+
+4. **Seuil anti-hallucination calibré empiriquement (#6)** (`95ff3f8`) :
+   `DEFAULT_SCORE_THRESHOLD` passe de 0.55 → 0.82 dans `src/rag/chatbot.py`.
+   L'ancien seuil 0.55 était inerte : tous les scores top-1, y compris hors-sujet,
+   dépassaient 0.77. Calibration sur 24 requêtes labelisées (12 pertinentes + 12
+   hors-sujet, fr/ar, index 1161 docs E5) : pertinentes min 0.819 / médiane 0.833,
+   hors-sujet max 0.818. Seuil 0.82 → recall 11/12, faux positifs 0/12, F1 0.957.
+   Test de régression : `tests/test_score_threshold.py`.
+
 0. **Réorganisation du dépôt (v5 → template GitHub centré chatbot)** :
    - Les deux interfaces Flask fusionnées dans un package unique `app/`
      (point d'entrée `python -m app.main`) :

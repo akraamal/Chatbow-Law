@@ -90,7 +90,7 @@
                     ┌────────────────────────────────┼──────────────────────────────────┐
                     │  ÉTAPE 7 : RAG                 │                                  │
                     │  chatbot.py → LegalRAGChatbot  │  Reformulation historique         │
-                    │  ├─ _standalone_query()        │  Retrieval (top_k=5, seuil 0.55) │
+                    │  ├─ _standalone_query()        │  Retrieval (top_k=5, seuil 0.82) │
                     │  ├─ SemanticSearchEngine.search│  Prompt → SYSTEM + context        │
                     │  ├─ build_prompt()             │  Génération Groq (llama-3.3-70b) │
                     │  └─ LLMClient.generate()       │  Réponse + sources citées         │
