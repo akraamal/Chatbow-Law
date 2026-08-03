@@ -20,7 +20,7 @@ from pathlib import Path
 
 ANNOTATED_DIR = Path("data/annotated")
 
-VALID_TYPES = {"DECRET", "ARRETE", "ARRETE_CONJOINT", "DAHIR", "CIRCULAIRE", "DECISION"}
+VALID_TYPES = {"DECRET", "ARRETE", "ARRETE_CONJOINT", "DAHIR", "CIRCULAIRE", "DECISION", "LOI"}
 
 
 def validate_instruments(path: Path) -> list[str]:

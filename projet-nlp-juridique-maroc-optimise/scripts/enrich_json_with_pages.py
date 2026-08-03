@@ -288,6 +288,27 @@ def _classify_instrument_type(articles: list[dict], preamble_context: str = "") 
     """
     preamble_upper = preamble_context.upper()
 
+    # Édition arabe : le type figure en tête du préambule/titre (قرار/
+    # مرسوم/قانون/ظهير…) — pas d'équivalent AR des clauses « Vu » FR.
+    _AR_TYPE_MAP = {
+        "ظهير شريف": "DAHIR", "ظهير": "DAHIR",
+        "مرسوم": "DECRET",
+        "قانون": "LOI",
+        "قرار مشترك": "ARRETE_CONJOINT",
+        "قرار": "ARRETE",
+        "مقرر": "DECISION",
+        "منشور": "CIRCULAIRE",
+        "أمر": "DECISION",
+        "بلاغ": "DECISION",
+    }
+    _AR_TYPE_RE = re.compile(
+        r"ظهير(?:\s+شريف)?|مرسوم|قانون|قرار\s+مشترك|قرار|مقرر|منشور|أمر|بلاغ",
+    )
+    if re.search(r"[\u0600-\u06FF]", preamble_upper):
+        m = _AR_TYPE_RE.search(preamble_upper)
+        if m:
+            return _AR_TYPE_MAP[m.group(0).strip()]
+
     # Find all TYPE + n° matches
     matches = list(re.finditer(
         r"(DÉCRET|ARR[EÊ]T[EÉ](?:\s+CONJOINT)?|DAHIR|CIRCULAIRE|D[ÉE]CISION)"
@@ -384,6 +405,31 @@ def _extract_reference(text: str, instr_type: str) -> str | None:
     )
     type_match = type_pat.search(text)
     if not type_match:
+        # Édition arabe : « قرار لوزير … رقم 731.25 » — le numéro propre
+        # suit « رقم » dans la portion du titre, AVANT la première référence
+        # croisée (« بناء على … », « وعلى … ») ou la date (« صادر في … »).
+        _AR_TITLE_RE = re.compile(
+            r"(?:^|\n)\s*(?:ظهير(?:\s+شريف)?|مرسوم|قانون|"
+            r"قرار(?:\s+مشترك)?|مقرر|منشور|أمر|بلاغ)[\s\S]{0,160}",
+        )
+        m = _AR_TITLE_RE.search(text)
+        if not m:
+            return None
+        own_text = m.group(0)
+        # Couper la zone au premier renvoi croisé / date postérieur au
+        # numéro propre (évite de capturer « رقم 1.60.063 » d'un dahir cité
+        # dans le préambule d'un قرار d'approbation).
+        for cut in ("بناء", "وعلى", "صادر في", "بتحديد", "بتغيير"):
+            idx = own_text.find(cut)
+            if idx != -1:
+                own_text = own_text[:idx]
+                break
+        m = re.search(
+            r"رقم\s*([\d٠-٩]{1,4}[-–.][\d٠-٩]{2,3}(?:[-–.][\d٠-٩]{2,4})?)",
+            own_text,
+        )
+        if m and not _ref_is_false_positive(m, own_text):
+            return m.group(1)
         return None
 
     # Text from TYPE keyword up to first "Vu" clause (the instrument's own header)
