@@ -224,6 +224,47 @@ def _backfill_pages(
                 best_page = last_page  # clamp — jamais de retour arrière
             last_page = best_page
 
+    # Passe 2 — récupération des fragments sans numéro. Dans certains BO AR,
+    # le segmenter produit en fin de liste tout un ensemble de fragments
+    # (préambules de re-citations, signatures, notes) QUI SONT HORS DE
+    # L'ORDRE PHYSIQUE (leur page réelle peut être antérieure à celle de
+    # l'article précédent du JSON). La passe 1 (monotone, search_from =
+    # last_page - 1) ne peut pas les atteindre. On les rescanne sur TOUTES
+    # les pages en gardant le max global >= 0.5 : leur page vraie domine
+    # (0.56-1.00 sur le bon texte, 0.26-0.45 ailleurs). Ces fragments n'ont
+    # pas de numéro et ne suivent pas l'ordre du document : la monotonie
+    # n'a pas de sens pour eux (cf. validateur test_page_mapping).
+    pass2 = []
+    for art in articles:
+        if art.get("pdf_page"):
+            continue
+        sig = _article_signature(art.get("text", ""))
+        if not sig:
+            continue
+        sig_ngrams = None
+        if len(sig) >= 30:
+            sig_ngrams = _article_signature_ngrams(art.get("text", ""))
+        if not sig_ngrams:
+            continue
+        best_page = None
+        best_score = 0.0
+        for p_idx, flat in enumerate(page_texts_flat):
+            if sig in flat:
+                best_page = p_idx + 1
+                best_score = 1.0
+                break
+            flat_lower = flat.lower()
+            score = sum(1 for g in sig_ngrams if g in flat_lower) / len(sig_ngrams)
+            if score > best_score:
+                best_score = score
+                best_page = p_idx + 1
+        if best_page and best_score >= 0.5:
+            art["pdf_page"] = best_page
+            art["printed_page"] = printed_pages.get(best_page)
+        else:
+            art["pdf_page"] = None
+            art["printed_page"] = None
+
     return articles
 
 

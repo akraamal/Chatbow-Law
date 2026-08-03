@@ -35,6 +35,7 @@ def validate_page_mapping(path: Path) -> list[str]:
     for i, art in enumerate(articles):
         pp = art.get("pdf_page")
         prp = art.get("printed_page")
+        has_num = art.get("num") is not None
 
         if pp is not None:
             if not isinstance(pp, int) or pp < 1:
@@ -44,10 +45,16 @@ def validate_page_mapping(path: Path) -> list[str]:
                 pass
             else:
                 pdf_pages_seen.add(pp)
-                # Articles should not backtrack in page order
-                if pp < prev_page:
+                # Articles should not backtrack in page order — but only for
+                # numbered articles: the AR segmenter emits unnumbered
+                # fragments (repeated preambles, signatures, notes) out of
+                # physical order, and their backfilled page legitimately
+                # points at an earlier page (see enrich_json_with_pages
+                # "_backfill_pages" second pass).
+                if has_num and pp < prev_page:
                     errors.append(f"articles[{i}]: pdf_page={pp} < previous page {prev_page}")
-                prev_page = pp
+                if has_num:
+                    prev_page = pp
 
         if prp is not None:
             if not isinstance(prp, int) or prp < 1:
