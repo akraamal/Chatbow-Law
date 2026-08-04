@@ -230,7 +230,7 @@ class DomainDataset(Dataset):
         self.encodings = tokenizer(
             list(texts), padding="max_length", truncation=True,
             max_length=MAX_LENGTH, return_tensors="pt")
-        self.labels = torch.tensor(labels, dtype=torch.long)
+        self.labels = torch.tensor(list(labels), dtype=torch.long)
 
     def __len__(self):
         return len(self.labels)
