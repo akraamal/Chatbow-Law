@@ -1,0 +1,1944 @@
+{
+  "source": "data\\processed\\fr\\BO_7500_Fr.txt",
+  "lang": "fr",
+  "doc_id": "BO_7500_Fr",
+  "bo_number": "7500",
+  "date_publication": "2026-04-16",
+  "edition_label": "Cent-quinzième",
+  "preamble_entities": [
+    {
+      "label": "LOI",
+      "text": "loi n° 03-25 relative\naux organismes de placement collectif en valeurs",
+      "start_char": 696,
+      "end_char": 766
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "9 février 2026",
+      "start_char": 1060,
+      "end_char": 1074
+    },
+    {
+      "label": "ARRETE",
+      "text": "Arrêté conjoint du ministre délégué auprès de la",
+      "start_char": 1260,
+      "end_char": 1308
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'économie et des finances",
+      "start_char": 1309,
+      "end_char": 1347
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'agriculture",
+      "start_char": 1403,
+      "end_char": 1428
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 chaabane 1447",
+      "start_char": 1540,
+      "end_char": 1555
+    },
+    {
+      "label": "ARRETE",
+      "text": "Arrêté conjoint du ministre délégué auprès de la",
+      "start_char": 1715,
+      "end_char": 1763
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'économie et des finances",
+      "start_char": 1764,
+      "end_char": 1802
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'agriculture",
+      "start_char": 1858,
+      "end_char": 1883
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 chaabane 1447",
+      "start_char": 1995,
+      "end_char": 2010
+    },
+    {
+      "label": "ARRETE",
+      "text": "Arrêté conjoint du ministre délégué auprès de la",
+      "start_char": 2205,
+      "end_char": 2253
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'économie et des finances",
+      "start_char": 2254,
+      "end_char": 2292
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'agriculture",
+      "start_char": 2348,
+      "end_char": 2373
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 chaabane 1447",
+      "start_char": 2485,
+      "end_char": 2500
+    },
+    {
+      "label": "ARRETE",
+      "text": "Arrêté conjoint du ministre délégué auprès de la",
+      "start_char": 2698,
+      "end_char": 2746
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'économie et des finances",
+      "start_char": 2747,
+      "end_char": 2785
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'agriculture",
+      "start_char": 2841,
+      "end_char": 2866
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'industrie et du commerce",
+      "start_char": 3680,
+      "end_char": 3718
+    },
+    {
+      "label": "LOI",
+      "text": "loi n° 03-25 relative aux organismes de",
+      "start_char": 4001,
+      "end_char": 4040
+    },
+    {
+      "label": "LOI",
+      "text": "loi n° 03-25 relative aux organismes de placement",
+      "start_char": 4115,
+      "end_char": 4164
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "14 novembre 2025",
+      "start_char": 4256,
+      "end_char": 4272
+    }
+  ],
+  "n_articles": 18,
+  "articles": [
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER.  –",
+      "entities": [],
+      "dates": [],
+      "text": "L'administration visée aux\narticles 43, 44, 51, 61, 62, 63, 64, 65, 66, 67, 68, 70, 71, 97, 115,\n116, 136, 137, 147, 154 et 188 de la loi susvisée n° 03-25, est\nl'autorité gouvernementale chargée des finances.",
+      "citations": [
+        {
+          "text": "articles 43, 44, 51, 61, 62, 63, 64, 65, 66, 67, 68, 70, 71, 97, 115,\n116, 136, 137, 147, 154 et 188",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7500_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [],
+      "dates": [],
+      "text": "En application des dispositions de l'article 20\nde la loi précitée n° 03-25, et sur proposition de l'AMMC, le\nmontant minimum initial des apports des copropriétaires\nconstituant un FCP ou l'un de ses compartiments, est d'un (1)\nmillion de dirhams.",
+      "citations": [
+        {
+          "text": "l'article 20",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7500_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [],
+      "dates": [],
+      "text": "En application des dispositions de l'article 28 de\nla loi précitée n° 03-25  et sur proposition de l'AMMC, le montant\nminimum du capital de la SICAV lors de sa constitution, est de\ncinq (5) millions de dirhams.",
+      "citations": [
+        {
+          "text": "l'article 28",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7500_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [],
+      "dates": [],
+      "text": "En application des dispositions de l'article 73 de\nla loi précitée n° 03-25, les règles comptables des OPCVM, ainsi\nque toute modifciation y afférente, sont approuvées par arrêté\nde l'autorité gouvernementale chargée des finances, après avis\ndu conseil national de la comptabilité.",
+      "citations": [
+        {
+          "text": "l'article 73",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7500_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "5",
+      "raw_header": "ART. 5. –",
+      "entities": [],
+      "dates": [],
+      "text": "En application des dispositions de l'article 173 de\nla loi précitée n° 03-25, les statuts de l' Association des Sociétés\nde Gestion des OPCVM et Fonds d'Investissement Marocains,\nainsi que toute modification y afférente, sont approuvés par\narrêté de l'autorité gouvernementale chargée des finances, après\navis de l'AMMC.",
+      "citations": [
+        {
+          "text": "l'article 173",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7500_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "6",
+      "raw_header": "ART. 6. –",
+      "entities": [
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 3,
+          "end_char": 41
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)",
+          "start_char": 334,
+          "end_char": 396
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 408,
+          "end_char": 433
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 ramadan 1447",
+          "start_char": 515,
+          "end_char": 529
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 ramadan 1447",
+          "start_char": 515,
+          "end_char": 529,
+          "start": 515,
+          "end": 529
+        }
+      ],
+      "text": "La ministre de l'économie et des finances est\nchargée de l'exécution du présent décret qui sera publié au\nBulletin officiel.\nFait à Rabat, le 14 chaoual 1447 (2 avril 2026).\nAZIZ AKHANNOUCH.\nPour contreseing :\nLa ministre de l'économie\net des finances,\nNADIA FETTAH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).\nArrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n° 466-26\ndu 9 ramadan 1447 (27 février 2026) portant protection de variétés par certificat d'obtention végétale\nET FORÊTS,\n12 ramadan 1417 (21 janvier 1997) ;\npromulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009) ;\nprotection des obtentions végétales, tel qu'il a été modifié, notamment ses articles 2 et 8 ;\nAprès avis du Comité consultatif de la protection des obtentions végétales,\nARRÊTE :\nprotection des obtentions végétales.\nde la protection.\nci-dessus, débute à compter de la date de délivrance du certificat d'obtention végétale correspondant.\nde délivrer les certificats d'obtention végétale des variétés désignées dans le tableau annexé au présent arrêté.",
+      "citations": [
+        {
+          "text": "articles 2 et 8",
+          "target_label": "BULLETIN_OFFICIEL",
+          "target_text": "Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "5",
+      "raw_header": "ART. 5. –",
+      "entities": [
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'industrie et du commerce",
+          "start_char": 2385,
+          "end_char": 2423
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "17 chaabane 1447",
+          "start_char": 2556,
+          "end_char": 2572
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 février 2026",
+          "start_char": 2574,
+          "end_char": 2588
+        },
+        {
+          "label": "MINISTERE",
+          "text": "MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+          "start_char": 2648,
+          "end_char": 2686
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 12-06 relative à la normalisation, à la",
+          "start_char": 2808,
+          "end_char": 2854
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "17 chaabane 1447",
+          "start_char": 2556,
+          "end_char": 2572,
+          "start": 2556,
+          "end": 2572
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 février 2026",
+          "start_char": 2574,
+          "end_char": 2588,
+          "start": 2574,
+          "end": 2588
+        }
+      ],
+      "text": "Le présent arrêté sera publié au Bulletin officiel.\n*\n*    *\nprotection\n1 )\n)\nDurée de la\n20 ans(2)\n20 ans(2)\n20 ans(2)\nVariété nouvelle\nVariété nouvelle\nVariété nouvelle\n/\nNouveauté (1)\nthe Secretary of Agriculture\nAmerica as Represented by\nNova Siri Genetics S.r.l.\nVia San Maurizio, 46, IT-\n/\nDéposant/Adresse\n2661 CZ Bergschenhoek\nThe Netherlands\nThe United States Of\nAdam Whitehouse\nBayer Holland B.V.\nLeeuwenhoekweg 52\n75025\n Policoro (MT) Italie\nLISTE DES VARIETES PROTEGEES\n1500 SW Jefferson Way, Corvallis,\nOR 97331 USA\nObtenteur/Adresse\nVia Sempione, 13-75025\nPolicoro (MT) Italie\nNicola Tufaro\nChad E. Finn\nDénomination de la\n1061/21\n26/05/2021\nMALLING ACE\nvariété\n1029/20\n25/12/2020\n1343/24\n 03/10/2024\nNSG 465\nN° et date de\ndépôt\nFragaria x Ananassa Duch\n /\n(nom commun /Nom\nEspèce\nRubus idaeus L.\nFramboisier\nscientifique)\nFraisier\nprotection\n1 )\n)\nDurée de la\n25 ans(2)\n25 ans(2)\nVariété nouvelle\nVariété nouvelle\n/\nNouveauté (1)\n39318 Jasper-Lowell Road,\nLowell, Oregon 97452, USA\n/\nDéposant/Adresse\nFall Creek Farm and\nInternational, LLC.\nLISTE DES VARIETES PROTEGEES (suite 1)\nNursery, Inc.\nSun World\n4. Peter Stefan Boches\nP.O. Box 4115 Hilo, Hawaii 96720,\n1. David M. Brazelton\nP.O Box 156 Walterville, Oregon\n1 )\n)\n97489, USA\n3. Adam L. Wagner\n635 Hamilton Avenue, Eugene,\nOregon 97404, USA\nObtenteur/Adresse\nTERRY A. Bacon,\nUSA\nVitis vinefera\n1035/2020\n 28/12/2020\nDénomination de la\nvariété\n978/20\n 29/01/2020\nFC13-122\nN° et date de\ndépôt\nVaccinium corymbosum L.\n /\n(nom commun /Nom\nEspèce\nscientifique)\nMyrtilles\nVigne\nprotection\n1 )\n)\nDurée de la\n20 ans(2)\n20 ans(2)\n20 ans(2)\nVariété nouvelle\nVariété nouvelle\nVariété nouvelle\n/\nNouveauté (1)\nSaillant, BP 83 26802 Portes-\nSaillant, 26802 Portes-Les-\n/\nDéposant/Adresse\nValence, Cedex, France\nZ.I La Motte, rue Louis\nZ.I La Motte, rue Louis\nZ.I La Motte, rue Louis\nlès-Valence, France\nHM. CLAUSE\nHM CLAUSE\nHM CLAUSE\nLISTE DES VARIETES PROTEGEES (suite 2)\nZ.I La Motte, rue Louis Saillant, BP\nZ.I La Motte, rue Louis Saillant, BP\n26802 Portes-Les-Valence, Cedex,\n France\n2 )\n)\nZ.I La Motte, rue Louis Saillant,\n83 26802 Portes-lès-Valence,\n France\nObtenteur/Adresse\nHM CLAUSE\nHM CLAUSE\nHM CLAUSE\nDénomination de la\nvariété\n1357/24\n27/12/2024\nCucurbita pepo L.\n1382/25\n06/03/2025\n1383/25\n06/03/2025\nN° et date de\ndépôt\n /\n(nom commun /Nom\nEspèce\nCucumis melo L.\nscientifique)\nCourgette\nMelon\nArrêté conjoint du ministre de l'industrie et du commerce et\nde la ministre de l'aménagement du territoire national,\nde l'urbanisme, de l'habitat et de la politique de la ville\nn° 302-26 du 17 chaabane 1447 (6 février 2026) rendant\nd'application obligatoire une norme marocaine.\nLE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,\nLA MINISTRE DE L'AMÉNAGEMENT DU TERRITOIRE\nNATIONAL, DE L'URBANISME, DE L'HABITAT ET DE\nLA POLITIQUE DE LA VILLE,\nVu la loi n° 12-06 relative à la normalisation, à la\ncertification et à l'accréditation, promulguée par le dahir\nn°1-10-15 du 26 Safar 1431 (11 février 2010), notamment son\narticle 33 ;\nVu la décision du directeur de l'Institut marocain\nde normalisation n° 1440-23 du 10 kaada 1444 (30 mai 2023),\nportant homologation de normes marocaines,\ndu 21 ramadan 1447 (11 mars 2026) portant homologation de normes marocaines\nLE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION,\npar le dahir n° 1.10.15 du 26 safar 1431 (11 février 2010), notamment ses articles 11, 15 et 32 ;\nl'homologation des normes marocaines et la certification de la conformité auxdites nomes,\nsont présentées en annexe de la présente décision.\nl'Institut marocain de normalisation (IMANOR).",
+      "citations": [
+        {
+          "text": "articles 11, 15 et 32",
+          "target_label": "LOI",
+          "target_text": "loi n° 12-06 relative à la normalisation, à la",
+          "resolved": true
+        }
+      ],
+      "persons": [
+        {
+          "text": "Adam Whitehouse",
+          "start": 372,
+          "end": 387,
+          "label": "PERSON"
+        },
+        {
+          "text": "Bayer Holland",
+          "start": 388,
+          "end": 401,
+          "label": "PERSON"
+        },
+        {
+          "text": "Fragaria x",
+          "start": 743,
+          "end": 753,
+          "label": "PERSON"
+        },
+        {
+          "text": "Peter Stefan Boches",
+          "start": 1122,
+          "end": 1141,
+          "label": "PERSON"
+        },
+        {
+          "text": "David M. Brazelton",
+          "start": 1179,
+          "end": 1197,
+          "label": "PERSON"
+        },
+        {
+          "text": "Adam L. Wagner",
+          "start": 1250,
+          "end": 1264,
+          "label": "PERSON"
+        },
+        {
+          "text": "Hamilton Avenue",
+          "start": 1269,
+          "end": 1284,
+          "label": "PERSON"
+        },
+        {
+          "text": "TERRY A. Bacon",
+          "start": 1330,
+          "end": 1344,
+          "label": "PERSON"
+        },
+        {
+          "text": "Louis Saillant",
+          "start": 1949,
+          "end": 1963,
+          "label": "PERSON"
+        },
+        {
+          "text": "Louis Saillant",
+          "start": 1986,
+          "end": 2000,
+          "label": "PERSON"
+        },
+        {
+          "text": "Louis Saillant",
+          "start": 2070,
+          "end": 2084,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": []
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [],
+      "dates": [],
+      "text": "La présente décision sera publiée au Bulletin officiel.\n*\n*    *\nTEXTES PARTICULIERS\ndénommée « Power Fish Pisciculture ».\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS, CHARGÉE DE LA PÊCHE MARITIME,\nchargé du budget,\nau présent arrêté conjoint.",
+      "citations": [],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 chaabane 1447",
+          "start_char": 208,
+          "end_char": 223
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n°2-08-",
+          "start_char": 517,
+          "end_char": 531
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 552,
+          "end_char": 568
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)",
+          "start_char": 1069,
+          "end_char": 1131
+        },
+        {
+          "label": "ARRETE",
+          "text": "Arrêté conjoint du ministre délégué auprès de la ministre de",
+          "start_char": 1133,
+          "end_char": 1193
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 1276,
+          "end_char": 1301
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 chaabane 1447",
+          "start_char": 1413,
+          "end_char": 1428
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 2134,
+          "end_char": 2150
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 2365,
+          "end_char": 2403
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 2435,
+          "end_char": 2450
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 2519,
+          "end_char": 2557
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 2593,
+          "end_char": 2618
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 2944,
+          "end_char": 2969
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 3008,
+          "end_char": 3026
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start_char": 3261,
+          "end_char": 3309
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 3325,
+          "end_char": 3350
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 3389,
+          "end_char": 3404
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 3406,
+          "end_char": 3422
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 3676,
+          "end_char": 3692
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)",
+          "start_char": 4400,
+          "end_char": 4462
+        },
+        {
+          "label": "ARRETE",
+          "text": "Arrêté conjoint du ministre délégué auprès de la ministre de",
+          "start_char": 4464,
+          "end_char": 4524
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 4607,
+          "end_char": 4632
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 chaabane 1447",
+          "start_char": 4744,
+          "end_char": 4759
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 5453,
+          "end_char": 5469
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 5684,
+          "end_char": 5722
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 5754,
+          "end_char": 5769
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 5838,
+          "end_char": 5876
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 5912,
+          "end_char": 5937
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 6263,
+          "end_char": 6288
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 6327,
+          "end_char": 6345
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start_char": 6580,
+          "end_char": 6628
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 6644,
+          "end_char": 6669
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 6708,
+          "end_char": 6723
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 6725,
+          "end_char": 6741
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 6995,
+          "end_char": 7011
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)",
+          "start_char": 7695,
+          "end_char": 7757
+        },
+        {
+          "label": "ARRETE",
+          "text": "Arrêté conjoint du ministre délégué auprès de la ministre",
+          "start_char": 7759,
+          "end_char": 7816
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 7902,
+          "end_char": 7927
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973)",
+          "start_char": 8533,
+          "end_char": 8599
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n°2-08-",
+          "start_char": 8712,
+          "end_char": 8726
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre\n2008",
+          "start_char": 8747,
+          "end_char": 8763
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 8978,
+          "end_char": 9016
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 9047,
+          "end_char": 9062
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 9131,
+          "end_char": 9169
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 9205,
+          "end_char": 9230
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 9555,
+          "end_char": 9580
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 9618,
+          "end_char": 9636
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start_char": 9871,
+          "end_char": 9919
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 9935,
+          "end_char": 9960
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 9998,
+          "end_char": 10013
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 10015,
+          "end_char": 10031
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n°2-08-",
+          "start_char": 10454,
+          "end_char": 10468
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 10488,
+          "end_char": 10504
+        },
+        {
+          "label": "ARRETE",
+          "text": "Arrêté conjoint du ministre délégué auprès de la ministre",
+          "start_char": 11076,
+          "end_char": 11133
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 11220,
+          "end_char": 11245
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973)",
+          "start_char": 11845,
+          "end_char": 11911
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n°2-08-",
+          "start_char": 12024,
+          "end_char": 12038
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre\n2008",
+          "start_char": 12059,
+          "end_char": 12075
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 12290,
+          "end_char": 12328
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 12359,
+          "end_char": 12374
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 12443,
+          "end_char": 12481
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 12516,
+          "end_char": 12541
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 12866,
+          "end_char": 12891
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 12929,
+          "end_char": 12947
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start_char": 13182,
+          "end_char": 13230
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 13246,
+          "end_char": 13271
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 13309,
+          "end_char": 13324
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 13326,
+          "end_char": 13342
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 14025,
+          "end_char": 14063
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n°2-08-",
+          "start_char": 14092,
+          "end_char": 14106
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 14127,
+          "end_char": 14143
+        },
+        {
+          "label": "ARRETE",
+          "text": "Arrêté conjoint du ministre délégué auprès de la ministre de",
+          "start_char": 14736,
+          "end_char": 14796
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 14880,
+          "end_char": 14905
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973)",
+          "start_char": 15507,
+          "end_char": 15573
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n°2-08-",
+          "start_char": 15686,
+          "end_char": 15700
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre\n2008",
+          "start_char": 15721,
+          "end_char": 15737
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 15952,
+          "end_char": 15990
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 16021,
+          "end_char": 16036
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 16105,
+          "end_char": 16143
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 16179,
+          "end_char": 16204
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 16529,
+          "end_char": 16554
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 16592,
+          "end_char": 16610
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start_char": 16845,
+          "end_char": 16893
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start_char": 16909,
+          "end_char": 16934
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 16972,
+          "end_char": 16987
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 16989,
+          "end_char": 17005
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n°2-08-",
+          "start_char": 17381,
+          "end_char": 17395
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 17415,
+          "end_char": 17431
+        },
+        {
+          "label": "ARRETE",
+          "text": "Arrêté du ministre de l'enseignement supérieur",
+          "start_char": 18001,
+          "end_char": 18047
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "16 chaabane 1447",
+          "start_char": 18110,
+          "end_char": 18126
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 février 2026",
+          "start_char": 18128,
+          "end_char": 18142
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 18179,
+          "end_char": 18197
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 18199,
+          "end_char": 18215
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté du ministre de l'enseignement supérieur",
+          "start_char": 18423,
+          "end_char": 18469
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 18544,
+          "end_char": 18562
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 18564,
+          "end_char": 18580
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 novembre 2025",
+          "start_char": 19198,
+          "end_char": 19214
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 chaabane 1447",
+          "start_char": 208,
+          "end_char": 223,
+          "start": 208,
+          "end": 223
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 552,
+          "end_char": 568,
+          "start": 552,
+          "end": 568
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 chaabane 1447",
+          "start_char": 1413,
+          "end_char": 1428,
+          "start": 1413,
+          "end": 1428
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 2134,
+          "end_char": 2150,
+          "start": 2134,
+          "end": 2150
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 2435,
+          "end_char": 2450,
+          "start": 2435,
+          "end": 2450
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 3008,
+          "end_char": 3026,
+          "start": 3008,
+          "end": 3026
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 3389,
+          "end_char": 3404,
+          "start": 3389,
+          "end": 3404
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 3406,
+          "end_char": 3422,
+          "start": 3406,
+          "end": 3422
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 3676,
+          "end_char": 3692,
+          "start": 3676,
+          "end": 3692
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 chaabane 1447",
+          "start_char": 4744,
+          "end_char": 4759,
+          "start": 4744,
+          "end": 4759
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 5453,
+          "end_char": 5469,
+          "start": 5453,
+          "end": 5469
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 5754,
+          "end_char": 5769,
+          "start": 5754,
+          "end": 5769
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 6327,
+          "end_char": 6345,
+          "start": 6327,
+          "end": 6345
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 6708,
+          "end_char": 6723,
+          "start": 6708,
+          "end": 6723
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 6725,
+          "end_char": 6741,
+          "start": 6725,
+          "end": 6741
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 6995,
+          "end_char": 7011,
+          "start": 6995,
+          "end": 7011
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre\n2008",
+          "start_char": 8747,
+          "end_char": 8763,
+          "start": 8747,
+          "end": 8763
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 9047,
+          "end_char": 9062,
+          "start": 9047,
+          "end": 9062
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 9618,
+          "end_char": 9636,
+          "start": 9618,
+          "end": 9636
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 9998,
+          "end_char": 10013,
+          "start": 9998,
+          "end": 10013
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 10015,
+          "end_char": 10031,
+          "start": 10015,
+          "end": 10031
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 10488,
+          "end_char": 10504,
+          "start": 10488,
+          "end": 10504
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre\n2008",
+          "start_char": 12059,
+          "end_char": 12075,
+          "start": 12059,
+          "end": 12075
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 12359,
+          "end_char": 12374,
+          "start": 12359,
+          "end": 12374
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 12929,
+          "end_char": 12947,
+          "start": 12929,
+          "end": 12947
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 13309,
+          "end_char": 13324,
+          "start": 13309,
+          "end": 13324
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 13326,
+          "end_char": 13342,
+          "start": 13326,
+          "end": 13342
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 14127,
+          "end_char": 14143,
+          "start": 14127,
+          "end": 14143
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre\n2008",
+          "start_char": 15721,
+          "end_char": 15737,
+          "start": 15721,
+          "end": 15737
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start_char": 16021,
+          "end_char": 16036,
+          "start": 16021,
+          "end": 16036
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start_char": 16592,
+          "end_char": 16610,
+          "start": 16592,
+          "end": 16610
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start_char": 16972,
+          "end_char": 16987,
+          "start": 16972,
+          "end": 16987
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start_char": 16989,
+          "end_char": 17005,
+          "start": 16989,
+          "end": 17005
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start_char": 17415,
+          "end_char": 17431,
+          "start": 17415,
+          "end": 17431
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "16 chaabane 1447",
+          "start_char": 18110,
+          "end_char": 18126,
+          "start": 18110,
+          "end": 18126
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 février 2026",
+          "start_char": 18128,
+          "end_char": 18142,
+          "start": 18128,
+          "end": 18142
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 18179,
+          "end_char": 18197,
+          "start": 18179,
+          "end": 18197
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 18199,
+          "end_char": 18215,
+          "start": 18199,
+          "end": 18215
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 18544,
+          "end_char": 18562,
+          "start": 18544,
+          "end": 18562
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 18564,
+          "end_char": 18580,
+          "start": 18564,
+          "end": 18580
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 novembre 2025",
+          "start_char": 19198,
+          "end_char": 19214,
+          "start": 19198,
+          "end": 19214
+        }
+      ],
+      "text": "Le présent arrêté conjoint sera publié au Bulletin officiel.\nLe ministre délégué\nauprès de la ministre de l'économie\net des finances, chargé du budget,\nFOUZI LEKJAA.\nchargée de la pêche maritime n° 492-26 du 6 chaabane 1447 (26 janvier 2026) portant publication de l'extrait de l'avenant\nn° 1 à la convention n°2019/GON/02 de création et d'exploitation d'une ferme aquacole dénommée « Power Fish Pisiculture »\nExtrait de l'avenant n°1 à la convention n°2019/GON/02 de création et d'exploitation d'une ferme aquacole\n(décret n°2-08-562 du 13 hija 1429 (12 décembre 2008))\nIdentification du bénéficiaire :\nSociété «POWER FISH sarl »\nRue Yaacoub El Mansour, Villa Baida n°25- Laâyoune\nRegistre de commerce n°26299\nSuperficie :\nLimites externes d'implantation de la ferme aquacole :\nParcelle 1\nParcelle 2\nParcelle 4\nParcelle 5\nParcelle 6\nParcelle 7\nParcelle 8\nParcelle 9\nParcelle 10\nActivité de la ferme aquacole :\nÉlevage des espèces halieutiques suivantes :\nMontant de la redevance due :\nSans changement\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).\nArrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des\neaux et forêts, chargée de la pêche maritime n° 493-26\ndu 6 chaabane 1447 (26 janvier 2026) autorisant la société\n«  MEJILLONS LABOUIRDA Sarl AU  » pour la\ncréation et l'exploitation d'une ferme aquacole dénommée\n« Mejillons Labouirda-Cintra » et portant publication de\nl'extrait de la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)\nfixant les conditions et les modalités de délivrance\net de renouvellement des autorisations d'établissement\nde pêche maritime, tel que modifié et complété, notamment\nses articles 7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de la\nministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts n° 2561-24\ndu 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle de\nconvention de concession y afférent, tel que modifié et\ncomplété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\n*\n*      *\nchargée de la pêche maritime\n(art.9 du décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008))\nNom du bénéficiaire :\nSociété « MEJILLONS LABOUIRDA Sarl AU »\nDurée de la Convention :\nDix (10) ans, renouvelable\nLieu d'implantation de la ferme aquacole :\nSuperficie :\nDeux (2) hectares.\nLimites externes d'implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :\nActivité de la ferme aquacole :\nTechnique utilisée :\nPoches sur tables.\nMoyens d'exploitation :\nNavires de servitude.\nContrôle et suivi technique et scientifique :\nSurveillance environnementale :\nGestion des déchets :\nMontant de la redevance due :\n- droit fixe : mille (1000) dirhams par an.\n- droit variable : 1/1000 de la valeur des espèces vendues.\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).\nArrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des\neaux et forêts, chargée de la pêche maritime n° 494-26\ndu 6 chaabane 1447 (26 janvier 2026) autorisant la société\n« WEST LEOCEANIC Sarl AU » pour la création et\nl'exploitation d'une ferme aquacole dénommée « West\nLeoceanic Cintra » et portant publication de l'extrait de\nla convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)\nfixant les conditions et les modalités de délivrance\net de renouvellement des autorisations d'établissement\nde pêche maritime, tel que modifié et complété, notamment\nses articles 7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de la\nministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts n° 2561-24\ndu 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle de\nconvention de concession y afférent, tel que modifié et\ncomplété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\n*\n*      *\nchargée de la pêche maritime\n(art.9 du décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008))\nNom du bénéficiaire :\nSociété « WEST LEOCEANIC Sarl AU »\nDurée de la Convention :\nDix (10) ans, renouvelable\nLieu d'implantation de la ferme aquacole :\nSuperficie :\nDeux (2) hectares.\nLimites externes d'implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :\nActivité de la ferme aquacole :\nTechnique utilisée :\nMoyens d'exploitation :\nNavires de servitude.\nContrôle et suivi technique et scientifique :\nSurveillance environnementale :\nGestion des déchets :\nMontant de la redevance due :\n- droit fixe : mille (1000) dirhams par an.\n- droit variable : 1/1000 de la valeur des espèces vendues.\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).\nArrêté conjoint du ministre délégué auprès de la ministre\nde l'économie et des finances, chargé du budget et de\nla secrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 495-26 du\n22 ramadan 1447 (12 mars 2026) autorisant la société\n«PRO AQUACULTURE COMPANY Sarl» pour la\ncréation et l'exploitation d'une ferme aquacole dénommée\n«Pro Aquaculture Company» et portant publication de\nl'extrait de la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n°2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de la\nministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle de\nconvention de concession y afférent, tel que modifié et\ncomplété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant les\nmontants et les modalités de paiement de la redevance annuelle\ndue au titre des conventions de concession de ferme aquacole,\ntel que modifié et complété ;\n*\n*      *\nExtrait de la convention de création et d'exploitation de la ferme aquacole dénommée «Pro Aquaculture Company» n° 2024/\nDOE/524 signée le 12 ramadan 1446 (13 mars 2025) entre la société «PRO AQUACULTURE COMPANY Sarl» et la secrétaire\n(art.9 du décret n°2-08-562 du 13 hija1429 (12 décembre 2008))\nNom du bénéficiaire\nSociété «PRO AQUACULTURE COMPANY Sarl»\nDurée de la Convention\nDix (10) ans, renouvelable\nLieu d'implantation de la ferme aquacole :\nDeux (2) hectares.\nSuperficie :\nLimites externes d'implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :\nActivité de la ferme aquacole\nPoches sur tables.\nTechnique utilisée :\nNavires de servitude.\nMoyens d'exploitation :\nContrôle et suivi technique et scientifique\nSurveillance environnementale :\nGestion des déchets :\nMontant de la redevance due :\n- droit fixe : mille (1000) dirhams par an.\nArrêté conjoint du ministre délégué auprès de la ministre\nde l'économie et des finances, chargé du budget  et de\nla secrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et\ndes eaux et forêts, chargée de la pêche maritime\nn°496-26 du 22 ramadan 1447 (12 mars 2026) autorisant la\nsociété «ALGUES EPICURIENNES Sarl AU» pour la\ncréation et l'exploitation d'une ferme aquacole dénommée\n«Algues Epicuriennes» et portant publication de l'extrait\nde la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n°2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modiféi et complété, notamment ses articles 7,\n7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de la\nministre de l'économie et des finances chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle de\nconvention de concession y afférent, tel que modifié et\ncomplété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant les\nmontants et les modalités de paiement de la redevance annuelle\ndue au titre des conventions de concession de ferme aquacole,\ntel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde ferme aquacole n° 2024/ORI/520 signée le 19 ramadan 1446\n(20 mars 2025) entre la société «ALGUES EPICURIENNES\nSarl AU» et la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime et approuvée\npar le ministre délégué auprès de la ministre de l'économie et\ndes finances, chargé du budget,\n*\n*      *\nAnnexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget\n(art.9 du décret n°2-08-562 du 13 hija 1429 (12 décembre 2008))\nNom du bénéficiaire\nSociété «ALGUES EPICURIENNES Sarl AU»\nDurée de la Convention\nDix (10) ans, renouvelable\nLieu d'implantation de la ferme aquacole :\nde Nador.\nSuperficie :\nSeize (16) hectares\nLimites externes d'implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :\nActivité de la ferme aquacole\nLa technique des filières\nTechnique utilisée :\nMoyens d'exploitation :\nNavires de servitude\nContrôle et suivi technique et scientifique\nSurveillance environnementale :\nGestion des déchets :\nMontant de la redevance due :\n-droit fixe : Cent soixante (160) dirhams par an\nArrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n°497-26 du\n22 ramadan 1447 (12 mars 2026) autorisant la société\n« LA PERLE AQUACULTURE Sarl » pour la création\net l'exploitation d'une ferme aquacole dénommée « La\nPerle Aquaculture » et portant publication de l'extrait de\nla convention y afférente\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n°2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\n*\n*      *\nchargée de la pêche maritime n°497-26 du 22 ramadan 1447 (12 mars 2026) autorisant la société\n«LA PERLE AQUACULTURE Sarl» pour la création et l'exploitation d'une ferme aquacole dénommée\n(art.9 du décret n°2-08-562 du 13 hija1429 (12 décembre 2008))\nNom du bénéficiaire\nSociété «LA PERLE AQUACULTURE Sarl»\nDurée de la Convention\nDix (10) ans, renouvelable\nLieu d'implantation de la ferme aquacole :\nSuperficie :\nDeux (02) hectares.\nLimites externes d'implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :\nActivité de la ferme aquacole\nTechnique utilisée :\nPoches sur tables.\nMoyens d'exploitation :\nNavires de servitude.\nContrôle et suivi technique et scientifique\nSurveillance environnementale :\nGestion des déchets :\nMontant de la redevance due :\n- droit fixe : mille (1000) dirhams par an.\nArrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 299-26 du 16 chaabane 1447\n(5 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifqiue et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 20 novembre 2025,\nARRÊTE :",
+      "citations": [
+        {
+          "text": "articles 28 et 28-1",
+          "target_label": "ARRETE",
+          "target_text": "Arrêté conjoint du ministre délégué auprès de la ministre de",
+          "resolved": true
+        },
+        {
+          "text": "articles 7, 7",
+          "target_label": "ARRETE",
+          "target_text": "arrêté conjoint du ministre de l'économie et des",
+          "resolved": true
+        },
+        {
+          "text": "articles 28 et 28-1",
+          "target_label": "ARRETE",
+          "target_text": "Arrêté conjoint du ministre délégué auprès de la ministre de",
+          "resolved": true
+        },
+        {
+          "text": "articles 7, 7",
+          "target_label": "ARRETE",
+          "target_text": "arrêté conjoint du ministre de l'économie et des",
+          "resolved": true
+        },
+        {
+          "text": "articles 28 et 28-1",
+          "target_label": "DECRET",
+          "target_text": "décret n°2-08-",
+          "resolved": true
+        },
+        {
+          "text": "articles\n7, 7",
+          "target_label": "DECRET",
+          "target_text": "décret n°2-08-",
+          "resolved": true
+        },
+        {
+          "text": "articles 28 et 28-1",
+          "target_label": "DECRET",
+          "target_text": "décret n°2-08-",
+          "resolved": true
+        },
+        {
+          "text": "articles 7,\n7",
+          "target_label": "DECRET",
+          "target_text": "décret n°2-08-",
+          "resolved": true
+        },
+        {
+          "text": "articles 28 et 28-1",
+          "target_label": "DECRET",
+          "target_text": "décret n°2-08-",
+          "resolved": true
+        },
+        {
+          "text": "articles\n7, 7",
+          "target_label": "DECRET",
+          "target_text": "décret n°2-08-",
+          "resolved": true
+        }
+      ],
+      "persons": [
+        {
+          "text": "Mejillons Labouirda-Cintra",
+          "start": 1570,
+          "end": 1596,
+          "label": "PERSON"
+        },
+        {
+          "text": "Algues Epicuriennes",
+          "start": 11505,
+          "end": 11524,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": [
+        {
+          "text": "conseil national de l'",
+          "start": 19047,
+          "end": 19069,
+          "label": "ORGANIZATION"
+        }
+      ]
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 52,
+          "end_char": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 72,
+          "end_char": 88
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 52,
+          "end_char": 70,
+          "start": 52,
+          "end": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 72,
+          "end_char": 88,
+          "start": 72,
+          "end": 88
+        }
+      ],
+      "text": "L'article premier de l'arrêté susvisé\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est\ncomplété comme suit :\n«",
+      "citations": [],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "premier",
+      "raw_header": "Article premier. –",
+      "entities": [],
+      "dates": [],
+      "text": "La liste des diplômes reconnus\n« équivalents au diplôme d'architecte de l'Ecole nationale\n« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du\n« baccalauréat, série scientifqiue ou technique ou d'un diplôme\n« reconnu équivalent, est fixée ainsi qu'il suit :\n« – Master's degree field of study « architecture and\n« construction » programme subject area « architecture\n« and town planning », délivré en date du 31 mai 2023\n« par O.M.Beketov national University of urban economy\n« in Kharkiv - Ukraine, assorti du bachelor's degree feild\n« of study « architecture and construction » program\n« subject area « architecture and town planning »,\n« délivré en date du 30 juin 2021 par Kharkiv national\n« University of civil engineering and architecture -\n«  Ukraine et d'une attestation de validation du\n«  complément de formation, délivrée par l'Ecole\n« nationale d'architecture de Rabat. »",
+      "citations": [
+        {
+          "text": "l'article 4",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7500_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "16 chaabane 1447",
+          "start_char": 62,
+          "end_char": 78
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 février 2026",
+          "start_char": 80,
+          "end_char": 94
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)",
+          "start_char": 186,
+          "end_char": 248
+        },
+        {
+          "label": "ARRETE",
+          "text": "Arrêté du ministre de l'enseignement supérieur",
+          "start_char": 250,
+          "end_char": 296
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "23 chaabane 1447",
+          "start_char": 359,
+          "end_char": 375
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 429,
+          "end_char": 447
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 449,
+          "end_char": 465
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté du ministre de l'enseignement supérieur",
+          "start_char": 673,
+          "end_char": 719
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 794,
+          "end_char": 812
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 814,
+          "end_char": 830
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 novembre 2025",
+          "start_char": 1448,
+          "end_char": 1464
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "16 chaabane 1447",
+          "start_char": 62,
+          "end_char": 78,
+          "start": 62,
+          "end": 78
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 février 2026",
+          "start_char": 80,
+          "end_char": 94,
+          "start": 80,
+          "end": 94
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "23 chaabane 1447",
+          "start_char": 359,
+          "end_char": 375,
+          "start": 359,
+          "end": 375
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 429,
+          "end_char": 447,
+          "start": 429,
+          "end": 447
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 449,
+          "end_char": 465,
+          "start": 449,
+          "end": 465
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 794,
+          "end_char": 812,
+          "start": 794,
+          "end": 812
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 814,
+          "end_char": 830,
+          "start": 814,
+          "end": 830
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 novembre 2025",
+          "start_char": 1448,
+          "end_char": 1464,
+          "start": 1448,
+          "end": 1464
+        }
+      ],
+      "text": "Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 16 chaabane 1447 (5 février 2026).\nAZZEDDINE EL MIDAOUI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).\nArrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 353-26 du 23 chaabane 1447\n(12 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifqiue et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 20 novembre 2025,\nARRÊTE :",
+      "citations": [],
+      "persons": [
+        {
+          "text": "AZZEDDINE EL MIDAOUI",
+          "start": 97,
+          "end": 117,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": [
+        {
+          "text": "conseil national de l'",
+          "start": 1297,
+          "end": 1319,
+          "label": "ORGANIZATION"
+        }
+      ]
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 52,
+          "end_char": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 72,
+          "end_char": 88
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start_char": 52,
+          "end_char": 70,
+          "start": 52,
+          "end": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start_char": 72,
+          "end_char": 88,
+          "start": 72,
+          "end": 88
+        }
+      ],
+      "text": "L'article premier de l'arrêté susvisé\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est\ncomplété comme suit :\n«",
+      "citations": [],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "premier",
+      "raw_header": "Article premier. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "27 septembre 2023",
+          "start_char": 430,
+          "end_char": 447
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "27 septembre 2023",
+          "start_char": 430,
+          "end_char": 447,
+          "start": 430,
+          "end": 447
+        }
+      ],
+      "text": "La liste des diplômes reconnus\n« équivalents au diplôme d'architecte de l'Ecole nationale\n« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du\n« baccalauréat, série scientifqiue ou technique ou d'un diplôme\n« reconnu équivalent, est fixée ainsi qu'il suit :\n« – Master's degree program subject area «architecture\n«  and construction» programme subject area\n« «architecture and town planning», délivré en date\n« du 27 septembre 2023 par O.M. Beketov national\n« University of urban economy in Kharkiv - Ukraine,\n« assorti du bachelor's degree feild of study «architecture\n« and construction» program subject area «architecture\n« and town planning», délivré en date du 30 juin 2021\n« par Kharkiv national University of civil engineering\n« and architecture - Ukraine et d'une attestation de\n« validation du complément de formation, délivrée par\n« l'Ecole nationale d'architecture de Rabat. »",
+      "citations": [
+        {
+          "text": "l'article 4",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7500_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [
+        {
+          "text": "O.M. Beketov",
+          "start": 452,
+          "end": 464,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": []
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [],
+      "dates": [],
+      "text": "Cet arrêté reste affiché, pendant le délai d'un\nmois à partir de la date fixée pour l'ouverture de l'enquête, au\nsiège de la Caïdat de Jbilate, chargée de l'enquête.\nCette Caïdat doit, en outre, en assurer sa publication à\ntrois reprises et à huit jours d'intervalle dans les divers marchés\nsitués dans un rayon de 5 kilomètres autour du lieu de cette\ninstallation.\nLes intéressés peuvent, pendant la durée de l'enquête,\nconsulter les plans et déposer leurs réclamations sur le registre\nouvert, à cet effet, au siège de la Caïdat de Jbilate.",
+      "citations": [],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7498 du 21 chaoual 1447 (9 avril 2026)",
+          "start_char": 232,
+          "end_char": 293
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'industrie et du commerce",
+          "start_char": 305,
+          "end_char": 343
+        },
+        {
+          "label": "MINISTERE",
+          "text": "MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+          "start_char": 541,
+          "end_char": 579
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 24-09 relative à la sécurité des produits et",
+          "start_char": 587,
+          "end_char": 638
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 ramadan 1331",
+          "start_char": 678,
+          "end_char": 692
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 24-09 relative à",
+          "start_char": 959,
+          "end_char": 982
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 ramadan 1331",
+          "start_char": 1050,
+          "end_char": 1064
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté du ministre de l'industrie",
+          "start_char": 1162,
+          "end_char": 1195
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 décembre 2013",
+          "start_char": 1287,
+          "end_char": 1303
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté du ministre de l'industrie",
+          "start_char": 1434,
+          "end_char": 1467
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'industrie et du commerce",
+          "start_char": 1722,
+          "end_char": 1760
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "1er kaada 1443",
+          "start_char": 1775,
+          "end_char": 1789
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start_char": 1971,
+          "end_char": 2009
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er avril 2026",
+          "start_char": 2040,
+          "end_char": 2054
+        },
+        {
+          "label": "MINISTERE",
+          "text": "MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+          "start_char": 2203,
+          "end_char": 2241
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 42-12 relative au marché à terme d'instruments",
+          "start_char": 2249,
+          "end_char": 2302
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 ramadan 1331",
+          "start_char": 678,
+          "end_char": 692,
+          "start": 678,
+          "end": 692
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 ramadan 1331",
+          "start_char": 1050,
+          "end_char": 1064,
+          "start": 1050,
+          "end": 1064
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 décembre 2013",
+          "start_char": 1287,
+          "end_char": 1303,
+          "start": 1287,
+          "end": 1303
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "1er kaada 1443",
+          "start_char": 1775,
+          "end_char": 1789,
+          "start": 1775,
+          "end": 1789
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er avril 2026",
+          "start_char": 2040,
+          "end_char": 2054,
+          "start": 2040,
+          "end": 2054
+        }
+      ],
+      "text": "Le présent arrêté est publié au Bulletin officiel\net notifié à la Compagnie Africaine des Explosifs (CADEX).\nRabat, le 20 ramadan 1447 (10 mars 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7498 du 21 chaoual 1447 (9 avril 2026).\nArrêté du ministre de l'industrie et du commerce n°542-26 du\n21 ramadan 1447 (11 mars 2026) relatif à l'extension de\nl'agrément de la société Analysis and Control Laboratory\n(ACLAB) pour l'évaluation de la conformité des produits\nindustriels.\nLE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,\nVu la loi n° 24-09 relative à la sécurité des produits et\ndes services et complétant le dahir du 9 ramadan 1331 (12 août\n1913) formant code des obligations et des contrats, promulguée\npar le dahir n°1-11-140 du 16 ramadan 1432 (17 août 2011)\nnotamment ses articles 21 et 22 ;\nVu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris\npour l'application du titre premier de la loi n° 24-09 relative à\nla sécurité des produits et des services et complétant le dahir\ndu 9 ramadan 1331 (12 août 1913) formant code des obligations\net des contrats, notamment ses article 4 et 5 ;\nVu l'arrêté du ministre de l'industrie, du commerce,\nde l'investissement et de l'économie numérique, n° 3873-13\ndu 22 safar 1435 (26 décembre 2013) relatif à l'agrément des\norganismes d'évaluation de la conformité, tel que modifié,\nnotamment ses articles 7, 8, 10 et 11 ;\nVu l'arrêté du ministre de l'industrie, du commerce\net de l'économie verte et numérique n° 2253-21 du 26 hija 1442\n(6 août 2021) relatif à l'octroi de l'agrément de la société\nAnalysis and Control Laboratory (ACLAB) pour l'évaluation\nde la conformité des produits industriels ;\nVu l'arrêté du ministre de l'industrie et du commerce\nn° 1532-22 du 1er kaada 1443 (1er juin 2022) relatif à l'extension\nde l'agrément de la société Analysis and Control Laboratory\n(ACLAB) pour l'évaluation de la conformité des produits\nindustriels ;\nArrêté de la ministre de l'économie et des finances n° 649-26\ndu 13 chaoual 1447 (1er avril 2026) portant agrément de\nla société de bourse « Upline Securities » en qualité de\nmembre négociateur sur le marché à terme d'instruments\nfinanciers.\nLA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,\nVu la loi n° 42-12 relative au marché à terme d'instruments\nfinanciers, promulguée par le dahir n° 1-14-96 du 20 rejeb 1435\n(20 mai 2014), notamment ses articles 55 et 59 ;\nAprès avis de l'instance de coordination du marché à\nterme,\nARRÊTE :",
+      "citations": [
+        {
+          "text": "articles 21 et 22",
+          "target_label": "LOI",
+          "target_text": "loi n° 24-09 relative à",
+          "resolved": true
+        },
+        {
+          "text": "articles 7, 8, 10 et 11",
+          "target_label": "ARRETE",
+          "target_text": "arrêté du ministre de l'industrie",
+          "resolved": true
+        },
+        {
+          "text": "articles 55 et 59",
+          "target_label": "LOI",
+          "target_text": "loi n° 42-12 relative au marché à terme d'instruments",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [],
+      "dates": [],
+      "text": "Est octroyé un agrément en qualité\nde membre négociateur sur le marché à terme d'instruments\nfinanciers à la société de bourse « Upline Securities » pour\nl'exercice de l'activité de négociation d'instruments financiers\nà terme.",
+      "citations": [],
+      "persons": [],
+      "organizations": []
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er avril 2026",
+          "start_char": 78,
+          "end_char": 92
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7497 du 18 chaoual 1447 (6 avril 2026)",
+          "start_char": 176,
+          "end_char": 237
+        },
+        {
+          "label": "LOI",
+          "text": "loi n°43-20 relative aux services  de confiance pour les transactions électroniques",
+          "start_char": 347,
+          "end_char": 430
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)",
+          "start_char": 1069,
+          "end_char": 1131
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er avril 2026",
+          "start_char": 78,
+          "end_char": 92,
+          "start": 78,
+          "end": 92
+        }
+      ],
+      "text": "Le présent arrêté est publié au Bulletin officiel.\nRabat, le 13 chaoual 1447 (1er avril 2026).\nNADIA FETTAH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7497 du 18 chaoual 1447 (6 avril 2026).\nAVIS ET COMMUNICATIONS\nAgrément de prestataire de services de confiance conformément aux dispositions\nde la loi n°43-20 relative aux services  de confiance pour les transactions électroniques\nPar décision n°l/PSCo/2026 du 22 ramadan 1447 (12 mars 2026) de la direction générale de la sécurité des systèmes\nd'information (DGSSI) relevant de l'Administration de la défense nationale, agissant en sa qualité d'autorité nationale des\nservices de confiance pour les transactions électroniques, la société « Barid Al-Maghrib », dont le siège social est sis Avenue\nMoulay Ismail, Hassan, Rabat, a été agréée pour une période de trente-six (36) mois, en qualité de prestataire de services de\nconfiance et ce, pour le service suivant :\n– Horodatage électronique qualifié.\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": []
+    }
+  ]
+}

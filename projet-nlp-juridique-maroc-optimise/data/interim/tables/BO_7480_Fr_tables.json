@@ -1,0 +1,1388 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      223.7284,
+      229.5871999999999,
+      427.8228,
+      388.01629999999994
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "TARIFS D’ABONNEMENT",
+        "",
+        ""
+      ],
+      [
+        "AU MAROC\n{\n6 mois 1 an",
+        "",
+        "A L’ETRANGER"
+      ],
+      [
+        "250 DH\n150 DH\n150 DH\n250 DH\n250 DH",
+        "400 DH\n200 DH\n200 DH\n300 DH\n300 DH",
+        "A destination de l’étranger,\npar voies ordinaire, aérienne\nou de la poste rapide interna-\ntionale, les tarifs prévus ci-\ncontre sont majorés des frais\nd’envoi, tels qu’ils sont fixés\npar la réglementation postale\nen vigueur."
+      ]
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      70.94425,
+      261.712,
+      524.1402500000002,
+      365.06149999999997
+    ],
+    "n_rows": 4,
+    "n_cols": 5,
+    "rows": [
+      [
+        "",
+        "Climatiseurs à double conduit",
+        "",
+        "Climatiseurs à simple conduit",
+        ""
+      ],
+      [
+        "",
+        "EERrated *",
+        "COPrated *",
+        "EERrated *",
+        "COPrated *"
+      ],
+      [
+        "Si le PRP du réfrigérant  130",
+        "2.40",
+        "2.36",
+        "2.40",
+        "1.80"
+      ],
+      [
+        "Si le PRP du réfrigérant ≤ 150",
+        "2.16",
+        "2.12",
+        "2.16",
+        "1.62"
+      ]
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      70.94425,
+      512.3215,
+      524.1402500000002,
+      717.671
+    ],
+    "n_rows": 4,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Mode « arrêt »",
+        "La consommation électrique de l’appareil pour tous les états correspondants au\nmode « arrêt » ne doit pas dépasser 1.00 W."
+      ],
+      [
+        "Mode « veille »",
+        "La consommation électrique de l’appareil pour tous états dans lequel seule une\nfonction de réactivation est assurée, ou bien uniquement une fonction de\nréactivation associée à une indication unique montrant que la fonction de\nréactivation est activée, ne dépasse pas 1.00 W."
+      ],
+      [
+        "",
+        "La consommation électrique de l’appareil se trouvant dans tout état dans lequel\nseul l’affichage d’une information ou d’un état est assuré, ou uniquement, ne\ndépasse pas 2 W."
+      ],
+      [
+        "Mode « veille »et/ou\nmode « arrêt »",
+        "L’appareil est, dans la mesure où cela est compatible avec l’usage prévu, doté\nd’un mode « arrêt » et/ou « veille », et/ou d’un autre mode dans lequel,\nlorsqu’il est connecté au secteur, les exigences applicables en matière de\nconsommation d’électricité en mode « arrêt » et/ou « veille » sont respectées"
+      ]
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      70.7795,
+      120.02499999999998,
+      495.8955,
+      216.865
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "SEER *",
+        "SCOP *\n(saison de chauffage moyenne)"
+      ],
+      [
+        "Si le PRP* du réfrigérant  150",
+        "3.60",
+        "3.40"
+      ],
+      [
+        "Si le PRP du réfrigérant ≤ 150",
+        "3.24",
+        "3.06"
+      ]
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      63.70000000000001,
+      419.81499999999994,
+      538.6149999999999,
+      767.8639999999999
+    ],
+    "n_rows": 6,
+    "n_cols": 7,
+    "rows": [
+      [
+        "",
+        "Climatiseurs, à l'exception des\nclimatiseurs à double et\nsimple conduit",
+        "",
+        "Climatiseurs à double conduit",
+        "",
+        "Climatiseurs à simple conduit",
+        ""
+      ],
+      [
+        "",
+        "SEER",
+        "SCOP\n(Saison de\nchauffage\n<moyenne»)",
+        "EERated",
+        "COP rated",
+        "EER-rated",
+        "COP rated"
+      ],
+      [
+        "Si le PRP du réfrigérant\n> 150 pour une puissance\nnominale < 6 kW",
+        "4.60",
+        "3.80",
+        "2.60",
+        "2.60",
+        "2.60",
+        "2.04"
+      ],
+      [
+        "Si le PRP du réfrigérant ≤\n150 pour une puissance\nnominale <6 kW",
+        "4.14",
+        "3.42",
+        "2.34",
+        "2.34",
+        "2.34",
+        "1.84"
+      ],
+      [
+        "Si le PRP du réfrigérant >\n150 pour une puissance\nNominale ≥ 6 KW et ≤ 12\nkW",
+        "4.30",
+        "3.80",
+        "2.60",
+        "2.60",
+        "2.60",
+        "2.04"
+      ],
+      [
+        "Si le PRP du réfrigérant ≤\n150 pour une puissance\nnominale ≥ 6 kW et ≤ 12\nkW",
+        "3.87",
+        "3.42",
+        "2.34",
+        "2.34",
+        "2.34",
+        "1.84"
+      ]
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      71.06449999999998,
+      220.97799999999995,
+      524.2605,
+      679.788
+    ],
+    "n_rows": 5,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Mode «arrêt»",
+        "La consommation électrique de l’appareil pour tous les états\ncorrespondant au mode «arrêt» ne doit pas dépasser 0,50 W."
+      ],
+      [
+        "Mode «veille»",
+        "La consommation électrique de l’appareil se trouvant dans un état\ndans lequel seule une fonction de réactivation est assurée, ou bien\nuniquement une fonction de réactivation associée à une indication\nunique montrant que la fonction de réactivation est activée, ne\ndépasse pas 0,50 W."
+      ],
+      [
+        "",
+        "La consommation électrique de l’appareil se trouvant dans un état\ndans lequel seul l’affichage d’une information ou d’un état est\nassuré, ou uniquement l’affichage d’une information ou d’un état\nassocié à une fonction de réactivation, ne dépasse pas 1,00 W."
+      ],
+      [
+        "Disponibilité du mode «veille»\net/ou du mode «arrêt»",
+        "L’appareil est, dans la mesure où cela est compatible avec l'usage\nprévu, doté d'un mode «arrêt» et/ou «veille», et/ou d'un autre\nmode dans lequel, lorsqu'il est connecté au secteur, respecte les\nexigences applicables en matière de consommation électrique en\nmode «arrêt» et/ou «veille» sont respectées."
+      ],
+      [
+        "Gestion de la consommation",
+        "L’appareil est doté, dans la mesure où cela est compatible avec\nl'usage prévu, d'une fonction de gestion de la consommation, ou\nd'une fonction similaire, qui, lorsque l'équipement n'assure pas la\nfonction principale, ou lorsqu'aucun autre produit consommateur\nd'énergie n'est tributaire de ses fonctions, le fait passer\nautomatiquement, après un laps de temps le plus bref possible\ncompatible avec l'usage prévu :\n— en mode «veille», ou\n— en mode «arrêt», ou\n— dans tout autre état ne dépassant pas les exigences\napplicables en matière de consommation d'énergie en\nmode «arrêt» et/ou «veille» lorsqu'il est connecté au\nsecteur. La fonction de gestion de la consommation est\nactivée dans l’usine avant la livraison."
+      ]
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      24.3945,
+      503.59139999999996,
+      285.1818999999999,
+      604.8886
+    ],
+    "n_rows": 3,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Date d’entrée en vigueur",
+        "Indice\nd’efficacité\nénergétique"
+      ],
+      [
+        "1 an à partir de la date de publication de\ncet arrêté conjoint au Bulletin officiel",
+        "IEE < 55"
+      ],
+      [
+        "3 ans à partir de la date de publication de\ncet arrêté conjoint au Bulletin officiel",
+        "IEE < 42"
+      ]
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      24.3945,
+      682.25,
+      285.1818999999999,
+      751.3264
+    ],
+    "n_rows": 2,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Date d’entrée en vigueur",
+        "Indice\nd’efficacité\nénergétique"
+      ],
+      [
+        "1 an à partir de la date de publication de\ncet arrêté conjoint au Bulletin officiel",
+        "IEE < 110"
+      ]
+    ]
+  },
+  {
+    "page_number": 34,
+    "bbox": [
+      24.469199999999997,
+      664.9300999999999,
+      284.50690000000003,
+      766.1801
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Producteurs et/ou Exportateurs",
+        "Origine",
+        "Droit antidumping\ndéfinitif"
+      ],
+      [
+        "Egyptian Petrochemicals Company",
+        "Egypte",
+        "74.87%"
+      ],
+      [
+        "Autres producteurs et/ou exportateurs\nd’Egypte",
+        "Egypte",
+        "92.19%"
+      ]
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      36.93279640000003,
+      106.92372919999995,
+      565.6144179999999,
+      351.1237292
+    ],
+    "n_rows": 7,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham",
+        "Prix Hôpital en\nDirham"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب",
+        "صاخلا رعسلا\nمهردلاب ﻰﻔﺷﺗسملاب"
+      ],
+      [
+        "ATGAM 50 mg/ml Solution à diluer pour perfusion Boite de 5 ampoules de 5 ml",
+        "2 9. 000,00",
+        "2 8. 439,00"
+      ],
+      [
+        "STALORAL Coffret de maintenance d'un flacon de la concentration maximale tolére ou d'un flacon de 300 IR/ml\nSolution sublinguale d'extraits allergèniques Coffretde maintenance d'un flacon",
+        "670,00",
+        "445,00"
+      ],
+      [
+        "STALORAL Solution sublinguale d'extraits allergèniques Coffret D'initiation de concentration 10-100 IR ou IC/ml\nou 10-100-300 IR ou IC/ml ou 10-300 IR ou IC/ml Coffret D'initiation de 2 ou 3 flacons",
+        "858,00",
+        "570,00"
+      ],
+      [
+        "VYDURA 75 mg Lyophilisat oral Boite de 2",
+        "600,00",
+        "399,00"
+      ],
+      [
+        "VYDURA 75 mg Lyophilisat oral Boite de 8",
+        "1 . 548,00",
+        "1 . 284,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 37,
+    "bbox": [
+      38.08001599999998,
+      104.78166357599996,
+      561.474821384,
+      771.7728090479999
+    ],
+    "n_rows": 25,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham",
+        "Prix Hôpital en\nDirham"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب",
+        "صاخلا رعسلا\nمهردلاب ﻰﻔﺷﺗسملاب"
+      ],
+      [
+        "AZUMALI 300 mg (10 mg/ml) Solution à diluer pour perfusion Boite d'un flacon de 30 ml",
+        "1 6. 183,00",
+        "1 5 .873,00"
+      ],
+      [
+        "CARBOPLATINE ISIO 150 mg/15 ml Solution injectable pour perfusion Boite d'un flacon de 15 ml de solution",
+        "684,00",
+        "454,00"
+      ],
+      [
+        "CARBOPLATINE ISIO 450 mg/45 ml Solution injectable pour perfusion Boite d'un flacon de 45 ml de solution",
+        "1 . 553,00",
+        "1 . 289,00"
+      ],
+      [
+        "DETAMINE 100 000 UI Solution buvable Boite d'une ampoule de 2 ml",
+        "15,10",
+        "9,40"
+      ],
+      [
+        "EDGAR 75 mg Gélule Boite de 30",
+        "93,70",
+        "58,50"
+      ],
+      [
+        "EDGAR 150 mg Gélule Boite de 15",
+        "65,50",
+        "40,90"
+      ],
+      [
+        "EDGAR 150 mg Gélule Boite de 30",
+        "131,00",
+        "81,90"
+      ],
+      [
+        "EMISTOP 2 mg/ml Solution injectable Boite de 10 ampoules de 2 ml",
+        "457,00",
+        "303,00"
+      ],
+      [
+        "EMISTOP 2 mg/ml Solution injectable Boite de 10 ampoules de 4 ml",
+        "696,00",
+        "462,00"
+      ],
+      [
+        "EMISTOP 2 mg/ml Solution injectable Boite de 25 ampoules de 2 ml",
+        "1 . 037,00",
+        "759,00"
+      ],
+      [
+        "EMISTOP 2 mg/ml Solution injectable Boite de 25 ampoules de 4 ml",
+        "1 . 423,00",
+        "1 . 156,00"
+      ],
+      [
+        "EMISTOP 2 mg/ml Solution injectable Boite de 5 ampoules de 2 ml",
+        "242,00",
+        "151,90"
+      ],
+      [
+        "EMISTOP 2 mg/ml Solution injectable Boite de 5 ampoules de 4 ml",
+        "348,00",
+        "231,00"
+      ],
+      [
+        "EPISOPT 20 mg/ml+ 5mg/ml Collyre en solution Boite d'un flacon de 5 ml",
+        "99,00",
+        "61,90"
+      ],
+      [
+        "IBLASIN 40mg/ml Suspension buvable Flacon de 100ml avec pipette doseuse",
+        "31,60",
+        "19,70"
+      ],
+      [
+        "IBUPROFENE B-Braun 200 mg/100 ml (4 mg/ml) Solution pour perfusion Boite de 10 flacons de 50 ml",
+        "274,00",
+        "182,70"
+      ],
+      [
+        "IBUPROFENE B-Braun 400 mg/100 ml (4 mg/ml) Solution pour perfusion Boite de 10 flacons de 100 ml",
+        "398,00",
+        "264,00"
+      ],
+      [
+        "IBUPROFENE B-Braun 600 mg/100 ml (6 mg/ml) Solution pour perfusion Boite de 10 flacons de 100 ml",
+        "597,00",
+        "397,00"
+      ],
+      [
+        "INSULINE LISPRO RAPIDE COOPER 100 Unités/ml Solution injectable en stylo pré-rempli de 3 ml de solution\nBoite de 1",
+        "77,70",
+        "48,50"
+      ],
+      [
+        "INSULINE LISPRO RAPIDE COOPER 100 Unités/ml Solution injectable en stylo pré-rempli de 3 ml de solution\nBoite de 5",
+        "292,00",
+        "194,20"
+      ],
+      [
+        "LIDAMID 5 mg Gélule Boite de 21",
+        "1 5. 473,00",
+        "1 5 .178,00"
+      ],
+      [
+        "LIDAMID 10 mg Gélule Boite de 21",
+        "1 6. 215,00",
+        "1 5. 905,00"
+      ],
+      [
+        "LIDAMID 15 mg Gélule Boite de 21",
+        "1 7. 057,00",
+        "1 6. 731,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      38.734327956,
+      101.87984018399997,
+      562.1679453,
+      737.2786475039999
+    ],
+    "n_rows": 27,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham",
+        "Prix Hôpital en\nDirham"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب",
+        "صاخلا رعسلا\nمهردلاب ﻰﻔﺷﺗسملاب"
+      ],
+      [
+        "LIDAMID 25 mg Gélule Boite de 21",
+        "1 8 .725,00",
+        "1 8. 366,00"
+      ],
+      [
+        "MICROPOST 0,004 p/v Gouttes oculaires Collyre en solution Boite d'un flacon de 5 ml",
+        "144,60",
+        "90,40"
+      ],
+      [
+        "PROPFOL KABI 1% 10 mg/ml Emulsion injectable et pour perfusion Boite de 5 ampoules de 20 ml d'émulsion",
+        "274,00",
+        "182,70"
+      ],
+      [
+        "RESPIQA Citron 1,2 mg/0,6 mg Pastilles à sucer Boite de 12",
+        "24,20",
+        "15,10"
+      ],
+      [
+        "RESPIQA Citron 1,2 mg/0,6 mg Pastilles à sucer Boite de 24",
+        "41,50",
+        "25,90"
+      ],
+      [
+        "RESPIQA Citron 1,2 mg/0,6 mg Pastilles à sucer Boite de 48",
+        "76,00",
+        "47,50"
+      ],
+      [
+        "RESPIQA Orange 1,2 mg/0,6 mg Pastilles à sucer Boite de 12",
+        "24,20",
+        "15,10"
+      ],
+      [
+        "RESPIQA Orange 1,2 mg/0,6 mg Pastilles à sucer Boite de 24",
+        "41,50",
+        "25,90"
+      ],
+      [
+        "RESPIQA Orange 1,2 mg/0,6 mg Pastilles à sucer Boite de 48",
+        "76,00",
+        "47,50"
+      ],
+      [
+        "RESPIQA Miel citron 1,2 mg/0,6 mg Pastilles à sucer Boite de 12",
+        "24,20",
+        "15,10"
+      ],
+      [
+        "RESPIQA Miel citron 1,2 mg/0,6 mg Pastilles à sucer Boite de 24",
+        "41,50",
+        "25,90"
+      ],
+      [
+        "RESPIQA Miel citron 1,2 mg/0,6 mg Pastilles à sucer Boite de 48",
+        "76,00",
+        "47,50"
+      ],
+      [
+        "REXIVA 100 000 UI/ml Solution buvable Boite de 1 ampoule de 1 ml",
+        "15,10",
+        "9,40"
+      ],
+      [
+        "REXIVA 100 000 UI/ml Solution buvable Boite de 3 ampoules de 1 ml",
+        "39,30",
+        "24,60"
+      ],
+      [
+        "REXIVA 25 000 UI/ml Solution buvable Boite de 4 ampoules de 1 ml",
+        "36,80",
+        "23,00"
+      ],
+      [
+        "SCITARAM 5 mg Comprimé pelliculé sécable Boite de 30",
+        "74,80",
+        "46,70"
+      ],
+      [
+        "SCITARAM 10 mg Comprimé pelliculé sécable Boite de 30",
+        "123,60",
+        "77,20"
+      ],
+      [
+        "SCITARAM 20 mg Comprimé pelliculé sécable Boite de 30",
+        "178,20",
+        "111,40"
+      ],
+      [
+        "SOLUFLEX 0,9% Solution pour perfusion intraveineuse Poche en PP de 250 ml",
+        "13,50",
+        "8,50"
+      ],
+      [
+        "SOLUFLEX 0,9% Solution pour perfusion intraveineuse Poche en PP de 500 ml",
+        "19,20",
+        "12,00"
+      ],
+      [
+        "SOLUFLEX 0,9% Solution pour perfusion intraveineuse Poche en PP de 1000 ml",
+        "25,00",
+        "15,60"
+      ],
+      [
+        "SOLUFLEX 0,9% Solution pour perfusion intraveineuse Poche en PVC de 250 ml",
+        "13,50",
+        "8,50"
+      ],
+      [
+        "SOLUFLEX 0,9% Solution pour perfusion intraveineuse Poche en PVC de 500 ml",
+        "19,20",
+        "12,00"
+      ],
+      [
+        "SOLUFLEX 0,9% Solution pour perfusion intraveineuse Poche en PVC de 1000 ml",
+        "25,00",
+        "15,60"
+      ],
+      [
+        "VETRAM 500 mg/5 ml Solution à diluer pour perfusion IV Boite de 5 ampoules de 5 ml de solution",
+        "271,00",
+        "169,40"
+      ]
+    ]
+  },
+  {
+    "page_number": 39,
+    "bbox": [
+      35.59060370000003,
+      104.75772220000003,
+      562.6099757000001,
+      332.41697220000003
+    ],
+    "n_rows": 8,
+    "n_cols": 5,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de Vente\nen Dirham avant\nrévision",
+        "Prix Public de Vente\nen Dirham après\nrévision",
+        "Prix Hôpital en\nDirham avant\nrévision",
+        "Prix Hôpital en\ndirham après\nrévision"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلارعس\nلبق مهردلاب برغملاب\nةعجارملا",
+        "مهردلاب مومعلل عيبلا رعس\nةعجارملا دعب",
+        "صاخلا رعسلا\nلبق مهردلاب ﻰﻔﺷﺗسملاب\nةعجارملا",
+        "صاخلا رعسلا\nدعب مهردلاب ﻰﻔﺷﺗسملاب\nةعجارملا"
+      ],
+      [
+        "ANZATAX 150 mg/25 ml Solution à diluer pour perfusion Flacon de 25 ml",
+        "2. 476,00",
+        "2 .396,00",
+        "2 .137,00",
+        "2 . 055,00"
+      ],
+      [
+        "GRASUSTEK 6mg Solution injectable en seringue préremplie de 0,6 ml Boite unitaire",
+        "6. 742,00",
+        "2 .687,00",
+        "6 .529,00",
+        "2 . 354,00"
+      ],
+      [
+        "HERZUMA 150mg Poudre pour solution à diluer pour perfusion Boite d'un flacon de 20 ml",
+        "3. 316,00",
+        "1 .791,00",
+        "3 .002,00",
+        "1 . 535,00"
+      ],
+      [
+        "IBRANCE 75mg, Boîte de 21 gélules",
+        "24. 123,00",
+        "2 3 .859,00",
+        "23 .657,00",
+        "2 3. 399,00"
+      ],
+      [
+        "IBRANCE 100mg, Boîte de 21 gélules",
+        "24. 123,00",
+        "2 3 .859,00",
+        "23 .657,00",
+        "2 3. 399,00"
+      ],
+      [
+        "IBRANCE 125mg, Boîte de 21 gélules",
+        "24. 123,00",
+        "2 3 .859,00",
+        "23 .657,00",
+        "2 3. 399,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 40,
+    "bbox": [
+      39.65761250133331,
+      559.0096753,
+      556.1892936213334,
+      698.4689253
+    ],
+    "n_rows": 4,
+    "n_cols": 5,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de Vente\nen Dirham avant\nrévision",
+        "Prix Public de Vente\nen Dirham après\nrévision",
+        "Prix Hôpital en\nDirham avant\nrévision",
+        "Prix Hôpital en\ndirham après\nrévision"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلارعس\nلبق مهردلاب برغملاب\nةعجارملا",
+        "مهردلاب مومعلل عيبلا رعس\nةعجارملا دعب",
+        "صاخلا رعسلا\nلبق مهردلاب ﻰﻔﺷﺗسملاب\nةعجارملا",
+        "صاخلا رعسلا\nدعب مهردلاب ﻰﻔﺷﺗسملاب\nةعجارملا"
+      ],
+      [
+        "AMOVAS 10mg Comprimés Boite de 30",
+        "75,00",
+        "75,90",
+        "47,50",
+        "47,50"
+      ],
+      [
+        "VACCIN BCG 2X105 et 8X105 C.F.U Poudre et solvant pour suspension injectable de 1\nml Boîte de 1 flacon de poudre + 1 ampoule de 1 ml de diluant (chlorure de sodium 0,9%)\nsolvant",
+        "61,20",
+        "75,40",
+        "38,30",
+        "47,10"
+      ]
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      36.662688100000004,
+      104.08907349999997,
+      560.057493484,
+      470.2090735
+    ],
+    "n_rows": 11,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham",
+        "Prix Hôpital en\nDirham"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب",
+        "صاخلا رعسلا\nمهردلاب ﻰﻔﺷﺗسملاب"
+      ],
+      [
+        "SCEMBLIX 20 mg Comprimé pelliculé Boite de 60",
+        "2 6. 415,00",
+        "2 5. 905,00"
+      ],
+      [
+        "SCEMBLIX 40 mg Comprimé pelliculé Boite de 60",
+        "4 5. 255,00",
+        "4 4. 376,00"
+      ],
+      [
+        "SKENAN LP 10mg Microgranules à libération prolongée en gélule sous blister PVC/Alu Boite de 14",
+        "49,10",
+        "30,70"
+      ],
+      [
+        "SKENAN LP 30mg Microgranules à libération prolongée en gélule sous blister PVC/Alu Boite de 14",
+        "113,60",
+        "71,00"
+      ],
+      [
+        "SKENAN LP 60mg Microgranules à libération prolongée en gélule sous blister PVC/Alu Boite de 14",
+        "235,00",
+        "147,30"
+      ],
+      [
+        "SKENAN LP 100mg Microgranules à libération prolongée en gélule sous blister PVC/Alu Boite de 14",
+        "328,00",
+        "217,00"
+      ],
+      [
+        "SKENAN LP 200mg Microgranules à libération prolongée en gélule sous blister PVC/Alu Boite de 14",
+        "638,00",
+        "424,00"
+      ],
+      [
+        "SYNJARDY 5 mg/1000 mg Comprimé pelliculé Boite de 60",
+        "448,00",
+        "298,00"
+      ],
+      [
+        "SYNJARDY 12,5 mg/1000 mg Comprimé pelliculé Boite de 60",
+        "448,00",
+        "298,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      40.20602310000002,
+      102.24366927599999,
+      563.6008284840001,
+      769.2348147480001
+    ],
+    "n_rows": 25,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham",
+        "Prix Hôpital en\nDirham"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب",
+        "صاخلا رعسلا\nمهردلاب ﻰﻔﺷﺗسملاب"
+      ],
+      [
+        "BISOPROLOL NOVOPHARMA 2,5 mg Comprimé pelliculé sécable Boite de 15",
+        "21,50",
+        "13,50"
+      ],
+      [
+        "BISOPROLOL NOVOPHARMA 2,5 mg Comprimé pelliculé sécable Boite de 30",
+        "37,00",
+        "23,10"
+      ],
+      [
+        "BISOPROLOL NOVOPHARMA 5 mg Comprimé pelliculé sécable Boite de 15",
+        "23,20",
+        "14,50"
+      ],
+      [
+        "BISOPROLOL NOVOPHARMA 5 mg Comprimé pelliculé sécable Boite de 30",
+        "39,80",
+        "24,90"
+      ],
+      [
+        "BISOPROLOL NOVOPHARMA 10 mg Comprimé pelliculé sécable Boite de 15",
+        "31,90",
+        "20,00"
+      ],
+      [
+        "BISOPROLOL NOVOPHARMA 10 mg Comprimé pelliculé sécable Boite de 30",
+        "53,80",
+        "33,60"
+      ],
+      [
+        "EXEMPTIA 40 mg/0,8 ml Solution injectable Boite d'une seringue pré-remplie à usage unique",
+        "1 . 900,00",
+        "1 . 647,00"
+      ],
+      [
+        "FER NOVOPHARMA 40mg/10ml Solution buvable Boite de 10 ampoules de 10 ml",
+        "39,20",
+        "24,50"
+      ],
+      [
+        "FER NOVOPHARMA 40mg/10ml Solution buvable Boite de 10 flacons de 10 ml",
+        "39,20",
+        "24,50"
+      ],
+      [
+        "FILGRASTIM COOPER 48MU/0,5 ml Solution injectable ou pour perfusion en seringue pré-remplie de 0,5 ml\nBoite d'une seringue",
+        "530,00",
+        "352,00"
+      ],
+      [
+        "IOPAMIDOL 300-GS Solution aqueuse injectable Flacon de 50 ml",
+        "135,60",
+        "84,70"
+      ],
+      [
+        "IOPAMIDOL 300-GS Solution aqueuse injectable Flacon de 100 ml",
+        "219,00",
+        "137,50"
+      ],
+      [
+        "IOPAMIDOL 370-GS Solution aqueuse injectable Flacon de 50 ml",
+        "145,80",
+        "91,10"
+      ],
+      [
+        "IOPAMIDOL 370-GS Solution aqueuse injectable Flacon de 100 ml",
+        "256,00",
+        "160,20"
+      ],
+      [
+        "MOVART 5 mg/80 mg Comprimé pelliculé Boite de 28",
+        "151,60",
+        "94,70"
+      ],
+      [
+        "MOVART 5 mg/160 mg Comprimé pelliculé Boite de 28",
+        "185,20",
+        "115,70"
+      ],
+      [
+        "MOVART 10 mg/160 mg Comprimé pelliculé Boite de 28",
+        "185,20",
+        "115,70"
+      ],
+      [
+        "PEGFILGRASTIM COOPER 6 mg/0,6 ml Solution injectable en seringue pré-remplie de 0,6 ml Boite d'une\nseringue",
+        "6 . 742,00",
+        "6 . 528,00"
+      ],
+      [
+        "SAFLU 125 SYNCHROBREATHE SB 125µg/25µg/dose Suspension pour inhalation Flacon de 120 doses",
+        "140,00",
+        "87,50"
+      ],
+      [
+        "SAFLU 250 SYNCHROBREATHE SB 250µg/25µg/dose Suspension pour inhalation Flacon de 120 doses",
+        "185,00",
+        "115,60"
+      ],
+      [
+        "THROPTINE 20mcg (40mcg/ml) Solution injectable en seringue pré-remplie de 0,5 ml Boite de 1",
+        "390,00",
+        "259,00"
+      ],
+      [
+        "THROPTINE 20mcg (40mcg/ml) Solution injectable en seringue pré-remplie de 0,5 ml Boite de 4",
+        "1 . 140,00",
+        "865,00"
+      ],
+      [
+        "THROPTINE 30mcg (100mcg/ml) Solution injectable en seringue pré-remplie de 0,3 ml Boite de 1",
+        "586,00",
+        "389,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      36.97851868512498,
+      101.25441769999998,
+      561.4592966,
+      531.4544176999999
+    ],
+    "n_rows": 15,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham",
+        "Prix Hôpital en\nDirham"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب",
+        "صاخلا رعسلا\nمهردلاب ﻰﻔﺷﺗسملاب"
+      ],
+      [
+        "THROPTINE 30mcg (100mcg/ml) Solution injectable en seringue pré-remplie de 0,3 ml Boite de 4",
+        "1 . 561,00",
+        "1 . 298,00"
+      ],
+      [
+        "THROPTINE 40mcg (100mcg/ml) Solution injectable en seringue pré-remplie de 0,4 ml Boite de 1",
+        "781,00",
+        "519,00"
+      ],
+      [
+        "THROPTINE 40mcg (100mcg/ml) Solution injectable en seringue pré-remplie de 0,4 ml Boite de 4",
+        "1 . 981,00",
+        "1 . 730,00"
+      ],
+      [
+        "THROPTINE 50mcg (100mcg/ml) Solution injectable en seringue pré-remplie de 0,5 ml Boite de 1",
+        "930,00",
+        "649,00"
+      ],
+      [
+        "THROPTINE 50mcg (100mcg/ml) Solution injectable en seringue pré-remplie de 0,5 ml Boite de 4",
+        "2 .501,00",
+        "2 . 163,00"
+      ],
+      [
+        "THROPTINE 60mcg (200mcg/ml) Solution injectable en seringue pré-remplie de 0,3 ml Boite de 1",
+        "1 . 056,00",
+        "778,00"
+      ],
+      [
+        "THROPTINE 60mcg (200mcg/ml) Solution injectable en seringue pré-remplie de 0,3 ml Boite de 4",
+        "2 . 922,00",
+        "2 . 596,00"
+      ],
+      [
+        "THROPTINE 80mcg (200mcg/ml) Solution injectable en seringue pré-remplie de 0,4 ml Boite de 1",
+        "1 . 308,00",
+        "1 . 038,00"
+      ],
+      [
+        "THROPTINE 80mcg (200mcg/ml) Solution injectable en seringue pré-remplie de 0,4 ml Boite de 4",
+        "3 . 762,00",
+        "3 . 461,00"
+      ],
+      [
+        "THROPTINE 100mcg (200mcg/ml) Solution injectable en seringue pré-remplie de 0,5 ml Boite de 1",
+        "1 . 561,00",
+        "1 . 298,00"
+      ],
+      [
+        "THROPTINE 100mcg (200mcg/ml) Solution injectable en seringue pré-remplie de 0,5 ml Boite de 4",
+        "4 . 603,00",
+        "4 . 327,00"
+      ],
+      [
+        "THROPTINE 150mcg (200mcg/ml) Solution injectable en seringue pré-remplie de 0,3 ml Boite de 1",
+        "2 . 291,00",
+        "1 . 947,00"
+      ],
+      [
+        "THROPTINE 150mcg (200mcg/ml) Solution injectable en seringue pré-remplie de 0,3 ml Boite de 4",
+        "6 . 705,00",
+        "6 . 490,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      36.97851868512498,
+      589.4821483999999,
+      556.982429347,
+      702.9021484
+    ],
+    "n_rows": 4,
+    "n_cols": 5,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de Vente\nen Dirham avant\nrévision",
+        "Prix Public de Vente\nen Dirham après\nrévision",
+        "Prix Hôpital en\nDirham avant\nrévision",
+        "Prix Hôpital en\ndirham après\nrévision"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلارعس\nلبق مهردلاب برغملاب\nةعجارملا",
+        "مهردلاب مومعلل عيبلا رعس\nةعجارملا دعب",
+        "صاخلا رعسلا\nلبق مهردلاب ﻰﻔﺷﺗسملاب\nةعجارملا",
+        "صاخلا رعسلا\nدعب مهردلاب ﻰﻔﺷﺗسملاب\nةعجارملا"
+      ],
+      [
+        "OPAVIR 0,5mg Comprimés pelliculés Boite de 30",
+        "2 833,00",
+        "1 521,00",
+        "2 504,00",
+        "1 257,00"
+      ],
+      [
+        "OPAVIR 1mg Comprimés pelliculés Boite de 30",
+        "2 878,00",
+        "1 754,00",
+        "2 551,00",
+        "1 496,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      33.38949200000002,
+      99.12841059999998,
+      562.1954462857142,
+      306.3884106
+    ],
+    "n_rows": 6,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham",
+        "Prix Hôpital en\nDirham"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب",
+        "صاخلا رعسلا\nمهردلاب ىفشتسملاب"
+      ],
+      [
+        "ENSTILAR 50µg/0,5mg/g Mousse cutanée en flacon de 60 g Boite d'un flacon",
+        "533,00",
+        "354,00"
+      ],
+      [
+        "JIVI 500 UI Poudre et solvant pour solution injectable Boite d'un flacon de poudre, une seringue préremplie\ncontenant 2,5 ml de solvant",
+        "3.357,00",
+        "3.044,00"
+      ],
+      [
+        "JIVI 1000 UI Poudre et solvant pour solution injectable intraveineuse Boite d'un flacon de poudre, une seringue\npréremplie contenant 2,5 ml de solvant",
+        "6.315,00",
+        "6.089,00"
+      ],
+      [
+        "TEZSPIRE 210 mg (110 mg/ml) Solution injectable en stylo pré-rempli Boite d'un stylo pré-rempli de 1,91 ml de\nsolution",
+        "10.656,00",
+        "10.455,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      37.37136730000001,
+      101.17116098399997,
+      560.901417436923,
+      742.578467664
+    ],
+    "n_rows": 25,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham",
+        "Prix Hôpital en\nDirham"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب",
+        "صاخلا رعسلا\nمهردلاب ىفشتسملاب"
+      ],
+      [
+        "DAGLIZ 5 mg Comprimé pelliculé Boite de 30",
+        "169,00",
+        "105,60"
+      ],
+      [
+        "DAGLIZ 10 mg Comprimé pelliculé Boite de 30",
+        "269,00",
+        "179,00"
+      ],
+      [
+        "ERLOTINIB VIATRIS 100 mg Comprimé pelliculé Boite de 30",
+        "7.540,00",
+        "7.350,00"
+      ],
+      [
+        "ERLOTINIB VIATRIS 150 mg Comprimé pelliculé Boite de 30",
+        "9.070,00",
+        "8.900,00"
+      ],
+      [
+        "IDACIO 40 mg Solution injectable en seringue pré-remplie de 0,8 ml Boite de 2 seringues pré-remplies avec 2\ntampons d'alcool",
+        "4.522,00",
+        "4.244,00"
+      ],
+      [
+        "IDACIO 40 mg Solution injectable en stylo pré-rempli de 0,8 ml Boite de 2 stylos pré-remplis avec 2 tampons\nd'alcool",
+        "4.522,00",
+        "4.244,00"
+      ],
+      [
+        "IMATINIB VIATRIS 100mg Comprimé pelliculé sécable Boite de 60",
+        "1.906,00",
+        "1.653,00"
+      ],
+      [
+        "IMATINIB VIATRIS 400mg Comprimé pelliculé sécable Boite de 30",
+        "3.016,00",
+        "2.639,00"
+      ],
+      [
+        "LEVOLFLOXACINE ARWA MEDIC 5mg/ml Solution pour perfusion IV Boite de 1 poche de 100 ml",
+        "282,00",
+        "187,90"
+      ],
+      [
+        "LEVOLFLOXACINE ARWA MEDIC 5mg/ml Solution pour perfusion IV Boite de 25 poches de 100 ml",
+        "4.075,00",
+        "3.783,00"
+      ],
+      [
+        "LUMAPRO 0,3 mg/ml Collyre en solution Flacon de 3 ml de solution",
+        "139,70",
+        "87,30"
+      ],
+      [
+        "PROPARAKAIN-POS 0,5% Collyre en solution Boite d'un flacon de 10 ml",
+        "75,00",
+        "46,90"
+      ],
+      [
+        "RAXIDAL 25 mg Poudre et solvant pour suspension injectable à libération modifiée Boite d'un flacon de poudre,\nune seringue pré-remplie de solvant, un adaptateur de flacon pour reconstitution et deux aiguilles de sécurité",
+        "347,00",
+        "231,00"
+      ],
+      [
+        "RAXIDAL 37,5 mg Poudre et solvant pour suspension injectable à libération modifiée Boite d'un flacon de\npoudre, une seringue pré-remplie de 3 ml solvant, un adaptateur de flacon pour reconstitution et deux aiguilles\nde sécurité",
+        "456,00",
+        "303,00"
+      ],
+      [
+        "RAXIDAL 50 mg Poudre et solvant pour suspension injectable à libération modifiée Boite d'un flacon de poudre,\nune seringue pré-remplie de 3 ml solvant, un adaptateur de flacon pour reconstitution et deux aiguilles de\nsécurité",
+        "544,00",
+        "361,00"
+      ],
+      [
+        "VALTERIO 10 mg Comprimé pelliculé Boite de 10",
+        "90,40",
+        "56,50"
+      ],
+      [
+        "VALTERIO 15 mg Comprimé pelliculé Boite de 14",
+        "147,00",
+        "91,90"
+      ],
+      [
+        "VALTERIO 15 mg Comprimé pelliculé Boite de 28",
+        "274,00",
+        "182,10"
+      ],
+      [
+        "VALTERIO 15 mg Comprimé pelliculé Boite de 42",
+        "398,00",
+        "264,00"
+      ],
+      [
+        "VALTERIO 20 mg Comprimé pelliculé Boite de 14",
+        "147,00",
+        "91,90"
+      ],
+      [
+        "VALTERIO 20 mg Comprimé pelliculé Boite de 28",
+        "274,00",
+        "182,10"
+      ],
+      [
+        "VALTERIO 20 mg Comprimé pelliculé Boite de 56",
+        "549,00",
+        "364,00"
+      ],
+      [
+        "VILATO 0,05mg/ml Collyre en solution Boite d'un flacon de 2,5 ml",
+        "91,80",
+        "57,40"
+      ]
+    ]
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      36.2992218,
+      103.34036380000002,
+      563.4368592,
+      445.2896138
+    ],
+    "n_rows": 12,
+    "n_cols": 5,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de Vente\nen Dirham avant\nrévision",
+        "Prix Public de Vente\nen Dirham après\nrévision",
+        "Prix Hôpital en\nDirham avant\nrévision",
+        "Prix Hôpital en\ndirham après\nrévision"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلارعس\nلبق مهردلاب برغملاب\nةعجارملا",
+        "مهردلاب مومعلل عيبلا رعس\nةعجارملا دعب",
+        "صاخلا رعسلا\nلبق مهردلاب ىفشتسملاب\nةعجارملا",
+        "صاخلا رعسلا\nدعب مهردلاب ىفشتسملاب\nةعجارملا"
+      ],
+      [
+        "EYLEA 40mg/ml Solution injectable Boite de 1 flacon",
+        "7.920,00",
+        "5.847,00",
+        "7.741,00",
+        "5.608,00"
+      ],
+      [
+        "HYRIMOZ 40mg/0,8ml Solution injectable en stylo prérempli de 0,8ml Boite de 2",
+        "4.522,00",
+        "4.174,00",
+        "4.244,00",
+        "3.885,00"
+      ],
+      [
+        "MACROMAX 200 mg Poudre pour suspension buvable en Sachet Boîte de 3",
+        "83,20",
+        "80,80",
+        "52,00",
+        "50,50"
+      ],
+      [
+        "MACROMAX 300 mg Poudre pour suspension buvable en Sachet Boîte de 3",
+        "126,20",
+        "122,90",
+        "78,80",
+        "76,80"
+      ],
+      [
+        "MACROMAX 400 mg Poudre pour suspension buvable en Sachet Boîte de 3",
+        "167,30",
+        "163,10",
+        "104,50",
+        "101,90"
+      ],
+      [
+        "SINGULAIR 10 mg Comprimé Boîte de 28",
+        "307,00",
+        "205,00",
+        "204,00",
+        "128,50"
+      ],
+      [
+        "SPECTRUM 0,30% Collyre F/5ml",
+        "30,80",
+        "28,30",
+        "19,30",
+        "17,70"
+      ],
+      [
+        "TRULICITY 0,75 mg Solution injectable (S.C) en stylo pré-rempli Boite de 4",
+        "1.171,00",
+        "900,00",
+        "897,00",
+        "617,00"
+      ],
+      [
+        "TRULICITY 1,5 mg Solution injectable (S.C) en stylo pré-rempli Boite de 4",
+        "1.171,00",
+        "900,00",
+        "897,00",
+        "617,00"
+      ],
+      [
+        "XILAM 10mg/320mg Comprimés pelliculés Boite de 28",
+        "303,00",
+        "267,00",
+        "201,00",
+        "177,40"
+      ]
+    ]
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      167.7441,
+      654.7961,
+      427.5315,
+      752.5677
+    ],
+    "n_rows": 4,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Position tarifaire",
+        "Désignation des marchandises"
+      ],
+      [
+        "0302.43.00.10",
+        "Sardines (Sardina pilchardus) fraiches ou\nréfrigérées."
+      ],
+      [
+        "0303.53.00.10",
+        "Sardines (Sardina pilchardus) congelées"
+      ],
+      [
+        "EX0511.91.90.90",
+        "Autres produits de poissons ou de crustacés,\nmollusques ou autres invertébrés aquatiques ;\nanimaux morts du Chapitre 3, impropres à\nl’alimentation humaine."
+      ]
+    ]
+  }
+]

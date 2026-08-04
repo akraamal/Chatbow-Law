@@ -1,0 +1,3145 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      223.7284,
+      229.5871999999999,
+      427.8228,
+      388.01629999999994
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "TARIFS D’ABONNEMENT",
+        "",
+        ""
+      ],
+      [
+        "AU MAROC\n{\n6 mois 1 an",
+        "",
+        "A L’ETRANGER"
+      ],
+      [
+        "250 DH\n150 DH\n150 DH\n250 DH\n250 DH",
+        "400 DH\n200 DH\n200 DH\n300 DH\n300 DH",
+        "A destination de l’étranger,\npar voies ordinaire, aérienne\nou de la poste rapide interna‑\ntionale, les tarifs prévus ci‑\ncontre sont majorés des frais\nd’envoi, tels qu’ils sont fixés\npar la réglementation postale\nen vigueur."
+      ]
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      310.41789354838704,
+      140.73630000000003,
+      570.9309677419355,
+      194.43780000000004
+    ],
+    "n_rows": 3,
+    "n_cols": 2,
+    "rows": [
+      [
+        "DÉNOMINATION ACTUELLE",
+        "NOUVELLE DÉNOMINATION"
+      ],
+      [
+        "Cigarettes blondes",
+        ""
+      ],
+      [
+        "MARLBORO TOUCH BLUE",
+        "MARLBORO TOUCH PLUS"
+      ]
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      310.41789354838704,
+      306.20539999999994,
+      570.9309677419355,
+      759.2329
+    ],
+    "n_rows": 28,
+    "n_cols": 2,
+    "rows": [
+      [
+        "LIBELLE",
+        "PRIX\nEN DHS"
+      ],
+      [
+        "Cigarette blondes",
+        ""
+      ],
+      [
+        "MANCHESTER FF RED",
+        "30"
+      ],
+      [
+        "MANCHESTER KS LIGHT",
+        "30"
+      ],
+      [
+        "Tabac chauffé",
+        ""
+      ],
+      [
+        "Blends Red Classics (3,3 grs) en 20 unités",
+        "28"
+      ],
+      [
+        "Blends Amber Classics (3,3 grs) en 20 unités",
+        "28"
+      ],
+      [
+        "Blends Silver Classics (3,3 grs) en 20 unités",
+        "28"
+      ],
+      [
+        "Blends Gold Classics (3,3 grs) en 20 unités",
+        "28"
+      ],
+      [
+        "Blends Beige Classics (3,3 grs) en 20 unités",
+        "28"
+      ],
+      [
+        "Blends Green Classics (3,3 grs) en 20 unités",
+        "28"
+      ],
+      [
+        "Blends Purple Mix (3,3 grs) en 20 unités",
+        "28"
+      ],
+      [
+        "Blends Summer Mix (3,3 grs) en 20 unités",
+        "28"
+      ],
+      [
+        "Cigares par boite",
+        ""
+      ],
+      [
+        "Davidoff Yot Horse 2026 Ce 10's",
+        "9390"
+      ],
+      [
+        "Davidoff WsC LH Beli Ce EUN 4's",
+        "796"
+      ],
+      [
+        "Davidoff puro Dom Cor Larg Ce 12's",
+        "4308"
+      ],
+      [
+        "Davidoff puro Dom sh Rob Ce 12's",
+        "3348"
+      ],
+      [
+        "Davidoff puro Dom sh Rob TC BU Ce 25's",
+        "5225"
+      ],
+      [
+        "Davidoff puro Dom Perf Ce 12's",
+        "4308"
+      ],
+      [
+        "Davidoff puro Dom Perf TC BU Ce 25's",
+        "6975"
+      ],
+      [
+        "Camacho Nicaragua Toro Ce 20's",
+        "3300"
+      ],
+      [
+        "Camacho Broadleaf Robusto Ce 20's",
+        "3000"
+      ],
+      [
+        "Camacho Broadleaf Gordo Ce 20's",
+        "4000"
+      ],
+      [
+        "Camacho Broadleaf Toro Ce 20's",
+        "3300"
+      ],
+      [
+        "Tabac à rouler par sachet",
+        ""
+      ],
+      [
+        "Pueblo Classic (30 grs)",
+        "65"
+      ],
+      [
+        "Pueblo Blue (30 grs)",
+        "65"
+      ]
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      310.6437000000001,
+      86.71339999999998,
+      571.4311999999994,
+      787.76755
+    ],
+    "n_rows": 42,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Jose L. Piedra Cazadores",
+        "34"
+      ],
+      [
+        "Jose L. Piedra Conservas",
+        "32"
+      ],
+      [
+        "Montecristo Eagle",
+        "330"
+      ],
+      [
+        "Montecristo Eagle AT",
+        "360"
+      ],
+      [
+        "Montecristo Edmundo",
+        "310"
+      ],
+      [
+        "Montecristo Edmundo AT",
+        "330"
+      ],
+      [
+        "Montecristo Especial No. 1",
+        "210"
+      ],
+      [
+        "Montecristo Especial No. 2",
+        "250"
+      ],
+      [
+        "Montecristo Joyitas",
+        "60"
+      ],
+      [
+        "Montecristo Master",
+        "250"
+      ],
+      [
+        "Montecristo Master AT",
+        "270"
+      ],
+      [
+        "Montecristo No 1",
+        "260"
+      ],
+      [
+        "Montecristo No. 2",
+        "270"
+      ],
+      [
+        "Montecristo No. 3",
+        "190"
+      ],
+      [
+        "Montecristo No. 4",
+        "150"
+      ],
+      [
+        "Montecristo No. 5",
+        "130"
+      ],
+      [
+        "Montecristo Petit Edmundo",
+        "240"
+      ],
+      [
+        "Montecristo Petit Edmundo AT",
+        "270"
+      ],
+      [
+        "Montecristo Petit Tubos",
+        "230"
+      ],
+      [
+        "Montecristo Regata",
+        "210"
+      ],
+      [
+        "Montecristo Regata AT",
+        "230"
+      ],
+      [
+        "Montecristo Double Edmundo",
+        "360"
+      ],
+      [
+        "Montecristo Petit No. 2",
+        "210"
+      ],
+      [
+        "Montecristo Media corona",
+        "130"
+      ],
+      [
+        "Montecristo Leyenda",
+        "810"
+      ],
+      [
+        "Montecristo Supremos",
+        "260"
+      ],
+      [
+        "Partagas 8-9-8 Varnished",
+        "250"
+      ],
+      [
+        "Partagas Coronas Senior AT",
+        "110"
+      ],
+      [
+        "Partagas De Luxe AT",
+        "120"
+      ],
+      [
+        "Partagas Lusitanias",
+        "360"
+      ],
+      [
+        "Partagas Salomones LCDH",
+        "370"
+      ],
+      [
+        "Partagas Serie D No. 6",
+        "160"
+      ],
+      [
+        "Partagas Serie D No. 5",
+        "210"
+      ],
+      [
+        "Partagas Serie D No. 4",
+        "250"
+      ],
+      [
+        "Partagas Serie D No. 4 AT",
+        "260"
+      ],
+      [
+        "Partagas Serie E No. 2",
+        "310"
+      ],
+      [
+        "Partagas Serie P No. 2",
+        "310"
+      ],
+      [
+        "Partagas Serie P No. 2 AT",
+        "320"
+      ],
+      [
+        "Partagas Super Partagas",
+        "110"
+      ],
+      [
+        "Partagas Maduro No. 1",
+        "280"
+      ],
+      [
+        "Partagas Petit Coronas Especiales",
+        "100"
+      ],
+      [
+        "Partagas Presidentes",
+        "200"
+      ]
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      24.34450000000001,
+      130.75490000000002,
+      285.13190000000014,
+      787.76755
+    ],
+    "n_rows": 37,
+    "n_cols": 2,
+    "rows": [
+      [
+        "LIBELLE",
+        "PRIX\nEN DHS"
+      ],
+      [
+        "Cigarettes brunes",
+        ""
+      ],
+      [
+        "Casa",
+        "31,5"
+      ],
+      [
+        "Cigarettes blondes",
+        ""
+      ],
+      [
+        "Marquise Classic",
+        "31"
+      ],
+      [
+        "Marvel",
+        "31,5"
+      ],
+      [
+        "Gauloises Classic",
+        "28"
+      ],
+      [
+        "Gauloises Filters",
+        "28"
+      ],
+      [
+        "Gauloises Lights",
+        "28"
+      ],
+      [
+        "Camel Activate",
+        "36"
+      ],
+      [
+        "Camel Double Activate",
+        "36"
+      ],
+      [
+        "Cigares par unité",
+        ""
+      ],
+      [
+        "Cuaba Divinos",
+        "120"
+      ],
+      [
+        "Cuaba Exclusivos",
+        "180"
+      ],
+      [
+        "Cuaba Salomon",
+        "290"
+      ],
+      [
+        "Cuaba Tradicionales",
+        "130"
+      ],
+      [
+        "H.Upmann Half Corona",
+        "110"
+      ],
+      [
+        "H.Upmann Upmann No. 2",
+        "260"
+      ],
+      [
+        "H.Upmann Epicures",
+        "65"
+      ],
+      [
+        "H.Upmann Magnum 46",
+        "230"
+      ],
+      [
+        "H.Upmann Magnum 46 AT",
+        "260"
+      ],
+      [
+        "H.Upmann Magnum 50",
+        "220"
+      ],
+      [
+        "H.Upmann Petit Coronas",
+        "85"
+      ],
+      [
+        "H.Upmann Sir Winston",
+        "350"
+      ],
+      [
+        "H.Upmann Magnum 54",
+        "230"
+      ],
+      [
+        "Hoyo de Monterrey Churchills",
+        "170"
+      ],
+      [
+        "Hoyo de Monterrey Coronas",
+        "160"
+      ],
+      [
+        "Hoyo de Monterrey Double Coronas",
+        "290"
+      ],
+      [
+        "Hoyo de Monterrey Epicure Especial",
+        "170"
+      ],
+      [
+        "Hoyo de Monterrey Epicure No. 1",
+        "230"
+      ],
+      [
+        "Hoyo de Monterrey Epicure No. 2",
+        "250"
+      ],
+      [
+        "Hoyo de Monterrey Epicure No. 2 AT",
+        "270"
+      ],
+      [
+        "Hoyo de Monterrey Petit Robusto",
+        "180"
+      ],
+      [
+        "Hoyo de Monterrey Epicure De Luxe (CDH)",
+        "210"
+      ],
+      [
+        "Hoyo de Monterrey Le Hoyo de San Juan",
+        "280"
+      ],
+      [
+        "Hoyo de Monterrey Le Hoyo de Rio Seco",
+        "290"
+      ],
+      [
+        "Jose L. Piedra Brevas",
+        "32"
+      ]
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      24.344500000000014,
+      87.16359999999997,
+      285.13190000000014,
+      786.1247000000001
+    ],
+    "n_rows": 42,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Partagas Milles Fleurs",
+        "130"
+      ],
+      [
+        "Quai d'Orsay No.54",
+        "290"
+      ],
+      [
+        "Quintero Favoritos",
+        "75"
+      ],
+      [
+        "Quintero Petit Quinteros",
+        "35"
+      ],
+      [
+        "Quintero Brevas",
+        "40"
+      ],
+      [
+        "Quintero Londres Extra",
+        "45"
+      ],
+      [
+        "Quintero Nationales",
+        "35"
+      ],
+      [
+        "Quintero Panetelas",
+        "35"
+      ],
+      [
+        "Quintero Puritos",
+        "15"
+      ],
+      [
+        "Quintero favoritos AT",
+        "85"
+      ],
+      [
+        "Romeo y Julieta Churchills",
+        "340"
+      ],
+      [
+        "Romeo y Julieta Churchills AT",
+        "360"
+      ],
+      [
+        "Romeo y Julieta Coronas",
+        "150"
+      ],
+      [
+        "Romeo y Julieta Coronitas en cedro",
+        "60"
+      ],
+      [
+        "Romeo y Julieta Exhibicion No. 3",
+        "155"
+      ],
+      [
+        "Romeo y Julieta Exhibicion No. 4",
+        "190"
+      ],
+      [
+        "Romeo y Julieta Romeo No. 1 AT",
+        "150"
+      ],
+      [
+        "Romeo y Julieta Romeo No. 2 AT",
+        "140"
+      ],
+      [
+        "Romeo y Julieta Romeo No. 3 AT",
+        "130"
+      ],
+      [
+        "Romeo y Julieta Short Churchill",
+        "250"
+      ],
+      [
+        "Romeo y Julieta Short Churchill AT",
+        "280"
+      ],
+      [
+        "Romeo y Julieta Wide Chuchills AT",
+        "280"
+      ],
+      [
+        "Romeo y Julieta Wide Churchills",
+        "260"
+      ],
+      [
+        "Romeo Y Julieta Petit Churchills",
+        "140"
+      ],
+      [
+        "Trinidad Robusto T",
+        "190"
+      ],
+      [
+        "Trinidad Robusto T AT",
+        "200"
+      ],
+      [
+        "Vega Fina Nicaragua Robusto",
+        "100"
+      ],
+      [
+        "Vega Fina Classic Robusto",
+        "100"
+      ],
+      [
+        "Vega Robaina Clasicos",
+        "130"
+      ],
+      [
+        "Vega Robaina Don Alejandro",
+        "170"
+      ],
+      [
+        "Vega Robaina Famosos",
+        "100"
+      ],
+      [
+        "Vega Robaina Unicos",
+        "140"
+      ],
+      [
+        "Olivia Serie V DBL ROBUSTO 5X54",
+        "160"
+      ],
+      [
+        "Olivia Serie O ROBUSTO 5X50",
+        "120"
+      ],
+      [
+        "Flor De Olivia TORPEDO 6 1/2x52",
+        "85"
+      ],
+      [
+        "Davidoff Short Perfecto Cello 4's",
+        "335"
+      ],
+      [
+        "Davidoff Aniversario N° 3 Tubos 3's",
+        "475"
+      ],
+      [
+        "Davidoff Nicaragua Robusto Tubos 4's",
+        "345"
+      ],
+      [
+        "Davidoff Nicaragua Short Corona Cello 5's",
+        "205"
+      ],
+      [
+        "Davidoff Nicaragua Toro Cello 4's",
+        "369"
+      ],
+      [
+        "Davidoff Exquisitos Export 10's",
+        "69"
+      ],
+      [
+        "Primeros by Dadidoff Nicaragua Cello 6's",
+        "99"
+      ]
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      310.6437000000001,
+      87.16359999999997,
+      571.4311000000004,
+      786.1247000000001
+    ],
+    "n_rows": 41,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Cigares par boite",
+        ""
+      ],
+      [
+        "Davidoff Escurio Corona Gorda Cello 12’s",
+        "3540"
+      ],
+      [
+        "Davidoff Escurio Gran Perfecto Cello 12’s",
+        "4068"
+      ],
+      [
+        "Davidoff Escurio Gran Toro Cello 12’s",
+        "4152"
+      ],
+      [
+        "Davidoff Escurio Petit Robusto Cello 14's",
+        "2870"
+      ],
+      [
+        "Davidoff Escurio Primeros Cello 6’s",
+        "1014"
+      ],
+      [
+        "Davidoff Escurio Robusto Tubos 12's",
+        "4020"
+      ],
+      [
+        "Davidoff Nicaragua Diadema Ce EUN 4’S",
+        "1860"
+      ],
+      [
+        "Davidoff Robusto Collection Ce 5’S",
+        "1999"
+      ],
+      [
+        "Davidoff Royal Release Robusto Ce 10’S",
+        "15000"
+      ],
+      [
+        "Davidoff WSC Churchill Cello 20'S (20 cigares)",
+        "8200"
+      ],
+      [
+        "Davidoff WSC Churchill Cello 4'S (4 cigares)",
+        "1640"
+      ],
+      [
+        "Davidoff WSC Late Hour Churchill Ce 20’S",
+        "9100"
+      ],
+      [
+        "Davidoff WSC Late Hour Churchill Ce EUN 4’S",
+        "1820"
+      ],
+      [
+        "Davidoff WSC Late Hour Robusto Ce 20’S",
+        "8200"
+      ],
+      [
+        "Davidoff WSC Late Hour Robusto Ce EUN 4’S",
+        "1640"
+      ],
+      [
+        "Davidoff WSC Late Hour Toro Ce EUN 20’S",
+        "9100"
+      ],
+      [
+        "Davidoff WSC Late Hour Toro Ce EUN 4’S",
+        "1820"
+      ],
+      [
+        "Davidoff WSC Petit Corona Cello 20'S (20 cigares)",
+        "4500"
+      ],
+      [
+        "Davidoff WSC Petit Corona Cello 5'S (5 cigares)",
+        "1125"
+      ],
+      [
+        "Davidoff WSC Robusto Cello 20'S (20 cigares)",
+        "7400"
+      ],
+      [
+        "Davidoff WSC Robusto Cello 4'S (4 cigares)",
+        "1480"
+      ],
+      [
+        "Davidoff WSC Toro Cello 20'S (20 cigares)",
+        "8200"
+      ],
+      [
+        "Davidoff WSC Toro Cello 4'S (4 cigares)",
+        "1640"
+      ],
+      [
+        "Davidoff Yamasa Pet Churchill EUN Ce 14’S",
+        "3430"
+      ],
+      [
+        "Davidoff Yamasa Pet Churchill EUN Ce 4’S",
+        "980"
+      ],
+      [
+        "Davidoff Yamasa Piramides EUN Ce 12’S",
+        "5148"
+      ],
+      [
+        "Davidoff Yamasa Piramides EUN Ce 4’S",
+        "1716"
+      ],
+      [
+        "Davidoff Yamasa Robusto EUN Ce 12’S",
+        "4320"
+      ],
+      [
+        "Davidoff Yamasa Robusto EUN Ce 4’S",
+        "1440"
+      ],
+      [
+        "Davidoff Yamasa Toro EUN Ce 12’S",
+        "4860"
+      ],
+      [
+        "Davidoff Yamasa Toro EUN Ce 4’S",
+        "1620"
+      ],
+      [
+        "Cigarillos par paquet",
+        ""
+      ],
+      [
+        "Davidoff Club Cigarillos Tin EUN (5x) 10’S",
+        "390"
+      ],
+      [
+        "Davidoff Escurio Mini Cigarillos 20’s",
+        "369"
+      ],
+      [
+        "Cafe Crème",
+        "68"
+      ],
+      [
+        "Cafe Crème Blue 10",
+        "68"
+      ],
+      [
+        "Cafe Crème Arome 10",
+        "68"
+      ],
+      [
+        "Cafe Crème Vanilla Filter 10",
+        "68"
+      ],
+      [
+        "Café Crème Finos Filter Swirl Vanilla 10 SS",
+        "73"
+      ],
+      [
+        "Panter Mignon 10",
+        "105"
+      ]
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      24.344499999999996,
+      86.71339999999998,
+      285.1319,
+      203.31719999999996
+    ],
+    "n_rows": 7,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Mehari's Java'10",
+        "82"
+      ],
+      [
+        "Mehari's Ecuador 10",
+        "82"
+      ],
+      [
+        "Mehari's Red Orient 10",
+        "82"
+      ],
+      [
+        "Mehari's Filter Red Orient 10",
+        "85"
+      ],
+      [
+        "Panter Cigarillos 10",
+        "62"
+      ],
+      [
+        "Panter Desert Filter 20 SS MA",
+        "125"
+      ],
+      [
+        "Panter Red Filter 20 SS MA",
+        "125"
+      ]
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      24.344499999999996,
+      302.55909999999994,
+      285.1319,
+      481.1144
+    ],
+    "n_rows": 11,
+    "n_cols": 2,
+    "rows": [
+      [
+        "LIBELLE",
+        "PRIX\nEN DHS"
+      ],
+      [
+        "Cigarettes par paquet",
+        ""
+      ],
+      [
+        "Marquise Box FF",
+        "29"
+      ],
+      [
+        "Marquise Gold Medium",
+        "29"
+      ],
+      [
+        "Marquise Lights",
+        "29"
+      ],
+      [
+        "Tabac chauffé",
+        ""
+      ],
+      [
+        "Heets Russet Selection (6,1 grs) en 20 unités",
+        "35"
+      ],
+      [
+        "Heets Amber Selection (6,1 grs) en 20 unités",
+        "35"
+      ],
+      [
+        "Heets Turquoise selection (6,1 grs) en 20 unités",
+        "35"
+      ],
+      [
+        "Heets Purple wave (6,1 grs) en 20 unités",
+        "35"
+      ],
+      [
+        "TEREA KONA (6,1 grs) en 20 unités",
+        "35"
+      ]
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      70.644,
+      738.625,
+      227.264,
+      758.0250000000001
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "United Nations Environment Programme (2024)."
+      ],
+      [
+        "https://wedocs.unep.org/20.500.11822/45230."
+      ]
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      59.56799999999999,
+      303.76699999999994,
+      541.252,
+      667.658
+    ],
+    "n_rows": 6,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "CCaass ddee llaa ttoommaattee",
+        ""
+      ],
+      [
+        "Production nationale : 1,3 million de tonnes, avec trois segments : tomate de primeur\n(exportation), tomate de saison (marché local) et tomate industrielle.\nExportations : 92% des tomates exportées proviennent de Souss-Massa.\nProblématiques :\n• Pertes post-récolte dues à l’absence de normes standardisées pour la conservation.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "CCaass ddee llaa ccaarroottttee",
+        ""
+      ],
+      [
+        "Production nationale : 417 697 tonnes/an sur 15 226 ha ; Maroc, leader africain en production.\nRépartition régionale : Plus de 50% de la production provient de Casablanca-Settat (214 546 tonnes).\nImpact social : 2 millions de journées de travail générées, soit 7 000 emplois permanents.\nDéfis spécifiques : pertes dues à des circuits logistiques inefficaces.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "CCaass ddeess oorraannggeess",
+        ""
+      ],
+      [
+        "Production nationale :2,3 millions de tonnes/an sur 128 000 ha. Principales variétés : clémentines\n(22%), Maroc late (21%), navel (19%).\nImpact économique :\n• 620 000 tonnes exportées par an en moyenne.\n• Génère 5 milliards de dirhams de recettes annuelles d’exportation.\nProblèmes identifiés : 14 millions de journées de travail liées à l’industrie de conditionnement, mais\ndes pertes importantes dues à la faible valorisation, au niveau du marché local, des produits\ninvendus.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      63.504,
+      330.047,
+      555.454,
+      379.967
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "CCoonnssuullttaattiioonn cciittooyyeennnnee ssuurr llaa ppllaatteeffoorrmmee ddee ppaarrttiicciippaattiioonn eenn lliiggnnee «« oouucchhaarriikkoo..mmaa »»"
+      ],
+      [
+        "Selon le sondage, les aliments les plus fréquemment jetés se composent des produits en conserve"
+      ],
+      [
+        "(36%), des repas instantanés (35%), et des aliments frais (23%)."
+      ]
+    ]
+  },
+  {
+    "page_number": 24,
+    "bbox": [
+      55.14200000000002,
+      470.943,
+      547.0919999999999,
+      646.773
+    ],
+    "n_rows": 12,
+    "n_cols": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        "Consultation citoyenne sur la plateforme du CESE « ouchariko.ma »"
+      ],
+      [
+        ""
+      ],
+      [
+        "Selon le sondage, les principales causes menant au jet d’aliments :"
+      ],
+      [
+        "- L’altération de leur aspect ou de leur odeur (25%) ;"
+      ],
+      [
+        "- Le dépassement de la date de péremption (21%) ;"
+      ],
+      [
+        "- Le manque de planification des repas (16%) ;"
+      ],
+      [
+        "- L’achat de quantités trop importantes (12%) ;"
+      ],
+      [
+        "- Le manque d’information sur les pratiques de conservation (12%) ;"
+      ],
+      [
+        "- La préférence pour des aliments toujours frais (8%) ;"
+      ],
+      [
+        "- Et le faible coût des produits jetés (4%)."
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      51.23766666666666,
+      518.70725,
+      518.698,
+      704.8525
+    ],
+    "n_rows": 9,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "Consultation citoyenne sur la plateforme du CESE « ouchariko.ma »",
+        ""
+      ],
+      [
+        "",
+        "Selon le sondage, les principaux acteurs devant intervenir :",
+        ""
+      ],
+      [
+        "",
+        "- les consommateurs (22%) ;",
+        ""
+      ],
+      [
+        "",
+        "- les pouvoirs publics (15%) ;",
+        ""
+      ],
+      [
+        "",
+        "- les restaurateurs (15%) ;",
+        ""
+      ],
+      [
+        "",
+        "- les producteurs (13%) ;",
+        ""
+      ],
+      [
+        "",
+        "- la société civile (13%) ;",
+        ""
+      ],
+      [
+        "",
+        "- les médias (12%) ;",
+        ""
+      ],
+      [
+        "",
+        "- les distributeurs (8%).",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      50.748000000000026,
+      90.529,
+      542.6980000000002,
+      488.87899999999996
+    ],
+    "n_rows": 29,
+    "n_cols": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        "EEnnccaaddrréé :: LLee pprrooggrraammmmee SSwwiittcchhMMeedd,,-- iinniittiiaattiivveess ppoouurr llaa rréédduuccttiioonn ddeess ppeerrtteess aalliimmeennttaaiirreess eett llaa"
+      ],
+      [
+        "vvaalloorriissaattiioonn ddeess rrééssiidduuss"
+      ],
+      [
+        "Le programme SwitchMed se déploie autour de trois composantes, dont l’une se concentre"
+      ],
+      [
+        "principalement sur la démonstration afin de renforcer les capacités industrielles via la méthode TEST"
+      ],
+      [
+        "(Transfer of Environmentally Sound Technology). Développée par l’ONUDI, cette approche permet"
+      ],
+      [
+        "d’évaluer et de partager des modèles reproductibles, tout en favorisant leur intégration à chaque"
+      ],
+      [
+        "maillon des chaînes de valeur sectorielles. À titre d’exemple, le programme SwitchMed Blue Economy"
+      ],
+      [
+        "(2022-2024) 1, coordonné par l’ONUDI en partenariat avec des acteurs locaux, vise à mettre en"
+      ],
+      [
+        "lumière les bénéfices générés dans l’industrie de la pêche en finançant des projets pilotes qui"
+      ],
+      [
+        "valorisent les résidus, notamment en les transformant en produits à forte valeur ajoutée tels que les"
+      ],
+      [
+        "hydrolysats, le collagène et les peptides."
+      ],
+      [
+        "SwitchMed offre également un service d’incubation destiné à des projets ambitieux à rendement"
+      ],
+      [
+        "écologique contribuant ainsi à leur implémentation dans le marché local, comme le programme"
+      ],
+      [
+        "d’entrepreneuriat vert2. Lancé en partenariat avec MedWaves et le Centre des Très Petites"
+      ],
+      [
+        "Entreprises Solidaires (CTPES), ce programme offre aux projets incubés un appui technique, une"
+      ],
+      [
+        "grande visibilité ainsi qu’une mise en réseau qui leur permet de rencontrer d’autres investisseurs et"
+      ],
+      [
+        "partenaires stratégiques."
+      ],
+      [
+        "Les projets soutenus par ce programme couvrent un ensemble d’initiatives qui contribuent, de"
+      ],
+      [
+        "manière directe ou indirecte, à la réduction des PGA. Certaines interventions portent sur la collecte et"
+      ],
+      [
+        "la réorientation des produits invendus afin d’éviter leur élimination et de renforcer les circuits de"
+      ],
+      [
+        "redistribution. D’autres ciblent la valorisation des résidus et sous-produits agricoles, notamment à"
+      ],
+      [
+        "travers leur transformation en compost, fourrage, matériaux biosourcés ou ingrédients naturels"
+      ],
+      [
+        "destinés à l’industrie alimentaire. Le programme soutient également le développement de solutions"
+      ],
+      [
+        "technologiques pour améliorer la conservation, comme les systèmes de séchage solaire permettant"
+      ],
+      [
+        "de prolonger la durée de vie des denrées agricoles. À cela s’ajoutent des initiatives visant à optimiser"
+      ],
+      [
+        "l’usage des ressources et à réduire les pertes post-récolte grâce à l’introduction d’outils numériques"
+      ],
+      [
+        "et de procédés d’agriculture durable3 ."
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      55.142000000000024,
+      395.225,
+      547.092,
+      695.035
+    ],
+    "n_rows": 18,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé :: PPrriinncciippeess rreetteennuuss ppoouurr llaa rréédduuccttiioonn ddeess PPGGAA"
+      ],
+      [
+        "Plusieurs grilles de lecture complémentaires ont été mobilisées afin d’appréhender les PGA dans"
+      ],
+      [
+        "toute leur complexité et d’identifier les leviers d’action pertinents."
+      ],
+      [
+        "L’approche fondée sur les droits humains replace la lutte contre les PGA dans le cadre du droit à l’eau"
+      ],
+      [
+        "et à une alimentation adéquate, en tant que droits fondamentaux."
+      ],
+      [
+        "L’analyse par la chaîne de valeur alimentaire permet d’identifier les sources de pertes à chaque étape"
+      ],
+      [
+        "du cycle — de la production à la consommation — et de mettre en évidence les leviers d’action"
+      ],
+      [
+        "spécifiques à chaque maillon."
+      ],
+      [
+        "L’approche circulaire, quant à elle, insiste sur la valorisation des surplus alimentaires, en soulignant"
+      ],
+      [
+        "leur potentiel en matière de réduction des impacts environnementaux et de création d’opportunités"
+      ],
+      [
+        "socio-économiques, notamment pour les populations vulnérables."
+      ],
+      [
+        "L’analyse comportementale et sociologique apporte un éclairage essentiel sur les habitudes de"
+      ],
+      [
+        "consommation, les représentations sociales liées à la nourriture (en particulier les dates de péremption) et les"
+      ],
+      [
+        "comportements à l’origine du gaspillage. Elle permet ainsi de mieux concevoir des actions de sensibilisation et"
+      ],
+      [
+        "des stratégies de changement de comportement adaptées aux réalités culturelles et sociales."
+      ],
+      [
+        "Enfin, l’intégration des PGA dans les systèmes de gouvernance constitue un levier déterminant. Leur"
+      ],
+      [
+        "prise en compte dans les politiques environnementales, climatiques et économiques est"
+      ],
+      [
+        "indispensable pour assurer une gestion durable des ressources. La réduction des PGA contribue à"
+      ]
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      55.14200000000002,
+      94.07299999999998,
+      547.0919999999999,
+      308.563
+    ],
+    "n_rows": 13,
+    "n_cols": 1,
+    "rows": [
+      [
+        "renforcer la résilience face aux changements climatiques, à optimiser l’utilisation des ressources"
+      ],
+      [
+        "naturelles et à promouvoir une économie circulaire porteuse d’innovation et d’emplois verts."
+      ],
+      [
+        "Sur cette base, le CESE articule sa réflexion autour de deux principes complémentaires : la pprréévveennttiioonn"
+      ],
+      [
+        "et la vvaalloorriissaattiioonn."
+      ],
+      [
+        "La pprréévveennttiioonn constitue la première ligne d’action. Elle vise à limiter les pertes en amont de la chaîne,"
+      ],
+      [
+        "notamment par des mesures de réduction à la source, la redistribution des surplus alimentaires à des"
+      ],
+      [
+        "fins sociales, ou encore la transformation de produits excédentaires en denrées propres à la"
+      ],
+      [
+        "consommation humaine."
+      ],
+      [
+        "La vvaalloorriissaattiioonn, quant à elle, intervient lorsque les pertes ne peuvent être évitées. Elle consiste à tirer"
+      ],
+      [
+        "parti des excédents alimentaires sous différentes formes1 : alimentation animale, compostage,"
+      ],
+      [
+        "production d’énergie ou autres procédés de recyclage à valeur ajoutée."
+      ],
+      [
+        "Ces deux principes permettent d’optimiser l’usage des ressources alimentaires, tout en réduisant"
+      ],
+      [
+        "l’empreinte environnementale du gaspillage."
+      ]
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      52.62040540540544,
+      141.74900000000002,
+      513.0699999999999,
+      540.7985
+    ],
+    "n_rows": 15,
+    "n_cols": 6,
+    "rows": [
+      [
+        "Aabane Ahmed Baba",
+        "",
+        "",
+        "Ksiri Abderrahim",
+        "",
+        ""
+      ],
+      [
+        "Alaoui Nouzha",
+        "",
+        "",
+        "",
+        "Laabaid Abderrahim (Rapporteur de la",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "commission)",
+        ""
+      ],
+      [
+        "Benkaddour Mohammed (Président de la\ncommission)",
+        "",
+        "",
+        "Mokssit Abdalah",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Bencherki Abdelkrim",
+        "",
+        "",
+        "Mouttaqi Abdellah",
+        ""
+      ],
+      [
+        "Bensami Khalil",
+        "",
+        "",
+        "Riad M’Hammed",
+        "",
+        ""
+      ],
+      [
+        "Boukhalfa Bouchta",
+        "",
+        "",
+        "",
+        "Rouchati Mina (Rapporteur de la",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "thématique)",
+        ""
+      ],
+      [
+        "Boujida Mohamed",
+        "",
+        "",
+        "Sijilmassi Tariq",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Bouzaachane Ali",
+        "",
+        "",
+        "Ziani Moncef",
+        ""
+      ],
+      [
+        "Chahbouni Nour-eddine",
+        "",
+        "",
+        "Zidouh Brahim (Vice-président de la\nCommission)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Albert Sasson",
+        "",
+        "",
+        "Faher Kamalddine",
+        ""
+      ],
+      [
+        "Gaouzi Sidi Mohamed",
+        "",
+        "",
+        "Driss Elyazami",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Ilali Idriss",
+        "",
+        "",
+        "Mohamed Benalilou",
+        ""
+      ],
+      [
+        "Lamrani Amina",
+        "",
+        "",
+        "Amina Bouayach",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      52.62040540540544,
+      570.9788749999999,
+      513.0699999999999,
+      638.749
+    ],
+    "n_rows": 3,
+    "n_cols": 4,
+    "rows": [
+      [
+        "Experts permanents au Conseil",
+        "",
+        "Mohamed Behnassi – Noura Bouidina -",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Yasmina Doukkali",
+        ""
+      ],
+      [
+        "Experte chargée de la traduction",
+        "Nabila Darif",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      56.08633333333332,
+      106.5718571428571,
+      531.9429999999999,
+      572.673625
+    ],
+    "n_rows": 23,
+    "n_cols": 6,
+    "rows": [
+      [
+        "Départements\nministériels",
+        "",
+        "",
+        "",
+        "− Ministère de l’Industrie et du Commerce",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de l’Agriculture, de la Pêche Maritime, du",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Développement Rural et des Eaux et Forêts",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de la Transition Énergétique et de Développement",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Durable (MTEDD)",
+        ""
+      ],
+      [
+        "Institutions publiques",
+        "",
+        "",
+        "",
+        "− Institut National de Recherche Agronomique (INRA)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Institut Agronomique et Vétérinaire (IAV)",
+        ""
+      ],
+      [
+        "Organisation\nprofessionnelles",
+        "",
+        "",
+        "",
+        "− Fédérations nationales (hôtellerie, restaurateurs, traiteurs)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Fédération nationale de l’agroalimentaire (FENAGRI)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Fédération du Commerce et des Services (CGEM)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Fédération du Commerce en Réseau (CGEM)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Fédération Nationale de la Boulangerie et Pâtisserie du Maroc",
+        ""
+      ],
+      [
+        "Associations",
+        "",
+        "",
+        "− Fédération nationale des associations des consommateurs\n(FNAC)\n− Banque alimentaire",
+        "− Fédération nationale des associations des consommateurs",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "(FNAC)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Banque alimentaire",
+        ""
+      ],
+      [
+        "Entreprises et\ncoopératives",
+        "",
+        "",
+        "",
+        "− Groupe label vie",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Coopérative agricole de Taroudant (COPAG)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Start up Rikoul",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Start up Foodeals",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− FoodAct (France)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Start up suédoise (Frigo solidaire)",
+        ""
+      ],
+      [
+        "",
+        "Organisations",
+        "",
+        "",
+        "− Bureau de l’Organisation des Nations Unies pour l’Alimentation",
+        ""
+      ],
+      [
+        "",
+        "internationales",
+        "",
+        "",
+        "et l’Agriculture (FAO) au Maroc",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      61.405999999999985,
+      118.70899999999995,
+      185.146,
+      206.54899999999998
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Départements"
+      ],
+      [
+        "ministériels"
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      61.405999999999985,
+      299.33899999999994,
+      185.146,
+      343.259
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Organisation"
+      ],
+      [
+        "professionnelles"
+      ]
+    ]
+  },
+  {
+    "page_number": 36,
+    "bbox": [
+      61.405999999999985,
+      459.67900000000003,
+      185.146,
+      503.599
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Entreprises et"
+      ],
+      [
+        "coopératives"
+      ]
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      91.13349999999998,
+      83.70125,
+      520.15275,
+      791.1262857142857
+    ],
+    "n_rows": 19,
+    "n_cols": 5,
+    "rows": [
+      [
+        "",
+        "",
+        "sed ed al ne te\nnoitasilaér\nertceps à noitammosnoc\n,elbasnopser\n)1.21\nfitaler\nel DDO(\nsnad al\nruop 21\nelbarud\nsulcni\nseécnal DDO noitammosnoc al\ntse reilucitrap noitcudorp\nfitcejbo’l\nnalp snoitca\neC",
+        "ua à étilibasiaf ,euqimonocé ed etnierpme’l sed à ,stasylordyh(\n3202 stiudorp\nsécnal elbissop %\n49\nreirvéf resirolav\n,setolip al ne\nétilibaiv\némrifnoc tse sreit eétuoja\nsnossiop\nne .)seditpep\nstejorp li’uq ed\nsitueilaH al nu’d te\nte ruelav\ntno tnartnoméd eigrené ed\nxued euqinhcet ,enègalloc\n,ridagA eriudér stehcéd\nnolaS ‑ etrof\nseL uae",
+        ""
+      ],
+      [
+        "ssnnooiittaavvrreessbbOO",
+        "»»\nccoorraaMM\nddeeMMhhccttiiwwSS\n««\nttaaiirraanneettrraaPP",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "te tnemeppolevéD\ntnemennorivnE’l\ned\nerètsiniM\nelbaruD CAR/PCS\nIDUNO\nEUNP\nud\n- - - -",
+        "nassahleB\n,LEBIC\nzehc ,setsirogirf esirpertne\nleirtsudnI\nIDUNO epuorG\ntiduA\n- - -",
+        "ne\n)seuqigolonhcetoib\ntrepxe(\nxuanoitanretni\ntutitsnI(\ned )euqitueilaH\nlanoitaN ehcrehceR SYDICORP sédécorp\nIDUNO strepxE\nHRNI\n- - - -"
+      ],
+      [
+        "ssééllcc\nsseerriiaanneettrraaPP",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "eulB\nrap\nel deMhctiwS\nseécnaniF snad ed ymonocE\nerdac\nEU’l",
+        ""
+      ],
+      [
+        "ttnneemmeeccnnaanniiFF",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ")8102-3102(\nlanoitaN",
+        ")4202-2202(\n: etolip exelpmoC( leirtsudnI )nassahleB\nridagA\nLEBIC\netiS",
+        ")4202-2202(\nridagA"
+      ],
+      [
+        "uueeiill\n&&\neettaaDD",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "-irga( ruop eimonocé\nérgétni sleirotces\nenu\nnalp\nsrev\nsnalp\nnu’d )noitcurtsnoc noitisnart\nerialucric\ntnemeppolevéD ne\nnosianilcéD al\nrinetuos te\n&\netrev\nmila\n- -",
+        "rertnoméd sed ne al\nnoitasimitpo’l esim ed\nnoitcudorp\ned\nà\ntnasiv ,noitalégnoc\ned nossiop\ntidua\nleitnetop ed\nnu ed te ed\neliuh/eniraf\neriudnoC sédécorp evresnoc\ntcapmi’l",
+        "ed ud seriatiroirp ed ruop\nnoitamrofsnart nifa\n)eigrené\nstiudorp-oc snoitpo’d\néticaciffeni’d\nxulf\nte\nsel uae ecnamrofrep\ntnaifitnedi eirés\nsed al ,serèimerp secruos\ned enu\nnoitasirolaV eirtsudni’l ne serèitam( sel resoporp al reroiléma\nnossiop relévéR\n- -"
+      ],
+      [
+        "ssééttiivviittccaa//ssffiittcceejjbbOO",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ")DPC-NAP(\nnoitammosnoC\nnoitcA’d\nelbaruD\nnalP\nal\n-- ruop noitcudorP\nII\nddeeMMhhccttiiwwSS\nlanoitaN\nte",
+        "snad\ned\nte\ned noitavonni’l sussecorp noitalégnoc noitavresnoc\nleitnetoP\nel",
+        "ed\nsed\nstiudorp-suos\nnoitasirolaV\nnossiop"
+      ],
+      [
+        "eemmmmaarrggoorrPP",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "-- ddeeMMhhccttiiwwSS tnemecnaL ed itamrofsnart\neeiimmoonnooccÉÉ à eirtsudni\nxued stejorp setolip evitaler nossiop\neeuueellbb ud\ned no",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      169.31400000000002,
+      657.3240000000002,
+      216.793,
+      786.0267894736842
+    ],
+    "n_rows": 1,
+    "n_cols": 3,
+    "rows": [
+      [
+        "noitcA’d\nnalP\n--\nII\nddeeMMhhccttiiwwSS",
+        "noitammosnoC\nal\nruop\nlanoitaN",
+        ")DPC-NAP(\nelbaruD\nnoitcudorP\nte"
+      ]
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      269.441,
+      657.3240000000002,
+      343.38466666666665,
+      724.6580000000001
+    ],
+    "n_rows": 1,
+    "n_cols": 5,
+    "rows": [
+      [
+        "ed\nleitnetoP",
+        "snad\nnoitavonni’l",
+        "ed\nsussecorp\nel",
+        "te\nnoitalégnoc",
+        "noitavresnoc"
+      ]
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      416.7594,
+      657.3240000000002,
+      467.085,
+      724.6580000000001
+    ],
+    "n_rows": 1,
+    "n_cols": 3,
+    "rows": [
+      [
+        "sed\nnoitasirolaV",
+        "ed\nstiudorp-suos",
+        "nossiop"
+      ]
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      274.976,
+      734.848,
+      491.489,
+      786.0267894736842
+    ],
+    "n_rows": 1,
+    "n_cols": 14,
+    "rows": [
+      [
+        "",
+        "--\nddeeMMhhccttiiwwSS",
+        "eeiimmoonnooccÉÉ",
+        "eeuueellbb",
+        "",
+        "tnemecnaL",
+        "xued\ned",
+        "stejorp",
+        "setolip",
+        "à\nevitaler",
+        "ed\neirtsudni",
+        "itamrofsnart",
+        "ud\nno",
+        "nossiop"
+      ]
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      70.93912499999998,
+      83.6635,
+      507.61275000000006,
+      791.1745714285714
+    ],
+    "n_rows": 7,
+    "n_cols": 3,
+    "rows": [
+      [
+        "ec siolpme .sna 2DRNE ed etnesérp 01\n,latnemennorivne xid noitasilaér ed\n42 ed ,siatrop tse sulp\nreérc eérud\nal elle\nceva\nruel à\ned enu siamroséd ,stejorp .ségagne\ntcapmi’l arttemrep rus à tnaréfér selliv\nstnenamrep 05 serianetrap\nepicitrap 02\ned\nertuO tejorp es\nsulp snad\nnE",
+        "seémrofsnart erdic lerutan semron eL enu revresérp ,7102 al remmuS\nsnad\n.erdic\nsnad\ned nE\nergianiv %001 sel tius ed éllabme ne .» étnas ecalp pihsruenerpertnE .iahgnahS\n» ergianiv ruop enu\ntnos erianiluC sussecorp\nnu etiusne errev « sutrev éhcorcéd à\neésinagro\nne nu’d\nsemmop\ntnemelaitini « emmop eC selanoitan tse ne te a\nellietuob steffe ti'mmoP\n.rup tiudorp labolG loohcS\nseL ed te sel",
+        "– – eriudér erres\n7102 streV\nsrehctiwS\ned\nsiamroséd\nFACI sruenerpertnE teffe\nseéhporT à ehT\nzag\ntuep -\ned coraM\nevitaitini snoissimé\nsed «\nua\neirogétac .»\ntaéruaL senueJ %05\nenU\nsel ed"
+      ],
+      [
+        "serianetrap\n01\ned\nsulP\n-",
+        ")8102\nehT\n)MASNE( pihsruenerpertnE\netsaW\n:tnevE( )KU(\ntratS\nfo egnellahC\nsutcanE enonaD\nERAD ESICM laérO’L erutuF madA\n- - - - - -",
+        "occoroM regnaT\nPCO\nregnaT\nsproC\nnoitadnoF baL\n.cnI\nsutcanE\nycreM neerG ed\neraD\nTSF\n- - - - - -"
+      ],
+      [
+        "ecârg\nte el\negarraméD troppus deMhctiwS ,retsooBgiB tse siamroséd\nelbatner\ntejorp\nua",
+        "ecruos\ntnemecnanif\netnev\nelapicnirP\nal\ned tse",
+        "rap serianetrap ,deMhctiwS( ,)sutcanE étrop 5,1( C2B\nenu etcerid\ntnemelaitini tse iuh’druojua xirp fititépmoc\nunetuoS tejorp ,elbatner te\nte nu )gK/hD\netnev\nses sélc PCO rap\nel"
+      ],
+      [
+        "sèF\ned sènkeM\nnoigéR )8102(\n-",
+        "tlediM )6102(",
+        ")6102-5102(\n,,enazzeuO lE\n– amiecoH\nregnaT"
+      ],
+      [
+        "sel ed ares ne snad ed -sèF\nte\nremrofsnart te ennoT\nselocirga iuq temrep noigér\nruelahc\nelbalevuoner\n551\ntejorp al\nsudisér(\n,éticirtcelé\nà resilituér snad\nsruetlucirga eC\nseuqinagro eigrené .euqinagro na\nemmoc\ned rap\nsel stehcéd ne siargne eérud tsopmoc .sènkeM\n)liatéb ésilitu\nediA\nal",
+        "tnemelleitrap seitrap sed enu ed\ntnatad(\nnoles\nnoitamrofsnart\nsel\neniacoram\nergianiv\ntnariter\nsemmop\nne\nellennoitidart\nne siup\nselbasilitu\nsed\ntuot\n,seéroirétéd\ntnemetiarT\nsetnietta\nseitrap ettecer .)4691",
+        "sed sed cram a sehcûb ed\ntejorp\nceva sennoT\nrap ,evilo'd\ned\nséuqirbaf eC\nuef sennoT\n5,2\nstehcéd( .)siob\ned ed\nsedilos\ned 2\nsiob seuqinagro ed egalcycer .seuqinagro\neruics\nselbitsubmocoib etnev\nel\nte\nreutitsbuS al ud\nstehcéd éfac stehcéd\nsimrep\nseussi\ned"
+      ],
+      [
+        "ssiiaarrggnnEE--22DDRRNNEE\nooiiBB",
+        "ttii’’MMMMOOPP",
+        "ddllooGG\nnneeeerrGG yyggrreennEE"
+      ],
+      [
+        "ed iruenerpertne’l\nIIII\nddeeMMhhccttiiwwSS xua noitomorp( eimonocé’l te\nsrehctiws erialucric\ntroppuS )trev\nta",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      111.018,
+      657.323,
+      145.25,
+      719.235
+    ],
+    "n_rows": 1,
+    "n_cols": 2,
+    "rows": [
+      [
+        "ssiiaarrggnnEE--22DDRRNNEE",
+        "ooiiBB"
+      ]
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      406.727,
+      657.323,
+      442.82366666666667,
+      719.235
+    ],
+    "n_rows": 1,
+    "n_cols": 2,
+    "rows": [
+      [
+        "ddllooGG\nnneeeerrGG",
+        "yyggrreennEE"
+      ]
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      228.429,
+      729.402,
+      350.125,
+      786.026
+    ],
+    "n_rows": 1,
+    "n_cols": 8,
+    "rows": [
+      [
+        "IIII\nddeeMMhhccttiiwwSS",
+        "xua\ntroppuS",
+        "srehctiws",
+        "ed\nnoitomorp(",
+        "eimonocé’l",
+        "te\nerialucric",
+        "iruenerpertne’l",
+        ")trev\nta"
+      ]
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      81.61537499999999,
+      83.6635,
+      481.9123125000001,
+      791.11
+    ],
+    "n_rows": 7,
+    "n_cols": 3,
+    "rows": [
+      [
+        "seéhporT sruenerpertnE emodoiB ed\nsecivres\nxua ,siamroséD\nénimon\neirogétac sed\n.semmeF emêm\nété\na ,6102 .gnitlusnoc\ntejorp\nesoporp\n–\nFACI streV\neC",
+        "seuqigolocéorga sneyom ,egahcés ed al tejorp ecnassiannocer sed eirogétac\nruop taérual »\nruop semmeF\neC\ned ,solis( )elanasitra .etlocér-tsop euq -\nsnoitidnoc\nnoitasilitu’l 6102 -\negakcots tnat streV\nenu’d\nseuqitarp ne\nFACI sruenerpertnE\nnoitamrofsnart\nelanoitanretni\nnoitavresnoc\ned\ntnesirovaf seruelliem eicifénéb seéhporT\nslerutan\nseC\n«",
+        "selocirga ed éngis al\n,leitnetop .étivitca’d\nnoitacirbaf\ntairanetrap\nstehcéd\nel têrra\nérglaM\nal ,siargne ne\ntse\ned ruop .sennot\nrahcoiB\nte\nsennot\nseétcelloc setteuqirb\n05 pu-trats\nruop\n01"
+      ],
+      [
+        "re1 nesaM\nnassaH\nssenisuB euqigolonhceT erialoS\nruetabucnI rakitBoraM\nrotabucnI étisrevinU tatteS\nretsulC\nneerG\ned\n- - - -",
+        "emsinamuH\nfairA\ninB\nne )eigolocéorga semmeF\nevitarépooC evitarépooC\nesitrepxe( leugairuO\nte .enassiK\nerreT UNO\n- - - -",
+        "coraM\nrahCoiB\nerialoS\npU\ncoraM retsulC\ntratS\n- -"
+      ],
+      [
+        "ceva\ntse liatéd el\nte tejorp ,écnanifotua ruop\ndeMhctiwS à\nrap siamroséd ed emôdoib rueirépus\nécnaL el xirp éréggus $ 008\n,IBG\nnu\n5",
+        "",
+        ""
+      ],
+      [
+        ")6102-3102(\n,agbiruohK\ntatteS",
+        "ed )8102-7002(\n,enassiK ecnivorP etanuoaT",
+        ")6102-5102(\nridagA"
+      ],
+      [
+        "zagoib stehcéd al snoitatiolpxe )liosag seriatnemélppus\n.tsopmoc\neriudér\nel\ned\nte\nétinu sel ruop sed enatub ud\nnoitasilaicremmoc\ntnasilitu\nselocirga euqitégrené sunever\nenu’d\nzag\nel\necalp ,ellennoitarépo te tnautitsbus sed\necnadnepéd\nseuqinagro rerénég\nne al\nà\nesiM ecârg\nne(\nte",
+        "ed elocirga secruosser ,seuqificéps al sed el évitluc\ntnemmaton\nnoitomorp rus\nnoitasirolav\ntnanetniam .serèicnemes\nelèdom tnecca’l\nsfitcejbo\nsed\n,selacol\nal\ntse emmoc xueutcepser tem tse\nal\nses semmef\nlapicnirp selocirga iuq\nimraP emmargorp te\n,ertuaepé\neigolocéorga’l\nnoitavresérp srueisulp\n.sellerutan secnemes\nfitcejbo’L ,elbarud\ntitep\nrap\nec",
+        "ne\nselocirga\nstehcéd\ntrev\nnobrahc\nsed\nnoitamrofsnarT\ned\nsetteuqirb"
+      ],
+      [
+        "eemmôôddooiiBB",
+        "rreeccrrooffnneerr\neeiiggoollooccééoorrgAA\neeccnneeiilliisséérr\neelloocciirrggaa\nrruuoopp\naall",
+        "sseetttteeuuqqiirrbb\nrraahhccooiiBB"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      274.58,
+      657.323,
+      335.493,
+      719.2349999999999
+    ],
+    "n_rows": 1,
+    "n_cols": 4,
+    "rows": [
+      [
+        "eeiiggoollooccééoorrgAA",
+        "rreeccrrooffnneerr\nrruuoopp",
+        "eeccnneeiilliisséérr\naall",
+        "eelloocciirrggaa"
+      ]
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      414.691,
+      657.323,
+      448.81,
+      719.2349999999999
+    ],
+    "n_rows": 1,
+    "n_cols": 2,
+    "rows": [
+      [
+        "rraahhccooiiBB",
+        "sseetttteeuuqqiirrbb"
+      ]
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      88.28675,
+      83.6635,
+      499.76875000000007,
+      791.196923076923
+    ],
+    "n_rows": 7,
+    "n_cols": 6,
+    "rows": [
+      [
+        "sniacoram reicifénéb .noitabucni’d tnos ertnoc el dnerpmoc nu tnarud 8\nà\nertuO te\némitse(\nsevitaitini gnirotnem\nettul euqinhcet\nstejorp ruop .egalcycer iuppa\nal noitabucni’d\nsénnoitcelés emmargorp rus\nfuen tec ud tnemengapmocca\nezniuq seéxa\n,snoitamrof\nel\n,tnemecnanif\n,xue aiv\negatnavad edoirép\n,2202\nété ec AGP\nimraP .)siom\ntno sed\nnE ed\nal al",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "sesirpertnE\n)evawdeM( )SEPTC( uo/te xuacol\nsèrT selacol )PCO\nsnoitasinagro )selacol\nsed : sétivitcelloc selairotirret serianetraP sleirtsudni :\nseriadiloS elpmexe( elpmexe(\nIDUNO ertneC setiteP sertuA iuppa’d\nEUNP\nGNO\n- - - - -",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "te -otua ud\n)deMhctiwS( tnemecnanif\nnoitabucnI ed\nleutnevé\nruetrop\ntejorp",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "noles\nud\n.nioseb\nsesreviD\nsnoigér ,coraM\nel",
+        "noles\nud\n.nioseb\nsesreviD\nsnoigér ,coraM\nel",
+        "",
+        "ud\nsesreviD\nsnoigér\ncoraM",
+        "enazzauO",
+        "ed\nnoigéR\nsèF"
+      ],
+      [
+        "notrac stiudne sed sed stellep\n,stnalosi euq\nud sed\nsed\negalcycer isnia\nte\nxuaennap\n,éfac seénimehc\n,selbadargédoib\nud\ned\nritrap sed\ncram\n,seuqigolocé ruop .selêop\nà\n,eriudorP\nud serèitil sehcûb\nruop\nte",
+        "eénatnatsni euq en\netros sruetubirtsid\ned\nnoitaidémretni’d ednamed ellebuop\nsed\nal al\nte sudnevni à\nsulp\nerffo’l\ntnessinif\necivreS\nertne\nsel",
+        "ud alec setser\nstiudorp-suos\n–\nsed\negarruof\nnoitasirolav noitcudér\nsed ne\nal\nreittad\nnoitamrofsnarT al à\nte\nà seuqinagro\nepicitrap\nreimlap",
+        "coraM egaffuahc ed edohtém stehcéd etxetnoc\nua erutluc\nstêrof el elpmis ed nu\nruop\nsed al enu esab snad\nésilitu\nnoitatiolpxe’l\naiv ceva\nal seriatnemilaorga\ntse\nsnongipmahc\nsiob lennoitidart à euqigolocé\nretimiL el ecaciffe\ntnod",
+        "noitsubmoc\ned sevilo’d\nsetteuqirb\nstehcéd\ned\ned\nnoitcudorP\nesab\nal\nà",
+        "à te\nseuqigoloib setnalp .los\nel\nrirruon\ned\nstsopmoc epuoc\nte\nrihcirne\ned\nsed ,reimuf\nruop\nnoitcudorP\ned serbra’d\nesab"
+      ],
+      [
+        "rriiwwddaaTT",
+        "AAGGAATTNNEECC",
+        "mmllaaPPrreeddddooFF",
+        "mmoooorrhhssuuMM",
+        "sseetttteeuuqqiirrbb--ooccEE",
+        "ttssooppmmooCC\nSSEEFF"
+      ],
+      [
+        "iirruueenneerrppeerrttnnEE\n--\nddeeMMhhccttiiwwSS ed )srehctiwS(\nxua\nsruetrop selbarud\nttrreeVV stejorp\niuppA\nttaa",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      230.52499999999998,
+      729.402,
+      357.417,
+      786.026
+    ],
+    "n_rows": 1,
+    "n_cols": 8,
+    "rows": [
+      [
+        "--\nddeeMMhhccttiiwwSS",
+        "iirruueenneerrppeerrttnnEE",
+        "ttrreeVV\nttaa",
+        "xua\niuppA",
+        "ed\nsruetrop",
+        "stejorp",
+        "selbarud",
+        ")srehctiwS("
+      ]
+    ]
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      73.20543749999999,
+      87.19881818181811,
+      485.8107142857143,
+      787.5506666666666
+    ],
+    "n_rows": 10,
+    "n_cols": 12,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "rap )7102-5102( noitarobalé'l nu'd sel ,coraM sétirotua ceva\nédécérp eriudér\nte tairanetrap\n.ARNI\nelanoitan ua\nété lanoitan à ruop seriatnemila sel noitutitsnI’l\na iuppa’l ne\nemmargorp eigétarts\nnoitca'd rap\nsetnetépmoc\ntejorp\nà te\nfitaler enu'd setrep ésilaér OAF\nnalp\neC nu\nel",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "))CCAACCCC\n,,OOAAFF((\nssttaaiirraanneettrraapp\nsseerrttuuAA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "rof fo\ned ycnegA tnempoleveD nagrA )AOZDNA(\ntnemenrevuoG\ntnemetrapéD(\n)erutlucirga’l\nniacoraM dna\nlanoitaN\nsisaO senoZ\nOAF eht\n- - -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "noles\nud\nsesreviD nioseb\nsnoigér ,coraM\nel",
+        ").cte\nsecirtcudorp ,hcekarraM(\nsnoigéR ,sènkeM\neliuh'd evilo'd",
+        "ud\nsesreviD snoigér ,coraM tnevuos selarur",
+        "",
+        ",aidihcarrE’d ,mimleuG -etazazrauO ed )2202-9102(\nsecnivorP te\nrihgniT arogaZ\ned ed",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ruop nu elatégév fitca\n,eriatnemila\netnalp nobrahc\neliuh\ned\nenu nu\ntehcéd\nfitidda\n,E\n,eriatnemila\nenimativ\nnu’d\nnu\negalcyceR reutitsnoc\ntnaroloc ne\nlatégév\nehcir",
+        "sreiliuh noitacirbaf ruop sel ruop\nruop\nfitca etihparg\nsedilos\nal nobrahc te\nruop xuae el\nstehcéd te\nsevilo’d nu seuqitémsoc .smuihtil\nsed\n:\nstiudorp\ned\ntnemetiart\nnoitasirolaV snongirg seirettab\nxued stiudorp\ned ed el sel",
+        "ed resirolav seriatnemila egahcés/semugél-ehcès(\nstiudorp\nte\nsed stnegilletni stiudorp\nreppolevéd\nxuaevuon\nserialos\negahcés\nte\nreuqirbaF\nsriohcés ed )erialos\nel\nisnia\nrap",
+        "",
+        "sel stitep sneisao tnemeppolevéd sed egallipsag sec à\nte snad stiudorp\nruelav seugif\neriatnemila\nsed\nsemètsys serèilif\nsed te\necnatsisbus ed\nsed\nte setrep\nétirucés ua senîahc semmop sec .eétuoja\nnoitasilaicremmoC\nsed ecârg ruop sneisao\nsed\nal ed sruetcudorp sed seriatnemila ruelav\nrecrofneR sniacoram sed noitcudéR semètsys\nsneyom elbarud\n,settad\netuah\n- - -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "aammrraahhppddllOO",
+        "SSEEVVIILLOOGGVV",
+        "rraallooSS\nttcceejjoorrPP\nddnnaa\nggnniiyyrrDD\nrreeyyrrDD",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "II\neessaahhPP\n––\nOOAAFF\neemmmmaarrggoorrPP",
+        "al\nà\niuppa’d\nemmargorP",
+        "seriatnemila\nsetrep\nnoitcudér",
+        ",seugif\n,settad\nserèilif(",
+        "semètsys\nsel\nsnad\n)semmop",
+        "coraM\nsneisao",
+        ")CNM/350/ROM/PCG(",
+        "gro.seriatnemilasetrep.www"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      262.22900000000004,
+      655.1030000000002,
+      297.349,
+      716.394
+    ],
+    "n_rows": 1,
+    "n_cols": 2,
+    "rows": [
+      [
+        "rraallooSS\nddnnaa\nrreeyyrrDD",
+        "ttcceejjoorrPP\nggnniiyyrrDD"
+      ]
+    ]
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      111.50546153846153,
+      87.17849999999993,
+      335.53023076923085,
+      787.5506666666666
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "ed engila’s selanoitan II ne ruop ,sellimaf noitavresérp al\nreiliP\nnoisnetxe’l )0302-0202 te\nerutlucirga snoitcudorp\ntejorp – sellerutan\ntreV sed\nte ec seigétarts coraM neerG sunever al\nétiunitnoc ,esahp etitep tnargétni sed\nsecruosser\nnalP( noitarénéG sel noitacifisrevid\nerèimerp\nal sel selocirga al reroiléma ne\ntnalbic\nsnaD rus tuot sed\nal te"
+      ],
+      [
+        "ed tnemeppolevéD\nnoitarépooC euqsagénoM\nOAF\n- -"
+      ],
+      [
+        "tnemecnaniF\n€\n000\n005"
+      ],
+      [
+        "senneisao )seuqificéps )6202-3202( 003.3 sruetlucirga ed %05 te ed noitasirolav\nlanoitaN senoZ( : selbiC semmef ed ; senuej sétinu elocirga\ntnod %07\n8"
+      ],
+      [
+        "étirucés sruetlucirga sed à -suos ,settaD te ceva ed senneisao -\nsetis etazazrauO\n,coraM te\nelbarud tairanetrap\nte\nal serèilif sertua’d semmef\nstiudorp\ned\nsenoz\nua\nnoitaroiléma'l stitep noitseg ,mimleuG\nsellerutan sel à sétivitca ne ed\nsed tnarvuoc seugiF serèilif stnemepuorg sel arogaZ\nsed al\nnoitacifisreviD snad\nà ,aidihcarrE'd\nte sel\nà te sertua’d te\nreubirtnoC eriatnemila secruosser stiudorp semmoP erdnetE\nxuailimaf senuej rihgniT\n:\nsrevart\nsel\nà\n- -"
+      ],
+      [
+        "setrep snad coraM\ned\nIIII eessaahhPP sed seriatnemila selocirga ud\nnoitcudér sneisao\n––\nOOAAFF serèilif\neemmmmaarrggoorrPP egallipsag semètsys\nal seniatrec\nà\niuppA\nte sel"
+      ]
+    ]
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      181.393,
+      655.104,
+      265.53,
+      782.517
+    ],
+    "n_rows": 1,
+    "n_cols": 5,
+    "rows": [
+      [
+        "IIII\neessaahhPP\n––\nOOAAFF\neemmmmaarrggoorrPP",
+        "setrep\nsed\nnoitcudér\nal\nà\niuppA",
+        "ed\nseriatnemila\negallipsag\nte",
+        "snad\nselocirga\nserèilif\nseniatrec",
+        "coraM\nud\nsneisao\nsemètsys\nsel"
+      ]
+    ]
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      76.20325000000001,
+      87.96211111111111,
+      522.3655833333333,
+      790.4046666666667
+    ],
+    "n_rows": 15,
+    "n_cols": 29,
+    "rows": [
+      [
+        "",
+        "eimonocé’l ruop ud ecârg tnasimitpo tnetimil .siob\nte\nselocirga etlocér ua\nelbalevuoner iuq ecnadnepéd\nne\ned ‑ séroiléma\ntsop\nsudisér te\nehcorppa\n,seuqigolocéorga\nsetrep\nal\nsel uef zag te\nenu tnasirolav ed sel à essamoib\ntnasiudér sruof\nertsulli siob\nseuqitarp sed ed\nne ud ne aiv egallipsag\ntejorp ,erialucric eriudorp ,tsopmoc eigrené’l\nsed\neC\nà el",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "seliuh ed\nstiudorp-suos\nsed\nresirolav\nsed\ntnos .eriatnemila\ned\niuq\ntemrep ,seégasu\nnoitammosnoc\nseriatnemila\ntejorp\neC\nal",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "iuh’druojua sreit\n0001\nseétcelloc rap\nsivius\n)eur\ntnos\nsreyof ed\nseriatnemila neidrag\n000.05\nel\nuo\nseliuh ed egreicnoc(\nsèrpua\nseL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ssnnooiittaavvrreessbbOO",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "-orciM sdnoF tnemennorivne'l ed ahckirB\nttee\nnnooiittaaiiccoossssAA((\nssrriioorrrreeTT DUNP éugéléd\nrruuoopp ed ud tnemennorivnE'l\ned\n))sseevviittaannrreettllAA tnemecnanif\nemmargorP ud\nnnooiittaaddnnooFF ,,nniiaammuuHH''ll erètsiniM enummoC\nlaidnom\nAATTHHFFAA\nruop\n- - - -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "armaH\n-muoF\ned\neuqnaB tnemessitsevnI'd lE elarur\nlanoigéR aikaS\nnoitadnoF erialupoP enuoyâaL enummoC\nertneC\ndauo\n- - -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ruop\ntairuenerpertne'l\nPCO\nnoitadnoF",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ssééllcc\nsseerriiaanneettrraaPP",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        ",niafir .)mehcahuoB\n)5102-3102(\nlA\namiecuoH te\n,nauotéT\n,regnaT fissam( ed ahckirB\nsetis",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ")7102-5102(\n,enuoyaaL ,ruodjuoB\nalhkaD",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ")6102-4102(\n,lanoitaN",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "eettaadd\n&&\nuueeiiLL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "secruosser ne te noitadargéd eussi seuqitarp\ntuot selocirga\nessamoib\nseuqitégrené\nsed al sed\nte\nsudisér al\nnoitatseroféd\negallipsag tnasirolav\nte\n.seuqigolocéorga\nte\nsel sregrev\nseriatnemila ne\nel\ntnasirolav .sreitserof al\nretimiL eriudéR slos\nsed sed\n- -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "à\nenirécylg\nseégasu\nte seriatnemila\nleseidoib\nseliuh\ned\nnoitcudorP\nsed\nritrap\n-",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "seliuh\ntnarubracoib\nsed\nnoitasirolav\nne\nseégasu\nte seriatnemila\netcelloC\n-",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ssééttiivviittccaa//ssffiittcceejjbbOO",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "sseevviittaaiittiinnii\nsseerrttuuAA",
+        "al\ned\nevitapicitrap\nnoitseG",
+        "essamoib",
+        "ggrroo..ttaammiillccsseevviittaaiittiinnii..wwwwww////::pptttthh",
+        "--nnooiittsseeGG//sseevviittaaiittiinnii--sseell--sseettuuooTT//",
+        "--aall--eedd--eevviittaappiicciittrraapp",
+        "--sseell--sseettuuooTTFF22%%==iirruu??eessssaammooiibb",
+        "ttaadd6622%%00DD33%%ssggaattFF33%%sseevviittaaiittiinnii",
+        "iiaattnneemmiillaaDD33%%yyrreeuuqq6622%%00DD33%%ssee",
+        "0088DD33%%tteessffffoo6622%%eerr",
+        "seliuh’d\nesab\nà\ntnarubracoiB",
+        "seégasu",
+        "TT//ggrroo..ttaammiillccsseevviittaaiittiinnii..wwwwww////::pptttthh",
+        "--sseell--sseettuuoo",
+        "--dd--eessaabb--aa--ttnnaarruubbrraaccooiiBB//sseevviittaaiittiinnii",
+        "--sseettuuooTTFF22%%==iirruu??sseeeeggaassuu--sseelliiuuhh",
+        "--sseell",
+        "sseettaadd6622%%00DD33%%ssggaattFF33%%sseevviittaaiittiinnii",
+        "%%eerriiaattnneemmiillaaDD33%%yyrreeuuqq6622%%00DD33%%",
+        "0077DD33%%tteessffffoo6622",
+        "seliuh\nsed\nnoitasirolaV",
+        "seégasu\nseriatnemila",
+        "T/gro.tamilcsevitaitini.www//:ptth",
+        "-noitasirolaV/sevitaitini-sel-setuo",
+        "-seriatnemila-seliuh-sed",
+        "-sel-setuoTF2%=iru?seegasu",
+        "setad62%0D3%sgatF3%sevitaitini",
+        "%eriatnemilaD3%yreuq62%0D3%",
+        "08D3%tesffo62"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      95.30383333333333,
+      87.9375,
+      411.6443636363636,
+      790.4046666666667
+    ],
+    "n_rows": 7,
+    "n_cols": 10,
+    "rows": [
+      [
+        "te sed\nsecnemes\nnoitcudér\n.eriatnemila\ned\nal\nnoitubirtsid\nà\neubirtnoc étirucés\nte al\nnoitavresérp tejorp à\nte\nselocirga\nec\n,selaéréc\nal setrep\nraP",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "à smahrid\nsetneréhda\n052(\nreinagra’l\nsel\negaruocne\ned\nnoitatnalp )noitatnalp\nevitarépooc\nal\neuqahc\nà\nredécorp\nruop\naL"
+      ],
+      [
+        "zuoL\ndoofwolS\nuuooaarrffaaTT\nmuvivnoC\nOOCCEEDDIIAA tuoarfaT\n-",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "assaM adauoamlA elbarud\nte el syaP euqitsiruoT\nxuaE te duS\neimonocE ssuoS senuej tnemeppolevéd ud enanatuoadI’d\nud\nENAGRAMIF sed\nMSAVMRO noitaicossA noitaicossA\nerialucriC AOZDNA secivreS sel lieuccA’d noitadnoF\ntejorP stêrof\nARD ruop\n- - - - - - - - -"
+      ],
+      [
+        "ed )9102-8102(\nenummoC\n,nlemmA ,tuoarfaT ecnivorP\ntinziT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "enanatuoadI )6102-0102(\n,enimdI\nridagA"
+      ],
+      [
+        "secnemes nalp\nud\nerdac\ned\nnoitubirtsid\nel\nsnad\nte selaéréc\nnoitavresérP\ntrev\ned coraM\nte\n-",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "stiurf( ed sed sruetasilitu smammah nobrahc\nselbarud\negassacnoc\nerèimerp\nel\nseuqitarp .noitamrofsnart xua xua euq\nerdnev te euqimonocé\ned\nerèitam slennoitidart\nstehcéd\nsed sel\nal rap ed ruop\nsed sulp\nte )siob\nresirolaV )nagra’d sruof\netlocér egasU xuayon siof\nel\ned 5( te\n- -"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "oT/gro.tamilcsevitaitini.www//:ptth -ed-noitavreserP/sevitaitini-sel-setu %D552%0B552%sgatF3%sevitaitini D552%1B552%sgat62%senueJB2% -B2%streVB2%sruenerpertnED3% q62%0D3%setad62%semmeFB2%\n-sel-setuoTF2%=iru?eiarenagrA-l -B2%streVB2%sruenerpertnED3\neiarenagrA’l\n04D3%tesffo62%D3%yreu\ned\nnoitavresérP"
+      ],
+      [
+        "egnahc\nrof\ndooF",
+        "gro.tamilcsevitaitini.www//:ptth",
+        "-roF-dooF/sevitaitini-sel-setuoT/",
+        "-sel-setuoTF2%=iru?egnahC",
+        "552%0B552%sgatF3%sevitaitini",
+        "lB2%edB2%snoitasinagrOD3%D",
+        "3C52%t9A52%3C52%icosB2%a",
+        "0D3%setad62%elivicB2%9A52%",
+        "05D3%tesffo62%D3%yreuq62%",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      246.88100000000003,
+      659.1720000000003,
+      398.599,
+      785.4218947368424
+    ],
+    "n_rows": 1,
+    "n_cols": 10,
+    "rows": [
+      [
+        "eiarenagrA’l\ned\nnoitavresérP",
+        "oT/gro.tamilcsevitaitini.www//:ptth",
+        "-ed-noitavreserP/sevitaitini-sel-setu",
+        "-sel-setuoTF2%=iru?eiarenagrA-l",
+        "%D552%0B552%sgatF3%sevitaitini",
+        "-B2%streVB2%sruenerpertnED3",
+        "D552%1B552%sgat62%senueJB2%",
+        "-B2%streVB2%sruenerpertnED3%",
+        "q62%0D3%setad62%semmeFB2%",
+        "04D3%tesffo62%D3%yreu"
+      ]
+    ]
+  }
+]

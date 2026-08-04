@@ -1,0 +1,4144 @@
+{
+  "source": "data\\processed\\fr\\BO_7522_Fr.txt",
+  "lang": "fr",
+  "doc_id": "BO_7522_Fr",
+  "bo_number": "7522",
+  "date_publication": "2026-07-02",
+  "edition_label": "Cent-quinzième",
+  "preamble_entities": [
+    {
+      "label": "DAHIR",
+      "text": "Dahir n° 1-26-08 du 20 ramadan 1447 (10 mars 2026)",
+      "start": 0,
+      "end": 50
+    },
+    {
+      "label": "LOI",
+      "text": "loi organique n° 36-24",
+      "start": 78,
+      "end": 100
+    },
+    {
+      "label": "LOI",
+      "text": "loi organique n° 066-13 relative à la Cour",
+      "start": 128,
+      "end": 170
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 ramadan 1447",
+      "start": 488,
+      "end": 503
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "2 mars 2026",
+      "start": 505,
+      "end": 516
+    },
+    {
+      "label": "LOI",
+      "text": "loi organique n° 36-24",
+      "start": 541,
+      "end": 563
+    },
+    {
+      "label": "LOI",
+      "text": "loi organique n° 066-13 relative à la Cour constitutionnelle, ne contient pas",
+      "start": 591,
+      "end": 668
+    },
+    {
+      "label": "LOI",
+      "text": "loi organique n° 36-24",
+      "start": 825,
+      "end": 847
+    },
+    {
+      "label": "LOI",
+      "text": "loi organique n° 066-13 relative à la Cour",
+      "start": 875,
+      "end": 917
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "20 ramadan 1447",
+      "start": 1040,
+      "end": 1055
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "10 mars 2026",
+      "start": 1057,
+      "end": 1069
+    },
+    {
+      "label": "LOI",
+      "text": "Loi organique n° 36-24",
+      "start": 1142,
+      "end": 1164
+    },
+    {
+      "label": "LOI",
+      "text": "loi organique n° 066-13 relative à la Cour constitutionnelle",
+      "start": 1192,
+      "end": 1252
+    }
+  ],
+  "n_articles": 138,
+  "articles": [
+    {
+      "number": "unique",
+      "raw_header": "Article unique",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 066-13 relative à la Cour constitutionnelle",
+          "start": 115,
+          "end": 175
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-14-139 du 16 chaoual 1435 (13 août 2014)",
+          "start": 194,
+          "end": 245
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7491 du 26 ramadan 1447 (16 mars 2026)",
+          "start": 3400,
+          "end": 3461
+        }
+      ],
+      "dates": [],
+      "text": "Les dispositions des articles 2, 14, 17 (dernier alinéa),\n25 (premier alinéa), 26 (premier alinéa), 27 et 38 de la loi\norganique n° 066-13 relative à la Cour constitutionnelle\npromulguée par le dahir n° 1-14-139 du 16 chaoual 1435 (13\naoût 2014), sont modifiées et complétées comme suit :\n« Article 2. – L'opération  […texte non modifié…]  recours, par\n« les candidats et les membres de la chambre concernée, dans\n« un délai  […texte non modifié…]  résultats.\n« La cour constitutionnelle doit être saisie par\n« une requête écrite adressée à son secrétariat général.\n« Cette requête, déposée contre un accusé de réception\n« conformément aux dispositions de l'article 34 ci-après,\n« comprend les données et les pièces prévues à l'article 35 de la\n« présente loi organique.\n« La Cour  […texte non modifié…]  jours. »\n« Article 14. – En cas de décès  […texte non modifié…]  autres cas.\n« Si la chambre  […texte non modifié…]  de la Constitution.\n« Les membres  […texte non modifié…]  remplacent.\n« Le membre nommé ou élu ayant achevé la période\n« restant à courir du mandat de son prédécesseur ne peut\n« être de nouveau nommé ou élu lorsque la durée de son\n« mandat au cours de ladite période restante, excède trois (3)\n« ans, sans préjudice des dispositions de l'article 130 de la\n« Constitution. »\n« Article 17 (dernier alinéa). – Elles sont publiées au\n« « Bulletin officiel »  […texte non modifié…]  rendues, comme elles\n« peuvent être publiées sur le site électronique officiel de la\n« Cour constitutionnelle. »\n« Article 25 (premier alinéa). – La Cour constitutionnelle\n«  […texte non modifié…]  des lois, du règlement intérieur\n« de la Chambre des représentants, du règlement intérieur de\n« la Chambre des conseillers, des autres règlements intérieurs\n« des conseils régis par des lois organiques et des engagements\n« internationaux […texte non modifié…]  sa chambre.»\n« des lois, du règlement intérieur de la Chambre des\n« représentants, du règlement intérieur de la Chambre des\n« conseillers, des autres règlements intérieurs des conseils régis\n« par des lois organiques et des engagements internationaux\n«   […texte non modifié…]  du gouvernement. »\n« Article 27. – La publication  […texte non modifié…]  la décision.\n« Toutefois, ……………………………….en cause.\n« Lorsque la Cour constitutionnelle déclare qu'une loi\n« organique, une loi ou un règlement intérieur comporte une\n« disposition non contraire à la Constitution sous réserve de\n« l'interprétation qu'elle en donne, il doit être fait référence à\n« ladite interprétation lors de la publication.\n« Lorsque la Cour constitutionnelle déclare qu'une\n« ne peut avoir lieu qu'après révision de la Constitution. »\n« Article 38. – Sous réserve  […texte non modifié…]  jours.\n« Toutefois  […texte non modifié…]  l'élection.\n« Dans tous les cas, les décisions de la Cour\n« constitutionnelle sont notifiées à l'autorité chargée de\n« recevoir les déclarations de candidature, laquelle se charge\n« de les notifeir aux élus dont l'élection est contestée, à l'adresse\n« indiquée lors de la déclaration des candidatures, ainsi\n« qu'au requérant concerné, à la défense des parties, le cas\n« échéant, et à la Chambre des représentants ou à la Chambre\n« des conseillers, selon le cas, et ce dans un délai maximum\n« de trente (30) jours courant à compter de la date où elles ont\n« été rendues. »\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7491 du 26 ramadan 1447 (16 mars 2026).",
+      "citations": [
+        {
+          "text": "articles 2, 14, 17",
+          "target_label": "DAHIR",
+          "target_text": "dahir n° 1-14-139 du 16 chaoual 1435 (13 août 2014)",
+          "resolved": true
+        },
+        {
+          "text": "l'article 34",
+          "target_label": "DAHIR",
+          "target_text": "dahir n° 1-14-139 du 16 chaoual 1435 (13 août 2014)",
+          "resolved": true
+        },
+        {
+          "text": "l'article 35",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 066-13 relative à la Cour constitutionnelle",
+          "resolved": true
+        },
+        {
+          "text": "l'article 130",
+          "target_label": "DAHIR",
+          "target_text": "dahir n° 1-14-139 du 16 chaoual 1435 (13 août 2014)",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Chambre des représentants",
+          "start": 1639,
+          "end": 1664,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Chambre",
+          "start": 1697,
+          "end": 1704,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Chambre des\n« représentants",
+          "start": 1913,
+          "end": 1940,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Chambre des\n« conseillers",
+          "start": 1971,
+          "end": 1996,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 4,
+      "printed_page": 994
+    },
+    {
+      "number": "premier",
+      "raw_header": "Article premier",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 71,
+          "end": 94
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 09-01",
+          "start": 187,
+          "end": 199
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-02-240 du 25 rejeb 1423 (3 octobre 2002)",
+          "start": 219,
+          "end": 270
+        }
+      ],
+      "dates": [],
+      "text": "En application des dispositions du dernier alinéa de\nl'article 8 de la loi organique n° 106-13 portant statut des\nmagistrats, l'Institut supérieur de la magistrature, créé en\nvertu de la loi n° 09-01, promulguée par le dahir n° 1-02-240\ndu 25 rejeb 1423 (3 octobre 2002), est réorganisé conformément\naux dispositions de la présente loi et des textes réglementaires\npris pour son application. Les missions de l'Institut, ses règles\nd'organisation et les modalités de son fonctionnement sont\nfixées selon ces mêmes dispositions.\nCette loi fixe également :\n– les modalités de candidature pour passer le concours\ndes attachés de justice, leurs droits et obligations ainsi\nque leur régime disciplinaire ;\n– les catégories des professionnels et des fonctionnaires\nhabilités à passer le concours d'accès au corps de la\nmagistrature, les conditions de participation, les\ndiplômes universitaires requis et la durée de leur\nformation à l'Institut supérieur de la magistrature, et\nce en application des dispositions des articles 9 et 12 de\nla loi organique n° 106-13 portant statut des magistrats ;\n–  la durée de formation à l'Institut supérieur de la\nmagistrature pour les catégories des professionnels et des\nfonctionnaires dispensés de passer le concours d'accès au\ncorps de la magistrature, en application des dispositions\nde l'article 12 de la loi organique n° 106-13 susmentionnée.",
+      "citations": [
+        {
+          "text": "l'article 8",
+          "target_label": "LOI",
+          "target_text": "loi n° 09-01",
+          "resolved": true
+        },
+        {
+          "text": "articles 9 et 12",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        },
+        {
+          "text": "l'article 12",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Institut supérieur de la magistrature",
+          "start": 128,
+          "end": 165,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Institut",
+          "start": 410,
+          "end": 418,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Institut supérieur de la\nmagistrature",
+          "start": 1117,
+          "end": 1154,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 5,
+      "printed_page": 995
+    },
+    {
+      "number": "2",
+      "raw_header": "Article 2",
+      "entities": [],
+      "dates": [],
+      "text": "L'Institut est une personne morale de droit public doté\nde la personnalité morale et de l'autonomie financière.\nLe siège de l'Institut est fixé à Rabat.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 5,
+      "printed_page": 995
+    },
+    {
+      "number": "3",
+      "raw_header": "Article 3",
+      "entities": [],
+      "dates": [],
+      "text": "Dans la présente loi, il est fait référence :\n– à l'Institut supérieur de la magistrature par : l'Institut ;\n– au Conseil d'administration de l'Institut supérieur de la\nmagistrature par : le Conseil d'administration ;\n– au Président-délégué du Conseil supérieur du pouvoir\njudiciaire par : le Président délégué du Conseil ;\n– au Président du Conseil d'administration de l'Institut\nsupérieur de la magistrature par :  le Président du\nConseil d'administration ;\n– au Directeur général de l'Institut supérieur de la\nmagistrature par : le Directeur général de l'Institut.\nChapitre II\nMissions de l'Institut, ses règles d'organisation\net les modalités de son fonctionnement\nTITRE PREMIER\nMISSIONS DE L'INSTITUT",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 5,
+      "printed_page": 995
+    },
+    {
+      "number": "4",
+      "raw_header": "Article 4",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 263,
+          "end": 286
+        }
+      ],
+      "dates": [],
+      "text": "L'Institut est chargé des missions suivantes :\n– la formation initiale des attachés de justice ;\n–la formation initiale des catégories de professionnels\net fonctionnaires nommés au corps de la magistrature\nconformément aux dispositions des articles 9 et 10 de\nla loi organique n° 106-13 portant statut des magistrats ;\n– la formation spécialisée et continue des magistrats ;\n– la formation en matière d'administration judiciaire ;\n– la réalisation des études, des recherches et des\npublications dans les divers domaines juridiques et\njudiciaires ;\n– la coopération avec les organismes et les institutions\npublics et privés, nationaux et internationaux\npoursuivant un intérêt commun.\nL'Institut peut émettre un avis, à la demande des\nautorités concernées, sur les plans et programmes nationaux\nliés à la formation dans son domaine de compétence.",
+      "citations": [
+        {
+          "text": "articles 9 et 10",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 5,
+      "printed_page": 995
+    },
+    {
+      "number": "5",
+      "raw_header": "Article 5",
+      "entities": [],
+      "dates": [],
+      "text": "L'Institut peut, après accord du Président du Conseil\nd'administration, et dans le cadre des conventions de\ncoopération technique et judiciaire dans le domaine de la\nformation conclues entre le Royaume du Maroc et les pays\nétrangers :\n– admettre des auditeurs de justice et des magistrats\nétrangers pour bénéficier des sessions de formation\ninitiale, spécialisée ou continue ;\n– organiser des séminaires de formation spécialisée au\nprofti des magistrats et des cadres judiciaires étrangers.\nLes auditeurs de justice et les magistrats étrangers\nsusmentionnés au premier paragraphe précité peuvent\nbénéficier d'une bourse dont le montant et les conditions pour\nen bénéficier sont fixés par voie réglementaire.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 6,
+      "printed_page": 996
+    },
+    {
+      "number": "6",
+      "raw_header": "Article 6",
+      "entities": [],
+      "dates": [],
+      "text": "L'Institut peut conclure des conventions de partenariat\net de coopération afin de réaliser et de gérer des programmes\ncommuns en matière de formation, de recherche et d'échange\ndes expertises avec des établissements universitaires et d'autres\nétablissements académiques, que ce soit au niveau national\nou international, et ce en coordination avec les autorités\ngouvernementales concernées.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 6,
+      "printed_page": 996
+    },
+    {
+      "number": "7",
+      "raw_header": "Article 7",
+      "entities": [],
+      "dates": [],
+      "text": "L'Institut peut, après accord du président du conseil\nd'administration, organiser des séminaires de formation\ndans les domaines juridique et judiciaire en vertu de\ncontrats au profit des fonctionnaires, employés et agents\ndes administrations et des établissements publics et privés,\nnationaux et internationaux.\nTITRE II\nORGANISATION ET GESTION",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 6,
+      "printed_page": 996
+    },
+    {
+      "number": "8",
+      "raw_header": "Article 8",
+      "entities": [],
+      "dates": [],
+      "text": "l'Institut est administré par un Conseil d'administration\net géré par un directeur général.\nSection première. –  Le Conseil d'administration",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 6,
+      "printed_page": 996
+    },
+    {
+      "number": "9",
+      "raw_header": "Article 9",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 100-13 relative audit Conseil, et après consultation du chef du ministère",
+          "start": 1119,
+          "end": 1209
+        }
+      ],
+      "dates": [],
+      "text": "Le Conseil d'administration, outre le président-délégué\ndu Conseil en sa qualité de président, est composé des membres\nsuivants :\n– un représentant du Conseil supérieur du pouvoir\njudiciaire, nommé par le président-délégué du Conseil\nsur proposition dudit Conseil ;\n– le chef du Ministère public ou son représentant ;\n– l'autorité gouvernementale chargée de la justice ou son\nreprésentant ;\n– l'autorité gouvernementale chargée des finances ou son\nreprésentant ;\n– un premier Président d'une Cour d'appel ;\n– un premier Président d'une Cour d'appel de commerce ;\n– un premier Président d'une Cour d'appel administrative ;\n– un procureur général du Roi près une Cour d'appel ;\n– un Président d'un Tribunal de première instance ;\n– un Président d'un Tribunal de commerce de première\ninstance  ;\n– un Président d'un Tribunal administratif de première\ninstance ;\n– un procureur du Roi près un Tribunal de première\ninstance ;\nLes responsables judiciaires précités sont nommés\npar le Président-délégué du Conseil, sur proposition du\nConseil supérieur du pouvoir judiciaire conformément aux\ndispositions de l'article 80 de la loi organique n° 100-13 relative\naudit Conseil, et après consultation du chef du ministère\npublic en ce qui concerne les responsables du ministère public.\n– le Président de l'Université Al Quaraouiyine ou son\nreprésentant ;\n–  le Doyen d'une des facultés des Sciences juridiques,\néconomiques et sociales, nommé par l'autorité\ngouvernementale chargée de l'enseignement supérieur ;\n– deux professeurs de l'Institut, nommés par le Président-\ndélégué du Conseil sur proposition du Directeur général\nde l'Institut ;\n– un représentant de chaque promotion d'attachés de\njustice en cours de formation, élu par et parmi ses\ncondisciples, selon les modalités fixées dans le règlement\nintérieur de l'Institut.\nLe président du conseil d'administration peut inviter\nà assister aux réunions du Conseil, à titre consultatif, toute\npersonne physique reconnue pour sa compétence et son\nexpertise dans le domaine de spécialisation de l'Institut, ainsi\nque toute personne morale dont il juge sa présence utile.\nLe président du conseil d'administration désigne parmi\nles membres du Conseil un rapporteur de la réunion.\nSi le président du conseil d'administration n'est pas\nen mesure de présider les travaux du Conseil ou en cas\nd'empêchement, ce dernier est représenté par le chef du\nministère public.\nLe Directeur général de l'Institut assiste aux réunions\ndu Conseil et participe aux discussions sans pour autant avoir\nle droit de vote.\nAu cas où l'un des membres nommés du Conseil\nd'administration cesse, pour quelque raison que ce soit,\nd'exercer ses fonctions, ou s'absente à trois réunions\nconsécutives du Conseil, ou à cinq réunions par intermittence,\nsans justification acceptable par le Conseil, ou encore perd\nla qualité qui lui a été attribuée lors de sa nomination, un\nmembre est nommé pour lui succéder selon les mêmes\nmodalités précitées.",
+      "citations": [
+        {
+          "text": "l'article 80",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 100-13 relative audit Conseil, et après consultation du chef du ministère",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil d'administration",
+          "start": 3,
+          "end": 27,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Conseil",
+          "start": 59,
+          "end": 66,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Conseil supérieur",
+          "start": 151,
+          "end": 168,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Ministère public",
+          "start": 279,
+          "end": 295,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Conseil\nd'administration",
+          "start": 2575,
+          "end": 2599,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 6,
+      "printed_page": 996
+    },
+    {
+      "number": "10",
+      "raw_header": "Article 10",
+      "entities": [],
+      "dates": [],
+      "text": "Le Conseil d'administration jouit de tous les pouvoirs\net attributions nécessaires à la gestion de l'Institut, et délibère\nsur toutes les affaires liées aux missions de l'Institut et à son\nbon fonctionnement.\nA cette fin, il lui est confié ce qui suit :\n– l'approbation du plan stratégique de l'Institut ;\n– l'approbation des programmes de formation initiale,\nspécialisée et continue et le suivi de leur mise en œuvre ;\n– l'approbation du guide de référence pour garantir la\nqualité de la formation ;\n– l'approbation du régime des examens relatif au contrôle\ncontinu ;\n– l'approbation du Code de déontologie de l'attaché de\njustice ;\n– l'approbation du règlement intérieur de l'Institut ;\n– l'approbation du statut du personnel de l'Institut ;\n– l'approbation des accords et des conventions conclues\npar l'Institut dans son domaine de compétence ;\n– l'approbation du projet de budget de l'Institut ;\n– l'élaboration d'un règlement fixant les conditions\net modalités de passation des marchés de travaux,\nfournitures et services liés aux missions de l'Institut,\nsous réserve des textes en vigueur régissant la passation\net l'exécution des marchés publics ;\n– l'approbation des comptes de gestion ;\n– la délibération sur les rapports qui lui sont soumis ;\n– l'autorisation de toute acquisition ou cession des\nbiens immobiliers de l'Institut, conformément aux\ndispositions législatives en vigueur ;\n– l'acceptation des dons et legs.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 7,
+      "printed_page": 997
+    },
+    {
+      "number": "11",
+      "raw_header": "Article 11",
+      "entities": [],
+      "dates": [],
+      "text": "Le Conseil d'administration se réunit sur convocation\nde son président au moins deux fois par an :\n– avant le 30 juin afin de dresser les états de synthèse\nde l'exercice clos et de suivre la mise en œuvre du\nprogramme de formation pour l'année en cours ;\n– avant le 1er octobre afin d'approuver le projet de budget\net le programme de formation de l'année subséquente\net d'évaluer le programme de formation pour l'année\nécoulée.\nL'ordre du jour peut comprendre, outre les points\nsusvisés, des points qui relèvent des compétences du Conseil.\nLe Conseil d'administration peut, chaque fois qu'il est\nnécessaire, tenir d'autres réunions sur la base d'un ordre du\njour déterminé, sur convocation de son président, soit de sa\npropre initiative, soit à la demande du tiers de ses membres.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 7,
+      "printed_page": 997
+    },
+    {
+      "number": "12",
+      "raw_header": "Article 12",
+      "entities": [],
+      "dates": [],
+      "text": "Le Président du Conseil d'administration adresse aux\nmembres une convocation à une réunion du Conseil par tous\nles moyens disponibles, et ce huit (8) jours au moins avant la\ndate de la réunion, assortie de l'ordre du jour.\nLa réunion du Conseil d'administration est valable\nsi la majorité absolue de ses membres est présente, et\nlorsque ce quorum n'est pas atteint, le président du Conseil\nd'administration convoque une seconde réunion après trois (3)\njours au moins, selon les mêmes formalités précitées. Dans ce\ncas, la réunion est considérée valable quel que soit le nombre\ndes membres présents.\nLe Conseil d'administration prend ses décisions à la\nmajorité des membres présents, et en cas de partage égal des\nvoix, celle du président est prépondérante.\nLes membres du Conseil d'administration ayant\nparticipé à la prise de décisions sont tenus de préserver la\nconfidentialité des délibérations.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 7,
+      "printed_page": 997
+    },
+    {
+      "number": "13",
+      "raw_header": "Article 13",
+      "entities": [],
+      "dates": [],
+      "text": "Le Conseil d'administration peut déléguer au Directeur\ngénéral de l'Institut certaines de ses prérogatives.\nLe Directeur général de l'Institut est chargé de régler les\naffaires urgentes ou déterminées dans l'intervalle des sessions,\net ce après accord du Président du Conseil d'administration,\nsous réserve que les décisions prises à cet égard soient soumises\nau Conseil d'administration pour notification lors de sa\npremière session ordinaire subséquente.\nSection II. –  Les comités",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 7,
+      "printed_page": 997
+    },
+    {
+      "number": "14",
+      "raw_header": "Article 14",
+      "entities": [],
+      "dates": [],
+      "text": "Sont créés auprès du Conseil d'administration les\ncomités permanents suivants :\n– le comité chargé de la stratégie ;\n– le comité scientifique ;\n– le comité de déontologie.\nLe Conseil d'administration peut créer d'autres comités\npermanents ou temporaires et en fixe les missions.\nLa composition et les modalités de fonctionnement\ndes comités permanents et temporaires sont fixées dans le\nrèglement intérieur de l'institut.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 7,
+      "printed_page": 997
+    },
+    {
+      "number": "15",
+      "raw_header": "Article 15",
+      "entities": [],
+      "dates": [],
+      "text": "Le comité de la stratégie est chargé de ce qui suit :\n– l'élaboration du projet de plan stratégique de l'Institut et\nla définition de ses objectifs, notamment en matière de\nformation, des ressources humaines, de communication,\nde recherche scientifique, de   coopération et de\nnumérisation ;\n– la fixation du calendrier de mise en œuvre des axes\ndu plan, des formalités de sa mise en œuvre et des\nindicateurs de réalisation ;\n– le suivi de la mise en œuvre du plan stratégique et la\nsoumission des recommandations à son sujet au Conseil\nd'administration ;\n– l'élaboration d'un rapport annuel à soumettre au\nConseil d'administration.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 7,
+      "printed_page": 997
+    },
+    {
+      "number": "16",
+      "raw_header": "Article 16",
+      "entities": [],
+      "dates": [],
+      "text": "Le Comité scientifique est chargé de ce qui suit :\n– l'élaboration du guide de référence pour garantir la\nqualité de la formation ;\n– l'évaluation périodique des programmes et des curricula\nde formation et des stages ainsi que la soumission des\npropositions et des recommandations nécessaires à ce\nsujet ;\n– l'élaboration des programmes et des curricula de\nformation à l'Institut, y compris des programmes de\nformation liés au domaine de la déontologie judiciaire,\nélaborés en coordination avec le Comité de déontologie ;\n– la fixation des axes et des sujets de projets de fin de\nformation des attachés de justice ;\n– la fixation des critères et des conditions des travaux\nscientifiques préparés par l'Institut ;\n– la fixation des critères de sélection des formateurs à\nl'institut et l'approbation de la liste desdits formateurs ;\n– l'élaboration du régime des examens relatifs au contrôle\ncontinu ;\n– l'émission d'avis sur les conventions de coopération et\nde partenariat dans les domaines de la formation ;\n– l'élaboration d'un rapport annuel à soumettre au\nConseil d'administration.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 7,
+      "printed_page": 997
+    },
+    {
+      "number": "17",
+      "raw_header": "Article 17",
+      "entities": [],
+      "dates": [],
+      "text": "Le Comité de déontologie est chargé de ce qui suit :\n– l'élaboration d'un code de déontologie de l'attaché\nde justice encadrant son comportement que ce soit\nà l'Institut, aux tribunaux ou à l'extérieur de ceux-ci,\ntout en mettant en place des mécanismes pour son\napplication et son évaluation ;\n– le suivi et le contrôle de l'engagement des attachés de\njustice au Code de déontologie ;\n– l'élaboration des études et des rapports liés au domaine\nde sa compétence et l'émission des avis consultatifs\net des recommandations demandés par le Conseil\nd'administration ;\n–  l'élaboration du rapport annuel à soumettre au Conseil\nd'administration.\nSection III. –  Le Directeur général de l'Institut",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 8,
+      "printed_page": 998
+    },
+    {
+      "number": "18",
+      "raw_header": "Article 18",
+      "entities": [],
+      "dates": [],
+      "text": "L'Institut est géré par un Directeur général nommé par\ndahir, sur proposition du Président-délégué du Conseil, pour\nune durée de 5 ans, renouvelable une seule fois.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 8,
+      "printed_page": 998
+    },
+    {
+      "number": "19",
+      "raw_header": "Article 19",
+      "entities": [],
+      "dates": [],
+      "text": "Le Directeur général de l'Institut jouit de tous les\npouvoirs et attributions nécessaires pour gérer l'Institut, et à\ncet effet, il lui est confié :\n–  l'exécution des décisions du Conseil d'administration ;\n–  la gestion des affaires administratives et financières\nde l'Institut et la supervision de ses différents services ;\n–  l'élaboration du projet de règlement intérieur de\nl'Institut, et la veille à son application après approbation\npar le Conseil d'administration ;\n–  la veille à la mise en œuvre de l'organisation\nadministrative de l'Institut mentionnée à l'article 22\nci-dessous ;\n–  l'établissement du projet de l'ordre du jour des réunions\ndu Conseil d'administration et sa soumission au Président\ndu Conseil d'administration pour approbation ;\n– la nomination des formateurs de l'Institut après accord\ndu Comité Scientifique ;\n– l'élaboration du projet de statut du personnel de\nl'Institut et sa soumission au Conseil d'administration\npour approbation ;\n– la nomination du personnel de l'Institut conformément\naux dispositions du statut du personnel de l'Institut\nen respectant pleinement les critères de nomination\net les principes d'égalité des chances, de mérite, de\ncompétence et de transparence ;\n– la préparation du projet de budget de l'Institut ;\n– l'élaboration d'un règlement fixant les conditions\net modalités de passation des marchés de travaux,\nfournitures et services liés aux missions de l'Institut,\ncompte tenu des textes en vigueur régissant la passation\net l'exécution des marchés publics ;\n– la conclusion des accords et des conventions après\naccord du Conseil d'administration ;\n– la représentation de l'Institut devant les juridictions,\nles autres autorités et administrations publiques, et\nvis-à-vis des tiers, et l'accomplissement de tous les actes\nconservatoires ;\n– la présentation d'un rapport sur le bilan d'activité de\nl'Institut au Conseil d'administration ainsi que le projet\ndu programme proposé pour l'année suivante.\nPar dérogation aux dispositions de l'article 16 susvisé,\nle Directeur général peut, après accord du Président du\nConseil d'administration, et en coordination avec le Comité\nscientifique, prendre les mesures nécessaires à la mise en œuvre\ndes programmes urgents de formation requis pour répondre\nà des besoins pressants.\nIl peut déléguer, sous sa responsabilité, partie de ses\npouvoirs à un ou plusieurs responsables administratifs placés\nsous son autorité.",
+      "citations": [
+        {
+          "text": "l'article 22",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7522_Fr",
+          "resolved": true
+        },
+        {
+          "text": "l'article 16",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7522_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 8,
+      "printed_page": 998
+    },
+    {
+      "number": "20",
+      "raw_header": "Article 20",
+      "entities": [],
+      "dates": [],
+      "text": "Le Directeur général de l'Institut est ordonnateur des\ndépenses et des recettes de l'Institut.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 8,
+      "printed_page": 998
+    },
+    {
+      "number": "21",
+      "raw_header": "Article 21",
+      "entities": [],
+      "dates": [],
+      "text": "En cas d'empêchement ou d'absence du Directeur\ngénéral de l'Institut ou en cas de vacance du poste, le Conseil\nd'administration charge, sur proposition du Président-\ndélégué du Conseil, l'un des responsables des structures\nadministratives de l'Institut pour gérer l'Institut.\nTITRE III\nL'ORGANISATION ADMINISTRATIVE ET FINANCIÈRE DE\nL'INSTITUT",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 8,
+      "printed_page": 998
+    },
+    {
+      "number": "22",
+      "raw_header": "Article 22",
+      "entities": [],
+      "dates": [],
+      "text": "L'Institut dispose de structures administratives,\nfinancières et techniques, placées sous l'autorité du\nDirecteur général pour l'assister à accomplir ses missions.\nSes attributions et les règles de son organisation sont fixées\npar décision du Président du Conseil d'administration prise\nsur proposition du Directeur général de l'Institut et visée par\nl'autorité gouvernementale chargée des finances.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 8,
+      "printed_page": 998
+    },
+    {
+      "number": "23",
+      "raw_header": "Article 23",
+      "entities": [],
+      "dates": [],
+      "text": "Les conditions et les critères de candidature ainsi\nque la procédure de sélection pour l'accès aux postes\nde responsabilité au sein des structures mentionnées à\nl'article 22 ci-dessus sont fixés par décision du Président du\nConseil d'administration, selon les principes d'égalité des\nchances, de mérite, de compétence et de transparence.",
+      "citations": [
+        {
+          "text": "l'article 22",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7522_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "24",
+      "raw_header": "Article 24",
+      "entities": [],
+      "dates": [],
+      "text": "Le budget de l'Institut comprend :\n1 – En recettes :\n– les dotations annuelles et les subventions de l'Etat ;\n– les revenus provenant des travaux de recherche et des\nprestations de service ;\n– les produits des emprunts autorisés conformément aux\ntextes législatifs en vigueur ;\n– les dons et legs ;\n– toutes autres recettes autorisées par la législation et la\nréglementation en vigueur.\n2 – En dépenses :\n– les dépenses de fonctionnement ;\n– les dépenses d'équipement ;\n– les dépenses diverses.\nLes crédits affectés au budget de l'Institut sont inscrits\nau budget général de l'État.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "25",
+      "raw_header": "Article 25",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 53,
+          "end": 59
+        }
+      ],
+      "dates": [],
+      "text": "Un comptable public détaché auprès de l'Institut par\narrêté de l'autorité gouvernementale chargée des finances est\nchargé d'exercer les attributions dévolues aux comptables\npublics conformément aux textes législatifs et réglementaires\nen vigueur.\nL'exécution du budget de l'Institut est soumise au\ncontrôle de la Cour des comptes.\nTITRE IV\nLES RESSOURCES HUMAINES DE L'INSTITUT",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "INSTITUT",
+          "start": 369,
+          "end": 377,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "26",
+      "raw_header": "Article 26",
+      "entities": [],
+      "dates": [],
+      "text": "Le personnel de l'Institut comprend :\n– un personnel administratif et technique recruté par\nl'Institut conformément au statut du personnel de\nl'Institut ;\n–  des magistrats et fonctionnaires détachés auprès de\nl'Institut ou mis à sa disposition conformément à\nla législation et la réglementation en vigueur.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "27",
+      "raw_header": "Article 27",
+      "entities": [],
+      "dates": [],
+      "text": "Les formateurs de l'Institut, nommés selon les modalités\nprévues au sixième paragraphe de l'article 19 de la présente\nloi, bénéficient d'une indemnité dont le montant est fixé par\ndécision du Président du Conseil d'administration, visée par\nl'autorité gouvernementale chargée des finances.\nChapitre III\nL'accès à l'Institut et les domaines de formation\nTITRE PREMIER\nLES ATTACHÉS DE JUSTICE\nSection première. –  Le concours d'accès à l'Institut et l'examen de\nfin de formation",
+      "citations": [
+        {
+          "text": "l'article 19",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7522_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "28",
+      "raw_header": "Article 28",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 99,
+          "end": 122
+        }
+      ],
+      "dates": [],
+      "text": "Outre les conditions générales prévues à l'article 7\net au premier paragraphe de l'article 8 de la loi organique\nn° 106-13 portant statut des magistrats et en application des\ndispositions du deuxième paragraphe de l'article 8 précité, le\ncandidat au concours des attachés de justice doit être titulaire\nd'un diplôme de master, ou de master spécialisé, ou d'un\ndiplôme des études supérieures approfondies ou spécialisées\nen sciences juridiques, ou son équivalent, assorti d'une licence\nen droit privé, ou titulaire d'un diplôme de master, ou de\nmaster spécialisé, ou d'un diplôme des études supérieures\napprofondies ou spécialisées, en charia délivré par une des\nfacultés de charia, ou de son équivalent, assorti d'une licence\nen charia ou en droit privé.\nToutefois, en cas d'insuffisance du nombre des titulaires\ndes diplômes précités, le concours des attachés de justice peut\nêtre ouvert aux titulaires du diplôme de licence en droit privé,\nou du diplôme de licence en charia ou son équivalent.",
+      "citations": [
+        {
+          "text": "l'article 7",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        },
+        {
+          "text": "l'article 8",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        },
+        {
+          "text": "l'article 8",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "29",
+      "raw_header": "Article 29",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 259,
+          "end": 265
+        }
+      ],
+      "dates": [],
+      "text": "Par dérogation aux dispositions de l'article 28 ci-dessus,\nle concours des attachés de justice peut, le cas échéant, être\nouvert dans une spécialité judiciaire déterminée en fonction\ndes besoins de recrutement dans le corps de la magistrature.\nDans ce cas, l'arrêté prévu à l'article 30 ci-dessous fixe la\nspécialité requise du diplôme universitaire.",
+      "citations": [
+        {
+          "text": "l'article 28",
+          "target_label": "ARRETE",
+          "target_text": "arrêté",
+          "resolved": true
+        },
+        {
+          "text": "l'article 30",
+          "target_label": "ARRETE",
+          "target_text": "arrêté",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "30",
+      "raw_header": "Article 30",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 86,
+          "end": 92
+        }
+      ],
+      "dates": [],
+      "text": "Le concours des attachés de justice est annoncé, par\ntous les moyens disponibles, par arrêté du Président-délégué\ndu Conseil, comprenant les conditions et modalités de\nparticipation, la date et le lieu de son déroulement, ainsi que\nle nombre de postes à pourvoir.",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil",
+          "start": 117,
+          "end": 124,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "31",
+      "raw_header": "Article 31",
+      "entities": [],
+      "dates": [],
+      "text": "Une commission, est constituée afin de superviser le\nconcours des attachés de justice, par le Président-délégué du\nConseil.\nLa commission précitée, en coordination avec\nl'administration de l'Institut, est chargée de prendre toutes\nles mesures liées à l'organisation du concours, notamment de\nprocéder au processus de présélection, d'annoncer ses résultats,\nd'adresser les convocations aux candidats et d'annoncer les\nrésultats des épreuves écrites et orales.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "32",
+      "raw_header": "Article 32",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 260,
+          "end": 266
+        }
+      ],
+      "dates": [],
+      "text": "Les procédures et les critères de présélection des\ncandidats admis à participer au concours des attachés de\njustice, le régime et le programme des épreuves écrites et orales,\nleur notation, ainsi que la composition de la commission du\nconcours, sont fixés par arrêté du Président-délégué du Conseil.\nCet arrêté est publié au « Bulletin officiel ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil",
+          "start": 291,
+          "end": 298,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 9,
+      "printed_page": 999
+    },
+    {
+      "number": "33",
+      "raw_header": "Article 33",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 162,
+          "end": 168
+        }
+      ],
+      "dates": [],
+      "text": "Les candidats ayant réussi définitivement le concours\nprévu à l'article 30 ci-dessus, sont recrutés, selon leur\nclassement, en qualité d'attachés de justice, par arrêté du\nPrésident-délégué du Conseil sur la base des résultats annoncés\npar la commission du concours.",
+      "citations": [
+        {
+          "text": "l'article 30",
+          "target_label": "ARRETE",
+          "target_text": "arrêté",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil",
+          "start": 193,
+          "end": 200,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "34",
+      "raw_header": "Article 34",
+      "entities": [],
+      "dates": [],
+      "text": "Les attachés de justice effectuent une période de\nformation de deux ans, sous réserve des dispositions de\nl'article 72 de la présente loi.",
+      "citations": [
+        {
+          "text": "l'article 72",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7522_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "35",
+      "raw_header": "Article 35",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 404,
+          "end": 410
+        }
+      ],
+      "dates": [],
+      "text": "Les attachés de justice subissent un examen de fin de\nformation après avoir accompli la période mentionnée à\nl'article 34 ci-dessus.\nUne commission est constituée pour superviser l'examen\nde fin de formation.\nles modalités de l'examen de fin de formation, le\nprogramme des épreuves écrites et orales dudit examen, le\nbarème de notation, ainsi que la composition de la commission\nd'examen, sont fixés par arrêté du Président-délégué du Conseil.\nCet arrêté est publié au « Bulletin officiel ».",
+      "citations": [
+        {
+          "text": "l'article 34",
+          "target_label": "ARRETE",
+          "target_text": "arrêté",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil",
+          "start": 435,
+          "end": 442,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "36",
+      "raw_header": "Article 36",
+      "entities": [],
+      "dates": [],
+      "text": "Le Directeur général de l'Institut transmet les résultats\ndéfinitifs de l'examen de fin de formation au Président-délégué\ndu Conseil après leur annonce par la commission de l'examen.\nLes attachés de justice n'ayant pas réussi l'examen de\nfin de formation sont licenciés et remis à la disposition de leur\nadministration d'origine s'ils sont fonctionnaires.\nToutefois, le Président-délégué du Conseil peut, sur\nproposition de la commission d'examen, décider de prolonger\nla période de formation pour une durée maximale d'un an pour\nchaque attaché de justice n'ayant pas réussi l'examen de fin\nde formation ou n'ayant pas achevé la période de formation\nprévue à l'article 34 ci-dessus.",
+      "citations": [
+        {
+          "text": "l'article 34",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7522_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "37",
+      "raw_header": "Article 37",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 100-13 relative au Conseil supérieur du pouvoir judiciaire et l'article 8",
+          "start": 34,
+          "end": 124
+        },
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 131,
+          "end": 154
+        }
+      ],
+      "dates": [],
+      "text": "conformément à l'article 67 de la loi organique n° 100-13\nrelative au Conseil supérieur du pouvoir judiciaire et l'article 8\nde la loi organique n° 106-13 portant statut des magistrats, les\nattachés de justice ayant réussi l'examen de fin de formation\nsont nommés magistrats dans le corps de la magistrature.\nSection II. –  Droits et obligations",
+      "citations": [
+        {
+          "text": "l'article 67",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        },
+        {
+          "text": "l'article 8",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil supérieur",
+          "start": 70,
+          "end": 87,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "38",
+      "raw_header": "Article 38",
+      "entities": [],
+      "dates": [],
+      "text": "Les attachés de justice perçoivent une rémunération et\nune indemnité représentative de la robe d'audience, fixées par\nvoie réglementaire.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "39",
+      "raw_header": "Article 39",
+      "entities": [],
+      "dates": [],
+      "text": "Les attachés de justice bénéficient du congé annuel,\ndes congés exceptionnels et des permissions d'absence. Ils\nbénéficient également des congés pour raisons de santé et\ndu congé de maternité, selon les conditions prévues pour les\nmagistrats.\nA l'exception du formation annuel et du congé de\nmaternité, le total des autres congés ne peut être pris en compte\ncomme temps de formation que dans la limite d'un mois.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "40",
+      "raw_header": "Article 40",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 166,
+          "end": 189
+        }
+      ],
+      "dates": [],
+      "text": "L'attaché de justice ne peut occuper les positions de\ndétachement, de mise à disposition, de mise en disponibilité\nou de mise en disponibilité d'office prévue par la loi organique\nn° 106-13 portant statut des magistrats après l'expiration des\ncongés pour raison de santé, ceci est remplacé par une mesure\nde licenciement n'ouvrant droit à aucune indemnité.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "41",
+      "raw_header": "Article 41",
+      "entities": [],
+      "dates": [],
+      "text": "La période de formation effectuée par l'attaché de justice\nest prise en compte pour la constitution du droit à la pension\nde retraite.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "42",
+      "raw_header": "Article 42",
+      "entities": [],
+      "dates": [],
+      "text": "L'attaché de justice qui ne termine pas sa formation doit\nrestituer les émoluments qui lui ont été versés au cours de\ncette formation.\nToutefois, l'attaché de justice est dispensé de ce\nremboursement en cas d'impossibilité d'achever sa formation\nen raison de son inaptitude physique ou pour une autre raison\nmotivée. La décision de dispense est prise par le Président-\ndélégué du Conseil.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "43",
+      "raw_header": "Article 43",
+      "entities": [],
+      "dates": [],
+      "text": "Les attachés de justice sont tenus de respecter les\ndispositions du règlement intérieur de l'Institut, l'obligation de\nréserve et du secret professionnel suite à leur accès à des pièces\nou documents durant la période de leur formation auprès des\ndifférentes juridictions, ou leur accès à des informations et des\ndonnées en assistant les magistrats dans les actes d'instructions\net en participant aux délibérations. Ils sont également tenus au\nrespect du code de déontologie de l'attaché de justice.\nTout manquement à ces obligations est considéré comme\nfaute passible d'une sanction disciplinaire.\nSection III. – Régime disciplinaire",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "44",
+      "raw_header": "Article 44",
+      "entities": [],
+      "dates": [],
+      "text": "Le Directeur général de l'Institut peut décider de\nsuspendre tout attaché de justice faisant l'objet d'une poursuite\npénale ou disciplinaire.\nLa suspension se prolonge jusqu'à ce qu'une décision\nsoit rendue à l'encontre de l'attaché de justice concerné par le\nConseil disciplinaire.\nToutefois, cette suspension peut prendre fin en vertu\nd'une décision motivée du Directeur général de l'Institut.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "45",
+      "raw_header": "Article 45",
+      "entities": [],
+      "dates": [],
+      "text": "La poursuite pénale de l'attaché de justice ne fait pas\nobstacle à sa poursuite disciplinaire.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 1000
+    },
+    {
+      "number": "46",
+      "raw_header": "Article 46",
+      "entities": [],
+      "dates": [],
+      "text": "Le Directeur général de l'Institut mène une enquête sur\nles faits imputés à l'attaché de justice.\nLe Directeur général doit convoquer l'attaché de\njustice concerné pour l'auditionner. Il peut auditionner toute\npersonne dont il juge l'audition utile.\nLe Directeur général procède à toutes les enquêtes et\ninvestigations nécessaires.\nAprès avoir effectué les enquêtes nécessaires, le\nDirecteur général décide ce qu'il juge approprié concernant\nl'enquête, soit en déférant l'attaché de justice devant le Conseil\ndisciplinaire, soit en classant le dossier.\nLe Directeur général doit motiver sa décision et en\ninformer le Président-délégué du Conseil et l'attaché de justice\nconcerné.\nLe Directeur général peut adresser ses observations à\nl'attaché de justice chaque fois que la faute commise est simple\net ne nécessite pas de le déférer devant le Conseil disciplinaire.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 11,
+      "printed_page": 1001
+    },
+    {
+      "number": "47",
+      "raw_header": "Article 47",
+      "entities": [],
+      "dates": [],
+      "text": "Il est statué sur la poursuite disciplinaire en cours à\nl'encontre de l'attaché de justice par un Conseil disciplinaire\ncomposé des membres suivants :\n– le Président-délégué du Conseil ou son représentant, en\nsa qualité de Président ;\n– un membre du Conseil d'administration, nommé par le\nPrésident du Conseil d'administration ;\n– l'Inspecteur général des affaires judiciaires, qui peut se\nfaire représenter par l'un des inspecteurs qu'il désigne ;\n– le Directeur général de l'Institut ;\n– le Président du comité de déontologie de l'Institut ;\n– un professeur à l'Institut, nommé par le Président du\nConseil d'administration.\nLe Conseil se réunit valablement lorsque la moitié au\nmoins de ses membres sont présents, y compris le Président.\nLe Conseil prend ses décisions à la majorité. En cas de partage\négal des voix, celle du président est prépondérante.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 11,
+      "printed_page": 1001
+    },
+    {
+      "number": "48",
+      "raw_header": "Article 48",
+      "entities": [],
+      "dates": [],
+      "text": "L'attaché de justice est convoqué pour l'examen de son\naffaire, par tous les moyens permettant d'atteindre cet objectif.\nLa durée entre la date de réception de la convocation\net la date de la réunion du Conseil disciplinaire doit être au\nmoins cinq jours.\nL'attaché de justice poursuivi a le droit de se faire assister\npar un de ses collègues de la promotion ou par un magistrat\nou avocat.\nL'attaché de justice poursuivi a le droit de consulter\ntous les documents du dossier et d'en prendre une copie avant\nau moins trois jours de la date de sa comparution devant le\nConseil disciplinaire.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 11,
+      "printed_page": 1001
+    },
+    {
+      "number": "49",
+      "raw_header": "Article 49",
+      "entities": [],
+      "dates": [],
+      "text": "Le Conseil disciplinaire statue sur la poursuite et peut\nordonner qu'il soit procédé à une enquête complémentaire par\nl'un de ses membres.\nIl est statué sur la poursuite disciplinaire en cours à\nl'encontre de l'attaché de justice dans un délai maximum d'un\nmois à compter de la date de renvoi. Ce délai peut, le cas\néchéant, être prorogé pour la même durée par décision du\nPrésident du Conseil disciplinaire.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 11,
+      "printed_page": 1001
+    },
+    {
+      "number": "50",
+      "raw_header": "Article 50",
+      "entities": [],
+      "dates": [],
+      "text": "Sont applicables à l'attaché de justice, sous réserve\ndu principe de proportionnalité avec la faute commise, les\nsanctions disciplinaires suivantes :\n– l'avertissement ;\n– le blâme ;\n– la prorogation de la période de formation pour une\ndurée n'excédant pas une année ;\n– l'exclusion temporaire de la formation privative de\ntoutes rémunérations à l'exception des allocations\nfamiliales, pendant une période ne pouvant excéder\ntrois mois ;\n– le licenciement.\nDans ce dernier cas, l'attaché de justice fonctionnaire est\nmis à la disposition de son administration d'origine.\nTITRE II\nPROFESSIONNELS ET FONCTIONNAIRES",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 11,
+      "printed_page": 1001
+    },
+    {
+      "number": "51",
+      "raw_header": "Article 51",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 53,
+          "end": 76
+        }
+      ],
+      "dates": [],
+      "text": "En application des dispositions de l'article 9 de la loi\norganique n° 106-13 portant statut des magistrats, le Conseil\nsupérieur du pouvoir judiciaire peut lancer le concours d'accès\nau corps de la magistrature au profit des professionnels et\ndes fonctionnaires désignés ci-après, qui sont titulaires du\ndiplôme de master ou  master spécialisé, ou du diplôme des\nétudes supérieures approfondies ou spécialisées ou du diplôme\ndes études supérieures, en sciences juridiques, ou équivalent,\nassorti d'une licence en droit privé, ou titulaires du diplôme\nde master ou master spécialisé, ou du diplôme des études\nsupérieures approfondies ou spécialisées ou du diplôme des\nétudes supérieures, en charia, délivré par une des facultés de\ncharia, ou son équivalent, assorti d'une licence en charia ou\nen droit privé, dont l'âge ne dépasse pas cinquante-cinq (55)\nans à la date de présentation de la demande et ayant exercé\nleurs professions ou fonctions de manière effective pendant\nune période de 10 années au moins :\n– les avocats ;\n– les fonctionnaires soumis au statut du personnel du\nConseil supérieur du pouvoir judiciaire appartenant au\nmoins à un grade classé à l'échelle 11, ayant accompli\nla période d'exercice requise indiquée ci-dessus dans le\ndomaine des affaires juridiques ;\n– les fonctionnaires du greffe appartenant au moins à un\ngrade classé à l'échelle 11 ;\n– les fonctionnaires des administrations appartenant au\nmoins à un grade classé à l'échelle 11, ayant accompli\nla période d'exercice requise indiquée ci-dessus dans le\ndomaine des affaires juridiques.\nCe concours est annoncé par décision du Président-\ndélégué du Conseil, et organisé conformément aux conditions\net procédures prévues aux articles 29 à 32 susvisés.",
+      "citations": [
+        {
+          "text": "l'article 9",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        },
+        {
+          "text": "articles 29 à 32",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil\nsupérieur",
+          "start": 111,
+          "end": 128,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Conseil supérieur",
+          "start": 1080,
+          "end": 1097,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Conseil",
+          "start": 1631,
+          "end": 1638,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 11,
+      "printed_page": 1001
+    },
+    {
+      "number": "52",
+      "raw_header": "Article 52",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 54,
+          "end": 77
+        }
+      ],
+      "dates": [],
+      "text": "En application des dispositions de l'article 12 de la loi\norganique n° 106-13 susvisée, les candidats ayant réussi le\nconcours indiqué à l'article 51 ci-dessus, et les catégories des\nprofessionnels et des fonctionnaires dispensés du concours\nconformément aux dispositions de l'article 10 de la loi\norganique n° 106-13 susvisée, nommés magistrats au corps\nde la magistrature, effectuent une formation de six (6) mois.",
+      "citations": [
+        {
+          "text": "l'article 12",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        },
+        {
+          "text": "l'article 51",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        },
+        {
+          "text": "l'article 10",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "53",
+      "raw_header": "Article 53",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 219,
+          "end": 242
+        }
+      ],
+      "dates": [],
+      "text": "Les dispositions des articles 57 et 59 de la présente loi sont\napplicables aux catégories des professionnels et fonctionnaires\nnommés au corps de la magistrature conformément aux\ndispositions des articles 9 et 10 de la loi organique n° 106-13\nportant statut des magistrats.",
+      "citations": [
+        {
+          "text": "articles 57 et 59",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        },
+        {
+          "text": "articles 9 et 10",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "54",
+      "raw_header": "Article 54",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 130,
+          "end": 153
+        }
+      ],
+      "dates": [],
+      "text": "Les fonctionnaires et professionnels, nommés au\ncorps de la magistrature conformément aux dispositions des\narticles 9 et 10 de la loi organique n° 106-13 portant statut\ndes magistrats, sont tenus, pendant la période de formation,\naux devoirs qui incombent aux magistrats et au règlement\nintérieur de l'Institut.\nTITRE III\nDOMAINES DE LA FORMATION",
+      "citations": [
+        {
+          "text": "articles 9 et 10",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "55",
+      "raw_header": "Article 55",
+      "entities": [],
+      "dates": [],
+      "text": "Les formations dispensées par l'Institut comprennent\nune formation initiale, une formation spécialisée et une\nformation continue.\nL'institut dispense également une formation dans le\ndomaine de l'administration judiciaire.\nSection première. – La formation initiale",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "56",
+      "raw_header": "Article 56",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 335,
+          "end": 358
+        }
+      ],
+      "dates": [],
+      "text": "Les catégories concernées par la formation initiale\ncomprennent :\n– les attachés de justice ayant réussi les épreuves écrites\net orales du concours des attachés de justice ;\n– les catégories des professionnels et des fonctionnaires\nnommés magistrats au corps de la magistrature\nconformément aux dispositions des articles 9 et 10 de\nla loi organique n° 106-13 portant statut des magistrats ;\n– les catégories dont leurs statuts prévoient une période\nde formation à l'Institut.",
+      "citations": [
+        {
+          "text": "articles 9 et 10",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "57",
+      "raw_header": "Article 57",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 420,
+          "end": 426
+        }
+      ],
+      "dates": [],
+      "text": "Le programme de formation initiale auquel sont soumis\nles attachés de justice comprend une période de formation\nà l'institut, et une période de stage pratique au sein des\ntribunaux, administrations, organismes, établissements et\nentreprises publiques.\nLe régime et la durée des sessions d'études pendant\nla période de formation à l'institut ainsi que la durée de\nstage pratique visé à l'alinéa ci-dessus, sont fixés par arrêté\ndu Président-délégué du Conseil. Cet arrêté est publié au\n« Bulletin officiel ».\nLe programme de stage aux tribunaux est fixé en\ncoordination avec le conseil supérieur du pouvoir judiciaire\net la Présidence du Ministère public. Ce programme au sein\ndes administrations, organismes, établissements et entreprises\npubliques, est fixé en coordination avec les administrations et\nles établissements concernés.",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil",
+          "start": 451,
+          "end": 458,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Ministère public",
+          "start": 637,
+          "end": 653,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "58",
+      "raw_header": "Article 58",
+      "entities": [],
+      "dates": [],
+      "text": "Avant d'entamer son stage au sein des tribunaux,\nl'attaché de justice prête le serment suivant :\n« Je jure devant Dieu le Tout puissant de remplir mon\ndevoir, en toute loyauté et dévouement et de préserver le secret des\ndélibérations et d'observer l'intégrité et la dignité de la justice ».\nLe serment est prêté lors d'une audience officielle devant\nle premier président de la Cour d'appel dans le ressort de\nlaquelle se trouve le tribunal où l'attaché de justice effectue\nson stage, et ce en présence du Procureur général du Roi près\nladite Cour.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "59",
+      "raw_header": "Article 59",
+      "entities": [],
+      "dates": [],
+      "text": "Les attachés de justice participent, sous la supervision\ndu magistrat encadrant et le contrôle du responsable judiciaire\nau tribunal concerné, à l'activité judiciaire pendant le stage\nau sein des tribunaux et exercent notamment les fonctions\nsuivantes :\n– assister les magistrats du ministère public dans l'exercice\nde l'action publique ;\n– assister les juges d'instruction dans tous les actes ;\n– siéger en surnombre et participer, sans voix délibérative,\naux audiences et à leurs délibérés.\nLes attachés de justice portent aux audiences une robe\ndont les caractéristiques sont fixées par décision du Président-\ndélégué du Conseil.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "60",
+      "raw_header": "Article 60",
+      "entities": [],
+      "dates": [],
+      "text": "Afin de combler le manque dans une spécialité judiciaire\nspécifique, la programmation d'une formation spécialisée au\nprofti d'un nombre déterminé d'attachés de justice en cours de\nformation, est établie par l'Institut, sur la base d'une décision\ndu Conseil supérieur du pouvoir judiciaire.\nLes attachés de justice bénéficiant de cette formation\nsont sélectionnés après avoir rempli les conditions et les\ncritères répondant aux besoins de la spécialité judiciaire\nrequise. Lesdits conditions et critères sont fixés par décision\ndu Directeur général, après accord du Président du Conseil\nd'administration.\nCette formation est programmée au cours de la seconde\nmoitié de la période de formation initiale visée à l'article 34\nci-dessus,  le comité scientifique de l'Institut est chargé d'en\nfixer la durée et le programme et de le soumettre à l'approbation\ndu Conseil d'administration.\nLa spécialité judiciaire, objet de cette formation, est\nprise en compte dans l'examen de fin de formation auquel\nsont soumis les attachés de justice bénéficiant de la formation\nspécialisée.\nSection II. – La formation spécialisée",
+      "citations": [
+        {
+          "text": "l'article 34",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7522_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 1002
+    },
+    {
+      "number": "61",
+      "raw_header": "Article 61",
+      "entities": [],
+      "dates": [],
+      "text": "La programmation des cycles de formation spécialisée\nau profti des magistrats dans des domaines spécifqiues relatives\nà une spécialité judiciaire déterminée, est établie par l'institut,\nsur la base d'une décision du Conseil supérieur du pouvoir\njudiciaire.\nLa décision précitée du Conseil supérieur du pouvoir\njudiciaire fixe l'objet de cette formation, sa finalité et la\ncatégorie cible.\nL'administration de l'Institut fixe les besoins de\nformation liés à l'objet de la formation. Elle fixe également, en\ncoordination avec le Conseil supérieur du pouvoir judiciaire,\nla durée, le contenu, le programme et les mécanismes\nd'évaluation de ce cycle.\nLa formation dispensée dans le cadre du cycle spécialisé\nest sanctionnée par des diplômes délivrés par l'administration\nde l'Institut aux magistrats bénéficiaires de cette formation.\nSection III. – La formation continue",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "62",
+      "raw_header": "Article 62",
+      "entities": [],
+      "dates": [],
+      "text": "La formation continue vise à permettre aux magistrats en\nactivité de développer leurs connaissances, leurs compétences\net leurs expériences scientifiques et professionnelles, et de\nsuivre la jurisprudence et les évolutions que connaît le système\njuridique encadrant le fonctionnement du pouvoir judiciaire.\nA cet effet, l'institut met en œuvre un programme de\nformation continue élaboré en coordination avec le conseil\nsupérieur du pouvoir judiciaire et la Présidence du Ministère\npublic. Ce programme comprend des sessions de formation au\nprofti des bénéficiaires, ainsi que des séminaires et des stages\norganisés au Maroc et à l'étranger.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "63",
+      "raw_header": "Article 63",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 52,
+          "end": 75
+        }
+      ],
+      "dates": [],
+      "text": "conformément aux dispositions de l'article 50 de\nla loi organique n° 106-13 portant statut des magistrats, la\nparticipation des magistrats aux sessions de formation\ncontinue est obligatoire.\nSection IV. – La formation dans le domaine de\nl'administration judiciaire",
+      "citations": [
+        {
+          "text": "l'article 50",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "64",
+      "raw_header": "Article 64",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n° 106-13",
+          "start": 54,
+          "end": 77
+        }
+      ],
+      "dates": [],
+      "text": "En application des dispositions de l'article 51 de la loi\norganique n° 106-13 portant statut des magistrats, les nouveaux\nresponsables judiciaires reçoivent une formation à l'Institut\ndans le domaine de l'administration judiciaire, de même les\nresponsables judiciaires en activité reçoivent des formations\ncontinues.",
+      "citations": [
+        {
+          "text": "l'article 51",
+          "target_label": "LOI",
+          "target_text": "loi organique n° 106-13",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "65",
+      "raw_header": "Article 65",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 227,
+          "end": 233
+        }
+      ],
+      "dates": [],
+      "text": "L'Institut dispense une formation en administration\njudiciaire au profti des adjoints des responsables judiciaires et\nau profti d'autres catégories de magistrats qui sont sélectionnés\nselon des conditions et critères fixés par arrêté du Président-\ndélégué du Conseil.",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Conseil",
+          "start": 259,
+          "end": 266,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "66",
+      "raw_header": "Article 66",
+      "entities": [],
+      "dates": [],
+      "text": "Le Comité scientifique de l'Institut est chargé d'élaborer\nles programmes de formation et d'en fixer la durée dans le\ndomaine de l'administration judiciaire en coordination avec\nle Conseil supérieur du pouvoir judiciaire et la Présidence\ndu Ministère public. Toutefois, s'il s'agit de la formation\ndans le domaine de la gestion administrative et financière\ndes tribunaux, ladite coordination s'effectue également avec\nl'autorité gouvernementale chargée de la justice.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "67",
+      "raw_header": "Article 67",
+      "entities": [],
+      "dates": [],
+      "text": "La formation en administration judiciaire est\nsanctionnée par des certificats délivrés par l'administration de\nl'Institut aux bénéficiaires ayant achevé la durée de formation.\nChapitre IV\nDispositions transitoires et finales",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "68",
+      "raw_header": "Article 68",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi n° 09-01",
+          "start": 179,
+          "end": 191
+        }
+      ],
+      "dates": [],
+      "text": "L'Institut supérieur de la magistrature, réorganisé en\nvertu de la présente loi, est subrogé dans les droits et obligations\nde l'Institut supérieur de la magistrature créé par la loi n° 09-01\nsusvisée, pour les marchés, contrats et accords conclus avant\nla date d'entrée en vigueur de la présente loi.\nSont transférés à titre gratuit et en toute propriété à\nl'Institut, à compter de la même date, les biens meubles et\nimmeubles et les actifs détenus par l'Institut créé en vertu de la\nloi n° 09-01. Les documents et dossiers conservés par l'Institut\nprécité concernant les magistrats et les attachés de justice sont\négalement transférés.\nSous réserve des dispositions de l'article 71 ci-dessous,\nl'autorité gouvernementale chargée de la justice assure les\nmissions de formation initiale et continue des fonctionnaires\ndu greffe et des auxiliaires de justice. A cet effet, tous les\ndocuments et dossiers conservés à l'Institut supérieur de la\nmagistrature concernant les intéressés sont transférés à ladite\nautorité.",
+      "citations": [
+        {
+          "text": "l'article 71",
+          "target_label": "LOI",
+          "target_text": "loi n° 09-01",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Institut supérieur de la magistrature",
+          "start": 2,
+          "end": 39,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Institut",
+          "start": 456,
+          "end": 464,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Institut supérieur de la\nmagistrature",
+          "start": 917,
+          "end": 954,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "69",
+      "raw_header": "Article 69",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi n° 09-01",
+          "start": 104,
+          "end": 116
+        }
+      ],
+      "dates": [],
+      "text": "Les magistrats et fonctionnaires exerçant à l'institut\nsupérieur de la magistrature créé en vertu de la loi n° 09-01\nconservent leur situation statutaire dans les mêmes conditions\nauxquelles ils étaient soumis à la date d'entrée en vigueur de\nla présente loi.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "70",
+      "raw_header": "Article 70",
+      "entities": [
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n° 1-74-467 du 26 chaoual 1394 (11 novembre 1974)",
+          "start": 398,
+          "end": 465
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-05-178",
+          "start": 595,
+          "end": 613
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 rabii I 1427",
+          "start": 617,
+          "end": 632
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "21 avril 2006",
+          "start": 634,
+          "end": 647
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 rabii I 1427",
+          "start": 617,
+          "end": 632
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "21 avril 2006",
+          "start": 634,
+          "end": 647
+        }
+      ],
+      "text": "Les attachés de justice en cours de formation à la date\nd'entrée en vigueur de la présente loi demeurent soumis aux\ndispositions des textes législatifs et réglementaires qui étaient\nen vigueur au moment du concours des attachés de justice,\net ce jusqu'à la passation de l'examen de fin de formation, à\nl'exception des dispositions suivantes :\n– le deuxième alinéa de l'article 6 et l'article 10 du dahir\nportant loi n° 1-74-467 du 26 chaoual 1394 (11 novembre\n1974) formant statut de la magistrature, tel que modifié\net complété ;\n– le premier alinéa de l'article 16 et les articles 23 et 24\ndu décret n° 2-05-178 du 22 rabii I 1427 (21 avril 2006)\ndéterminant les conditions d'accès au concours des\nattachés de justice, le programme des épreuves, leur\nnotation ainsi que les modalités de l'examen de fin de\nformation desdits attachés ;\nA compter de la date précitée, les dispositions\ncorrespondantes aux deux paragraphes précédents prévus par\nla présente loi et ses textes d'application s'appliquent également\naux attachés de justice mentionnés à l'alinéa précédent.",
+      "citations": [
+        {
+          "text": "l'article 6",
+          "target_label": "DECRET",
+          "target_text": "décret n° 2-05-178",
+          "resolved": true
+        },
+        {
+          "text": "l'article 10",
+          "target_label": "DECRET",
+          "target_text": "décret n° 2-05-178",
+          "resolved": true
+        },
+        {
+          "text": "l'article 16",
+          "target_label": "DECRET",
+          "target_text": "décret n° 2-05-178",
+          "resolved": true
+        },
+        {
+          "text": "articles 23 et 24",
+          "target_label": "DECRET",
+          "target_text": "décret n° 2-05-178",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 1003
+    },
+    {
+      "number": "71",
+      "raw_header": "Article 71",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi n° 09-01 relative à l'Institut supérieur de la magistrature,",
+          "start": 178,
+          "end": 242
+        }
+      ],
+      "dates": [],
+      "text": "Les fonctionnaires en formation dans le domaine du\nsecrétariat-greffe, ainsi que les auxiliaires de justice et les\nmembres des professions juridiques, prévus à l'article 2 de la\nloi n° 09-01 relative à l'Institut supérieur de la magistrature,\nqui sont en cours de formation à l'Institut précité à la date\nd'entrée en vigueur de la présente loi, continuent à bénéficier\nde leur formation à l'Institut jusqu'à l'expiration de sa durée,\nou, le cas échéant, poursuivent ladite formation au sein de la\nstructure créée à cet effet auprès de l'autorité gouvernementale\ncompétente, conformément aux textes réglementaires en\nvigueur.",
+      "citations": [
+        {
+          "text": "l'article 2",
+          "target_label": "LOI",
+          "target_text": "loi n° 09-01 relative à l'Institut supérieur de la magistrature,",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Institut supérieur de la magistrature",
+          "start": 204,
+          "end": 241,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 14,
+      "printed_page": 1004
+    },
+    {
+      "number": "72",
+      "raw_header": "Article 72",
+      "entities": [],
+      "dates": [],
+      "text": "Par dérogation aux dispositions de l'article 34 de la\nprésente loi, la durée de la formation des attachés de justice\nest fixée à une année, et ce pour une période transitoire ne\ndépassant pas les cinq (5) ans à compter de la date d'entrée\nen vigueur de la présente loi.\nLes dispositions de l'alinéa précédent sont applicables\naux attachés de justice qui sont en cours de formation à la date\nd'entrée en vigueur de la présente loi, ainsi qu'aux attachés de\njustice ayant réussi le concours des attachés de justice avant\nla date précitée.",
+      "citations": [
+        {
+          "text": "l'article 34",
+          "target_label": "DOCUMENT_SOURCE",
+          "target_text": "BO_7522_Fr",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 14,
+      "printed_page": 1004
+    },
+    {
+      "number": "73",
+      "raw_header": "Article 73",
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi n° 09-01",
+          "start": 105,
+          "end": 117
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 09-01 relative à l'Institut supérieur",
+          "start": 476,
+          "end": 520
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-02-240 du 25 rejeb 1423 (3 octobre 2002)",
+          "start": 558,
+          "end": 609
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n° 1-74-467 du 26 chaoual 1394 (11 novembre 1974)",
+          "start": 636,
+          "end": 703
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7228 du 21 safar 1445 (7 septembre 2023)",
+          "start": 1065,
+          "end": 1128
+        }
+      ],
+      "dates": [],
+      "text": "A titre transitoire, le Directeur général de l'Institut\nsupérieur de la magistrature créé en vertu de la loi n° 09-01\nprécitée en fonction à la date de publication de la présente loi\nau Bulletin officiel , continue à exercer ses fonctions, jusqu'à\nla nomination d'un Directeur général de l'Institut,\nconformément aux dispositions de la présente loi.\nSous réserve des dispositions précédentes et des\ndispositions de l'article 70 ci-dessus, sont abrogées les\ndispositions de la loi n° 09-01 relative à l'Institut supérieur\nde la magistrature promulguée par le dahir n° 1-02-240 du\n25 rejeb 1423 (3 octobre 2002) et les articles 4 à 12 du dahir\nportant loi n° 1-74-467 du 26 chaoual 1394 (11 novembre 1974)\nformant statut de la magistrature, tel que modifié et complété.\nToutefois, les textes réglementaires pris pour l'application\nde la loi n° 09-01 précitée demeurent en vigueur dans la mesure\noù ils ne sont pas en contradiction avec les dispositions de la\nprésente loi, jusqu'à leur remplacement.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7228 du 21 safar 1445 (7 septembre 2023).",
+      "citations": [
+        {
+          "text": "l'article 70",
+          "target_label": "DAHIR",
+          "target_text": "dahir n° 1-02-240 du 25 rejeb 1423 (3 octobre 2002)",
+          "resolved": true
+        },
+        {
+          "text": "articles 4 à 12",
+          "target_label": "LOI",
+          "target_text": "loi n° 09-01",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Institut supérieur\nde la magistrature",
+          "start": 502,
+          "end": 539,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 14,
+      "printed_page": 1004
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "MONEY",
+          "text": "cent millions d'euros",
+          "start": 131,
+          "end": 152
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 mai 2026",
+          "start": 190,
+          "end": 200
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 mai 2026",
+          "start": 190,
+          "end": 200
+        }
+      ],
+      "text": "Est approuvée, telle qu'elle est\nannexée à l'original du présent décret, la convention de crédit\nn° CMA 1349 01 N, d'un montant de cent millions d'euros\n(100.000.000,00 d'euros), conclue le 8 mai 2026, entre le\nRoyaume du Maroc et l'Agence française de développement\n(AFD), pour le financement du projet « Appui à la politique\nnationale de l'eau au Maroc ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 14,
+      "printed_page": 1004
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1448",
+          "start": 189,
+          "end": 204
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "23 juin 2026",
+          "start": 206,
+          "end": 218
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1448",
+          "start": 189,
+          "end": 204
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "23 juin 2026",
+          "start": 206,
+          "end": 218
+        }
+      ],
+      "text": "Le ministre délégué auprès de la ministre\nde l'économie et des finances, chargé du budget est chargé de\nl'exécution du présent décret qui sera publié au Bulletin officiel.\nFait à Rabat, le 7 moharrem 1448 (23 juin 2026).\nAZIZ AKHANNOUCH.\nPour contreseing :\nLe ministre délégué auprès\nde la ministre de l'économie\net des finances, chargé du budget,\nFOUZI LEKJAA.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 14,
+      "printed_page": 1004
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'industrie et du commerce",
+          "start": 35,
+          "end": 73
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "10 ramadan 1446",
+          "start": 143,
+          "end": 158
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 mars 2025",
+          "start": 160,
+          "end": 172
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 230,
+          "end": 245
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "10 ramadan 1446",
+          "start": 143,
+          "end": 158
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 mars 2025",
+          "start": 160,
+          "end": 172
+        }
+      ],
+      "text": "L'annexe 2 de l'arrêté conjoint du\nministre de l'industrie et du commerce et de la ministre de\nl'économie et des finances susvisé n° 679-25 du 10 ramadan\n1446 (11 mars 2025) est abrogée et remplacée par l'annexe jointe\nau présent arrêté conjoint.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 15,
+      "printed_page": 1005
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 112,
+          "end": 127
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 226,
+          "end": 238
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 240,
+          "end": 251
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'industrie",
+          "start": 394,
+          "end": 436
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "10 ramadan 1446",
+          "start": 682,
+          "end": 697
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 mars 2025",
+          "start": 699,
+          "end": 711
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 226,
+          "end": 238
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 240,
+          "end": 251
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 518,
+          "end": 530
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 532,
+          "end": 543
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "10 ramadan 1446",
+          "start": 682,
+          "end": 697
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 mars 2025",
+          "start": 699,
+          "end": 711
+        }
+      ],
+      "text": "Le directeur général de l'administration des\ndouanes et impôts indirects est chargé de l'application du\nprésent arrêté conjoint qui entrera en vigueur le jour qui suit\nla date de sa publication au Bulletin officiel.\nRabat, le 22 hija 1447 (8 juin 2026).\nLa ministre de l'économie\nLe ministre de l'industrie,\net des finances,\nNADIA FETTAH.\n*\n*     *\net du commerce,\nRYAD MEZZOUR.\n« Annexe 2 à l'arrêté conjoint du ministre de l'industrie\n« et du commerce et de la ministre de l'économie\n« et des finances n° 1164-26 du 22 hija 1447 (8 juin 2026)\n« modifiant l'arrêté conjoint du ministre de l'industrie\n« et du commerce et de la ministre de l'économie\n« et des finances n° 679-25 du 10 ramadan 1446 (11 mars 2025)\n« portant application d'une mesure de sauvegarde définitive\n« sur les importations des panneaux de fibres de bois revêtus\n« Liste des pays en développement non soumis\nau droit additionnel\n« Afghanistan, Afrique du Sud, Albanie, Angola,\n« Antigua-et-Barbuda, Royaume de l'Arabie Saoudite,\n« Argentine, Arménie, Royaume de Bahrein, Bangladesh,\n« Barbade, Belize, Bénin, Bolivie, Botswana, Brésil, Brunei\n« Darussalam, Burkina-Faso, Burundi, Cambodge, Cameroun,\n« Cap-Vert, Chili, Colombie, Union des Comores, Congo,\n« Costa Rica, Côte d'Ivoire, Cuba, Djibouti, Dominique,\n« Egypte, El Salvador, Emirats arabes unis, Equateur,\n« Eswatini, Ex-République yougoslave de Macédoine (ERYM),\n« Fidji, Gabon, Gambie, Géorgie, Ghana, Grenade, Guatemala,\n« Guinée, Guinée-Bissau, Guyana, Haïti, Honduras, Hong\n« Kong Chine, lles Salomon, Inde, Indonésie, Jamaïque, Jordanie,\n« Kazakhstan, Kenya, Koweït, Lesotho, Libéria, Macao Chine,\n« Madagascar, Malaisie, Malawi, Maldives, Mali, Maurice,\n« Mauritanie, Mexique, République de Moldova, Mongolie,\n« Monténégro, Mozambique, Myanmar, Namibie, Népal,\n« Nicaragua, Niger, Nigéria, Oman, Ouganda, Pakistan,\n« Panama, Papouasie-Nouvelle-Guinée, Paraguay,\n« Pérou, Philippines, Qatar, République centrafricaine,\n« République démocratique du Congo, République\n« démocratique populaire Lao, République dominicaine,\n« République kirghize, Rwanda, Sainte-Lucie, Saint-Kitts-\n« et-Nevis, Saint-Vincent-et-les-Grenadines, Samoa, Sénégal,\n« Seychelles, Sierra Leone, Sri Lanka, Suriname, Tadjikistan,\n« Tanzanie, Tchad, Thaïlande, République démocratique\n« du Timor-Leste, Togo, Tonga, Trinité-et-Tobago, Tunisie,\n« Uruguay, Vanuatu, République Bolivarienne du Venezuela,\n« Viet Nam, Yémen, Zambie, Zimbabwe. »",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 15,
+      "printed_page": 1005
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 866,
+          "end": 881
+        }
+      ],
+      "dates": [],
+      "text": "Les importations de tôles d'acier en\nbobines enroulées ou coupées, laminées à froid non plaquées\nni revêtues, désignées ci-dessous tôles d'acier laminées à froid\noriginaires d'Egypte, classées sous les positions tarifaires\nsuivantes : 7209150000 ; 7209160010 ; 7209160091 ; 7209160099 ;\n7209170010 ; 7209170090 ; 7209180010 ; 7209180090 ;\n7209250000 ; 7209260010 ; 7209260091 ; 7209260099 ;\n7209270010 ; 7209270090 ; 7209280010 ; 7209280090 ;\n7209901000 ; 7209902010 ; 7209902090 ; 7209909000 ;\n7211230020 ; 7211230030 ; 7211230051 ; 7211230058 ;\n7211230090 ; 7211290010 ; 7211290030 ; 7211290040 ;\n7211290060 ; 7211290090 ; 7211901000 ; 7211902000 ;\n7211909000 ; 7226200019 ; 7226200020 ; 7226200061 ;\n7226200069 ; 7226200090 ; 7226920000 ; 7226991000 et\n7226998000, sont soumises, pour une durée de cinq (5) ans\nà compter de la date d'entrée en vigueur du présent arrêté\nconjoint, à un droit antidumping définitif conformément au\ntableau fgiurant à l'annexe n° 1 du présent arrêté conjoint.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 15,
+      "printed_page": 1005
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [],
+      "dates": [],
+      "text": "Sont exclues de l'application du droit\nantidumping définitif prévu à l'article premier ci-dessus, les\nimportations de tôles d'acier laminées à froid originaires\nd'Egypte, accompagnée d'une facture portant le visa de\nl'autorité gouvernementale chargée de l'industrie.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 15,
+      "printed_page": 1005
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 124,
+          "end": 139
+        }
+      ],
+      "dates": [],
+      "text": "Les raisons du choix de la méthodologie\nutilisée pour établir la marge du dumping sont indiquées à\nl'annexe n° 2 du présent arrêté conjoint.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 15,
+      "printed_page": 1005
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 112,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Le directeur général de l'administration des\ndouanes et impôts indirects est chargé de l'application du\nprésent arrêté conjoint.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 15,
+      "printed_page": 1005
+    },
+    {
+      "number": "5",
+      "raw_header": "ART. 5. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 11,
+          "end": 26
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 133,
+          "end": 145
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 147,
+          "end": 158
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 133,
+          "end": 145
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 147,
+          "end": 158
+        }
+      ],
+      "text": "Le présent arrêté conjoint entrera en vigueur le\njour qui suit immédiatement celui de sa publication au Bulletin\nofficiel.\nRabat, le 22 hija 1447 (8 juin 2026).\nLa ministre de l'économie\nLe ministre de l'industrie,\net des finances,\nNADIA FETTAH.\net du commerce,\nRYAD MEZZOUR.\n*\n*     *",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 16,
+      "printed_page": 1006
+    },
+    {
+      "number": "Annexe",
+      "raw_header": "Annexe n°  1 à l'arrêté conjoint du ministre de l'industrie",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'industrie",
+          "start": 17,
+          "end": 59
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 85,
+          "end": 123
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 138,
+          "end": 150
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 152,
+          "end": 163
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 138,
+          "end": 150
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 152,
+          "end": 163
+        }
+      ],
+      "text": "Annexe n°  1 à l'arrêté conjoint du ministre de l'industrie\n et du commerce et de la ministre de l'économie et des finances\nn° 1165-26 du 22 hija 1447 (8 juin 2026) portant application\ndu droit antidumping définitif sur les importations de tôles\nd'acier laminées à froid originaires d'Egypte\nDroit antidumping définitif par producteur et/ou exportateur\n* : Il est entendu par le groupe Kandil Steel, les entreprises :\n- Kandil Steel ;\n- «El Obour for Metallurgical industries» (aussi connue sous le nom\n«Galva Metal») ; et\n- «Kama for coating and Manufacturing».\n*    *    *",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 16,
+      "printed_page": 1006
+    },
+    {
+      "number": "Annexe",
+      "raw_header": "Annexe n° 2 à l'arrêté conjoint du ministre de l'industrie",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'industrie",
+          "start": 16,
+          "end": 58
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 83,
+          "end": 121
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 136,
+          "end": 148
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 150,
+          "end": 161
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 136,
+          "end": 148
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 150,
+          "end": 161
+        }
+      ],
+      "text": "Annexe n° 2 à l'arrêté conjoint du ministre de l'industrie\net du commerce et de la ministre de l'économie et des finances\nn° 1165-26 du 22 hija 1447 (8 juin 2026) portant application\ndu droit antidumping définitif sur les importations de tôles\nd'acier laminées à froid originaires d'Egypte\nRaisons du choix de la méthodologie utilisée\npour établir la marge de dumping\nPour les producteurs-exportateurs relevant du Groupe\nKandil steel, la marge de dumping a été déterminée sur la base\nde leurs réponses au questionnaire d'enquête et ce, compte tenu\nde leur collaboration à l'enquête. A cet effet, la valeur normale\na été déterminée sur la base de leurs prix de vente domestiques\nau stade « sortie usine », alors que le prix à l'exportation a été\nétabli sur la base des prix réellement facturés aux acheteurs\nmarocains indépendants au stade « sortie usine ».\nPour les autres producteurs-exportateurs qui n'ont pas\ncoopéré à l'enquête, la détermination de la marge de dumping\na été faite sur la base des meilleurs renseignements disponibles,\nqui sont dans le cas d'espèce les données fournies par Kandil\nSteel. Ainsi, la marge de dumping a été établie sur la base\nd'une comparaison entre les prix à l'exportation et les valeurs\nnormales ayant l'écart le plus élevé.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 16,
+      "printed_page": 1006
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté susvisé n° 256-91",
+          "start": 22,
+          "end": 46
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 joumada II 1411",
+          "start": 50,
+          "end": 67
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "25 décembre 1990",
+          "start": 69,
+          "end": 85
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-89-563",
+          "start": 228,
+          "end": 246
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 joumada I 1410",
+          "start": 250,
+          "end": 267
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "18 décembre 1989",
+          "start": 269,
+          "end": 285
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 308,
+          "end": 314
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "26 hija 1447",
+          "start": 359,
+          "end": 371
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 juin 2026",
+          "start": 373,
+          "end": 385
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 joumada II 1411",
+          "start": 50,
+          "end": 67
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "25 décembre 1990",
+          "start": 69,
+          "end": 85
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 joumada I 1410",
+          "start": 250,
+          "end": 267
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "18 décembre 1989",
+          "start": 269,
+          "end": 285
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "26 hija 1447",
+          "start": 359,
+          "end": 371
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 juin 2026",
+          "start": 373,
+          "end": 385
+        }
+      ],
+      "text": "Le tableau annexé à l'arrêté susvisé\nn° 256-91 du 7 joumada II 1411 (25 décembre 1990), est modifié\ncomme suit :\n« Tableau relatif aux laboratoires habilités à procéder\n« aux analyses dans le domaine agricole dans le cadre\n« du décret n° 2-89-563 du 18 joumada I 1410 (18 décembre 1989)\nART. 2. – Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 26 hija 1447 (12 juin 2026).\nAHMED EL BOUARI.",
+      "citations": [],
+      "persons": [
+        {
+          "text": "AHMED EL BOUARI",
+          "start": 388,
+          "end": 403,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": [],
+      "pdf_page": 16,
+      "printed_page": 1006
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de\nrecherche d'hyrocarbures dit « GHARB DEEP OFFSHORE I ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 17,
+      "printed_page": 6
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 169,
+          "end": 175
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1799,4 km2, telles\nqu'elles fgiurent sur la carte annexée à l'original du présent\narrêté, sont définies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 6 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 6 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 17,
+      "printed_page": 6
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 132,
+          "end": 144
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 132,
+          "end": 144
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE I » est délivré pour une période\ninitiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 17,
+      "printed_page": 6
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 17,
+      "printed_page": 6
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de\nrecherche d'hyrocarbures dit « GHARB DEEP OFFSHORE II ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 17,
+      "printed_page": 6
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 169,
+          "end": 175
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1744,2 km2, telles\nqu'elles fgiurent sur la carte annexée à l'original du présent\narrêté, sont définies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 7 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 7 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 18,
+      "printed_page": 8
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 133,
+          "end": 145
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 133,
+          "end": 145
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE II » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 18,
+      "printed_page": 8
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 18,
+      "printed_page": 8
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de recherche\nd'hyrocarbures dit « GHARB DEEP OFFSHORE III ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 18,
+      "printed_page": 8
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 169,
+          "end": 175
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1924,2 km2, telles\nqu'elles fgiurent sur la carte annexée à l'original du présent\narrêté, sont définies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 8 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 8 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 18,
+      "printed_page": 8
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 134,
+          "end": 146
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 134,
+          "end": 146
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE III » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 18,
+      "printed_page": 8
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 18,
+      "printed_page": 8
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de\nrecherche d'hyrocarbures dit « GHARB DEEP OFFSHORE IV ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 19,
+      "printed_page": 7
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 169,
+          "end": 175
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1737,3 km2, telles\nqu'elles fgiurent sur la carte annexée à l'original du présent\narrêté, sont définies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 7 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 7 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 19,
+      "printed_page": 7
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 133,
+          "end": 145
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 133,
+          "end": 145
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE IV » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 19,
+      "printed_page": 7
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 19,
+      "printed_page": 7
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de\nrecherche d'hyrocarbures dit « GHARB DEEP OFFSHORE V ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 19,
+      "printed_page": 7
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 169,
+          "end": 175
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1984,8 km2, telles\nqu'elles fgiurent sur la carte annexée à l'original du présent\narrêté, sont définies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 7 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 7 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 19,
+      "printed_page": 7
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 132,
+          "end": 144
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 132,
+          "end": 144
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE V » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 19,
+      "printed_page": 7
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 19,
+      "printed_page": 7
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de\nrecherche d'hyrocarbures dit « GHARB DEEP OFFSHORE VI ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 20,
+      "printed_page": 4
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 167,
+          "end": 173
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1790 km2, telles qu'elles\nfgiurent sur la carte annexée à l'original du présent arrêté, sont\ndéfinies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 4 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 4 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 20,
+      "printed_page": 4
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 133,
+          "end": 145
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 133,
+          "end": 145
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE VI » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 20,
+      "printed_page": 4
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 20,
+      "printed_page": 4
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de recherche\nd'hyrocarbures dit « GHARB DEEP OFFSHORE VII ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 21,
+      "printed_page": 4
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 169,
+          "end": 175
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1181,6 km2, telles\nqu'elles fgiurent sur la carte annexée à l'original du présent\narrêté, sont définies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 4 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 4 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 21,
+      "printed_page": 4
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 134,
+          "end": 146
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 134,
+          "end": 146
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE VII » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 21,
+      "printed_page": 4
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 21,
+      "printed_page": 4
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de recherche\nd'hyrocarbures dit « GHARB DEEP OFFSHORE VIII ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 21,
+      "printed_page": 4
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 169,
+          "end": 175
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1208,7 km2, telles\nqu'elles fgiurent sur la carte annexée à l'original du présent\narrêté, sont définies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 4 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 4 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 22,
+      "printed_page": 6
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 135,
+          "end": 147
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 135,
+          "end": 147
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE VIII » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 22,
+      "printed_page": 6
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 22,
+      "printed_page": 6
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de recherche\nd'hyrocarbures dit « GHARB DEEP OFFSHORE IX ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 22,
+      "printed_page": 6
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 169,
+          "end": 175
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1903,7 km2, telles\nqu'elles fgiurent sur la carte annexée à l'original du présent\narrêté, sont définies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 6 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 6 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 22,
+      "printed_page": 6
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 133,
+          "end": 145
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 133,
+          "end": 145
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE IX » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 22,
+      "printed_page": 6
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 22,
+      "printed_page": 6
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MURPHY MOROCCO OIL CO., LTD »",
+          "start": 88,
+          "end": 127
+        }
+      ],
+      "dates": [],
+      "text": "Il est accordé conjointement à\nl'Office national des hydrocarbures et des mines et à la société\n« MURPHY MOROCCO OIL CO., LTD », le permis de\nrecherche d'hyrocarbures dit « GHARB DEEP OFFSHORE X ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 23,
+      "printed_page": 4
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 167,
+          "end": 173
+        }
+      ],
+      "dates": [],
+      "text": "Les limites du permis visé à l'article premier\nci-dessus, qui couvre une superficie de 1716 km2, telles qu'elles\nfgiurent sur la carte annexée à l'original du présent arrêté, sont\ndéfinies comme suit :\na) Par les lignes droites orientées du Nord au Sud et\nde l'Est à l'Ouest, joignant successivement les points 1 à 4 de\ncoordonnées géographiques suivantes  :\nb) Par la ligne droite joignant le point 4 au point 1.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 23,
+      "printed_page": 4
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 132,
+          "end": 144
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "3 avril 2026",
+          "start": 132,
+          "end": 144
+        }
+      ],
+      "text": "Le permis de recherche d'hydrocarbures\n« GHARB DEEP OFFSHORE X » est délivré pour une\npériode initiale de trois années à compter du 3 avril 2026.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 23,
+      "printed_page": 4
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 196,
+          "end": 258
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 hija 1447",
+          "start": 88,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2026",
+          "start": 101,
+          "end": 112
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 2 hija 1447 (19 mai 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 23,
+      "printed_page": 4
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 59,
+          "end": 74
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "30 rejeb 1447",
+          "start": 142,
+          "end": 155
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 janvier 2026",
+          "start": 157,
+          "end": 172
+        },
+        {
+          "label": "ORG",
+          "text": "société « PREDATOR GAS VENTURES LIMITED »",
+          "start": 236,
+          "end": 277
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "30 rejeb 1447",
+          "start": 142,
+          "end": 155
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 janvier 2026",
+          "start": 157,
+          "end": 172
+        }
+      ],
+      "text": "Est approuvé, tel qu'il est annexé\nà l'original du présent arrêté conjoint, l'avenant n° 5 à l'accord\npétrolier « GUERCIF ONSHORE » conclu le 30 rejeb 1447\n(20 janvier 2026), entre l'Office national des hydrocarbures\net des mines et la société « PREDATOR GAS VENTURES\nLIMITED ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Office national des hydrocarbures\net des mines",
+          "start": 183,
+          "end": 229,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 24,
+      "printed_page": 1014
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 11,
+          "end": 26
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "3 hija 1447",
+          "start": 71,
+          "end": 82
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 mai 2026",
+          "start": 84,
+          "end": 95
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026)",
+          "start": 306,
+          "end": 368
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "3 hija 1447",
+          "start": 71,
+          "end": 82
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 mai 2026",
+          "start": 84,
+          "end": 95
+        }
+      ],
+      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 3 hija 1447 (20 mai 2026).\nLa ministre\nde la transition énergétique\net du développement durable,\nLa ministre de l'économie\net des finances,\nNADIA FETTAH.\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7521 du 13 moharrem 1448 (29 juin 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 24,
+      "printed_page": 1014
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté n° 462-22 du 9 rejeb 1443",
+          "start": 17,
+          "end": 49
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 février 2022",
+          "start": 51,
+          "end": 66
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "30 novembre 2021",
+          "start": 270,
+          "end": 286
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 février 2022",
+          "start": 51,
+          "end": 66
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "30 novembre 2021",
+          "start": 270,
+          "end": 286
+        }
+      ],
+      "text": "L'article 3 de l'arrêté n° 462-22 du\n9 rejeb 1443 (11 février 2022) susvisé, est modiféi ainsi qu'il suit :\n« Article 3. – Le permis de recherche d'hydrocarbures\n« « LIXUS OFFSHORE I » est prorogé pour une première\n« période complémentaire de cinq années à compter du\n« 30 novembre 2021. »",
+      "citations": [
+        {
+          "text": "L'article 3",
+          "target_label": "ARRETE",
+          "target_text": "arrêté n° 462-22 du 9 rejeb 1443",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 24,
+      "printed_page": 1014
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 hija 1447",
+          "start": 88,
+          "end": 100
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 juin 2026",
+          "start": 102,
+          "end": 113
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 hija 1447",
+          "start": 88,
+          "end": 100
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 juin 2026",
+          "start": 102,
+          "end": 113
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 18 hija 1447 (4 juin 2026).\nLEILA BENALI.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 24,
+      "printed_page": 1014
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté n° 463-22 du 9 rejeb 1443",
+          "start": 17,
+          "end": 49
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 février 2022",
+          "start": 51,
+          "end": 66
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "30 novembre 2021",
+          "start": 272,
+          "end": 288
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 février 2022",
+          "start": 51,
+          "end": 66
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "30 novembre 2021",
+          "start": 272,
+          "end": 288
+        }
+      ],
+      "text": "L'article 3 de l'arrêté n° 463-22 du\n9 rejeb 1443 (11 février 2022) susvisé, est modiféi ainsi qu'il suit :\n« Article 3. – Le permis de recherche d'hydrocarbures\n« « LIXUS OFFSHORE II » est prorogé pour une première\n« période  complémentaire de cinq années à compter du\n« 30 novembre 2021. »",
+      "citations": [
+        {
+          "text": "L'article 3",
+          "target_label": "ARRETE",
+          "target_text": "arrêté n° 463-22 du 9 rejeb 1443",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 25,
+      "printed_page": 1015
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 hija 1447",
+          "start": 88,
+          "end": 100
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 juin 2026",
+          "start": 102,
+          "end": 113
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 hija 1447",
+          "start": 88,
+          "end": 100
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 juin 2026",
+          "start": 102,
+          "end": 113
+        }
+      ],
+      "text": "Le présent arrêté sera notifié aux intéressés et\npublié au Bulletin officiel.\nRabat, le 18 hija 1447 (4 juin 2026).\nLEILA BENALI.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 25,
+      "printed_page": 1015
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté n° 2253-21",
+          "start": 143,
+          "end": 160
+        }
+      ],
+      "dates": [],
+      "text": "L'agrément de la société Analysis\nand Control Laboratory (ACLAB), numéro de patente\n31590749, numéro du registre du commerce 24015, objet de\nl'arrêté n° 2253-21, visé ci-dessus, est étendu pour effectuer\nles évaluations de la conformité des « produits de textiles et\nd'habillement », « carreaux et dalles céramique », « appareils\nsanitaires en céramique », « couches bébé », « articles\nchaussants », « détergents » et ce pour la durée de validité\nrestante de l'agrément initial.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 25,
+      "printed_page": 1015
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "site « Analysis and Control Laboratory (ACLAB) »",
+          "start": 101,
+          "end": 149
+        }
+      ],
+      "dates": [],
+      "text": "L'agrément mentionné à l'article premier\nci-dessus est octroyé pour les prestations exercées dans le\nsite « Analysis and Control Laboratory (ACLAB) » sis au\n« Appartement 2ème étage, av Al Massira, Hay Al Masjid Beni-\nEnsar, centre province de Nador ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 25,
+      "printed_page": 1015
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [],
+      "dates": [],
+      "text": "Le numéro d'identification de l'Organisme est :\n« MA0016 ».",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 25,
+      "printed_page": 1015
+    },
+    {
+      "number": "4",
+      "raw_header": "ART. 4. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 hija 1447",
+          "start": 62,
+          "end": 74
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 juin 2026",
+          "start": 76,
+          "end": 87
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 hija 1447",
+          "start": 62,
+          "end": 74
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 juin 2026",
+          "start": 76,
+          "end": 87
+        }
+      ],
+      "text": "Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 18 hija 1447 (4 juin 2026).\nRYAD MEZZOUR.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 25,
+      "printed_page": 1015
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [],
+      "dates": [],
+      "text": "Est prorogé pour une durée d'une\n(1) année le délai de liquidation de la Banque nationale pour\nle développement économique prévu par la décision du Wali\nde Bank Al-Maghrib n° 139 susvisée.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 26,
+      "printed_page": 1016
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 65,
+          "end": 77
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 79,
+          "end": 90
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 hija 1447",
+          "start": 65,
+          "end": 77
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juin 2026",
+          "start": 79,
+          "end": 90
+        }
+      ],
+      "text": "La présente décision est publiée au Bulletin\nofficiel.\nRabat, le 22 hija 1447 (8 juin 2026).\nABDELLATIF JOUAHRI.\nCONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 26,
+      "printed_page": 1016
+    }
+  ],
+  "total_pdf_pages": 141,
+  "instruments": [
+    {
+      "instrument_type": "DAHIR",
+      "reference": null,
+      "article_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "n_articles": 74,
+      "instrument_id": "instr_1"
+    },
+    {
+      "instrument_type": "DAHIR",
+      "reference": null,
+      "article_indices": [
+        74,
+        75
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_2"
+    },
+    {
+      "instrument_type": "ARRETE_CONJOINT",
+      "reference": null,
+      "article_indices": [
+        76,
+        77
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_3"
+    },
+    {
+      "instrument_type": "ARRETE_CONJOINT",
+      "reference": null,
+      "article_indices": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "n_articles": 8,
+      "instrument_id": "instr_4"
+    },
+    {
+      "instrument_type": "DECRET",
+      "reference": null,
+      "article_indices": [
+        86,
+        87,
+        88,
+        89
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_5"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_6"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_7"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        98,
+        99,
+        100,
+        101
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_8"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        102,
+        103,
+        104,
+        105
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_9"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        106,
+        107,
+        108,
+        109
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_10"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        110,
+        111,
+        112,
+        113
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_11"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        114,
+        115,
+        116,
+        117
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_12"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        118,
+        119,
+        120,
+        121
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_13"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        122,
+        123,
+        124,
+        125
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_14"
+    },
+    {
+      "instrument_type": "ARRETE_CONJOINT",
+      "reference": null,
+      "article_indices": [
+        126,
+        127
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_15"
+    },
+    {
+      "instrument_type": "ARRETE_CONJOINT",
+      "reference": null,
+      "article_indices": [
+        128,
+        129
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_16"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        130,
+        131
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_17"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        132,
+        133,
+        134,
+        135
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_18"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": null,
+      "article_indices": [
+        136,
+        137
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_19"
+    }
+  ],
+  "n_instruments": 19
+}

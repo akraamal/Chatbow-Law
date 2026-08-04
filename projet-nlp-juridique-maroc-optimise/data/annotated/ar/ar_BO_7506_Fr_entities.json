@@ -1,0 +1,366 @@
+{
+  "source": "data\\processed\\ar\\BO_7506_Fr.txt",
+  "lang": "ar",
+  "doc_id": "BO_7506_Fr",
+  "bo_number": null,
+  "date_publication": null,
+  "edition_label": null,
+  "preamble_entities": [
+    {
+      "label": "DATE_HIJRI",
+      "text": "20 novembre 2015",
+      "start_char": 1638,
+      "end_char": 1654
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 octobre 1977",
+      "start_char": 19457,
+      "end_char": 19471
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "22 novembre\n1921",
+      "start_char": 52800,
+      "end_char": 52816
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 décembre 2025",
+      "start_char": 53728,
+      "end_char": 53743
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 69232,
+      "end_char": 69248
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 69776,
+      "end_char": 69792
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 70541,
+      "end_char": 70557
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 71940,
+      "end_char": 71956
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 72642,
+      "end_char": 72658
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 73185,
+      "end_char": 73201
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 74656,
+      "end_char": 74672
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 76933,
+      "end_char": 76949
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 78356,
+      "end_char": 78372
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 79477,
+      "end_char": 79493
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 80506,
+      "end_char": 80522
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 80887,
+      "end_char": 80903
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 82884,
+      "end_char": 82900
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 84514,
+      "end_char": 84530
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 chaabane 1340",
+      "start_char": 85715,
+      "end_char": 85731
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "31 décembre 2025",
+      "start_char": 86620,
+      "end_char": 86636
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "31 décembre 2025",
+      "start_char": 87190,
+      "end_char": 87206
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 décembre 2024",
+      "start_char": 88084,
+      "end_char": 88100
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 novembre 2023",
+      "start_char": 88148,
+      "end_char": 88164
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "7 décembre 1944",
+      "start_char": 88307,
+      "end_char": 88322
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 décembre 2024",
+      "start_char": 121257,
+      "end_char": 121273
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "20 novembre 2015",
+      "start_char": 121728,
+      "end_char": 121744
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "20 novembre 2015",
+      "start_char": 121985,
+      "end_char": 122001
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1397",
+      "start_char": 134728,
+      "end_char": 134742
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "22 septembre 1977",
+      "start_char": 134744,
+      "end_char": 134761
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1397",
+      "start_char": 134841,
+      "end_char": 134855
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "22 septembre 1977",
+      "start_char": 134857,
+      "end_char": 134874
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 ramadan 1447",
+      "start_char": 137618,
+      "end_char": 137632
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start_char": 137706,
+      "end_char": 137722
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start_char": 138071,
+      "end_char": 138087
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "30 septembre 2025",
+      "start_char": 138705,
+      "end_char": 138722
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start_char": 138824,
+      "end_char": 138840
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 novembre 2023",
+      "start_char": 139244,
+      "end_char": 139259
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 octobre 2021",
+      "start_char": 139421,
+      "end_char": 139435
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 ramadan 1447",
+      "start_char": 139672,
+      "end_char": 139686
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 ramadan 1447",
+      "start_char": 139967,
+      "end_char": 139981
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start_char": 140055,
+      "end_char": 140071
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start_char": 140420,
+      "end_char": 140436
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "30 septembre 2025",
+      "start_char": 141054,
+      "end_char": 141071
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start_char": 141173,
+      "end_char": 141189
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 octobre 2022",
+      "start_char": 141682,
+      "end_char": 141696
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 ramadan 1447",
+      "start_char": 141937,
+      "end_char": 141951
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "16 décembre 2025",
+      "start_char": 143051,
+      "end_char": 143067
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 chaabane 1436",
+      "start_char": 146255,
+      "end_char": 146270
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "16 chaabane 1432",
+      "start_char": 146708,
+      "end_char": 146724
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "31 décembre 2013",
+      "start_char": 146994,
+      "end_char": 147010
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 septembre 2016",
+      "start_char": 147252,
+      "end_char": 147268
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 moharrem 1444",
+      "start_char": 148171,
+      "end_char": 148186
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "16 chaabane 1432",
+      "start_char": 149636,
+      "end_char": 149652
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 moharrem 1444",
+      "start_char": 151987,
+      "end_char": 152002
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 chaabane 1446",
+      "start_char": 157140,
+      "end_char": 157155
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "5 février 2025",
+      "start_char": 157157,
+      "end_char": 157171
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "23 novembre 1973",
+      "start_char": 160922,
+      "end_char": 160938
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 décembre 2008",
+      "start_char": 161013,
+      "end_char": 161029
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2021",
+      "start_char": 161178,
+      "end_char": 161193
+    }
+  ],
+  "n_articles": 0,
+  "articles": []
+}

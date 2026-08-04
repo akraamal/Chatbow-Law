@@ -1,0 +1,4574 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      223.7284,
+      229.5871999999999,
+      427.8228,
+      388.01629999999994
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "TARIFS D’ABONNEMENT",
+        "",
+        ""
+      ],
+      [
+        "AU MAROC\n{\n6 mois 1 an",
+        "",
+        "A L’ETRANGER"
+      ],
+      [
+        "250 DH\n150 DH\n150 DH\n250 DH\n250 DH",
+        "400 DH\n200 DH\n200 DH\n300 DH\n300 DH",
+        "A destination de l’étranger,\npar voies ordinaire, aérienne\nou de la poste rapide interna-\ntionale, les tarifs prévus ci-\ncontre sont majorés des frais\nd’envoi, tels qu’ils sont fixés\npar la réglementation postale\nen vigueur."
+      ]
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      24.344500000000004,
+      606.5979,
+      284.6318999999999,
+      775.794
+    ],
+    "n_rows": 7,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Présentation",
+        "Prix\nen dh/kg",
+        "Conditionnement"
+      ],
+      [
+        "Pains de 2 kilos.",
+        "5,1484",
+        "Habillés sous papier en sacs en caisses\ncarton emballages perdus"
+      ],
+      [
+        "Coupés.",
+        "5,1484",
+        "En boites carton d’un kilo mises en\nfardeau de 5 kilos sous papier"
+      ],
+      [
+        "Granulé en poudre\ntitrant au moins\n99, 5°",
+        "4,2335",
+        "En sacs perdus de 50 Kg."
+      ],
+      [
+        "Granulé en poudre.",
+        "4,2910",
+        "Présenté en sachet de 5 kg."
+      ],
+      [
+        "Granulé en poudre.",
+        "4,2951",
+        "Présenté en sachet de 2 kg."
+      ],
+      [
+        "Granulé en poudre.",
+        "4,3363",
+        "Présenté en sachet de 1 kg."
+      ]
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      310.89369999999985,
+      86.71339999999998,
+      571.6810999999999,
+      491.7134
+    ],
+    "n_rows": 25,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Camel Lights",
+        "36,00"
+      ],
+      [
+        "Camel Filters Limited Edition",
+        "36,00"
+      ],
+      [
+        "Camel Lights Limited Edition",
+        "36,00"
+      ],
+      [
+        "Marlboro Red Beyond",
+        "41,50"
+      ],
+      [
+        "Marlboro Beyond Blue",
+        "41,50"
+      ],
+      [
+        "Marlboro Sol Shuffle KS",
+        "41,50"
+      ],
+      [
+        "Marlboro Red Ks Soft Pack",
+        "38,00"
+      ],
+      [
+        "Marlboro Touch Blue",
+        "34,00"
+      ],
+      [
+        "Marlboro Touch",
+        "34,00"
+      ],
+      [
+        "Marlboro Red KS",
+        "39,50"
+      ],
+      [
+        "Marlboro Gold KS",
+        "39,50"
+      ],
+      [
+        "Chesterfield I",
+        "29,00"
+      ],
+      [
+        "Chesterfield Rich",
+        "29,00"
+      ],
+      [
+        "Chesterfield Blue",
+        "29,00"
+      ],
+      [
+        "Chesterfield Intense",
+        "29,00"
+      ],
+      [
+        "Chesterfield I (25.cig)",
+        "36,00"
+      ],
+      [
+        "Chesterfield I(40.cig)",
+        "58,00"
+      ],
+      [
+        "Chesterfield I (100.cig)",
+        "145,00"
+      ],
+      [
+        "Chesterfield Intense Soft Pack",
+        "28,00"
+      ],
+      [
+        "L&M Lights",
+        "30,00"
+      ],
+      [
+        "L&M FF",
+        "30,00"
+      ],
+      [
+        "L&M Intense",
+        "30,00"
+      ],
+      [
+        "L&M Red Soft Pack",
+        "28,00"
+      ],
+      [
+        "Signature Red",
+        "28,00"
+      ],
+      [
+        "Signature Light",
+        "28,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      24.5945,
+      134.18380000000002,
+      285.38190000000003,
+      548.2543000000001
+    ],
+    "n_rows": 24,
+    "n_cols": 2,
+    "rows": [
+      [
+        "LIBELLE",
+        "PRIX\nPUBLIC\n(EN DHS)"
+      ],
+      [
+        "Cigarettes brunes",
+        ""
+      ],
+      [
+        "Casa",
+        "31,00"
+      ],
+      [
+        "Cigarettes blondes",
+        ""
+      ],
+      [
+        "Majestic",
+        "35,00"
+      ],
+      [
+        "Cesar",
+        "32,00"
+      ],
+      [
+        "Rif",
+        "33,00"
+      ],
+      [
+        "Glamour Menthol",
+        "41,00"
+      ],
+      [
+        "Glamour Pinks",
+        "41,00"
+      ],
+      [
+        "Fortuna Blue",
+        "29,00"
+      ],
+      [
+        "Fortuna Red",
+        "29,00"
+      ],
+      [
+        "Fortuna Edicion Limitada",
+        "29,00"
+      ],
+      [
+        "Fortuna Intense",
+        "29,00"
+      ],
+      [
+        "Fortuna Mix",
+        "29,00"
+      ],
+      [
+        "Marquise FF",
+        "29,00"
+      ],
+      [
+        "Marquise Gold Medium",
+        "29,00"
+      ],
+      [
+        "Marquise Lights",
+        "29,00"
+      ],
+      [
+        "Marquise Classic",
+        "30,00"
+      ],
+      [
+        "Marquise Intense",
+        "29,00"
+      ],
+      [
+        "Marvel",
+        "31,00"
+      ],
+      [
+        "LD Classic",
+        "28,00"
+      ],
+      [
+        "LD Lights",
+        "28,00"
+      ],
+      [
+        "Camel Silver",
+        "36,00"
+      ],
+      [
+        "Camel Filters",
+        "36,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      24.591000000000005,
+      142.33359999999993,
+      570.6845,
+      636.7135
+    ],
+    "n_rows": 7,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Extrait de la convention de création et d’exploitation de la ferme aquacole dénommée «Braika Aquaculture Tiniguir»\nn° 2025/DOE/550 signée le 6 joumada I 1447 (29 octobre 2025) entre la société «BRAIKA AQUACULTURE Sarl AU»\net la secrétaire d’Etat auprès du ministre de l’agriculture, de la pêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime\n(art.9 du décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008))",
+        ""
+      ],
+      [
+        "Nom du bénéficiaire :",
+        "Société « BRAIKA AQUACULTURE Sarl AU »\nRue Taouarchit n° 1/1267 - Dakhla."
+      ],
+      [
+        "Durée de la Convention :",
+        "Dix (10) ans, renouvelable"
+      ],
+      [
+        "Lieu d’implantation de la ferme aquacole :\nSuperficie :\nLimites externes d’implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :",
+        "Baie de Dakhla, province d’Oued Eddahab.\nCinq (5) hectares.\nBornes Latitude Longitude\nB1 23°42'50.703'' N 15°48'13.602'' W\nB2 23°42'45.582'' N 15°48'14.594'' W\nB3 23°42'47.365'' N 15°48'25.444'' W\nB4 23°42'52.486'' N 15°48'24.452'' W\nLargeur de dix (10) mètres autour des limites extérieures d’implantation de la ferme\naquacole.\nDe jour et de nuit, au moyen de signaux conformes à la réglementation relative à\nla sécurité de la navigation."
+      ],
+      [
+        "Activité de la ferme aquacole :\nTechnique utilisée :\nMoyens d’exploitation :",
+        "Élevage des espèces halieutiques suivantes :\n– huître creuse «Crassostrea gigas» ;\n– moule des espèces «Mytilus galloprovincialis» et «Perna perna».\n– Technique des poches sur tables pour l’huître creuse ;\n– Technique des bouchots pour les moules.\n– Navires de servitude."
+      ],
+      [
+        "Contrôle et suivi technique et scientifique :\nSurveillance environnementale :\nGestion des déchets :",
+        "L’Administration de la pêche maritime et l’Institut national de recherche halieutique\n(INRH).\nSelon le programme prévu dans l’étude d’impact sur l’environnement.\nEnfouissement et stockage dans des lieux autorisés à cet effet, conformément à la\nloi n°28-00 relative à la gestion des déchets et à leur élimination."
+      ],
+      [
+        "Montant de la redevance due :",
+        "- droit fixe : Cinquante (50) dirhams par an.\n- droit variable : 1/1000 de la valeur des espèces vendues."
+      ]
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      248.5087,
+      302.0969,
+      553.2087,
+      362.7081
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Bornes",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "B1",
+        "23°42'50.703'' N",
+        "15°48'13.602'' W"
+      ],
+      [
+        "B2",
+        "23°42'45.582'' N",
+        "15°48'14.594'' W"
+      ],
+      [
+        "B3",
+        "23°42'47.365'' N",
+        "15°48'25.444'' W"
+      ],
+      [
+        "B4",
+        "23°42'52.486'' N",
+        "15°48'24.452'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 26,
+    "bbox": [
+      660.4373300999999,
+      184.3100380740001,
+      1125.3933300999997,
+      505.29065017100004
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Conformément aux articles 4 et 7 de la loi organique n°128-12, relative à son organisation et à\nson fonctionnement, le Conseil Économique, Social et Environnemental (CESE) a été saisi le 4\njuin 2024 par la chambre des conseillers aux fins d’élaborer une étude sur « les défis des micro,\ntrès petites et petites entreprises au Maroc : la croissance, la modernisation et le\ndéveloppement ».\nDans ce cadre, le bureau du CESE a confié la réalisation de cette étude à la commission"
+      ],
+      [
+        "C o n fo r m é m e n t a u x a r t ic le s 4 e t 7 d e l a l oi o rg a n iq u e n °1 2 8 - 1 2 , r e l a t iv e à s o 1n organisation et à\npe r m a n e n te c h a r g é e d e s a f f a i r e s é c o n o m i q u e s e t d e s p r o je t s s t r a t é g iq u e s .\nson fonctionnement, le Conseil Économique, Social et Environnemental (CESE) a été saisi le 4\njLuoirns 2d0e2 s4a p 1a6r 6laèm ceh saemssbiroen d oersd cinoanisreei,l lteernsu aeu xle f i3n0s dja’névlaiebro 2re0r2 u5n, el' Aéstsuedme bsulére « g léens édréaflies ddeus C mEiScEr oa,\ntardèosp tpée ctiettetse éettu dpee àti tl'eusn aennimtreitpér idsee ss eas um eMmabrroecs . : la croissance, la modernisation et le\ndéveloppement ».\nÉlaborée sur la base d’une approche participative, l’étude est le résultat d’un large débat entre\nDleasn sd icffeé rceandtrees, clea tbéugroeraieus dquu iC EcSoEm ap ocsoennfti é lela Croénalsiesailt, iodne sd ea ucdeitttieo nést uodreg aàn ilsaé ecso mamveics siloens\npperirnmciapnaelenst ep cahrtaiergsé per deensa natfefasi rceosn écceornnoémesi2q eute sd eet ldae vsi spirtoe jedtes stetrrartaéing iqauuepsr è 1 s. du Conseil de la\nrégion de Tanger-Tétouan-Al Hoceima. Elle s’est également basée sur la consultation lancée sur\nL o rs d e sa 16 6 è m e se s s i o n o r d i n a i re , t e n u e le 3 0 ja n v ie r 2 0 2 5 , l 'A s s e m b l é e g é n é r a le d u C E S E 3a\nla p la te f o r m e d i g it a le d e la p a r t i ci p a t i o n ci t o ye n n e « o u c h a r ik o . m a » et s u r l e s r é s e a u x s o ci a u x ."
+      ],
+      [
+        "adopté cette étude à l'unanimité de ses membres.\nÉlaborée sur la base d’une approche participative, l’étude est le résultat d’un large débat entre\nles différentes catégories qui composent le Conseil, des auditions organisées avec les\nprincipales parties prenantes concernées2 et de la visite de terrain auprès du Conseil de la\nrégion de Tanger-Tétouan-Al Hoceima. Elle s’est également basée sur la consultation lancée sur\nla plateforme digitale de la participation citoyenne « ouchariko.ma » et sur les réseaux sociaux3."
+      ]
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      65.16178689999994,
+      183.51252538266672,
+      530.1180369000002,
+      505.29065017100004
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Conformément aux articles 4 et 7 de la loi organique n°128-12, relative à son organisation et à\nson fonctionnement, le Conseil Économique, Social et Environnemental (CESE) a été saisi le 4\neessj uddiéénff 2iiss0 dd2ee4ss pmmariicc lrraoo c,, httrraèèmss bppreeettii ttdeeesss eectto ppneestteiittileelessr ees nnatturrxee ppfirrniisssee dss’ éaauula bMMoaarrreoor ccu ::n lleaa éccrrtoouiidssessaa snnuccree «,, lllaae smm dooéddfieesrr dnneiisssaa mttiiooicnnr oee,tt\ntrès petites et petites entreprises au Maroc : la croissance, la modernisation et le\nddéévveellooppppeemmeenntt\ndéveloppement ».\nDans ce cadre, le bureau du CESE a confié la réalisation de cette étude à la commission"
+      ],
+      [
+        "C o n fo r m é m e n t a u x a r t ic le s 4 e t 7 d e l a l oi o rg a n iq u e n °1 2 8 - 1 2 , r e l a t iv e à s o 1n organisation et à\npe r m a n e n te c h a r g é e d e s a f f a i r e s é c o n o m i q u e s e t d e s p r o je t s s t r a t é g iq u e s .\nson fonctionnement, le Conseil Économique, Social et Environnemental (CESE) a été saisi le 4\njLuoirns 2d0e2 s4a p 1a6r 6laèm ceh saemssbiroen d oersd cinoanisreei,l lteernsu aeu xle f i3n0s dja’névlaiebro 2re0r2 u5n, el' Aéstsuedme bsulére « g léens édréaflies ddeus C mEiScEr oa,\ntardèosp tpée ctiettetse éettu dpee àti tl'eusn aennimtreitpér idsee ss eas um eMmabrroecs . : la croissance, la modernisation et le\ndéveloppement ».\nÉlaborée sur la base d’une approche participative, l’étude est le résultat d’un large débat entre\nDleasn sd icffeé rceandtrees, clea tbéugroeraieus dquu iC EcSoEm ap ocsoennfti é lela Croénalsiesailt, iodne sd ea ucdeitttieo nést uodreg aàn ilsaé ecso mamveics siloens\npperirnmciapnaelenst ep cahrtaiergsé per deensa natfefasi rceosn écceornnoémesi2q eute sd eet ldae vsi spirtoe jedtes stetrrartaéing iqauuepsr è 1 s. du Conseil de la\nrégion de Tanger-Tétouan-Al Hoceima. Elle s’est également basée sur la consultation lancée sur\nL o rs d e sa 16 6 è m e se s s i o n o r d i n a i re , t e n u e le 3 0 ja n v ie r 2 0 2 5 , l 'A s s e m b l é e g é n é r a le d u C E S E 3a\nla p la te f o r m e d i g it a le d e la p a r t i ci p a t i o n ci t o ye n n e « o u c h a r ik o . m a » et s u r l e s r é s e a u x s o ci a u x ."
+      ],
+      [
+        "adopté cette étude à l'unanimité de ses membres.\nÉlaborée sur la base d’une approche participative, l’étude est le résultat d’un large débat entre\nles différentes catégories qui composent le Conseil, des auditions organisées avec les\nprincipales parties prenantes concernées2 et d e la visite de terrain auprès du Conseil de la\nrégion de Tanger-Tétouan-Al Hoceima. Elle s’est également basée sur la consultation lancée sur\nla plateforme digitale de la participation citoyenne « ouchariko.ma » et sur les réseaux sociaux3."
+      ]
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      70.92685714285714,
+      304.1610833333333,
+      548.4166666666666,
+      532.481
+    ],
+    "n_rows": 9,
+    "n_cols": 7,
+    "rows": [
+      [
+        "",
+        "",
+        "FFaaiibblleess ccaappaacciittééss iinntteerrnneess ddee",
+        "",
+        "",
+        "FFoorrtteess ccaappaacciittééss iinntteerrnneess ddee",
+        ""
+      ],
+      [
+        "",
+        "",
+        "ll’’eennttrreepprriissee eett ddee ll’’eennttrreepprreenneeuurr",
+        "",
+        "",
+        "ll’’eennttrreepprriissee eett ddee ll’’eennttrreepprreenneeuurr",
+        ""
+      ],
+      [
+        "EEnnvviirroonnnneemmeenntt\neexxtteerrnnee nnoonn\nffaavvoorraabbllee\n((OObbssttaacclleess))",
+        "Problèmes de survie et faible croissance\nentrainant :\n- Chômage élevé, emplois peu qualifiés et\ninformels, pauvreté et vulnérabilité.\n- Migration clandestine.",
+        "",
+        "",
+        "",
+        "- Sous exploitation du potentiel de",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "croissance des entrepreneurs potentiels",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "et établis.",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "- Fuite des compétences vers des",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "opportunités entrepreneuriales à",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "l’étranger.",
+        ""
+      ],
+      [
+        "EEnnvviirroonnnneemmeenntt\neexxtteerrnnee\nffaavvoorraabbllee\n((OOppppoorrttuunniittééss))",
+        "- Les grandes entreprises, notamment les\ninvestisseurs étrangers, profitent des\nopportunités disponibles, tandis que les\nmicro/TPE/PE locales, aux capacités limitées,\npeinent à en tirer pleinement parti. Cette\nsituation accentue la dualité économique, avec\ndes entreprises locales déconnectées des\nchaînes de valeur à haute valeur ajoutée et\ninsuffisamment intégrées aux grands donneurs\nd’ordre.",
+        "",
+        "",
+        "SSiittuuaattiioonn iiddééaallee rreecchheerrcchhééee :: les\nmicro/TPE/PE disposent des capacités\ninternes et de l’environnement favorable\nnécessaires pour exploiter pleinement les\nopportunités et se développer de manière\ndurable.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      76.224,
+      342.02099999999996,
+      155.784,
+      404.181
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnvviirroonnnneemmeenntt"
+      ],
+      [
+        "eexxtteerrnnee nnoonn"
+      ],
+      [
+        "ffaavvoorraabbllee"
+      ],
+      [
+        "((OObbssttaacclleess))"
+      ]
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      166.58,
+      342.02099999999996,
+      356.11000000000007,
+      404.181
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Problèmes de survie et faible croissance"
+      ],
+      [
+        "entrainant :"
+      ],
+      [
+        "- Chômage élevé, emplois peu qualifiés et"
+      ],
+      [
+        "informels, pauvreté et vulnérabilité."
+      ],
+      [
+        "- Migration clandestine."
+      ]
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      366.9099999999999,
+      428.02099999999996,
+      543.0897333333335,
+      514.421
+    ],
+    "n_rows": 7,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SSiittuuaattiioonn iiddééaallee rreecchheerrcchhééee :: les"
+      ],
+      [
+        "micro/TPE/PE disposent des capacités"
+      ],
+      [
+        "internes et de l’environnement favorable"
+      ],
+      [
+        "nécessaires pour exploiter pleinement les"
+      ],
+      [
+        "opportunités et se développer de manière"
+      ],
+      [
+        "durable."
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 33,
+    "bbox": [
+      76.224,
+      440.061,
+      155.784,
+      501.781
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnvviirroonnnneemmeenntt"
+      ],
+      [
+        "eexxtteerrnnee"
+      ],
+      [
+        "ffaavvoorraabbllee"
+      ],
+      [
+        "((OOppppoorrttuunniittééss))"
+      ]
+    ]
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      69.62400000000001,
+      406.073,
+      525.934,
+      469.455
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "31 % des répondants estiment que la concurrence des grandes entreprises constitue le"
+      ],
+      [
+        "principal frein au développement des TPE et PE. Suivent ensuite le manque de formation et de"
+      ],
+      [
+        "compétences adaptées (28,7 %), la difficulté d’accès aux marchés (23,3 %), la complexité des"
+      ],
+      [
+        "démarches administratives (22,2 %) et le manque d’accès au financement (22 %)."
+      ]
+    ]
+  },
+  {
+    "page_number": 52,
+    "bbox": [
+      69.384,
+      159.98699999999997,
+      525.934,
+      189.02699999999993
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Pour les micro-entrepreneurs et unités de subsistance (petits artisans, commerçants de"
+      ],
+      [
+        "proximité, etc.) :"
+      ]
+    ]
+  },
+  {
+    "page_number": 53,
+    "bbox": [
+      69.384,
+      523.444,
+      525.9340000000001,
+      552.4839999999999
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Pour les microentreprises et unités de subsistance (petits artisans, commerçants de"
+      ],
+      [
+        "proximité, etc.):"
+      ]
+    ]
+  },
+  {
+    "page_number": 53,
+    "bbox": [
+      87.384,
+      560.524,
+      525.9340000000001,
+      623.914
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Adapter le plafond de la subvention foncière prévue dans le cadre du chèque foncier de"
+      ],
+      [
+        "l’ANAPEC au profit des micro-unités, aux spécificités de chaque commune, en"
+      ],
+      [
+        "s’appuyant sur un zonage géographique granulaire et prévoir une mise à jour régulière"
+      ],
+      [
+        "en fonction de l’évolution du loyer."
+      ]
+    ]
+  },
+  {
+    "page_number": 53,
+    "bbox": [
+      87.384,
+      654.394,
+      525.9340000000001,
+      717.754
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Élargir l’offre de locaux professionnels adaptés aux besoins des TPE/PE classiques, en"
+      ],
+      [
+        "proposant des superficies appropriées et des coûts accessibles, au sein des zones"
+      ],
+      [
+        "industrielles et des zones d’activités économiques, en privilégiant particulièrement le"
+      ],
+      [
+        "mode locatif."
+      ]
+    ]
+  },
+  {
+    "page_number": 53,
+    "bbox": [
+      69.384,
+      725.67,
+      525.9340000000001,
+      771.732
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 54,
+    "bbox": [
+      87.384,
+      112.51400000000001,
+      525.9339999999999,
+      262.904
+    ],
+    "n_rows": 9,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Développer des hubs dédiés aux startups au sein des zones industrielles ou des"
+      ],
+      [
+        "technoparks, offrant des espaces de coworking et des locaux modulables équipés à"
+      ],
+      [
+        "coûts réduits, financés par des subventions publiques ou via des partenariats public-"
+      ],
+      [
+        "privé."
+      ],
+      [
+        "✓ Permettre à ces hubs d’accueillir également des start-uppeurs étrangers et des"
+      ],
+      [
+        "Marocains du monde, sous réserve d’une adaptation du cadre réglementaire, afin de"
+      ],
+      [
+        "favoriser les échanges et collaborations avec des entreprises innovantes internationales"
+      ],
+      [
+        "et ainsi renforcer les externalités positives en termes d’échanges d’expérience et"
+      ],
+      [
+        "d’opportunités de coopération."
+      ]
+    ]
+  },
+  {
+    "page_number": 54,
+    "bbox": [
+      69.984,
+      297.22399999999993,
+      525.9339999999999,
+      328.904
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "33..11.. MMeettttrree eenn ppllaaccee uunn ppllaann nnaattiioonnaall iinnttééggrréé ddééddiiéé àà ll’’aaccccoommppaaggnneemmeenntt nnoonn--ffiinnaanncciieerr ddeess"
+      ],
+      [
+        "mmiiccrroo//TTPPEE//PPEE àà llaa ccrrééaattiioonn eett ppoosstt ccrrééaattiioonn"
+      ]
+    ]
+  },
+  {
+    "page_number": 54,
+    "bbox": [
+      87.384,
+      359.384,
+      525.9339999999999,
+      699.874
+    ],
+    "n_rows": 19,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Intégrer ce plan dans le Small Business Act pour structurer l’accompagnement à"
+      ],
+      [
+        "l’échelle nationale."
+      ],
+      [
+        "✓ Étendre la couverture des programmes d’accompagnement existants afin de les rendre"
+      ],
+      [
+        "accessibles à toutes les micro/TPE/PE à l’échelle nationale, tout en diversifiant les"
+      ],
+      [
+        "services proposés et en adaptant les approches en fonction de la taille des entreprises"
+      ],
+      [
+        "et de leur stade de développement dans leur cycle de vie."
+      ],
+      [
+        "✓ Prévoir un accompagnement spécifique pour les chefs d’entreprises ayant connu des"
+      ],
+      [
+        "échecs, incluant conseil, coaching, orientation et accès aux financements nécessaires"
+      ],
+      [
+        "pour relancer leurs projets ou changer d’activité."
+      ],
+      [
+        "✓ Renforcer les ressources humaines et financières des acteurs d’accompagnement"
+      ],
+      [
+        "existants pour réduire le ratio demandeurs/conseillers et se rapprocher ainsi des"
+      ],
+      [
+        "moyennes observées dans des pays émergents."
+      ],
+      [
+        "✓ Structurer et renforcer les qualifications des acteurs d’accompagnement en instaurant"
+      ],
+      [
+        "un système de certification ou de labellisation basée sur la qualité de leurs services et"
+      ],
+      [
+        "leur impact réel sur les entreprises accompagnées."
+      ],
+      [
+        "✓ Assurer l’accessibilité de ces programmes dans toutes les régions, notamment via les"
+      ],
+      [
+        "CRI, en mettant en place des guichets uniques offrant un accompagnement technique"
+      ],
+      [
+        "à la création pour les porteurs de projets et en post-création pour les entreprises"
+      ],
+      [
+        "existantes, avec les adaptations réglementaires nécessaires."
+      ]
+    ]
+  },
+  {
+    "page_number": 54,
+    "bbox": [
+      69.984,
+      707.794,
+      525.9339999999999,
+      771.294
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 55,
+    "bbox": [
+      69.384,
+      114.63999999999999,
+      525.9325555555555,
+      143.79999999999995
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Pour les microentreprises et unités de subsistance (petits artisans, commerçants de"
+      ],
+      [
+        "proximité, etc.) :"
+      ]
+    ]
+  },
+  {
+    "page_number": 55,
+    "bbox": [
+      75.024,
+      151.83999999999992,
+      525.9325555555555,
+      199.36
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Poursuivre les efforts d’appui à la restructuration et à la modernisation des"
+      ],
+      [
+        "microentreprises et unités de subsistance, en les renforçant par des mesures"
+      ],
+      [
+        "additionnelles, notamment :"
+      ]
+    ]
+  },
+  {
+    "page_number": 55,
+    "bbox": [
+      111.98,
+      207.27999999999997,
+      525.9325555555555,
+      439.40999999999997
+    ],
+    "n_rows": 13,
+    "n_cols": 1,
+    "rows": [
+      [
+        "• accélérer la mise à niveau, la modernisation et la digitalisation des commerces"
+      ],
+      [
+        "de proximité, afin de favoriser leur développement et leur compétitivité face aux"
+      ],
+      [
+        "chaînes de commercialisation modernes."
+      ],
+      [
+        "• sensibiliser les commerçants et artisans aux avantages des Centres Agréés de"
+      ],
+      [
+        "Gestion et de Comptabilité (CECOGEC) au niveau des chambres de commerce,"
+      ],
+      [
+        "d’industrie et de services, les accompagner dans l’établissement d’une comptabilité"
+      ],
+      [
+        "transparente, tout en renforçant progressivement les équipes et les ressources de ces"
+      ],
+      [
+        "centres et en diversifiant leurs services au rythme de l’augmentation de la demande."
+      ],
+      [
+        "• mettre en place les incitations nécessaires pour promouvoir la création de"
+      ],
+      [
+        "franchises nationales et l’adoption des stratégies de branding."
+      ],
+      [
+        "• moderniser les métiers de l’artisanat et renforcer la qualité et la productivité des"
+      ],
+      [
+        "activités artisanales, en élaborant un programme d’organisation des métiers et des"
+      ],
+      [
+        "référentiels ou cahiers des charges encadrant l’exercice de chaque profession."
+      ]
+    ]
+  },
+  {
+    "page_number": 55,
+    "bbox": [
+      87.384,
+      469.89,
+      525.9325555555555,
+      659.88
+    ],
+    "n_rows": 11,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Renforcer le réseau de prestataires professionnels d’accompagnement en développant"
+      ],
+      [
+        "des partenariats avec des associations d’entrepreneurs expérimentés, afin de proposer"
+      ],
+      [
+        "des services de formation, de coaching et de mentorat adaptés."
+      ],
+      [
+        "✓ Élargir l’adoption des plateformes d’accès en ligne aux catalogues des services"
+      ],
+      [
+        "d’accompagnement à l’ensemble des CRI, en s’inspirant d’initiatives réussies telles que"
+      ],
+      [
+        "« IZDIHAR » (CRI de Béni Mellal-Khénifra) et « MANAR AL MOUSTATMIR » (CRI de"
+      ],
+      [
+        "Tanger-Tétouan-Al Hoceima)."
+      ],
+      [
+        "✓ Lancer un programme Scale-Up pour accompagner les entreprises à fort potentiel de"
+      ],
+      [
+        "croissance vers des tailles moyennes ou intermédiaires (ME ou ETI), afin de constituer"
+      ],
+      [
+        "un vivier de « gazelles » dynamiques susceptibles de stimuler et d’entraîner le reste du"
+      ],
+      [
+        "tissu entrepreneurial des TPE/PE classiques."
+      ]
+    ]
+  },
+  {
+    "page_number": 55,
+    "bbox": [
+      69.384,
+      667.8,
+      525.9325555555555,
+      778.94
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      69.834,
+      115.96000000000004,
+      525.9338749999997,
+      145.12
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Pour les microentreprises et unités de subsistance (petits artisans, commerçants de"
+      ],
+      [
+        "proximité, etc.) :"
+      ]
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      87.384,
+      151.12,
+      525.9338749999997,
+      245.91999999999996
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Mettre en œuvre et généraliser le système de validation des acquis de l’expérience"
+      ],
+      [
+        "professionnelle (VAEP), conformément aux dispositions de la loi n° 60-17108, en veillant"
+      ],
+      [
+        "à l’adoption du texte réglementaire encadrant cette procédure, et à la reconnaissance,"
+      ],
+      [
+        "par les établissements de formation, des certificats délivrés afin de permettre aux"
+      ],
+      [
+        "artisans et travailleurs indépendants de poursuivre leur parcours de formation. Cela est"
+      ],
+      [
+        "de nature à améliorer la qualité de leur travail et leur productivité en entreprise."
+      ]
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      87.384,
+      272.4699999999999,
+      525.9338749999997,
+      410.95
+    ],
+    "n_rows": 8,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Poursuivre le renforcement des capacités des centres techniques industriels afin"
+      ],
+      [
+        "d’accompagner les petites entreprises dans la maîtrise des technologies et des"
+      ],
+      [
+        "processus d’innovation, en s’inspirant des expériences internationales réussies."
+      ],
+      [
+        "✓ Faciliter le transfert technologique entre universités et entreprises en établissant un"
+      ],
+      [
+        "cadre réglementaire et opérationnel favorable, offrant davantage de flexibilité ainsi"
+      ],
+      [
+        "qu’une autonomie accrue en matière de budget et de gestion."
+      ],
+      [
+        "✓ Étudier l’opportunité d’étendre la couverture géographique de l’usine modèle INMAA"
+      ],
+      [
+        "et de diversifier ses prestations en fonction des besoins identifiés."
+      ]
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      87.384,
+      452.12999999999994,
+      525.9338749999997,
+      563.81
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Encourager la mise en place de centrales d’achats pour les commerçants, artisans et"
+      ],
+      [
+        "micro-unités, afin de réduire leurs coûts de production, tout en renforçant les actions"
+      ],
+      [
+        "visant à limiter l’approvisionnement informel."
+      ],
+      [
+        "✓ Réduire davantage les coûts d’installation et d’utilisation des solutions de paiement"
+      ],
+      [
+        "électronique, notamment via les terminaux de paiement (TPE) et le paiement mobile,"
+      ],
+      [
+        "pour les commerçants de proximité."
+      ]
+    ]
+  },
+  {
+    "page_number": 56,
+    "bbox": [
+      87.384,
+      648.8399999999999,
+      525.9338749999997,
+      735.8399999999999
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Encourager l’accès à des marchés plus larges en favorisant la croissance conjointe via"
+      ],
+      [
+        "des alliances et mises en réseau horizontales (entre concurrents) ou verticales (entre"
+      ],
+      [
+        "unités complémentaires). Ces dispositifs permettent aux entreprises de négocier et"
+      ],
+      [
+        "d’agir collectivement à une plus grande échelle, tout en préservant leur autonomie"
+      ],
+      [
+        "juridique, en adéquation avec la culture des entreprises familiales."
+      ]
+    ]
+  },
+  {
+    "page_number": 57,
+    "bbox": [
+      87.36959999999999,
+      87.09499999999991,
+      525.9339999999997,
+      277.10900000000004
+    ],
+    "n_rows": 11,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Mettre en œuvre des programmes de développement fournisseurs (Suppliers"
+      ],
+      [
+        "Development Programs) en s’inspirant des expériences internationales, afin"
+      ],
+      [
+        "d’accompagner la mise à niveau des TPE/PE et de renforcer leurs capacités"
+      ],
+      [
+        "organisationnelles, technologiques et financières. Ces programmes visent à faciliter leur"
+      ],
+      [
+        "intégration dans les chaînes de valeur des grandes entreprises, à améliorer leur"
+      ],
+      [
+        "compétitivité et à préparer leur ouverture vers les marchés d’exportation109."
+      ],
+      [
+        "✓ Généraliser, à l’ensemble des CRI, l’usage de bases de données en ligne dédiées au"
+      ],
+      [
+        "réseautage et au business match-making (« Client – Produit – Fournisseur »)110."
+      ],
+      [
+        "✓ Encourager la duplication à plus grande échelle territoriale des expériences réussies de"
+      ],
+      [
+        "certaines associations de facilitation dans la mise en réseau entre grandes entreprises"
+      ],
+      [
+        "et startups, à l’instar du modèle « Open Innovation »111."
+      ]
+    ]
+  },
+  {
+    "page_number": 57,
+    "bbox": [
+      87.36959999999999,
+      285.029,
+      525.9339999999997,
+      332.549
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Mettre en place un cadre incitatif incluant des avantages fiscaux ou des subventions"
+      ],
+      [
+        "pour les grandes entreprises qui collaborent avec des TPE, PE et auto-entrepreneurs"
+      ],
+      [
+        "locaux."
+      ]
+    ]
+  },
+  {
+    "page_number": 57,
+    "bbox": [
+      87.36959999999999,
+      368.309,
+      525.9339999999997,
+      431.68899999999996
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Développer la formation en alternance et élargir le modèle des instituts de formation à"
+      ],
+      [
+        "gestion déléguée, en renforçant l’implication du secteur privé dans la conception et la"
+      ],
+      [
+        "gestion des programmes de formation spécialisés, en particulier les métiers demandant"
+      ],
+      [
+        "une expertise technique spécifique."
+      ]
+    ]
+  },
+  {
+    "page_number": 57,
+    "bbox": [
+      87.36959999999999,
+      489.769,
+      525.9339999999997,
+      616.639
+    ],
+    "n_rows": 7,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Accélérer la simplification et la codification des procédures administratives pour les"
+      ],
+      [
+        "entreprises, tout en garantissant l’opposabilité des procédures publiées afin d’assurer"
+      ],
+      [
+        "leur application uniforme et transparente."
+      ],
+      [
+        "✓ Accélérer la mise en œuvre de l’interopérabilité entre administrations pour limiter les"
+      ],
+      [
+        "démarches redondantes et réduire les délais."
+      ],
+      [
+        "✓ Remplacer les autorisations et agréments préalables non justifiés par un intérêt public"
+      ],
+      [
+        "clairement défini par des normes ou cahiers des charges à respecter."
+      ]
+    ]
+  },
+  {
+    "page_number": 58,
+    "bbox": [
+      87.384,
+      87.09499999999991,
+      525.9339999999997,
+      197.87900000000002
+    ],
+    "n_rows": 7,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Accélérer le processus d’octroi des autorisations (étude d’impact environnemental,"
+      ],
+      [
+        "attribution de foncier, éligibilité aux régimes incitatifs, etc.) au niveau des CRI et des"
+      ],
+      [
+        "Commissions régionales unifiées d’investissement (CRUI), en adoptant pleinement"
+      ],
+      [
+        "l’approche centrée sur le parcours unifié de l’investisseur comme l’un des objectifs"
+      ],
+      [
+        "annoncés lors de la mise en place de la loi N°22.24 modifiant et complétant la loi"
+      ],
+      [
+        "n° 47.18 portant réforme des centres régionaux d’investissement et création des"
+      ],
+      [
+        "commissions régionales unifiées d’investissement112."
+      ]
+    ]
+  },
+  {
+    "page_number": 58,
+    "bbox": [
+      87.384,
+      248.04499999999996,
+      525.9339999999997,
+      366.86899999999997
+    ],
+    "n_rows": 7,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Renforcer, parallèlement au volet préventif où le Maroc a déjà déployé des efforts"
+      ],
+      [
+        "significatifs, le volet coercitif du cadre réglementaire de lutte contre la corruption, en"
+      ],
+      [
+        "améliorant l’efficacité du traitement des plaintes et en veillant à ce que les sanctions"
+      ],
+      [
+        "soient suffisamment dissuasives et appliquées de manière effective à tous les niveaux."
+      ],
+      [
+        "✓ Accélérer la digitalisation des procédures administratives et des transactions publiques,"
+      ],
+      [
+        "en mettant en place des mécanismes de traçabilité et de transparence pour réduire les"
+      ],
+      [
+        "possibilités de corruption."
+      ]
+    ]
+  },
+  {
+    "page_number": 58,
+    "bbox": [
+      87.384,
+      404.665,
+      525.9339999999997,
+      610.519
+    ],
+    "n_rows": 12,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Sensibiliser et encourager les petites structures entrepreneuriales à recourir davantage"
+      ],
+      [
+        "aux guichets de médiation d’entreprises (Ombudsman), notamment au niveau des"
+      ],
+      [
+        "chambres de commerce ou la CGEM, pour un accompagnement en matière d’arbitrage"
+      ],
+      [
+        "et de résolution des litiges de paiement à l’amiable."
+      ],
+      [
+        "✓ Réduire les délais de paiement des administrations et établissements publics en"
+      ],
+      [
+        "mettant fin aux retards non justifiés lors des étapes de constatation du service fait ou"
+      ],
+      [
+        "des phases d’acceptation des factures émises par les fournisseurs."
+      ],
+      [
+        "✓ Étudier l’opportunité d’un mécanisme fiscal inspiré des pratiques de « Bad Debt 113»,"
+      ],
+      [
+        "consistant à limiter la déductibilité fiscale des factures réglées au-delà des délais légaux"
+      ],
+      [
+        "par les clients, tout en permettant aux fournisseurs de déduire fiscalement les créances"
+      ],
+      [
+        "irrécouvrables. Une telle mesure viserait à dissuader les retards de paiement tout en"
+      ],
+      [
+        "renforçant la protection de la trésorerie des micro/TPE/PE."
+      ]
+    ]
+  },
+  {
+    "page_number": 59,
+    "bbox": [
+      87.42685714285712,
+      110.99899999999991,
+      525.9339999999997,
+      174.23900000000003
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Renforcer l’efficacité des contrôles des activités informelles (hors informel de"
+      ],
+      [
+        "subsistance) et illicites en améliorant les moyens humains et techniques des organes de"
+      ],
+      [
+        "contrôle, tout en assurant l’application stricte des lois en vigueur, afin de limiter leur"
+      ],
+      [
+        "impact sur les micro/TPE/PE formelles."
+      ]
+    ]
+  },
+  {
+    "page_number": 59,
+    "bbox": [
+      87.42685714285712,
+      226.67899999999997,
+      525.9339999999997,
+      472.12899999999996
+    ],
+    "n_rows": 14,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Procéder à une évaluation d’impact à mi-chemin des mesures fiscales introduites depuis"
+      ],
+      [
+        "2021, afin d’évaluer leurs effets sur la survie des entreprises, leur croissance et le risque"
+      ],
+      [
+        "de basculement vers l’informel."
+      ],
+      [
+        "✓ Simplifier et harmoniser la fiscalité locale, en unifiant les démarches et procédures, afin"
+      ],
+      [
+        "de la rendre plus lisible et accessible pour les petites entreprises."
+      ],
+      [
+        "✓ Relever le seuil de chiffre d’affaires pour l’assujettissement à la TVA, le portant de 2"
+      ],
+      [
+        "millions de dirhams (MDH) à 5 millions de dirhams (MDH), afin d’alléger la pression"
+      ],
+      [
+        "fiscale sur les microentreprises et unités de subsistance."
+      ],
+      [
+        "✓ Assurer la traduction concrète des principes de la loi-cadre n° 69-19 relative à la réforme"
+      ],
+      [
+        "fiscale114 en mesures spécifiques favorisant le développement des entreprises"
+      ],
+      [
+        "innovantes et nouvellement créées. Il s’agirait notamment d’introduire des incitations"
+      ],
+      [
+        "fiscales dédiées à l’investissement dans la recherche, le développement technologique"
+      ],
+      [
+        "et l’innovation sociale, des domaines encore peu intégrés dans la mise en œuvre"
+      ],
+      [
+        "opérationnelle de la réforme."
+      ]
+    ]
+  },
+  {
+    "page_number": 59,
+    "bbox": [
+      87.42685714285712,
+      508.729,
+      525.9339999999997,
+      682.879
+    ],
+    "n_rows": 10,
+    "n_cols": 1,
+    "rows": [
+      [
+        "✓ Examiner la faisabilité de quotas différenciés pour l’accès à la commande publique, dans"
+      ],
+      [
+        "la limite des 30 % consacrée à la TPME, en tenant compte de la taille des entreprises et"
+      ],
+      [
+        "en distinguant les microentreprises et TPE des entreprises de taille moyenne."
+      ],
+      [
+        "✓ Mettre en place une bourse de la co-traitance pour inciter les auto-entrepreneurs et"
+      ],
+      [
+        "microentreprises à soumissionner en groupements temporaires d’entreprises aux"
+      ],
+      [
+        "marchés publics."
+      ],
+      [
+        "✓ Faciliter l’accès des startups à la commande publique en encourageant le recours aux"
+      ],
+      [
+        "dispositifs dédiés, tels que les « prestations innovantes » et les « offres spontanées »"
+      ],
+      [
+        "prévus par le décret n° 2-22-431 relatif aux marchés publics, afin de promouvoir"
+      ],
+      [
+        "l’innovation et l’intégration des jeunes entreprises dans ces marchés."
+      ]
+    ]
+  },
+  {
+    "page_number": 60,
+    "bbox": [
+      71.1843333333333,
+      187.91899999999998,
+      524.1966666666665,
+      547.48925
+    ],
+    "n_rows": 24,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "Moncef Ziani (Président)",
+        ""
+      ],
+      [
+        "",
+        "Mouncef Kettani (vice-président)",
+        ""
+      ],
+      [
+        "",
+        "Ali Ghannam (Rapporteur)",
+        ""
+      ],
+      [
+        "",
+        "Abdelkarim Foutat (vice-rapporteur)",
+        ""
+      ],
+      [
+        "",
+        "Ahmed Abbouh",
+        ""
+      ],
+      [
+        "",
+        "Tarik Aguizoul",
+        ""
+      ],
+      [
+        "",
+        "Mohammed Alaoui",
+        ""
+      ],
+      [
+        "",
+        "Khalida Azbane",
+        ""
+      ],
+      [
+        "",
+        "Allal Benlarbi",
+        ""
+      ],
+      [
+        "",
+        "Abdellah Mouttaqi",
+        ""
+      ],
+      [
+        "",
+        "Latifa Benwakrim",
+        ""
+      ],
+      [
+        "",
+        "Mohammed Fikrat",
+        ""
+      ],
+      [
+        "",
+        "Amine Mounir Alaoui",
+        ""
+      ],
+      [
+        "",
+        "Abdallah Deguig",
+        ""
+      ],
+      [
+        "",
+        "Chakib Benmoussa",
+        ""
+      ],
+      [
+        "",
+        "Mohamed Mostaghfir",
+        ""
+      ],
+      [
+        "",
+        "Hajbouha Zoubeir",
+        ""
+      ],
+      [
+        "",
+        "Ahmed Ouayach",
+        ""
+      ],
+      [
+        "",
+        "Mohammed Bachir Rachdi",
+        ""
+      ],
+      [
+        "",
+        "Tariq Sijilmassi",
+        ""
+      ],
+      [
+        "",
+        "Najat Simou",
+        ""
+      ],
+      [
+        "",
+        "Amine Berrada Sounni",
+        ""
+      ],
+      [
+        "",
+        "Lotfi Boujendar",
+        ""
+      ],
+      [
+        "",
+        "Thami Abderrahmani Ghorfi",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 60,
+    "bbox": [
+      71.1843333333333,
+      595.879,
+      524.1966666666665,
+      656.119
+    ],
+    "n_rows": 3,
+    "n_cols": 6,
+    "rows": [
+      [
+        "",
+        "EExxppeerrttss ppeerrmmaanneennttss aauu CCoonnsseeiill aayyaanntt aaccccoommppaaggnnéé llaa",
+        "",
+        "",
+        "Karim EL MOKRI",
+        ""
+      ],
+      [
+        "",
+        "CCoommmmiissssiioonn",
+        "",
+        "",
+        "Younes LHADJ KACEM",
+        ""
+      ],
+      [
+        "",
+        "TTrraadduucctteeuurr",
+        "",
+        "",
+        "Adel GAIZ",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 61,
+    "bbox": [
+      65.54433703333332,
+      103.92627835239998,
+      524.1803370333331,
+      710.7301472364
+    ],
+    "n_rows": 39,
+    "n_cols": 6,
+    "rows": [
+      [
+        "Départements\ngouvernementaux",
+        "",
+        "",
+        "",
+        "− Ministère de l'Inclusion Économique, de la Petite Entreprise, de",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l'Emploi et des Compétences.",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de l’économie et des finances",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère délégué auprès du Chef du Gouvernement, chargé de",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l'Investissement, de la Convergence et de l'évaluation des Politiques",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "publiques",
+        ""
+      ],
+      [
+        "Organismes nationaux",
+        "",
+        "",
+        "",
+        "− Haut-commissariat au Plan (HCP)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Instance Nationale de la Probité, de la Prévention et de la Lutte contre",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "la Corruption (INPPLC)",
+        ""
+      ],
+      [
+        "Institutions publiques",
+        "",
+        "",
+        "",
+        "− Agence Nationale de Promotion de l'Emploi et des Compétences",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "(ANAPEC)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Observatoire Marocain de la Très Petite et Moyenne Entreprise",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "(OMTPME)",
+        ""
+      ],
+      [
+        "Organisation\nprofessionnelles",
+        "",
+        "",
+        "",
+        "− Chambre de Commerce, d'Industrie et de Services de Rabat-Salé-",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Kénitra (CCIS-RSK)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Union générale des entreprises et professions (UGEP)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Syndicat national du commerce et des professions (SNCP)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Confédération générale des entreprises du Maroc (CGEM)",
+        ""
+      ],
+      [
+        "Établissement de Crédit\net de Financement de\nl'Investissement",
+        "",
+        "",
+        "",
+        "− Fonds Mohammed VI pour l’investissement",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− TAMWILCOM",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Bank Al-Maghrib",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− CDG Invest",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Groupement professionnel des banques du Maroc (GPBM)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Fédération des associations de microcrédit (Fédération des AMC)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Al Amana Microfinance",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Attawfiq Micro-Finance",
+        ""
+      ],
+      [
+        "Institutions et\ncollectivités territoriales",
+        "",
+        "",
+        "",
+        "− Centres Régionaux d’Investissement (Région de Rabat-Salé-Kénitra ;",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Région de Tanger-Tétouan-Al Hoceima ; Région de Béni Mellal-",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Khénifra ; Région de Dakhla-Oued-Eddahab)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Conseils régionaux (Tanger-Tétouan-Al Hoceïma, Fès-Meknès, Rabat-",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Salé-Kénitra, Casablanca-Settat, Marrakech-Safi, Souss-Massa et",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l’Oriental)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Association des Régions du Maroc",
+        ""
+      ],
+      [
+        "",
+        "Accompagnement des",
+        "",
+        "",
+        "− Centre marocain pour l’innovation et l’entrepreneuriat social (MCISE)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Réseau Entreprendre Maroc",
+        ""
+      ],
+      [
+        "",
+        "entreprises",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Startup Station",
+        ""
+      ],
+      [
+        "",
+        "Organisations",
+        "",
+        "− Bureau-pays de la Banque mondiale à Rabat",
+        "− Bureau-pays de la Banque mondiale à Rabat",
+        ""
+      ],
+      [
+        "",
+        "internationales",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 61,
+    "bbox": [
+      70.82400370000002,
+      121.82699381599996,
+      181.46400369999995,
+      172.64319942399996
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Départements"
+      ],
+      [
+        "gouvernementaux"
+      ]
+    ]
+  },
+  {
+    "page_number": 61,
+    "bbox": [
+      70.82400370000002,
+      323.7030388019999,
+      181.46400369999995,
+      373.9217904886
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Organisation"
+      ],
+      [
+        "professionnelles"
+      ]
+    ]
+  },
+  {
+    "page_number": 61,
+    "bbox": [
+      70.82400370000002,
+      412.08148002999997,
+      181.46400369999995,
+      482.43377642199994
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Établissement de Crédit"
+      ],
+      [
+        "et de Financement de"
+      ],
+      [
+        "l'Investissement"
+      ]
+    ]
+  },
+  {
+    "page_number": 61,
+    "bbox": [
+      70.82400370000002,
+      531.4287262384,
+      181.46400369999995,
+      581.6707795599999
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Institutions et"
+      ],
+      [
+        "collectivités territoriales"
+      ]
+    ]
+  },
+  {
+    "page_number": 62,
+    "bbox": [
+      70.824,
+      112.11300000000006,
+      524.494,
+      170.673
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Dans le cadre de l’élaboration de son avis « Les défis des micros, très petites et petites"
+      ],
+      [
+        "entreprises au Maroc : croissance, modernisation et développement », le CESE a recueilli une"
+      ],
+      [
+        "consultation citoyenne à travers sa plateforme participative « Ouchariko », ainsi que via les"
+      ],
+      [
+        "pages officielles du Conseil sur les différents réseaux sociaux."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      38.826666666666675,
+      129.89400000000003,
+      573.3999629629632,
+      779.3939999999998
+    ],
+    "n_rows": 20,
+    "n_cols": 9,
+    "rows": [
+      [
+        "MMaattrriiccee ddeess pprriinncciippaauuxx pprrooggrraammmmeess ppuubblliiccss ddee ssoouuttiieenn aauu ffiinnaanncceemmeenntt ddeess mmiiccrroo//TTPPEE//PPEE aauu MMaarroocc",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "PPrrooggrraammmmee//\nLLaanncceemmeenntt",
+        "EEnnttiittéé\nRReessppoonnssaabbllee",
+        "OObbjjeeccttiiffss",
+        "",
+        "CCiibbllee",
+        "",
+        "MMééccaanniissmmeess",
+        "RRééssuullttaattss\neett IImmppaaccttss",
+        "LLiimmiitteess eett EEnnjjeeuuxx"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "((bbéénnééffiicciiaaiirreess",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "eett//oouu",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "bbuuddggeett))",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faciliter Budget de Prêts à faible taux -Encours Difficultés d’accès pour certains\nl'accès au 8MMAD d’intérêt, décaissés 8,7 entrepreneurs (artisans,\nfinancement (garanties). garanties de MMdhs. commerçants, auto-\nPPrrooggrraammmmee\nSecteur des jeunes l'État, entrepreneurs…), taux de rejet\nIInntteellaakkaa,, bancaire- entrepreneurs accompagnement -Nombre de élevé argumenté souvent par la\nTamwilcom et des petites technique et bénéficiaires qualité insuffisante des projets\n22002200\nentreprises. financier. 32 000. financés.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TTaattwwiirr\nCCrrooiissssaannccee VVeerrttee\n22002200",
+        "Ministère de\nl’industrie et du\ncommerce\n&\nMaroc PME",
+        "Soutenir les\nentreprises\ndans des\nprojets\nécologiques\net durables.",
+        "",
+        "PME avec CA",
+        "",
+        "Subventions pour\ndes projets verts,\nsoutien à\nl’innovation pour\nune croissance\nécologique.",
+        "En 2022, le\nprogramme a\naccompagné\n84\nbénéficiaires",
+        "-Les micro/TPE/PE se concentrent\nsur la survie, faible sensibilisation\naux enjeux environnementaux.\n-Impact limité en termes de nombre\nde bénéficiaires."
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "annuel compris",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "entre 10 et",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "200MDH",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "disposant d’un",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "projet de",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "développement",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "durable à",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "déployer durant",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "les 3 prochaines",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "années",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "LLeess mmééccaanniissmmeess Soutenir la 15 milliards de Investissements Faible accessibilité pour les\nrelance dirhams directs et micro/TPE/PE.\ndduu FFoonnddss\néconomique provenant du partenariats\nMMoohhaammmmeedd VVII post-COVID- Budget Général public-privé,\n19 dans des de l’État. accompagnement\nppoouurr\nsecteurs dans divers\nMinistère de\nll’’IInnvveessttiisssseemmeenntt,, stratégiques. secteurs.\nl’économie et\n22002211 des finances ;\nFM6I\n((pprriinncciippaalleemmeenntt\nlleess oouuttiillss ddee\nddeettttee\nssuubboorrddoonnnnééee))",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "PPrrooggrraammmmee\nFFoorrssaa,, 22002222,,\n22002233",
+        "Ministère du\ntourisme, de\nl'artisanat et de\nl'économie\nsociale et\nsolidaire",
+        "Financer et\naccompagner\n10 000\nprojets de\njeunes par an.",
+        "10 000 projets\nde jeunes par\nan.",
+        "",
+        "",
+        "Prêts d’honneur\nsans garantie,\nformation en e-\nlearning, une\nincubation de 2,5\nmois.",
+        "21 200\nporteurs de\nprojets ont\nété\naccompagnés\nau cours de\nses deux\néditions 2022\net 2023.",
+        "-Faible étendue de la population\ncible.\n-Nombre limité de bénéficiaires par\nrapport à la demande."
+      ],
+      [
+        "Ministère Le dispositif\ndélégué auprès est en phase\ndu Chef du de\nDDiissppoossiittiiff ddee\nGouvernement, préparation.\nssoouuttiieenn àà chargé de\nl'investissement,\nll’’iinnvveessttiisssseemmeenntt\nde la\nppoouurr lleess TTPPMMEE convergence et\nde l'évaluation\nddaannss llaa CChhaarrttee\ndes politiques\ndd’’iinnvveessttiisssseemmeenntt)) publiques\n&\n22002222\nCentres\nRégionaux\nd’investissement",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      43.92000000000001,
+      145.3943888888889,
+      129.024,
+      169.75400000000002
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "PPrrooggrraammmmee//"
+      ],
+      [
+        "LLaanncceemmeenntt"
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      139.81999999999996,
+      145.3943888888889,
+      194.084,
+      169.75400000000002
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnttiittéé"
+      ],
+      [
+        "RReessppoonnssaabbllee"
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      395.83,
+      145.3943888888889,
+      439.8940000000002,
+      169.75400000000002
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "RRééssuullttaattss"
+      ],
+      [
+        "eett IImmppaaccttss"
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      204.8899999999999,
+      282.46399999999994,
+      251.32999999999996,
+      341.6773333333333
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Soutenir les"
+      ],
+      [
+        "entreprises"
+      ],
+      [
+        "dans des"
+      ],
+      [
+        "projets"
+      ],
+      [
+        "écologiques"
+      ],
+      [
+        "et durables."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      327.07000000000005,
+      282.46399999999994,
+      385.02999999999986,
+      341.6773333333333
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Subventions pour"
+      ],
+      [
+        "des projets verts,"
+      ],
+      [
+        "soutien à"
+      ],
+      [
+        "l’innovation pour"
+      ],
+      [
+        "une croissance"
+      ],
+      [
+        "écologique."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      395.83,
+      282.46399999999994,
+      439.8940000000002,
+      330.93476923076923
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "En 2022, le"
+      ],
+      [
+        "programme a"
+      ],
+      [
+        "accompagné"
+      ],
+      [
+        "84"
+      ],
+      [
+        "bénéficiaires"
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      450.6999999999999,
+      282.46399999999994,
+      568.1999999999999,
+      341.6773333333333
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "-Les micro/TPE/PE se concentrent"
+      ],
+      [
+        "sur la survie, faible sensibilisation"
+      ],
+      [
+        "aux enjeux environnementaux."
+      ],
+      [
+        ""
+      ],
+      [
+        "-Impact limité en termes de nombre"
+      ],
+      [
+        "de bénéficiaires."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      43.92000000000001,
+      311.954,
+      129.024,
+      359.98400000000004
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "TTaattwwiirr"
+      ],
+      [
+        "CCrrooiissssaannccee VVeerrttee"
+      ],
+      [
+        "22002200"
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      139.81999999999996,
+      311.954,
+      194.084,
+      359.98400000000004
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Ministère de"
+      ],
+      [
+        "l’industrie et du"
+      ],
+      [
+        "commerce"
+      ],
+      [
+        "&"
+      ],
+      [
+        "Maroc PME"
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      204.8899999999999,
+      536.4095625,
+      251.32999999999996,
+      584.9762499999999
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Financer et"
+      ],
+      [
+        "accompagner"
+      ],
+      [
+        "10 000"
+      ],
+      [
+        "projets de"
+      ],
+      [
+        "jeunes par an."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      262.13000000000005,
+      536.4095625,
+      316.27400000000006,
+      565.2040000000001
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "10 000 projets"
+      ],
+      [
+        "de jeunes par"
+      ],
+      [
+        "an."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      327.07000000000005,
+      536.4095625,
+      385.02999999999986,
+      593.6911428571428
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Prêts d’honneur"
+      ],
+      [
+        "sans garantie,"
+      ],
+      [
+        "formation en e-"
+      ],
+      [
+        "learning, une"
+      ],
+      [
+        "incubation de 2,5"
+      ],
+      [
+        "mois."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      395.83,
+      536.4095625,
+      439.8940000000002,
+      624.394
+    ],
+    "n_rows": 9,
+    "n_cols": 1,
+    "rows": [
+      [
+        "21 200"
+      ],
+      [
+        "porteurs de"
+      ],
+      [
+        "projets ont"
+      ],
+      [
+        "été"
+      ],
+      [
+        "accompagnés"
+      ],
+      [
+        "au cours de"
+      ],
+      [
+        "ses deux"
+      ],
+      [
+        "éditions 2022"
+      ],
+      [
+        "et 2023."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      450.6999999999999,
+      536.4095625,
+      568.1999999999999,
+      584.9762499999999
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "-Faible étendue de la population"
+      ],
+      [
+        "cible."
+      ],
+      [
+        ""
+      ],
+      [
+        "-Nombre limité de bénéficiaires par"
+      ],
+      [
+        "rapport à la demande."
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      139.81999999999996,
+      555.854909090909,
+      194.084,
+      614.194
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Ministère du"
+      ],
+      [
+        "tourisme, de"
+      ],
+      [
+        "l'artisanat et de"
+      ],
+      [
+        "l'économie"
+      ],
+      [
+        "sociale et"
+      ],
+      [
+        "solidaire"
+      ]
+    ]
+  },
+  {
+    "page_number": 68,
+    "bbox": [
+      43.92000000000001,
+      565.2040000000001,
+      129.024,
+      604.6179999999999
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "PPrrooggrraammmmee"
+      ],
+      [
+        "FFoorrssaa,, 22002222,,"
+      ],
+      [
+        "22002233"
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      28.716923076923077,
+      85.83316666666663,
+      566.8245384615385,
+      682.7740000000005
+    ],
+    "n_rows": 25,
+    "n_cols": 11,
+    "rows": [
+      [
+        "MMaattrriiccee ddee qquueellqquueess pprrooggrraammmmeess dd’’aaccccoommppaaggnneemmeenntt ppoouurr llee rreennffoorrcceemmeenntt ddeess ccaappaacciittééss ddeess eennttrreepprriisseess eett ppoorrtteeuurrss ddee pprroojjeettss\naauu MMaarroocc",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "PPrrooggrraammmmee//\nLLaanncceemmeenntt",
+        "Entité\nResponsable",
+        "",
+        "",
+        "Objectifs",
+        "Cible\n(bénéficiaires\net/ou budget)",
+        "",
+        "",
+        "Mécanismes",
+        "Résultats et\nImpacts",
+        "Limites et Enjeux"
+      ],
+      [
+        "Améliorer la 100 entreprises pas Diagnostic de 1 349 Portée limitée :\ncompétitivité des an. performance, TPME Seulement 48 TPME\nPPrrooggrraammmmee\nPME par la mise en financement pour bénéficiaires. accompagnées en 2022,\nMinistère de\nIINNMMAAAA œuvre des principes l’amélioration des restreignant l’impact du\nl’industrie et du\ndu Lean processus, 1 591 programme.\n((UUssiinnee commerce\nManufacturing116 au accompagnement dirigeants formés.\n&\nMMooddèèllee)) sein du tissu technologique. Adaptabilité restreinte :\nMaroc PME\nindustriel marocain. Programme\n22001111\nprincipalement adapté\naux ME industrielles.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "PPrrooggrraammmmee\nAAnnaa\nMMoouukkaawwiill\nDDéécc--22002233",
+        "",
+        "Ministère de",
+        "",
+        "Accompagner les\nporteurs de projets\ndans la création et\ngestion d’entreprise.",
+        "",
+        "-Unités économiques",
+        "",
+        "Plateforme\ndigitale de\nformation et\nd’accompagneme\nnt, services\npersonnalisés.",
+        "Impact potentiel :\ndépendant de la\nportée des\nservices et du\nsuivi post-\naccompagnement.",
+        "Peu de suivi post-\nformation,\nprédominance de\nl’accompagnement en\nligne117."
+      ],
+      [
+        "",
+        "",
+        "l'inclusion",
+        "",
+        "",
+        "",
+        "informelles ;",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "économique, de",
+        "",
+        "",
+        "",
+        "-TPE ;",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "la petite",
+        "",
+        "",
+        "",
+        "-Auto-entrepreneurs ;",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "entreprise, de",
+        "",
+        "",
+        "",
+        "-Porteurs de projets ;",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "l'emploi et des",
+        "",
+        "",
+        "",
+        "-100000 bénéficiaires ;",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "compétences",
+        "",
+        "",
+        "",
+        "- 600 Mdhs.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Accompagnement Soutenir 10 000 Aides financières, En 2022, le Accompagnement\npour le montage des bénéficiaires par an accompagnement programme a faiblement personnalisé :\nprojets, accès au dont 6 000 TPE et 4 à la création accompagné Le format en groupes\nfinancement. 000 auto- d’entreprise, 1 213 limite l’adaptation aux\nPPrrooggrraammmmee entrepreneurs. encadrement bénéficiaires. besoins spécifiques des\ntechnique. entreprises.\nNNAAWWAATT Maroc PME\n22002211 Visibilité insuffisante :\nManque de\ncommunication sur les\nrésultats et réussites du\nprogramme.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "SSttaattuutt\ndd''AAuuttoo--\nEEnnttrreepprreenneeuurr\n22001155",
+        "",
+        "Ministère de",
+        "",
+        "Formaliser les\nactivités des\ntravailleurs\ninformels avec des\navantages fiscaux et\nadministratifs.",
+        "-Formaliser 1,9\nmillions de personnes\nactives dans le secteur\ninformel.\n- 1,2 millions\nd’étudiants.\n-50 000 apprentis",
+        "",
+        "",
+        "Inscription\nsimplifiée,\nexonération de\nTVA, taux\nd’imposition\nréduit.",
+        "440 916 auto-\nentrepreneurs\nenregistrés à fin\n2024",
+        "Faible taux de pérennité\n(impossibilité de recruter\ndes salariés, restrictions\nen termes de chiffre\nd’affaires, restrictions\nfiscales additionnelles,\ndifficulté d’accès au\nfinancement bancaire)."
+      ],
+      [
+        "",
+        "",
+        "l’Industrie et du",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Commerce-",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Maroc PME.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Tutelle du",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "ministère de",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "l’inclusion",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "économique et",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "des petites",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "entreprises, de",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "l’emploi et des",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "compétences à",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "partir de 2021.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Chef du Stimuler la création TPE/PE réalisant des Subventions à Objectif de 1,45 Faible élasticité emploi-\nGouvernement d’emplois durables à projets l’investissement million d’emplois croissance (0,23),\n/ Ministère de travers le soutien d’investissement de 1 via la Charte, créés d’ici 2030. dépendance au climat\nl’inclusion ciblé à à 50 MDH, jeunes sans appui à la (emploi agricole),\nFFeeuuiillllee ddee économique / l’investissement emploi, femmes, formation par Mise en place capacités limitées\nCRI / ANAPEC productif des ruraux. alternance, d’un comité d’exécution locale,\nrroouuttee ppoouurr\nTPE/PE, accompagnement interministériel et nécessité de pilotage\nll’’eemmppllooii 22002255 l’élargissement des Budget global de 15 des TPE par les d’un système rigoureux, inclusion des\npolitiques actives et Mds MAD dont 12 CRI, mutualisation d'information acteurs territoriaux\nla territorialisation Mds pour des dispositifs unifié sur l’emploi. encore incomplète.\ndes dispositifs. l’investissement des d’insertion, aides\nTPE/PE. à l’embauche.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      174.5,
+      246.71394117647057,
+      241.724,
+      286.1563076923076
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Accompagner les"
+      ],
+      [
+        "porteurs de projets"
+      ],
+      [
+        "dans la création et"
+      ],
+      [
+        "gestion d’entreprise."
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      337.86999999999995,
+      246.71394117647057,
+      397.63000000000005,
+      297.02763636363636
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Plateforme"
+      ],
+      [
+        "digitale de"
+      ],
+      [
+        "formation et"
+      ],
+      [
+        "d’accompagneme"
+      ],
+      [
+        "nt, services"
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      408.42999999999995,
+      246.71394117647057,
+      468.57399999999996,
+      297.02763636363636
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Impact potentiel :"
+      ],
+      [
+        "dépendant de la"
+      ],
+      [
+        "portée des"
+      ],
+      [
+        "services et du"
+      ],
+      [
+        "suivi post-"
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      479.38000000000005,
+      246.71394117647057,
+      561.5801538461538,
+      297.02763636363636
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Peu de suivi post-"
+      ],
+      [
+        "formation,"
+      ],
+      [
+        "prédominance de"
+      ],
+      [
+        "l’accompagnement en"
+      ],
+      [
+        "ligne117."
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      33.84,
+      256.628,
+      99.98400000000002,
+      308.28099999999995
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "PPrrooggrraammmmee"
+      ],
+      [
+        "AAnnaa"
+      ],
+      [
+        "MMoouukkaawwiill"
+      ],
+      [
+        "DDéécc--22002233"
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      174.5,
+      437.5240000000001,
+      241.724,
+      496.08399999999995
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Formaliser les"
+      ],
+      [
+        "activités des"
+      ],
+      [
+        "travailleurs"
+      ],
+      [
+        "informels avec des"
+      ],
+      [
+        "avantages fiscaux et"
+      ],
+      [
+        "administratifs."
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      252.5300000000001,
+      437.5240000000001,
+      327.07399999999996,
+      525.364
+    ],
+    "n_rows": 9,
+    "n_cols": 1,
+    "rows": [
+      [
+        "-Formaliser 1,9"
+      ],
+      [
+        "millions de personnes"
+      ],
+      [
+        "actives dans le secteur"
+      ],
+      [
+        "informel."
+      ],
+      [
+        ""
+      ],
+      [
+        "- 1,2 millions"
+      ],
+      [
+        "d’étudiants."
+      ],
+      [
+        ""
+      ],
+      [
+        "-50 000 apprentis"
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      337.86999999999995,
+      437.5240000000001,
+      397.63000000000005,
+      496.08399999999995
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Inscription"
+      ],
+      [
+        "simplifiée,"
+      ],
+      [
+        "exonération de"
+      ],
+      [
+        "TVA, taux"
+      ],
+      [
+        "d’imposition"
+      ],
+      [
+        "réduit."
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      408.42999999999995,
+      437.5240000000001,
+      468.57399999999996,
+      476.524
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "440 916 auto-"
+      ],
+      [
+        "entrepreneurs"
+      ],
+      [
+        "enregistrés à fin"
+      ],
+      [
+        "2024"
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      479.38000000000005,
+      437.5240000000001,
+      561.5801538461538,
+      515.6440000000001
+    ],
+    "n_rows": 8,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Faible taux de pérennité"
+      ],
+      [
+        "(impossibilité de recruter"
+      ],
+      [
+        "des salariés, restrictions"
+      ],
+      [
+        "en termes de chiffre"
+      ],
+      [
+        "d’affaires, restrictions"
+      ],
+      [
+        "fiscales additionnelles,"
+      ],
+      [
+        "difficulté d’accès au"
+      ],
+      [
+        "financement bancaire)."
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      33.84,
+      471.724,
+      99.98400000000002,
+      530.284
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SSttaattuutt"
+      ],
+      [
+        "dd''AAuuttoo--"
+      ],
+      [
+        "EEnnttrreepprreenneeuurr"
+      ],
+      [
+        "22001155"
+      ]
+    ]
+  },
+  {
+    "page_number": 70,
+    "bbox": [
+      69.5149090909091,
+      89.92999999999995,
+      525.7596363636361,
+      427.204
+    ],
+    "n_rows": 14,
+    "n_cols": 8,
+    "rows": [
+      [
+        "EEnnccaaddrréé 11 :: UUnn ttiissssuu eennttrreepprreenneeuurriiaall mmaarrooccaaiinn eennccoorree ccoonncceennttrréé ssuurr ttrrooiiss sseecctteeuurrss pprriinncciippaauuxx,, àà ffaaiibbllee",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "vvaalleeuurr aajjoouuttééee",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "La répartition de la création d’entreprises au Maroc montre une forte concentration dans le secteur du",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "commerce, qui représente 27,58 % des personnes morales et 59,02 % des personnes physiques, en",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "raison de la simplicité d’accès et des faibles exigences liées à ce type d’activités. Cependant, ce secteur",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "génère une faible valeur ajoutée, se limitant principalement à des activités de distribution et de vente,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "avec un faible impact sur l’innovation et la productivité. Les services divers, le BTP et les transports sont",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "également bien représentés, notamment parmi les personnes morales, reflétant leur rôle-clé dans le",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "développement du tissu productif national. À l’opposé, les secteurs des TIC et des activités financières,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "qui sont porteurs de forte valeur ajoutée, restent encore peu présents.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "RRééppaarrttiittiioonn sseeccttoorriieellllee ddeess 6644 222299 ccrrééaattiioonnss dd’’eennttrreepprriisseess",
+        "",
+        "",
+        "",
+        "RRééppaarrttiittiioonn sseeccttoorriieellllee ddeess 2299 556600 ccrrééaattiioonnss dd’’eennttrreepprriisseess",
+        "",
+        ""
+      ],
+      [
+        "",
+        "mmoorraalleess eenn 22002233",
+        "",
+        "",
+        "",
+        "pphhyyssiiqquueess eenn 22002233",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Secteur des TIC; 0,004 Agriculture, pêche; 0,0053\nActivités financières; 1,61% Hôtels et Restaurants; 0,0758 Activités financières; 0,0038\nSecteur des TIC; 3,24% Agriculture, pêche;\n2,39%\nHôtels et Restaurants; 5,23% Industries; 0,0699\nIndustries; 8,18%\nCommerce; 27,58%\nTransports; 10,04%\nTransports; 8,42%\nServices divers; 0,1026 Commerce; 0,5902\nBTP et activités\nServices divers; 21,52% Immobilières; 21,83%\nBTP et activités\nImmobilières; 0,0479",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "SSoouurrccee :: Baromètre OMPIC",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 70,
+    "bbox": [
+      69.5149090909091,
+      436.564,
+      525.7596363636361,
+      785.694
+    ],
+    "n_rows": 20,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé 22 :: EEnnttrreepprreenneeuurriiaatt fféémmiinniinn aauu MMaarroocc :: uunnee pprrooggrreessssiioonn ffrraaggiillee eett uunn ppootteennttiieell àà lliibbéérreerr"
+      ],
+      [
+        "UUnnee ddyynnaammiiqquuee eenn éémmeerrggeennccee,, ffrreeiinnééee ppaarr ddee mmuulltitipplleess oobbssttaacclleess"
+      ],
+      [
+        "L’entrepreneuriat féminin au Maroc connaît une progression encourageante, mais reste en deçà des"
+      ],
+      [
+        "moyennes internationales et des performances de certains pays voisins1. Environ 12,3 % des entreprises"
+      ],
+      [
+        "marocaines sont dirigées par des femmes, selon la Banque Mondiale (2023), un chiffre proche des"
+      ],
+      [
+        "12,8 % estimés par les sources nationales2. Ces entreprises, majoritairement de petite taille et souvent"
+      ],
+      [
+        "informelles, peinent à croître et à se moderniser, malgré les initiatives de soutien3."
+      ],
+      [
+        "CCoonncceennttrraatitioonn sseeccttoorriieellllee :: sseerrvviicceess eett eennggaaggeemmeenntt ssoocciiaall"
+      ],
+      [
+        "Selon les données de l’OMTPME (Rapport Annuel 2024) sur les entreprises personnes morales actives"
+      ],
+      [
+        "(EPMA), les entreprises dirigées par des femmes se concentrent dans des secteurs spécifiques :"
+      ],
+      [
+        "• Santé humaine et action sociale : 40,5 % ; Autres activités de services : 39,8 % (dont 30,2 % dans la"
+      ],
+      [
+        "« coiffure et soins de beauté ») ; Enseignement : 29,7 %."
+      ],
+      [
+        "En revanche, les femmes sont sous-représentées dans certains secteurs :"
+      ],
+      [
+        "• Transports et entreposage : 10,2 % ; Construction : 8,9 % ; Industries extractives : 8,6 %."
+      ],
+      [
+        "Cette répartition illustre une spécialisation marquée dans les domaines des services et de l’engagement"
+      ],
+      [
+        "social, qui influence encore les choix sectoriels des femmes entrepreneures."
+      ],
+      [
+        "DDyynnaammiissmmee ddeess jjeeuunneess eennttrreepprriisseess"
+      ],
+      [
+        "Les femmes dirigent 18 %4 des EPMA de moins de deux ans. Ce taux chute toutefois à 13,1 % pour les"
+      ],
+      [
+        "entreprises de plus de dix ans. Ce déclin souligne les défis financiers et structurels qui s’intensifient au"
+      ],
+      [
+        "fur et à mesure que les entreprises féminines évoluent, mais également une capacité de survie limitée."
+      ]
+    ]
+  },
+  {
+    "page_number": 71,
+    "bbox": [
+      69.384,
+      86.48799999999994,
+      525.9340000000002,
+      334.53299999999996
+    ],
+    "n_rows": 20,
+    "n_cols": 1,
+    "rows": [
+      [
+        "OObbssttaacclleess ssttrruuccttuurreellss :: fifinnaanncceemmeenntt eett rréésseeaauuxx"
+      ],
+      [
+        "• Accès au financement : les entrepreneures font face à des critères rigides de garantie exigés par les"
+      ],
+      [
+        "banques, limitant leur accès aux ressources financières5. En 2023, seulement 14,6 % des EPMA ayant"
+      ],
+      [
+        "contracté un crédit étaient dirigées par des femmes, contre 85,4 % dirigées par des hommes, ce qui"
+      ],
+      [
+        "illustre un déséquilibre important dans l’accès aux financements6."
+      ],
+      [
+        "• Réseaux professionnels : les femmes ont un accès réduit aux réseaux professionnels, mentors et"
+      ],
+      [
+        "partenaires financiers essentiels pour la croissance et la compétitivité7."
+      ],
+      [
+        "• Barrières socio-culturelles : les normes traditionnelles influencent encore la répartition des rôles,"
+      ],
+      [
+        "particulièrement en milieu rural. Les responsabilités familiales limitent le temps et les ressources que"
+      ],
+      [
+        "les femmes peuvent consacrer à leurs projets."
+      ],
+      [
+        ""
+      ],
+      [
+        "¹ Une moyenne de 17,4 % dans la région MENA (Woman entrepreneurship, Banque mondiale)."
+      ],
+      [
+        "² Haut-Commissariat au Plan (HCP), Note d’information à l’occasion de la Journée internationale des femmes, 8 mars 2021."
+      ],
+      [
+        "³ Parmi les initiatives, She Industriel vise à encourager l’entrepreneuriat féminin dans le secteur industriel à travers des formations et un accès au financement,"
+      ],
+      [
+        "tandis que Sayidati Al Moukawila, initiative du Centre Régional d’Investissement Fès-Meknès, accompagne les entrepreneures via des ateliers, du mentorat et"
+      ],
+      [
+        "des solutions de financement."
+      ],
+      [
+        "4 Rapport annuel OMTPME 2024."
+      ],
+      [
+        "5 https://www.banquemondiale.org/fr/news/press-release/2020/02/16/world-bank-group-launches-initiatives-supporting-women-entrepreneurs"
+      ],
+      [
+        "6 Rapport annuel OMTPME 2024."
+      ],
+      [
+        "7 https://www.banquemondiale.org/fr/news/press-release/2017/10/12/statement-on-women-entrepreneurs-finance-initiative-we-fi"
+      ]
+    ]
+  },
+  {
+    "page_number": 71,
+    "bbox": [
+      -513.8756185152,
+      269.3514229316,
+      -53.29367412570002,
+      407.0795457716
+    ],
+    "n_rows": 1,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Secteur des TIC; 0,004 Agriculture, pêche; 0,0053\nActivités financières; 1,61% Hôtels et Restaurants; 0,0758 Activités financières; 0,0038\nSecteur des TIC; 3,24% Agriculture, pêche;\n2,39%\nHôtels et Restaurants; 5,23% Industries; 0,0699\nIndustries; 8,18%\nCommerce; 27,58%\nTransports; 10,04%\nTransports; 8,42%\nServices divers; 0,1026 Commerce; 0,5902\nBTP et activités\nServices divers; 21,52% Immobilières; 21,83%\nBTP et activités\nImmobilières; 0,0479",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 71,
+    "bbox": [
+      69.384,
+      345.213,
+      525.9340000000002,
+      788.083
+    ],
+    "n_rows": 27,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé 33 :: DDééffiiss eett OOppppoorrttuunniittééss dduu FFiinnaanncceemmeenntt ddeess SSttaarrttuuppss aauu MMaarroocc"
+      ],
+      [
+        "Le Maroc se classe 6ᵉ parmi les pays africains en termes de levées de fonds des startups technologiques,"
+      ],
+      [
+        "avec un total de 82 millions USD en 2024, répartis sur 25 transactions, selon le rapport annuel de Partech"
+      ],
+      [
+        "Africa1. Ce classement positionne le Maroc derrière les \"Big 5\" africains traditionnels : le Nigéria,"
+      ],
+      [
+        "l'Afrique du Sud, l'Égypte, le Kenya et le Ghana, qui dominent le continent grâce à des marchés plus"
+      ],
+      [
+        "vastes et une meilleure intégration régionale."
+      ],
+      [
+        "Malgré tout, la position du Maroc reste notable dans un contexte mondial marqué par une contraction"
+      ],
+      [
+        "des investissements. Cette performance illustre les efforts significatifs déployés pour structurer"
+      ],
+      [
+        "l’écosystème entrepreneurial et renforcer l’attractivité du pays en tant que hub technologique en"
+      ],
+      [
+        "Afrique."
+      ],
+      [
+        "Cependant, des défis importants subsistent. Le financement des startups souffre d’un déficit pour les"
+      ],
+      [
+        "tickets intermédiaires, notamment entre 15 et 50 millions de dirhams (MDH), qui sont trop grands pour"
+      ],
+      [
+        "les fonds de venture capital locaux et trop petits pour les acteurs de private equity. Par ailleurs, la taille"
+      ],
+      [
+        "relativement réduite du marché marocain, combinée à son intégration régionale limitée, constitue un"
+      ],
+      [
+        "obstacle majeur. Ces contraintes freinent la capacité des startups marocaines à se développer à l’échelle"
+      ],
+      [
+        "régionale ou internationale, compromettant leurs opportunités de scaling-up."
+      ],
+      [
+        "UUnn ééccoossyyssttèèmmee ccoonncceennttrréé ssuurr llaa ccrrééaattiioonn eett ll’’aammoorrççaaggee"
+      ],
+      [
+        "L'écosystème entrepreneurial marocain est principalement orienté vers les phases de création et"
+      ],
+      [
+        "d’amorçage, avec une attention limitée aux phases de croissance (scaling-up)."
+      ],
+      [
+        "• Les subventions, prêts d'honneur et fonds pré-seed, seed et pré-série A constituent les principaux"
+      ],
+      [
+        "mécanismes de financement, avec des montants généralement inférieurs à 20 millions de dirhams"
+      ],
+      [
+        "(MDH)."
+      ],
+      [
+        "• Le programme Innov Invest met à disposition des outils tels que :"
+      ],
+      [
+        "-- TTeecchh SSttaarrtt : aides non remboursables couvrant jusqu'à 80 % des dépenses éligibles."
+      ],
+      [
+        "-- TTeecchh BBoooosstt : prêts d'honneur plafonnés à 750 000 MAD pour des projets innovants."
+      ],
+      [
+        "-- IInnnnoovv RRiisskk et IInnnnoovv DDeevv : prêts participatifs pour les stades précoces et avancés, plafonnés entre 2"
+      ],
+      [
+        "et 3 millions de dirhams (MDH)."
+      ]
+    ]
+  },
+  {
+    "page_number": 72,
+    "bbox": [
+      69.384,
+      92.05599999999993,
+      525.9339999999997,
+      740.2800000000001
+    ],
+    "n_rows": 30,
+    "n_cols": 1,
+    "rows": [
+      [
+        "UUnn mmaannqquuee ddee ffoonnddss ppoouurr llee ssccaalliinngg--uupp"
+      ],
+      [
+        "L’écosystème présente une faiblesse notable dans la disponibilité de fonds de série A et au-delà,"
+      ],
+      [
+        "nécessaires pour accompagner les startups dans leur phase d'expansion. Cette lacune semble constituer"
+      ],
+      [
+        "un frein à leur capacité de se positionner sur des marchés régionaux et internationaux."
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        "SSoouurrccee :: Tamwilcom"
+      ],
+      [
+        ""
+      ],
+      [
+        "DDeess mmééccaanniissmmeess éémmeerrggeennttss nnéécceessssiittaanntt uunn ssuuiivvii"
+      ],
+      [
+        "• BBuussiinneessss AAnnggeellss :: pourraient jouer un rôle important dans le financement des startups au Maroc, en"
+      ],
+      [
+        "apportant à la fois des fonds, leur expertise et leur réseau. La loi 15-18 les désigne comme des"
+      ],
+      [
+        "investisseurs providentiels, des personnes physiques disposant d’une expertise, d’une expérience ou de"
+      ],
+      [
+        "compétences professionnelles dans les domaines de la finance et de l’investissement, et dotées de"
+      ],
+      [
+        "moyens financiers suffisants pour contribuer au financement collaboratif. Ce cadre leur offre une"
+      ],
+      [
+        "reconnaissance officielle en tant que partenaires potentiels des jeunes entreprises innovantes."
+      ],
+      [
+        "La Loi de Finances 2018 a introduit un mécanisme d’incitation fiscale destiné à stimuler les participations"
+      ],
+      [
+        "dans le capital des jeunes entreprises innovantes, avec une réduction d’impôt plafonnée à 200 000 MAD"
+      ],
+      [
+        "par entreprise et à 30 % de l’impôt dû. Ce dispositif, bien qu’encourageant, est soumis à des conditions"
+      ],
+      [
+        "précises, notamment la conservation des titres pendant au moins quatre ans et la libération intégrale"
+      ],
+      [
+        "du capital souscrit au cours de l’exercice concerné."
+      ],
+      [
+        "Cependant, pour permettre aux Business Angels de jouer pleinement leur rôle, il reste des défis à"
+      ],
+      [
+        "relever. Une meilleure visibilité des startups, des incitations fiscales élargies, et une simplification des"
+      ],
+      [
+        "démarches administratives sont autant d’éléments essentiels pour renforcer leur engagement. En"
+      ],
+      [
+        "outre, la sensibilisation des investisseurs potentiels à l’importance de leur contribution dans"
+      ],
+      [
+        "l’écosystème entrepreneurial pourrait également encourager davantage de participation et soutenir le"
+      ],
+      [
+        "développement des jeunes entreprises innovantes au Maroc."
+      ],
+      [
+        "• CCrroowwddffuunnddiinngg ((ffiinnaanncceemmeenntt ccoollllaabboorraattiiff)) :: ce mécanisme, encadré par la loi n°15-18, est encore à ses"
+      ],
+      [
+        "débuts au Maroc. Avec seulement trois plateformes agréées, des plafonds restrictifs et des"
+      ],
+      [
+        "démarches administratives complexes, son adoption reste limitée. Une simplification du processus"
+      ],
+      [
+        "et une meilleure sensibilisation sont nécessaires pour stimuler son développement."
+      ]
+    ]
+  },
+  {
+    "page_number": 73,
+    "bbox": [
+      70.06382885199993,
+      95.77114652879993,
+      531.0871057520004,
+      181.75570005200007
+    ],
+    "n_rows": 7,
+    "n_cols": 1,
+    "rows": [
+      [
+        "• IInnccuubbaatteeuurrss eett aaccccéélléérraatteeuurrss :: ces structures jouent un rôle-clé en fournissant mentorat, financement"
+      ],
+      [
+        "et ressources aux startups. Cependant, au Maroc, elles sont principalement concentrées dans les"
+      ],
+      [
+        "grands centres urbains, avec une implication limitée des grandes entreprises. L’expansion de ces"
+      ],
+      [
+        "initiatives dans d’autres régions et la participation accrue des entreprises privées pourraient"
+      ],
+      [
+        "renforcer leur efficacité."
+      ],
+      [
+        "11 Partech Africa, plateforme d’investissement dédiée aux startups technologiques africaines, publie un rapport annuel analysant les levées de"
+      ],
+      [
+        "fonds sur le continent. Référence : Partech Africa (2024). Annual Report on African Tech Startups and Fundraising."
+      ]
+    ]
+  },
+  {
+    "page_number": 73,
+    "bbox": [
+      70.06382885199993,
+      199.72942275599996,
+      531.0871057520004,
+      541.96248388
+    ],
+    "n_rows": 27,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé 44 :: LLaa DDiiggiittaalliissaattiioonn ddeess sseerrvviicceess ppuubblliiccss aauu MMaarroocc"
+      ],
+      [
+        "La transition numérique des services publics marocains vise à simplifier l’accès aux démarches"
+      ],
+      [
+        "administratives. En 2024, le Maroc se classe 90ᵉ sur 193 pays au Online Service Index (OSI) des Nations"
+      ],
+      [
+        "Unies1, avec l’ambition d’atteindre la 50ᵉ place d’ici 2030 grâce à la stratégie \"Digital Morocco 2030\"."
+      ],
+      [
+        "Depuis la promulgation de la loi n° 55.19 en septembre 2020, les administrations doivent recenser et"
+      ],
+      [
+        "digitaliser leurs actes administratifs en 5 ans. Le plan d’action 2021-2023 relatif au chantier du"
+      ],
+      [
+        "\"Gouvernement ouvert\" affiche des taux de réalisation encourageants2 :"
+      ],
+      [
+        "• 97 % des actes recensés et validés ;"
+      ],
+      [
+        "• environ 70 % des procédures prioritaires digitalisées."
+      ],
+      [
+        "Les bonnes pratiques internationales définissent cinq niveaux de maturité des services en ligne3 :"
+      ],
+      [
+        "-- NNiivveeaauu 11 ((iinnffoorrmmaattiioonnnneell)) : accès à des informations statiques sur les services."
+      ],
+      [
+        "-- NNiivveeaauu 22 ((iinntteerraaccttiioonnnneell àà sseennss uunniiqquuee)) : téléchargement de formulaires."
+      ],
+      [
+        "-- NNiivveeaauu 33 ((iinntteerraaccttiioonnnneell àà ddoouubbllee sseennss)) : traitement des formulaires en ligne avec authentification."
+      ],
+      [
+        "-- NNiivveeaauu 44 ((ttrraannssaaccttiioonnnneell)) : réalisation complète des démarches en ligne (enregistrement, décision,"
+      ],
+      [
+        "paiement)."
+      ],
+      [
+        "-- NNiivveeaauu 55 ((pprrooaaccttiiff)) : délivrance automatique et personnalisée des services."
+      ],
+      [
+        "Selon le dernier rapport de la Cour des comptes, malgré des avancées notables, le Maroc peine à"
+      ],
+      [
+        "atteindre les niveaux transactionnel (niveau 4) et proactif (niveau 5). Sur 605 services publics digitalisés,"
+      ],
+      [
+        "seulement 23 % sont entièrement dématérialisés. De plus, 26 % des actes administratifs ne respectent"
+      ],
+      [
+        "pas le délai légal de 60 jours, et 25 % des administrations imposent encore des procédures lourdes. Le"
+      ],
+      [
+        "manque de coordination et l’absence de décrets d’application pour la loi n°55.19 freinent la réforme."
+      ],
+      [
+        ""
+      ],
+      [
+        "SSoouurrcceess ::"
+      ],
+      [
+        "1 https://publicadministration.un.org/egovkb/en-us/Data/Country-Information/id/115-Morocco"
+      ],
+      [
+        "2 https://gouvernement-ouvert.ma/pan-engagement.php?engagement=19&lang=fr"
+      ],
+      [
+        "3 Principaux axes du rapport annuel de la Cour des comptes au titre de 2023 - 2024"
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 73,
+    "bbox": [
+      70.06382885199993,
+      555.985242388,
+      531.0871057520004,
+      705.8325663799999
+    ],
+    "n_rows": 11,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé 55 :: LLee FFoonnddss dduu NNoorrdd ppoouurr llee DDéévveellooppppeemmeenntt eett ll''IInnvveessttiisssseemmeenntt ((NNoorrDDeevv )) –– UUnn lleevviieerr"
+      ],
+      [
+        "rrééggiioonnaall ppoouurr ll’’iinnvveessttiisssseemmeenntt eett llee ddéévveellooppppeemmeenntt"
+      ],
+      [
+        "Le Fonds du Nord pour l’Investissement et le Développement (NorDev), lancé en octobre 2023, incarne"
+      ],
+      [
+        "une approche régionale ambitieuse en matière de soutien à l’investissement dans la région Tanger-"
+      ],
+      [
+        "Tétouan-Al Hoceïma."
+      ],
+      [
+        "Doté d’un capital de 1 milliard de dirhams sur cinq ans, il cible des secteurs prioritaires tels que"
+      ],
+      [
+        "l’économie bleue, l’agroalimentaire, les énergies renouvelables, et les technologies numériques. Ses"
+      ],
+      [
+        "mécanismes incluent la création de zones d’activités économiques (ZAE), l’appui financier et technique"
+      ],
+      [
+        "aux porteurs de projets ainsi qu’un dispositif de primes incitatives basé sur les vocations territoriales. À"
+      ],
+      [
+        "ce jour, 51 dossiers ont été validés par la session ordinaire du Conseil de la région, représentant un"
+      ],
+      [
+        "montant de plus de 21 millions de dirhams (MDH) d’investissements."
+      ]
+    ]
+  },
+  {
+    "page_number": 75,
+    "bbox": [
+      69.384,
+      96.56899999999996,
+      525.9340000000001,
+      360.359
+    ],
+    "n_rows": 16,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Conformément à l’article 7 de la loi organique n°128-12, relative à son organisation et à son"
+      ],
+      [
+        "fonctionnement, le Conseil Economique, Social et Environnemental (CESE) a été saisi par la Chambre des"
+      ],
+      [
+        "Conseillers en date du 4 juin 2024 aux fins élaborer une étude sur la contribution de la recherche"
+      ],
+      [
+        "scientifique dans l’innovation, le développement et le renforcement de la compétitivité de l’économie"
+      ],
+      [
+        "nationale."
+      ],
+      [
+        "Dans ce cadre, le bureau du Conseil a confié la réalisation de cette étude à la Commission chargée de la"
+      ],
+      [
+        "société du savoir et de l’information1."
+      ],
+      [
+        "Lors de sa 167ème Session Ordinaire tenue le 20 février 2025, l’Assemblée générale du CESE a adopté à"
+      ],
+      [
+        "l’unanimité l’avis intitulé : « contribution de la recherche scientifique à l’innovation, au développement"
+      ],
+      [
+        "et au renforcement de la compétitivité de l’économie nationale : urgence d'une stratégie nationale"
+      ],
+      [
+        "coordonnée et intégrée ». Élaboré sur la base d’une approche participative, l’avis est le résultat d’un"
+      ],
+      [
+        "large débat entre les différentes catégories qui composent le Conseil et d’auditions menées avec les"
+      ],
+      [
+        "principales parties prenantes2. Un atelier citoyen a également été organisé en partenariat avec la CGEM"
+      ],
+      [
+        "pour échanger autour des principales pistes de recommandations, en plus d’une visite de terrain au"
+      ],
+      [
+        "niveau de l’unité de recherche et développement (R&D) d’une entreprise marocaine."
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 76,
+    "bbox": [
+      69.384,
+      123.88699999999994,
+      525.9340000000001,
+      252.76699999999994
+    ],
+    "n_rows": 8,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Le présent avis du CESE, élaboré à la suite d’une saisine de la Chambre des conseillers, porte sur la"
+      ],
+      [
+        "recherche scientifique et l’innovation, leviers stratégiques de souveraineté et de compétitivité de"
+      ],
+      [
+        "l’économie nationale. Il met en exergue le potentiel important du pays dans ce domaine, pointe les"
+      ],
+      [
+        "fragilités qui obèrent le processus de transformation des projets de recherche en innovations concrètes,"
+      ],
+      [
+        "et émet des recommandations visant à inscrire l’innovation au cœur des priorités nationales et à"
+      ],
+      [
+        "renforcer les synergies entre chercheurs, innovateurs et acteurs économiques, au service du"
+      ],
+      [
+        "développement durable du pays. Il a été adopté à l’unanimité par l’Assemblée générale du CESE, lors de"
+      ],
+      [
+        "sa 167ème session ordinaire tenue le 20 février 2025."
+      ]
+    ]
+  },
+  {
+    "page_number": 89,
+    "bbox": [
+      69.3840037,
+      520.99478055,
+      525.9340037000001,
+      614.05615764
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "En outre et dans le cadre des compétences partagées entre les régions et l’État en matière de"
+      ],
+      [
+        "recherche appliquée (définies à l’article 91 de la loi organique 111-14 relative aux régions), les"
+      ],
+      [
+        "régions consacrent également des budgets dédiés à la recherche et à l’innovation. Selon"
+      ],
+      [
+        "l’analyse réalisée par le CESE au niveau de son avis sur la politique d’innovation, les"
+      ],
+      [
+        "investissements restent essentiellement axés sur les infrastructures et ne ciblent pas"
+      ],
+      [
+        "suffisamment le développement du capital humain et la création de forte valeur ajoutée68."
+      ]
+    ]
+  },
+  {
+    "page_number": 90,
+    "bbox": [
+      69.38397309999999,
+      96.66620810000006,
+      525.9339731,
+      140.17175809999992
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "A cet égard, plusieurs régions ont prévu des programmes de recherche de recherche et"
+      ],
+      [
+        "développement dans le cadre de leurs plans de développement régional (PDR) pour la période"
+      ],
+      [
+        "2022-2027, activant cette compétence partagée :"
+      ]
+    ]
+  },
+  {
+    "page_number": 90,
+    "bbox": [
+      87.38397310000002,
+      148.13036810000006,
+      525.9339731,
+      352.4960681
+    ],
+    "n_rows": 13,
+    "n_cols": 1,
+    "rows": [
+      [
+        "• La région Rabat-Salé-Kénitra a structuré un axe stratégique visant à positionner la région"
+      ],
+      [
+        "comme un centre de connaissances et d’innovation à l’échelle continentale. Ce volet"
+      ],
+      [
+        "bénéficie d’un budget global de 2,94 milliards de dirhams, dont 624 millions de dirhams"
+      ],
+      [
+        "apportés par la région. Parmi les projets phares figure la création d’une cité des sciences"
+      ],
+      [
+        "à Rabat, destinée à promouvoir la diffusion des connaissances scientifiques ainsi que la"
+      ],
+      [
+        "création d’un réseau de structures dédiées à l’innovation sur l’ensemble du territoire de"
+      ],
+      [
+        "la région69."
+      ],
+      [
+        "• La région Casablanca-Settat a mis en place un programme de développement de la"
+      ],
+      [
+        "recherche et de l’innovation en partenariat avec les universités, doté d’un budget de 57"
+      ],
+      [
+        "millions de dirhams70 ."
+      ],
+      [
+        "• La région Marrakech-Safi s’est engagée dans un projet de promotion de la recherche"
+      ],
+      [
+        "agricole régionale, avec une enveloppe globale de 25 millions de dirhams, dont 5"
+      ],
+      [
+        "millions financés par la région elle-même71."
+      ]
+    ]
+  },
+  {
+    "page_number": 91,
+    "bbox": [
+      -525.8916006,
+      96.66620810000006,
+      -69.34160059999999,
+      140.17076809999992
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        "A cet égard, plusieurs régions ont prévu des programmes de recherche de recherche et"
+      ],
+      [
+        "développement dans le cadre de leurs plans de développement régional (PDR) pour la période"
+      ],
+      [
+        "2022-2027, activant cette compétence partagée :"
+      ]
+    ]
+  },
+  {
+    "page_number": 91,
+    "bbox": [
+      -507.8916006,
+      148.13036810000006,
+      -69.34160059999999,
+      352.4960681
+    ],
+    "n_rows": 13,
+    "n_cols": 1,
+    "rows": [
+      [
+        "• La région Rabat-Salé-Kénitra a structuré un axe stratégique visant à positionner la région"
+      ],
+      [
+        "comme un centre de connaissances et d’innovation à l’échelle continentale. Ce volet"
+      ],
+      [
+        "bénéficie d’un budget global de 2,94 milliards de dirhams, dont 624 millions de dirhams"
+      ],
+      [
+        "apportés par la région. Parmi les projets phares figure la création d’une cité des sciences"
+      ],
+      [
+        "à Rabat, destinée à promouvoir la diffusion des connaissances scientifiques ainsi que la"
+      ],
+      [
+        "création d’un réseau de structures dédiées à l’innovation sur l’ensemble du territoire de"
+      ],
+      [
+        "la région69."
+      ],
+      [
+        "• La région Casablanca-Settat a mis en place un programme de développement de la"
+      ],
+      [
+        "recherche et de l’innovation en partenariat avec les universités, doté d’un budget de 57"
+      ],
+      [
+        "millions de dirhams70 ."
+      ],
+      [
+        "• La région Marrakech-Safi s’est engagée dans un projet de promotion de la recherche"
+      ],
+      [
+        "agricole régionale, avec une enveloppe globale de 25 millions de dirhams, dont 5"
+      ],
+      [
+        "millions financés par la région elle-même71."
+      ]
+    ]
+  },
+  {
+    "page_number": 105,
+    "bbox": [
+      71.09718181818181,
+      163.31574999999998,
+      523.8895454545453,
+      673.816
+    ],
+    "n_rows": 3,
+    "n_cols": 6,
+    "rows": [
+      [
+        "",
+        "PPrrééssiiddeenntt ddee llaa CCoommmmiissssiioonn",
+        "",
+        "",
+        "Abaddi Ahmed",
+        ""
+      ],
+      [
+        "Rapporteur de la thématique",
+        "",
+        "",
+        "Deguig Abdallah",
+        "",
+        ""
+      ],
+      [
+        "MMeemmbbrreess",
+        "",
+        "",
+        "Adnane Abdelaziz\nAyouch Nabil Hikmet\nBahanniss Ahmed\nBelarbi Larbi\nBenhamza Mustafa\nBenjelloun Othman\nBenjelloun Tahar\nBenkaddour Mohammed\nBenmoussa Chakib\nBensalah Chaqroun Meriem\nBenseddik Fouad\nBenwakrim Latifa (rapporteur)\nBerbich Laila\nEl Moatassim Jamaa\nHansali Lahcen (vice-président)\nHatchuel Armand\nIlali Idriss\nIouy Abdelaziz\nKhlafa Mustapha (vice-rapporteur)\nMounir Alaoui Amine\nSasson Albert\nSefrioui Saâd\nZoubeir Hajbouha",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 105,
+    "bbox": [
+      71.09718181818181,
+      696.856,
+      523.8895454545453,
+      759.636
+    ],
+    "n_rows": 2,
+    "n_cols": 2,
+    "rows": [
+      [
+        "EExxppeerrttss ppeerrmmaanneennttss aauu CCoonnsseeiill",
+        "Bendella Ahmed\nCharar Mohamed Amine"
+      ],
+      [
+        "EExxppeerrttss ppeerrmmaanneennttss cchhaarrggééss ddee llaa ttrraadduucctitioonn",
+        "Lassaoui Brahim\nSatane Youssef"
+      ]
+    ]
+  },
+  {
+    "page_number": 106,
+    "bbox": [
+      71.30397309999996,
+      123.7540601,
+      523.8999731000001,
+      675.8973551000001
+    ],
+    "n_rows": 6,
+    "n_cols": 2,
+    "rows": [
+      [
+        "IInnsstitittuutitioonnnneellss",
+        "- Ministère de l’enseignement supérieur, de la recherche\nscientifique et de l’innovation\n- Ministère de l'Industrie et du Commerce\n- Ministère de l’Economie et de Finances"
+      ],
+      [
+        "UUnniivveerrssiittééss eett iinnsstitittuuttss ddee\nrreecchheerrcchhee",
+        "- UM6P\n- IRESEN\n- INRA\n- CNRST"
+      ],
+      [
+        "OOrrggaanniissaatitioonnss eett aassssoocciiaatitioonnss",
+        "- AUSIM\n- CGEM : commission R&D et fédérations sectorielles\n(aéronautique, automobile, pharmaceutique et énergies\nrenouvelables)\n- Association R&D Maroc\n- Le Syndicat national de l'enseignement supérieur\n(SNESup)"
+      ],
+      [
+        "EEnnttrreepprriisseess nnaatitioonnaalleess eett\nSSttaarrttuuppss",
+        "- HPS\n- DSF Analytics\n- Nucleon Security\n- Aiguebelle – Groupe Omnipar"
+      ],
+      [
+        "EExxppeerrttss eett cchheerrcchheeuurrss",
+        "- Armand Hatchuel\n- Thami Ghorfi\n- Lahcen Oulhaj\n- Amine Mounir Alaoui\n- Mohammed Benkaddour\n- Idriss Ilali\n- Rajae El Aouad\n- Rajaâ Cherkaoui El Moursli\n- Abdellah Mouttaqi\n- Ismahane El Ouafi"
+      ],
+      [
+        "VViissiittee tteerrrraaiinn",
+        "Unité R&D de la société « Colorado » à Casablanca"
+      ]
+    ]
+  }
+]

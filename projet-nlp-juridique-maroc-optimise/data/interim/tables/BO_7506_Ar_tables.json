@@ -1,0 +1,1032 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      184.2726,
+      323.73249999999996,
+      410.91295,
+      476.0947
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "كارتــــــشلاا ةـــفــــيرــــعـــت",
+        "",
+        ""
+      ],
+      [
+        "جراـــــــخلا يــــــف",
+        "برــــغــمـلا يــــف\n{\nةـــــنــــس رهشأ ةتس",
+        ""
+      ],
+      [
+        "جراخلا ىلإ ةهجولما تارشنلا صخي اميف\nوجلا قيرط نع وأ يداعلا قيرطلا نع\nىــــــلإ فاـــــضت ،عيرـــسلا يلودلا دــــــيربلا وأ\nهتنمي اهيلع صوصنلما ةفيرعتلا غلابم\nيـــف ةددــــحم يـه اـــــمك لاــــسرلإا فــــيراـــصم\n.لمعلا هب يراجلا يديربلا ماظنلا",
+        "مهرد 400\nمهرد 200\nمهرد 200\nمهرد 300\nمهرد 300",
+        "امهرد 250\nامهرد 150\nامهرد 150\nامهرد 250\nامهرد 250"
+      ]
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      127.1640291,
+      94.12837941749994,
+      387.75902909999996,
+      761.3789464674999
+    ],
+    "n_rows": 5,
+    "n_cols": 8,
+    "rows": [
+      [
+        "\"\nرييغت\nنودب\nيقابلا\n\"",
+        "Clémentinier",
+        "Mandarinier",
+        "Oranger\ndoux",
+        "AGRUMES",
+        ". .....................................",
+        "Nom\nع\nئاشلا\ncommun\nمسلاا",
+        "Genres\nةيامحلل et\nEspèces\nةلباقلا\nفانصلأا des\nvariétés\nعاونأو\nسانجأ protégeables"
+      ],
+      [
+        "",
+        "...............",
+        "نيردناملا",
+        "...............",
+        "ت\nايضمحلا",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        ". .......................",
+        "Citrus\nreticulata\nblanco",
+        ". .......................",
+        "",
+        ". ..................................................",
+        "Nom\nة\nينيتلالاب Scientifique\nيملعلا\nمسلاا\n(Latin)",
+        ""
+      ],
+      [
+        "",
+        ". ......",
+        "\"",
+        ". ......",
+        "اعم Matériel\nامهوأ\nmultiplication\nيشاعل\nde\nreproduction\nا\nرثاكتلا\nvégétative\nوأ\nدلاوتلا\net/ou\nرصانع\nde",
+        ". ....................................",
+        "",
+        "Eléments\nط\nبنتسملا\nsur\nقح l’obtenteur lesquels\nاهلمشي\nيتلا porte\nرصانعلا\nle\ndroit\nde"
+      ],
+      [
+        "",
+        ". ...............",
+        "40\nة\nنس ans\n40",
+        ". ...............",
+        "",
+        ". ............................",
+        "",
+        "Durée\nة de\nيامحلا\nla\nةدم protection"
+      ]
+    ]
+  },
+  {
+    "page_number": 29,
+    "bbox": [
+      62.560066899999924,
+      292.7063587184,
+      542.9960669000001,
+      770.4292796807999
+    ],
+    "n_rows": 40,
+    "n_cols": 5,
+    "rows": [
+      [
+        "ESPECE\nع ونلا",
+        "VARIETE\nف نصلا",
+        "",
+        "",
+        "OBTENTEUR\nط بنتسملا"
+      ],
+      [
+        "Blé dur\nب لصلا حمقلا",
+        "LG LAUREANO",
+        "",
+        "",
+        "LIMAGRAIN EUROPE"
+      ],
+      [
+        "",
+        "",
+        "EEXXPLPOLITOIT",
+        "",
+        "SAS FLORIMOND DESPREZ"
+      ],
+      [
+        "",
+        "D2011",
+        "",
+        "",
+        "APSOVSEMENTI spa"
+      ],
+      [
+        "Blé tendre\nن يللا حمقلا",
+        "LIGABUE",
+        "",
+        "",
+        "SIS SOCIETA ITALIANA SEMENTI"
+      ],
+      [
+        "",
+        "ARGONE",
+        "",
+        "",
+        "SIS SOCIETA ITALIANA SEMENTI"
+      ],
+      [
+        "",
+        "YAKOUT",
+        "",
+        "",
+        "INRA MAROC"
+      ],
+      [
+        "",
+        "LG TEMPERO",
+        "",
+        "",
+        "LIMAGRAIN EUROPE"
+      ],
+      [
+        "Orge\nريعشلا",
+        "BAHJA",
+        "",
+        "",
+        "INRA Maroc"
+      ],
+      [
+        "",
+        "KAMAR",
+        "",
+        "",
+        "INRA Maroc"
+      ],
+      [
+        "Betterave à sucre\nي ركسلا ردنمشلا",
+        "BTS 4675 N",
+        "",
+        "",
+        "BETASEED GmbH"
+      ],
+      [
+        "",
+        "BTS 7870",
+        "",
+        "",
+        "BETASEED GmbH"
+      ],
+      [
+        "",
+        "BTS 2555 N",
+        "",
+        "",
+        "BETASEED GmbH"
+      ],
+      [
+        "",
+        "ALBUS",
+        "",
+        "",
+        "DLF BEET SEED DANEMARK"
+      ],
+      [
+        "",
+        "CONCORDE",
+        "",
+        "",
+        "DLF BEET SEED DANEMARK"
+      ],
+      [
+        "",
+        "SONIC YYTECH",
+        "",
+        "",
+        "DLF BEET SEED DANEMARK"
+      ],
+      [
+        "",
+        "KUMA",
+        "",
+        "",
+        "KUHN & COBV"
+      ],
+      [
+        "",
+        "BEETHOVEN",
+        "",
+        "",
+        "KUHN & COBV"
+      ],
+      [
+        "",
+        "SUFIA",
+        "",
+        "",
+        "KUHN & COBV"
+      ],
+      [
+        "",
+        "FIRMINA KWS",
+        "",
+        "",
+        "KWS SAAT SE"
+      ],
+      [
+        "",
+        "PRODESSA KWS",
+        "",
+        "",
+        "KWS SAAT SE"
+      ],
+      [
+        "",
+        "FARAYA KWS",
+        "",
+        "",
+        "KWS SAAT SE"
+      ],
+      [
+        "",
+        "TORNADO",
+        "",
+        "",
+        "LLC SOYUZSEMSVEKLA - RUSSIE"
+      ],
+      [
+        "",
+        "GEIZER",
+        "",
+        "",
+        "LLC SOYUZSEMSVEKLA - RUSSIE"
+      ],
+      [
+        "",
+        "VOLNA",
+        "",
+        "",
+        "LLC SOYUZSEMSVEKLA - RUSSIE"
+      ],
+      [
+        "",
+        "CABESTAN",
+        "",
+        "",
+        "MARIBO SEED"
+      ],
+      [
+        "",
+        "FORMULA",
+        "",
+        "",
+        "MARIBO SEED"
+      ],
+      [
+        "",
+        "SPECTRA",
+        "",
+        "",
+        "MARIBO SEED"
+      ],
+      [
+        "",
+        "TRIMPLE",
+        "",
+        "",
+        "SAS FERNAND LEPEUPLE"
+      ],
+      [
+        "",
+        "HISTOIRE",
+        "",
+        "",
+        "SAS FERNAND LEPEUPLE"
+      ],
+      [
+        "",
+        "FD FOOTING",
+        "",
+        "",
+        "SAS FLORIMOND DESPREZ VEUVE-FILS"
+      ],
+      [
+        "",
+        "FULGURANCE",
+        "",
+        "",
+        "SAS FLORIMOND DESPREZ VEUVE-FILS"
+      ],
+      [
+        "",
+        "AUDACE",
+        "",
+        "",
+        "SAS FLORIMOND DESPREZ VEUVE-FILS"
+      ],
+      [
+        "",
+        "RAINETTE",
+        "",
+        "",
+        "SES VANDERHAVE NV/SA"
+      ],
+      [
+        "",
+        "AIGLE",
+        "",
+        "",
+        "SES VANDERHAVE NV/SA"
+      ],
+      [
+        "",
+        "ANCLA",
+        "",
+        "",
+        "SES VANDERHAVE NV/SA"
+      ],
+      [
+        "Pois-chiche\nصمحلا",
+        "JOUD",
+        "",
+        "",
+        "INRA MAROC"
+      ],
+      [
+        "Pois potager\nيرضخلا نابلجلا",
+        "MONARO",
+        "",
+        "",
+        "PGG WRIGHTSON SEEDS"
+      ],
+      [
+        "",
+        "FERGUSON",
+        "",
+        "",
+        "PGG WRIGHTSON SEEDS"
+      ],
+      [
+        "Féverole\nريغصلا لوفلا",
+        "NOUR",
+        "",
+        "",
+        "INRA MAROC"
+      ]
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      59.01700000000001,
+      136.98199999999997,
+      539.4524999999996,
+      749.062
+    ],
+    "n_rows": 39,
+    "n_cols": 7,
+    "rows": [
+      [
+        "ESPECE\nع ونلا",
+        "VARIETE\nف نصلا",
+        "",
+        "",
+        "OBTENTEUR\nط بنتسملا",
+        "",
+        ""
+      ],
+      [
+        "Avoine\nلاطرخلا",
+        "AFIA",
+        "",
+        "",
+        "INRA MAROC",
+        "",
+        ""
+      ],
+      [
+        "",
+        "ATLAS",
+        "",
+        "",
+        "INRA MAROC",
+        "",
+        ""
+      ],
+      [
+        "Colza\nمجلسلا",
+        "DAHBIA",
+        "",
+        "",
+        "INRA MAROC",
+        "",
+        ""
+      ],
+      [
+        "",
+        "INVIGOR 305 PS",
+        "",
+        "",
+        "BASF/ BASF MAROC",
+        "",
+        ""
+      ],
+      [
+        "",
+        "INV 300 CL PS",
+        "",
+        "",
+        "BASF/ BASF MAROC",
+        "",
+        ""
+      ],
+      [
+        "Pomme de terre\ntype saison\nةيمسوملا سطاطبلا",
+        "SALMA",
+        "",
+        "",
+        "JAMES HUTTON Ltd",
+        "",
+        ""
+      ],
+      [
+        "",
+        "18.WC.1 A 56",
+        "",
+        "",
+        "JAMES HUTTON Ltd",
+        "",
+        ""
+      ],
+      [
+        "",
+        "AICHA",
+        "",
+        "",
+        "IPR B.V",
+        "",
+        ""
+      ],
+      [
+        "",
+        "ARJA",
+        "",
+        "",
+        "IRISH SEEDS POTATOES Ltd",
+        "",
+        ""
+      ],
+      [
+        "",
+        "BOSTON",
+        "",
+        "",
+        "P.B.C",
+        "",
+        ""
+      ],
+      [
+        "",
+        "CAMMEO",
+        "",
+        "",
+        "V.D .OORD",
+        "",
+        ""
+      ],
+      [
+        "",
+        "CASTOR",
+        "",
+        "",
+        "IPR B.V",
+        "",
+        ""
+      ],
+      [
+        "",
+        "FAJAH",
+        "",
+        "",
+        "KWEEK- EN RESEARCHBEDRIJF AGRICO\nB.V.,",
+        "",
+        ""
+      ],
+      [
+        "",
+        "HIBA",
+        "",
+        "",
+        "IRISH SEEDS POTATOES LTD",
+        "",
+        ""
+      ],
+      [
+        "",
+        "KYRA",
+        "",
+        "",
+        "FOBEK BV",
+        "",
+        ""
+      ],
+      [
+        "",
+        "MARINELLA",
+        "",
+        "",
+        "DANESPO A/S",
+        "",
+        ""
+      ],
+      [
+        "",
+        "SAINT CALAIS",
+        "",
+        "",
+        "VAN RIJN France",
+        "",
+        ""
+      ],
+      [
+        "",
+        "WANDA",
+        "",
+        "",
+        "SAKA PFLANZENZUCHT GMBH & Co. KG",
+        "",
+        ""
+      ],
+      [
+        "Pomme de terre\ntype transformation\nةيليوحتلا سطاطبلا",
+        "CARDYMA",
+        "",
+        "",
+        "IPR B.V",
+        "",
+        ""
+      ],
+      [
+        "",
+        "LUGANO",
+        "",
+        "",
+        "KWEEK- EN RESEARCHBEDRIJF AGRICO\nB.V.,",
+        "",
+        ""
+      ],
+      [
+        "",
+        "MONTIS",
+        "",
+        "",
+        "INTERSEED POTATOES GMBH",
+        "",
+        ""
+      ],
+      [
+        "",
+        "NORMAN",
+        "",
+        "",
+        "IPR B.V",
+        "",
+        ""
+      ],
+      [
+        "",
+        "PALACE",
+        "",
+        "",
+        "KWEEK- EN RESEARCHBEDRIJF AGRICO\nB.V.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "TRAVOLTA",
+        "",
+        "",
+        "IPR B.V",
+        ""
+      ],
+      [
+        "Melon\nخيطبلا",
+        "KARTINA",
+        "",
+        "",
+        "SEMILLAS FITO",
+        "",
+        ""
+      ],
+      [
+        "",
+        "MAHA",
+        "",
+        "",
+        "ZH SEEDS HOLLAND",
+        "",
+        ""
+      ],
+      [
+        "",
+        "SISSA",
+        "",
+        "",
+        "SYNGENTA CROP PROTECTION AG",
+        "",
+        ""
+      ],
+      [
+        "",
+        "BERKANIA",
+        "",
+        "",
+        "SYNGENTA CROP PROTECTION AG",
+        "",
+        ""
+      ],
+      [
+        "",
+        "YAMIN",
+        "",
+        "",
+        "HM CLAUSE SAS",
+        "",
+        ""
+      ],
+      [
+        "",
+        "VELAR",
+        "",
+        "",
+        "GREEN DIAMOND SEEDS",
+        "",
+        ""
+      ],
+      [
+        "",
+        "HIBA",
+        "",
+        "",
+        "QUANTUM SEEDS",
+        "",
+        ""
+      ],
+      [
+        "",
+        "GHILAAL",
+        "",
+        "",
+        "RIJK ZWAAN",
+        "",
+        ""
+      ],
+      [
+        "",
+        "ANIR",
+        "",
+        "",
+        "SAKATA SEED SUDAMERICA",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M'RZAKE",
+        "",
+        "",
+        "BOSTON SEEDS",
+        "",
+        ""
+      ],
+      [
+        "",
+        "GRENOBLE",
+        "",
+        "",
+        "HEFEI PANG'S AGRO-PRODUCTS CO., LTD",
+        "",
+        ""
+      ],
+      [
+        "",
+        "JAUNE CANARIA\nRANA",
+        "",
+        "",
+        "GSN SEMENCES",
+        "",
+        ""
+      ],
+      [
+        "",
+        "GHITA",
+        "",
+        "",
+        "SUBA SEEDS",
+        "",
+        ""
+      ],
+      [
+        "",
+        "TAIRA",
+        "",
+        "",
+        "SYNGENTA CROP PROTECTION AG",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 31,
+    "bbox": [
+      59.725999999999964,
+      133.77499999999998,
+      540.1620000000003,
+      501.0245
+    ],
+    "n_rows": 26,
+    "n_cols": 3,
+    "rows": [
+      [
+        "ESPECE\nع ونلا",
+        "VARIETE\nف نصلا",
+        "OBTENTEUR\nط بنتسملا"
+      ],
+      [
+        "Melon\nخيطبلا",
+        "PORTUS",
+        "BAYER HOLLAND BV"
+      ],
+      [
+        "",
+        "CASTELLO",
+        "HORT SEED MEDITERRANI, SL"
+      ],
+      [
+        "",
+        "CAMACHO",
+        "ENZA ZADEN"
+      ],
+      [
+        "",
+        "DAKHLA",
+        "CAPITAL GENETIC MAROC"
+      ],
+      [
+        "",
+        "AL RIDA",
+        "HEFEI PANG'S AGRO-PRODUCTS CO., LTD"
+      ],
+      [
+        "",
+        "MORONA",
+        "SEMILLAS FITO"
+      ],
+      [
+        "",
+        "MINERVA",
+        "HORT SEED MEDITERRANI, SL"
+      ],
+      [
+        "",
+        "NASR",
+        "APOLLO SEEDS USA Inc,"
+      ],
+      [
+        "",
+        "CURELLA",
+        "BAYER HOLLAND BV"
+      ],
+      [
+        "",
+        "CARDONA",
+        "YUKSEL TOHUM"
+      ],
+      [
+        "",
+        "ELSA",
+        "YUKSEL TOHUM"
+      ],
+      [
+        "",
+        "KIALBA",
+        "NUNHEMS B.V"
+      ],
+      [
+        "",
+        "KIBIC",
+        "NUNHEMS B.V"
+      ],
+      [
+        "",
+        "HALWATE",
+        "RIJK ZWAAN"
+      ],
+      [
+        "",
+        "EVERGAL",
+        "RIJK ZWAAN"
+      ],
+      [
+        "",
+        "SYGMA",
+        "ENZA ZADEN"
+      ],
+      [
+        "",
+        "JABIR",
+        "APOLLO SEEDS USA Inc,"
+      ],
+      [
+        "",
+        "MARADONA",
+        "HM CLAUSE SAS"
+      ],
+      [
+        "",
+        "SALIM",
+        "PRIMUS SEEDS INTERNATIONAL\nCOMPANY SPA"
+      ],
+      [
+        "",
+        "MADACK",
+        "BOSTON SEEDS"
+      ],
+      [
+        "",
+        "MIMOUN",
+        "BOSTON SEEDS"
+      ],
+      [
+        "Laitue\nص خلا",
+        "COLAI",
+        "RIJK ZWAAN"
+      ],
+      [
+        "",
+        "VOLTRON",
+        "RIJK ZWAAN"
+      ],
+      [
+        "",
+        "SUNGARI",
+        "RIJK ZWAAN"
+      ],
+      [
+        "",
+        "PELAYO",
+        "ENZA ZADEN"
+      ]
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      57.0679,
+      455.84139999999996,
+      538.2076,
+      520.2482
+    ],
+    "n_rows": 3,
+    "n_cols": 4,
+    "rows": [
+      [
+        "ةيبيرذتو (ةح سلم\nعبرلم (رتلم ب",
+        "نيضرتفلم (كلالم (نيل نعل(ء مسأ",
+        "ر ذ و (ه جرمل(كللم (نيي ت",
+        "ميمصتو ب(ة طذو (مقر"
+      ],
+      [
+        "1126",
+        ".ةميسحلا ميلقإب نطبارما ةعامجب نونكاسلا ،ميركلا دبع راديحأ ةثرو",
+        "ةظفحم ريغ ةيضرأ ةعطق",
+        "1"
+      ],
+      [
+        "157",
+        ".ةميسحلا ميلقإب نطبارما ةعامجب نونكاسلا ،ملاسلا دبع حوبوب ةثرو",
+        "ةظفحم ريغ ةيضرأ ةعطق",
+        "2"
+      ]
+    ]
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      307.559,
+      85.46450000000004,
+      563.433,
+      143.811
+    ],
+    "n_rows": 2,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "ك للم (نيي ت\nر ذ و (ه جرمل",
+        "(ة طذو (مقر\n(ةيضرلأ\nميمصتو ب"
+      ],
+      [
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 66,
+    "bbox": [
+      26.011799999999997,
+      81.2876,
+      288.12359999999995,
+      350.3306
+    ],
+    "n_rows": 9,
+    "n_cols": 6,
+    "rows": [
+      [
+        "ت ظحلام",
+        "ةح سلم",
+        "",
+        "(هنأ(ضرتفلم (لأ(كو لم (مسإ\nهن ونعل(كوذك",
+        "ر ذ و (عجرلم",
+        "((مقر\n(ة طذو\n(ةيضرلأ\nميم صتو ب"
+      ],
+      [
+        "",
+        "س",
+        "رآ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ةيحلاف ضرأ\nنهرب لقثم راقع\nدييقتو",
+        "21",
+        "07",
+        "يبرعل جاحلا تنب نيلم ةموطف\n- لادكأ ةعطاقم ،اهعم نمو\nطابرلا ةعامج ،ضايرلا",
+        "يراقع مسر\nR/12427 ددع",
+        "3"
+      ],
+      [
+        "ةيراع ضرأ",
+        "06",
+        "03",
+        "يعانصلا للاغتسلاا بتكم\n- لادكأ ةعطاقم ،ةيامحلل\nطابرلا ةعامج ،ضايرلا",
+        "يراقع مسر\nR/31957 ددع",
+        "4"
+      ],
+      [
+        "ةيراع ضرأ",
+        "49",
+        "01",
+        "ةيعانصلا تلالاغتسلاا ةلاكو\n- لادكأ ةعطاقم ،ةيامحلل\nطابرلا ةعامج ،ضايرلا",
+        "يراقع مسر\nR/26064 ددع",
+        "5"
+      ],
+      [
+        "تارايسلل فقوم",
+        "40",
+        "08",
+        "ةعطاقم ،ةمجن وطوأ ةكرش\nطابرلا ةعامج ،ضايرلا - لادكأ",
+        "يراقع مسر\nR/12642 ددع",
+        "7"
+      ],
+      [
+        "ةيراع ضرأ\nتادييقتب لقثم راقع",
+        "36",
+        "02",
+        "ةعطاقم ،ةيادولاا شيك ةعامج\nطابرلا ةعامج ،ضايرلا - لادكأ",
+        "يراقع مسر\nR/22747 ددع",
+        "8"
+      ],
+      [
+        "ةيراع ضرأ\nتادييقتب لقثم راقع",
+        "57",
+        "01",
+        "ةعطاقم ،ةيادولاا شيك ةعامج\nطابرلا ةعامج ،ضايرلا - لادكأ",
+        "يراقع مسر\nR/22747 ددع",
+        "9"
+      ],
+      [
+        "ةيراع ضرأ\nتادييقتب لقثم راقع",
+        "58",
+        "68",
+        "ةعطاقم ،ةيادولاا شيك ةعامج\nطابرلا ةعامج ،ضايرلا - لادكأ",
+        "يراقع مسر\nR/22747 ددع",
+        "10"
+      ]
+    ]
+  }
+]

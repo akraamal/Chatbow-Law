@@ -1,0 +1,1954 @@
+{
+  "source": "data\\processed\\ar\\BO_7132_Fr.txt",
+  "lang": "ar",
+  "doc_id": "BO_7132_Fr",
+  "bo_number": null,
+  "date_publication": null,
+  "edition_label": null,
+  "preamble_entities": [
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 septembre 2022",
+      "start": 1114,
+      "end": 1130
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 chaabane 1442",
+      "start": 2014,
+      "end": 2030
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 2220,
+      "end": 2235
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 2416,
+      "end": 2431
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 2644,
+      "end": 2659
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 2864,
+      "end": 2879
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 3057,
+      "end": 3072
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 3321,
+      "end": 3336
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 3535,
+      "end": 3550
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 3747,
+      "end": 3762
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 3959,
+      "end": 3974
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 4171,
+      "end": 4186
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 4480,
+      "end": 4496
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 4788,
+      "end": 4804
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 moharrem 1444",
+      "start": 5151,
+      "end": 5166
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "9 octobre\n2020",
+      "start": 7398,
+      "end": 7412
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "22 chaabane 1442",
+      "start": 14139,
+      "end": 14155
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "29 septembre 2022",
+      "start": 14209,
+      "end": 14226
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 décembre 2021",
+      "start": 14679,
+      "end": 14695
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 décembre 2008",
+      "start": 16260,
+      "end": 16276
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "23 novembre 1973",
+      "start": 17833,
+      "end": 17849
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "29 décembre 1992",
+      "start": 19929,
+      "end": 19945
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 septembre 2022",
+      "start": 22601,
+      "end": 22618
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "23 novembre 1973",
+      "start": 22852,
+      "end": 22868
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "25 septembre 2022",
+      "start": 23439,
+      "end": 23456
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "26 novembre 2020",
+      "start": 24884,
+      "end": 24900
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "26 novembre 2020",
+      "start": 25045,
+      "end": 25061
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "27 moharrem 1444",
+      "start": 27379,
+      "end": 27395
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 ramadan 1434",
+      "start": 31586,
+      "end": 31600
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "23 décembre 2013",
+      "start": 39045,
+      "end": 39061
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 39538,
+      "end": 39553
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 39774,
+      "end": 39789
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 40004,
+      "end": 40019
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 40220,
+      "end": 40235
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 40475,
+      "end": 40490
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 40713,
+      "end": 40728
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 40965,
+      "end": 40980
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 41205,
+      "end": 41220
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 41448,
+      "end": 41463
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 41692,
+      "end": 41707
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 41923,
+      "end": 41938
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 42188,
+      "end": 42203
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 moharrem 1433",
+      "start": 42371,
+      "end": 42387
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 décembre 2011",
+      "start": 42389,
+      "end": 42404
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "18 moharrem 1436",
+      "start": 43522,
+      "end": 43538
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 novembre 2014",
+      "start": 43540,
+      "end": 43556
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "16 décembre 2014",
+      "start": 43721,
+      "end": 43737
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "21 septembre 2020",
+      "start": 45200,
+      "end": 45217
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 47775,
+      "end": 47791
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "9 juillet 2020",
+      "start": 47940,
+      "end": 47954
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 48398,
+      "end": 48415
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 50561,
+      "end": 50576
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 50850,
+      "end": 50864
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 51269,
+      "end": 51283
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 51462,
+      "end": 51478
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 51747,
+      "end": 51764
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 52699,
+      "end": 52713
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 52851,
+      "end": 52866
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 53120,
+      "end": 53134
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 53539,
+      "end": 53553
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 53732,
+      "end": 53748
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "9 juillet\n2020",
+      "start": 53881,
+      "end": 53895
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 53996,
+      "end": 54013
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 54778,
+      "end": 54792
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 54930,
+      "end": 54945
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 55220,
+      "end": 55234
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 55639,
+      "end": 55653
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 55832,
+      "end": 55848
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 56118,
+      "end": 56135
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 58710,
+      "end": 58724
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 58863,
+      "end": 58878
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 59155,
+      "end": 59169
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 59574,
+      "end": 59588
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 59767,
+      "end": 59783
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 60811,
+      "end": 60825
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 60964,
+      "end": 60979
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 61260,
+      "end": 61274
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 61679,
+      "end": 61693
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 61872,
+      "end": 61888
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 62164,
+      "end": 62181
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 63229,
+      "end": 63243
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 63382,
+      "end": 63397
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 63654,
+      "end": 63668
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 64078,
+      "end": 64092
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 64271,
+      "end": 64287
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 64744,
+      "end": 64761
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "12 novembre 2019",
+      "start": 65895,
+      "end": 65911
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 66229,
+      "end": 66243
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 66382,
+      "end": 66397
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 66699,
+      "end": 66713
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 67123,
+      "end": 67137
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 67316,
+      "end": 67332
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 67924,
+      "end": 67938
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 68077,
+      "end": 68092
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 68377,
+      "end": 68391
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 68801,
+      "end": 68815
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 68994,
+      "end": 69010
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "9 juillet 2020",
+      "start": 69143,
+      "end": 69157
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 69632,
+      "end": 69649
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 70015,
+      "end": 70029
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 70168,
+      "end": 70183
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 70473,
+      "end": 70487
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 70897,
+      "end": 70911
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 71090,
+      "end": 71106
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "21 septembre 2016",
+      "start": 71306,
+      "end": 71323
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 72018,
+      "end": 72035
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 73119,
+      "end": 73133
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2020",
+      "start": 73272,
+      "end": 73287
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 octobre 2002",
+      "start": 73564,
+      "end": 73578
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "2 janvier\n2019",
+      "start": 73988,
+      "end": 74002
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "24 chaabane 1440",
+      "start": 74181,
+      "end": 74197
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "10 septembre 2020",
+      "start": 74784,
+      "end": 74801
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 76825,
+      "end": 76839
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "8 chaoual 1442",
+      "start": 79552,
+      "end": 79566
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 79779,
+      "end": 79795
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 80144,
+      "end": 80160
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 80891,
+      "end": 80907
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "21 chaabane 1443",
+      "start": 81669,
+      "end": 81685
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 81757,
+      "end": 81773
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 82122,
+      "end": 82138
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "23 décembre 2021",
+      "start": 82755,
+      "end": 82771
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 82873,
+      "end": 82889
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "21 chaabane 1443",
+      "start": 83883,
+      "end": 83899
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 84268,
+      "end": 84284
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 84633,
+      "end": 84649
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "29 décembre 2020",
+      "start": 85266,
+      "end": 85282
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 novembre 1995",
+      "start": 85384,
+      "end": 85400
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 novembre 2021",
+      "start": 87356,
+      "end": 87371
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "4 moharrem 1444",
+      "start": 88549,
+      "end": 88564
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 novembre 1993",
+      "start": 89595,
+      "end": 89610
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 novembre 1993",
+      "start": 93768,
+      "end": 93783
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "3 novembre 1993",
+      "start": 95077,
+      "end": 95092
+    }
+  ],
+  "n_articles": 0,
+  "articles": [],
+  "unlinked_tables": [
+    {
+      "page_number": 1,
+      "bbox": [
+        223.7284,
+        229.5871999999999,
+        427.8228,
+        388.01629999999994
+      ],
+      "n_rows": 3,
+      "n_cols": 3,
+      "rows": [
+        [
+          "TARIFS D’ABONNEMENT",
+          "",
+          ""
+        ],
+        [
+          "AU MAROC\n{\n6 mois 1 an",
+          "",
+          "A L’ETRANGER"
+        ],
+        [
+          "250 DH\n150 DH\n150 DH\n250 DH\n250 DH",
+          "400 DH\n200 DH\n200 DH\n300 DH\n300 DH",
+          "A destination de l’étranger,\npar voies ordinaire, aérienne\nou de la poste rapide interna‑\ntionale, les tarifs prévus ci‑\ncontre sont majorés des frais\nd’envoi, tels qu’ils sont fixés\npar la réglementation postale\nen vigueur."
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "bbox": [
+        311.33580000000006,
+        86.83819999999997,
+        570.2390499999998,
+        205.89374999999995
+      ],
+      "n_rows": 6,
+      "n_cols": 2,
+      "rows": [
+        [
+          "SIDI IFNI",
+          ""
+        ],
+        [
+          "TAN TAN",
+          ""
+        ],
+        [
+          "TARFAYA",
+          ""
+        ],
+        [
+          "LAAYOUNE",
+          ""
+        ],
+        [
+          "BOUJDOUR",
+          ""
+        ],
+        [
+          "DAKHLA (port de Dakhla + palangriers réfrigérés)",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "bbox": [
+        24.859028125000023,
+        436.19804999999997,
+        284.1171374999999,
+        531.98755
+      ],
+      "n_rows": 5,
+      "n_cols": 2,
+      "rows": [
+        [
+          "Délégations et sous‑délégations",
+          "Quota"
+        ],
+        [
+          "NADOR",
+          ""
+        ],
+        [
+          "AL HOCEIMA",
+          ""
+        ],
+        [
+          "JEBHA et MDIQ",
+          ""
+        ],
+        [
+          "TANGER (port et points de débarquements\nsitués sur la façade méditerranéenne)",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 11,
+      "bbox": [
+        24.859028125000023,
+        566.8252,
+        284.1171374999999,
+        789.0745499999999
+      ],
+      "n_rows": 11,
+      "n_cols": 2,
+      "rows": [
+        [
+          "Délégations et sous‑délégations",
+          "Quota"
+        ],
+        [
+          "TANGER (port et points de débarquements\nsitués sur la façade Atlantique)",
+          ""
+        ],
+        [
+          "ASSILAH",
+          ""
+        ],
+        [
+          "LARACHE",
+          ""
+        ],
+        [
+          "KENITRA- MEHDIA",
+          ""
+        ],
+        [
+          "MOHAMMADIA",
+          ""
+        ],
+        [
+          "CASABLANCA",
+          ""
+        ],
+        [
+          "EL JADIDA-JORF LASFER",
+          ""
+        ],
+        [
+          "SAFI",
+          ""
+        ],
+        [
+          "ESSAOUIRA",
+          ""
+        ],
+        [
+          "AGADIR",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "bbox": [
+        73.8638,
+        272.2422,
+        521.4119,
+        629.4084
+      ],
+      "n_rows": 4,
+      "n_cols": 3,
+      "rows": [
+        [
+          "« BUREAUX",
+          "",
+          ""
+        ],
+        [
+          "« - Agadir ;\n« - ..........................................\n« - Al-Hoceima ;\n« - Casablanca - Extérieur ;\n« - ..........................................\n« - ..........................................\n« - Essaouira ;\n« - Fès ;\n« - Kénitra ;\n« - ..........................................",
+          "« - Larache ;\n« - Marrakech ;\n« - Meknès ;\n« - ..........................................\n« - Nador ;\n« - Nouasser ;\n« - Ouarzazate ;\n« - Oujda ;\n« - Rabat-Salé ;\n« - Safi ;\n« - ..........................................",
+          "« - Tanger-méditerranée ;\n« - Tanger ;\n« - ..........................................\n« - Taza ;\n« - Tétouan ;"
+        ],
+        [
+          "« POSTES",
+          "",
+          ""
+        ],
+        [
+          "« - Agadir-Al-Massira ;\n« ..........................................\n« ..........................................\n« ..........................................\n« - Casablanca - Mead - Ouest ;\n« - Casablanca-Port-Visite et Ecor-\n« export ;\n« - Casablanca-Port-Visite et Ecor-\n« import ;\n« ..........................................\n« ..........................................\n« - Fès-Saiss ;\n« - Fès ;\n« - Figuig\n« ..........................................\n« ..........................................\n« ..........................................",
+          "« - Marrakech- Menara ;\n« - Marrakech ;\n« - M’diq ;\n« ..........................................\n« ..........................................\n« -Nador-Lutte contre les stupéfiants ;\n« -Nador Visite, Ecor et Surveillance ;\n« - Nador-Voyageurs ;\n« - Nouasser-Ecor Fret ;\n« ..........................................\n« ..........................................\n« .......................................... ;",
+          "« - Sidi-Ifni ;\n« - Tanger méditerranée Visite et\n« Ecor - export ;\n« - Tanger méditerranée - Visite et\n« Ecor-import ;\n« ..........................................\n« ..........................................\n« - Zouj - beghal»"
+        ]
+      ]
+    },
+    {
+      "page_number": 13,
+      "bbox": [
+        137.4803,
+        676.6161,
+        457.7953,
+        789.1991
+      ],
+      "n_rows": 2,
+      "n_cols": 2,
+      "rows": [
+        [
+          "« BUREAUX",
+          "« COMPÉTENCES"
+        ],
+        [
+          "« - Agadir ;\n« - ..........................................\n« - Essaouira ;\n« - Fès ;\n« - Marrakech ;\n« - Oujda ;\n« - Rabat-Salé ;\n« - Tanger ;",
+          "« - I. – Bureaux ........................... garantie)"
+        ]
+      ]
+    },
+    {
+      "page_number": 14,
+      "bbox": [
+        141.0378,
+        87.16359999999997,
+        461.3527,
+        221.74670000000003
+      ],
+      "n_rows": 2,
+      "n_cols": 2,
+      "rows": [
+        [
+          "« - Ahfir ;\n« ..........................................\n« - Ed-Dakhla ;\n« - Kénitra ;\n« ..........................................\n« ..........................................\n« - Taza ;\n« - Tétouan ;",
+          "« - II. – Bureaux ........................... d’argent)"
+        ],
+        [
+          "« - Casablanca - port ;\n« - Nouasser ;\n« - Tanger - Méditerranée ;",
+          "« - III. – Bureaux ........................... douane. »"
+        ]
+      ]
+    },
+    {
+      "page_number": 16,
+      "bbox": [
+        310.6437,
+        551.5016,
+        579.9351,
+        674.348
+      ],
+      "n_rows": 5,
+      "n_cols": 7,
+      "rows": [
+        [
+          "Espèce",
+          "G3",
+          "",
+          "G4",
+          "",
+          "R1",
+          ""
+        ],
+        [
+          "",
+          "Prix\nd’achat",
+          "Prix de\nvente\nmaxima",
+          "Prix\nd’achat",
+          "Prix de\nvente\nmaxima",
+          "Prix\nd’achat",
+          "Prix de\nvente\nmaxima"
+        ],
+        [
+          "Blé\nTendre",
+          "580",
+          "530",
+          "480",
+          "430",
+          "465",
+          "415"
+        ],
+        [
+          "Blé\nDur",
+          "880",
+          "750",
+          "780",
+          "650",
+          "765",
+          "635"
+        ],
+        [
+          "Orge",
+          "580",
+          "530",
+          "480",
+          "430",
+          "465",
+          "415"
+        ]
+      ]
+    },
+    {
+      "page_number": 17,
+      "bbox": [
+        24.3445,
+        415.0174,
+        282.4811,
+        497.76189999999997
+      ],
+      "n_rows": 5,
+      "n_cols": 3,
+      "rows": [
+        [
+          "Espèce",
+          "GUR2",
+          ""
+        ],
+        [
+          "",
+          "Prix d’achat",
+          "Prix vente maxima"
+        ],
+        [
+          "Blé tendre",
+          "435",
+          "385"
+        ],
+        [
+          "Blé Dur",
+          "735",
+          "605"
+        ],
+        [
+          "Orge",
+          "435",
+          "385"
+        ]
+      ]
+    },
+    {
+      "page_number": 19,
+      "bbox": [
+        200.81,
+        101.81999999999994,
+        363.55050000000006,
+        770.2195000000002
+      ],
+      "n_rows": 4,
+      "n_cols": 3,
+      "rows": [
+        [
+          ")XQ(\nEEERGA\nETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "EIROGETAC",
+          "",
+          ""
+        ],
+        [
+          "ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 20,
+      "bbox": [
+        184.88500000000002,
+        130.15950000000007,
+        407.40299999999996,
+        770.2195000000003
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "EEERGA\n)xQ(\nETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "NE\n)xQ(\nETITNAUQ\nKCOTS",
+          "",
+          ""
+        ],
+        [
+          "ED ETLOCER\nEENNA",
+          "",
+          ""
+        ],
+        [
+          "EIROGETAC",
+          "",
+          ""
+        ],
+        [
+          "ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "",
+          ""
+        ],
+        [
+          "TNEMEVELERP\nED\nUEIL",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 21,
+      "bbox": [
+        177.797865,
+        99.94747093999992,
+        385.297865,
+        772.2226205000001
+      ],
+      "n_rows": 6,
+      "n_cols": 3,
+      "rows": [
+        [
+          "KCOTS\nNE\n)xQ(\nETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "ED ETLOCER\nEENNA",
+          "",
+          ""
+        ],
+        [
+          "EIROGETAC",
+          "",
+          ""
+        ],
+        [
+          "ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "",
+          ""
+        ],
+        [
+          "EGAKCOTS\nED\nUEIL",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 22,
+      "bbox": [
+        201.68627694919996,
+        100.00037103940002,
+        382.37793867119996,
+        781.6905394436
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "UO\nSETREP\nSEIRAVA'D\nED\nESUAC",
+          "",
+          ""
+        ],
+        [
+          "UO\nEUDREP\nEIRAVA\nETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "ED ETLOCER\nEENNA",
+          "",
+          ""
+        ],
+        [
+          "TOL\nUD\nOREMUN",
+          "",
+          ""
+        ],
+        [
+          "EIROGETAC",
+          "",
+          ""
+        ],
+        [
+          "ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 23,
+      "bbox": [
+        211.50700000000003,
+        86.10650000000007,
+        374.24600000000004,
+        777.3064999999999
+      ],
+      "n_rows": 6,
+      "n_cols": 3,
+      "rows": [
+        [
+          ")XQ(\nEEERGA\nETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "TOL\nED\n°N",
+          "",
+          ""
+        ],
+        [
+          "RUESSINRUOF",
+          "",
+          ""
+        ],
+        [
+          "EIROGETAC",
+          "",
+          ""
+        ],
+        [
+          "ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 24,
+      "bbox": [
+        204.08399999999997,
+        86.10650000000003,
+        426.6145000000001,
+        777.3064999999999
+      ],
+      "n_rows": 8,
+      "n_cols": 3,
+      "rows": [
+        [
+          "EEERGA\n)xQ(\nETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "NE\n)xQ(\nETITNAUQ\nKCOTS",
+          "",
+          ""
+        ],
+        [
+          "TOL\n°N",
+          "",
+          ""
+        ],
+        [
+          "ED ETLOCER\nEENNA",
+          "",
+          ""
+        ],
+        [
+          "EIROGETAC",
+          "",
+          ""
+        ],
+        [
+          "ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "",
+          ""
+        ],
+        [
+          "TNEMEVELERP\nED\nUEIL",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 25,
+      "bbox": [
+        204.08400000000003,
+        86.8265000000001,
+        411.61400000000003,
+        777.3064999999999
+      ],
+      "n_rows": 6,
+      "n_cols": 3,
+      "rows": [
+        [
+          "KCOTS\nNE\n)xQ(\nETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "ED ETLOCER\nEENNA",
+          "",
+          ""
+        ],
+        [
+          "EIROGETAC",
+          "",
+          ""
+        ],
+        [
+          "ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "",
+          ""
+        ],
+        [
+          "EGAKCOTS\nED\nUEIL",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "bbox": [
+        201.09108280000004,
+        90.82087282120001,
+        387.11108279999996,
+        782.1462159578998
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "UO\nSETREP\nSEIRAVA'D\nED\nSESUAC",
+          "",
+          ""
+        ],
+        [
+          "UO\nEUDREP\nEIRAVA\nETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "ED ETLOCER\nEENNA",
+          "",
+          ""
+        ],
+        [
+          "TOL\nUD\nOREMUN",
+          "",
+          ""
+        ],
+        [
+          "EIROGETAC",
+          "",
+          ""
+        ],
+        [
+          "ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 27,
+      "bbox": [
+        180.2044739,
+        86.28026596294995,
+        408.09227651,
+        780.9947204949499
+      ],
+      "n_rows": 9,
+      "n_cols": 4,
+      "rows": [
+        [
+          ")XQ\n(\n)3(-)2(-)1(\nED\nSEREILAE\nSETNEV",
+          "",
+          ")XQ(\nEE",
+          ""
+        ],
+        [
+          "REC\n)xQ(\nUO\nSECNEME SEIRAVA'D\nSETREP\n)3(\n………",
+          "",
+          "ERGA\nET\nITNAUQ",
+          ""
+        ],
+        [
+          "S EENNA’L\nAL SETNEV\nSED\nED\nSESYLANA’D NIF\n)2(\nSED\nAL ED )xQ(\nA EDOIREP\nETLOC\nKCOTS",
+          "………… .…………\nERE ELO\nI",
+          "EIRO",
+          ""
+        ],
+        [
+          "ER\nSTATLUSER\n:\nELANOITAN\n)xQ(\nEERGA\nSED\nELBINOPSID\nNOITCUDORP\nSTACIFITRE",
+          "CNEMES CIRGA\n)1(\nLATOT\nEN",
+          "GET\nA\nC",
+          ""
+        ],
+        [
+          "",
+          "E ETDE G\nTARPOMPEARC\nKICCOOTSS",
+          "",
+          ""
+        ],
+        [
+          "",
+          "EENNA'L\nETLOCER\nED",
+          "ETEIR\nA\nV",
+          ""
+        ],
+        [
+          "C\nEIROGETAC\nSED\nFITA",
+          "",
+          "",
+          ""
+        ],
+        [
+          "LUTIPACE\nETEIRAV",
+          "",
+          "EC\nEPSE",
+          ""
+        ],
+        [
+          "R ECEPSE",
+          "",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 28,
+      "bbox": [
+        173.82651370000002,
+        84.15428946294998,
+        401.81001232999995,
+        778.8687439949499
+      ],
+      "n_rows": 9,
+      "n_cols": 4,
+      "rows": [
+        [
+          ")XQ\n(\n)3(-)2(-)1(\nED\nSEREILAE SETNEV",
+          "",
+          ")XQ(\nEE",
+          ""
+        ],
+        [
+          "REC\n)xQ(\nUO\nSECNEME SEIR\nSETREP\n)3(\nA…V…A'D…",
+          "",
+          "ERGA\nET\nITNAUQ",
+          ""
+        ],
+        [
+          "S E\nAL SEENTNNEAV’\nSED\nED\nSESYLANA’D NIF\nLS )2(\nAL EEDD )xQ(\nA E\nEDOTILROEPC\nKCOTS",
+          "…………\nERE\nI",
+          ".…………\nELO\nEIR",
+          ""
+        ],
+        [
+          "ER\nSTATLUSER\n:\nE\n)LxQA(N\nEOERITGAA\nSED\nNEL\nNBIONOITPCSUIDDORP\nSTACIFITRE",
+          "CNEMES\n)1(\nLATOT",
+          "CIRGA OGET\nA\nC\nEN",
+          ""
+        ],
+        [
+          "",
+          "E\nETDE\nTROPER\nKICCOOTSS",
+          "GAPMAC",
+          ""
+        ],
+        [
+          "",
+          "EENNA'L\nETLOCER\nED",
+          "ETEIR\nA\nV",
+          ""
+        ],
+        [
+          "C\nEIROGETAC\nSED\nFITA",
+          "",
+          "",
+          ""
+        ],
+        [
+          "LUTIPACE\nETEIRAV",
+          "",
+          "EC\nEPSE",
+          ""
+        ],
+        [
+          "R ECEPSE",
+          "",
+          "",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 29,
+      "bbox": [
+        223.96384159999997,
+        88.68830601910003,
+        420.1631114000001,
+        772.2629328751001
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "ERUTCAF\nED\nOREMUN",
+          ")XQ(\nEEERGA\nETI",
+          ""
+        ],
+        [
+          ")xQ(\n)HD(\nETNE\n………… .V…\nE…D\nX…IR…P",
+          "TNAUQ",
+          ""
+        ],
+        [
+          "EREICNEMES EL\nEOIRCOIGREGTAAC\nE",
+          "EIROGETAC",
+          ""
+        ],
+        [
+          "N\nETEICOS GETAEPIRMAAVC",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "ETEIRAV",
+          ""
+        ],
+        [
+          ")xQ(\nSETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "SERIAICIFENEB\nSED\nSMON",
+          "ECEPSE",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 30,
+      "bbox": [
+        228.92447390000004,
+        90.37675968650001,
+        425.17691466249994,
+        778.8687439949499
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "ERUTCAF\nED\nOREMUN",
+          ")XQ(\nEEERGA\nET",
+          ""
+        ],
+        [
+          ")xQ(\n)HD(\nETNEV\n………… .…………\nED\nXIRP",
+          "ITNAUQ",
+          ""
+        ],
+        [
+          "EREICNEME ELOCIRGA\nEIROGETAC\nE",
+          "EIROGETAC",
+          ""
+        ],
+        [
+          "S\nNGAPMAC\nETEICOS ETEIRAV",
+          "",
+          ""
+        ],
+        [
+          "ECEPSE",
+          "ETEIRAV",
+          ""
+        ],
+        [
+          ")xQ(\nSETITNAUQ",
+          "",
+          ""
+        ],
+        [
+          "SERIAICIFENEB\nSED\nSMON",
+          "ECEPSE",
+          "LATOT"
+        ]
+      ]
+    },
+    {
+      "page_number": 65,
+      "bbox": [
+        24.5945,
+        178.61,
+        284.3819,
+        266.1504
+      ],
+      "n_rows": 5,
+      "n_cols": 3,
+      "rows": [
+        [
+          "Points",
+          "Latitude WGS 84",
+          "Longitude WGS 84"
+        ],
+        [
+          "1",
+          "35°38'00,000''N",
+          "7°04'08,000''W"
+        ],
+        [
+          "2",
+          "35°38'00,000''N",
+          "Intersection/côte"
+        ],
+        [
+          "3",
+          "35°27'58,800''N",
+          "Intersection/côte"
+        ],
+        [
+          "4",
+          "35°27'58,800''N",
+          "7°04'08,000''W"
+        ]
+      ]
+    },
+    {
+      "page_number": 65,
+      "bbox": [
+        310.8937,
+        420.464,
+        570.6812,
+        543.5875
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "Points",
+          "Latitude WGS 84",
+          "Longitude WGS 84"
+        ],
+        [
+          "1",
+          "35°27'58,800''N",
+          "7°04'08,000''W"
+        ],
+        [
+          "2",
+          "35°27'58,800''N",
+          "Intersection/côte"
+        ],
+        [
+          "3",
+          "35°06'00,000''N",
+          "Intersection/côte"
+        ],
+        [
+          "4",
+          "35°06'00,000''N",
+          "6°16'00,000''W"
+        ],
+        [
+          "5",
+          "35°18'00,000\"N",
+          "6°16'00,000''W"
+        ],
+        [
+          "6",
+          "35°18'00,000\"N",
+          "7°04'08,00\"W"
+        ]
+      ]
+    },
+    {
+      "page_number": 66,
+      "bbox": [
+        310.8937,
+        129.6653,
+        570.6810999999999,
+        252.78869999999995
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "Points",
+          "Latitude WGS 84",
+          "Longitude WGS 84"
+        ],
+        [
+          "1",
+          "35°18'00,000''N",
+          "7°04'08,000''W"
+        ],
+        [
+          "2",
+          "35°18'00,000''N",
+          "6°45'00,000\"W"
+        ],
+        [
+          "3",
+          "35°11'00,000''N",
+          "6°45'00,000\"W"
+        ],
+        [
+          "4",
+          "35°11'00,000''N",
+          "6°46'30,000''W"
+        ],
+        [
+          "5",
+          "34°56'00,000\"N",
+          "6°46'30,000''W"
+        ],
+        [
+          "6",
+          "34°56'00,000\"N",
+          "7°04'08,000\"W"
+        ]
+      ]
+    },
+    {
+      "page_number": 67,
+      "bbox": [
+        24.594500000000004,
+        420.464,
+        284.3818999999999,
+        543.5875
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "Points",
+          "Latitude WGS 84",
+          "Longitude WGS 84"
+        ],
+        [
+          "1",
+          "34°56'00,000''N",
+          "7°04'08,000''W"
+        ],
+        [
+          "2",
+          "34°56'00,000''N",
+          "6°39'20,000\"W"
+        ],
+        [
+          "3",
+          "34°47'36,000''N",
+          "6°39'20,000\"W"
+        ],
+        [
+          "4",
+          "34°47'36,000''N",
+          "Intersection/côte"
+        ],
+        [
+          "5",
+          "34°36'03,875\"N",
+          "Intersection/côte"
+        ],
+        [
+          "6",
+          "34°36'03,873\"N",
+          "7°04'08,000\"W"
+        ]
+      ]
+    },
+    {
+      "page_number": 68,
+      "bbox": [
+        24.594500000000004,
+        166.928,
+        284.3818999999999,
+        290.05150000000003
+      ],
+      "n_rows": 7,
+      "n_cols": 3,
+      "rows": [
+        [
+          "Points",
+          "Latitude WGS 84",
+          "Longitude WGS 84"
+        ],
+        [
+          "1",
+          "34°36'03,873''N",
+          "7°04'08,000''W"
+        ],
+        [
+          "2",
+          "34°36'03,875''N",
+          "Intersection/côte"
+        ],
+        [
+          "3",
+          "34°18'25,000''N",
+          "Intersection/côte"
+        ],
+        [
+          "4",
+          "34°18'25,000''N",
+          "7°09'05,000\"W"
+        ],
+        [
+          "5",
+          "34°34'25,000\"N",
+          "7°09'05,000\"W"
+        ],
+        [
+          "6",
+          "34°34'25,000\"N",
+          "7°04'08,000\"W"
+        ]
+      ]
+    }
+  ],
+  "n_unlinked_tables": 26,
+  "n_total_tables": 26,
+  "total_pdf_pages": 68
+}

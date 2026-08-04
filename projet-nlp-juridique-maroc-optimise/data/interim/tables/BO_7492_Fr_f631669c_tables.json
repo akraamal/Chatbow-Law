@@ -1,0 +1,3320 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      223.7284,
+      229.5871999999999,
+      427.8228,
+      388.01629999999994
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "TARIFS D’ABONNEMENT",
+        "",
+        ""
+      ],
+      [
+        "AU MAROC\n{\n6 mois 1 an",
+        "",
+        "A L’ETRANGER"
+      ],
+      [
+        "250 DH\n150 DH\n150 DH\n250 DH\n250 DH",
+        "400 DH\n200 DH\n200 DH\n300 DH\n300 DH",
+        "A destination de l’étranger,\npar voies ordinaire, aérienne\nou de la poste rapide interna‑\ntionale, les tarifs prévus ci‑\ncontre sont majorés des frais\nd’envoi, tels qu’ils sont fixés\npar la réglementation postale\nen vigueur."
+      ]
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58.78095312500001,
+      286.3386888888889,
+      536.2154102564103,
+      566.7781000000001
+    ],
+    "n_rows": 10,
+    "n_cols": 7,
+    "rows": [
+      [
+        "Catégories",
+        "Repas (en dhs)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Tarif journalier (par personne)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Petit ‑ déjeuner",
+        "",
+        "Déjeuner",
+        "",
+        "Dîner",
+        ""
+      ],
+      [
+        "",
+        "simple",
+        "spécial",
+        "simple",
+        "spécial",
+        "simple",
+        "spécial"
+      ],
+      [
+        "Public dans le cadre de la formation",
+        "22",
+        "30",
+        "75",
+        "95",
+        "75",
+        "95"
+      ],
+      [
+        "Stagiaires des établissements de formation",
+        "10",
+        "15",
+        "35",
+        "50",
+        "35",
+        "50"
+      ],
+      [
+        "Clients visiteurs",
+        "22",
+        "28",
+        "100",
+        "120",
+        "100",
+        "120"
+      ],
+      [
+        "Associations et organisations caritatives et\nsociales",
+        "15",
+        "22",
+        "40",
+        "65",
+        "40",
+        "65"
+      ],
+      [
+        "Fondations d'œuvres sociales non\nconventionnées",
+        "20",
+        "28",
+        "85",
+        "100",
+        "85",
+        "100"
+      ],
+      [
+        "Fondations d'œuvres sociales\nconventionnées",
+        "15",
+        "20",
+        "45",
+        "65",
+        "45",
+        "65"
+      ]
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      58.78095312500001,
+      607.6567999999999,
+      536.2154102564103,
+      788.7080857142856
+    ],
+    "n_rows": 10,
+    "n_cols": 6,
+    "rows": [
+      [
+        "Catégories",
+        "Hébergement (en dhs)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Tarif journalier (par personne)",
+        "",
+        "Tarif forfaitaire",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Dortoir",
+        "Chambre\nd'application",
+        "Suite\nd'application",
+        "Appartement",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Maison\nd'hôtes"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Public dans le cadre de la\nformation",
+        "70",
+        "250",
+        "650",
+        "750",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "750"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Stagiaires des\nétablissements de\nformation",
+        "25",
+        "50",
+        "–",
+        "–",
+        "–"
+      ],
+      [
+        "Stagiaires des\nétablissements de\nformation",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      56.0526,
+      86.83839999999998,
+      539.223,
+      240.58960000000002
+    ],
+    "n_rows": 4,
+    "n_cols": 6,
+    "rows": [
+      [
+        "Clients visiteurs",
+        "120",
+        "300",
+        "750",
+        "950",
+        "850"
+      ],
+      [
+        "Associations et\norganisations caritatives et\nsociales",
+        "50",
+        "200",
+        "600",
+        "650",
+        "650"
+      ],
+      [
+        "Fondations d'œuvres\nsociales non\nconventionnées",
+        "80",
+        "300",
+        "700",
+        "900",
+        "700"
+      ],
+      [
+        "Fondations d'œuvres\nsociales conventionnées",
+        "50",
+        "250",
+        "650",
+        "850",
+        "650"
+      ]
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.77245714285709,
+      294.44715,
+      525.5034095238092,
+      481.5437666666666
+    ],
+    "n_rows": 26,
+    "n_cols": 2,
+    "rows": [
+      [
+        "",
+        ""
+      ],
+      [
+        "Catégories",
+        "Tarif journalier (en dhs)"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Salle polyvalente",
+        "1000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Amphithéâtre",
+        "10000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Restaurant de l'hôtel pédagogique",
+        "8000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Salle de classe",
+        "500"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Salle de restaurant",
+        "3000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Salle de conférence équipée (ordinateur,\naudiovisuel...)",
+        ""
+      ],
+      [
+        "",
+        "3000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Salle de réunion (entre 10 et 15)",
+        "1000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Buvette",
+        "3000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Cuisine",
+        "10000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Terrain de sport",
+        "1000"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Salle de sport",
+        "3000"
+      ]
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      69.77245714285709,
+      535.90505,
+      525.5034095238092,
+      566.6017
+    ],
+    "n_rows": 4,
+    "n_cols": 2,
+    "rows": [
+      [
+        "",
+        ""
+      ],
+      [
+        "Type de formations",
+        "Tarif par personne et par heure (en dhs)"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Formation continue",
+        "700"
+      ]
+    ]
+  },
+  {
+    "page_number": 41,
+    "bbox": [
+      51.4399,
+      157.29250000000002,
+      547.3416,
+      688.8595
+    ],
+    "n_rows": 4,
+    "n_cols": 5,
+    "rows": [
+      [
+        "Série",
+        "Signaux de l'intercepteur",
+        "Signification",
+        "Réponses de l'intercepté",
+        "Signification"
+      ],
+      [
+        "1",
+        "De jour et de nuit :\nBalancer l’appareil et faire clignoter à\nintervalles irréguliers les feux de position\n(et les feux d’atterrissage dans le cas d’un\nhélicoptère) après s’être placé Légèrement\nau-dessus et en avant, et normalement à la\ngauche, de l’aéronef intercepté (ou à sa droite\nsi l’intercepté est un hélicoptère) puis, après\nréponse, effectuer un lent virage en palier\nnormalement vers la gauche (ou vers la droite\ndans le cas d’un hélicoptère), pour prendre le\ncap voulu.\nNote 1 ‑ Les conditions météorologiques ou le\nrelief peuvent exiger que l’intercepteur inverse\nles positions et le sens du virage indiqué ci\ndessus dans la série1.\nNote 2 ‑ Si l’aéronef intercepté ne peut\névoluer aussi rapidement que l’intercepteur\nce dernier doit exécuter une série de circuits\nen hippodrome et balancer l’appareil chaque\nfois qu’il dépasse l’aéronef intercepté.",
+        "Vous avez été\nintercepté.\n, Suivez-moi.\n,\n-\n,",
+        "De jour et de nuit :\nBalancer l’appareil, faire\nclignoter à intervalles\nirréguliers les feux de position\net suivre.\nNote - Les autres mesures\nque doit prendre l’aéronef\nintercepté sont prescrites au\nchapitre III, paragraphe 3.13.",
+        "Compris,\nj’obéis."
+      ],
+      [
+        "2",
+        "De jour et de nuit :\nExécuter une manœuvre brusque de\ndégagement, consistant en un virage en\nmontée de 90° ou plus, sans couper la ligne\nde vol de l’aéronef intercepté.",
+        "Vous pouvez\ncontinuer.",
+        "De jour et de nuit :\nBalancer l’appareil.",
+        "Compris,\nj’obéis."
+      ],
+      [
+        "3",
+        "De jour et de nuit :\nAbaisser le train d’atterrissage\n(si l’aéronef en est doté), allumer les phares\nd’atterrissage fixes et survoler la piste en\nservice ou, si l’aéronef intercepté est un\nhélicoptère, survoler l’aire d’atterrissage\npour hélicoptères. S’il s’agit d’hélicoptères\nl’hélicoptère intercepteur exécute une\napproche et se met en vol stationnaire près de\nl’aire d’atterrissage.",
+        "Atterrissez sur\ncet aérodrome.\n,",
+        "De jour et de nuit :\nAbaisser le train d’atterrissage\n(si l’aéronef en est doté), allumer\nles phares d’atterrissage\nfixes, suivre l’aéronef\nintercepteur et, si après le\nsurvol de la piste en service\nou de l’aire d’atterrissage pour\nhélicoptères, il est jugé possible\nd’atterrir en sécurité, procéder\nà l’atterrissage.",
+        "Compris,\nj’obéis."
+      ]
+    ]
+  },
+  {
+    "page_number": 42,
+    "bbox": [
+      51.4399,
+      122.6961,
+      547.236,
+      467.0531
+    ],
+    "n_rows": 4,
+    "n_cols": 5,
+    "rows": [
+      [
+        "Série",
+        "Signaux de l'intercepté",
+        "Signification",
+        "Réponses de\nl'intercepteur",
+        "Signification"
+      ],
+      [
+        "4",
+        "De jour et de nuit :\nRentrer le train d’atterrissage\n(si l’aéronef en est doté) et faire clignoter les\nphares d’atterrissage en passant au-dessus\nde la piste d’atterrissage en service ou de\nl’aire d’atterrissage pour hélicoptères à une\nhauteur supérieure à 300 m (1 000 pieds), mais\ninférieure à 600 m (2000pieds) (dans le cas\nd’un hélicoptère, à une hauteur supérieure à\n50 m [170 pieds], mais inférieure à 100 m [330\npieds]) au dessus du niveau de l’aérodrome,\net continuer à exécuter des circuits autour de\nla piste en service ou de l’aire d’atterrissage\npour hélicoptères. S’il est impossible de\nfaire clignoter les phares d’atterrissage, faire\nclignoter tous les autres feux utilisables.",
+        "Il m’est\nimpossible\nd’atterrir sur\ncet aérodrome.",
+        "De jour et de nuit :\nS’il désire que l’aéronef\nintercepté le suive vers\nun autre aérodrome,\nl’intercepteur rentre\nson train d’atterrissage\n(si l’aéronef en est\ndoté) et fait les signaux\nde la série 1 prescrits\npour l’intercepteur.\nS’il décide de\nlaisser partir\nl’aéronef intercepté,\nl’intercepteur fait\nles signaux de la\nsérie 2 prescrits pour\nl’intercepteur.",
+        "Compris,\nSuivez moi.\nCompris,\nvous pouvez\ncontinuer."
+      ],
+      [
+        "5",
+        "De jour et de nuit :\nAllumer et éteindre régulièrement tous les\nfeux disponibles, mais d’une manière qui\npermette de les distinguer des feux clignotants.",
+        "Il m’est\nimpossible\nd’obéir.",
+        "De jour et de nuit :\nUtiliser les signaux de\nla série 2 prescrits pour\nl’aéronef intercepteur.",
+        "Compris."
+      ],
+      [
+        "6",
+        "De jour et de nuit :\nFaire clignoter de façon irrégulière tous les\nfeux disponibles.",
+        "En détresse",
+        "De jour et de nuit :\nUtiliser les signaux de\nla série 2 prescrits pour\nl’aéronef intercepteur.",
+        "Compris."
+      ]
+    ]
+  },
+  {
+    "page_number": 43,
+    "bbox": [
+      51.4399,
+      137.7663,
+      561.7399,
+      380.1834999999999
+    ],
+    "n_rows": 4,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Signal lumineux",
+        "Signaux adressés par le contrôle d’aérodrome",
+        ""
+      ],
+      [
+        "",
+        "à des aéronefs en vol",
+        "à des aéronefs au sol"
+      ],
+      [
+        "Feu vert continu\nFeu rouge continu\nSérie d’éclats verts\nSérie d’éclats rouges\nSérie d’éclats blancs\nArtifice à feu rouge",
+        "Vous êtes autorisé à atterrir.\nCédez le passage à un autre aéronef et\nrestez dans le circuit.\nRevenez pour atterrir*.\nAérodrome dangereux, n’atterrissez pas.\nAtterrissez à cet aérodrome et\nGagnez l’aire de trafic*.\nQuelles que soient les instructions antérieures,\nn’atterrissez pas pour le moment.",
+        "Vous êtes autorisé à décoller.\nArrêtez.\nVous êtes autorisé à circuler.\nDégagez l’aire d’atterrissage en service.\nRetournez à votre point de départ sur\nl’aérodrome."
+      ],
+      [
+        "* La clearance d’atterrir et la clearance de circuler seront communiquées en temps utile.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      446.987,
+      275.11299999999994,
+      551.719,
+      798.02215
+    ],
+    "n_rows": 4,
+    "n_cols": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 44,
+    "bbox": [
+      50.564899999999994,
+      286.9321,
+      425.51379999999995,
+      798.02215
+    ],
+    "n_rows": 17,
+    "n_cols": 1,
+    "rows": [
+      [
+        "4Ulo .n2 rs S qpuaign’i nnl aee uasux t cv dai i srs urpée o lrs soé au u sgue s r o hl lo’ ariizreo nàt asl iàg ndaiuaxg,o nqaulee sl ejasu antetse rirnisdsiaqguees,\n4.2 Signaux visuels au sol\nlsoornstq iun’tiel rdeistts deits qpuoes él ’isnutre rld’aicirtieo nà pseigunt aseu xp,r oqluoen gleers. atterrissages"
+      ],
+      [
+        "4s o.2n.t1 i nIntetredridtsi cetti oqnu ed l’’ainttteerrrdiirc tion peut se prolonger."
+      ],
+      [
+        "U n panneau carré rouge 4h.o2r.i1z oInnttearld àic dtiioang odn’aatlteesr rjiarunes indique,"
+      ],
+      [
+        "4 .2 . 2 P r é c a u t io n s s p é c ia l e s à p r e n d r e a u c o u r s d e l’ a p p r o c h e o u de l’atterrissa\nl o rs q u ’i l e st d is p o s é s u r l ’ a i r e à si g n a u x , q u e l e s a t te r ri s sa g e s\nUn pa s4U o n .n2n n .t e 2 pa i n aP un tr e cnér aecd raai r t uu é s t r e ci o ot a u nr q grsu ée e s h pr l oo ’éi ur cn igi z tae eo lr n ed hs t i ao cà lr t i ià po z o nr d en i p a ntg e adu ol rt n e a s a v ea lee up cs rc j o auol unuo ne nr e sg ss e dei r nue. d llei ’ q adu pie pa, gr lo oor cns haqle ue o ’i u l e d st e d l i ’ s a p t o te s r é r s i u ss r a\nl’aire Ujàa nusi ngpen aainnundxei,aq quuu eec, allerosrr éas tqtrueor’uirgli sees ashtg oedsrii sszopononstt aéin l staeurvrd elict’ sa uiernte eq àu sese liu’gilnneta eudrxida,i gcqotiuno’anel nep eut se prolonger."
+      ],
+      [
+        "jraauisnoen inddui qmuea,u vloariss qéut’ailt edset ld’iasipreo séd es umr aln’aœiruev ràe soigun apuoxu,r qtuo’uetne\n4raau .2itsr .o2 en P ra rdi éus c o amn u ,a tiud ove nas s i sp s p réé étcac ati a udl t e ieo s n là s’ apis rrpee é n cdd iea r l e em s a au dn oœco iuv uve r nrset doê e tu r l e ’p aop pur p irs r e otsoc huate ue o u de l’atterrissa"
+      ],
+      [
+        "Uac4uo n.tu2r r.ep2s a dPrnaerni ésl ec’oaaanu pu, tp ic roda oner cssr h ése pp érro oécuicua ag alueu est i càoh o nopusrrr i es zns o dpdn eérte ca l i’alaa ult ae tcv eso r eur cdir soss u idavnegee enl ’.tas peêputrlreoe c hdpeira iogsueo sdn eaa llue’a tterrissage"
+      ],
+      [
+        "jc aouunres dined li’qaupep,r olcohrseq ouu’i la ue scto udrissp does él’ astuter rrl’isasiraeg eà. signaux, qu’en\nUn panneau carré rouge horizontal avec une seule diagonale jaune indique, lorsqu’il est\nr aison du mauvais état de l’aire de manœuvre ou pour toute\ndispoa sué tsrue r rla’aisiroen à, sdigens apurxé,c qauu’teino nrsa issopné cdiual emsa udvoaivise éntta tê dtree l’paririsee dse amua nœuvre ou pour\ntoutec aouutrrse drea ils’oanpp, rdoecsh per oécua auuti oconus rssp déeci al’laetst edroriisvseangte ê. tre prises au cours de l’approche\nou au 4 c.2o.u3r Us dtiel ils’aatttieornr idsseasg pe.istes et voies de circulation"
+      ],
+      [
+        "44..22..33 .U1 tUilnis aptainonne adue sh poirsizteosn etatl vboliaensc d een c fiorcrmulea tdi’ohna ltère indique,"
+      ],
+      [
+        "4lo.2rs.3q.u1’ iUl nes pt adninspeaousé h sourirz ol’natiarel bàl asnicg neanu fxo, rqmue’ idl ’ehsatl tpèrrees icnrditi qauuex,"
+      ],
+      [
+        "laoérrsoqnue’fisl des’at tdteirsrpior,s éd es udré cl’oalilreer àe t sdigen caiurxcu, lqeur ’eilx celsut spivreemscerintt asuuxr\n4.2.3 Utilisation des pistes et voies de circulation\naleésr opnisetfess de’ta vttoeirersir d, ed eci rdcéucloaltlieorn .e t de circuler exclusivement sur"
+      ],
+      [
+        "4.2.3 Utilisation des pistes et voies de circulation\n4.2.3.4l 1e. s2U .p3ni.s 1tp eUasn nen tpe vaaounin ehesoa druei z hocoinrrtciazuoll anbttliaaolnn bc. laennc f oernm feo rdm’hea dlt’èhrael tiènrdei qinudei,q luoer,s qu’il est disposé\nsur l’l aoirrseq àu ’siilg nesatu xd,i sqpuo’siél essut rp lr’easicrrei tà a usixg naaéuroxn, eqfus ’dil’ aetstet rprirre, sdceri td éacuoxl ler et de circuler\na éronefs d’atterrir, de décoller et de circuler exclusivement sur\nexclus iv e m e n t s u r l e s p i st e s e t v o ie s d e circulation.\nl e s p is t e s e t v o i e s d e c i r c u la ti o n ."
+      ],
+      [
+        ""
+      ],
+      [
+        "4.2.3.2 Un panneau horizontal blanc, en forme d’haltère,\nanalogue à celui indiqué en 4.2.3.1 mais comportant une bande"
+      ],
+      [
+        "4.2.3.2 Un panneau horizontal blanc, en forme d’haltère,\n4.2.3. an2no Uairleon g ppueaern pàne encaeduliuc hiu olianriidrzeioq nuàt éal lae nbb laa4nr.r2ce.,3 et.r1na nmfosvarimesr esc aodlem’h pdaoaltnrètsra en,c th auanncauelo nbgeau nded eàes celui indiqué en\n4.2.3. ne 1 xo m tirréea m ispi et c érops m ecnp idr o circu tua lalnai t ri erues n dàe e bl aa l ’ n hbd aae lrt rè ner o eti rr iae nn d psive q reu prese ,an ll deo i r cds uaq lna usi ’ r i e lc he àas l tca ud nb isea p rdo rees ést ransversale dans\n4esux.2 rtr . l 3é’m. a 2 i irteéU sà n sc iigrpcn aua nluan xier, ae q usu d’ h iel o elr’s ihz t ao pln rteèta srlec riib tn lda a uinqx cu , ae é, e rlo non resfqf o sur m’di’le a ettse dtr ’ rdh irias l ept t èo r dse eé,\nchacune des extrémités circulaires de l’haltère indique, lorsqu’il est disposé sur l’aire à\nasdun éra c l olo’lag leiurree s àu à r s cil ege l snu ap iu i i sxn t,d e qs iq us u’eié ul lee esn mt 4pe .rn 2et .s, 3 cm .r1ia t i masu a qxi u s ae cé l oreom sn p aeu ofst r r t da e n s’a t m ttuea nrn erœi rb uea vtn rdd eee s\nsignandpuoéexcu i,r ovqele ulnep’irt el rsêeputse rrte n lp dere isec f sfpuceilrcsaitt iteu r esaé uesà sxe ulaa aléie lrml boe aneu rner r sfte,s qmtdr u’aaae nit ssts evqureurr r iesrl a eleles ets dp daeiua s ntdtre sées cs co emhltla eac vrnu oœsn iue eurs v dlred eese ss p istes seulement,\nepc x ier tuc rvu éem lant iti t o éên st .r cei recfufleacirtuesé edse ali’lhleaultrèsr eq uined siquur el,e lso rpsiqsute’sil eets tv odiiesps odseé\nmais que les autres manœuvres peuvent être effectuées ailleurs que sur les pistes et voies\nsc uirrc lu’laaitrieo nà. s ignaux, qu’il est prescrit aux aéronefs d’atterrir et de\nde cir c u la t i o n .\nd é c o l l e r sur les pistes seulement, mais que les autres manœuvres"
+      ],
+      [
+        "4 .2 . 4 P i s t e s o u v o ie s d e c i r c u l a t io n f e r m é e s\np e u v e n t ê t re ef fe c tu é e s a i l le u r s q ue s u r l e s pistes et voies de"
+      ],
+      [
+        "c4D i.r e2c s.u4 l Pa c t rii osoti n xe.s odu’u vnoei esc oduel ecuirrc uulantifioonrm feer mcoénestr astante, jaune ou\n4.2.4 Pistes ou voies de circulation fermées\nDbleasn chcero, idxi spdo’suénees hcooruilzeounrt aluenmifeonrtm seu r cdoenst rpaissttaenst eo,u jdaeusn ev oioeus"
+      ],
+      [
+        "Des bdclera oniccxih rcedu, ’lduaitnsieop no scéooeuusl ehusourr ri zuodnneistfao lrepmmareet inetcs o snudtrer adspetsias ntpetie s,t oeusj a oudune e d evoso uive o ibdelesa nche, disposées\n4dci .er 2 c . u 4cl iP arct i ius o tlnae stii oo nnu d i q vou oue i e n sst ud dre e s cd ier zsc o u npl e a sat riti oimensp f r e odr pem r e éps e issa tuex omua ndœe uvvroeise ddees\nhorizontalement sur des pistes ou des voies de circulation ou sur des parties de piste ou\nDcaiére rcs ou nleac ftris oo. i nx indd’uiqnuee nct oduelse uzro nuensi fiomrmpreo prceosn taruaxst amntaen, œujavurnees doeus\nde vo ba ieél ardon enc c heife rs, c .u d l i a s t p io o n sé i e n s d i h q o u r e iz n o t n d t e a s le z m on en es t i s m ur p r d o e p s r e p s i s a t u e x s m ou a n d œ es u v v r o es ie d s e s aéronefs."
+      ]
+    ]
+  },
+  {
+    "page_number": 45,
+    "bbox": [
+      50.56489999999999,
+      86.71339999999998,
+      425.5137999999999,
+      562.2321
+    ],
+    "n_rows": 19,
+    "n_cols": 1,
+    "rows": [
+      [
+        "4.2.5 Directions d’atterrissage et de décollage\n4.2.5 Directions d’atterrissage et de décollage"
+      ],
+      [
+        "4.2.5.1 Un T d’atterrissa4g.e2 .h5o.1r izUonn tTa l db’laatntecr roiuss oagrae nhgoer iinzodniqtaul eb alaunxc a oéruo noreafns glae diinrdeicqtuioe na àu\naéronefs la direction à utiliser pour l’atterrissage et le décollage, ceux\nutiliser pour l’atterrissagcei est’ eleff decétcuoalnlat gdea,n cse uuxn-ec id sir’eecffteiocntu paanrta ldlèalnes àu nlae bdairrreec tvioernt ipcaalrea ldlèul eT\nvers la barre transversale du T.\nà la barre verticale du T, vers la barre transversale du T."
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        "4.2.5.2 Un groupe de d4e.u2x.5 c.2h ifUfrne s,g rpoluapcée s dvee rtdiecuaxle mcheinftfr esus,r plel abcéâst imveerntitc dalee mlae ntot usru rd el\nbâtiment de la tour de contrôle d’aérodrome ou près de celle-ci\ncontrôle d’aérodrome ou près de celle-ci, indique aux aéronefs sur l’aire de manœuvre la\nindique aux aéronefs sur l’aire de manœuvre la direction du décollage\ndirection du décollage, eexxpprriimmééee e enn d idziazinaeins edse ddeeg dréesg drué sc odmu pcaos mmpagansé mtiqaugen, aértrioqnudeie, aà rlrao dnizdaiien\nla plus proche.\nà la dizaine la plus proche."
+      ],
+      [
+        ""
+      ],
+      [
+        "4.2.6 Circulation à droite"
+      ],
+      [
+        "Une flèche de couleur voyante, dirigée vers la droite, placée sur l’air\n4.2.6 Circulation à droite\nà signaux ou disposée horizontalement à l’extrémité de la piste ou d"
+      ],
+      [
+        "Une flèche de couleur lvao byaanndtee, edni rsiegrévei cve,e risn dliaq uder oqiutee, lepsl avciérea gseus rd lo’iavieren t àê tsrieg nexaéucxu toésu\ndroite avant l’atterrissage et après le décollage.\ndisposée horizontalement à l’extrémité de la piste ou de la bande en service, indique que\nles virages doivent être e xécutés à droite avant l’atterrissage et après le décollage."
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        "4.2.7 Bureau de piste\n4.2.7 Bureau de piste\nLa lettre C, noire sur fond jaune, placée verticalement, indiqu"
+      ],
+      [
+        "La lettre C, noire sur fonl’de mjapulnace,e mpleancté deu v ebrutriecaaule dme epnistt,e i.n dique l’emplacement du bureau\nde piste."
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        "4.2.8 Vols de planeurs en cours"
+      ],
+      [
+        "Une double croix blanche, disposée horizontalement dans l’aire\n4.2.8 Vols de planeurs en cours\nsignaux, indique que l’aérodrome est utilisé par des planeurs et qu"
+      ],
+      [
+        "Une double croix blancdhees, dvoislps ososénet ehno croizuorns.t alement dans l’aire à signaux, indique que\nl’aérodrome est utilisé par des planeurs et que des vols sont en cours."
+      ]
+    ]
+  },
+  {
+    "page_number": 61,
+    "bbox": [
+      68.474,
+      134.69240000000002,
+      526.8015,
+      580.0020999999998
+    ],
+    "n_rows": 7,
+    "n_cols": 7,
+    "rows": [
+      [
+        "",
+        "Espace aérien contrôlé",
+        "",
+        "",
+        "",
+        "",
+        "Espace aérien non contrôlé"
+      ],
+      [
+        "Classe",
+        "A",
+        "B",
+        "C",
+        "",
+        "D, E",
+        "F, G"
+      ],
+      [
+        "Distance\npar\nrapport\naux nuages",
+        "sans\nobjet\n(1)",
+        "hors\ndes\nnuages\n(1)",
+        "horizontalement : 1500 mètres\nà et au-dessous de “S” :\nverticalement : 300 mètres\nhors des nuages\n(1000 pieds)\net en vue de la surface",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "à et au-dessous de “S” :\nhors des nuages\net en vue de la surface"
+      ],
+      [
+        "Visibilité\nen vol",
+        "",
+        "à et au-dessus du FL 100 (2) : 8 km\nà et au-dessous de “S”:\nla plus élevée des deux\nvaleurs :\nau-dessous du FL 100 (2) : 5 km\n1500 mètres (3) ou distance\nparcourue en 30 secondes\nde vol",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "à et au-dessous de “S”:\nla plus élevée des deux\nvaleurs :\n1500 mètres (3) ou distance\nparcourue en 30 secondes\nde vol"
+      ],
+      [
+        "Limitation\nde vitesse",
+        "",
+        "sans\nobjet\n(1)",
+        "",
+        "au-dessous du FL 100 (2) : vitesse indiquée 250 kT\nsauf IFR\n(1)",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 66,
+    "bbox": [
+      61.2991,
+      601.2991999999999,
+      529.7246999999999,
+      732.5061000000002
+    ],
+    "n_rows": 3,
+    "n_cols": 5,
+    "rows": [
+      [
+        "Nom du Médicament",
+        "Prix Public de\nVente en Dirham\navant révision",
+        "Prix Public de\nVente\nen Dirham après\nrévision",
+        "Prix Hôpital en\nDirham avant\nrévision",
+        "Prix Hôpital en dir-\nham après révision"
+      ],
+      [
+        "ءاودلا مسا",
+        "مومعلل عيبلا رعس\nمهردلاب برغلماب\nةعجارلما لبق",
+        "مومعلل عيبلا رعس\nدعب مهردلاب\nةعجارلما",
+        "صاخلا رعسلا\nمهردلاب ىفشتسلماب\nةعجارلما لبق",
+        "صاخلا رعسلا\nمهردلاب ىفشتسلماب\nةعجارلما دعب"
+      ],
+      [
+        "TERALITHE 250 mg comprimé sécable boîte de 100",
+        "63,20",
+        "150,40",
+        "39,50",
+        "94,00"
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      24.344499999999996,
+      319.6164,
+      285.1318999999999,
+      366.9831
+    ],
+    "n_rows": 3,
+    "n_cols": 4,
+    "rows": [
+      [
+        "Espèces / Catégories",
+        "R1",
+        "G4",
+        "G3"
+      ],
+      [
+        "Blé tendre, blé dur, orge, avoine, triticale fève et\nféverole, pois fourrager et vesce",
+        "15",
+        "30",
+        "130"
+      ],
+      [
+        "Lentille et pois chiche",
+        "50",
+        "100",
+        "200"
+      ]
+    ]
+  },
+  {
+    "page_number": 69,
+    "bbox": [
+      24.344499999999996,
+      422.8342000000001,
+      285.1318999999999,
+      627.4893999999998
+    ],
+    "n_rows": 12,
+    "n_cols": 7,
+    "rows": [
+      [
+        "Espèces",
+        "Catégorie G3",
+        "",
+        "Catégorie G4",
+        "",
+        "Catégorie R1",
+        ""
+      ],
+      [
+        "",
+        "Prix\nachat",
+        "Prix\nvente\nmax.",
+        "Prix\nachat",
+        "Prix\nvente\nmax.",
+        "Prix\nachat",
+        "Prix\nvente\nmax."
+      ],
+      [
+        "Blé Tendre",
+        "530",
+        "510",
+        "430",
+        "410",
+        "415",
+        "395"
+      ],
+      [
+        "Blé Dur",
+        "630",
+        "630",
+        "530",
+        "530",
+        "515",
+        "515"
+      ],
+      [
+        "Orge",
+        "560",
+        "510",
+        "460",
+        "410",
+        "445",
+        "395"
+      ],
+      [
+        "Avoine",
+        "730",
+        "740",
+        "630",
+        "640",
+        "615",
+        "625"
+      ],
+      [
+        "Triticale",
+        "630",
+        "640",
+        "530",
+        "540",
+        "515",
+        "525"
+      ],
+      [
+        "Fève et féverole",
+        "890",
+        "930",
+        "790",
+        "830",
+        "775",
+        "815"
+      ],
+      [
+        "Lentille",
+        "1500",
+        "1350",
+        "1400",
+        "1250",
+        "1350",
+        "1200"
+      ],
+      [
+        "Pois chiche",
+        "1500",
+        "1350",
+        "1400",
+        "1250",
+        "1350",
+        "1200"
+      ],
+      [
+        "Pois fourrager",
+        "680",
+        "745",
+        "580",
+        "645",
+        "565",
+        "630"
+      ],
+      [
+        "Vesce",
+        "680",
+        "745",
+        "580",
+        "645",
+        "565",
+        "630"
+      ]
+    ]
+  },
+  {
+    "page_number": 71,
+    "bbox": [
+      202.37,
+      325.693,
+      392.84,
+      353.293
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE…………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 71,
+    "bbox": [
+      56.63999999999999,
+      369.5013333333334,
+      566.88,
+      595.263
+    ],
+    "n_rows": 3,
+    "n_cols": 4,
+    "rows": [
+      [
+        "ESPECE",
+        "VARIETE",
+        "CATEGORIE",
+        "QQUUAANNTTIITTEE A AGGRREEEEE\n(QX)"
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 72,
+    "bbox": [
+      182.583490987,
+      191.78872680000006,
+      366.68905215865004,
+      219.26872679999997
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE……………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE …………..."
+      ]
+    ]
+  },
+  {
+    "page_number": 72,
+    "bbox": [
+      39.19819205400002,
+      233.30922680000003,
+      536.373036414,
+      465.0792268
+    ],
+    "n_rows": 3,
+    "n_cols": 7,
+    "rows": [
+      [
+        "LIEU DE\nPRELEVEMENT",
+        "ESPECE",
+        "VARIETE",
+        "CATEGORI\nE",
+        "ANNEE DE\nRECOLTE",
+        "QUANTITE\nEN STOCK\n(Qx)",
+        "QUANTITE\nAGARGEREEEE (Qx)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 73,
+    "bbox": [
+      185.11149329999998,
+      200.90872679999995,
+      398.30284529999994,
+      228.50972679999995
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ……………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 73,
+    "bbox": [
+      48.456640349999965,
+      260.9087268,
+      555.83480835,
+      478.7592267999999
+    ],
+    "n_rows": 3,
+    "n_cols": 6,
+    "rows": [
+      [
+        "LIEU DE\nSTOCKAGE",
+        "ESPECE",
+        "VARIETE",
+        "CATEGORIE",
+        "ANNEE DE\nRECOLTE",
+        "QUANTITE EN\nSTOCK (Qx)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 74,
+    "bbox": [
+      167.476978284,
+      147.61971119999998,
+      487.10009138199996,
+      174.44542239999998
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "DE CEREALES ET DE LEGUMINEUSES ALIMENTAIRES ET"
+      ],
+      [
+        "FOURRAGERES"
+      ]
+    ]
+  },
+  {
+    "page_number": 74,
+    "bbox": [
+      194.43626381100003,
+      188.24542239999994,
+      397.490005946,
+      215.72542239999996
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ……………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 74,
+    "bbox": [
+      41.43207984810002,
+      243.7025275733333,
+      551.7515367159999,
+      505.0959223999999
+    ],
+    "n_rows": 3,
+    "n_cols": 7,
+    "rows": [
+      [
+        "ESPECE",
+        "VARIETE",
+        "CATEGORIE",
+        "NUMERO\nDU LOT",
+        "ANNEE DE\nRECOLTE",
+        "QQUUAANNTTIITTEE\nPPEERRDDUUEE OOUU\nAAVVAARRIEIEE\n(Qx)",
+        "CAUSE DE\nPERTE OU\nD’AVARIES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 75,
+    "bbox": [
+      211.6785714285714,
+      170.03566666666666,
+      385.99,
+      183.65699999999998
+    ],
+    "n_rows": 1,
+    "n_cols": 3,
+    "rows": [
+      [
+        "FOURRAGERES",
+        "S",
+        "IMPORTEES"
+      ]
+    ]
+  },
+  {
+    "page_number": 75,
+    "bbox": [
+      188.87,
+      205.524,
+      406.39,
+      233.12400000000002
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENC IERE ………………."
+      ],
+      [
+        "CSAOMCIPEATGEN SEE AMGERNICCIOERLEE ………………………………..."
+      ]
+    ]
+  },
+  {
+    "page_number": 75,
+    "bbox": [
+      49.44,
+      260.99299999999994,
+      552.82,
+      493.453
+    ],
+    "n_rows": 3,
+    "n_cols": 6,
+    "rows": [
+      [
+        "ESPECE\nESPECE",
+        "VARIETE\nVARIETE",
+        "CATEGORI\nE\nCATEGORI",
+        "FO URNISSEU\nR\nFOURNISSEU",
+        "N° DE LOT\nN° DE LOT",
+        "QUANTITE AGREEE\n(QX)\nQUANTITE AGREEE"
+      ],
+      [
+        "",
+        "",
+        "E",
+        "R",
+        "",
+        "(QX)"
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 76,
+    "bbox": [
+      196.1196044,
+      214.30809450000004,
+      400.35374130499997,
+      241.90909449999992
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ………………."
+      ]
+    ]
+  },
+  {
+    "page_number": 76,
+    "bbox": [
+      54.964158699999984,
+      274.5126771764706,
+      560.6245615,
+      479.67809450000004
+    ],
+    "n_rows": 3,
+    "n_cols": 10,
+    "rows": [
+      [
+        "LIEU DE\nPRELEVEMENT",
+        "ESPECE",
+        "VARIET\nE",
+        "CATEGORIE",
+        "ANNEE DE\nRECOLTE",
+        "N°\nLOT",
+        "QUANTITE\nEN STOCK\n(Qx)",
+        "",
+        "QQUUAANNTTIITTEE\nAAGGRREEE E(QEx)\n(Qx)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 77,
+    "bbox": [
+      192.07898919000002,
+      200.62809449999997,
+      403.13842767,
+      228.1080945
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ……………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 77,
+    "bbox": [
+      56.79068476950001,
+      242.14809450000004,
+      552.08902716,
+      487.1185944999999
+    ],
+    "n_rows": 3,
+    "n_cols": 6,
+    "rows": [
+      [
+        "LIEU DE\nSTOCKAGE",
+        "ESPECE",
+        "VARIETE",
+        "CATEGORIE",
+        "ANNEE DE\nRECOLTE",
+        "QUANTITE EN\nSTOCK (Qx)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 78,
+    "bbox": [
+      181.42776096,
+      211.25800779999997,
+      390.37660287999995,
+      238.7380078
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ……………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 78,
+    "bbox": [
+      40.80611252,
+      252.99074061333323,
+      551.57421764,
+      492.34850780000016
+    ],
+    "n_rows": 3,
+    "n_cols": 9,
+    "rows": [
+      [
+        "ESPECE",
+        "VARIETE",
+        "CATEGORIE",
+        "NUMERO\nDU LOT",
+        "ANNEE DE\nRECOLTE",
+        "",
+        "QUANTITE PERDUE\nQUAONUT AITVEA RPEIEREDUE\nOU AVARIE\n(Qx)",
+        "",
+        "CAUSE DE\nPERTES OU\nD’AVARIES"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 79,
+    "bbox": [
+      106.04364688960001,
+      146.1998815400001,
+      488.82988508193347,
+      173.51891164099993
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "ETAT DES QUANTITES VENDUES EN SEMENCES DE CEREALES ET DE"
+      ],
+      [
+        "LEGUMINEUSES ALIMENTAIRES ET FOURRAGERES DE PRODUCTION"
+      ]
+    ]
+  },
+  {
+    "page_number": 79,
+    "bbox": [
+      195.88170253400003,
+      187.17768433999993,
+      398.624568342,
+      214.49720934200002
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ……………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 79,
+    "bbox": [
+      39.52773168400003,
+      235.16328530000007,
+      561.6060987982222,
+      478.1101861999998
+    ],
+    "n_rows": 4,
+    "n_cols": 9,
+    "rows": [
+      [
+        "ESPECE",
+        "VARIETE",
+        "CATEGO\nRIE",
+        "DISPONIBLE AGREE (Qx)",
+        "",
+        "",
+        "STOCK A LA FIN\nDE LA PERIODE\nDES VENTES (Qx)\n(2 )",
+        "PERTES OU\nD’AVARIES\n(Qx)\n(3)",
+        "VENTES (1)-(2)-\n(3) (Qx)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Récolte de\nl’année",
+        "Stock de\nreport",
+        "TOTAL\n(1)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 80,
+    "bbox": [
+      191.28666218700002,
+      209.566687,
+      392.002089331,
+      237.16668700000002
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ……………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 80,
+    "bbox": [
+      36.49623876200006,
+      255.88718700000004,
+      553.3508088124446,
+      501.216687
+    ],
+    "n_rows": 4,
+    "n_cols": 9,
+    "rows": [
+      [
+        "ESPECE",
+        "VARIETE",
+        "CATEGO\nRIE",
+        "DISPONIBLE AGREE (Qx)",
+        "",
+        "",
+        "STOCK A LA FIN\nDE LA PERIODE\nDES VENTES (Qx)\n(2 )",
+        "PERTES OU\nD’AVARIES\n(Qx)\n(3)",
+        "VENTES (1)-(2)-\n(3) (Qx)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Récolte de\nl’année",
+        "Stock de\nreport",
+        "TOTAL\n(1)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 81,
+    "bbox": [
+      185.03747027999998,
+      198.16668700000002,
+      398.67296415050004,
+      225.64668700000004
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ……………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 81,
+    "bbox": [
+      48.43727369399997,
+      239.687187,
+      555.6125111339999,
+      471.81718699999993
+    ],
+    "n_rows": 3,
+    "n_cols": 7,
+    "rows": [
+      [
+        "NOMS DES\nBENEFICIAIRE\nS",
+        "QUANTITE\nS (Qx)",
+        "ESPECE",
+        "VARIETE",
+        "CATEGORI\nE",
+        "PRIX DE\nVENTE\n(DH)(Qx)",
+        "NUMERO DE\nFACTURE"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 82,
+    "bbox": [
+      181.42776096,
+      194.6233826,
+      390.37660287999995,
+      222.10338260000003
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "SOCIETE SEMENCIERE ………………."
+      ],
+      [
+        "CAMPAGNE AGRICOLE ……………….."
+      ]
+    ]
+  },
+  {
+    "page_number": 82,
+    "bbox": [
+      34.00557313799999,
+      236.14388259999993,
+      548.8077011600001,
+      457.9533826000001
+    ],
+    "n_rows": 3,
+    "n_cols": 7,
+    "rows": [
+      [
+        "NOMS DES\nBENEFICIAIRES",
+        "QUANTITE\nS (Qx)",
+        "ESPECE",
+        "VARIETE",
+        "CATEGORIE",
+        "PRIX DE\nVENTE\n(DH)(Qx)",
+        "NUMERO DE\nFACTURE"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 84,
+    "bbox": [
+      137.41997310000002,
+      100.33657684960004,
+      541.5359731,
+      781.5873039132001
+    ],
+    "n_rows": 5,
+    "n_cols": 18,
+    "rows": [
+      [
+        "xaF/léT/esserdA",
+        "26\n61\nALLAL\nAHGAUOZ 53\n11 23\n60 18\nreitrauQ\n/ 06\nSEF 71\n53\nANIAKUOS\n08\n50\n11 06\n:\neur 53 xaF\n,21 50\n:\n.léT",
+        "",
+        "",
+        "",
+        "",
+        "tabaR\n08 00\n06101\n04 59\n57 57\n, hadyayz 73 73\n50 50\n: :\n.léT xaF\neur\n,91",
+        "",
+        "",
+        "craP ,egaté\n,lapicnirp ruecauoN 16 28\nemè2 ACNALBASAC 03 89\n88 88\n,onipas\nrellA ,7B 77 66\n60 60\nleirtsudnI uaerub :\n,7731°N .léT",
+        "",
+        "sed\nACNALBASAC\neur 08 40\n,24 74 33\n32 74\nsedaiélp\n22 22\n50 50\nseL xuatipôh : .léT : xaF\n.séR",
+        "etuor idiS\n69 27 59\ntabaR ACNALBASAC 53 60 63\nenneicna\nissuonreB 57 61 57\ned 22 70 22\nelapicnirp 50 70 50\n5.11\n: :\n.léT xaF\nmK",
+        "",
+        "",
+        "enizahkaM ARTINEK-aromaaM\n06\n63\nlE 63\ndeuo 73\n50\neuR .léT\nreitrauq\n11-9",
+        "",
+        ""
+      ],
+      [
+        "tnemérga'l\ned\norémuN",
+        "1202/20/AL",
+        "",
+        "",
+        "",
+        "",
+        "1202/40/AL",
+        "",
+        "",
+        "1202/50/AL",
+        "",
+        "1202/60/AL",
+        "2202/10/AL",
+        "",
+        "",
+        "2202/20/AL",
+        "",
+        ""
+      ],
+      [
+        ")*(\nsesylana'd\nsepyT",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "seriatnemila\nstiudorp\nsed\neimihc-ocisyhP",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga'd",
+        "secafrus\nsed\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        ")TVBA\nte\nenimatsiH(\nseriatnemila\nstiudorp\nsed\neimihC",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "seriatnemila\nstiudorp\nsed\neimihc-ocisyhP",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "seriatnemila\nstiudorp\nsed\neimihc-ocisyhP",
+        "ehcêp\ned\nstiudorp\nsed\neimihc-ocisyhP"
+      ],
+      [
+        "étivitca'd\neniamoD",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp secafrus\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed sed\nenèigyH xuamina enèigyH enèigyH\n- - -",
+        "",
+        "",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "ruop\nstnemila\nstiudorp\nsed\nte\nsed seriatnemila\nenèigyH xuamina\n-",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        ""
+      ],
+      [
+        "eérga\neriotarobal\nud\nmoN",
+        "EEQ",
+        "",
+        "",
+        "",
+        "",
+        "CORAM\nSESYLANA\nORGA",
+        "",
+        "",
+        "BALAUQI",
+        "",
+        "SISYLANA\nDOOF\nBALASAC",
+        "BALORGA",
+        "",
+        "",
+        "BAL\nECAPA",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 85,
+    "bbox": [
+      59.094790435549974,
+      96.08459324959998,
+      558.5838366939499,
+      777.3353203131996
+    ],
+    "n_rows": 5,
+    "n_cols": 21,
+    "rows": [
+      [
+        "xaF/léT/esserdA",
+        "",
+        "",
+        "tnemessitol\nidis\n2 reileta ,00002 ACNALBASAC\n,eriadnoces 65 09\n,4°N ,issuonreB 84 96\n66 13\ntoL 22 22\netuoR 50 50\n,rdaB\n.léT : xaF\n011",
+        "",
+        "",
+        "emè2 ssirdI\nlA\nreitrauQ ,5°n va ALHKAD 00\ntnemetrappa agrasaL 94\n18 92\n,tassikissK\n51 86\nva ,lauoA\n75 60\nelgna\n,1 80\nyaH arissaM ,egaté lA 80\n:\n.léT",
+        "",
+        "",
+        "",
+        "ACNALBASAC\nsed\nreitrauq\n68/38\n98\n,izuoaj 00 00\n-06302\n74 74\nla 22 22\nnbi xuatipôh 50 50\neur : :\n.léT xaF\n6",
+        "",
+        "",
+        "yaH\n,ilA\n,enaizuoB 46\necnediséR 65 88\n22\ndihcaR 70 33\n02\n21 23\n16\ndemahoM 22 16\n; yaluoM 60\n1°N 50 60\n:\nnisagaM .léT\neunevA",
+        "",
+        "",
+        "",
+        "egaté\nemè4\n02\n27\n,inuotkreZ ACNALBASAC 91 03\n02\n39\n22\n06\n50\ndB 60\n:\n023 .léT",
+        "",
+        "",
+        "alhkaD\nreitrauQ\n34\n75\n,171°N 04\n23\n22\n75\n1D RIDAGA 82 21\n50\ncolB .léT 60"
+      ],
+      [
+        "tnemérga'l\ned\norémuN",
+        "",
+        "",
+        "2202/30/AL",
+        "",
+        "",
+        "3202/10/AL",
+        "",
+        "",
+        "",
+        "3202/20/AL",
+        "",
+        "",
+        "3202/30/AL",
+        "",
+        "",
+        "",
+        "3202/40/AL",
+        "",
+        "",
+        "3202/50/AL"
+      ],
+      [
+        ")*(\nsesylana'd\nsepyT",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga’d",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ehcêp\ned\nstiudorp\nsed\neimihc-ocisyhP",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neimihc-ocisyhP\nxuamina",
+        "seriatnemila\nstiudorp\nsed\neimihc-ocisyhP",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ehcêp\nal\ned\nstiudorp\nsed\neimihc-ocisyhP",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ehcêp\nal\ned\nstiudorp\nsed\neimihcoiB",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "seriatnemila\nstiudorp\nsed\neimihc-ocisyhP",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga’d",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "sel\nsnad\nsedicitsep\nsed\nsudisér\n.xuae\n:\nseriatnemila ne\nsehcir .xuae\nte ne\nstiudorp : sedica sehcir\nsetnavius\nstiudorp stiudorp\nsed\nsecirtam\neimihC\nseL-1 seL-2",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        ".elatégév .semurga\nenigiro'd\n.stiurf\nenigiro’d seriatnemila semugél-uayon te\neguor\nstiudorp stiurF\n:\nseriatnemila stiudorp\nsel : setnavius à stiurf : uae\nsnad ne\nsed\n: sehcir\nstiudorp etamabracoihtid snad secirtam uae\nne te\nsedicitsep\nsehcir sedica\nsed\nsel\neimihc-ocisyhP\nnoles stiudorp stiudorp\nsed\ned\nsudiséR sudiséR elatégév\nseL-1 seL-2"
+      ],
+      [
+        "étivitca'd\neniamoD",
+        "eirtsudni-orga’d",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "ruop\nstnemila\nstiudorp\nsed\nte\nsed seriatnemila\nenèigyH xuamina\n-",
+        "",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed\nxuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -"
+      ],
+      [
+        "eérga\neriotarobal\nud\nmoN",
+        "",
+        "",
+        "AMIRGAAL",
+        "",
+        "",
+        "ARAHAS\nMALE",
+        "",
+        "",
+        "",
+        "BALILAUQ",
+        "",
+        "",
+        "BAL\nA3",
+        "",
+        "",
+        "",
+        "MILAROBAL",
+        "",
+        "",
+        "MALE"
+      ]
+    ]
+  },
+  {
+    "page_number": 86,
+    "bbox": [
+      36.239973099999986,
+      92.27008854279995,
+      545.6159731,
+      781.1644368615999
+    ],
+    "n_rows": 5,
+    "n_cols": 20,
+    "rows": [
+      [
+        "xaF/léT/esserdA",
+        "",
+        "",
+        "",
+        "00008-B/859°n\n74\n,elleirtsudni 51\n42\nluolleM 82\nRIDAGA\n50\nenoZ :\ntiA .léT",
+        "",
+        "",
+        "",
+        "ecalp xuatipôh\n24 34\n12 ACNALBASAC 27 87 74\n,ruetsap sed 62 91 02\nreitrauq 22 84 22\n50 22 50\necnediséR\n: 50 :\n,ruetsap .léT xaF",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "-egaté\n63\nACNALBASAC\nemè3 40/63 79\n22 40\nsisao’l 30 00 68\n68 67 22\n22 06 50\ned\netuor -sisao 50 60 : xaF\n:\n.léT\n,252",
+        "",
+        "",
+        ""
+      ],
+      [
+        "tnemérga'l\ned\norémuN",
+        "",
+        "",
+        "",
+        "3202/60/AL",
+        "",
+        "",
+        "",
+        "3202/70/AL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "4202/10/AL",
+        "",
+        "",
+        ""
+      ],
+      [
+        ")*(\nsesylana'd\nsepyT",
+        ":\nuae te\nsedica\nne\neriaidémretni\nstiudorp\n:\nserialop\nruenet .)semurga\nà tnemetuah\nte\neliuh te\n.seuqitamora seguor\nne\nsehcir .eliuh sedicitsep\nstiurf(\nstiudorp ne\nsehcir .tocirah’L-4 sebreh sed uae\nne\nsudiséR\nseL-3 stiurF seL-5 sehcir",
+        "seriatnemila\nstiudorp\nsed\neimihc-ocisyhP",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga’d",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ehcêp\ned\nstiudorp\nsed\neimihcoiB",
+        "te semugél( semugél(\nxuatégév sesuenimugél sesuenimugél uae\nne\nuae uae sehcir\nrus\nseuqinagro ne sehcir te ne sehcir te te sedica\n)nolem )nolem\nstiudorp stiudorP stiudorp\n,norviop ,norviop\nstnanimatnoC\n: elatégév : elatégév te\n,erbmocnoc .))siop ,erbmocnoc ))siop\n-eriatnemila : enigiro’d titep enigiro’d titep\nxuatégév\n,etamot( te ,etamot( te\ntrev trev\nstiudorP- stiudorP .semurga(\neimihC stiudorp tocirah( tocirah(\nstiurf stiurf\n-",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "te\nseguor\nstiurf(\nseriatnemila\nstiudorp\nsed\nerialucélom )sevlavib\nseuqsullom\neigoloiB",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\nRCP\neigoloiborciM\nrap\nxuamina",
+        "seriatnemila\nstiudorp\nsed\neimihc-ocisyhP",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga’d",
+        "secafrus\nsel\nrus\neigoloiborciM",
+        "ria’l\nrus\neigoloiborciM",
+        ")seguor\nstiurf(\nseriatnemila\nstiudorp\nsed\nerialucélom\neigoloiB",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "stiudorp\nsel\nsnad\nsedicitsep\ned :\nsudisér elatégév .uae\nne\n: enigiro’d .uae sehcir\nstnemila\nne\nsehcir sedica\nsed seriatnemila\nstiudorP- stiudorP-\neimihC",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM"
+      ],
+      [
+        "étivitca'd\neniamoD",
+        "",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp secafrus\nsed xuae\neirtsudni-orga’d ria’l\nte\nsed seriatnemila sed sed ed\nenèigyH xuamina enèigyH enèigyH enèigyH\n- - - -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        ""
+      ],
+      [
+        "eérga\neriotarobal\nud\nmoN",
+        "",
+        "",
+        "",
+        "SSUOS\nGAMOBAL",
+        "",
+        "",
+        "",
+        "SELRAHC\nELOCIN\nNCL ERIOTAROBAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "SBAL\nLAUONA",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 87,
+    "bbox": [
+      36.24000369999999,
+      96.6471075306001,
+      549.6965037,
+      788.1099772279495
+    ],
+    "n_rows": 5,
+    "n_cols": 21,
+    "rows": [
+      [
+        "xaF/léT/esserdA",
+        "601\n,98331 acnalbasaC\nselanoitan 99\nà 05\nPB ACNALBASAC 00/57 01 51 43\n09 03 09\n,lalizA’d setuoR lilleM 45 96 22 96\n22 22 50 22\neuR tnemesiorC tiT 50 50 : xaF 50\n701 :\n.léT\n,52\nte",
+        "",
+        ".didaJ\n38 67\nlA 34 78 52\nEHCARAL\nberhgaM 28 80 25\n26 25 93\n60 93 50\ntoL : 50 :\n.léT xaF\n,255",
+        "",
+        "",
+        "NIA\nANUOM\n92\nACNALBASAC 82\ntol 78\n12 22\neuR KCOHC 50\n:\n451 .léT",
+        "",
+        "",
+        ",tseuo-dus\negaté 72\n62\naidemmahoM 94\n94\nelleirtsudni emè4 13\n13\n32\n32\n,251°n 50:\n50\nxaF\n:\nenoZ .léT",
+        "",
+        "",
+        "741°n\n39\nhabsak 39 11\n11 46\nlA 46 73\narameT\ntnemessitoL 73 50\n50 :\nxaF\n:\n.léT",
+        "",
+        "",
+        "",
+        "",
+        "issuonreb\n38\n52 80\nidis acnalbasaC 73 53\nsutcac 71 22\n06 50\nsed 60 : xaF\n:\n.léT\neéllA",
+        "",
+        "",
+        ""
+      ],
+      [
+        "tnemérga'l\ned\norémuN",
+        "4202/20/AL",
+        "",
+        "4202/30/AL",
+        "",
+        "",
+        "4202/40/AL",
+        "",
+        "",
+        "4202/50/AL",
+        "",
+        "",
+        "4202/60/AL",
+        "",
+        "",
+        "",
+        "",
+        "4202/70/AL",
+        "",
+        "",
+        ""
+      ],
+      [
+        ")*(\nsesylana'd\nsepyT",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga’d",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "seriatnemila\nstiudorp\nsed\neimihC",
+        "te\negavelé’d\nxuae\nsed\nenèigyh’l\nruop\neuqirdyh\neirtsudni-orga’d\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga'd",
+        ":\neriaidémretni\n:\nsnad\nsedicitsep .seécatibrucuc/stiurf .eniraf/selaéréc\nuae\nne\ned\nruenet\nsudisér\n:\nseniétorp\nte\nte\n: seriatnemila semugél eliuh\nne .xuenigaélo te\nnodima\n: ruenet\nuae .éhT\nstiudorp\nne ne .semugél\nsehcir etuah stiudorp sehcir : srevid\nsed à\nstiudorP- stiudorP- stiudorP- .ehtneM- stiudorP- te\neimihC te stiurF-\nstiurf",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga'd",
+        "secafrus\nsel\nrus\neigoloiborciM",
+        "ria’l\nrus\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "ria’l\nrus\neigoloiborciM",
+        "secafrus\nsel\nrus\neigoloiborciM"
+      ],
+      [
+        "étivitca'd\neniamoD",
+        "te\negavelé’d\nxuae\neirtsudni-orga’d\nsed\nenèigyH\n-",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp secafrus\nsed xuae\neirtsudni-orga’d ria’l\nte\nsed seriatnemila sed sed ed\nenèigyH xuamina enèigyH enèigyH enèigyH\n- - - -",
+        "",
+        "",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp secafrus\nsed xuae\neirtsudni-orga’d ria’l\nte\nsed seriatnemila sed ed sed\nenèigyH xuamina enèigyH enèigyH enèigyH\n- - - -",
+        "",
+        "",
+        ""
+      ],
+      [
+        "eérga\neriotarobal\nud\nmoN",
+        "PEREC-EEPL",
+        "",
+        "SBALIRGA",
+        "",
+        "",
+        "LAKORGA",
+        "",
+        "",
+        "QGA",
+        "",
+        "",
+        "AYAG",
+        "",
+        "",
+        "",
+        "",
+        "BAL\nCILC",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 88,
+    "bbox": [
+      36.239973099999986,
+      91.34975662879995,
+      552.9364731,
+      781.1164291092005
+    ],
+    "n_rows": 5,
+    "n_cols": 21,
+    "rows": [
+      [
+        "xaF/léT/esserdA",
+        "daiR\nlA\neunevA yaH 33/23\n06\nhcimhciM TABAR 07\n35\nelgna 75 17\n73\n,sijraN 00101 73 50\neuR 50\n:\n: xaF\nte .léT\nalliV\nruoaH",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "7 HCEKARRAM 8651\n°N\ntol 368660 00\n,3 41\nmenahg\n43\n/\n5385334250 42\nidis - ifas 50\n:\nreitrauQ ed xaF\netuor\n:\n.léT",
+        "",
+        "76\n29°n\n07\ntol ALHKAD-egaté 30\nhazatnuoM 60\n/67\n29 07\n52\nlE 86\nreitrauQ emè3\n60\n:\n.léT",
+        "",
+        "",
+        "",
+        "",
+        "vB RN -002 04\nte 22\nxis malasA RN 82\ndemahoM uaeruB ENUOYAAL 50\necnediséR /26\n64 34\negaté\n94\njahaM\n16\nrauozeM emè4\n60\nelgnA\n403 : .léT",
+        "",
+        "",
+        "",
+        "EHCARAL\n34\n04\n22\n82\n937\n50\nRN1 00029 /\n26\nENABAAHC 64\n94\n16\n60\n:\n.léT\ntoL",
+        "reitrauq\nissuonreB\n,kokgnaB\nidiS\ndraveluoB leirtsudni\n,1"
+      ],
+      [
+        "tnemérga'l\ned\norémuN",
+        "4202/80/AL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "4202/90/AL",
+        "",
+        "4202/01/AL",
+        "",
+        "",
+        "",
+        "",
+        "4202/11/AL",
+        "",
+        "",
+        "",
+        "5202/10/AL",
+        "5202/20/AL"
+      ],
+      [
+        ")*(\nsesylana'd\nsepyT",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ehcêp\nal\ned\nstiudorp\nsed\neimihcoiB",
+        ",serbmocnoc ,snortic\n,)seriop\n,segnaro(\n,setamoT( ,semmop(\nsemurga\nstiurf-semugél snipép\n:\nuae\n: à\nseriatnemila ne stiurf\n: sehcir\nsnad : :\nuae uae\nsedicitsep ne te ne\nstiudorp sehcir ,)snolem sedica sehcir\nsed sed stiudorp stiudorp ,)seniradnam stiudorp .ehtneM HP\nsudiséR- ,snorviop te\neimihC etifluS-\nseL seL seL\naL",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga'd",
+        "secafrus\nsed\neigoloiborciM",
+        "ria’l\ned\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "sel\nsnad\nsedicitsep\n.uae\nne\nsehcir\nsed\nsudiséR\nte\nsedica\n:\nseriatnemila stiudorP\n-\nuae\nstiudorp\nne\nsehcir\nsed\neimihC stiudorp",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neimihc-ocisyhP\nxuamina",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "secafrus\nsed\neigoloiborciM",
+        "ria’l\ned\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "seriatnemila\nstiudorp\nsed\neimihc-ocisyhP",
+        "ehcêp\nal\ned\nstiudorp\nsed\neimihc-ocisyhP",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "sel\nsnad .semurga\n.uae\n.stiurf\nsedicitsep ne\nte eriaidémretni\nsemugél-uayon\nseguor\n.essarg\nsed\nsudiséR stiurf erèitam\nruenet\n:\nuae à\n: stiurf ne\nseriatnemila ne à\nte te\n: sehcir : eliuh uae\nelatégév uae\nne\nte ne ne\nservuap\nstiudorp sedica sehcir sehcir\nenigiro’d\nstiudorp stiudorp stiudorp stiudorp\nsed .tocirah\nstnemila\neimihC\nseL- seL- seL- seL-\neL-",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina"
+      ],
+      [
+        "étivitca'd\neniamoD",
+        "ruop te\negavelé’d\nstnemila\nstiudorp secafrus\nsed xuae\neirtsudni-orga’d ria’l\nte\nsed seriatnemila sed sed ed\nenèigyH xuamina enèigyH enèigyH enèigyH\n- - - -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ruop\nstnemila\nstiudorp\nsed\nte\nsed seriatnemila\nenèigyH xuamina\n-",
+        "",
+        "ruop te\negavelé’d\nstnemila\nstiudorp secafrus\nsed xuae\neirtsudni-orga’d ria’l\nte\nsed seriatnemila sed sed ed\nenèigyH xuamina enèigyH enèigyH enèigyH\n- - - -",
+        "",
+        "",
+        "",
+        "",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "",
+        "stiudorp\nsed seriatnemila\nenèigyH\n-",
+        ""
+      ],
+      [
+        "eérga\neriotarobal\nud\nmoN",
+        "A2BAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BALEPMI",
+        "",
+        "ALHKAD\nA2CL",
+        "",
+        "",
+        "",
+        "",
+        "ENUOYAAL\netiS-MALE",
+        "",
+        "",
+        "",
+        "EHCARAL\netiS-MALE",
+        "GAMOBAL"
+      ]
+    ]
+  },
+  {
+    "page_number": 89,
+    "bbox": [
+      36.24000369999999,
+      86.68532037134993,
+      558.0960037,
+      786.2449449665
+    ],
+    "n_rows": 5,
+    "n_cols": 24,
+    "rows": [
+      [
+        "xaF/léT/esserdA",
+        "46\n59/09/86\nACNALBASAC 38\n53\n22\n43\n50\n22\n:\n50 xaF\n:\n.léT",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "06\n62\n-zileuG 90\n86 13\nHCEKARRAM 60 93\nainatiruaM / 34\n00\n42\n43\n50\n02\n:\neur 16 xaF\n31 60\n:\n.léT",
+        "",
+        "mk-adidaJ\nMELAUOS 74 74\nlE 74 74\netuoR\n69 69\n22 22\nadhaW DAH 50 50\n: :\n5.92 .léT xaF\nlE\ntoL-352",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "A\ncolB 6239116660\nLUOLLEM\n,II\nnassaH\n/\nTIA 0582681660\nDB\n,AADI\n61/161°N\nyaH\n:\n.léT\nmmI",
+        "idis\n,3 ACNALBASAC\n.gtE 48\n58\naniL 63\n16\ntnemessitoL\n60\n,fuoraam\n:\n.léT\n613",
+        ",elleirtsudnI\n67 07\nAIDEMMAHOM\n29 76\n52 07\n86 30\nenoZ\n60 60\n281°N : .léT",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "tnemérga'l\ned\norémuN",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5202/30/AL",
+        "",
+        "5202/40/AL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5202/50/AL",
+        "5202/60/AL",
+        "5202/70/AL",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        ")*(\nsesylana'd\nsepyT",
+        "siarf\nseguor\nstiurf(\nseriatnemila\nstiudorp\nsed\nerialucélom\n)sélegrus\neigoloiB\nte",
+        "ehcêp\nal\ned\nstiudorp\nsed\neimihc\nte\neimihcoiB",
+        ":\nsnad\nsedicitsep\ned\nsudisér\n.sarg\ntiudorP\n: seriatnemila .uae\nne\n:\nsehcir seliuh\n.uae\nstiudorp .semugél ne te ne\nsehcir sedica sehcir\nsed\nte stiudorP stiudorP stiudorP\neimihC stiurF\n- - - -",
+        "xuamina\nruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neimihC",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "eirtsudni-orga'd\nte\negavelé'd\nxuae\nsed\nerialucélom\neigoloiB",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga'd",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga'd",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ehcêp\nal\ned\nstiudorp\nsed\neimihc-ocisyhP",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neimihc-ocisyhP\nxuamina",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga'd",
+        "secafrus\nsed\neigoloiborciM",
+        "ria’l\ned\neigoloiborciM",
+        "sel\nsnad\nsedicitsep\nsed\nsudisér\n.xuae\n:\nseriatnemila ne\nsehcir .xuae\nte ne\nstiudorp : sedica sehcir\nsetnavius\nstiudorp stiudorp\nsed\nsecirtam\neimihC\nseL-1 seL-2",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\nRCP\neigoloiborciM\nrap\nxuamina",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neimihc-ocisyhP\nxuamina",
+        "ehcêp\nal\ned\nstiudorp\nsed\neimihcoiB",
+        "sel\nsnad\nsedicitsep\nsed\nsudisér\n:\nseriatnemila\nstiudorp :\nsetnavius\nsed\nsecirtam\neimihC"
+      ],
+      [
+        "étivitca'd\neniamoD",
+        "ruop\nte\nstnemila egavelé’d\nstiudorp\nsed xuae\neirtsudni-orga’d\nte\nsed seriatnemila sed\nenèigyH xuamina enèigyH\n- -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "te\negavelé’d\nxuae\neirtsudni-orga’d\nsed\nenèigyH\n-",
+        "",
+        "stiudorp stnemila te\negavelé’d\nsed secafrus\nsed te xuae eirtsudni-orga’d ria’l\nxuamina\nseriatnemila sed sed\ned\nenèigyH enèigyH enèigyH enèigyH\nruop\n- - - -",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "stiudorp\nsed\nseriatnemila\nenèigyH\n-",
+        "stiudorp ruop\nstnemila\nsed sed\nte\nseriatnemila\nenèigyH xuamina\n-",
+        "stiudorp stnemila te\negavelé’d\nsed secafrus\nsed te xuae eirtsudni-orga’d ria’l\nxuamina\nseriatnemila sed sed\ned\nenèigyH enèigyH enèigyH enèigyH\nruop\n- - - -",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "eérga\neriotarobal\nud\nmoN",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ANIS\nte\nsesylana’d\nNBI\nseuqigoloib\neriotarobaL\nelôrtnoc",
+        "",
+        "OBAL\nTEVORGA",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "BAL\nSCB",
+        "SBAL\nAYAMIH",
+        "A2CL",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 90,
+    "bbox": [
+      40.96439939999999,
+      100.17129444319994,
+      192.2148994,
+      770.3851232486
+    ],
+    "n_rows": 5,
+    "n_cols": 6,
+    "rows": [
+      [
+        "xaF/léT/esserdA",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "tnemérga'l\ned\norémuN",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        ")*(\nsesylana'd\nsepyT",
+        ".)selaéréc ne\nsehcir\n.)uae\nte\nepuorg(\nsedica\nne\nsehcir\nessarg tiurf\nepuorg( semugél\nerèitam\nuae te\nne stiurf(\nne\nte\nuae sehcir\n.sémrofsnart uae\nne\nservuap te ne\nsedica sehcir\nstiudorP-1 stiudorP-2 stiudorP-3 stiudorP-4\n.)uae",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neirtsudni-orga'd\neigoloiborciM",
+        "te\negavelé'd\nxuae\nsed\nenèigyh'l\nruop\neuqirdyh\neimihc-ocisyhP eirtsudni-orga'd",
+        "secafrus\nsed\neigoloiborciM",
+        "ruop\nstnemila\nsed\nte\nseriatnemila\nstiudorp\nsed\neigoloiborciM\nxuamina"
+      ],
+      [
+        "étivitca'd\neniamoD",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "eérga\neriotarobal\nud\nmoN",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 122,
+    "bbox": [
+      69.38397309999999,
+      530.9813528999999,
+      525.9339731,
+      636.3866529
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé :: EExxeemmppllee iinntteerrnnaatitioonnaall"
+      ],
+      [
+        "• NNoouuvveellllee--ZZééllaannddee : le Wellbeing Budget lancé en 2019 place le bien-être au"
+      ],
+      [
+        "centre de la politique budgétaire, intégrant des indicateurs alternatifs au PIB, tels"
+      ],
+      [
+        "que la santé mentale, l’inclusion sociale, la qualité de l’éducation ou la protection"
+      ],
+      [
+        "de l’environnement45."
+      ]
+    ]
+  },
+  {
+    "page_number": 123,
+    "bbox": [
+      -525.8916006,
+      530.9813529,
+      -69.34160059999999,
+      636.3866529
+    ],
+    "n_rows": 5,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé :: EExxeemmppllee iinntteerrnnaatitioonnaall"
+      ],
+      [
+        "• NNoouuvveellllee--ZZééllaannddee : le Wellbeing Budget lancé en 2019 place le bien-être au"
+      ],
+      [
+        "centre de la politique budgétaire, intégrant des indicateurs alternatifs au PIB, tels"
+      ],
+      [
+        "que la santé mentale, l’inclusion sociale, la qualité de l’éducation ou la protection"
+      ],
+      [
+        "de l’environnement45."
+      ]
+    ]
+  },
+  {
+    "page_number": 124,
+    "bbox": [
+      69.3839731,
+      97.73384490000001,
+      525.9339731,
+      322.54330229999994
+    ],
+    "n_rows": 12,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé :: CCaaddrree jjuurriiddiiqquuee eennccaaddrraanntt ll’’ééccoonnoommiiee dduu ssooiinn aauu MMaarroocc"
+      ],
+      [
+        "• Loi-cadre 97-13 relative à la protection et à la promotion des personnes en"
+      ],
+      [
+        "situation de handicap"
+      ],
+      [
+        "• Loi 19-12 fixant les conditions de travail et d’emploi des travailleuses et"
+      ],
+      [
+        "travailleurs domestiques ;"
+      ],
+      [
+        "• Loi 45-18 relative à l’organisation de la profession des travailleurs et"
+      ],
+      [
+        "travailleuses sociaux;"
+      ],
+      [
+        "• Loi 65-15 sur les établissements de protection sociale ;"
+      ],
+      [
+        "• Loi-cadre 09-21 relative à la protection sociale;"
+      ],
+      [
+        "• Loi-cadre 06-22 relative au système national de santé ;"
+      ],
+      [
+        "• Loi 65-99 formant Code du travail ;"
+      ],
+      [
+        "• Loi 70-03 portant Code de la famille."
+      ]
+    ]
+  },
+  {
+    "page_number": 125,
+    "bbox": [
+      -525.8916006,
+      97.73384490000001,
+      -69.34160059999999,
+      321.85953269999993
+    ],
+    "n_rows": 12,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé :: CCaaddrree jjuurriiddiiqquuee eennccaaddrraanntt ll’’ééccoonnoommiiee dduu ssooiinn aauu MMaarroocc"
+      ],
+      [
+        "• Loi-cadre 97-13 relative à la protection et à la promotion des personnes en"
+      ],
+      [
+        "situation de handicap"
+      ],
+      [
+        "• Loi 19-12 fixant les conditions de travail et d’emploi des travailleuses et"
+      ],
+      [
+        "travailleurs domestiques ;"
+      ],
+      [
+        "• Loi 45-18 relative à l’organisation de la profession des travailleurs et"
+      ],
+      [
+        "travailleuses sociaux;"
+      ],
+      [
+        "• Loi 65-15 sur les établissements de protection sociale ;"
+      ],
+      [
+        "• Loi-cadre 09-21 relative à la protection sociale;"
+      ],
+      [
+        "• Loi-cadre 06-22 relative au système national de santé ;"
+      ],
+      [
+        "• Loi 65-99 formant Code du travail ;"
+      ],
+      [
+        "• Loi 70-03 portant Code de la famille."
+      ]
+    ]
+  },
+  {
+    "page_number": 125,
+    "bbox": [
+      69.3840037,
+      232.33558649999998,
+      525.9340037000001,
+      457.20655289999996
+    ],
+    "n_rows": 11,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé :: EExxeemmpplleess iinntteerrnnaattiioonnaauuxx dd’’iinnttééggrraattiioonn ddee ll’’ééccoonnoommiiee dduu ssooiinn"
+      ],
+      [
+        "• SSuuèèddee : Les services de santé et d’aide sociale sont intégrés au niveau local, ce"
+      ],
+      [
+        "qui permet une coordination personnalisée des soins et une utilisation"
+      ],
+      [
+        "optimale des ressources50."
+      ],
+      [
+        "• JJaappoonn : Le système Community-based Integrated Care combine soins médicaux,"
+      ],
+      [
+        "accompagnement social, logement et prévention pour les personnes âgées,"
+      ],
+      [
+        "favorisant leur autonomie dans leur environnement familial même en cas de"
+      ],
+      [
+        "besoins accrus51."
+      ],
+      [
+        "• AAlllleemmaaggnnee : L’assurance dépendance offre des droits spécifiques aux aidants,"
+      ],
+      [
+        "incluant congés rémunérés et formations, illustrant une redistribution"
+      ],
+      [
+        "équilibrée des responsabilités entre l’État, les familles et les acteurs locaux52."
+      ]
+    ]
+  },
+  {
+    "page_number": 126,
+    "bbox": [
+      69.38397309999999,
+      326.38795289999996,
+      525.9339731,
+      488.3331429
+    ],
+    "n_rows": 8,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé :: EExxeemmpplleess iinntteerrnnaatitioonnaauuxx ::"
+      ],
+      [
+        "• France : les maisons de santé pluriprofessionnelles en milieu rural ont"
+      ],
+      [
+        "contribué au maintien d’une offre de soins de proximité et à limiter les déserts"
+      ],
+      [
+        "médicaux54."
+      ],
+      [
+        "• Uruguay : le Système national intégré de soins (2016) a structuré une offre"
+      ],
+      [
+        "publique et communautaire dans les zones rurales et favorisé la création"
+      ],
+      [
+        "d’emplois locaux, notamment pour les femmes, autour d’une logique de"
+      ],
+      [
+        "coresponsabilité entre l’État, la société et les familles55."
+      ]
+    ]
+  },
+  {
+    "page_number": 127,
+    "bbox": [
+      -525.8916006,
+      326.38795289999996,
+      -69.34160059999999,
+      488.3321529
+    ],
+    "n_rows": 8,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé :: EExxeemmpplleess iinntteerrnnaatitioonnaauuxx ::"
+      ],
+      [
+        "• France : les maisons de santé pluriprofessionnelles en milieu rural ont"
+      ],
+      [
+        "contribué au maintien d’une offre de soins de proximité et à limiter les déserts"
+      ],
+      [
+        "médicaux54."
+      ],
+      [
+        "• Uruguay : le Système national intégré de soins (2016) a structuré une offre"
+      ],
+      [
+        "publique et communautaire dans les zones rurales et favorisé la création"
+      ],
+      [
+        "d’emplois locaux, notamment pour les femmes, autour d’une logique de"
+      ],
+      [
+        "coresponsabilité entre l’État, la société et les familles55."
+      ]
+    ]
+  },
+  {
+    "page_number": 133,
+    "bbox": [
+      71.10097101449273,
+      172.96000000000004,
+      524.1152173913048,
+      658.08
+    ],
+    "n_rows": 29,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "Experts",
+        ""
+      ],
+      [
+        "1. Benseddik Fouad",
+        "",
+        ""
+      ],
+      [
+        "2. Himmich Hakima",
+        "",
+        ""
+      ],
+      [
+        "3. Lamrani Amina",
+        "",
+        ""
+      ],
+      [
+        "4. Rachdi Abdelmaksoud",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Syndicats",
+        ""
+      ],
+      [
+        "5. Bahanniss Ahmed",
+        "",
+        ""
+      ],
+      [
+        "6. Bensaghir Mohamed (vice-rapporteur de la Commission)",
+        "",
+        ""
+      ],
+      [
+        "7. Dahmani Mohamed (rapporteur de la Commission)",
+        "",
+        ""
+      ],
+      [
+        "8. Essaïdi Mohamed Abdessadek",
+        "",
+        ""
+      ],
+      [
+        "9. Hansali Lahcen",
+        "",
+        ""
+      ],
+      [
+        "10. Khlafa Mustapha",
+        "",
+        ""
+      ],
+      [
+        "11. Kandila Abderrahmane (vice-président de la Commission)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Organisations professionnelles",
+        ""
+      ],
+      [
+        "12. Bensalah Mohamed Hassan",
+        "",
+        ""
+      ],
+      [
+        "13. Bessa Abdelhai",
+        "",
+        ""
+      ],
+      [
+        "14. Boulahcen Mohamed",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Société civile",
+        ""
+      ],
+      [
+        "15. Berbich Laila",
+        "",
+        ""
+      ],
+      [
+        "16. Chouaib Jaouad (Président de la Commission)",
+        "",
+        ""
+      ],
+      [
+        "17. Naji Hakima",
+        "",
+        ""
+      ],
+      [
+        "18. Zahi Abderrahmane",
+        "",
+        ""
+      ],
+      [
+        "19. Zaoui Zahra (rapporteur de l’avis)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Membres de droit",
+        ""
+      ],
+      [
+        "20. Boujendar Lotfi",
+        "",
+        ""
+      ],
+      [
+        "21. Lahcen Larhdir",
+        "",
+        ""
+      ],
+      [
+        "22. Gayer Othman",
+        "",
+        ""
+      ],
+      [
+        "23. Hassan Boulaknadal",
+        "",
+        ""
+      ],
+      [
+        "24. Hassan tariq",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 133,
+    "bbox": [
+      71.10097101449273,
+      703.6797499999999,
+      524.1152173913048,
+      749.4
+    ],
+    "n_rows": 2,
+    "n_cols": 6,
+    "rows": [
+      [
+        "",
+        "Experts permanents au Conseil",
+        "",
+        "",
+        "Nadia Sebti",
+        ""
+      ],
+      [
+        "",
+        "Traducteur",
+        "",
+        "",
+        "Nadia Ourhiati",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 134,
+    "bbox": [
+      71.22507692307691,
+      140.58290909090903,
+      516.6612048192771,
+      742.56
+    ],
+    "n_rows": 17,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Ministères",
+        "Ministère de l’intérieur – INDH",
+        ""
+      ],
+      [
+        "",
+        "Ministère de la solidarité, de l’insertion sociale et de la famille",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Ministère de l’inclusion économique, de la petite entreprise, de"
+      ],
+      [
+        "",
+        "",
+        "l’emploi et des compétences"
+      ],
+      [
+        "",
+        "Ministère de la jeunesse de la culture et de la communication-\ndépartement de la jeunesse",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Ministère de l’éducation nationale, du préscolaire et des sports –"
+      ],
+      [
+        "",
+        "",
+        "éducation non formelle et l’orientation scolaire"
+      ],
+      [
+        "",
+        "Ministère de l’économie et des finances",
+        ""
+      ],
+      [
+        "Etablissements\npublics",
+        "HCP",
+        ""
+      ],
+      [
+        "",
+        "ANAPEC",
+        ""
+      ],
+      [
+        "",
+        "OFPPT",
+        ""
+      ],
+      [
+        "",
+        "Institut national de l’action sociale",
+        ""
+      ],
+      [
+        "Organisations\ninternationales",
+        "",
+        "UNICEF"
+      ],
+      [
+        "",
+        "",
+        "ONU Femme"
+      ],
+      [
+        "",
+        "",
+        "OIT"
+      ],
+      [
+        "",
+        "",
+        "OMS"
+      ],
+      [
+        "Experts",
+        "TARIK Mohamed, professeur de droit du travail\nBENRADI Malika, professeure de droit privé\nYAAKOUB Abdelillah, démographe, ex-responsable du FNUAP\nJAIDI Larbi, économiste\nBROSSENBROEK Lisa, sociologue\nGMIRA Maha, experte en intelligence artificielle",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 134,
+    "bbox": [
+      187.25,
+      253.36599999999999,
+      516.6612048192771,
+      292.99
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Ministère de la jeunesse de la culture et de la communication-"
+      ],
+      [
+        "département de la jeunesse"
+      ]
+    ]
+  },
+  {
+    "page_number": 135,
+    "bbox": [
+      71.26444444444445,
+      99.69819999999996,
+      516.8384210526317,
+      261.76699999999994
+    ],
+    "n_rows": 4,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Secteur privé\nSecteur privé",
+        "CGEM\nInaya- Groupe Locamed\nCGEM"
+      ],
+      [
+        "Société civile\nSociété civile",
+        "Inaya- Groupe Locamed\nInstitut Tahar Sebti"
+      ],
+      [
+        "",
+        "AssocIniastitiotunt A Tla Mhaarn Saerb ti"
+      ],
+      [
+        "",
+        "Fondation Mohammed V pour la solidarité\nAssociation Al Manar"
+      ]
+    ]
+  },
+  {
+    "page_number": 135,
+    "bbox": [
+      187.25,
+      109.48699999999997,
+      516.8384210526317,
+      157.12699999999995
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "CGEM"
+      ],
+      [
+        "Inaya- Groupe Locamed\nCGEM"
+      ]
+    ]
+  },
+  {
+    "page_number": 138,
+    "bbox": [
+      119.06,
+      254.37673333333328,
+      530.0,
+      546.3568857142857
+    ],
+    "n_rows": 13,
+    "n_cols": 7,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+]

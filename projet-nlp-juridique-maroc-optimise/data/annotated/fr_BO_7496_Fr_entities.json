@@ -1,0 +1,2741 @@
+{
+  "source": "data\\processed\\fr\\BO_7496_Fr.txt",
+  "lang": "fr",
+  "doc_id": "BO_7496_Fr",
+  "bo_number": "7496",
+  "date_publication": "2026-04-02",
+  "edition_label": "Cent-quinzième",
+  "preamble_text": "Arrêté du ministre de la santé et de la protection sociale n° 454-26 du 6 ramadan 1447 (24 février 2026) modifiant\net complétant l'arrêté n° 787-14 du 7 joumada II 1435 (7 avril 2014) portant révision des prix publics de\nvente des médicaments princeps, génériques et bio-similaires commercialisés au Maroc.\nLE MINISTRE DE LA SANTÉ ET DE LA PROTECTION SOCIALE,\nVu la loi n° 10-22 portant création de l'Agence marocaine du médicament et des produits de santé,\npromulguée par le dahir n° 1-23-54 du 23 hija 1444 (12 juillet 2023), notamment son article 5 ;\nVu le décret n° 2-13-852 du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de\nfixation du prix public de vente des médicaments fabriqués localement ou importés, notamment ses articles 12\net 14 ;\nVu l'arrêté n° 787-14 du 7 joumada II 1435 (7 avril 2014) portant révision des prix publics de vente\ndes médicaments princeps, génériques et bio-similaires commercialisés au Maroc, tel qu'il a été modifié et\ncomplété par les arrêtés subséquents ;\nVu les demandes de fixation des prix publics de vente des médicaments princeps émanant des\nétablissements pharmaceutiques industriels concernés ;\nVu les demandes d'homologation des prix publics de vente des médicaments génériques et bio-similaires\némanant des établissements pharmaceutiques industriels concernés ;\nSur proposition de l'Agence marocaine du médicament et des produits de santé ;\nAprès avis de la Commission interministérielle des prix,\nARRÊTE :\nARTICLE PREMIER. – Les prix des médicaments princeps objet des demandes visées ci-dessus sont fixés\nà l'annexe n° 1 jointe au présent arrêté.\nSont homologués les prix des médicaments génériques et bio-similaires, objet des demandes visées\nci-dessus, fgiurant à l'annexe n° 2 jointe au présent arrêté.\nLes prix des médicaments fgiurant à l'annexe de l'arrêté visé ci-dessus n° 787-14, tel qu'il a été modifié et\ncomplété par les arrêtés subséquents, sont révisés à la baisse, tel qu'indiqué à l'annexe n° 3 au présent arrêté.\nART. 2. –  Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 6 ramadan 1447 (24 février 2026).\nAMINE TEHRAOUI.\n*\n*     *\n*     *     *\n*     *     *\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7494 du 7 chaoual 1447 (26 mars 2026).\nArrêté de la ministre de l'économie et des finances n° 627-26\ndu 7 chaoual 1447 (26 mars 2026) modifiant et\ncomplétant l'arrêté du  ministre délégué auprès du Chef\ndu gouvernement, chargé des affaires générales et de la\ngouvernance n° 771-13 du 18 rabii II 1434 (1er mars 2013)\nrelatif à l'homologation des prix de vente au public des\ntabacs manufacturés.\nLA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,\nVu le décret n° 2-03-199 du 20 rabii I 1424 (22 mai 2003)\npris pour l'application de la loi n° 46-02 relative au régime des\ntabacs bruts et des tabacs manufacturés, tel qu'il a été modifié\net complété par le décret n° 2-17-642 ;\nVu le décret n° 2-21-829 du 14 rabii I 1443 (21 octobre\n2021) relatif aux attributions de la ministre de l'économie et\ndes finances ;\nVu l'arrêté du ministre délégué auprès du Chef\ndu gouvernement, chargé des affaires générales et de la\ngouvernance n° 771-13 du 18 rabii II 1434 (1er mars 2013)\nrelatif à l'homologation des prix de vente au public des tabacs\nmanufacturés, tel qu'il a été modifié et complété ;\nAprès avis de la commission chargée de l'homologation\ndes prix des produits de tabac manufacturé,\nARRÊTE :",
+  "preamble_entities": [
+    {
+      "label": "MINISTERE",
+      "text": "ministre de la santé",
+      "start": 10,
+      "end": 30
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 ramadan 1447",
+      "start": 72,
+      "end": 86
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "24 février 2026",
+      "start": 88,
+      "end": 103
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté n° 787-14",
+      "start": 131,
+      "end": 147
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "7 joumada II 1435",
+      "start": 151,
+      "end": 168
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "7 avril 2014",
+      "start": 170,
+      "end": 182
+    },
+    {
+      "label": "MINISTERE",
+      "text": "MINISTRE DE LA SANTÉ",
+      "start": 310,
+      "end": 330
+    },
+    {
+      "label": "LOI",
+      "text": "loi n° 10-22",
+      "start": 366,
+      "end": 378
+    },
+    {
+      "label": "DAHIR",
+      "text": "dahir n° 1-23-54 du 23 hija 1444 (12 juillet 2023)",
+      "start": 476,
+      "end": 526
+    },
+    {
+      "label": "DECRET",
+      "text": "décret n° 2-13-852",
+      "start": 560,
+      "end": 578
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 safar 1435",
+      "start": 582,
+      "end": 595
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "18 décembre 2013",
+      "start": 597,
+      "end": 613
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté n° 787-14",
+      "start": 780,
+      "end": 796
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "7 joumada II 1435",
+      "start": 800,
+      "end": 817
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "7 avril 2014",
+      "start": 819,
+      "end": 831
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêtés",
+      "start": 1000,
+      "end": 1007
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté",
+      "start": 1616,
+      "end": 1622
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté",
+      "start": 1775,
+      "end": 1781
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté",
+      "start": 1833,
+      "end": 1839
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêtés",
+      "start": 1910,
+      "end": 1917
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté",
+      "start": 1999,
+      "end": 2005
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté",
+      "start": 2029,
+      "end": 2035
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "6 ramadan 1447",
+      "start": 2080,
+      "end": 2094
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "24 février 2026",
+      "start": 2096,
+      "end": 2111
+    },
+    {
+      "label": "BULLETIN_OFFICIEL",
+      "text": "Bulletin officiel » n° 7494 du 7 chaoual 1447 (26 mars 2026)",
+      "start": 2235,
+      "end": 2295
+    },
+    {
+      "label": "ARRETE",
+      "text": "Arrêté",
+      "start": 2297,
+      "end": 2303
+    },
+    {
+      "label": "MINISTERE",
+      "text": "ministre de l'économie et des finances",
+      "start": 2310,
+      "end": 2348
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "7 chaoual 1447",
+      "start": 2362,
+      "end": 2376
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "26 mars 2026",
+      "start": 2378,
+      "end": 2390
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté du ministre délégué auprès du Chef",
+      "start": 2418,
+      "end": 2460
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "18 rabii II 1434",
+      "start": 2542,
+      "end": 2558
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "1er mars 2013",
+      "start": 2560,
+      "end": 2573
+    },
+    {
+      "label": "MINISTERE",
+      "text": "MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+      "start": 2656,
+      "end": 2694
+    },
+    {
+      "label": "DECRET",
+      "text": "décret n° 2-03-199",
+      "start": 2702,
+      "end": 2720
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "20 rabii I 1424",
+      "start": 2724,
+      "end": 2739
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "22 mai 2003",
+      "start": 2741,
+      "end": 2752
+    },
+    {
+      "label": "LOI",
+      "text": "loi n° 46-02 relative au régime des",
+      "start": 2784,
+      "end": 2819
+    },
+    {
+      "label": "DECRET",
+      "text": "décret n° 2-17-642",
+      "start": 2904,
+      "end": 2922
+    },
+    {
+      "label": "DECRET",
+      "text": "décret n° 2-21-829",
+      "start": 2931,
+      "end": 2949
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "14 rabii I 1443",
+      "start": 2953,
+      "end": 2968
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "21 octobre 2021",
+      "start": 2970,
+      "end": 2985
+    },
+    {
+      "label": "ARRETE",
+      "text": "arrêté du ministre délégué auprès du Chef",
+      "start": 3064,
+      "end": 3105
+    },
+    {
+      "label": "DATE_HIJRI",
+      "text": "18 rabii II 1434",
+      "start": 3187,
+      "end": 3203
+    },
+    {
+      "label": "DATE_GREGORIAN",
+      "text": "1er mars 2013",
+      "start": 3205,
+      "end": 3218
+    }
+  ],
+  "possible_embedded_arabic": [
+    "الجريدة",
+    "الرسمية،",
+    "عدد",
+    "،",
+    "بتاريخ",
+    "جمادى",
+    "آالخرة",
+    "يناير"
+  ],
+  "sommaire": "SOMMAIRE\nTEXTES GENERAUX\nMédicaments princeps, génériques et bio-\nsimilaires commercialisés au Maroc. –\nPrix publics de vente.\nArrêté du ministre de la santé et de la protection\nsociale n° 454-26 du 6 ramadan 1447\n(24 février 2026) modifiant et complétant\nl'arrêté n° 787-14 du 7 joumada II 1435\n(7 avril 2014) portant révision des prix publics\nde vente des médicaments princeps, génériques\nTabacs manufacturés. – Prix de vente au\npublic.\nArrêté de la ministre de l'économie et des finances\nn° 627-26 du 7 chaoual 1447 (26 mars 2026)\nmodifiant et complétant l'arrêté du  ministre\ndélégué auprès du Chef du gouvernement, chargé\ndes affaires générales et de la gouvernance\nn° 771-13 du 18 rabii II 1434 (1er mars 2013)\nrelatif à l'homologation des prix de vente au\nHomologation de normes marocaines.\nDécision du directeur de l'Institut marocain de\nnormalisation n° 304-26 du 17 chaabane 1447\n(6 février 2026) portant homologation de normes\nTEXTES PARTICULIERS\nSociété «  Rabat Région Emergence  ».  –\nConcession de l'aménagement et de\nla gestion de la zone d'accélération\nindustrielle Skhirate.\ndécret n° 2-26-143 du 16 ramadan 1447 (6 mars 2026)\napprouvant la concession de l'aménagement\net de la gestion de la zone d'accélération\nindustrielle Skhirate à la société « Rabat Région\nSociété « Cimecom S.A ». – Renouvellement\nde la licence pour l'établissement et\nl'exploitation d'un réseau public de\ntélécommunications par satellites.\ndécret n° 2-26-139 du 5 chaoual 1447 (24 mars 2026)\nportant renouvellement de la licence attribuée à\nla société « Cimecom S.A » pour l'établissement\net l'exploitation d'un réseau public de\ntélécommunications par satellites de type\nPages\nPages\nCentre national de l'énergie, des sciences et des\nArrêté du ministre de l'enseignement supérieur, de la\nrecherche scientifique et de l'innovation n° 3063-25\ndu 8 ramadan 1447 (26 février 2026) complétant\nl'arrêté n° 2797-95 du 20 joumada II 1416\n(14 novembre 1995) fixant la liste des diplômes\ntechniques nucléaires. – Reconduction\nde l'octroi de la garantie de l'Etat.\ndécret n° 2-26-183 du 5 chaoual 1447 (24 mars 2026)\nreconnus équivalents au diplôme d'architecte de\nreconduisant l'octroi de la garantie de l'Etat au\nCentre national de l'énergie, des sciences et des\nSociété « Fast Payment SA ».– Prorogation\nde la durée du mandat.\nDécision du Wali de Bank Al-Maghrib n° 160 du\nEquivalences de diplômes.\n15 chaabane 1447 (4 février 2026) portant\nprorogation de la durée du mandat du liquidateur\nArrêté du ministre de l'enseignement supérieur, de la\nrecherche scientifique et de l'innovation n° 351-26\ndu 23 chaabane 1447 (12 février 2026) complétant\nl'arrêté n° 2797-95 du 20 joumada II 1416\n(14 novembre 1995) fixant la liste des diplômes\nSociété « MAZMA Technologies  ».  –\nAgrément.\nDécision du Wali de Bank Al-Maghrib n° 161\nreconnus équivalents au diplôme d'architecte de\ndu 27 chaabane 1447 (16 février 2026)\nportant agrément de la société « MAZMA\nTechnologies » en qualité d'établissement de\nArrêté du ministre de l'enseignement supérieur, de la\nrecherche scientifique et de l'innovation n° 462-26\ndu 8 ramadan 1447 (26 février 2026) complétant\nl'arrêté n° 2797-95 du 20 joumada II 1416\n(14 novembre 1995) fixant la liste des diplômes\nAVIS ET COMMUNICATIONS\nAvis du Conseil Économique, Social et\nEnvironnemental : « Pertes et gaspillage\nreconnus équivalents au diplôme d'architecte de\nalimentaires au Maroc : comprendre l'ampleur",
+  "decrees": [
+    {
+      "title": "Arrêté",
+      "preamble": "Arrêté du ministre de la santé et de la protection sociale n° 454-26 du 6 ramadan 1447 (24 février 2026) modifiant\net complétant l'arrêté n° 787-14 du 7 joumada II 1435 (7 avril 2014) portant révision des prix publics de\nvente des médicaments princeps, génériques et bio-similaires commercialisés au Maroc.\nLE MINISTRE DE LA SANTÉ ET DE LA PROTECTION SOCIALE,\nVu la loi n° 10-22 portant création de l'Agence marocaine du médicament et des produits de santé,\npromulguée par le dahir n° 1-23-54 du 23 hija 1444 (12 juillet 2023), notamment son article 5 ;\nVu le décret n° 2-13-852 du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de\nfixation du prix public de vente des médicaments fabriqués localement ou importés, notamment ses articles 12\net 14 ;\nVu l'arrêté n° 787-14 du 7 joumada II 1435 (7 avril 2014) portant révision des prix publics de vente\ndes médicaments princeps, génériques et bio-similaires commercialisés au Maroc, tel qu'il a été modifié et\ncomplété par les arrêtés subséquents ;\nVu les demandes de fixation des prix publics de vente des médicaments princeps émanant des\nétablissements pharmaceutiques industriels concernés ;\nVu les demandes d'homologation des prix publics de vente des médicaments génériques et bio-similaires\némanant des établissements pharmaceutiques industriels concernés ;\nSur proposition de l'Agence marocaine du médicament et des produits de santé ;\nAprès avis de la Commission interministérielle des prix,",
+      "first_article_idx": 0,
+      "entities": [
+        {
+          "label": "MINISTERE",
+          "text": "ministre de la santé",
+          "start": 10,
+          "end": 30
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 ramadan 1447",
+          "start": 72,
+          "end": 86
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 février 2026",
+          "start": 88,
+          "end": 103
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté n° 787-14",
+          "start": 131,
+          "end": 147
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 joumada II 1435",
+          "start": 151,
+          "end": 168
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "7 avril 2014",
+          "start": 170,
+          "end": 182
+        },
+        {
+          "label": "MINISTERE",
+          "text": "MINISTRE DE LA SANTÉ",
+          "start": 310,
+          "end": 330
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 10-22",
+          "start": 366,
+          "end": 378
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-23-54 du 23 hija 1444 (12 juillet 2023)",
+          "start": 476,
+          "end": 526
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-13-852",
+          "start": 560,
+          "end": 578
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "14 safar 1435",
+          "start": 582,
+          "end": 595
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "18 décembre 2013",
+          "start": 597,
+          "end": 613
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté n° 787-14",
+          "start": 780,
+          "end": 796
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 joumada II 1435",
+          "start": 800,
+          "end": 817
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "7 avril 2014",
+          "start": 819,
+          "end": 831
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêtés",
+          "start": 1000,
+          "end": 1007
+        }
+      ]
+    },
+    {
+      "title": "Décision",
+      "preamble": "Décision du directeur de l'Institut marocain de normalisation\nn° 304-26 du 17 chaabane 1447 (6 février 2026) portant\nhomologation de normes marocaines.\nLE DIRECTEUR DE L'INSTITUT MAROCAIN DE\nNORMALISATION,\nVu la loi n°  12-06 relative à la normalisation, à la\ncertification et à l'accréditation, promulguée par le dahir\nn° 1-10-15 du 26 safar 1431 (11 février 2010), notamment ses\narticles 11, 15 et 32 ;\nVu la résolution du Conseil d'administration de\nl'Institut marocain de normalisation (IMANOR) n° 10, tenu\nle 19 safar 1435 (23 décembre 2013), qui a délégué au directeur\nde l'IMANOR le pouvoir de prononcer l'homologation des\nnormes marocaines et la certifciation de la conformité auxdites\nnormes,\nDÉCIDE :",
+      "first_article_idx": 3,
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "17 chaabane 1447",
+          "start": 75,
+          "end": 91
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 février 2026",
+          "start": 93,
+          "end": 107
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 12-06 relative à la normalisation, à la",
+          "start": 212,
+          "end": 259
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-10-15 du 26 safar 1431 (11 février 2010)",
+          "start": 314,
+          "end": 365
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "19 safar 1435",
+          "start": 514,
+          "end": 527
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "23 décembre 2013",
+          "start": 529,
+          "end": 545
+        }
+      ]
+    },
+    {
+      "title": "décret",
+      "preamble": "décret n° 2-26-143 du 16 ramadan 1447 (6 mars 2026) approuvant\ndécret n° 2-26-139 du 5 chaoual 1447 (24 mars 2026) portant\nla concession de l'aménagement et de la gestion de la zone\nd'accélération industrielle Skhirate à la société « Rabat\nRégion Emergence ».\nrenouvellement de la licence attribuée à la société\n« Cimecom S.A » pour l'établissement et l'exploitation\nd'un réseau public de télécommunications par satellites\nde type VSAT.\nLE CHEF  DU GOUVERNEMENT,\nVu la loi n° 19-94 relative aux zones d'accélération\nindustrielle, promulguée par le dahir n° 1-95-1 du 24 chaabane\n1415 (26 janvier 1995), telle que modifiée, notamment son\narticle 7 ;\nLE CHEF DU GOUVERNEMENT,\nVu la loi n°  24-96 relative à la poste et aux\ntélécommunications, promulguée par le dahir n° 1-97-162\ndu 2 rabii II 1418 (7 août 1997), telle qu'elle a été modifiée et\nVu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1995)\npris pour l'application de la loi n° 19-94 relative aux zones\nd'accélération industrielle, notamment son article 5 ;\ncomplétée ;\nVu le décret n° 2-97-813 du 27 chaoual 1418 (25 février 1998)\nportant application des dispositions de la loi n° 24-96 relative\nVu le décret n° 2-25-800 du 6 joumada I 1447 (29 octobre\n2025) portant création de la Zone d'accélération industrielle\nSkhirate ;\nà la poste et aux télécommunications, en ce qui concerne\nl'Agence nationale de réglementation des télécommunications ;\nSur proposition de la commission nationale des zones\nd'accélération industrielle,\nVu le décret n° 2-00-810 du 6 kaada 1421 (31 janvier 2001)\nportant attribution de la licence d'établissement et\nd'exploitation d'un réseau public de télécommunications par\nDÉCRÈTE :\nsatellites de type VSAT à la société « Argos S.A », tel qu'il a",
+      "first_article_idx": 6,
+      "entities": [
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-26-143",
+          "start": 0,
+          "end": 18
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "16 ramadan 1447",
+          "start": 22,
+          "end": 37
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 mars 2026",
+          "start": 39,
+          "end": 50
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-26-139",
+          "start": 63,
+          "end": 81
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "5 chaoual 1447",
+          "start": 85,
+          "end": 99
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 mars 2026",
+          "start": 101,
+          "end": 113
+        },
+        {
+          "label": "ORG",
+          "text": "société « Rabat Région Emergence »",
+          "start": 224,
+          "end": 258
+        },
+        {
+          "label": "ORG",
+          "text": "société « Cimecom S.A »",
+          "start": 304,
+          "end": 327
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 19-94 relative aux zones d'accélération",
+          "start": 469,
+          "end": 515
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-95-1 du 24 chaabane 1415 (26 janvier 1995)",
+          "start": 548,
+          "end": 601
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 24-96 relative à la poste et aux",
+          "start": 680,
+          "end": 720
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-97-162",
+          "start": 759,
+          "end": 776
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 rabii II 1418",
+          "start": 780,
+          "end": 795
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "7 août 1997",
+          "start": 797,
+          "end": 808
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-95-562",
+          "start": 849,
+          "end": 867
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "19 rejeb 1416",
+          "start": 871,
+          "end": 884
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 1995",
+          "start": 886,
+          "end": 902
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 19-94 relative aux zones",
+          "start": 934,
+          "end": 965
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-97-813",
+          "start": 1039,
+          "end": 1057
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "27 chaoual 1418",
+          "start": 1061,
+          "end": 1076
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "25 février 1998",
+          "start": 1078,
+          "end": 1093
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 24-96",
+          "start": 1138,
+          "end": 1150
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-25-800",
+          "start": 1166,
+          "end": 1184
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 joumada I 1447",
+          "start": 1188,
+          "end": 1204
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "29 octobre 2025",
+          "start": 1206,
+          "end": 1221
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-00-810",
+          "start": 1497,
+          "end": 1515
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 kaada 1421",
+          "start": 1519,
+          "end": 1531
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "31 janvier 2001",
+          "start": 1533,
+          "end": 1548
+        },
+        {
+          "label": "ORG",
+          "text": "société « Argos S.A »",
+          "start": 1702,
+          "end": 1723
+        }
+      ]
+    },
+    {
+      "title": "décret",
+      "preamble": "décret n° 2-26-183 du 5 chaoual 1447 (24 mars 2026)\nreconduisant l'octroi de la garantie de l'Etat au Centre\nnational de l'énergie, des sciences et des techniques\nnucléaires (CNESTEN).\nLE CHEF DU GOUVERNEMENT,\nVu la loi n° 12-02 relative à la responsabilité civile en\nmatière de dommages nucléaires, promulguée par le dahir\nn° 1-04-278 du 25 kaada 1425 (7 janvier 2005), notamment ses\narticles 22 et 24 ;\nVu le décret n° 2-05-1560 du 22 rabii I 1427 (21 avril 2006)\npris pour l'application de la loi n° 12-02 relative à la\nresponsabilité civile en matière de dommages nucléaires,\nnotamment son article 4 ;\nVu le décret n° 2-25-341 du 1er kaada 1446 (29 avril\n2025) reconduisant l'octroi de la garantie de l'Etat au Centre\nnational de l'énergie, des sciences et des techniques nucléaires\n(CNESTEN), pour l'année 2025 ;\nSur proposition de la ministre de la transition énergétique\net du développement durable et de la ministre de l'économie\net des finances,\nDÉCRÈTE :",
+      "first_article_idx": 10,
+      "entities": [
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-26-183",
+          "start": 0,
+          "end": 18
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "5 chaoual 1447",
+          "start": 22,
+          "end": 36
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 mars 2026",
+          "start": 38,
+          "end": 50
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 12-02 relative à la responsabilité civile en",
+          "start": 216,
+          "end": 267
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-04-278 du 25 kaada 1425 (7 janvier 2005)",
+          "start": 318,
+          "end": 369
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-05-1560",
+          "start": 411,
+          "end": 430
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 rabii I 1427",
+          "start": 434,
+          "end": 449
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "21 avril 2006",
+          "start": 451,
+          "end": 464
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 12-02 relative à la",
+          "start": 496,
+          "end": 522
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-25-341",
+          "start": 612,
+          "end": 630
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "1er kaada 1446",
+          "start": 634,
+          "end": 648
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "29 avril 2025",
+          "start": 650,
+          "end": 663
+        }
+      ]
+    },
+    {
+      "title": "Arrêté",
+      "preamble": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 351-26 du 23 chaabane 1447\n(12 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 20 novembre 2025,",
+      "first_article_idx": 12,
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "Arrêté du ministre de l'enseignement supérieur",
+          "start": 0,
+          "end": 46
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "23 chaabane 1447",
+          "start": 109,
+          "end": 125
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 février 2026",
+          "start": 127,
+          "end": 142
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 157,
+          "end": 163
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 179,
+          "end": 197
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 199,
+          "end": 215
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté du ministre de l'enseignement supérieur",
+          "start": 423,
+          "end": 469
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 544,
+          "end": 562
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 564,
+          "end": 580
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-24-991",
+          "start": 726,
+          "end": 744
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "24 rabii II 1446",
+          "start": 748,
+          "end": 764
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 octobre 2024",
+          "start": 766,
+          "end": 781
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 novembre 2025",
+          "start": 1198,
+          "end": 1214
+        }
+      ]
+    },
+    {
+      "title": "Arrêté",
+      "preamble": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 462-26 du 8 ramadan 1447\n(26 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 12 juin 2025,",
+      "first_article_idx": 14,
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "Arrêté du ministre de l'enseignement supérieur",
+          "start": 0,
+          "end": 46
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "8 ramadan 1447",
+          "start": 109,
+          "end": 123
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 février 2026",
+          "start": 125,
+          "end": 140
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 155,
+          "end": 161
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 177,
+          "end": 195
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 197,
+          "end": 213
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté du ministre de l'enseignement supérieur",
+          "start": 421,
+          "end": 467
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 542,
+          "end": 560
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 562,
+          "end": 578
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-24-991",
+          "start": 724,
+          "end": 742
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "24 rabii II 1446",
+          "start": 746,
+          "end": 762
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 octobre 2024",
+          "start": 764,
+          "end": 779
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 juin 2025",
+          "start": 1196,
+          "end": 1208
+        }
+      ]
+    },
+    {
+      "title": "Arrêté",
+      "preamble": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 3063-25 du 8 ramadan 1447\n(26 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 12 juin 2025,",
+      "first_article_idx": 16,
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "Arrêté du ministre de l'enseignement supérieur",
+          "start": 0,
+          "end": 46
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "8 ramadan 1447",
+          "start": 110,
+          "end": 124
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 février 2026",
+          "start": 126,
+          "end": 141
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 156,
+          "end": 162
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 178,
+          "end": 196
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 198,
+          "end": 214
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté du ministre de l'enseignement supérieur",
+          "start": 422,
+          "end": 468
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 543,
+          "end": 561
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 563,
+          "end": 579
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-24-991",
+          "start": 725,
+          "end": 743
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "24 rabii II 1446",
+          "start": 747,
+          "end": 763
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 octobre 2024",
+          "start": 765,
+          "end": 780
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 juin 2025",
+          "start": 1197,
+          "end": 1209
+        }
+      ]
+    },
+    {
+      "title": "Décision",
+      "preamble": "Décision du Wali de Bank Al-Maghrib n° 160 du 15 chaabane 1447\n(4 février 2026) portant prorogation de la durée du mandat\ndu liquidateur de la société « Fast Payment SA».\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1er rabii I 1436 (24 décembre 2014), notamment ses articles 145\net 146 ;\nVu la décision du Wali de Bank Al-Maghrib n°134 du\n2 joumada I 1445 (16 novembre 2023) portant nomination d'un\nliquidateur pour la société « Fast Payment SA » ;\nVu que le délai de liquidation de la société « Fast\nPayment SA» expirera le 5 février 2026, sans que les opérations\nde liquidation ne soient clôturées ;\nVu la demande de prorogation du délai, formulée par le\nliquidateur le 2 février 2026,\nDÉCIDE :",
+      "first_article_idx": 18,
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "15 chaabane 1447",
+          "start": 46,
+          "end": 62
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 février 2026",
+          "start": 64,
+          "end": 78
+        },
+        {
+          "label": "ORG",
+          "text": "société « Fast Payment SA»",
+          "start": 143,
+          "end": 169
+        },
+        {
+          "label": "ORG",
+          "text": "BANK AL-MAGHRIB",
+          "start": 182,
+          "end": 197
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 103-12 relative aux établissements de crédit et",
+          "start": 205,
+          "end": 259
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-14-193",
+          "start": 300,
+          "end": 317
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "1er rabii I 1436",
+          "start": 321,
+          "end": 337
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 décembre 2014",
+          "start": 339,
+          "end": 355
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "2 joumada I 1445",
+          "start": 445,
+          "end": 461
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "16 novembre 2023",
+          "start": 463,
+          "end": 479
+        },
+        {
+          "label": "ORG",
+          "text": "société « Fast Payment SA »",
+          "start": 525,
+          "end": 552
+        },
+        {
+          "label": "ORG",
+          "text": "société « Fast Payment SA»",
+          "start": 592,
+          "end": 618
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 février 2026",
+          "start": 631,
+          "end": 645
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "2 février 2026",
+          "start": 778,
+          "end": 792
+        }
+      ]
+    },
+    {
+      "title": "Décision",
+      "preamble": "Décision du Wali de Bank Al-Maghrib n° 161 du 27 chaabane 1447\n(16 février 2026) portant agrément de la société « MAZMA\nTechnologies » en qualité d'établissement de paiement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1er rabii I 1436 (24 décembre 2014), notamment ses articles 16,\n26 et 34 ;\nVu la demande d'agrément formulée par la société\n« MAZMA Technologies » en date du 28 novembre 2022 ;\nVu les informations complémentaires communiquées\nen date du 4 avril 2024 ;\nAprès avis du comité des établissements de crédit du\n13 juin 2024 ;\nVu les informations complémentaires communiquées en\ndate du 28 janvier 2026 pour la levée des réserves formulées\npar le comité des établissements de crédit,\nDÉCIDE :",
+      "first_article_idx": 20,
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "27 chaabane 1447",
+          "start": 46,
+          "end": 62
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "16 février 2026",
+          "start": 64,
+          "end": 79
+        },
+        {
+          "label": "ORG",
+          "text": "société « MAZMA Technologies »",
+          "start": 104,
+          "end": 134
+        },
+        {
+          "label": "ORG",
+          "text": "BANK AL-MAGHRIB",
+          "start": 186,
+          "end": 201
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 103-12 relative aux établissements de crédit et",
+          "start": 209,
+          "end": 263
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-14-193",
+          "start": 304,
+          "end": 321
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "1er rabii I 1436",
+          "start": 325,
+          "end": 341
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 décembre 2014",
+          "start": 343,
+          "end": 359
+        },
+        {
+          "label": "ORG",
+          "text": "société « MAZMA Technologies »",
+          "start": 441,
+          "end": 471
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 novembre 2022",
+          "start": 483,
+          "end": 499
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 avril 2024",
+          "start": 562,
+          "end": 574
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "13 juin 2024",
+          "start": 630,
+          "end": 642
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 janvier 2026",
+          "start": 705,
+          "end": 720
+        }
+      ]
+    },
+    {
+      "title": "Avis",
+      "preamble": "Avis du Conseil Économique, Social et Environnemental\n« Pertes et gaspillage alimentaires au Maroc : comprendre\nl'ampleur et les enjeux pour agir efficacement »\nconformément aux dispositions de l'article 6 de la loi organique n°128-12, le Conseil économique,\nsocial et environnemental (CESE) s'est autosaisi aux fins de préparer un avis au sujet des pertes et\ngaspillage alimentaires au Maroc.\nLe Bureau du Conseil a confié l'élaboration dudit avis à la Commission chargée de l'environnement et\ndu développement durable1.\nLors de sa 163ème session ordinaire tenue le 24 avril 2025, l'Assemblée Générale du CESE a adopté à\nl'unanimité l'avis intitulé : « pertes et gaspillage alimentaires au Maroc : comprendre l'ampleur et les\nenjeux pour agir efficacement ».\nÉlaboré sur la base d'une approche participative, l'avis est le résultat d'un large débat entre les\ndifférentes catégories qui composent le Conseil ainsi que des auditions organisées avec les\nprincipales parties prenantes concernées2. Il s'est également appuyé sur les enseignements et les\nrésultats d'une consultation lancée sur le sujet au niveau de la plateforme digitale de participation\ncitoyenne « ouchariko.ma »3.\n1 Annexe 1 : Liste des membres de la Commission chargée de l'environnement et du développement durable\n2 Annexe 2 : Liste des acteurs auditionnés\n3 Annexe 3 : Résultats de la consultation lancée sur la plateforme Ouchariko\nIntroduction\nLes pertes et le gaspillage alimentaires (PGA) constituent un enjeu mondial majeur dont les impacts\ntouchent simultanément l'économie, la sécurité alimentaire, la société et l'environnement. Au plan\néconomique, ils entraînent des pertes considérables tout au long de la chaîne de valeur, du\nproducteur au consommateur. En réduisant la disponibilité des denrées et en contribuant à la hausse\ndes prix, les PGA fragilisent la sécurité alimentaire en limitant l'accès des ménages les plus\nvulnérables à une alimentation suffisante et nutritive. Ils occasionnent également une déperdition\nimportante de ressources essentielles (eau, terres, énergie) qui affaiblit l'efficacité et la durabilité des\nsystèmes alimentaires et accroît les inégalités sociales en exposant certaines populations à des\nrisques sanitaires accrus. Sur le plan environnemental, ils accentuent la pression sur les ressources\nnaturelles et génèrent une pollution significative, en particulier liée à la décomposition des déchets\nalimentaires et aux émissions de gaz à effet de serre.\nÀ l'échelle mondiale, environ 13,2% des denrées alimentaires sont perdues entre la récolte et la\nvente au détail, tandis que près de 19% de la production totale est gaspillée au niveau des ménages,\nde la restauration et du commerce1. Ce phénomène révèle les inefficiences structurelles qui\naffectent des systèmes alimentaires en profonde mutation, sous l'effet de l'évolution des modes de\nproduction, de distribution et de consommation. Dans un contexte où des millions de personnes\ndemeurent exposées à l'insécurité alimentaire, notamment dans les pays confrontés à des tensions\nsocio-économiques et environnementales, une part importante des ressources alimentaires continue\npourtant d'être perdue ou gaspillée. Ce paradoxe — entre des surplus jetés et une insécurité\nalimentaire persistante — révèle un dysfonctionnement structurel des systèmes alimentaires,\ncaractérisé par une répartition inégale et une gestion inefficiente des ressources.\nSur le plan national, d'après l'édition 2024 de l'Indice de gaspillage alimentaire2, les ménages marocains\nauraient jeté quelque 4,2 millions de tonnes de nourriture, soit en moyenne 113 kg par habitant et par an\n— une progression marquée par rapport aux 91 kg enregistrés en 2021. Cette hausse significative\nsurvient dans un contexte de sécheresses récurrentes et d'une forte pression sur les ressources\nnaturelles disponibles, accentuée par la dépendance aux importations de produits alimentaires (céréales,\nproduits laitiers, viandes rouges, huiles, etc.) et la croissance des besoins alimentaires.\nFace à cet enjeu, plusieurs initiatives ont vu le jour au Maroc, portées aussi bien par des acteurs\npublics que privés. Toutefois, ces efforts restent dispersés, de portée limitée, et souvent entravés par\ndes contraintes structurelles. L'absence d'un cadre d'orientation global, d'un dispositif juridique\nadapté et de mécanismes de coordination intersectorielle constitue, entre autres facteurs, un frein\nmajeur à la cohérence, à la pérennité et à l'efficacité des actions entreprises.\nEn outre, la mobilisation des acteurs du secteur privé, de la société civile, ainsi que du monde de la\nrecherche et de l'innovation reste en deçà des enjeux. Pourtant, leur implication renforcée pourrait\nconstituer un levier essentiel pour réduire les PGA, mieux valoriser les ressources disponibles et\nfavoriser l'émergence de solutions durables et adaptées aux réalités locales.\n1 Nations Unies, Journée internationale de sensibilisation aux pertes et gaspillages de nourriture, 29 septembre,\nhttps://www.un.org/fr/observances/end-food-waste-day\n2 United Nations Environment Programme (2024). Food Waste Index Report 2024. Think Eat Save: Tracking Progress to Halve Global Food Waste.\nhttps://wedocs.unep.org/20.500.11822/45230.\nC'est dans ce contexte que le Conseil économique, social et environnemental (CESE) a décidé de\ns'autosaisir de cette problématique, dans le prolongement des travaux qu'il mène sur les enjeux de\ndurabilité, de souveraineté alimentaire et de gestion intégrée des ressources naturelles1.\nÀ travers le présent avis, le Conseil entend répondre à la question principale suivante : \" comment le\nMaroc peut-il réduire efficacement les PGA dans un contexte de rareté croissante des ressources et\nde besoins alimentaires en hausse, en adoptant une approche intégrée au service d'un système\nalimentaire durable, équitable et résilient ? \"\nPour y répondre, le Conseil s'attache à analyser l'ampleur, les causes et les impacts des PGA dans le\ncontexte marocain, en vue d'identifier les leviers d'action les plus pertinents pour impulser une\ntransformation systémique des modes de production, de distribution et de consommation, en\ncohérence avec les objectifs de souveraineté et de sécurité alimentaires du pays.\nI. Les PGA constituent un phénomène qui devient de plus en plus préoccupant\n1. PGA : deux réalités distinctes, mais interdépendantes\nLes PGA désignent des dynamiques et des réalités distinctes qui se manifestent à différents stades de\nla chaîne de valeur alimentaire, impliquant ainsi des actions spécifiques et adaptées.\nLes pertes alimentaires correspondent aux détériorations ou disparitions, en quantité et en qualité, de produits\ndestinés à la consommation humaine, dès les premières étapes de la chaîne : production, récolte, stockage,\ntransport et transformation. Elles sont généralement liées à des contraintes techniques, organisationnelles ou\ninfrastructurelles. Le gaspillage alimentaire, quant à lui, renvoie aux denrées encore propres à la consommation,\nmais jetées au niveau des ménages, de la distribution ou de la restauration. Ce phénomène est principalement\ninfluencé par les habitudes de consommation, les normes sociales et les pratiques commerciales.\nDistinguer clairement pertes et gaspillage permet de mieux orienter les interventions. Les premières\nappellent des réponses techniques et logistiques, tandis que le second nécessite des actions ciblées\nsur la sensibilisation, la régulation et la transformation des comportements.\nAdopter cette distinction est de nature à favoriser une mobilisation efficace des acteurs, une\nplanification cohérente et une utilisation plus efficiente des ressources, en vue de renforcer la\nsécurité alimentaire et de favoriser une gestion durable du système alimentaire.\n2. Les PGA : un phénomène qui prend de l'ampleur, mais varie selon les territoires\nAu Maroc, la quantification des PGA reste encore lacunaire. Bien que certaines données soient\ndisponibles, les estimations demeurent souvent partielles, voire imprécises. L'absence de données\ndésagrégées, actualisées et ventilées par type de produit, territoire ou maillon de la chaîne limite la\ncompréhension fine de l'ampleur du phénomène et de ses implications, ce qui pourrait\ncompromettre la formulation de réponses adaptées et efficaces.\nNonobstant leur qualité limitée, les données disponibles font apparaître des pertes importantes à\nchaque maillon de la chaîne de valeur agroalimentaire. Ces pertes touchent en particulier les\ncéréales, le pain, les fruits et légumes, ainsi que les produits laitiers, qui forment la base du régime\nalimentaire des Marocains.\n1  Voir les avis du CESE y afférents :\n- « Pour une politique urgente de rénovation et de développement des souks hebdomadaires en milieu rural » ; 2020 ;\n- « Une approche intégrée pour résorber l'économie informelle au Maroc », 2021 ;\n- « Pour une approche novatrice et intégrée de la commercialisation des produits agricoles », 2021 ;\n- « Intégration des principes de l'économie circulaire aux traitements des déchets ménagers et des eaux usées », 2022 ;\nDans le secteur des céréales, les pertes varient entre 15% et 20% au niveau des petites exploitations\nagricoles1. Ce chiffre est d'autant plus préoccupant que la consommation moyenne de blé atteint\n255 kg par habitant et par an, soit près de quatre fois la moyenne mondiale. Les capacités de\nstockage, limitées à environ 60 millions de quintaux2, contribuent à aggraver ces pertes, en\nparticulier dans un contexte de bonnes récoltes, lorsque les excédents ne peuvent être stockés dans\ndes conditions adéquates.\nLa filière des fruits et légumes au Maroc, avec une superficie totale de 700 000 hectares et une\nproduction moyenne annuelle de 11,5 millions de tonnes, présente une performance globale\nimportante, notamment avec une couverture de 96% des besoins nationaux et une forte présence à\nl'export. Les pertes post-récoltes demeurent élevées, particulièrement pour les produits destinés au\nmarché interne, où elles varient entre 20% et 40%3. À l'inverse, les produits exportés connaissent des\npertes beaucoup plus faibles, comprises entre 3% et 5%4. Ces pertes significatives touchent plusieurs\nsegments-clés, comme la tomate, la carotte et les agrumes.\nEncadré 1 : Pertes enregistrées pour certains légumes et fruits5\n1 Commission économique et sociale pour l'Asie occidentale, Résumé des résultats principaux de l'étude sur les pertes alimentaires au royaume du\nMaroc, E/ESCWA/CL1.CCS/2022/WP.1, www.unescwa.org/sites/default/files/event/materials/Resume_FLW.pdf\n2 Audition du ministère de l'Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts et de l'Institut National de Recherche\nAgronomique (INRA), C4, CESE, 11 décembre 2024.\n3 Conseil de la Concurrence, Avis sur l'état de la concurrence dans les marchés des fruits et légumes au Maroc, pages 29 et 141.\n4 Idem, p. 30.\n5 Ibid, p. 24-25.\nS'agissant du gaspillage alimentaire, les données du rapport 2024 du PNUE confirment l'ampleur du\nphénomène au niveau des ménages marocains, avec quelque 4,2 millions de tonnes de nourriture\njetées chaque année1, soit une moyenne de 113 kg par habitant. L'un des exemples les plus\nrévélateurs de ce phénomène est celui du pain, produit emblématique de l'alimentation marocaine.\nDes estimations avancent que près de 40 millions d'unités de pain seraient jetées chaque jour dans\nles foyers marocains2.\nCe constat illustre l'ampleur des pertes dans une filière stratégique, tant sur le plan nutritionnel\nqu'économique. En effet, les produits à base de blé3 représentent à eux seuls près de 4 millions de\ntonnes de PGA par an, soit 36% de l'offre totale du pays. Ces pertes sont principalement concentrées\ndans les industries de boulangerie et pâtisserie (23,37%) ainsi que dans la minoterie (10,64%), et leur\ncoût est estimé à près d'un milliard de dollars par an.\nBien que les données disponibles sur les PGA restent incomplètes, elles mettent en lumière un\ndéséquilibre structurel entre la production, la consommation et la gestion des invendus. Ce\ndésajustement, tout au long de la chaîne alimentaire, entraîne des pertes économiques\nconsidérables et pourrait, à terme, compromettre la sécurité alimentaire nationale.\nEn outre, les PGA au Maroc varient considérablement selon les régions. Dans les zones rurales et\nagricoles, ils se concentrent principalement au niveau de la production et de la logistique, en raison\ndu manque de moyens de stockage adaptés, d'infrastructures de transport insuffisantes et de\nconditions climatiques difficiles. Certaines filières par exemple, comme celles des fruits et légumes\ndestinés au marché local, enregistrent des pertes particulièrement élevées dans ces régions, tandis\nque les produits destinés à l'exportation bénéficient généralement de meilleures infrastructures de\nconservation et de transport.\nÀ l'inverse, dans les zones urbaines, notamment dans les grandes villes, le gaspillage alimentaire se\nmanifeste surtout lors de la distribution et de la consommation – que ce soit chez les ménages, dans\nla restauration ou la grande distribution – en raison notamment des habitudes de surconsommation\net d'une gestion souvent inefficace des stocks.\nCette différenciation territoriale dans l'ampleur des PGA est importante à mettre en exergue. Elle\nmet en évidence la nécessité de concevoir des actions de lutte adaptées aux réalités locales, en\nprenant en compte les particularités des filières ainsi que les dynamiques socio-économiques et\nculturelles propres à chaque territoire.\n1 Commission économique et sociale pour l'Asie occidentale, Résumé des résultats principaux de l'étude sur les pertes alimentaires au royaume du\nMaroc, E/ESCWA/CL1.CCS/2022/WP.1, www.unescwa.org/sites/default/files/event/materials/Resume_FLW.pdf\n2 Audition du ministère de l'Agriculture (11 décembre 2024) et de la Fédération Nationale de la Boulangerie et de la Pâtisserie (FNBP) (25 décembre\n2024) par la CP4, CESE.\n3 Zoubi A. et al. (2024). Quantifying and analyzing food losses and wastes in Morocco's wheat processing industry: A novel methodological approach\ntowards sustainable production, Emirates Journal of Food and Agriculture, 36: 1–12, doi: 10.3897/ejfa.2024.128213, p. 3.\n3. Les conséquences économiques, sociales et environnementales des PGA\nImpacts économiques et sociaux\nLes PGA génèrent des coûts économiques à chaque étape de la chaîne de valeur, même si leur\nampleur demeure difficile à quantifier, faute de statistiques officielles. Ils affaiblissent la\ncompétitivité du secteur agricole en augmentant les coûts de production1. Pour les agriculteurs, les\npertes post-récolte se traduisent par un manque à gagner direct, aggravé par une capacité de\nstockage limitée, des moyens de conditionnement insuffisants et des infrastructures inadéquates, qui\ncontraignent les producteurs à vendre leurs récoltes à prix réduit ou à les perdre.\nChez les distributeurs, les PGA entraînent des coûts de gestion importants. Associés à une gestion\nsouvent inefficace des stocks, ces coûts supplémentaires finissent souvent par être intégrés dans le\ncoût final supporté par le consommateur2.\nLa valorisation limitée des PGA restreint aussi les opportunités économiques qu'ils pourraient\ngénérer, qu'il s'agisse de redistribution, de transformation en produits secondaires ou de valorisation\nénergétique. Par ailleurs, les collectivités territoriales, notamment les communes, mobilisent une\npart significative de leur budget pour la collecte et le traitement de ces déchets, ce qui accroît la\ncharge économique globale et réduit le potentiel de ressources disponibles pour d'autres services\npublics.\nAu plan social, les PGA représentent un enjeu de santé publique. La consommation de denrées\ndétériorées, liée à des pratiques de stockage, de transport ou de distribution inadéquates, expose la\npopulation à des risques sanitaires. Les PGA sont également de nature à accentuer certaines\ninégalités sociales : en limitant l'accès à certains produits alimentaires ou en participant à la hausse\ndes prix, ils affectent plus particulièrement les ménages vulnérables, aggravant l'insécurité\nalimentaire et amplifiant les disparités entre différentes catégories de la population.\nImpacts environnementaux\nLes PGA accentuent la pression sur les ressources naturelles. L'eau, déjà sous forte pression, est\nparticulièrement concernée : chaque tonne de céréales, de fruits ou de légumes perdue correspond\nà un gaspillage de l'eau utilisée pour les produire3. Dans un contexte où le secteur agricole\nconsomme une part importante des ressources hydriques, ces pertes pourraient aggraver le stress\nhydrique et compromettre la durabilité des systèmes agricoles. Selon le Conseil de la concurrence,\nenviron 1,6 milliard de m³ d'eau seraient mobilisés chaque année pour des denrées qui ne sont\nfinalement pas consommées4.\n1 Audition du ministère de l'Agriculture (11 décembre 2024) et de la Fédération Nationale de la Boulangerie et de la Pâtisserie (FNBP) (25 décembre\n2024) par la CP4, CESE.\n2 Audet René et Brisebois Éliane, Le gaspillage alimentaire entre la distribution au détail et la consommation, Contributions de la Chaire de recherche\nUQAM sur la transition écologique no 5, 2018, https://chairetransition.esg.uqam.ca/wp-content/uploads/sites/48/2018/11/Le-gaspillage-\nalimentaire-entre-la-distribution-au-detail-et-la-consommation.pdf?\n3 Au Maroc, les études estiment qu'il faut environ ≈ 10 981 m³ d'eau pour produire une tonne de céréales (blé). Voir: Schyns, J.F. and Hoekstra, A.Y.\n(2014), The water footprint in Morocco: The added value of Water Footprint, Assessment for national water policy, Value of Water Research Report\nSeries No. 67, UNESCO-IHE, Delft, the Netherlands, p. 50. À titre comparatif, au niveau mondial, la production d'une tonne de blé requiert en\nmoyenne ≈ 1 800–1 830 m³ d'eau. Voir : Zhai Y. et al., Water footprint analysis of wheat production, Ecological Indicators, Vol. 102, 2019, pp. 95-102,\nhttps://doi.org/10.1016/j.ecolind.2019.02.036.\n4 Conseil de la Concurrence, Avis sur l'état de la concurrence dans les marchés des fruits et légumes au Maroc, p. 30.\nLes terres agricoles mobilisées pour produire des aliments non-consommés peuvent également\naccentuer l'érosion des sols et la pression sur des surfaces arables déjà limitées, compromettant ainsi\nla durabilité de l'agriculture.\nLes PGA contribuent également aux émissions de gaz à effet de serre (GES). Les aliments en\ndécomposition génèrent du méthane dont le pouvoir de réchauffement global à 100 ans est, selon\nles conventions retenues, généralement estimé autour de 28 à 34 fois celui du CO₂. Le Conseil de la\nconcurrence estime, pour sa part, que les pertes alimentaires contribuent à des émissions évitables\nde CO₂, notamment en raison d'un transport inutile estimé à 40% des flux1.\nEnfin, l'absence d'un système efficace de valorisation des déchets alimentaires — par leur\ntransformation en alimentation animale, en énergie (biogaz) ou en compost — pourrait accentuer\nces impacts et réduire les opportunités d'une gestion durable des ressources disponibles.\nII. Plusieurs causes sont à l'origine des PGA\nLes PGA interviennent à différents stades de la chaîne de valeur, depuis la production agricole jusqu'à\nla consommation finale.\nPour appréhender pleinement cet enjeu et identifier les leviers d'action les plus efficaces, il est\nimportant de distinguer les facteurs à l'origine des pertes alimentaires, qui surviennent\nprincipalement lors des étapes de production, de récolte, de stockage et de transformation, de ceux\nliés au gaspillage alimentaire, observés surtout au niveau de la distribution et de la consommation.\nCette distinction permet d'adapter les mesures de prévention et de réduction des PGA à chaque\nmaillon de la chaîne, en tenant compte des spécificités propres à chaque acteur et à chaque étape.\n1. Pertes alimentaires : des contraintes techniques, logistiques et économiques en amont de la chaîne\nLes pertes alimentaires, tant quantitatives que qualitatives, surviennent principalement en amont de\nla chaîne de valeur, lors de la production, de la récolte, du stockage, du transport et de la\ntransformation. Elles résultent d'une combinaison de contraintes techniques, structurelles,\néconomiques et environnementales qui limitent l'efficacité de la gestion des denrées.\nContraintes techniques et pratiques agricoles\nLes techniques agricoles jouent un rôle central dans la réduction des pertes alimentaires. Il demeure\nque beaucoup de producteurs n'ont pas encore adopté de pratiques modernes et efficaces\nsusceptibles de limiter ces pertes. Cette situation s'explique par plusieurs facteurs : un accès limité\nau financement, une rentabilité faible des investissements et une connaissance parfois insuffisante\ndes technologies de post-récolte2.\nUne planification inadéquate des récoltes, ou des récoltes effectuées au mauvais moment sans tenir\ncompte des conditions optimales de conservation, augmente le risque de dégradation prématurée\ndes produits. Les récoltes tardives exposent souvent les produits aux aléas climatiques et aux\nattaques de nuisibles3 tels que les rongeurs ou la pyrale4. Le manque de main-d'œuvre durant les\n1 Ibid, p. 30.\n2 Audition de l'Institut National de Recherche Agronomique (INRA), C4, CESE, 11 décembre 2024.\n3 Audition de la FAO, le 8 mai 2024.\n4 La pyrale est un terme qui désigne plusieurs espèces de papillons appartenant à la famille des Pyralidae ou des Crambidae. Ces insectes sont souvent\nconsidérés comme nuisibles car leurs larves peuvent causer des dégâts aux cultures, aux denrées stockées ou aux plantes.\npériodes particulièrement tendues de récolte peut également contraindre certains agriculteurs à\nretarder la récolte ou à abandonner une partie de leur production dans les champs1.\nPar ailleurs, un tri et un calibrage insuffisants lors de la récolte limitent la qualité des produits\ncommercialisés et augmentent le taux de rejet au cours des étapes de transformation et de\ndistribution2. L'utilisation d'outils de production peu modernisés, d'équipements obsolètes et\nd'intrants de qualité limitée accentue ces pertes en diminuant l'efficacité des opérations de récolte\net la qualité de conservation post-récolte.\nInfrastructures de stockage et transport\nL'insuffisance et l'inadéquation des infrastructures et technologies de stockage, de conservation et\nde transport constituent un obstacle majeur à la réduction des pertes alimentaires3. Les capacités de\nstockage, notamment pour les céréales, restent limitées, ce qui empêche d'absorber efficacement\nles surplus lors des bonnes récoltes. Cette situation concerne également les produits périssables, tels\nque les fruits, légumes et produits laitiers, dont la conservation dépend de l'accès à des chambres\nfroides et à des véhicules réfrigérés4. Dans les zones rurales, l'accès limité à ces équipements favorise\nla détérioration rapide des denrées avant leur arrivée sur les marchés de consommation.\nFigure 1 - Dommages abiotiques et rôle des stations de conditionnement5\n1 Fresh Plaza, Agricultural labor shortage in Morocco: Growers sound the alarm, Friday, December 5, 2025,\n2 Audition La COPAG (Coopérative Agricole Marocaine de Taroudant), le 28 août 2024.\n3 Audition de la FAO, le 8 mai 2024.\n4 Ibid.\n5 Association Marocaine des Conditionneurs Maraîchers (cité dans l'avis du Conseil de la concurrence sur l'état de la concurrence dans les marchés des\nfruits et légumes au Maroc, p.30).\nLe transport et le stockage des denrées présentent un ensemble de risques : contrôle insuffisant de\nla température et de l'humidité, manutention inadaptée, compression des matières premières,\ndommages lors des transferts et retards de livraison.\nProcessus de transformation et de conditionnement\nL'emballage, la transformation et la fabrication des denrées alimentaires peuvent accentuer les\npertes pour plusieurs raisons : inefficience des procédés, brunissement enzymatique et non-\nenzymatique1, altérations microbiologiques, rejet des produits ne répondant pas aux normes de\nqualité et d'esthétique, ainsi que lignes de production inadaptées.\nCes pertes entraînent une réduction de la production industrielle et de la valeur nutritive des\nproduits finis, tout en générant parfois des denrées non-conformes à la réglementation et présentant\nun risque pour la santé des consommateurs2.\nContraintes économiques et organisationnelles\nLa volatilité des prix agricoles influence directement la gestion de récoltes, amenant parfois les\nagriculteurs à abandonner une partie de leur production lorsque les prix du marché sont trop bas, ce\nqui engendre des pertes significatives à la source.\nDes études régionales et nationales indiquent que l'absence de mesures incitatives ciblées et de\npolitiques publiques encourageant la redistribution ou la transformation des excédents alimentaires\nlimite une utilisation optimale des ressources alimentaires3. Par ailleurs, le secteur informel,\nlargement dominant dans la distribution, restreint la traçabilité et l'efficacité des circuits de\ncommercialisation4.\nL'insuffisance des infrastructures de transformation agroalimentaire réduit également la valorisation\ndes surplus agricoles. De plus, comme une grande partie des produits transformés est importée, les\nexcédents nationaux ne trouvent pas toujours de débouchés industriels, ce qui contribue à\nl'accroissement des pertes. Enfin, la coordination encore limitée entre les différents acteurs de la\nchaîne alimentaire restreint le déploiement de solutions efficaces de revalorisation, telles que les\nbanques alimentaires ou les circuits de dons.\nContraintes environnementales et climatiques\nLes conditions environnementales et climatiques peuvent accentuer les pertes alimentaires. Les\nsécheresses récurrentes, la raréfaction des ressources en eau et les vagues de chaleur affectent la\nproduction agricole et accélèrent la détérioration des denrées périssables. L'insuffisance des\nsystèmes d'irrigation efficaces, combinée à une surexploitation des nappes phréatiques, peut\négalement altérer la qualité des récoltes et générer des pertes importantes5.\n1 Le brunissement enzymatique est une réaction chimique qui se produit lorsque certains fruits et légumes sont exposés à l'air après avoir été coupés\nou endommagés. Cette réaction est causée par l'activité d'enzymes appelées polyphénol oxydases (PPO), qui transforment les polyphénols\n(composés naturels présents dans les végétaux) en mélanine, un pigment brun. Par contre, le brunissement non-enzymatique est un phénomène\nchimique qui entraîne un changement de couleur des aliments, les faisant brunir sans l'intervention d'enzymes.\n2 Audition de la FAO, le 8 mai 2024.\n3 Mousa T. Y., Food Insecurity, Food Waste, and Food Redistribution among Arabic- Speaking Countries: A Systematic Review, Jordan Journal of\nAgricultural Sciences, Volume 18, No.2 2022, https://doi.org/10.35516/jjas.v18i2.174 & Climate & Clean Air Coalition (CCAC), Maroc - Élaborer et\nmettre en œuvre une stratégie de réduction du gaspillage alimentaire, 8 juillet 2025,\n4 Audition de la Fédération Nationale des Associations du Consommateur (FNAC), le 10 juillet 2024.\n5 Conseil de la Concurrence, Avis sur l'état de la concurrence dans les marchés des fruits et légumes au Maroc, p. 108.\nEn outre, le recours limité à des solutions de réfrigération adaptées dans certaines zones rurales peut\nfavoriser une dégradation plus rapide des aliments, notamment lors des périodes de fortes chaleurs.\n2. Gaspillage alimentaire : des pratiques de consommation et de distribution inefficaces en aval de la\nchaîne\nLe gaspillage alimentaire survient principalement lors de la distribution et de la consommation. Il\nrésulte souvent de comportements inadaptés, de pratiques commerciales peu optimisées et d'un\nmanque de sensibilisation du consommateur.\nHabitudes de consommation et facteurs culturels\nAu Maroc, certaines pratiques alimentaires sont profondément liées à des valeurs culturelles telles\nque l'hospitalité, la générosité et le partage. Lors d'occasions spéciales, comme les mariages, les\nfêtes religieuses, les célébrations familiales ou pendant le mois sacré du Ramadan, il est courant de\npréparer et de servir des quantités abondantes de nourriture.\nDans ces contextes, la préparation de ces repas particulièrement consistants peut parfois générer\ndes excédents alimentaires qui nécessitent une gestion adaptée pour limiter les pertes. L'importance\nde ces excédents varie selon le type d'événement, les pratiques régionales et les habitudes locales,\nmais elle reste concentrée sur ces moments spécifiques et ne reflète pas, au demeurant, la\nconsommation quotidienne des ménages.\nStockage et gestion des aliments au niveau des ménages et des détaillants\nSelon les acteurs auditionnés1, les ménages et les détaillants adoptent fréquemment des pratiques\nde stockage et de gestion des stocks peu adaptées. Une organisation insuffisante des provisions,\nl'oubli des denrées dans les réfrigérateurs ou une interprétation limitée des dates de péremption\nconduisent au rejet prématuré de produits encore consommables. Par ailleurs, une information\ninsuffisante sur les techniques de conservation et les méthodes de valorisation des excédents\ncontribue à accentuer ce phénomène.\nFacteurs économiques et pratiques commerciales\nSelon les acteurs auditionnés2, certaines pratiques commerciales et dynamiques économiques\ncontribuent au gaspillage alimentaire. Les stratégies de grande distribution, centrées sur une offre\nabondante et des promotions fréquentes, peuvent inciter les consommateurs à acheter davantage\nqu'ils ne peuvent consommer, entraînant un surplus qui finit souvent par être jeté.\nDe même, les exigences esthétiques du marché, telles que les normes de calibrage et la préférence\npour des produits visuellement homogènes, conduisent parfois au rejet de denrées encore\nconsommables mais présentant de légères imperfections. Cette sélection peut limiter l'accès des\nconsommateurs à certains produits et accentuer le gaspillage dès les premières étapes de la chaîne\nd'approvisionnement.\nEnfin, les acteurs auditionnés soulignent que, faute de mécanismes de redistribution ou de\ntransformation des invendus, les surplus alimentaires ne sont pas toujours orientés vers des\nassociations caritatives ou des usages alternatifs, ce qui contribue également au gaspillage desdits\nsurplus.\n1 Audition de la Fédération Nationale des Associations du Consommateur (FNAC), le 10 juillet 2024.\n2 Ibid.\nConditions de conservation dans les marchés traditionnels\nDans les marchés traditionnels, comme les souks des quartiers ou les souks hebdomadaires, les\ndenrées sont souvent exposées sans protection et sans infrastructures adaptées, ce qui favorise leur\ndétérioration sous l'effet de la chaleur, de l'humidité, de la poussière ou de la pollution. Cette\nsituation engendre des pertes importantes et peut souvent représenter un risque pour la santé des\nconsommateurs.\nEncadré 2 : Étude de cas sur « Le gaspillage alimentaire des ménages dans la province de Kénitra »1\nPrincipales conclusions :\n•\nLe pain est l'aliment le plus gaspillé, avec une moyenne de 362 grammes gaspillés par\nménage chaque semaine, ce qui souligne une inefficacité dans la consommation et le\nstockage du pain.\n•\nLes légumes frais, les salades et les légumes non frais représentent également une\ngrande part du gaspillage alimentaire, constituant 22% et 13%, respectivement.\n•\nPlus le ménage est grand (≥5 membres), plus le gaspillage est important.\n•\nLes ménages à revenu et à niveau d'éducation plus élevés tendent à gaspiller\ndavantage de nourriture.\n•\nLa\nmajorité\ndes\nrépondants\nreconnaissent\nles\nimpacts\néconomiques\net\nenvironnementaux du gaspillage alimentaire, notamment sa contribution aux émissions de\nGES et aux pertes financières.\n1 Belfakira, C.; et al. Household Food Waste in Morocco: An Exploratory Survey in the Province of Kenitra. Sustainability 2024, 16, 4474.\nhttps://doi.org/10.3390/su16114474\n3. Un système de gouvernance encore inadapté pour relever le défi des PGA\n3.1. Absence d'un cadre juridique spécifique et de dispositifs ciblés sur les PGA\nBien que le cadre normatif national s'appuie sur un ensemble de textes couvrant la production, le stockage, la\ntransformation, la commercialisation et la consommation des denrées alimentaires, aucun de ces textes\nn'intègre, de manière explicite, une disposition consacrée à la prévention des PGA. La loi-cadre n° 99-12 portant\nCharte nationale de l'environnement et du développement durable1 énonce les principes devant orienter\nl'élaboration des politiques et programmes publics, notamment les principes de précaution, de prévention et de\nresponsabilité, et définit les obligations des différents acteurs en matière de production durable, de gestion\nresponsable et de consommation rationnelle des ressources naturelles. Toutefois, son champ d'intervention ne\ncouvre pas les maillons de la chaîne alimentaire où se produisent les pertes et le gaspillage, et ne crée donc pas\nd'obligations juridiques directes en la matière. L'intégration de la lutte contre les PGA demeure ainsi tributaire\nd'initiatives volontaires, en l'absence d'un fondement juridique clair et contraignant.\nLa loi n° 03-12 relative aux interprofessions agricoles et halieutiques2 encadre, pour sa part, des aspects liés\nà la production, au conditionnement, à la transformation et à la commercialisation. Néanmoins, son champ\nd'application n'inclut pas explicitement les opérations susceptibles de contribuer à la réduction des pertes\nou du gaspillage alimentaires. De même, la loi n°04-12 relative à l'agrégation agricole3 vise à faciliter et à\noptimiser les opérations de mise en marché des produits agricoles, notamment à travers, entre autres,\nl'organisation logistique et le développement des techniques de conditionnement, de stockage, de\npréservation de la qualité du produit. Il demeure que les outils qu'elle met à disposition, même s'ils sont de\nnature à réduire certaines pertes, ne constituent pas un cadre contraignant pour les agrégateurs intervenant\ndans les chaînes de récolte, de commercialisation ou de distribution des produits agricoles.\nD'autres textes législatifs traitent aussi de cette problématique sans toutefois cibler, dans leur essence ou\nleurs finalités, les PGA. Il en est ainsi de la loi n°28-00 relative à la gestion des déchets et à leur élimination\ntelle que modifiée ultérieurement4, qui adopte une approche essentiellement environnementale centrée\nsur la classification des déchets alimentaires et   leur valorisation après élimination. La loi n°28-07 relative\nà la sécurité sanitaire des produits alimentaires5 se limite, quant à elle, à encadrer les procédures de\ntraçabilité et de certification sanitaires, sans prévoir de mécanismes permettant d'identifier ou de\nmesurer les pertes ou le gaspillage tout au long de la chaîne alimentaire. En outre, la loi n° 18-18 relative à\nl'organisation des appels à la générosité publique et la distribution d'aides à des fins caritatives6 exige que\nles dons en nature respectent les règles sanitaires en vigueur, notamment en matière de stockage, de\nconditionnement, de transport et de distribution, afin de garantir une consommation sans risque.\nToutefois, elle n'institue aucune obligation de réaffecter les surplus alimentaires au don ou à leur\nredistribution par les associations caritatives.\nPar ailleurs, les politiques publiques afférentes, dont la stratégie \" génération green 2020-2030 \",\nmettent l'accent sur la modernisation de l'agriculture, l'augmentation de la production et le\nrenforcement des exportations. Cette approche soutient la croissance économique et l'emploi, mais\nne prévoit aucune mesure spécifique en matière de réduction des pertes alimentaires, en particulier\nsur le marché intérieur. Les produits destinés à l'exportation bénéficient d'infrastructures modernes,\n1 B.O. n° 6240 du 18 joumada I 1435 - 20 mars 2014\n2B.O. n°6070 du 13 Ramadan 1433(2 août 2012)\n3 B.O. n°6070 du 13 Ramadan 1433(2 août 2012)\n4 B.O. n°5480 du 15 Kaada 1427(7 décembre 2006)\n5 B.O. n°5822 du 1er Rabii II 1431 (18 mars 2010)\n6\n 7159\n(\n9\n)\nde chaînes logistiques performantes et de normes strictes, limitant ainsi les pertes à des niveaux très\nbas1. En revanche, les produits destinés au marché local font face à des infrastructures de stockage\ninsuffisantes, à des transports moins rigoureux et à des normes de qualité moins contraignantes,\nentraînant des pertes pouvant atteindre des niveaux très élevés2. Cette situation pourrait créer un\ndéséquilibre dans l'allocation des ressources et des investissements, exposant le marché intérieur à\ndes inefficiences et à des pertes accrues, réduisant la disponibilité des produits frais pour les\nconsommateurs locaux.\nConscient de ces enjeux, le département ministériel chargé de l'agriculture prévoit des actions visant\nà renforcer la gestion des pertes tout au long de la chaîne de valeur. Pour sa part, le département\nchargé du développement durable intègre désormais cette dimension dans la version actualisée de la\nstratégie nationale de développement durable (SNDD) à l'horizon 2035.\nÃ un niveau plus stratégique, le programme de développement durable à l'horizon 2030, auquel le Maroc\na adhéré en 2015, fait apparaitre, dans son objectif 12.3, la réduction significative du gaspillage et des\ndéchets alimentaires tout au long de la chaîne alimentaire. Cet objectif consiste à la réduction de 50% du\ngaspillage au niveau de la vente au détail et de la consommation, ainsi qu'une diminution des pertes\nalimentaires tout au long des phases de production et de distribution, et ce, à l'horizon 20303. Il est\nassorti de deux indicateurs essentiels : l'indice de perte alimentaire (food loss index), qui mesure les\nquantités perdues avant la vente au détail, et l'indice de gaspillage alimentaire (food waste index), qui\napprécie les quantités gaspillées au niveau de la distribution et de la consommation4.\nDans cette perspective, le Maroc a adopté, dès 2016, un cadre national relatif aux « modes de\nproduction et de consommation durables », dont découle un plan sectoriel consacré à « l'agriculture\net l'alimentation durables ». Ce plan, soutenu par l'Union européenne dans le cadre du programme «\nSWITCH-Med »5, couvre notamment l'industrie agroalimentaire, à travers le financement de projets\npilotes en matière d'économie circulaire, afin d'encourager les entreprises nationales à adopter des\npratiques de production durable6.\nIl convient de noter, toutefois, que le rapport national sur la mise en œuvre des ODD7 ne fournit pas de\ndonnées chiffrées sur l'évolution des indicateurs relatifs aux PGA associés à l'objectif 12.3. Le rapport\nsouligne, parmi les principaux défis, la nécessité de développer et d'enrichir les données statistiques\nrelatives aux déchets et aux pertes alimentaires8. Cela révèle que les politiques publiques concernées\nn'ont pas encore intégré ces indicateurs aux outils de mesure et de suivi déployés pour évaluer les progrès\nréalisés dans la mise en œuvre des objectifs du plan national de développement durable.\n1 Avis du Conseil de la Concurrence, Ibid.\n2 Ibid.\n3Organisation des Nations unies, Assemblée générale, Plan de développement durable à l'horizon 2030, p. 24.\nhttps://docs.un.org/fr/a/res/70/1\n4 Organisation des Nations unies pour l'alimentation et l'agriculture (FAO), Portail de données des indicateurs des Objectifs de développement durable\nhttps://www.fao.org/sustainable-development-goals-data-portal/data/indicators/1231-global-food-losses/fr\n5 Voir :\n-Haut-Commissariat au Plan, Examen national volontaire de la mise en œuvre des Objectifs de développement durable, Rapport national 2020, P.136\n-Haut-Commissariat au Plan, Objectifs de développement durable au Maroc dans le contexte de la pandémie de la COVID-19, Rapport national 2021,\np.103\n6 Idem\n7 Il est à noter que les versions 2020 et 2021 du rapport national ne fournissent aucune donnée à ce sujet.\n8 Haut-Commissariat au Plan, Objectifs de développement durable au Maroc dans le contexte de la pandémie de la COVID-19, Rapport national 2021,\np.105\nAinsi, en l'absence d'un cadre stratégique et juridique global, contraignant et adapté, la lutte contre les\nPGA demeure limitée à des interventions sectorielles ponctuelles ou à des initiatives dépourvues de\nconvergence, ce qui en réduit l'efficience ainsi que l'impact sur la durabilité du système alimentaire.\n3.2. Une coordination intersectorielle insuffisante et des capacités institutionnelles\nlimitées\nLa gestion des PGA au Maroc reste confrontée à des limites en matière de gouvernance et de\ncoordination intersectorielle. Les initiatives menées par les différents ministères et institutions sont\nsouvent fragmentées, ce qui réduit leur efficacité et entrave la mise en place de solutions intégrées.\nL'absence de synergies entre les actions conduit à un manque d'alignement des objectifs et limite\nl'impact global des interventions1.\nLa coordination entre les acteurs publics, le secteur privé et la société civile demeure insuffisante. Les\ninitiatives du secteur privé, telles que celles des interprofessions agricoles, des coopératives ou des\ndistributeurs, sont rarement intégrées dans les programmes nationaux de réduction des PGA. À titre\nd'exemple, les contrats-programmes signés avec les filiales de production agricole ne comportent\npas de clauses spécifiques relatives à la gestion des pertes alimentaires. Celles-ci sont souvent\nabordées à travers des initiatives connexes comme la valorisation des produits ou la modernisation\nde la production agricole2.\nEn outre, la participation des collectivités territoriales, pourtant essentielles pour la gestion des\nmarchés locaux, des infrastructures de proximité et des déchets alimentaires, reste limitée.\nL'absence d'un cadre formel pour impliquer ces différents acteurs restreint la portée des initiatives\net, partant, la mise en œuvre de solutions globales et appropriées.\nDe plus, les capacités institutionnelles des collectivités territoriales demeurent insuffisantes pour\ngérer efficacement les projets de réduction des PGA. Celles-ci souffrent d'un manque patent de\nressources humaines, techniques et financières adaptées pour mettre en œuvre des initiatives\nciblées en relation avec leurs champs d'intervention.\n1 Audition de la Fédération Nationale des Associations du Consommateur (FNAC), le 10 juillet 2024.\n2 Audition du ministère de l'Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts et de l'Institut National de Recherche\nAgronomique (INRA), 11 décembre 2024.\n3.3. Un manque de données et de mécanismes de suivi et évaluation des PGA\nAu Maroc, la recherche scientifique sur les PGA demeure limitée et peu structurée. Les données\ndisponibles apparaissent fragmentaires et proviennent principalement d'organismes internationaux\ntels que la FAO ou le PNUE, ce qui ne permet pas d'établir un diagnostic national exhaustif. L'institut\nnational de recherche agronomique (INRA) insiste, à cet égard, sur la nécessité de mener des études\napprofondies afin de quantifier et d'analyser les pertes de manière fiable1. De plus, l'insuffisance de\npartenariats entre les institutions académiques, les acteurs publics et le secteur privé constitue un\nfrein à l'identification et à la diffusion de solutions innovantes.\nEn l'absence d'un dispositif national standardisé de collecte et d'analyse, l'évaluation des pertes à\nchaque maillon de la chaîne de valeur demeure particulièrement ardue, limitant l'identification des\npoints critiques et la définition d'actions ciblées. Plus largement, l'absence d'un mécanisme unifié de\nconsolidation des informations produites par les différentes institutions conduit à des approches et\ndes indicateurs non harmonisés.\nLes mécanismes de suivi et d'évaluation souffrent du même manque de standardisation. L'absence\nd'indicateurs communs, de protocoles de collecte homogènes et de référentiels nationaux rend\ndifficile l'évaluation de l'impact réel des initiatives. Les rapports périodiques sur les volumes perdus,\nleurs causes ou l'évolution des tendances sont rares, ce qui limite la capacité des décideurs à suivre\nles progrès, comparer les résultats dans le temps et ajuster les politiques publiques2.\nCette fragmentation des données est clairement mise en évidence par la commission économique et\nsociale pour l'Asie occidentale (UNESCWA), qui note que les informations sur les pertes alimentaires\nau Maroc restent faiblement disponibles et ciblent surtout certains segments comme le gaspillage\nménager, en l'absence d'un cadre statistique harmonisé3. L'absence d'indicateurs alignés entre\nministères, agences publiques et institutions statistiques rend ainsi difficile toute comparaison\nnationale fiable et freine la prise de décision éclairée4.\n3.4. Un manque de financement structurant dédié à la gestion des PGA\nAu Maroc, plusieurs programmes et mesures visant la mise à niveau des chaînes de production\nagricole financent et accompagnent des projets contribuant indirectement à la réduction des PGA,\nnotamment ceux liés à l'agrégation agricole, au stockage de qualité, à la transformation, à la\nvalorisation des produits et à l'optimisation des circuits de commercialisation. Ces initiatives\ns'inscrivent toutefois dans des objectifs plus larges : développement de la production, amélioration\ndes revenus, renforcement de l'efficacité et de la résilience des filières face au changement\nclimatique. Il reste donc difficile d'identifier précisément les moyens financiers et techniques\nréellement mobilisés pour lutter contre les PGA, et d'en apprécier l'impact effectif.\nIl est loisible, en outre, de constater que les initiatives visant à réduire les PGA reposent en grande\npartie sur l'appui d'organismes internationaux. Le programme régional SwitchMed, financé par\nl'Union européenne, illustre cet état de fait, en soutenant la transition vers des modes de production\net de consommation éco-responsable.\n1 Atelier scientifique INRA et IAV, le 25 septembre 2024.\n2 Audition du ministère de la Transition Énergétique et Développement Durable (MTEDD), 18 décembre 2024.\n3 UNESCWA, Working paper- food loss in Morocco, 2022, p.7,\n4 Ibid.\nPar ailleurs, poursuivant des finalités plus globales, des agences de coopération multilatérales et\nbilatérales apportent un concours financier aux engagements nationaux en faveur de l'environnement\net de la gestion durable des ressources naturelles. Dans ce sens, la FAO déploie la seconde phase\n(2023-2026) de son programme d'appui à la réduction du gaspillage alimentaire dans certaines zones\noasiennes, en particulier dans la région d'Errachidia, Guelmim, Ouarzazate - Tinghir et Zagora. Avec\nun financement d'environ un demi-million d'euros, ce projet vise à améliorer les revenus de 3.300\nagriculteurs locaux, dont 50% de femmes et 70% de jeunes, grâce à la diversification de leur\nproduction via huit unités de valorisation couvrant les filières dattes, pommes et figues4.\n1 SwitchMed. Business Case : Valorisation des déchets de poisson au Maroc. Barcelone : SwitchMed, février 2024. Disponible sur :\nhttps://switchmed.eu/wp-content/uploads/2024/02/Buisness-case_Valorization-Fish-Waste-Morocco_FR.pdf\n2 SWITCHMED. Entrepreneuriat vert au Maroc – SwitchMed. [En ligne]. 28 septembre 2022. Disponible à l'adresse : https://switchmed.eu/fr/start-ups-\nentrepreneurs/entrepreneuriat-vert-maroc/\n3 Annexe 4 : Listes des initiatives destinées à réduction de la perte et du gaspillage alimentaire et la valorisation des déchets organiques\n4 FAO. Appui à la réduction des pertes et gaspillage alimentaires de certaines filières agricoles dans les systèmes oasiens\ndu Maroc – Phase II. Programme de coopération internationale, rubrique « Sécurité alimentaire », 2023‑2026. Monaco :\nGouvernement Princier – Coopération Internationale. Disponible sur : https://cooperation.gouv.mc/projets/afrique-du-\nnord-mediterranee/maroc/appui-a-la-reduction-des-pertes-et-gaspillages-alimentaires-de-certaines-filieres-agricoles-\ndans-les-systemes-oasiens-du-maroc-phase-ii\nCette dépendance aux mécanismes internationaux limite toutefois la pérennité des projets et leur\ncapacité à s'adapter aux besoins spécifiques des territoires et des acteurs locaux, ce qui peut entraver\nl'émergence de solutions pleinement intégrées aux réalités du pays.\nIII. Faire de la réduction des PGA un levier stratégique de durabilité, de souveraineté\nalimentaire et de résilience : pour une réponse nationale intégrée, systémique\net équitable\nLe Conseil Économique, Social et Environnemental (CESE) considère la lutte contre les PGA comme un\nenjeu majeur devant être intégré au cœur d'une stratégie nationale d'alimentation durable. Une telle\nstratégie viserait non seulement la réduction des PGA, mais également le renforcement de la\nsouveraineté et de la sécurité alimentaires, la préservation des ressources naturelles, l'optimisation des\nimportations de denrées et d'intrants, ainsi que la promotion d'un modèle alimentaire plus durable,\nsocialement équitable et résilient face aux crises, aligné sur le mode de consommation des Marocains.\nDans l'attente d'une stratégie nationale dédiée, le CESE recommande la mise en place d'un plan\nd'action opérationnel, conçu pour être intégré ultérieurement dans cette future stratégie. Ce plan\nrepose sur des recommandations articulées autour de six axes, fondées sur une lecture\nmultidimensionnelle du phénomène.\nAxe 1 : Mettre en place un cadre de gouvernance adéquat pour une lutte efficace et\ncoordonnée contre les PGA\n•\nAssocier tous les ministères concernés à l'élaboration et à la mise en œuvre du plan d'action\nproposé, en définissant des indicateurs de performance précis et un mécanisme de suivi efficace.\nOrganiser, à cet effet, des assises nationales afin de coordonner les actions et renforcer\nl'engagement de l'ensemble des acteurs.\n•\nÉlaborer une loi anti-pertes et gaspillage alimentaires visant à :\n✓ interdire la destruction ou le rejet des invendus et en faciliter la redistribution via les\nassociations, orphelinats et banques alimentaires.\n✓ encourager la cueillette, la récolte et la commercialisation des produits agricoles de deuxième\nqualité.\n✓ clarifier et harmoniser les dates de péremption, en distinguant « à consommer jusqu'au »\n(sécurité) et « à consommer de préférence avant » (qualité), tout en permettant, lorsque cela\nest possible, de prolonger la durée de vie des produits ou de supprimer certaines dates\ninutiles.\n•\nAccélérer\nl'adoption\nd'une\nloi-cadre\nsur\nl'économie\ncirculaire,\nconformément\naux\nrecommandations formulées par le CESE dans son avis sur le sujet.\n•\nIntégrer les objectifs de réduction des PGA dans l'ensemble des politiques publiques sectorielles,\nnotamment : agriculture, agroalimentaire, industrie et commerce, transport et logistique,\ntourisme, eau, développement durable et changement climatique, éducation, formation et\nrecherche, droits humains, ainsi que dans le cadre du Pacte de l'Exemplarité de l'Administration –\nen particulier au niveau des services publics offrant des prestations de restauration tels que les\nhôpitaux, les établissements scolaires, les centres sociaux et les établissements pénitentiaires.\n1 Comme le séchage alimentaire, la fabrication des produits dérivés, l'alimentation animale, la conversion en biomatériaux et chimie verte, la production\nd'énergie (ex. la digestion anaérobie), ou le compostage.\n•\nMettre en place un mécanisme de gouvernance réunissant les ministères, le secteur privé et la\nsociété civile, afin de coordonner les actions et garantir la cohérence des interventions de lutte\ncontre les PGA à tous les niveaux.\n•\nCréer un Observatoire national des PGA, placé sous la tutelle d'un ministère compétent\n(Agriculture ou Développement durable), avec une gouvernance intersectorielle incluant les\nreprésentants des ministères concernés, du secteur privé, du monde académique et de la société\ncivile. L'Observatoire aura pour missions de :\n✓ Collecter, centraliser et analyser de manière systématique les données sur les PGA à chaque\nétape de la chaîne de valeur.\n✓ Élaborer des indicateurs nationaux harmonisés et les aligner avec les référentiels\ninternationaux pour permettre la comparaison et la cohérence des données.\n✓ Produire des rapports périodiques, des tableaux de bord et des analyses stratégiques destinés\nà éclairer les décisions politiques et les investissements.\n✓ Identifier les points critiques de déperdition et proposer des mesures correctives adaptées\naux réalités locales.\n•\nÉlaborer un Pacte national pour la réduction des PGA, engageant de manière volontaire les\nsecteurs agricole, industriel, commercial et touristique, avec des objectifs précis et un dispositif\nde suivi rigoureux, afin d'assurer la coordination, la transparence et l'efficacité des actions à\nl'échelle nationale.\nAxe 2 : Améliorer les infrastructures de stockage, transport et transformation\n•\nDévelopper des infrastructures anti-PGA dans les zones agricoles à fort potentiel, en renforçant le\nstockage et le transport adaptés — notamment à travers l'installation de silos hermétiques et de\nchambres froides solaires — afin de prolonger la durée de vie des produits périssables et réduire\nles pertes post-récolte. Mobiliser des partenariats public-privé pour financer ce type\nd'équipements.\n•\nInstaller des unités de transformation de proximité, y compris des mini-unités mobiles à l'échelle\ncommunale, afin de traiter rapidement les récoltes et de réduire les pertes post-récolte. Ces\nunités doivent :\n✓ faciliter la valorisation locale des produits périssables,\n✓ créer des opportunités économiques pour les femmes et les jeunes,\n✓ s'appuyer sur des dispositifs de soutien existants, tels que l'INDH et les fonds de\nfinancement climatique (fonds verts), pour garantir leur durabilité et leur accessibilité.\n•\nFavoriser les circuits courts et renforcer la régulation des marchés pour réduire le nombre\nd'intermédiaires, limiter les pertes liées au transport et à la logistique et améliorer la\nrémunération des producteurs.\nAxe 3 : Aider les agriculteurs, commerçants et entreprises à adopter de bonnes pratiques\n•\nMettre en place des programmes de formation ciblés pour les agriculteurs, adaptés aux besoins\nspécifiques de chaque filière et centrés sur les bonnes pratiques de récolte, de stockage et de\ntransport. Ces programmes doivent combiner les innovations modernes et les savoirs locaux, et\nêtre dispensés par des institutions spécialisées, telles que les services de vulgarisation agricole,\nles fédérations professionnelles, les ONG, tout en associant les universités et instituts de\nrecherche. L'objectif est de renforcer les capacités techniques des producteurs, de réduire les\npertes post-récolte et d'améliorer la qualité des produits acheminés vers le marché.\n•\nDévelopper des programmes de soutien technique et financier, accompagnés d'incitations\nfiscales pour les PME/PMI et les coopératives qui adoptent des pratiques et technologies visant à\nréduire les PGA et qui participent à la distribution de dons alimentaires.\n•\nMettre en place un dispositif national de mobilisation et de professionnalisation de la main-\nd'œuvre agricole, combinant plateformes locales de recrutement saisonnier, formations ciblées,\nincitations à l'emploi et mécanisation adaptée, afin d'assurer la disponibilité des travailleurs\npendant les périodes de récolte et de réduire les pertes post-récolte.\nAxe 4 : Utiliser les technologies et les solutions innovantes pour réduire les PGA\n•\nCréer des plateformes numériques de coordination entre producteurs, distributeurs et\nassociations caritatives, intégrées à la stratégie Maroc Digital 2030 et développées en partenariat\navec le secteur privé et la société civile. Ces plateformes devront assurer la traçabilité et la\nsécurité sanitaire des aliments redistribués, sous la supervision de l'ONSSA, conformément à un\ncadre réglementaire approprié.\n•\nExploiter pleinement les technologies avancées – intelligence artificielle, big data, blockchain et\ncapteurs intelligents – à chaque étape de la chaîne alimentaire pour :\n✓ Optimiser la production, la récolte et la distribution, afin de réduire les pertes ;\n✓ Assurer la traçabilité et la sécurité sanitaire des produits alimentaires ;\n✓ Améliorer la gestion des stocks et des flux logistiques en temps réel ;\n✓ Mesurer et suivre l'efficacité des actions de réduction des PGA.\n•\nDévelopper des applications numériques dédiées à la gestion des stocks, à la traçabilité des\nproduits et à la redistribution rapide des invendus, notamment au profit des réseaux de solidarité\net d'action caritative.\n•\nSoutenir financièrement les solutions citoyennes anti-gaspillage, telles que les frigos solidaires et\nles applications de dons alimentaires, pour renforcer les actions locales à fort impact social.\n•\nEncourager la recherche appliquée et l'innovation en matière d'emballage intelligent, de suivi des\nconditions de conservation et de valorisation des produits de seconde qualité, en mobilisant les\nstart-ups, les centres de recherche et les partenariats public-privé pour des solutions concrètes\nadaptées aux réalités sectorielles et locales et déployables à grande échelle.\nAxe 5 : Promouvoir la valorisation et la circularité\n•\nValoriser les écarts de triage en les orientant vers des filières de transformation à haute valeur\najoutée, afin de réduire le gaspillage alimentaire, générer de nouvelles opportunités\néconomiques et renforcer la durabilité et la rentabilité des chaînes de valeur agricoles.\n•\nEncourager la valorisation des invendus :\n✓ en développant des solutions adaptées aux filières locales, qu'il s'agisse de recyclage à\nvaleur ajoutée (séchage, production de dérivés alimentaires, etc.), de production d'énergie,\nou encore de leur transformation en alimentation animale ou en compost,\n✓ en soutenant et accompagnant les projets pilotes d'économie circulaire, en particulier au\nsein des coopératives rurales, afin de tester, ajuster et déployer des solutions locales\ninnovantes pour la valorisation des produits alimentaires secondaires et invendus,\n✓ en déployant des unités de valorisation dans les principales zones agricoles pour limiter les\npertes post-récolte.\n•\nEncourager les entreprises intervenant tout au long de la chaîne alimentaire à donner leurs\nsurplus ou les produits exposés à un risque de perte, conformément à l'article 10-B-2° du Code\ngénéral des impôts, qui permet la déduction des coûts des dons, y compris en nature, au profit\ndes associations reconnues d'utilité publique. Une meilleure diffusion de ce dispositif fiscal et la\nsimplification des procédures associées favoriseraient son utilisation par les entreprises, avec des\nretombées économiques positives, en plus de ses bénéfices sociaux et environnementaux.\n•\nFavoriser l'engagement communautaire à travers des programmes de compostage collectif, de\nglanage1 et d'échanges alimentaires de quartier, afin de renforcer la lutte contre les PGA au\nniveau local.\nAxe 6 : Sensibiliser les citoyens, diffuser les bonnes pratiques et intégrer la lutte contre le\ngaspillage dans l'éducation\n•\nDéployer des campagnes de sensibilisation multicanales (médias, réseaux sociaux, affichage,\nmosquées) ciblant les différents maillons de la chaîne alimentaire – producteurs, distributeurs,\nrestaurateurs, consommateurs – pour ancrer une culture de réduction des PGA.\n• Intégrer l'éducation à la consommation responsable et au compostage dès l'école primaire.\n• Organiser des ateliers pratiques pour les ménages et les professionnels sur la gestion et la\nréutilisation des aliments.\n•\nFormer les cadres municipaux, en particulier dans les marchés de gros, en partenariat avec les\nchambres d'agriculture et les associations locales, pour structurer les actions de lutte contre le\ngaspillage à l'échelle territoriale.\n•\nRenforcer les capacités des fédérations professionnelles et des associations, notamment celles\nactives dans la protection des consommateurs et de l'environnement, pour qu'elles deviennent\ndes relais efficaces de la lutte contre les PGA dans leurs filières.\n•\nMettre en place des programmes de formation continue, accompagnés de guides pratiques et\nd'outils sectoriels, à destination des acteurs de la chaîne alimentaire afin de généraliser\nl'adoption de pratiques durables et anti-gaspillage.\n•\nRenforcer les échanges internationaux pour partager les bonnes pratiques et mobiliser un soutien\ntechnique et financier.\n•\nEncourager la mobilisation des collectivités territoriales et des organisations de la société civile\npour sensibiliser et animer des projets communautaires durables de réduction du gaspillage\nalimentaire.\n1 Récupération, après récolte, des produits végétaux au sol ou sur pied et non ramassés par le producteur.\n*\n*  *\nAnnexes :",
+      "first_article_idx": 22,
+      "entities": [
+        {
+          "label": "LOI",
+          "text": "loi organique n°128-12",
+          "start": 212,
+          "end": 234
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 avril 2025",
+          "start": 567,
+          "end": 580
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministère de l'Agriculture",
+          "start": 10549,
+          "end": 10575
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 décembre 2024",
+          "start": 10713,
+          "end": 10729
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministère de l'Agriculture",
+          "start": 13776,
+          "end": 13802
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 décembre 2024",
+          "start": 13804,
+          "end": 13820
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "25 décembre 2024",
+          "start": 13898,
+          "end": 13914
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministère de l'Agriculture",
+          "start": 16838,
+          "end": 16864
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 décembre 2024",
+          "start": 16866,
+          "end": 16882
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "25 décembre 2024",
+          "start": 16960,
+          "end": 16976
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 décembre 2024",
+          "start": 21253,
+          "end": 21269
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 mai 2024",
+          "start": 21296,
+          "end": 21306
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 août 2024",
+          "start": 23179,
+          "end": 23191
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 mai 2024",
+          "start": 23218,
+          "end": 23228
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 mai 2024",
+          "start": 26625,
+          "end": 26635
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "8 juillet 2025",
+          "start": 26993,
+          "end": 27007
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "10 juillet 2024",
+          "start": 27091,
+          "end": 27106
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "10 juillet 2024",
+          "start": 30404,
+          "end": 30419
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 03-12 relative aux interprofessions agricoles et halieutiques2 encadre, pour sa part, des aspects liés",
+          "start": 33150,
+          "end": 33259
+        },
+        {
+          "label": "LOI",
+          "text": "loi n°04-12 relative à l'agrégation agricole3 vise à faciliter et à",
+          "start": 33517,
+          "end": 33584
+        },
+        {
+          "label": "LOI",
+          "text": "loi n°28-00 relative à la gestion des déchets et à leur élimination",
+          "start": 34255,
+          "end": 34322
+        },
+        {
+          "label": "LOI",
+          "text": "loi n°28-07 relative à la sécurité sanitaire des produits alimentaires5 se limite, quant à elle, à encadrer les procédures de",
+          "start": 34516,
+          "end": 34641
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 18-18 relative à",
+          "start": 34831,
+          "end": 34854
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 joumada I 1435",
+          "start": 35829,
+          "end": 35846
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 mars 2014",
+          "start": 35849,
+          "end": 35861
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "13 Ramadan 1433(2",
+          "start": 35878,
+          "end": 35895
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "13 Ramadan 1433(2",
+          "start": 35924,
+          "end": 35941
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "15 Kaada 1427(7",
+          "start": 35970,
+          "end": 35985
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "1er Rabii II 1431",
+          "start": 36018,
+          "end": 36035
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "18 mars 2010",
+          "start": 36037,
+          "end": 36049
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "10 juillet 2024",
+          "start": 42298,
+          "end": 42313
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministère de l'Agriculture",
+          "start": 42329,
+          "end": 42355
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 décembre 2024",
+          "start": 42483,
+          "end": 42499
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "25 septembre 2024",
+          "start": 45918,
+          "end": 45935
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "18 décembre 2024",
+          "start": 46024,
+          "end": 46040
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 septembre 2022",
+          "start": 47187,
+          "end": 47204
+        }
+      ]
+    },
+    {
+      "title": "Annexe",
+      "preamble": "Annexe 1 - Liste des membres de la Commission chargée de l'environnement et du développement\ndurable\nLes experts ayant accompagné la Commission\n* * *",
+      "first_article_idx": 22,
+      "entities": []
+    },
+    {
+      "title": "Annexe",
+      "preamble": "Annexe 2 - Liste des ateliers et auditions\n* Classement effectué selon la date d'audition\n* * *",
+      "first_article_idx": 22,
+      "entities": []
+    },
+    {
+      "title": "Annexe",
+      "preamble": "Annexe 3 – Résultats du sondage lancé sur la plateforme « Ouchariko » sur le gaspillage alimentaire\nDans le cadre de l'élaboration de son avis intitulé « Pertes et gaspillage alimentaires au Maroc :\ncomprendre l'ampleur et les enjeux pour agir efficacement », le CESE a recueilli, du 7 au 28 mars\n2025, les contributions des citoyennes et citoyens via sa plateforme participative « Ouchariko ».\nAu total, 1 591 personnes ont pris part au sondage consacré à cette thématique sur la plateforme.\n1. Caractéristiques du groupe de répondants à la consultation citoyenne\nLes participantes et participants à cette consultation citoyenne sont majoritairement issus d'un milieu\nurbain (59%). Les hommes représentent 56% de l'ensemble des répondants.\nLa répartition par âge fait apparaître trois tranches principales : 35-44 ans (40%), 45-59 ans (25%) et\n25-34 ans (18%). Les autres répondants se situent dans les tranches 15-24 ans (10%) et 60 ans et plus\n(7%).\nEn termes de statut professionnel, les salariés du secteur privé constituent la part la plus importante\ndes répondants (30%), suivis des fonctionnaires du secteur public (22%), des étudiants (10%) et des\nprofessions libérales (8%).\nPar ailleurs, plus près de la moitié des participants proviennent des régions de Casablanca-Settat\n(17%), Rabat-Salé-Kénitra (16%) et Marrakech-Safi (14%), ce qui confirme la forte représentativité des\nzones urbaines dans l'échantillon de cette consultation.\n2. Points saillants de la consultation citoyenne\nLes résultats du sondage montrent que les principales raisons menant au jet d'aliments sont liées, en\npremier lieu, à l'altération de leur aspect ou de leur odeur (25%), suivies du dépassement de la date\nde péremption (21%). Viennent ensuite le manque de planification des repas (16%), l'achat de\nquantités trop importantes (12%), le manque d'information sur les pratiques de conservation (12%),\nla préférence pour des aliments toujours frais (8%) et, enfin, le faible coût des produits jetés (4%).\nParmi les types d'aliments les plus fréquemment jetés, les aliments en conserve arrivent en tête\n(36%), suivis des repas instantanés (35%). Les aliments frais représentent également une part\nimportante des produits jetés (23%).\nS'agissant des actions à entreprendre pour réduire le gaspillage alimentaire, 29% des répondants\nconsidèrent prioritaire l'achat de quantités adaptées aux besoins. Par ailleurs, 19% jugent essentiel de\nfaire don des aliments encore consommables aux personnes nécessiteuses avant leur péremption,\nainsi que d'adopter des pratiques de conservation appropriées. En outre, 16% préconisent la\nplanification des repas à l'avance, tandis que 15% suggèrent la valorisation des restes à travers leur\ncuisson.\nS'agissant de l'implication des acteurs dans la lutte contre le gaspillage alimentaire, 22% des\nrépondants considèrent que les consommateurs doivent être fortement mobilisés. Ils sont suivis par\nles pouvoirs publics (15%) et les restaurateurs (15%), puis les producteurs (13%) et la société civile\n(13%). Les médias (12%) et les distributeurs (8%) apparaissent également comme des acteurs\nimportants dans cette démarche.\nConcernant les mesures prioritaires à envisager, 22% des répondants estiment qu'il convient de\nrenforcer la recherche sur les technologies de conservation et de recyclage des aliments. Par ailleurs,\n20% soulignent la nécessité de mettre en place des points de collecte ou des centres de tri\nspécialement adaptés. En outre, 19% préconisent la sensibilisation du public aux enjeux du gaspillage,\ntant du côté des consommateurs que des producteurs, tandis que 14% encouragent l'installation de\nrayons anti-gaspillage dans les grandes surfaces, proposant des produits proches de leur date de\npéremption à des prix réduits.\nD'autres mesures recueillent également un soutien significatif, telles que le don de produits\nalimentaires proches de leur date limite à des associations caritatives (13%) et l'élaboration d'une\nréglementation spécifique anti-gaspillage (12%).\n* * *",
+      "first_article_idx": 22,
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 mars 2025",
+          "start": 289,
+          "end": 301
+        }
+      ]
+    },
+    {
+      "title": "Annexe",
+      "preamble": "Annexe 4 : Listes des initiatives destinées à réduction de la perte et du gaspillage alimentaire et la valorisation des déchets organiques",
+      "first_article_idx": 22,
+      "entities": []
+    },
+    {
+      "title": "Annexe",
+      "preamble": "Annexe 5 - Benchmark international : bonnes pratiques et modèles inspirants\nPlusieurs pays ont mis en place des stratégies innovantes avec des degrés d'efficacité\ndifférents pour lutter contre les PGA.\nEurope : les frigos solidaires\n- Les frigos solidaires est un réseau d'associations né en premier lieu en France en 2017, puis\ndans plusieurs pays européens particulièrement les pays scandinaves.\n- L'initiative vise l'accompagnement des commerçants dans l'installation de frigos accessibles\naux habitants des quartiers voisins notamment les personnes sans abri, étudiants, retraités et\nfamilles nombreuses, où peuvent être placés les invendus du jour et les restes alimentaires\ntoujours consommables ou avec des dates limites de consommation presque dépassées.\n- Ces projets permettent de lutter contre le gaspillage alimentaire, mais surtout renforcent le\nlien social au sein des quartiers autour des principes de solidarité et de partage.\nFrance : un cadre juridique bien élaboré\n- Une loi contraignante contre le gaspillage (2016) : obligation pour les supermarchés de plus\nde 400 m² de proposer leurs invendus alimentaires encore consommables à des associations\ncaritatives, sous peine d'amendes pouvant atteindre 3 750 euros. Cette mesure vise à réduire\nle gaspillage en favorisant le don alimentaire.\n- Loi pour l'équilibre des relations commerciales dans le secteur agricole et une alimentation\nsaine et durable (2018) : cette loi élargit les obligations de lutte contre le gaspillage alimentaire\naux secteurs de la restauration collective et de l'industrie agroalimentaire, les incitant à mettre\nen place des démarches de réduction des pertes et à favoriser le don de denrées non vendues\nmais encore consommables.\n- Loi anti-gaspillage pour une économie circulaire (2020): elle fixe l'objectif de réduire le\ngaspillage alimentaire de 50% d'ici 2025 pour la restauration collective et la distribution, et\nd'ici 2030 pour la consommation, la production, la transformation et la restauration\ncommerciale.\n- Mise en place de campagnes de sensibilisation massives.\nDanemark : un modèle basé sur l'innovation sociale\n- Création de supermarchés spécialisés vendant des produits proches de leur date de\npéremption à prix réduits.\n- Plateformes numériques connectant les restaurants, supermarchés et consommateurs pour\nredistribuer les surplus.\n- Engagement des médias et de la société civile dans la lutte contre le gaspillage.\n- Résultat : réduction de 25% du gaspillage alimentaire en une décennie.\nEspagne : développement de l'économie circulaire\n- Transformation des surplus alimentaires en nouveaux produits (jus, confitures, plats préparés).\n- Mise en place d'incitations fiscales pour les entreprises valorisant les invendus alimentaires.\nCoopération entre les agriculteurs et les banques alimentaires pour redistribuer les excédents.\n- Résultat : amélioration de la gestion des excédents agricoles et réduction des pertes post-\nrécolte.\nCanada : une approche nationale structurée\n- Plan national de lutte contre le gaspillage alimentaire avec financement dédié.\n- Plateformes numériques de mise en relation entre producteurs et distributeurs pour écouler\nles excédents.\n- Mécanismes incitatifs pour la transformation et la redistribution des surplus.\n- Résultat : réduction progressive du gaspillage alimentaire et soutien aux industries de\nvalorisation.\nSuisse : potagers urbains\n- Les potagers urbains à Genève, sont développés depuis environ 20 ans. Ces jardins sont\nsouvent situés sur des parcelles inutilisées et peuvent prendre diverses formes.\n- L'association Genève Cultive soutient le développement de potagers urbains participatifs et\naccessibles.  Ces potagers permettent aux citadins de cultiver leurs propres fruits et légumes,\nréduisant ainsi leur dépendance aux produits achetés qui peuvent souvent être perdus ou\ngaspillés pendant le transport et la distribution.\n- Les potagers permettent également de recycler les déchets organiques en compost,\ntransformant ce qui serait jeté en nutriments pour le sol.\nInitiatives de certains restaurants :\nBien qu'il n'existe pas de législation ou une politique nationale généralisée imposant une\namende aux consommateurs qui ne terminent pas leur assiette, certains restaurants,\nnotamment ceux proposant des buffets à volonté, ont mis en place des politiques internes\nvisant à réduire le gaspillage alimentaire en facturant un supplément aux clients (amende,\ntaxe, etc.) laissant de la nourriture non consommée (entre 1 et 5 euros en France et en\nAllemagne). Ces mesures visent à sensibiliser les clients à la problématique du gaspillage\nalimentaire et à les encourager à adapter leurs portions en conséquence, réduisant ainsi les\nquantités des aliments gaspillés1.\nLe Maroc pourrait s'en inspirer pour adapter des solutions efficaces adaptées avec ses réalités\néconomiques, sociales et culturelles, en tenant compte des spécificités locales et des contraintes\nstructurelles du pays.\n1 « Des restaurateurs chargent plus cher si vous ne finissez pas votre assiette », https://www.24heures.ca/2023/10/05/des-restaurateurs-chargent-\nplus-cher-si-vous-ne-finissez-pas-votre-assiette\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026).",
+      "first_article_idx": 22,
+      "entities": [
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026)",
+          "start": 5211,
+          "end": 5272
+        }
+      ]
+    }
+  ],
+  "n_articles": 22,
+  "articles": [
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er avril 2026",
+          "start": 13,
+          "end": 27
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté susvisé",
+          "start": 115,
+          "end": 129
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 rabii II 1434",
+          "start": 140,
+          "end": 156
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er mars 2013",
+          "start": 158,
+          "end": 171
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 235,
+          "end": 241
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er avril 2026",
+          "start": 13,
+          "end": 27
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "18 rabii II 1434",
+          "start": 140,
+          "end": 156
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er mars 2013",
+          "start": 158,
+          "end": 171
+        }
+      ],
+      "preamble": "",
+      "text": "A compter du 1er avril 2026 :\n• les dénominations des produits de tabac manufacturé\nfigurant au tableau annexé à l'arrêté susvisé 771-13\ndu 18 rabii II 1434 (1er mars 2013) sont modifiées\nconformément à l'annexe n° 1 jointe au présent arrêté ;\n• les produits de tabac manufacturé fgiurant dans l'annexe\nn° 2 jointe au présent arrêté sont ajoutés à la liste des\nproduits de tabac manufacturé dont les prix de vente\nau public sont homologués, annexée à l'arrêté précité\nn° 771-13 ;\n• les nouveaux prix de vente au public des produits de\ntabac manufacturé, fgiurant dans l'annexe n° 3 jointe\nau présent arrêté, sont homologués conformément à\nladite annexe ;\n•  les produits de tabac manufacturé figurant dans\nl'annexe 4 jointe au présent arrêté sont supprimés de\nla liste des produits de tabac manufacturé dont les prix\nde vente au public sont homologués visée ci-dessus.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 6,
+      "printed_page": 9390
+    },
+    {
+      "number": "2",
+      "raw_header": "Art. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 chaoual 1447",
+          "start": 62,
+          "end": 76
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 mars 2026",
+          "start": 78,
+          "end": 90
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 chaoual 1447",
+          "start": 62,
+          "end": 76
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 mars 2026",
+          "start": 78,
+          "end": 90
+        }
+      ],
+      "preamble": "",
+      "text": "Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 7 chaoual 1447 (26 mars 2026).\nNADIA FETTAH.\n*\n*\n*",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 6,
+      "printed_page": 9390
+    },
+    {
+      "number": "Annexe",
+      "raw_header": "Annexe n°4",
+      "entities": [
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026)",
+          "start": 202,
+          "end": 263
+        }
+      ],
+      "dates": [],
+      "preamble": "",
+      "text": "Annexe n°4\nListe des produits de tabac manufacturé supprimés\nde la liste des prix de vente au public\ndes produits de tabac manufacturé\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 35
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [],
+      "dates": [],
+      "preamble": "Décision du directeur de l'Institut marocain de normalisation\nn° 304-26 du 17 chaabane 1447 (6 février 2026) portant\nhomologation de normes marocaines.\nLE DIRECTEUR DE L'INSTITUT MAROCAIN DE\nNORMALISATION,\nVu la loi n°  12-06 relative à la normalisation, à la\ncertification et à l'accréditation, promulguée par le dahir\nn° 1-10-15 du 26 safar 1431 (11 février 2010), notamment ses\narticles 11, 15 et 32 ;\nVu la résolution du Conseil d'administration de\nl'Institut marocain de normalisation (IMANOR) n° 10, tenu\nle 19 safar 1435 (23 décembre 2013), qui a délégué au directeur\nde l'IMANOR le pouvoir de prononcer l'homologation des\nnormes marocaines et la certifciation de la conformité auxdites\nnormes,\nDÉCIDE :",
+      "text": "Est homologuée comme norme\nmarocaine, la norme suivante : NM EN 16325 : 2026 : Garanties\nd'origine liées à l'énergie - Garanties d'origine de l'électricité,\ndes hydrocarbures gazeux, de l'hydrogène, du chauffage et du\nrefroidissement. (IC 14.5.216).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 35
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [],
+      "dates": [],
+      "preamble": "",
+      "text": "La norme visée à l'article premier ci-dessus,\nest tenue à la disposition des intéressés à l'Institut marocain\nde normalisation (IMANOR).",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Institut marocain\nde normalisation",
+          "start": 92,
+          "end": 126,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 9,
+      "printed_page": 35
+    },
+    {
+      "number": "3",
+      "raw_header": "ART. 3. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "17 chaabane 1447",
+          "start": 66,
+          "end": 82
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 février 2026",
+          "start": 84,
+          "end": 98
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026)",
+          "start": 186,
+          "end": 247
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "17 chaabane 1447",
+          "start": 66,
+          "end": 82
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 février 2026",
+          "start": 84,
+          "end": 98
+        }
+      ],
+      "preamble": "",
+      "text": "La présente décision sera publiée au Bulletin\nofficiel.\nRabat, le 17 chaabane 1447 (6 février 2026).\nABDERRAHIM TAIBI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 9,
+      "printed_page": 35
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « Rabat Région Emergence »",
+          "start": 115,
+          "end": 149
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-01-2076",
+          "start": 268,
+          "end": 288
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "13 chaabane 1422",
+          "start": 292,
+          "end": 308
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "30 octobre 2001",
+          "start": 310,
+          "end": 325
+        },
+        {
+          "label": "ORG",
+          "text": "société « ARGOS S.A »",
+          "start": 475,
+          "end": 496
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "13 chaabane 1422",
+          "start": 292,
+          "end": 308
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "30 octobre 2001",
+          "start": 310,
+          "end": 325
+        }
+      ],
+      "preamble": "TEXTES PARTICULIERS\ndécret n° 2-26-143 du 16 ramadan 1447 (6 mars 2026) approuvant\ndécret n° 2-26-139 du 5 chaoual 1447 (24 mars 2026) portant\nla concession de l'aménagement et de la gestion de la zone\nd'accélération industrielle Skhirate à la société « Rabat\nRégion Emergence ».\nrenouvellement de la licence attribuée à la société\n« Cimecom S.A » pour l'établissement et l'exploitation\nd'un réseau public de télécommunications par satellites\nde type VSAT.\nLE CHEF  DU GOUVERNEMENT,\nVu la loi n° 19-94 relative aux zones d'accélération\nindustrielle, promulguée par le dahir n° 1-95-1 du 24 chaabane\n1415 (26 janvier 1995), telle que modifiée, notamment son\narticle 7 ;\nLE CHEF DU GOUVERNEMENT,\nVu la loi n°  24-96 relative à la poste et aux\ntélécommunications, promulguée par le dahir n° 1-97-162\ndu 2 rabii II 1418 (7 août 1997), telle qu'elle a été modifiée et\nVu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1995)\npris pour l'application de la loi n° 19-94 relative aux zones\nd'accélération industrielle, notamment son article 5 ;\ncomplétée ;\nVu le décret n° 2-97-813 du 27 chaoual 1418 (25 février 1998)\nportant application des dispositions de la loi n° 24-96 relative\nVu le décret n° 2-25-800 du 6 joumada I 1447 (29 octobre\n2025) portant création de la Zone d'accélération industrielle\nSkhirate ;\nà la poste et aux télécommunications, en ce qui concerne\nl'Agence nationale de réglementation des télécommunications ;\nSur proposition de la commission nationale des zones\nd'accélération industrielle,\nVu le décret n° 2-00-810 du 6 kaada 1421 (31 janvier 2001)\nportant attribution de la licence d'établissement et\nd'exploitation d'un réseau public de télécommunications par\nDÉCRÈTE :\nsatellites de type VSAT à la société « Argos S.A », tel qu'il a",
+      "text": "Est approuvée la concession de\nl'aménagement et de la gestion de la zone d'accélération\nindustrielle Skhirate à la société « Rabat Région Emergence »\nconformément aux clauses du cahier des charges annexé à\nl'original du présent décret.\nété modifié et complété ;\nVu le décret n°  2-01-2076 du 13 chaabane 1422\n(30 octobre 2001) portant cession de la licence d'établissement\net d'exploitation d'un réseau public de télécommunications par\nsatellites de type VSAT attribuée à la société « ARGOS S.A »,",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 746
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 3,
+          "end": 41
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'industrie et du commerce",
+          "start": 48,
+          "end": 86
+        },
+        {
+          "label": "ORG",
+          "text": "société « Cimecom S.A »",
+          "start": 218,
+          "end": 241
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-24-995",
+          "start": 250,
+          "end": 268
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "24 rabii II 1446",
+          "start": 272,
+          "end": 288
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 octobre 2024",
+          "start": 290,
+          "end": 305
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "16 ramadan 1447",
+          "start": 378,
+          "end": 393
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 mars 2026",
+          "start": 395,
+          "end": 406
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "15 ramadan 1447",
+          "start": 756,
+          "end": 771
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 mars 2026",
+          "start": 773,
+          "end": 784
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "24 rabii II 1446",
+          "start": 272,
+          "end": 288
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "28 octobre 2024",
+          "start": 290,
+          "end": 305
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "16 ramadan 1447",
+          "start": 378,
+          "end": 393
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 mars 2026",
+          "start": 395,
+          "end": 406
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "15 ramadan 1447",
+          "start": 756,
+          "end": 771
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 mars 2026",
+          "start": 773,
+          "end": 784
+        }
+      ],
+      "preamble": "",
+      "text": "La ministre de l'économie et des finances et le\nministre de l'industrie et du commerce sont chargés, chacun\nen ce qui le concerne, de l'exécution du présent décret qui sera\npublié au Bulletin officiel.\nen faveur de la société « Cimecom S.A » ;\nVu le décret n° 2-24-995 du 24 rabii II 1446 (28 octobre\n2024) portant délégation d'attributions et de pouvoirs à la\nFait à Rabat, le 16 ramadan 1447 (6 mars 2026).\nministre déléguée auprès du Chef du gouvernement, chargée\nAZIZ AKHANNOUCH.\nde la transition numérique et de la réforme de l'administration  ;\nPour contreseing :\nVu l'avis de l'Agence nationale de réglementation des\nLa ministre de l'économie\ntélécommunications ;\net des finances,\nAprès examen par le Conseil du gouvernement, réuni le\nNADIA FETTAH.\n15 ramadan 1447 (5 mars 2026),\nLe ministre de l'industrie\nDÉCRÈTE :\net du commerce,",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Agence nationale de réglementation des\n",
+          "start": 585,
+          "end": 624,
+          "label": "ORGANIZATION"
+        },
+        {
+          "text": "Conseil du gouvernement",
+          "start": 708,
+          "end": 731,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 10,
+      "printed_page": 746
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-00-810",
+          "start": 77,
+          "end": 95
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 kaada 1421",
+          "start": 99,
+          "end": 111
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "31 janvier 2001",
+          "start": 113,
+          "end": 128
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "15 février 2026",
+          "start": 280,
+          "end": 295
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7489 du 19 ramadan 1447 (9 mars 2026)",
+          "start": 299,
+          "end": 359
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 kaada 1421",
+          "start": 99,
+          "end": 111
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "31 janvier 2001",
+          "start": 113,
+          "end": 128
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "15 février 2026",
+          "start": 280,
+          "end": 295
+        }
+      ],
+      "preamble": "",
+      "text": "La licence attribuée à la société\nRYAD MEZZOUR.\n« Cimecom S.A », en vertu du décret n° 2-00-810 du 6 kaada\n1421 (31 janvier 2001) susvisé, est renouvelée pour une période\nLe texte en langue arabe a été publié dans l'édition générale du\nsupplémentaire de cinq (5) ans à compter du 15 février 2026.\n« Bulletin officiel » n° 7489 du 19 ramadan 1447 (9 mars 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 10,
+      "printed_page": 746
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 3,
+          "end": 41
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "5 chaoual 1447",
+          "start": 379,
+          "end": 393
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 mars 2026",
+          "start": 395,
+          "end": 407
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "5 chaoual 1447",
+          "start": 379,
+          "end": 393
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 mars 2026",
+          "start": 395,
+          "end": 407
+        }
+      ],
+      "preamble": "",
+      "text": "La ministre de l'économie et des finances, la\nministre déléguée auprès du Chef du gouvernement, chargée\nde la transition numérique et de la réforme de l'administration\net le Directeur de l'Agence nationale de réglementation\ndes télécommunications sont chargés, chacun en ce qui le\nconcerne, de l'exécution du présent décret qui sera publié au\nBulletin officiel.\nFait à Rabat, le 5 chaoual 1447 (24 mars 2026).\nAZIZ AKHANNOUCH.\nPour contreseing :\nLa ministre de l'économie\net des finances,\nNADIA FETTAH.\nLa ministre déléguée auprès\ndu Chef du gouvernement, chargée\nde la transition numérique\net de la réforme de l'administration,\nAMAL EL FALLAH.",
+      "citations": [],
+      "persons": [],
+      "organizations": [
+        {
+          "text": "Directeur de l'Agence nationale de réglementation\ndes télécommunications",
+          "start": 174,
+          "end": 246,
+          "label": "ORGANIZATION"
+        }
+      ],
+      "pdf_page": 11,
+      "printed_page": 747
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 rabii I 1427",
+          "start": 94,
+          "end": 109
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "21 avril 2006",
+          "start": 111,
+          "end": 124
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er janvier 2026",
+          "start": 423,
+          "end": 439
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "31 décembre 2026",
+          "start": 453,
+          "end": 469
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 12-02 relative à la responsabilité civile en",
+          "start": 341,
+          "end": 346
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-05-1560",
+          "start": 81,
+          "end": 90
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 12-02 relative à la",
+          "start": 341,
+          "end": 346
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 rabii I 1427",
+          "start": 94,
+          "end": 109
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "21 avril 2006",
+          "start": 111,
+          "end": 124
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "1er janvier 2026",
+          "start": 423,
+          "end": 439
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "31 décembre 2026",
+          "start": 453,
+          "end": 469
+        }
+      ],
+      "preamble": "décret n° 2-26-183 du 5 chaoual 1447 (24 mars 2026)\nreconduisant l'octroi de la garantie de l'Etat au Centre\nnational de l'énergie, des sciences et des techniques\nnucléaires (CNESTEN).\nLE CHEF DU GOUVERNEMENT,\nVu la loi n° 12-02 relative à la responsabilité civile en\nmatière de dommages nucléaires, promulguée par le dahir\nn° 1-04-278 du 25 kaada 1425 (7 janvier 2005), notamment ses\narticles 22 et 24 ;\nVu le décret n° 2-05-1560 du 22 rabii I 1427 (21 avril 2006)\npris pour l'application de la loi n° 12-02 relative à la\nresponsabilité civile en matière de dommages nucléaires,\nnotamment son article 4 ;\nVu le décret n° 2-25-341 du 1er kaada 1446 (29 avril\n2025) reconduisant l'octroi de la garantie de l'Etat au Centre\nnational de l'énergie, des sciences et des techniques nucléaires\n(CNESTEN), pour l'année 2025 ;\nSur proposition de la ministre de la transition énergétique\net du développement durable et de la ministre de l'économie\net des finances,\nDÉCRÈTE :",
+      "text": "L'Etat reconduit l'octroi de la\ngarantie consentie en vertu du décret susvisé n° 2-05-1560 du\n22 rabii I 1427 (21 avril 2006) au Centre national de l'énergie,\ndes sciences et des techniques nucléaires pour la couverture\nde sa responsabilité civile à concurrence du montant de cinq\nmillions de DTS, prévu à l'article 22 de la loi précitée n° 12-02.\nLa reconduction de la garantie accordée par l'Etat prend\neffet à partir du 1er janvier 2026 et expire le 31 décembre 2026.",
+      "citations": [
+        {
+          "text": "l'article 22",
+          "target_label": "DECRET",
+          "target_text": "décret n° 2-26-183",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 11,
+      "printed_page": 747
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 3,
+          "end": 41
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "5 chaoual 1447",
+          "start": 248,
+          "end": 262
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 mars 2026",
+          "start": 264,
+          "end": 276
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "5 chaoual 1447",
+          "start": 248,
+          "end": 262
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 mars 2026",
+          "start": 264,
+          "end": 276
+        }
+      ],
+      "preamble": "",
+      "text": "La ministre de l'économie et des finances et\nla ministre de la transition énergétique et du développement\ndurable sont chargées, chacune en ce qui la concerne, de\nl'exécution du présent décret qui sera publié au Bulletin officiel.\nFait à Rabat, le 5 chaoual 1447 (24 mars 2026).\nAZIZ AKHANNOUCH.\nPour contreseing :\nLa ministre de l'économie\net des finances,\nNADIA FETTAH.\nLa ministre\nde la transition énergétique\net du développement durable,\nLEILA BENALI.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 11,
+      "printed_page": 747
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté susvisé n° 2797-95",
+          "start": 23,
+          "end": 48
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 52,
+          "end": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 72,
+          "end": 88
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 016-89",
+          "start": 270,
+          "end": 283
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 juillet 2024",
+          "start": 493,
+          "end": 508
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 décembre 2021",
+          "start": 668,
+          "end": 683
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 23,
+          "end": 29
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 52,
+          "end": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 72,
+          "end": 88
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 juillet 2024",
+          "start": 493,
+          "end": 508
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 décembre 2021",
+          "start": 668,
+          "end": 683
+        }
+      ],
+      "preamble": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 351-26 du 23 chaabane 1447\n(12 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 20 novembre 2025,\nARRÊTE :",
+      "text": "L'article premier de l'arrêté susvisé\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est\ncomplété comme suit :\n« Article premier. – La liste des diplômes reconnus\n« équivalents au diplôme d'architecte de l'Ecole nationale\n« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du\n« baccalauréat, série scientifique ou technique ou d'un diplôme\n« reconnu équivalent, est fixée ainsi qu'il suit :\n« – Titulo oficial de master universitario en arquitectura,\n« délivré en date du 24 juillet 2024 par la Universidad\n«  Rey Juan Carlos - Espagne, assorti du titulo\n« universitario oficial de graduada en fundamentos de\n« la arquitectura, délivré en date du 6 décembre 2021 par\n« la même université et d'une attestation de validation\n« du complément de formation, délivrée par l'Ecole\n« nationale d'architecture de Rabat. »",
+      "citations": [
+        {
+          "text": "l'article 4",
+          "target_label": "LOI",
+          "target_text": "loi n° 016-89",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 748
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "23 chaabane 1447",
+          "start": 62,
+          "end": 78
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 février 2026",
+          "start": 80,
+          "end": 95
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7494 du 7 chaoual 1447 (26 mars 2026)",
+          "start": 187,
+          "end": 247
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "23 chaabane 1447",
+          "start": 62,
+          "end": 78
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 février 2026",
+          "start": 80,
+          "end": 95
+        }
+      ],
+      "preamble": "",
+      "text": "Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 23 chaabane 1447 (12 février 2026).\nAZZEDDINE EL MIDAOUI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7494 du 7 chaoual 1447 (26 mars 2026).",
+      "citations": [],
+      "persons": [
+        {
+          "text": "AZZEDDINE EL MIDAOUI",
+          "start": 98,
+          "end": 118,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 748
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté susvisé n° 2797-95",
+          "start": 23,
+          "end": 48
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 52,
+          "end": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 72,
+          "end": 88
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 016-89",
+          "start": 270,
+          "end": 283
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 juin 2023",
+          "start": 468,
+          "end": 480
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 23,
+          "end": 29
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 52,
+          "end": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 72,
+          "end": 88
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 juin 2023",
+          "start": 468,
+          "end": 480
+        }
+      ],
+      "preamble": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 462-26 du 8 ramadan 1447\n(26 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 12 juin 2025,\nARRÊTE :",
+      "text": "L'article premier de l'arrêté susvisé\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est\ncomplété comme suit :\n« Article premier. – La liste des diplômes reconnus\n« équivalents au diplôme d'architecte de l'Ecole nationale\n« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du\n« baccalauréat, série scientifique ou technique ou d'un diplôme\n« reconnu équivalent, est fixée ainsi qu'il suit :\n« – Diplôme national d'architecte, délivré en date du\n« 19 juin 2023 par l'Université de Carthage - Tunisie,\n« assorti d'une attestation de validation du complément\n«  de formation, délivrée par l'Ecole nationale\n« d'architecture de Rabat. »",
+      "citations": [
+        {
+          "text": "l'article 4",
+          "target_label": "LOI",
+          "target_text": "loi n° 016-89",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 748
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "8 ramadan 1447",
+          "start": 62,
+          "end": 76
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 février 2026",
+          "start": 78,
+          "end": 93
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "8 ramadan 1447",
+          "start": 62,
+          "end": 76
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 février 2026",
+          "start": 78,
+          "end": 93
+        }
+      ],
+      "preamble": "",
+      "text": "Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 8 ramadan 1447 (26 février 2026).\nAZZEDDINE EL MIDAOUI.",
+      "citations": [],
+      "persons": [
+        {
+          "text": "AZZEDDINE EL MIDAOUI",
+          "start": 96,
+          "end": 116,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 748
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté susvisé n° 2797-95",
+          "start": 23,
+          "end": 48
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 52,
+          "end": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 72,
+          "end": 88
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 016-89",
+          "start": 270,
+          "end": 283
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 juin 2023",
+          "start": 459,
+          "end": 471
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 23,
+          "end": 29
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "20 joumada II 1416",
+          "start": 52,
+          "end": 70
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "14 novembre 1995",
+          "start": 72,
+          "end": 88
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 juin 2023",
+          "start": 459,
+          "end": 471
+        }
+      ],
+      "preamble": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 3063-25 du 8 ramadan 1447\n(26 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 12 juin 2025,\nARRÊTE :",
+      "text": "L'article premier de l'arrêté susvisé\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est\ncomplété comme suit :\n« Article premier. – La liste des diplômes reconnus\n« équivalents au diplôme d'architecte de l'Ecole nationale\n« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du\n« baccalauréat, série scientifique ou technique ou d'un diplôme\n« reconnu équivalent, est fixée ainsi qu'il suit :\n« – Master of architecture, délivré en date du 26 juin 2023\n« par the Manchester metropolitan University and\n« the University of Manchester - Royaume-Uni.»",
+      "citations": [
+        {
+          "text": "l'article 4",
+          "target_label": "LOI",
+          "target_text": "loi n° 016-89",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 748
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "8 ramadan 1447",
+          "start": 62,
+          "end": 76
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 février 2026",
+          "start": 78,
+          "end": 93
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026)",
+          "start": 185,
+          "end": 246
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "8 ramadan 1447",
+          "start": 62,
+          "end": 76
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 février 2026",
+          "start": 78,
+          "end": 93
+        }
+      ],
+      "preamble": "",
+      "text": "Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 8 ramadan 1447 (26 février 2026).\nAZZEDDINE EL MIDAOUI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026).",
+      "citations": [],
+      "persons": [
+        {
+          "text": "AZZEDDINE EL MIDAOUI",
+          "start": 96,
+          "end": 116,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": [],
+      "pdf_page": 12,
+      "printed_page": 748
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « Fast Payment SA »",
+          "start": 65,
+          "end": 92
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 février 2026",
+          "start": 147,
+          "end": 161
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "5 février 2026",
+          "start": 147,
+          "end": 161
+        }
+      ],
+      "preamble": "Décision du Wali de Bank Al-Maghrib n° 160 du 15 chaabane 1447\n(4 février 2026) portant prorogation de la durée du mandat\ndu liquidateur de la société « Fast Payment SA».\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1er rabii I 1436 (24 décembre 2014), notamment ses articles 145\net 146 ;\nVu la décision du Wali de Bank Al-Maghrib n°134 du\n2 joumada I 1445 (16 novembre 2023) portant nomination d'un\nliquidateur pour la société « Fast Payment SA » ;\nVu que le délai de liquidation de la société « Fast\nPayment SA» expirera le 5 février 2026, sans que les opérations\nde liquidation ne soient clôturées ;\nVu la demande de prorogation du délai, formulée par le\nliquidateur le 2 février 2026,\nDÉCIDE :",
+      "text": "La durée du mandat de Monsieur\nAbdellah HAMZA, liquidateur de la société « Fast Payment\nSA », est prorogée pour une durée d'une année à compter du\n5 février 2026.",
+      "citations": [],
+      "persons": [
+        {
+          "text": "Abdellah HAMZA",
+          "start": 31,
+          "end": 45,
+          "label": "PERSON"
+        }
+      ],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 749
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "15 chaabane 1447",
+          "start": 65,
+          "end": 81
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 février 2026",
+          "start": 83,
+          "end": 97
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7494 du 7 chaoual 1447 (26 mars 2026)",
+          "start": 187,
+          "end": 247
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "15 chaabane 1447",
+          "start": 65,
+          "end": 81
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 février 2026",
+          "start": 83,
+          "end": 97
+        }
+      ],
+      "preamble": "",
+      "text": "La présente décision est publiée au Bulletin\nofficiel.\nRabat, le 15 chaabane 1447 (4 février 2026).\nABDELLATIF JOUAHRI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7494 du 7 chaoual 1447 (26 mars 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 749
+    },
+    {
+      "number": "PREMIER",
+      "raw_header": "ARTICLE PREMIER. –",
+      "entities": [
+        {
+          "label": "ORG",
+          "text": "société « MAZMA Technologies »",
+          "start": 29,
+          "end": 59
+        },
+        {
+          "label": "LOI",
+          "text": "loi n° 103-12 relative aux établissements de crédit et",
+          "start": 232,
+          "end": 238
+        }
+      ],
+      "dates": [],
+      "preamble": "Décision du Wali de Bank Al-Maghrib n° 161 du 27 chaabane 1447\n(16 février 2026) portant agrément de la société « MAZMA\nTechnologies » en qualité d'établissement de paiement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1er rabii I 1436 (24 décembre 2014), notamment ses articles 16,\n26 et 34 ;\nVu la demande d'agrément formulée par la société\n« MAZMA Technologies » en date du 28 novembre 2022 ;\nVu les informations complémentaires communiquées\nen date du 4 avril 2024 ;\nAprès avis du comité des établissements de crédit du\n13 juin 2024 ;\nVu les informations complémentaires communiquées en\ndate du 28 janvier 2026 pour la levée des réserves formulées\npar le comité des établissements de crédit,\nDÉCIDE :",
+      "text": "Est octroyé un agrément à la société\n« MAZMA Technologies », sise 19, rue du Lierre, Casablanca,\nen qualité d'établissements de paiement pour exercer\nl'ensemble des services de paiement prévus par l'article 16\nde la loi susvisée n° 103-12.",
+      "citations": [
+        {
+          "text": "l'article 16",
+          "target_label": "LOI",
+          "target_text": "loi n° 103-12",
+          "resolved": true
+        }
+      ],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 749
+    },
+    {
+      "number": "2",
+      "raw_header": "ART. 2. –",
+      "entities": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "27 chaabane 1447",
+          "start": 65,
+          "end": 81
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "16 février 2026",
+          "start": 83,
+          "end": 98
+        },
+        {
+          "label": "BULLETIN_OFFICIEL",
+          "text": "Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026)",
+          "start": 188,
+          "end": 249
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "27 chaabane 1447",
+          "start": 65,
+          "end": 81
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "16 février 2026",
+          "start": 83,
+          "end": 98
+        }
+      ],
+      "preamble": "",
+      "text": "La présente décision est publiée au Bulletin\nofficiel.\nRabat, le 27 chaabane 1447 (16 février 2026).\nABDELLATIF JOUAHRI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026).",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": 13,
+      "printed_page": 749
+    }
+  ],
+  "total_pdf_pages": 50,
+  "instruments": [
+    {
+      "instrument_type": "ARRETE",
+      "reference": "454-26",
+      "article_indices": [
+        0,
+        1,
+        2
+      ],
+      "n_articles": 3,
+      "instrument_id": "instr_1"
+    },
+    {
+      "instrument_type": "DECISION",
+      "reference": "304-26",
+      "article_indices": [
+        3,
+        4,
+        5
+      ],
+      "n_articles": 3,
+      "instrument_id": "instr_2"
+    },
+    {
+      "instrument_type": "DECRET",
+      "reference": "2-26-143",
+      "article_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "n_articles": 4,
+      "instrument_id": "instr_3"
+    },
+    {
+      "instrument_type": "DECRET",
+      "reference": "2-26-183",
+      "article_indices": [
+        10,
+        11
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_4"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": "351-26",
+      "article_indices": [
+        12,
+        13
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_5"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": "462-26",
+      "article_indices": [
+        14,
+        15
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_6"
+    },
+    {
+      "instrument_type": "ARRETE",
+      "reference": "3063-25",
+      "article_indices": [
+        16,
+        17
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_7"
+    },
+    {
+      "instrument_type": "DECISION",
+      "reference": null,
+      "article_indices": [
+        18,
+        19
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_8"
+    },
+    {
+      "instrument_type": "DECISION",
+      "reference": null,
+      "article_indices": [
+        20,
+        21
+      ],
+      "n_articles": 2,
+      "instrument_id": "instr_9"
+    },
+    {
+      "instrument_type": "CIRCULAIRE",
+      "reference": null,
+      "article_indices": [],
+      "n_articles": 0,
+      "instrument_id": "instr_10"
+    },
+    {
+      "instrument_type": "DECRET",
+      "reference": null,
+      "article_indices": [],
+      "n_articles": 0,
+      "instrument_id": "instr_11"
+    },
+    {
+      "instrument_type": "DECRET",
+      "reference": null,
+      "article_indices": [],
+      "n_articles": 0,
+      "instrument_id": "instr_12"
+    },
+    {
+      "instrument_type": "DECRET",
+      "reference": null,
+      "article_indices": [],
+      "n_articles": 0,
+      "instrument_id": "instr_13"
+    },
+    {
+      "instrument_type": "DECRET",
+      "reference": null,
+      "article_indices": [],
+      "n_articles": 0,
+      "instrument_id": "instr_14"
+    },
+    {
+      "instrument_type": "CIRCULAIRE",
+      "reference": null,
+      "article_indices": [],
+      "n_articles": 0,
+      "instrument_id": "instr_15"
+    }
+  ],
+  "n_instruments": 15
+}

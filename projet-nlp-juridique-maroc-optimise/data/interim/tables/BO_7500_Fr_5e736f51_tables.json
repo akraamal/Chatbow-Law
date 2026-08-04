@@ -1,0 +1,945 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      223.7284,
+      229.5871999999999,
+      427.8228,
+      388.01629999999994
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "TARIFS D’ABONNEMENT",
+        "",
+        ""
+      ],
+      [
+        "AU MAROC\n{\n6 mois 1 an",
+        "",
+        "A L’ETRANGER"
+      ],
+      [
+        "250 DH\n150 DH\n150 DH\n250 DH\n250 DH",
+        "400 DH\n200 DH\n200 DH\n300 DH\n300 DH",
+        "A destination de l’étranger,\npar voies ordinaire, aérienne\nou de la poste rapide interna‑\ntionale, les tarifs prévus ci‑\ncontre sont majorés des frais\nd’envoi, tels qu’ils sont fixés\npar la réglementation postale\nen vigueur."
+      ]
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      128.71450000000002,
+      89.91650000000004,
+      475.6349999999999,
+      788.8220000000001
+    ],
+    "n_rows": 7,
+    "n_cols": 8,
+    "rows": [
+      [
+        "مدة\nal noitcetorp الحماية\ned\neéruD\nبالسنوات",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02"
+      ],
+      [
+        ")1( حداثة\nétuaevuoN\nالصنف\n(1)",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد"
+      ],
+      [
+        "esserdA/tnasopéD\nاسم\nالمودع/العنوان",
+        "keohnehcsgreB\n.V.B 25\ngewkeohnewueeL\nsdnalrehteN\ndnalloH\nZC\nreyaB\n1662\nehT",
+        ".l.r.S -TI\n,64\nsciteneG eilatI\n,oiziruaM\n)TM(\niriS\nnaS orociloP\navoN 52057\naiV",
+        "erutlucirgA\nyb\n,euneva\ndetneserpeR\n,.C.D\nfO\nsetatS ecnednepednI ,notgnihsaW\nfo\nyraterceS\ndetinU sa ASU\naciremA\n0041 ,.W.S 05202\nehT eht",
+        "reugoM\nLS\nstnalP lE\nleirtsudnI\nfo\nseirreB 37 niapS\n,otiborraglA\nonogiloP )avleuH(\naixuL",
+        "10014\n.L.S\n.5\n,ainrofilaC ,saicilD\nengapsE\nsal\nsoreviV ed ,alliveS\noesaP",
+        "modgniK\ndetimiL ,AD5\n2DD\ndetinU\nnottuH\n,eirwogrevnI\n,eednuD\nsemaJ",
+        "modgniK\ndetimiL ,AD5\n2DD\ndetinU\nnottuH\n,eirwogrevnI\n,eednuD\nsemaJ"
+      ],
+      [
+        "esserdA/ruetnetbO\nاسم\nالمستنبط/العنوان",
+        "esuohetihW\nmadA",
+        "52057-31\neilatI\norafuT ,enoipmeS )TM(\norociloP\nalociN\naiV",
+        ",sillavroC\n,yaW\nnosreffeJ\nASU\nnniF\n13379\n.E WS\ndahC 0051\nRO",
+        ",otiborraglA\nniapS\nLS\n)avleuH(\nstnalP lE\nleirtsudnI\nseirreB\nreugoM\nonogiloP\naixuL\nfo\n37",
+        ",avleuH\n5\nzaV ,zeuqzaleV\nzeuqzaV\nogeiD\nrusA\nengapsE\nellaC\n.rM",
+        ",eednuD\ndetimiL ,AD5\n2DD\nmodgniK\nnottuH\n,eirwogrevnI\nsemaJ detinU",
+        ",eednuD\ndetimiL ,AD5\n2DD\nmodgniK\nnottuH\n,eirwogrevnI\nsemaJ detinU"
+      ],
+      [
+        "al\ned\nnoitanimonéD اسم\nétéirav\nالصنف",
+        "ECA\nGNILLAM",
+        "564\nGSN",
+        "EENAKOK",
+        "AIXUL",
+        "4R\nACIV",
+        "EYKS",
+        "SIWEL"
+      ],
+      [
+        "ed رقم\netad tôpéd وتاريخ\nte الإيداع\n°N",
+        "1202/50/62\n12/1601",
+        "4202/01/30\n42/3431",
+        "0202/21/52\n02/9201",
+        "2202/20/40\n22/7211",
+        "2202/21/21\n22/2911",
+        "4202/50/70\n42/2031",
+        "4202/50/70\n42/3031"
+      ],
+      [
+        "الاسم\nmoN/\nالشائع/\necèpsE\nnummoc النوع\n)euqifitneics الاسم\nالعلمي\nmon(",
+        "hcuD\nassananA\nx\nreisiarF airagarF",
+        "",
+        ".L\nreisiobmarF\nsueadi\nsubuR",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      131.266,
+      85.12499999999993,
+      502.154,
+      791.0209999999998
+    ],
+    "n_rows": 7,
+    "n_cols": 7,
+    "rows": [
+      [
+        "مدة\nal noitcetorp الحماية\ned\neéruD\nبالسنوات",
+        ")2(\n52\nsna\nسنة\n52",
+        ")2(\n52\nsna\nسنة\n52",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02"
+      ],
+      [
+        ")1( حداثة\nétuaevuoN\nالصنف\n(1)",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد"
+      ],
+      [
+        "esserdA/tnasopéD\nاسم\nالمودع/العنوان",
+        "ASU\n,daoR\ndna ,25479\nllewoL-repsaJ\nmraF\nnogerO\n.cnI\nkeerC\n,yresruN\n,llewoL\n81393\nllaF",
+        ",dleifsrekaB\n,euneva\n.CLL\nASU\n,lanoitanretnI\nnutxurT\ndlroW ,90339\n,002\n1075 etiuS\nnuS AC",
+        ".V.B\nreeheB BD saB-syaP\n2061\nnedaZ\n,re1 ,neziuhknE\ngnilaH\naznE",
+        "BA\n3806\n,251 saB-syaP\n.V.B gewsnoelopaN\nsmehnuN\n,mehnuN",
+        "noitcetorP\nessiuS\n,76\nporC essartslatnesoR ,elâB\natnegnyS 8504-HC\nG.A",
+        "eporuE naeJ\neur ,duahcU\nselbategeV ,salbaS\n,02603\ned\neniamoD\natakaS ,niluoM ecnarF\nSAS"
+      ],
+      [
+        "esserdA/ruetnetbO\nاسم\nالمستنبط/العنوان",
+        ",02769\nnogerO\n,eneguE\niiawaH\n,ellivretlaW\nnotlezarB ,eunevA sehcoB\nrengaW ASU ,oliH\n,40479 nafetS 5114\nnotlimaH\n.M 651 ASU .L\ndivaD xoB ,98479 madA nogerO reteP xoB\nO.P 536 .O.P ASU\n.1 .3 .4",
+        ",dleifsrekaB\n,evirD\n,nocaB\nASU\nrobrahnuS\n.A ,312339\nYRRET\n8158\nAC",
+        ",neziuhknE\n.V.B\nreeheB BD\n2061\nnedaZ\n,re1\nsaB-syaP\ngnilaH\naznE",
+        "smehnuN\nsaB-syaP",
+        "G.A\nnoitcetorP\nessiuS\n,76\nporC essartslatnesoR ,elâB\natnegnyS 8504-HC",
+        "SAS\necnarF\neporuE naeJ\neur ,duahcU\nselbategeV ,salbaS\n,02603\ned\neniamoD\natakaS ,niluoM"
+      ],
+      [
+        "al\ned\nnoitanimonéD اسم\nétéirav\nالصنف",
+        "221-31CF",
+        "ENINYTROFARGUS",
+        "AZNOP",
+        "99390\nNUN",
+        "RONEMUN",
+        "AIOUQES\nTNAIG"
+      ],
+      [
+        "ed رقم\netad tôpéd وتاريخ\nte الإيداع\n°N",
+        "0202/10/92\n02/879",
+        "0202/5301 0202/21/82",
+        "3202/40/60\n32/5021",
+        "3202/80/30\n32/4321",
+        "3202/21/81\n32/3621",
+        "4202/60/72\n42/6131"
+      ],
+      [
+        "الاسم\nmoN/\nالشائع/\necèpsE\nnummoc النوع\n)euqifitneics الاسم\nالعلمي\nmon(",
+        ".L\nmusobmyroc\nsellitryM muiniccaV",
+        "arefeniv\nengiV\nsitiV",
+        ".L\nmucisrepocyl\netamoT munaloS",
+        "",
+        ".L\nmucisrepocyl\netamoT munaloS",
+        ".S(\nefferg\netïahcorbah\netrop\n)mutusriH\netamoT munaloS"
+      ]
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      136.423,
+      89.207,
+      409.51899999999995,
+      788.114
+    ],
+    "n_rows": 7,
+    "n_cols": 6,
+    "rows": [
+      [
+        "مدة\nal noitcetorp الحماية\ned\neéruD\nبالسنوات",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02",
+        ")2(\n02\nsna\nسنة\n02"
+      ],
+      [
+        ")1( حداثة\nétuaevuoN\nالصنف\n(1)",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد",
+        "ellevuon\nصنف\nétéiraV جديد"
+      ],
+      [
+        "esserdA/tnasopéD\nاسم\nالمودع/العنوان",
+        "-seL-setroP\nsiuoL ecnarF\neur\nESUALC 20862 ,xedeC\n,ettoM\n,tnalliaS ,ecnelaV\naL\n.MH\nI.Z",
+        "-setroP\nsiuoL\n20862\necnarF\neur\nESUALC 38\n,ettoM\nPB ,ecnelaV-sèl\n,tnalliaS\naL\nMH\nI.Z",
+        "-setroP\nsiuoL\n20862\necnarF\neur\nESUALC 38\n,ettoM\nPB ,ecnelaV-sèl\n,tnalliaS\naL\nMH\nI.Z",
+        "eporuE naeJ\neur ,duahcU\nselbategeV ,salbaS\n,02603\ned\neniamoD\natakaS ,niluoM ecnarF\nSAS",
+        ",araG\nzerpseD\nlE’d\ndnomirolF etuor\nberhgaM dihcerreB\n,6\nmK"
+      ],
+      [
+        "esserdA/ruetnetbO\nاسم\nالمستنبط/العنوان",
+        ",xedeC\n,tnalliaS\n,ecnelaV-seL-setroP\nsiuoL\neur\nESUALC\n,ettoM\naL 20862 ecnarF\nMH\nI.Z",
+        "PB\n,tnalliaS\n,ecnelaV-sèl-setroP\nsiuoL\neur\nESUALC\n,ettoM\n20862\naL ecnarF\nMH\nI.Z 38",
+        "PB\n,tnalliaS\n,ecnelaV-sèl-setroP\nsiuoL\neur\nESUALC\n,ettoM\n20862\naL ecnarF\nMH\nI.Z 38",
+        "uK-ikuzusT\nnapaJ\nnoitaroproC\n,1400-422\niadihcamakaN\ndeeS\namahokoY\natakaS\n1-7-2",
+        "sliF\n24295\n&\nevueV ecnarF\nzerpseD\nzerpseD\n,eleveP\ndnomirolF\ndnomirolF ne\nelleppaC\neur\n3"
+      ],
+      [
+        "al\ned\nnoitanimonéD اسم\nétéirav\nالصنف",
+        "OROEDLAV",
+        "ALADNAM",
+        "AMHARB",
+        "ORAJNAMILIK",
+        "SIRISO"
+      ],
+      [
+        "ed رقم\netad tôpéd وتاريخ\nte الإيداع\n°N",
+        "4202/21/72\n42/7531",
+        "5202/30/60\n52/2831",
+        "5202/30/60\n52/3831",
+        "4202/60/72\n42/8131",
+        "4202/40/32\n42/4921"
+      ],
+      [
+        "الاسم\nmoN/\nالشائع/\necèpsE\nnummoc النوع\n)euqifitneics الاسم\nالعلمي\nmon(",
+        ".L\nolem\nsimucuC\nnoleM",
+        ".L\nopep\nettegruoC\natibrucuC",
+        "",
+        ".rav\n.L\naecarelo\nkcnelP\niloccorB\nacissarB\nacilati",
+        ".L\nmuvitsea\nerdnet\nmucitirT\nélB"
+      ]
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      24.5945,
+      128.58359999999996,
+      570.6810999999999,
+      768.1900333333333
+    ],
+    "n_rows": 5,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Extrait de l’avenant n°1 à la convention n°2019/GON/02 de création et d'exploitation d’une ferme aquacole\ndénommée «Power Fish Pisciculture», signé le 30 kaada 1446 (28 mai 2025)\n(décret n°2-08-562 du 13 hija 1429 (12 décembre 2008))",
+        ""
+      ],
+      [
+        "Identification du bénéficiaire :",
+        "Société «POWER FISH sarl »\nRue Yaacoub El Mansour, Villa Baida n°25- Laâyoune\nRegistre de commerce n°26299"
+      ],
+      [
+        "Superficie :\nLimites externes d’implantation de la ferme aquacole :",
+        "Deux cent cinquante (250) hectares\nBornes Latitude Longitude\nB1 29° 26'2.898'' N 10°13'11.294'' W\nB2 29° 26'14.896'' N 10°12'58.786'' W\nParcelle 1\nB3 29° 26'3.951'' N 10°12'45.084'' W\nB4 29° 25'51.953'' N 10°12'57.593'' W\nB1 29° 26'24.787'' N 10°13'38.698'' W\nB2 29° 26'36.786'' N 10°13'26.190'' W\nParcelle 2\nB3 29° 26'25.841'' N 10°13'12.488'' W\nB4 29° 26'13.842'' N 10°13'24.996'' W\nParcelle 3 B1 29° 26'46.674'' N 10°14'6.106'' W\nB2 29° 26'58.673'' N 10°13'53.598'' W\nB3 29° 26'47.730'' N 10°13'39.894'' W\nB4 29° 26'35.730'' N 10°13'52.402'' W\nB1 29° 26'4.971'' N 10°12'18.836'' W\nB2 29° 26'16.968'' N 10°12'6.326'' W\nParcelle 4\nB3 29° 26'6.021'' N 10°11'52.626'' W\nB4 29° 25'54.024'' N 10°12'5.136'' W\nB1 29° 26'26.863'' N 10°12'46.238'' W\nB2 29° 26'38.861'' N 10°12'33.728'' W\nParcelle 5\nB3 29° 26'27.914'' N 10°12'20.027'' W\nB4 29° 26'15.917'' N 10°12'32.536'' W\nB1 29° 26'48.753'' N 10°13'13.643'' W\nB2 29° 27'0.751'' N 10°13'1.133'' W\nParcelle 6\nB3 29° 26'49.806'' N 10°12'47.430'' W\nB4 29° 26'37.808'' N 10°12'59.940'' W\nB1 29° 27'10.642'' N 10°13'41.051'' W\nB2 29° 27'22.641'' N 10°13'28.541'' W\nParcelle 7\nB3 29° 27'11.696'' N 10°13'14.837'' W\nB4 29° 26'59.698'' N 10°13'27.346'' W\nB1 29° 27'24.736'' N 10°12'36.125'' W\nB2 29° 27'36.733'' N 10°12'23.613'' W\nParcelle 8\nB3 29° 27'25.787'' N 10°12'9.910'' W\nB4 29° 27'13.790'' N 10°12'22.422'' W\nB1 29° 26'40.948'' N 10°11'41.317'' W\nB2 29° 26'52.944'' N 10°11'28.805'' W\nParcelle 9\nB3 29° 26'41.996'' N 10°11'15.105'' W\nB4 29° 26'30.001'' N 10°11'27.617'' W\nB1 29° 27'2.843'' N 10°12'8.719'' W\nB2 29° 27'14.840'' N 10°11'56.207'' W\nParcelle 10\nB3 29° 27'3.893'' N 10°11'42.505'' W\nB4 29° 26'51.897'' N 10°11'55.018'' W"
+      ],
+      [
+        "Activité de la ferme aquacole :",
+        "Élevage des espèces halieutiques suivantes :\n– la dorade royale « Sparus aurata » ;\n– le bar ou loup « Dicentrarchus labrax » ;\n– le maigre (courbine) « Argyrosomus regius » ;\n– la sériole « Sériola dumerili »."
+      ],
+      [
+        "Montant de la redevance due :",
+        "Sans changement"
+      ]
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      248.48719999999975,
+      221.90610000000004,
+      560.2982000000001,
+      685.4455
+    ],
+    "n_rows": 41,
+    "n_cols": 4,
+    "rows": [
+      [
+        "",
+        "Bornes",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "Parcelle 1",
+        "B1",
+        "29° 26'2.898'' N",
+        "10°13'11.294'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 26'14.896'' N",
+        "10°12'58.786'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 26'3.951'' N",
+        "10°12'45.084'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 25'51.953'' N",
+        "10°12'57.593'' W"
+      ],
+      [
+        "Parcelle 2",
+        "B1",
+        "29° 26'24.787'' N",
+        "10°13'38.698'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 26'36.786'' N",
+        "10°13'26.190'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 26'25.841'' N",
+        "10°13'12.488'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 26'13.842'' N",
+        "10°13'24.996'' W"
+      ],
+      [
+        "Parcelle 3",
+        "B1",
+        "29° 26'46.674'' N",
+        "10°14'6.106'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 26'58.673'' N",
+        "10°13'53.598'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 26'47.730'' N",
+        "10°13'39.894'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 26'35.730'' N",
+        "10°13'52.402'' W"
+      ],
+      [
+        "Parcelle 4",
+        "B1",
+        "29° 26'4.971'' N",
+        "10°12'18.836'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 26'16.968'' N",
+        "10°12'6.326'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 26'6.021'' N",
+        "10°11'52.626'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 25'54.024'' N",
+        "10°12'5.136'' W"
+      ],
+      [
+        "Parcelle 5",
+        "B1",
+        "29° 26'26.863'' N",
+        "10°12'46.238'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 26'38.861'' N",
+        "10°12'33.728'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 26'27.914'' N",
+        "10°12'20.027'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 26'15.917'' N",
+        "10°12'32.536'' W"
+      ],
+      [
+        "Parcelle 6",
+        "B1",
+        "29° 26'48.753'' N",
+        "10°13'13.643'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 27'0.751'' N",
+        "10°13'1.133'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 26'49.806'' N",
+        "10°12'47.430'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 26'37.808'' N",
+        "10°12'59.940'' W"
+      ],
+      [
+        "Parcelle 7",
+        "B1",
+        "29° 27'10.642'' N",
+        "10°13'41.051'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 27'22.641'' N",
+        "10°13'28.541'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 27'11.696'' N",
+        "10°13'14.837'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 26'59.698'' N",
+        "10°13'27.346'' W"
+      ],
+      [
+        "Parcelle 8",
+        "B1",
+        "29° 27'24.736'' N",
+        "10°12'36.125'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 27'36.733'' N",
+        "10°12'23.613'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 27'25.787'' N",
+        "10°12'9.910'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 27'13.790'' N",
+        "10°12'22.422'' W"
+      ],
+      [
+        "Parcelle 9",
+        "B1",
+        "29° 26'40.948'' N",
+        "10°11'41.317'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 26'52.944'' N",
+        "10°11'28.805'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 26'41.996'' N",
+        "10°11'15.105'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 26'30.001'' N",
+        "10°11'27.617'' W"
+      ],
+      [
+        "Parcelle 10",
+        "B1",
+        "29° 27'2.843'' N",
+        "10°12'8.719'' W"
+      ],
+      [
+        "",
+        "B2",
+        "29° 27'14.840'' N",
+        "10°11'56.207'' W"
+      ],
+      [
+        "",
+        "B3",
+        "29° 27'3.893'' N",
+        "10°11'42.505'' W"
+      ],
+      [
+        "",
+        "B4",
+        "29° 26'51.897'' N",
+        "10°11'55.018'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      24.591000000000005,
+      142.33359999999993,
+      570.6846,
+      604.7135
+    ],
+    "n_rows": 7,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Extrait de la convention de création et d’exploitation de la ferme aquacole dénommée « Mejillons Labouirda‑Cintra »\nn° 2023/DOE/505 signée le 19 ramadan 1446 (20 mars 2025) entre la société « MEJILLONS LABOUIRDA Sarl AU »\net la secrétaire d’Etat auprès du ministre de l’agriculture, de la pêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime\n(art.9 du décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008))",
+        ""
+      ],
+      [
+        "Nom du bénéficiaire :",
+        "Société « MEJILLONS LABOUIRDA Sarl AU »\nRue Ait Melloul n°14, Laâyoune."
+      ],
+      [
+        "Durée de la Convention :",
+        "Dix (10) ans, renouvelable"
+      ],
+      [
+        "Lieu d’implantation de la ferme aquacole :\nSuperficie :\nLimites externes d’implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :",
+        "En mer, au large de Cintra, Province d’Oued Eddahab.\nDeux (2) hectares.\nBornes Latitude Longitude\nB1 23° 5' 23,201'' N 16° 11' 4,286'' W\nB2 23° 5' 21,888'' N 16° 11' 11,171'' W\nB3 23° 5' 25,072'' N 16° 11' 11,881'' W\nB4 23° 5' 26,386'' N 16° 11' 4,996'' W\nLargeur de dix (10) mètres autour des limites extérieures d’implantation de la ferme\naquacole.\nde jour et de nuit au moyen de signaux conformes à la réglementation relative à la\nsécurité de la navigation."
+      ],
+      [
+        "Activité de la ferme aquacole :\nTechnique utilisée :\nMoyens d’exploitation :",
+        "Élevage de l’huître creuse « Crassostrea gigas ».\nPoches sur tables.\nNavires de servitude."
+      ],
+      [
+        "Contrôle et suivi technique et scientifique :\nSurveillance environnementale :\nGestion des déchets :",
+        "L’Administration de la pêche maritime et l’Institut national de recherche halieutique\n(INRH).\nSelon le programme prévu dans l’étude d’impact sur l’environnement.\nEnfouissement et stockage dans des lieux autorisés à cet effet, conformément à la\nloi n°28-00 relative à la gestion des déchets et à leur élimination."
+      ],
+      [
+        "Montant de la redevance due :",
+        "‑ droit fixe : mille (1000) dirhams par an.\n‑ droit variable : 1/1000 de la valeur des espèces vendues."
+      ]
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      248.6338,
+      306.47389999999996,
+      554.7755,
+      367.0851
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Bornes",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "B1",
+        "23° 5' 23,201'' N",
+        "16° 11' 4,286'' W"
+      ],
+      [
+        "B2",
+        "23° 5' 21,888'' N",
+        "16° 11' 11,171'' W"
+      ],
+      [
+        "B3",
+        "23° 5' 25,072'' N",
+        "16° 11' 11,881'' W"
+      ],
+      [
+        "B4",
+        "23° 5' 26,386'' N",
+        "16° 11' 4,996'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      24.591000000000005,
+      142.33359999999993,
+      570.6846,
+      618.3749
+    ],
+    "n_rows": 7,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Extrait de la convention de création et d’exploitation de la ferme aquacole dénommée « West Leoceanic Cintra »\nn° 2024/DOE/521 signée le 16 ramadan 1446 (17 mars 2025) entre la société « WEST LEOCEANIC Sarl AU »\net la secrétaire d’Etat auprès du ministre de l’agriculture, de la pêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime\n(art.9 du décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008))",
+        ""
+      ],
+      [
+        "Nom du bénéficiaire :",
+        "Société « WEST LEOCEANIC Sarl AU »\n46 Boulevard Zerktouni, étage 2 Appartement 6, Casablanca."
+      ],
+      [
+        "Durée de la Convention :",
+        "Dix (10) ans, renouvelable"
+      ],
+      [
+        "Lieu d’implantation de la ferme aquacole :\nSuperficie :\nLimites externes d’implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :",
+        "En mer, au large de Cintra, Province d’Oued Eddahab.\nDeux (2) hectares.\nBornes Latitude Longitude\nB1 23° 5' 15,072'' N 16° 11' 23,244'' W\nB2 23° 5' 9,708'' N 16° 11' 27,384'' W\nB3 23° 5' 11,508'' N 16° 11' 30,264'' W\nB4 23° 5' 16,836'' N 16° 11' 26,088'' W\nLargeur de dix (10) mètres autour des limites extérieures d’implantation de la ferme\naquacole.\nde jour et de nuit au moyen de signaux conformes à la réglementation relative à la\nsécurité de la navigation."
+      ],
+      [
+        "Activité de la ferme aquacole :\nTechnique utilisée :\nMoyens d’exploitation :",
+        "Élevage des espèces halieutiques suivantes :\n– la moule des espèces «Mytilus galloprovincialis» et «Perna perna» ;\n– l’huître creuse «Crassostrea gigas».\n– Pour les moules, la technique des filières ;\n– Pour l’huître creuse, poches australiennes et/ou cages ostréicoles.\nNavires de servitude."
+      ],
+      [
+        "Contrôle et suivi technique et scientifique :\nSurveillance environnementale :\nGestion des déchets :",
+        "L’Administration de la pêche maritime et l’Institut national de recherche halieutique\n(INRH).\nSelon le programme prévu dans l’étude d’impact sur l’environnement.\nEnfouissement et stockage dans des lieux autorisés à cet effet, conformément à la\nloi n°28-00 relative à la gestion des déchets et à leur élimination."
+      ],
+      [
+        "Montant de la redevance due :",
+        "‑ droit fixe : mille (1000) dirhams par an.\n‑ droit variable : 1/1000 de la valeur des espèces vendues."
+      ]
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      248.6338,
+      302.2219,
+      554.7755,
+      362.8331
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Bornes",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "B1",
+        "23° 5' 15,072'' N",
+        "16° 11' 23,244'' W"
+      ],
+      [
+        "B2",
+        "23° 5' 9,708'' N",
+        "16° 11' 27,384'' W"
+      ],
+      [
+        "B3",
+        "23° 5' 11,508'' N",
+        "16° 11' 30,264'' W"
+      ],
+      [
+        "B4",
+        "23° 5' 16,836'' N",
+        "16° 11' 26,088'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      24.344500000000004,
+      153.33359999999993,
+      570.9310999999999,
+      618.8837
+    ],
+    "n_rows": 7,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Extrait de la convention de création et d'exploitation de la ferme aquacole dénommée «Pro Aquaculture Company» n° 2024/\nDOE/524 signée le 12 ramadan 1446 (13 mars 2025) entre la société «PRO AQUACULTURE COMPANY Sarl» et la secrétaire\nd’Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche\nmaritime\n(art.9 du décret n°2-08-562 du 13 hija1429 (12 décembre 2008))",
+        ""
+      ],
+      [
+        "Nom du bénéficiaire",
+        "Société «PRO AQUACULTURE COMPANY Sarl»\nHay Salam Rue 30 Boukraa n° 22 - Dakhla."
+      ],
+      [
+        "Durée de la Convention",
+        "Dix (10) ans, renouvelable"
+      ],
+      [
+        "Lieu d’implantation de la ferme aquacole :\nSuperficie :\nLimites externes d’implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :",
+        "En mer, au large de Cintra, Province d’Oued Eddahab\nDeux (2) hectares.\nBornes Latitude Longitude\nB1 23° 5' 26.168'' N 16° 10' 50.101'' W\nB2 23° 5' 21.857'' N 16° 10' 50.595'' W\nB3 23° 5' 22.370'' N 16° 10' 55.838'' W\nB4 23° 5' 26.682'' N 16° 10' 55.344'' W\nLargeur de dix (10) mètres autour des limites extérieures d’implantation de la\nferme aquacole\nde jour et de nuit au moyen de signaux conformes à la réglementation relative à la\nsécurité de la navigation"
+      ],
+      [
+        "Activité de la ferme aquacole\nTechnique utilisée :\nMoyens d’exploitation :",
+        "Élevage de l’huître creuse «Crassostrea gigas».\nPoches sur tables.\nNavires de servitude."
+      ],
+      [
+        "Contrôle et suivi technique et scientifique\nSurveillance environnementale :\nGestion des déchets :",
+        "L’Administration de la pêche maritime et l’Institut national de recherche halieutique\n(INRH).\nSelon le programme prévu dans l’étude d’impact sur l’environnement.\nEnfouissement et stockage dans des lieux autorisés à cet effet, conformément à la\nloi n°28-00 relative à la gestion des déchets et à leur élimination."
+      ],
+      [
+        "Montant de la redevance due :",
+        "- droit fixe : mille (1000) dirhams par an.\n- droit variable : 1/1000 de la valeur des espèces vendues."
+      ]
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      271.3128,
+      320.89,
+      543.7128,
+      380.65479999999997
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Bornes",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "B1",
+        "23° 5' 26.168'' N",
+        "16° 10' 50.101'' W"
+      ],
+      [
+        "B2",
+        "23° 5' 21.857'' N",
+        "16° 10' 50.595'' W"
+      ],
+      [
+        "B3",
+        "23° 5' 22.370'' N",
+        "16° 10' 55.838'' W"
+      ],
+      [
+        "B4",
+        "23° 5' 26.682'' N",
+        "16° 10' 55.344'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      24.344500000000004,
+      153.33359999999993,
+      570.9310999999999,
+      726.5798
+    ],
+    "n_rows": 7,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Extrait de la convention de création et d'exploitation de la ferme aquacole dénommée «Algues Epicuriennes» n° 2024/ORI/520\nsignée le 19 ramadan 1446 (20 mars 2025) entre la société «ALGUES EPICURIENNES Sarl AU» et la secrétaire d’Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime\n(art.9 du décret n°2-08-562 du 13 hija 1429 (12 décembre 2008))",
+        ""
+      ],
+      [
+        "Nom du bénéficiaire",
+        "Société «ALGUES EPICURIENNES Sarl AU»\n15 AV Al Abtal Appt N° 4, Agdal, Rabat"
+      ],
+      [
+        "Durée de la Convention",
+        "Dix (10) ans, renouvelable"
+      ],
+      [
+        "Lieu d’implantation de la ferme aquacole :\nSuperficie :\nLimites externes d’implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :",
+        "Au niveau de la lagune Marchica, au large de la commune de Bouareg, province\nde Nador.\nSeize (16) hectares\nBornes Latitude Longitude\nB1 35°7'42.157'' N 2°51'5.228'' W\nB2 35°7'35.275'' N 2°50'51.835'' W\nB3 35°7'24.272'' N 2°51'0.212'' W\nB4 35°7'31.154'' N 2°51'13.604'' W\nLargeur de cinquante (50) mètres autour des limites extérieures d’implantation de\nla ferme aquacole\nde jour et de nuit au moyen de signaux conformes à la réglementation relative à\nla sécurité de la navigation"
+      ],
+      [
+        "Activité de la ferme aquacole\nTechnique utilisée :\nMoyens d’exploitation :",
+        "Culture des espèces halieutiques suivantes :\n– «Gracilaria gracilis» ;\n– «Laminaria ochroleuca» ;\n– «Gelidium sesquipedale» ;\n– «Saccorhiza polyschides» ;\n– «Grateloupia filicina» ;\n– «Codium tomentosum» ;\n– «Ulva lactuca» ;\n– «Cystoseira tamariscifolia».\nLa technique des filières\nNavires de servitude"
+      ],
+      [
+        "Contrôle et suivi technique et scientifique\nSurveillance environnementale :\nGestion des déchets :",
+        "L’Administration de la pêche maritime et l’Institut national de recherche halieutique\n(INRH)\nSelon le programme prévu dans l’étude d’impact sur l’environnement ;\nEnfouissement et stockage dans des lieux autorisés à cet effet, conformément à la\nloi n°28-00 relative à la gestion des déchets et à leur élimination."
+      ],
+      [
+        "Montant de la redevance due :",
+        "-droit fixe : Cent soixante (160) dirhams par an\n-droit variable : 1/1000 de la valeur des espèces vendues."
+      ]
+    ]
+  },
+  {
+    "page_number": 25,
+    "bbox": [
+      250.2638,
+      323.48609999999996,
+      554.9638,
+      383.25079999999997
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Bornes",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "B1",
+        "35°7'42.157'' N",
+        "2°51'5.228'' W"
+      ],
+      [
+        "B2",
+        "35°7'35.275'' N",
+        "2°50'51.835'' W"
+      ],
+      [
+        "B3",
+        "35°7'24.272'' N",
+        "2°51'0.212'' W"
+      ],
+      [
+        "B4",
+        "35°7'31.154'' N",
+        "2°51'13.604'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      24.344500000000004,
+      153.33359999999993,
+      570.9310999999999,
+      594.6373
+    ],
+    "n_rows": 7,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Extrait de la convention de création et d'exploitation de la ferme aquacole dénommée «La Perle Aquaculture» n° 2024/DOE/527\nsignée le 28 hija 1446 (25 juin 2025) entre la société «LA PERLE AQUACULTURE Sarl» et la secrétaire d’Etat auprès du\nministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime\n(art.9 du décret n°2-08-562 du 13 hija1429 (12 décembre 2008))",
+        ""
+      ],
+      [
+        "Nom du bénéficiaire",
+        "Société «LA PERLE AQUACULTURE Sarl»\nHay Ennahda N°1616 N°01- Dakhla."
+      ],
+      [
+        "Durée de la Convention",
+        "Dix (10) ans, renouvelable"
+      ],
+      [
+        "Lieu d’implantation de la ferme aquacole :\nSuperficie :\nLimites externes d’implantation de la ferme aquacole :\nZone de protection :\nSignalement en mer :",
+        "En mer, au large de Cintra, Province d’Oued Eddahab\nDeux (02) hectares.\nBornes Latitude Longitude\nB1 23° 5' 12.061'' N 16° 10' 13.002'' W\nB2 23° 5' 8.366'' N 16° 10' 7.217'' W\nB3 23° 5' 5.690'' N 16° 10' 9.214'' W\nB4 23° 5' 9.385'' N 16° 10' 14.999'' W\nLargeur de dix (10) mètres autour des limites extérieures d’implantation de la\nferme aquacole\nde jour et de nuit au moyen de signaux conformes à la réglementation relative à\nla sécurité de la navigation"
+      ],
+      [
+        "Activité de la ferme aquacole\nTechnique utilisée :\nMoyens d’exploitation :",
+        "Élevage de l’huître creuse «Crassostrea gigas».\nPoches sur tables.\nNavires de servitude."
+      ],
+      [
+        "Contrôle et suivi technique et scientifique\nSurveillance environnementale :\nGestion des déchets :",
+        "L’Administration de la pêche maritime et l’Institut national de recherche\nhalieutique (INRH).\nSelon le programme prévu dans l’étude d’impact sur l’environnement.\nEnfouissement et stockage dans des lieux autorisés à cet effet, conformément à la\nloi n°28-00 relative à la gestion des déchets et à leur élimination."
+      ],
+      [
+        "Montant de la redevance due :",
+        "- droit fixe : mille (1000) dirhams par an.\n- droit variable : 1/1000 de la valeur des espèces vendues."
+      ]
+    ]
+  },
+  {
+    "page_number": 27,
+    "bbox": [
+      271.3128,
+      313.0553,
+      543.7128,
+      372.82009999999997
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Bornes",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "B1",
+        "23° 5' 12.061'' N",
+        "16° 10' 13.002'' W"
+      ],
+      [
+        "B2",
+        "23° 5' 8.366'' N",
+        "16° 10' 7.217'' W"
+      ],
+      [
+        "B3",
+        "23° 5' 5.690'' N",
+        "16° 10' 9.214'' W"
+      ],
+      [
+        "B4",
+        "23° 5' 9.385'' N",
+        "16° 10' 14.999'' W"
+      ]
+    ]
+  }
+]
