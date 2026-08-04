@@ -288,7 +288,7 @@ def make_trainer(model, train_ds, eval_ds, class_weights, out_dir):
             weight_decay=0.01,
             save_strategy="no",
             logging_strategy="no",
-            eval_strategy="epoch",
+            eval_strategy="epoch" if eval_ds is not None else "no",
             report_to="none",
             seed=SEED),
         train_dataset=train_ds, eval_dataset=eval_ds,
