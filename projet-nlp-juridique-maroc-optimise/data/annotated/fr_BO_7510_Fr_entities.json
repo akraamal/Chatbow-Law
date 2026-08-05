@@ -7870,7 +7870,7 @@
   "total_pdf_pages": 32,
   "instruments": [
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "835-26",
       "article_indices": [
         3,
@@ -7881,7 +7881,23 @@
       "article_ids": [
         "art_835_26_1",
         "art_835_26_2"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 835-26",
+      "title": "Arrêté conjoint du ministre de l'industrie et du commerce et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime fixant le niveau de représentativité des organisations professionnelles requis pour la constitution de l'interprofession de la filière de poissons et de la crevette issue de l'aquaculture marine.",
+      "date_hijri": "2 kaada 1447",
+      "date_gregorian": "2026-04-20",
+      "signatories": [
+        "RYAD MEZZOUR",
+        "ZAKIA DRIOUICH"
+      ],
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.726,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7893,7 +7909,20 @@
       "instrument_id": "instr_936_26",
       "article_ids": [
         "art_936_26_1"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 936-26",
+      "title": "Arrêté de la ministre de l'économie et des finances modifaint et complétant l'arrêté du ministre délégué auprès du Chef du gouvernement, chargé des affaires générales et de la gouvernance n° 1242-16 du 17 rejeb 1437 (25 avril 2016) relatif à la fixation des prix de reprise et de vente du gaz butane.",
+      "date_hijri": "20 kaada 1447",
+      "date_gregorian": "2026-05-08",
+      "signatory": "NADIA FETTAH",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.677,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE_CONJOINT",
@@ -7913,10 +7942,26 @@
         "art_180_26_3",
         "art_180_26_4",
         "art_180_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 180-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de",
+      "date_hijri": "1er chaabane 1447",
+      "date_gregorian": "2026-01-21",
+      "signatories": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.678,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "181-26",
       "article_indices": [
         11,
@@ -7933,10 +7978,26 @@
         "art_181_26_3",
         "art_181_26_4",
         "art_181_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 181-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société « ZNIBER SEAFARM Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée « Zniber Seafarm » et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "1er chaabane 1447",
+      "date_gregorian": "2026-01-21",
+      "signatories": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.71,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "182-26",
       "article_indices": [
         16,
@@ -7953,10 +8014,26 @@
         "art_182_26_3",
         "art_182_26_4",
         "art_182_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 182-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société « EXTRAMER Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée « Extramer » et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "1er chaabane 1447",
+      "date_gregorian": "2026-01-21",
+      "signatories": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.704,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "183-26",
       "article_indices": [
         21,
@@ -7973,10 +8050,26 @@
         "art_183_26_3",
         "art_183_26_4",
         "art_183_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 183-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société « IMAR AQUA Sarl » pour la création et l'exploitation d'une ferme aquacole dénommée « Imar Aqua » et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "1er chaabane 1447",
+      "date_gregorian": "2026-01-21",
+      "signatories": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.698,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "184-26",
       "article_indices": [
         26,
@@ -7993,10 +8086,26 @@
         "art_184_26_3",
         "art_184_26_4",
         "art_184_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 184-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société « AQUADUNE Sarl » pour la création et l'exploitation d'une ferme aquacole dénommée « Aquadune Algoculture » et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "1er chaabane 1447",
+      "date_gregorian": "2026-01-21",
+      "signatories": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.705,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "185-26",
       "article_indices": [
         31,
@@ -8013,7 +8122,23 @@
         "art_185_26_3",
         "art_185_26_4",
         "art_185_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 185-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société « AQUADUNE Sarl » pour la création et l'exploitation d'une ferme aquacole dénommée « Aquadune Pisciculture » et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "1er chaabane 1447",
+      "date_gregorian": "2026-01-21",
+      "signatories": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.71,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8027,7 +8152,19 @@
       "article_ids": [
         "art_405_26_1",
         "art_405_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 405-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8041,7 +8178,19 @@
       "article_ids": [
         "art_406_26_1",
         "art_406_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 406-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.418,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8055,7 +8204,19 @@
       "article_ids": [
         "art_407_26_1",
         "art_407_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 407-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8069,7 +8230,19 @@
       "article_ids": [
         "art_408_26_1",
         "art_408_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 408-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.418,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8083,7 +8256,19 @@
       "article_ids": [
         "art_409_26_1",
         "art_409_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 409-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8097,7 +8282,19 @@
       "article_ids": [
         "art_410_26_1",
         "art_410_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 410-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2189-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en cardiologie.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.432,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8111,7 +8308,19 @@
       "article_ids": [
         "art_411_26_1",
         "art_411_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 411-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8125,7 +8334,19 @@
       "article_ids": [
         "art_412_26_1",
         "art_412_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 412-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8139,7 +8360,19 @@
       "article_ids": [
         "art_413_26_1",
         "art_413_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 413-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2340-03 du 23 chaoual 1424 (18 décembre 2003) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en neurologie.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.444,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8151,7 +8384,19 @@
       "instrument_id": "instr_414_26",
       "article_ids": [
         "art_414_26_1"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 414-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8165,7 +8410,19 @@
       "article_ids": [
         "art_415_26_1",
         "art_415_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 415-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2075-09 du 11 chaabane 1430 (3 août 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en endocrinologie et maladies métaboliques.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.425,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8179,7 +8436,19 @@
       "article_ids": [
         "art_416_26_1",
         "art_416_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 416-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8193,7 +8462,19 @@
       "article_ids": [
         "art_417_26_1",
         "art_417_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 417-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8207,7 +8488,19 @@
       "article_ids": [
         "art_418_26_1",
         "art_418_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 418-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en radiologie.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.436,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8221,7 +8514,19 @@
       "article_ids": [
         "art_419_26_1",
         "art_419_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 419-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 1482-04 du 24 joumada II 1425 (11 août 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en traumatologie-orthopédie.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.398,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8235,7 +8540,19 @@
       "article_ids": [
         "art_420_26_1",
         "art_420_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 420-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en radiologie.",
+      "date_hijri": "2 ramadan 1447",
+      "date_gregorian": "2026-02-20",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.43,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -8249,10 +8566,22 @@
       "article_ids": [
         "art_689_26_1",
         "art_689_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 689-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2189-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en cardiologie.",
+      "date_hijri": "13 chaoual 1447",
+      "date_gregorian": "2026-04-01",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.437,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "752-26",
       "article_indices": [
         69,
@@ -8263,10 +8592,26 @@
       "article_ids": [
         "art_752_26_1",
         "art_752_26_2"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 752-26",
+      "title": "Arrêté conjoint de la ministre de la transition énergétique et du développement durable et de la ministre de l'économie et des finances approuvant l'avenant n° 3 à l'accord pétrolier « LIXUS OFFSHORE » conclu le 11 joumada II 1447 (2 décembre 2025), entre l'Office national des hydrocarbures et des mines et les sociétés « CHARIOT OIL & GAS HOLDINGS (MOROCCO) LIMITED » et « CHARIOT OFFSHORE GAS LIMITED » (ex. ENERGEAN MOROCCO LIMITED).",
+      "date_hijri": "15 chaoual 1447",
+      "date_gregorian": "2026-04-03",
+      "signatories": [
+        "NADIA FETTAH",
+        "LEILA BENALI"
+      ],
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.594,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "753-26",
       "article_indices": [
         71,
@@ -8277,7 +8622,23 @@
       "article_ids": [
         "art_753_26_1",
         "art_753_26_2"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 753-26",
+      "title": "Arrêté conjoint de la ministre de la transition énergétique et du développement durable et de la ministre de l'économie et des finances approuvant l'accord pétrolier « GHARB DEEP OFFSHORE » conclu le 2 chaabane 1447 (22 janvier 2026), entre l'Office national des hydrocarbures et des mines et la société « MURPHY MOROCCO OIL CO.,LTD ».",
+      "date_hijri": "15 chaoual 1447",
+      "date_gregorian": "2026-04-03",
+      "signatories": [
+        "NADIA FETTAH",
+        "LEILA BENALI"
+      ],
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.61,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -8293,7 +8654,20 @@
         "art_01_26_1",
         "art_01_26_2",
         "art_01_26_3"
-      ]
+      ],
+      "type": "DECISION",
+      "reference_label": "décision n° 01.26",
+      "title": "Décision du Conseil de l'Autorité de contrôle des assurances et de la prévoyance sociale n° P/EA/01.26 du 6 chaoual 1447 (25 mars 2026) portant octroi d'agrément à l'entreprise d'assurances et de réassurance « Mutuelle centrale marocaine d'assurances ». LE CONSEIL DE L'AUTORITÉ DE CONTRÔLE DES ASSURANCES ET DE LA PRÉVOYANCE SOCIALE,",
+      "date_hijri": "6 chaoual 1447",
+      "date_gregorian": "2026-03-25",
+      "signatory": "ABDERRAHIM CHAFFAI",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.539,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -8323,7 +8697,20 @@
         "art_02_26_8",
         "art_02_26_9",
         "art_02_26_10"
-      ]
+      ],
+      "type": "DECISION",
+      "reference_label": "décision n° 02.26",
+      "title": "Décision du Conseil de l'Autorité de contrôle des assurances et de la prévoyance sociale n° P/EA/02.26 du 6 chaoual 1447 (25 mars 2026) portant octroi d'agrément à l'entreprise d'assurances « Mutuelle Attamine Chaabi ». LE CONSEIL DE L'AUTORITÉ DE CONTRÔLE DES ASSURANCES ET DE LA PRÉVOYANCE SOCIALE,",
+      "date_hijri": "6 chaoual 1447",
+      "date_gregorian": "2026-03-25",
+      "signatory": "AZ-EL ARABE HASSIBI",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.565,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     }
   ],
   "n_instruments": 29

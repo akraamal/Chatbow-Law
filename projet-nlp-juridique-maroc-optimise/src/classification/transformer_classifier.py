@@ -122,13 +122,22 @@ class TransformerDomainClassifier:
 
 
 def _resolve_model_dir(model_dir: str):
-    """Cherche le modèle, en relatif au CWD ou au racine du dépôt."""
+    """Cherche le modèle, en relatif au CWD ou au racine du dépôt.
+
+    Accepte aussi un répertoire parent dont un sous-dossier contient le
+    modèle (ex. `models/domain_classifier` → `models/domain_classifier/
+    domain_classifier_fr_ar/config.json`).
+    """
     from pathlib import Path
 
     for base in (Path.cwd(), Path(__file__).resolve().parents[2]):
         candidate = base / model_dir
         if (candidate / "config.json").is_file():
             return candidate
+        # Recherche dans les sous-dossiers immédiats (une seule profondeur)
+        if candidate.is_dir():
+            for sub in sorted(candidate.glob("*/config.json")):
+                return sub.parent
     return None
 
 

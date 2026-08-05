@@ -350,10 +350,15 @@ def _classify_instrument_type(articles: list[dict], preamble_context: str = "") 
         if m:
             return _AR_TYPE_MAP[m.group(0).strip()]
 
-    # Find all TYPE + n° matches
+    # Find all TYPE + n° matches. The type keyword and the number may be
+    # separated by the instrument's own title (e.g. "Arrêté conjoint du
+    # ministre délégué auprès de la ministre de l'économie et des
+    # finances, chargé du budget  et de la secrétaire d'Etat ... n° 181-26")
+    # so allow a bounded gap between the keyword and the "n°" (mirroring
+    # the AR title regex which uses [\s\S]{0,160}).
     matches = list(re.finditer(
         r"(DÉCRET|ARR[EÊ]T[EÉ](?:\s+CONJOINT)?|DAHIR|CIRCULAIRE|D[ÉE]CISION)"
-        r"\s+N[°o]\s*\d",
+        r"(?:[\s\S]{0,160}?)N[°o]\s*\d",
         preamble_upper,
     ))
     if matches:
@@ -395,6 +400,16 @@ def _classify_instrument_type(articles: list[dict], preamble_context: str = "") 
         # enactment keyword (DÉCRÈTE / ARRÊTE / ...) in the preamble.
         # This handles subsequent instruments where the preamble is
         # embedded in the preceding article without a TYPE+n° heading.
+        # A "conjoint" heading still wins over the enactment keyword
+        # (e.g. "Vu l'arrêté conjoint du ministre ..." cited inside the
+        # preamble of the following instrument). Only the heading region
+        # (before the first Vu clause) counts — a cited "arrêté conjoint"
+        # inside a Vu clause must NOT reclassify a single arrêté.
+        heading_region = preamble_upper
+        if first_vu != -1:
+            heading_region = preamble_upper[:first_vu]
+        if re.search(r"\bARR[EÊ]T[EÉ]\s+CONJOINT\b", heading_region):
+            return "ARRETE_CONJOINT"
         enactment_map = {
             "DÉCRÈTE": "DECRET",
             "ARRÊTE": "ARRETE",
@@ -715,8 +730,6 @@ def _group_into_instruments(
         instruments = merged
 
         _assign_stable_ids(instruments, articles)
-        for instr in instruments:
-            instr.pop("_preamble", None)  # internal field, not for output
         return instruments
 
     # Strategy 2: fallback heuristic (reset-to-1 / PREMIER)
@@ -787,7 +800,237 @@ def _make_instrument(
         "reference": ref,
         "article_indices": list(range(start_idx, end_idx)),
         "n_articles": end_idx - start_idx,
+        "_preamble": preamble_context,
     }
+
+
+# ── Priority 4: instrument schema enrichment (toward schema_optimal_v2) ──
+
+_TYPE_LABELS = {
+    "DAHIR": "dahir",
+    "DECRET": "décret",
+    "LOI": "loi",
+    "ARRETE": "arrêté",
+    "ARRETE_CONJOINT": "arrêté conjoint",
+    "DECISION": "décision",
+    "CIRCULAIRE": "circulaire",
+}
+
+# Dates "du 20 kaada 1447 (8 mai 2026)" — hijri puis grégorienne entre
+# parenthèses, typiquement juste après le numéro propre de l'instrument.
+_INSTR_DATE_RE = re.compile(
+    r"\bdu\s+(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{3,4})\s*\(\s*"
+    r"(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{4})\s*\)",
+    re.IGNORECASE,
+)
+
+_MONTHS_FR_ISO = {
+    "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4, "mai": 5,
+    "juin": 6, "juillet": 7, "août": 8, "aout": 8, "septembre": 9,
+    "octobre": 10, "novembre": 11, "décembre": 12, "decembre": 12,
+}
+
+_SIGNATORY_LINE_RE = re.compile(r"^\s*([A-ZÀ-ÖØ-Þ][A-ZÀ-ÖØ-Þ'\-\s]{2,})\.\s*$")
+
+
+def _fr_date_to_iso(text: str) -> str | None:
+    """Convertit '8 mai 2026' -> '2026-05-08' (ou None)."""
+    m = re.match(r"^(\d{1,2})(?:er)?\s+([\wà-ÿ]+)\s+(\d{4})$", text.strip(), re.IGNORECASE)
+    if not m:
+        return None
+    day, month_name, year = int(m.group(1)), m.group(2).lower(), m.group(3)
+    month = _MONTHS_FR_ISO.get(month_name)
+    if not month or not 1 <= day <= 31:
+        return None
+    return f"{year}-{month:02d}-{day:02d}"
+
+
+def _instrument_title(preamble: str, instr_type: str, reference: str | None) -> str | None:
+    """
+    Titre de l'instrument = en-tête du préambule (avant le premier
+    « Vu »/« Considérant »), sans le numéro propre ni sa date.
+    Ex. « Arrêté de la ministre de l'économie et des finances modifiant et
+    complétant l'arrêté n° 1242-16 relatif à la fixation des prix de
+    reprise et de vente du gaz butane ».
+    """
+    if not preamble:
+        return None
+    heading = preamble
+    cut = len(heading)
+    for marker in ("\nVu ", "\nVu le", "\nVu la", "\nConsidérant", "\nLE MINISTRE", "\nLA MINISTRE"):
+        idx = heading.upper().find(marker.upper())
+        if idx != -1 and idx < cut:
+            cut = idx
+    heading = heading[:cut]
+    if not heading.strip():
+        return None
+    # retire le numéro propre « n° 936-26 du 20 kaada 1447 (8 mai 2026) »
+    if reference:
+        ref_pat = re.sub(r"[-–—.]", "[-–—.]", reference)
+        heading = re.sub(
+            r"\s*N\s*[°º]\s*" + ref_pat +
+            r"\s*DU\s+\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{3,4}\s*\(\s*\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{4}\s*\)",
+            " ",
+            heading,
+            flags=re.IGNORECASE,
+        )
+    title = re.sub(r"\s+", " ", heading).strip(" -–")
+    return title or None
+
+
+def _instrument_dates(preamble: str, reference: str | None,
+                      article_texts: list[str] | None = None
+                      ) -> tuple[str | None, str | None]:
+    """
+    (date_hijri, date_gregorian_iso) de l'instrument, extraites de son
+    en-tête : « n° 936-26 du 20 kaada 1447 (8 mai 2026) ».
+    """
+    def _search(text: str, anchored: bool):
+        heading = re.sub(r"\s+", " ", text)
+        for marker in ("Vu ", "Considérant", "Vu le", "Vu la"):
+            idx = heading.upper().find(marker.upper())
+            if idx != -1:
+                heading = heading[:idx]
+                break
+        if anchored and reference:
+            # Ancre sur le numéro propre de l'instrument pour éviter de
+            # capturer la date d'un instrument cité (« n° 3151-13 du … »).
+            ref_pat = re.sub(r"[-–—.]", "[-–—.]", reference)
+            return re.search(
+                r"\bN\s*[°º]\s*" + ref_pat +
+                r"\s*du\s+(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{3,4})\s*\(\s*"
+                r"(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{4})\s*\)",
+                heading,
+                re.IGNORECASE,
+            )
+        return _INSTR_DATE_RE.search(heading)
+
+    if preamble:
+        m = _search(preamble, anchored=False)
+        if m:
+            return m.group(1).strip(), _fr_date_to_iso(m.group(2))
+    # Repli : la ligne « n° … du … » peut manquer dans le préambule stocké
+    # (ex. BO_7510 instr_180_26) mais figurer dans les articles (annexe).
+    if reference:
+        texts = [re.sub(r"\s+", " ", t) for t in (article_texts or [])]
+        for t in texts:
+            m = _search(t, anchored=True)
+            if m:
+                return m.group(1).strip(), _fr_date_to_iso(m.group(2))
+    return None, None
+
+
+def _instrument_signatories(articles: list[dict]) -> list[str]:
+    """
+    Noms des signataires : lignes en MAJUSCULES terminées par un point
+    dans la zone de signature (fin du texte du dernier article de
+    l'instrument), typiquement après « Rabat, le … ».
+    Ex. « NADIA FETTAH. » ou « FOUZI LEKJAA. » + « ZAKIA DRIOUICH. ».
+    """
+    # Parcourt les articles du plus récent au plus ancien et garde le
+    # premier article qui contient une signature (la signature n'est pas
+    # toujours dans le TOUT dernier article — ex. l'annexe le suit).
+    for art in reversed(articles):
+        text = art.get("text", "") or ""
+        if not text.strip():
+            continue
+        tail = text[-800:]
+        lines = tail.splitlines()
+        names: list[str] = []
+        for line in reversed(lines):
+            m = _SIGNATORY_LINE_RE.match(line)
+            if m:
+                names.append(m.group(1).strip())
+        if names:
+            names.reverse()
+            return names
+    return []
+
+
+def _instrument_domain(text: str, lang: str = "fr") -> dict | None:
+    """Domaine de l'instrument via le classifieur (transformer si dispo,
+    repli mots-clés sinon), aligné sur le bloc `domain` du schéma."""
+    try:
+        from src.classification.transformer_classifier import TransformerDomainClassifier
+        if not hasattr(_instrument_domain, "_clf"):
+            _instrument_domain._clf = TransformerDomainClassifier()
+        clf = _instrument_domain._clf
+    except Exception:
+        return None
+    try:
+        scores = clf.classify_text_with_scores(text, lang)
+    except Exception:
+        return None
+    if not scores:
+        return None
+    label = max(scores, key=scores.get)
+    return {
+        "label": label,
+        "confidence": round(float(scores[label]), 3),
+        "method": "fine_tuned_model" if clf.available else "keyword_baseline",
+        "model_id": getattr(clf, "_model_dir", None) or "camembert-legal-domain-v1",
+        "fallback_used": not clf.available,
+    }
+
+
+def _enrich_instrument_schema(
+    instruments: list[dict],
+    articles: list[dict],
+    lang: str = "fr",
+) -> list[dict]:
+    """
+    Enrichit chaque instrument avec les champs du schéma optimal v2
+    (docs/reference/schema_optimal_v2_reel.json) :
+      type, reference_label, title, date_hijri, date_gregorian,
+      signatory/signatories, domain.
+    Ajouts rétrocompatibles : les champs existants (instrument_type,
+    reference, article_indices, article_ids) sont conservés tels quels.
+    """
+    for instr in instruments:
+        instr_type = instr.get("instrument_type", "")
+        ref = instr.get("reference")
+        preamble = instr.get("_preamble", "") or ""
+
+        instr["type"] = instr_type
+        if ref:
+            label = _TYPE_LABELS.get(instr_type, "")
+            instr["reference_label"] = (
+                f"{label} n° {ref}" if label else f"n° {ref}"
+            )
+
+        title = _instrument_title(preamble, instr_type, ref)
+        if title:
+            instr["title"] = title
+
+        hijri, greg = _instrument_dates(
+            preamble,
+            ref,
+            article_texts=[articles[i].get("text", "") or ""
+                           for i in instr.get("article_indices", [])],
+        )
+        if hijri:
+            instr["date_hijri"] = hijri
+        if greg:
+            instr["date_gregorian"] = greg
+
+        idxs = instr.get("article_indices", [])
+        signatories = _instrument_signatories(
+            [articles[i] for i in idxs if 0 <= i < len(articles)]
+        )
+        if len(signatories) == 1:
+            instr["signatory"] = signatories[0]
+        elif len(signatories) > 1:
+            instr["signatories"] = signatories
+
+        domain_text = " ".join(
+            [preamble] + [articles[i].get("text", "") for i in idxs if 0 <= i < len(articles)]
+        ).strip()
+        if domain_text:
+            domain = _instrument_domain(domain_text, lang)
+            if domain:
+                instr["domain"] = domain
+
+    return instruments
 
 
 # ── Main ─────────────────────────────────────────────────────────────────
@@ -849,6 +1092,11 @@ def enrich_json(
             preamble_text=data.get("preamble_text", ""),
             decrees=data.get("decrees"),
         )
+        instruments = _enrich_instrument_schema(
+            instruments, data["articles"], lang=data.get("lang", "fr")
+        )
+        for instr in instruments:
+            instr.pop("_preamble", None)  # internal field, not for output
         data["instruments"] = instruments
         data["n_instruments"] = len(instruments)
         print(f"    {len(instruments)} instruments detected")

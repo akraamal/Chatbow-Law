@@ -1,0 +1,191 @@
+{
+  "document_id": "BO_7510_Fr",
+  "source": {
+    "filename": "BO_7510_Fr.pdf",
+    "bulletin_officiel_number": "7510",
+    "publication_date_gregorian": "2026-05-21",
+    "publication_date_hijri": "4 hija 1447",
+    "edition_label": "Cent-quinzième année - Edition de traduction officielle",
+    "language_declared": "fr",
+    "total_pdf_pages": 32,
+    "ingestion": {
+      "extraction_method": "native_text",
+      "pipeline_version": "adli-2026.08.01",
+      "column_layout": "single_column_two_up",
+      "known_open_bugs": [
+        "article_text_block_interleaving: preamble ('Vu ...') lines and dispositif lines are zipped line-by-line inside article.text, breaking list continuity (see art_181_26_1)",
+        "citation_misresolution: citations resolve to a nearby entity that is not the textually-correct antecedent, likely a side-effect of the interleaving above (see art_181_26_1)",
+        "table_loss: pdfplumber-extracted tables are not merged into any article; no 'table' key exists anywhere in the current pipeline output for this document (see art_936_26_1)"
+      ]
+    }
+  },
+
+  "instruments": [
+    {
+      "instrument_id": "instr_936_26",
+      "type": "ARRETE",
+      "reference": "arrêté n° 936-26",
+      "title": "Arrêté de la ministre de l'économie et des finances modifiant et complétant l'arrêté n° 1242-16 relatif à la fixation des prix de reprise et de vente du gaz butane",
+      "date_hijri": "20 kaada 1447",
+      "date_gregorian": "2026-05-08",
+      "signatory": "NADIA FETTAH",
+      "article_ids": ["art_936_26_1", "art_936_26_2"],
+      "domain": {
+        "label": "Énergie et prix réglementés",
+        "confidence": 0.9,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
+    },
+    {
+      "instrument_id": "instr_181_26",
+      "type": "ARRETE_CONJOINT",
+      "reference": "arrêté conjoint n° 181-26",
+      "title": "Arrêté conjoint autorisant la société « ZNIBER SEAFARM Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée « Zniber Seafarm »",
+      "date_hijri": "1er chaabane 1447",
+      "date_gregorian": "2026-01-21",
+      "signatories": ["FOUZI LEKJAA", "ZAKIA DRIOUICH"],
+      "article_ids": ["art_181_26_1", "art_181_26_2", "art_181_26_3", "art_181_26_4"],
+      "domain": {
+        "label": "Pêche maritime et aquaculture",
+        "confidence": 0.93,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
+    }
+  ],
+
+  "articles": [
+    {
+      "article_id": "art_936_26_1",
+      "number": "PREMIER",
+      "instrument_id": "instr_936_26",
+      "pdf_page": 6,
+      "printed_page": 926,
+      "language": "fr",
+
+      "text_raw": "L'article 3 de l'arrêté visé ci-dessus n° 1242-16 du 17 rejeb 1437 (25 avril 2016) est modifié et complété ainsi que suit :\n« Article 3. – Les prix de vente de base maxima au détail « du gaz butane …………………………et incluent notamment :\n« Les frais et marges d'emplissage, de distribution en « gros et au détail fixés respectivement comme suit :",
+      "text_clean": "L'article 3 de l'arrêté visé ci-dessus n° 1242-16 du 17 rejeb 1437 (25 avril 2016) est modifié et complété ainsi que suit :\n« Article 3. – Les prix de vente de base maxima au détail du gaz butane et incluent notamment : les frais et marges d'emplissage, de distribution en gros et au détail fixés respectivement comme suit :\n\n[Tableau : Frais et marges d'emplissage/distribution du gaz butane]\nConditionnement: Frais et marge des sociétés de distribution | Charges supérieures à 5 kg (DH/TM): 619,00 | Charges inférieures à 5 kg (DH/TM): 553,00\nConditionnement: Frais et marges des dépositaires | Charges supérieures à 5 kg (DH/TM): 510,00 | Charges inférieures à 5 kg (DH/TM): 467,50\nConditionnement: Marges détaillants | Charges supérieures à 5 kg (DH/TM): 255,00 | Charges inférieures à 5 kg (DH/TM): 205,83",
+
+      "entities": [
+        { "id": "ent_1", "text": "arrêté", "label": "ARRETE", "normalized": { "type": "arrete", "number": "1242-16" } },
+        { "id": "ent_2", "text": "17 rejeb 1437", "label": "DATE_HIJRI", "normalized_iso": null },
+        { "id": "ent_3", "text": "25 avril 2016", "label": "DATE_GREGORIAN", "normalized_iso": "2016-04-25" }
+      ],
+      "persons": [],
+      "organizations": [],
+      "dates": [
+        { "text": "25 avril 2016", "label": "DATE_GREGORIAN", "normalized_iso": "2016-04-25" }
+      ],
+      "citations": [
+        {
+          "raw_text": "L'article 3 de l'arrêté visé ci-dessus n° 1242-16",
+          "resolved": false,
+          "target_instrument_id": null,
+          "reason": "external_reference_not_in_corpus",
+          "note": "arrêté n° 1242-16 (2016) is the instrument being amended, not itself present in this BO issue"
+        }
+      ],
+
+      "extracted_tables": [
+        {
+          "table_id": "art_936_26_1::tbl_0",
+          "page": 6,
+          "caption": "Frais et marges d'emplissage, de distribution en gros et au détail du gaz butane",
+          "headers": ["Conditionnement", "Charges supérieures à 5 kg", "Charges inférieures à 5 kg"],
+          "rows": [
+            ["Frais et marge des sociétés de distribution", "619,00 DH/TM", "553,00 DH/TM"],
+            ["Frais et marges des dépositaires", "510,00 DH/TM", "467,50 DH/TM"],
+            ["Marges détaillants", "255,00 DH/TM", "205,83 DH/TM"]
+          ],
+          "linearized_in_text_clean": true
+        }
+      ],
+      "quality": {
+        "manually_reviewed": true,
+        "review_notes": "current pipeline output for this article has ZERO table content (confirmed: no 'table' key anywhere in fr_BO_7510_Fr_entities.json); text_raw here matches the buggy current output, text_clean/extracted_tables show the target fix",
+        "has_ocr_artifacts": false,
+        "matches_current_pipeline_output": "text_raw only"
+      }
+    },
+
+    {
+      "article_id": "art_181_26_1",
+      "number": "PREMIER",
+      "instrument_id": "instr_181_26",
+      "pdf_page": 9,
+      "printed_page": 929,
+      "language": "fr",
+
+      "text_raw_current_pipeline_output": "La société « ZNIBER SEAFARM Sarl AU », immatriculée au registre de commerce de Agadir sous le numéro 54273 est autorisée à créer et exploiter, dans les conditions fixées par la convention de création et d'exploitation de ferme aquacole n° 2023/MSA/451 signée le 29 joumada II 1446 (31 décembre 2024) entre ladite société et la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime, une ferme aquacole dénommée « Zniber Seafarm » pour l'élevage, en mer au large de Ounagha, LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET, LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'AGRICULTURE... Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)... notamment ses articles 28 et 28-1 ; des espèces halieutiques suivantes : Vu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)... notamment ses articles 7, 7 bis et 9 ; – la Daurade royale « Sparus aurata » ; – le Bar ou Loup « Dicentrarchus labrax » ; – le Maigre « Argyrosomus regius » ; – la Sériole « Seriola dumerili ». Vu l'arrêté de la ministre de l'économie et des finances n° 3200-21...",
+      "text_clean": "La société « ZNIBER SEAFARM Sarl AU », immatriculée au registre de commerce d'Agadir sous le numéro 54273, est autorisée à créer et exploiter, dans les conditions fixées par la convention de création et d'exploitation de ferme aquacole n° 2023/MSA/451 signée le 29 joumada II 1446 (31 décembre 2024) entre ladite société et la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime, une ferme aquacole dénommée « Zniber Seafarm » pour l'élevage, en mer au large de Ounagha, des espèces halieutiques suivantes :\n– la Daurade royale « Sparus aurata » ;\n– le Bar ou Loup « Dicentrarchus labrax » ;\n– le Maigre « Argyrosomus regius » ;\n– la Sériole « Seriola dumerili ».",
+
+      "entities": [
+        { "id": "ent_1", "text": "société « ZNIBER SEAFARM Sarl AU »", "label": "ORG", "normalized": "ZNIBER SEAFARM Sarl AU" },
+        { "id": "ent_2", "text": "29 joumada II 1446", "label": "DATE_HIJRI", "normalized_iso": null },
+        { "id": "ent_3", "text": "31 décembre 2024", "label": "DATE_GREGORIAN", "normalized_iso": "2024-12-31" },
+        { "id": "ent_4", "text": "Sparus aurata", "label": "SPECIES", "normalized": "Sparus aurata" },
+        { "id": "ent_5", "text": "Dicentrarchus labrax", "label": "SPECIES", "normalized": "Dicentrarchus labrax" },
+        { "id": "ent_6", "text": "Argyrosomus regius", "label": "SPECIES", "normalized": "Argyrosomus regius" },
+        { "id": "ent_7", "text": "Seriola dumerili", "label": "SPECIES", "normalized": "Seriola dumerili" },
+        { "id": "ent_8", "text": "dahir portant loi n° 1-73-255", "label": "DAHIR", "normalized": { "type": "dahir_portant_loi", "number": "1-73-255" } },
+        { "id": "ent_9", "text": "décret n° 2-08-562", "label": "DECRET", "normalized": { "type": "decret", "number": "2-08-562" } }
+      ],
+      "persons": [],
+      "organizations": [
+        { "text": "ZNIBER SEAFARM Sarl AU", "commerce_registry": { "city": "Agadir", "number": "54273" } }
+      ],
+      "dates": [
+        { "text": "29 joumada II 1446 (31 décembre 2024)", "label": "DATE_GREGORIAN", "normalized_iso": "2024-12-31" }
+      ],
+
+      "citations_current_pipeline_output": [
+        { "raw_text": "articles 28 et 28-1", "resolved_to": "DECRET: décret n° 2-08-562", "correct": false },
+        { "raw_text": "articles 7, 7 bis et 9", "resolved_to": "ARRETE: arrêté (bare match)", "correct": false }
+      ],
+      "citations": [
+        {
+          "raw_text": "articles 28 et 28-1",
+          "resolved": true,
+          "target_instrument_id": null,
+          "target_entity_id": "ent_8",
+          "target_text": "dahir portant loi n° 1-73-255"
+        },
+        {
+          "raw_text": "articles 7, 7 bis et 9",
+          "resolved": true,
+          "target_instrument_id": null,
+          "target_entity_id": "ent_9",
+          "target_text": "décret n° 2-08-562"
+        }
+      ],
+
+      "extracted_tables": [],
+      "quality": {
+        "manually_reviewed": true,
+        "review_notes": "current pipeline text field for this article interleaves preamble ('Vu...') lines with the dispositif line-by-line, splitting the species list and misattributing both citations as a downstream effect; text_clean here is reconstructed from the source PDF (p.929)",
+        "has_ocr_artifacts": false,
+        "matches_current_pipeline_output": "text_raw_current_pipeline_output and citations_current_pipeline_output fields only, included for diff/debugging purposes"
+      }
+    }
+  ],
+
+  "chunks": [
+    {
+      "chunk_id": "art_936_26_1::c0",
+      "article_id": "art_936_26_1",
+      "chunk_index": 0,
+      "text": "L'article 3 de l'arrêté visé ci-dessus n° 1242-16 du 17 rejeb 1437 (25 avril 2016) est modifié et complété ainsi que suit : les prix de vente de base maxima au détail du gaz butane incluent notamment les frais et marges d'emplissage, de distribution en gros et au détail fixés respectivement comme suit : Frais et marge des sociétés de distribution 619,00 DH/TM (charges supérieures à 5 kg) / 553,00 DH/TM (charges inférieures à 5 kg) ; Frais et marges des dépositaires 510,00 DH/TM / 467,50 DH/TM ; Marges détaillants 255,00 DH/TM / 205,83 DH/TM.",
+      "embedding_prefix": "passage: "
+    },
+    {
+      "chunk_id": "art_181_26_1::c0",
+      "article_id": "art_181_26_1",
+      "chunk_index": 0,
+      "text": "La société « ZNIBER SEAFARM Sarl AU », immatriculée au registre de commerce d'Agadir sous le numéro 54273, est autorisée à créer et exploiter une ferme aquacole dénommée « Zniber Seafarm » pour l'élevage, en mer au large de Ounagha, des espèces halieutiques suivantes : la Daurade royale (Sparus aurata), le Bar ou Loup (Dicentrarchus labrax), le Maigre (Argyrosomus regius), la Sériole (Seriola dumerili).",
+      "embedding_prefix": "passage: "
+    }
+  ]
+}
