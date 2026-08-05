@@ -4,7 +4,11 @@ scripts/run_classification.py
 Tester la classification d'un document juridique.
 
 Usage:
-    python -m scripts.run_classification <fichier> [--lang {fr,ar}]
+    python -m scripts.run_classification <fichier> [--lang {fr,ar}] [--model]
+
+Le flag --model utilise le classifieur transformer fine-tuné (s'il est présent
+dans models/domain_classifier) au lieu des mots-clés ; sinon repli automatique
+sur les mots-clés.
 
 Exemples:
     python -m scripts.run_classification data/processed/ar/BO_7506_Ar.txt --lang ar
@@ -20,6 +24,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from src.classification.keyword_classifier import classify_text, classify_document
+from src.classification.transformer_classifier import TransformerDomainClassifier
 from src.preprocessing.arabic_utils import arabic_char_ratio
 
 
@@ -67,6 +72,8 @@ def main():
     parser.add_argument("file", type=Path, help="Chemin vers le fichier .txt ou .json")
     parser.add_argument("--lang", choices=["fr", "ar"], default=None,
                         help="Langue du texte (optionnel : détectée automatiquement depuis le contenu)")
+    parser.add_argument("--model", action="store_true",
+                        help="Utilise le classifieur transformer fine-tuné s'il est disponible")
     args = parser.parse_args()
 
     if not args.file.exists():
@@ -84,7 +91,19 @@ def main():
         print(f"Langue détectée : {args.lang}")
 
     # Classification
-    if args.file.suffix == ".json":
+    if args.model:
+        clf = TransformerDomainClassifier()
+        print(f"Classifieur : {clf.status}")
+        if args.file.suffix == ".json":
+            with open(args.file, "r", encoding="utf-8") as f:
+                doc = json.load(f)
+            json_lang = doc.get("lang")
+            if json_lang in ("fr", "ar"):
+                args.lang = json_lang
+            domain = clf.classify_document(doc, lang=args.lang)
+        else:
+            domain = clf.classify_text(text, lang=args.lang)
+    elif args.file.suffix == ".json":
         # Utiliser la fonction qui traite le document entier (reconstruit le texte)
         with open(args.file, "r", encoding="utf-8") as f:
             doc = json.load(f)
