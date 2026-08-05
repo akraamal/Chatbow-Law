@@ -166,7 +166,9 @@
         }
       ],
       "pdf_page": 4,
-      "printed_page": 994
+      "printed_page": 994,
+      "article_id": "art_1_1",
+      "instrument_id": "instr_1"
     },
     {
       "number": "premier",
@@ -235,7 +237,9 @@
         }
       ],
       "pdf_page": 5,
-      "printed_page": 995
+      "printed_page": 995,
+      "article_id": "art_1_2",
+      "instrument_id": "instr_1"
     },
     {
       "number": "2",
@@ -247,7 +251,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 5,
-      "printed_page": 995
+      "printed_page": 995,
+      "article_id": "art_1_3",
+      "instrument_id": "instr_1"
     },
     {
       "number": "3",
@@ -259,7 +265,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 5,
-      "printed_page": 995
+      "printed_page": 995,
+      "article_id": "art_1_4",
+      "instrument_id": "instr_1"
     },
     {
       "number": "4",
@@ -285,7 +293,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 5,
-      "printed_page": 995
+      "printed_page": 995,
+      "article_id": "art_1_5",
+      "instrument_id": "instr_1"
     },
     {
       "number": "5",
@@ -297,7 +307,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 6,
-      "printed_page": 996
+      "printed_page": 996,
+      "article_id": "art_1_6",
+      "instrument_id": "instr_1"
     },
     {
       "number": "6",
@@ -309,7 +321,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 6,
-      "printed_page": 996
+      "printed_page": 996,
+      "article_id": "art_1_7",
+      "instrument_id": "instr_1"
     },
     {
       "number": "7",
@@ -321,7 +335,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 6,
-      "printed_page": 996
+      "printed_page": 996,
+      "article_id": "art_1_8",
+      "instrument_id": "instr_1"
     },
     {
       "number": "8",
@@ -333,7 +349,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 6,
-      "printed_page": 996
+      "printed_page": 996,
+      "article_id": "art_1_9",
+      "instrument_id": "instr_1"
     },
     {
       "number": "9",
@@ -390,7 +408,9 @@
         }
       ],
       "pdf_page": 6,
-      "printed_page": 996
+      "printed_page": 996,
+      "article_id": "art_1_10",
+      "instrument_id": "instr_1"
     },
     {
       "number": "10",
@@ -402,7 +422,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 997
+      "printed_page": 997,
+      "article_id": "art_1_11",
+      "instrument_id": "instr_1"
     },
     {
       "number": "11",
@@ -414,7 +436,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 997
+      "printed_page": 997,
+      "article_id": "art_1_12",
+      "instrument_id": "instr_1"
     },
     {
       "number": "12",
@@ -426,7 +450,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 997
+      "printed_page": 997,
+      "article_id": "art_1_13",
+      "instrument_id": "instr_1"
     },
     {
       "number": "13",
@@ -438,7 +464,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 997
+      "printed_page": 997,
+      "article_id": "art_1_14",
+      "instrument_id": "instr_1"
     },
     {
       "number": "14",
@@ -450,7 +478,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 997
+      "printed_page": 997,
+      "article_id": "art_1_15",
+      "instrument_id": "instr_1"
     },
     {
       "number": "15",
@@ -462,7 +492,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 997
+      "printed_page": 997,
+      "article_id": "art_1_16",
+      "instrument_id": "instr_1"
     },
     {
       "number": "16",
@@ -474,7 +506,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 997
+      "printed_page": 997,
+      "article_id": "art_1_17",
+      "instrument_id": "instr_1"
     },
     {
       "number": "17",
@@ -486,7 +520,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 8,
-      "printed_page": 998
+      "printed_page": 998,
+      "article_id": "art_1_18",
+      "instrument_id": "instr_1"
     },
     {
       "number": "18",
@@ -498,7 +534,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 8,
-      "printed_page": 998
+      "printed_page": 998,
+      "article_id": "art_1_19",
+      "instrument_id": "instr_1"
     },
     {
       "number": "19",
@@ -523,7 +561,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 8,
-      "printed_page": 998
+      "printed_page": 998,
+      "article_id": "art_1_20",
+      "instrument_id": "instr_1"
     },
     {
       "number": "20",
@@ -535,7 +575,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 8,
-      "printed_page": 998
+      "printed_page": 998,
+      "article_id": "art_1_21",
+      "instrument_id": "instr_1"
     },
     {
       "number": "21",
@@ -547,7 +589,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 8,
-      "printed_page": 998
+      "printed_page": 998,
+      "article_id": "art_1_22",
+      "instrument_id": "instr_1"
     },
     {
       "number": "22",
@@ -559,7 +603,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 8,
-      "printed_page": 998
+      "printed_page": 998,
+      "article_id": "art_1_23",
+      "instrument_id": "instr_1"
     },
     {
       "number": "23",
@@ -578,7 +624,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_24",
+      "instrument_id": "instr_1"
     },
     {
       "number": "24",
@@ -590,7 +638,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_25",
+      "instrument_id": "instr_1"
     },
     {
       "number": "25",
@@ -616,7 +666,9 @@
         }
       ],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_26",
+      "instrument_id": "instr_1"
     },
     {
       "number": "26",
@@ -628,7 +680,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_27",
+      "instrument_id": "instr_1"
     },
     {
       "number": "27",
@@ -647,7 +701,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_28",
+      "instrument_id": "instr_1"
     },
     {
       "number": "28",
@@ -685,7 +741,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_29",
+      "instrument_id": "instr_1"
     },
     {
       "number": "29",
@@ -717,7 +775,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_30",
+      "instrument_id": "instr_1"
     },
     {
       "number": "30",
@@ -743,7 +803,9 @@
         }
       ],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_31",
+      "instrument_id": "instr_1"
     },
     {
       "number": "31",
@@ -755,7 +817,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_32",
+      "instrument_id": "instr_1"
     },
     {
       "number": "32",
@@ -781,7 +845,9 @@
         }
       ],
       "pdf_page": 9,
-      "printed_page": 999
+      "printed_page": 999,
+      "article_id": "art_1_33",
+      "instrument_id": "instr_1"
     },
     {
       "number": "33",
@@ -814,7 +880,9 @@
         }
       ],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_34",
+      "instrument_id": "instr_1"
     },
     {
       "number": "34",
@@ -833,7 +901,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_35",
+      "instrument_id": "instr_1"
     },
     {
       "number": "35",
@@ -866,7 +936,9 @@
         }
       ],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_36",
+      "instrument_id": "instr_1"
     },
     {
       "number": "36",
@@ -885,7 +957,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_37",
+      "instrument_id": "instr_1"
     },
     {
       "number": "37",
@@ -930,7 +1004,9 @@
         }
       ],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_38",
+      "instrument_id": "instr_1"
     },
     {
       "number": "38",
@@ -942,7 +1018,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_39",
+      "instrument_id": "instr_1"
     },
     {
       "number": "39",
@@ -954,7 +1032,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_40",
+      "instrument_id": "instr_1"
     },
     {
       "number": "40",
@@ -973,7 +1053,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_41",
+      "instrument_id": "instr_1"
     },
     {
       "number": "41",
@@ -985,7 +1067,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_42",
+      "instrument_id": "instr_1"
     },
     {
       "number": "42",
@@ -997,7 +1081,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_43",
+      "instrument_id": "instr_1"
     },
     {
       "number": "43",
@@ -1009,7 +1095,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_44",
+      "instrument_id": "instr_1"
     },
     {
       "number": "44",
@@ -1021,7 +1109,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_45",
+      "instrument_id": "instr_1"
     },
     {
       "number": "45",
@@ -1033,7 +1123,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 1000
+      "printed_page": 1000,
+      "article_id": "art_1_46",
+      "instrument_id": "instr_1"
     },
     {
       "number": "46",
@@ -1045,7 +1137,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 1001
+      "printed_page": 1001,
+      "article_id": "art_1_47",
+      "instrument_id": "instr_1"
     },
     {
       "number": "47",
@@ -1057,7 +1151,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 1001
+      "printed_page": 1001,
+      "article_id": "art_1_48",
+      "instrument_id": "instr_1"
     },
     {
       "number": "48",
@@ -1069,7 +1165,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 1001
+      "printed_page": 1001,
+      "article_id": "art_1_49",
+      "instrument_id": "instr_1"
     },
     {
       "number": "49",
@@ -1081,7 +1179,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 1001
+      "printed_page": 1001,
+      "article_id": "art_1_50",
+      "instrument_id": "instr_1"
     },
     {
       "number": "50",
@@ -1093,7 +1193,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 1001
+      "printed_page": 1001,
+      "article_id": "art_1_51",
+      "instrument_id": "instr_1"
     },
     {
       "number": "51",
@@ -1144,7 +1246,9 @@
         }
       ],
       "pdf_page": 11,
-      "printed_page": 1001
+      "printed_page": 1001,
+      "article_id": "art_1_52",
+      "instrument_id": "instr_1"
     },
     {
       "number": "52",
@@ -1182,7 +1286,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_53",
+      "instrument_id": "instr_1"
     },
     {
       "number": "53",
@@ -1214,7 +1320,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_54",
+      "instrument_id": "instr_1"
     },
     {
       "number": "54",
@@ -1240,7 +1348,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_55",
+      "instrument_id": "instr_1"
     },
     {
       "number": "55",
@@ -1252,7 +1362,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_56",
+      "instrument_id": "instr_1"
     },
     {
       "number": "56",
@@ -1278,7 +1390,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_57",
+      "instrument_id": "instr_1"
     },
     {
       "number": "57",
@@ -1310,7 +1424,9 @@
         }
       ],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_58",
+      "instrument_id": "instr_1"
     },
     {
       "number": "58",
@@ -1322,7 +1438,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_59",
+      "instrument_id": "instr_1"
     },
     {
       "number": "59",
@@ -1334,7 +1452,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_60",
+      "instrument_id": "instr_1"
     },
     {
       "number": "60",
@@ -1353,7 +1473,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 1002
+      "printed_page": 1002,
+      "article_id": "art_1_61",
+      "instrument_id": "instr_1"
     },
     {
       "number": "61",
@@ -1365,7 +1487,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_62",
+      "instrument_id": "instr_1"
     },
     {
       "number": "62",
@@ -1377,7 +1501,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_63",
+      "instrument_id": "instr_1"
     },
     {
       "number": "63",
@@ -1403,7 +1529,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_64",
+      "instrument_id": "instr_1"
     },
     {
       "number": "64",
@@ -1429,7 +1557,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_65",
+      "instrument_id": "instr_1"
     },
     {
       "number": "65",
@@ -1455,7 +1585,9 @@
         }
       ],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_66",
+      "instrument_id": "instr_1"
     },
     {
       "number": "66",
@@ -1467,7 +1599,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_67",
+      "instrument_id": "instr_1"
     },
     {
       "number": "67",
@@ -1479,7 +1613,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_68",
+      "instrument_id": "instr_1"
     },
     {
       "number": "68",
@@ -1524,7 +1660,9 @@
         }
       ],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_69",
+      "instrument_id": "instr_1"
     },
     {
       "number": "69",
@@ -1543,7 +1681,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_70",
+      "instrument_id": "instr_1"
     },
     {
       "number": "70",
@@ -1618,7 +1758,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 1003
+      "printed_page": 1003,
+      "article_id": "art_1_71",
+      "instrument_id": "instr_1"
     },
     {
       "number": "71",
@@ -1651,7 +1793,9 @@
         }
       ],
       "pdf_page": 14,
-      "printed_page": 1004
+      "printed_page": 1004,
+      "article_id": "art_1_72",
+      "instrument_id": "instr_1"
     },
     {
       "number": "72",
@@ -1670,7 +1814,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 14,
-      "printed_page": 1004
+      "printed_page": 1004,
+      "article_id": "art_1_73",
+      "instrument_id": "instr_1"
     },
     {
       "number": "73",
@@ -1733,7 +1879,9 @@
         }
       ],
       "pdf_page": 14,
-      "printed_page": 1004
+      "printed_page": 1004,
+      "article_id": "art_1_74",
+      "instrument_id": "instr_1"
     },
     {
       "number": "PREMIER",
@@ -1765,7 +1913,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 14,
-      "printed_page": 1004
+      "printed_page": 1004,
+      "article_id": "art_2_1",
+      "instrument_id": "instr_2"
     },
     {
       "number": "2",
@@ -1803,7 +1953,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 14,
-      "printed_page": 1004
+      "printed_page": 1004,
+      "article_id": "art_2_2",
+      "instrument_id": "instr_2"
     },
     {
       "number": "PREMIER",
@@ -1853,7 +2005,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 15,
-      "printed_page": 1005
+      "printed_page": 1005,
+      "article_id": "art_3_1",
+      "instrument_id": "instr_3"
     },
     {
       "number": "2",
@@ -1939,7 +2093,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 15,
-      "printed_page": 1005
+      "printed_page": 1005,
+      "article_id": "art_3_2",
+      "instrument_id": "instr_3"
     },
     {
       "number": "PREMIER",
@@ -1958,7 +2114,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 15,
-      "printed_page": 1005
+      "printed_page": 1005,
+      "article_id": "art_4_1",
+      "instrument_id": "instr_4"
     },
     {
       "number": "2",
@@ -1970,7 +2128,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 15,
-      "printed_page": 1005
+      "printed_page": 1005,
+      "article_id": "art_4_2",
+      "instrument_id": "instr_4"
     },
     {
       "number": "3",
@@ -1989,7 +2149,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 15,
-      "printed_page": 1005
+      "printed_page": 1005,
+      "article_id": "art_4_3",
+      "instrument_id": "instr_4"
     },
     {
       "number": "4",
@@ -2008,7 +2170,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 15,
-      "printed_page": 1005
+      "printed_page": 1005,
+      "article_id": "art_4_4",
+      "instrument_id": "instr_4"
     },
     {
       "number": "5",
@@ -2052,7 +2216,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 16,
-      "printed_page": 1006
+      "printed_page": 1006,
+      "article_id": "art_4_5",
+      "instrument_id": "instr_4"
     },
     {
       "number": "Annexe",
@@ -2102,7 +2268,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 16,
-      "printed_page": 1006
+      "printed_page": 1006,
+      "article_id": "art_4_6",
+      "instrument_id": "instr_4"
     },
     {
       "number": "Annexe",
@@ -2152,7 +2320,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 16,
-      "printed_page": 1006
+      "printed_page": 1006,
+      "article_id": "art_4_7",
+      "instrument_id": "instr_4"
     },
     {
       "number": "PREMIER",
@@ -2263,7 +2433,9 @@
       ],
       "organizations": [],
       "pdf_page": 16,
-      "printed_page": 1006
+      "printed_page": 1006,
+      "article_id": "art_4_8",
+      "instrument_id": "instr_4"
     },
     {
       "number": "PREMIER",
@@ -2282,7 +2454,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 17,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_5_1",
+      "instrument_id": "instr_5"
     },
     {
       "number": "2",
@@ -2301,7 +2475,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 17,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_5_2",
+      "instrument_id": "instr_5"
     },
     {
       "number": "3",
@@ -2327,7 +2503,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 17,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_5_3",
+      "instrument_id": "instr_5"
     },
     {
       "number": "4",
@@ -2377,7 +2555,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 17,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_5_4",
+      "instrument_id": "instr_5"
     },
     {
       "number": "PREMIER",
@@ -2396,7 +2576,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 17,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_6_1",
+      "instrument_id": "instr_6"
     },
     {
       "number": "2",
@@ -2415,7 +2597,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 18,
-      "printed_page": 8
+      "printed_page": 8,
+      "article_id": "art_6_2",
+      "instrument_id": "instr_6"
     },
     {
       "number": "3",
@@ -2441,7 +2625,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 18,
-      "printed_page": 8
+      "printed_page": 8,
+      "article_id": "art_6_3",
+      "instrument_id": "instr_6"
     },
     {
       "number": "4",
@@ -2491,7 +2677,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 18,
-      "printed_page": 8
+      "printed_page": 8,
+      "article_id": "art_6_4",
+      "instrument_id": "instr_6"
     },
     {
       "number": "PREMIER",
@@ -2510,7 +2698,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 18,
-      "printed_page": 8
+      "printed_page": 8,
+      "article_id": "art_7_1",
+      "instrument_id": "instr_7"
     },
     {
       "number": "2",
@@ -2529,7 +2719,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 18,
-      "printed_page": 8
+      "printed_page": 8,
+      "article_id": "art_7_2",
+      "instrument_id": "instr_7"
     },
     {
       "number": "3",
@@ -2555,7 +2747,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 18,
-      "printed_page": 8
+      "printed_page": 8,
+      "article_id": "art_7_3",
+      "instrument_id": "instr_7"
     },
     {
       "number": "4",
@@ -2605,7 +2799,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 18,
-      "printed_page": 8
+      "printed_page": 8,
+      "article_id": "art_7_4",
+      "instrument_id": "instr_7"
     },
     {
       "number": "PREMIER",
@@ -2624,7 +2820,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 19,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_8_1",
+      "instrument_id": "instr_8"
     },
     {
       "number": "2",
@@ -2643,7 +2841,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 19,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_8_2",
+      "instrument_id": "instr_8"
     },
     {
       "number": "3",
@@ -2669,7 +2869,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 19,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_8_3",
+      "instrument_id": "instr_8"
     },
     {
       "number": "4",
@@ -2719,7 +2921,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 19,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_8_4",
+      "instrument_id": "instr_8"
     },
     {
       "number": "PREMIER",
@@ -2738,7 +2942,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 19,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_9_1",
+      "instrument_id": "instr_9"
     },
     {
       "number": "2",
@@ -2757,7 +2963,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 19,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_9_2",
+      "instrument_id": "instr_9"
     },
     {
       "number": "3",
@@ -2783,7 +2991,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 19,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_9_3",
+      "instrument_id": "instr_9"
     },
     {
       "number": "4",
@@ -2833,7 +3043,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 19,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_9_4",
+      "instrument_id": "instr_9"
     },
     {
       "number": "PREMIER",
@@ -2852,7 +3064,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 20,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_10_1",
+      "instrument_id": "instr_10"
     },
     {
       "number": "2",
@@ -2871,7 +3085,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 20,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_10_2",
+      "instrument_id": "instr_10"
     },
     {
       "number": "3",
@@ -2897,7 +3113,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 20,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_10_3",
+      "instrument_id": "instr_10"
     },
     {
       "number": "4",
@@ -2947,7 +3165,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 20,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_10_4",
+      "instrument_id": "instr_10"
     },
     {
       "number": "PREMIER",
@@ -2966,7 +3186,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 21,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_11_1",
+      "instrument_id": "instr_11"
     },
     {
       "number": "2",
@@ -2985,7 +3207,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 21,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_11_2",
+      "instrument_id": "instr_11"
     },
     {
       "number": "3",
@@ -3011,7 +3235,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 21,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_11_3",
+      "instrument_id": "instr_11"
     },
     {
       "number": "4",
@@ -3061,7 +3287,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 21,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_11_4",
+      "instrument_id": "instr_11"
     },
     {
       "number": "PREMIER",
@@ -3080,7 +3308,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 21,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_12_1",
+      "instrument_id": "instr_12"
     },
     {
       "number": "2",
@@ -3099,7 +3329,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 22,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_12_2",
+      "instrument_id": "instr_12"
     },
     {
       "number": "3",
@@ -3125,7 +3357,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 22,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_12_3",
+      "instrument_id": "instr_12"
     },
     {
       "number": "4",
@@ -3175,7 +3409,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 22,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_12_4",
+      "instrument_id": "instr_12"
     },
     {
       "number": "PREMIER",
@@ -3194,7 +3430,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 22,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_13_1",
+      "instrument_id": "instr_13"
     },
     {
       "number": "2",
@@ -3213,7 +3451,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 22,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_13_2",
+      "instrument_id": "instr_13"
     },
     {
       "number": "3",
@@ -3239,7 +3479,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 22,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_13_3",
+      "instrument_id": "instr_13"
     },
     {
       "number": "4",
@@ -3289,7 +3531,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 22,
-      "printed_page": 6
+      "printed_page": 6,
+      "article_id": "art_13_4",
+      "instrument_id": "instr_13"
     },
     {
       "number": "PREMIER",
@@ -3308,7 +3552,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 23,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_14_1",
+      "instrument_id": "instr_14"
     },
     {
       "number": "2",
@@ -3327,7 +3573,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 23,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_14_2",
+      "instrument_id": "instr_14"
     },
     {
       "number": "3",
@@ -3353,7 +3601,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 23,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_14_3",
+      "instrument_id": "instr_14"
     },
     {
       "number": "4",
@@ -3403,7 +3653,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 23,
-      "printed_page": 4
+      "printed_page": 4,
+      "article_id": "art_14_4",
+      "instrument_id": "instr_14"
     },
     {
       "number": "PREMIER",
@@ -3460,7 +3712,9 @@
         }
       ],
       "pdf_page": 24,
-      "printed_page": 1014
+      "printed_page": 1014,
+      "article_id": "art_15_1",
+      "instrument_id": "instr_15"
     },
     {
       "number": "2",
@@ -3510,7 +3764,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 24,
-      "printed_page": 1014
+      "printed_page": 1014,
+      "article_id": "art_15_2",
+      "instrument_id": "instr_15"
     },
     {
       "number": "PREMIER",
@@ -3561,7 +3817,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 24,
-      "printed_page": 1014
+      "printed_page": 1014,
+      "article_id": "art_16_1",
+      "instrument_id": "instr_16"
     },
     {
       "number": "2",
@@ -3605,7 +3863,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 24,
-      "printed_page": 1014
+      "printed_page": 1014,
+      "article_id": "art_16_2",
+      "instrument_id": "instr_16"
     },
     {
       "number": "PREMIER",
@@ -3656,7 +3916,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 25,
-      "printed_page": 1015
+      "printed_page": 1015,
+      "article_id": "art_17_1",
+      "instrument_id": "instr_17"
     },
     {
       "number": "2",
@@ -3700,7 +3962,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 25,
-      "printed_page": 1015
+      "printed_page": 1015,
+      "article_id": "art_17_2",
+      "instrument_id": "instr_17"
     },
     {
       "number": "PREMIER",
@@ -3719,7 +3983,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 25,
-      "printed_page": 1015
+      "printed_page": 1015,
+      "article_id": "art_18_1",
+      "instrument_id": "instr_18"
     },
     {
       "number": "2",
@@ -3738,7 +4004,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 25,
-      "printed_page": 1015
+      "printed_page": 1015,
+      "article_id": "art_18_2",
+      "instrument_id": "instr_18"
     },
     {
       "number": "3",
@@ -3750,7 +4018,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 25,
-      "printed_page": 1015
+      "printed_page": 1015,
+      "article_id": "art_18_3",
+      "instrument_id": "instr_18"
     },
     {
       "number": "4",
@@ -3794,7 +4064,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 25,
-      "printed_page": 1015
+      "printed_page": 1015,
+      "article_id": "art_18_4",
+      "instrument_id": "instr_18"
     },
     {
       "number": "PREMIER",
@@ -3806,7 +4078,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 26,
-      "printed_page": 1016
+      "printed_page": 1016,
+      "article_id": "art_19_1",
+      "instrument_id": "instr_19"
     },
     {
       "number": "2",
@@ -3844,7 +4118,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 26,
-      "printed_page": 1016
+      "printed_page": 1016,
+      "article_id": "art_19_2",
+      "instrument_id": "instr_19"
     }
   ],
   "total_pdf_pages": 141,
@@ -3929,7 +4205,83 @@
         73
       ],
       "n_articles": 74,
-      "instrument_id": "instr_1"
+      "instrument_id": "instr_1",
+      "article_ids": [
+        "art_1_1",
+        "art_1_2",
+        "art_1_3",
+        "art_1_4",
+        "art_1_5",
+        "art_1_6",
+        "art_1_7",
+        "art_1_8",
+        "art_1_9",
+        "art_1_10",
+        "art_1_11",
+        "art_1_12",
+        "art_1_13",
+        "art_1_14",
+        "art_1_15",
+        "art_1_16",
+        "art_1_17",
+        "art_1_18",
+        "art_1_19",
+        "art_1_20",
+        "art_1_21",
+        "art_1_22",
+        "art_1_23",
+        "art_1_24",
+        "art_1_25",
+        "art_1_26",
+        "art_1_27",
+        "art_1_28",
+        "art_1_29",
+        "art_1_30",
+        "art_1_31",
+        "art_1_32",
+        "art_1_33",
+        "art_1_34",
+        "art_1_35",
+        "art_1_36",
+        "art_1_37",
+        "art_1_38",
+        "art_1_39",
+        "art_1_40",
+        "art_1_41",
+        "art_1_42",
+        "art_1_43",
+        "art_1_44",
+        "art_1_45",
+        "art_1_46",
+        "art_1_47",
+        "art_1_48",
+        "art_1_49",
+        "art_1_50",
+        "art_1_51",
+        "art_1_52",
+        "art_1_53",
+        "art_1_54",
+        "art_1_55",
+        "art_1_56",
+        "art_1_57",
+        "art_1_58",
+        "art_1_59",
+        "art_1_60",
+        "art_1_61",
+        "art_1_62",
+        "art_1_63",
+        "art_1_64",
+        "art_1_65",
+        "art_1_66",
+        "art_1_67",
+        "art_1_68",
+        "art_1_69",
+        "art_1_70",
+        "art_1_71",
+        "art_1_72",
+        "art_1_73",
+        "art_1_74"
+      ]
     },
     {
       "instrument_type": "DAHIR",
@@ -3939,7 +4291,11 @@
         75
       ],
       "n_articles": 2,
-      "instrument_id": "instr_2"
+      "instrument_id": "instr_2",
+      "article_ids": [
+        "art_2_1",
+        "art_2_2"
+      ]
     },
     {
       "instrument_type": "ARRETE_CONJOINT",
@@ -3949,7 +4305,11 @@
         77
       ],
       "n_articles": 2,
-      "instrument_id": "instr_3"
+      "instrument_id": "instr_3",
+      "article_ids": [
+        "art_3_1",
+        "art_3_2"
+      ]
     },
     {
       "instrument_type": "ARRETE_CONJOINT",
@@ -3965,7 +4325,17 @@
         85
       ],
       "n_articles": 8,
-      "instrument_id": "instr_4"
+      "instrument_id": "instr_4",
+      "article_ids": [
+        "art_4_1",
+        "art_4_2",
+        "art_4_3",
+        "art_4_4",
+        "art_4_5",
+        "art_4_6",
+        "art_4_7",
+        "art_4_8"
+      ]
     },
     {
       "instrument_type": "DECRET",
@@ -3977,7 +4347,13 @@
         89
       ],
       "n_articles": 4,
-      "instrument_id": "instr_5"
+      "instrument_id": "instr_5",
+      "article_ids": [
+        "art_5_1",
+        "art_5_2",
+        "art_5_3",
+        "art_5_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -3989,7 +4365,13 @@
         93
       ],
       "n_articles": 4,
-      "instrument_id": "instr_6"
+      "instrument_id": "instr_6",
+      "article_ids": [
+        "art_6_1",
+        "art_6_2",
+        "art_6_3",
+        "art_6_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4001,7 +4383,13 @@
         97
       ],
       "n_articles": 4,
-      "instrument_id": "instr_7"
+      "instrument_id": "instr_7",
+      "article_ids": [
+        "art_7_1",
+        "art_7_2",
+        "art_7_3",
+        "art_7_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4013,7 +4401,13 @@
         101
       ],
       "n_articles": 4,
-      "instrument_id": "instr_8"
+      "instrument_id": "instr_8",
+      "article_ids": [
+        "art_8_1",
+        "art_8_2",
+        "art_8_3",
+        "art_8_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4025,7 +4419,13 @@
         105
       ],
       "n_articles": 4,
-      "instrument_id": "instr_9"
+      "instrument_id": "instr_9",
+      "article_ids": [
+        "art_9_1",
+        "art_9_2",
+        "art_9_3",
+        "art_9_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4037,7 +4437,13 @@
         109
       ],
       "n_articles": 4,
-      "instrument_id": "instr_10"
+      "instrument_id": "instr_10",
+      "article_ids": [
+        "art_10_1",
+        "art_10_2",
+        "art_10_3",
+        "art_10_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4049,7 +4455,13 @@
         113
       ],
       "n_articles": 4,
-      "instrument_id": "instr_11"
+      "instrument_id": "instr_11",
+      "article_ids": [
+        "art_11_1",
+        "art_11_2",
+        "art_11_3",
+        "art_11_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4061,7 +4473,13 @@
         117
       ],
       "n_articles": 4,
-      "instrument_id": "instr_12"
+      "instrument_id": "instr_12",
+      "article_ids": [
+        "art_12_1",
+        "art_12_2",
+        "art_12_3",
+        "art_12_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4073,7 +4491,13 @@
         121
       ],
       "n_articles": 4,
-      "instrument_id": "instr_13"
+      "instrument_id": "instr_13",
+      "article_ids": [
+        "art_13_1",
+        "art_13_2",
+        "art_13_3",
+        "art_13_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4085,7 +4509,13 @@
         125
       ],
       "n_articles": 4,
-      "instrument_id": "instr_14"
+      "instrument_id": "instr_14",
+      "article_ids": [
+        "art_14_1",
+        "art_14_2",
+        "art_14_3",
+        "art_14_4"
+      ]
     },
     {
       "instrument_type": "ARRETE_CONJOINT",
@@ -4095,7 +4525,11 @@
         127
       ],
       "n_articles": 2,
-      "instrument_id": "instr_15"
+      "instrument_id": "instr_15",
+      "article_ids": [
+        "art_15_1",
+        "art_15_2"
+      ]
     },
     {
       "instrument_type": "ARRETE_CONJOINT",
@@ -4105,7 +4539,11 @@
         129
       ],
       "n_articles": 2,
-      "instrument_id": "instr_16"
+      "instrument_id": "instr_16",
+      "article_ids": [
+        "art_16_1",
+        "art_16_2"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4115,7 +4553,11 @@
         131
       ],
       "n_articles": 2,
-      "instrument_id": "instr_17"
+      "instrument_id": "instr_17",
+      "article_ids": [
+        "art_17_1",
+        "art_17_2"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4127,7 +4569,13 @@
         135
       ],
       "n_articles": 4,
-      "instrument_id": "instr_18"
+      "instrument_id": "instr_18",
+      "article_ids": [
+        "art_18_1",
+        "art_18_2",
+        "art_18_3",
+        "art_18_4"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -4137,7 +4585,11 @@
         137
       ],
       "n_articles": 2,
-      "instrument_id": "instr_19"
+      "instrument_id": "instr_19",
+      "article_ids": [
+        "art_19_1",
+        "art_19_2"
+      ]
     }
   ],
   "n_instruments": 19

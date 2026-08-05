@@ -2746,7 +2746,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_846_25_1",
+      "instrument_id": "instr_846_25"
     },
     {
       "number": "الثالثة",
@@ -2759,7 +2761,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 5,
-      "printed_page": 6321
+      "printed_page": 6321,
+      "article_id": "art_846_25_2",
+      "instrument_id": "instr_846_25"
     },
     {
       "number": "الرابعة",
@@ -3381,7 +3385,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_846_25_3",
+      "instrument_id": "instr_846_25"
     },
     {
       "number": "الثانية",
@@ -3394,7 +3400,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_845_25_1",
+      "instrument_id": "instr_845_25"
     },
     {
       "number": "الثالثة",
@@ -3407,7 +3415,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 7,
-      "printed_page": 7
+      "printed_page": 7,
+      "article_id": "art_845_25_2",
+      "instrument_id": "instr_845_25"
     },
     {
       "number": "الرابعة",
@@ -3501,7 +3511,9 @@
       ],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 9
+      "printed_page": 9,
+      "article_id": "art_845_25_3",
+      "instrument_id": "instr_845_25"
     },
     {
       "number": "الثانية",
@@ -3514,7 +3526,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 9
+      "printed_page": 9,
+      "article_id": "art_846_25_4",
+      "instrument_id": "instr_846_25_2"
     },
     {
       "number": "الثالثة",
@@ -3527,7 +3541,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 9
+      "printed_page": 9,
+      "article_id": "art_846_25_5",
+      "instrument_id": "instr_846_25_2"
     },
     {
       "number": "الرابعة",
@@ -3621,7 +3637,9 @@
       ],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 9
+      "printed_page": 9,
+      "article_id": "art_846_25_6",
+      "instrument_id": "instr_846_25_2"
     },
     {
       "number": "الثانية",
@@ -3634,7 +3652,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 11
+      "printed_page": 11,
+      "article_id": "art_847_25_1",
+      "instrument_id": "instr_847_25"
     },
     {
       "number": "الثالثة",
@@ -3647,7 +3667,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 11
+      "printed_page": 11,
+      "article_id": "art_847_25_2",
+      "instrument_id": "instr_847_25"
     },
     {
       "number": "الرابعة",
@@ -4044,7 +4066,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_847_25_3",
+      "instrument_id": "instr_847_25"
     },
     {
       "number": "الثانية",
@@ -5270,7 +5294,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_1228_25_1",
+      "instrument_id": "instr_1228_25"
     },
     {
       "number": "الثانية",
@@ -5297,7 +5323,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 20,
-      "printed_page": 20
+      "printed_page": 20,
+      "article_id": "art_1890_25_1",
+      "instrument_id": "instr_1890_25"
     },
     {
       "number": "الثانية",
@@ -5433,7 +5461,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_1890_25_2",
+      "instrument_id": "instr_1890_25"
     },
     {
       "number": "الثانية",
@@ -5575,7 +5605,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_1891_25_1",
+      "instrument_id": "instr_1891_25"
     },
     {
       "number": "4",
@@ -5608,7 +5640,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 43,
-      "printed_page": 43
+      "printed_page": 43,
+      "article_id": "art_1563_25_1",
+      "instrument_id": "instr_1563_25"
     },
     {
       "number": "الثانية",
@@ -5635,7 +5669,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 43,
-      "printed_page": 43
+      "printed_page": 43,
+      "article_id": "art_1563_25_2",
+      "instrument_id": "instr_1563_25"
     },
     {
       "number": "الثالثة",
@@ -5724,7 +5760,9 @@
         }
       ],
       "pdf_page": 43,
-      "printed_page": 43
+      "printed_page": 43,
+      "article_id": "art_1563_25_3",
+      "instrument_id": "instr_1563_25"
     },
     {
       "number": "15",
@@ -5750,7 +5788,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 43,
-      "printed_page": 43
+      "printed_page": 43,
+      "article_id": "art_1563_25_4",
+      "instrument_id": "instr_1563_25"
     },
     {
       "number": "الثانية",
@@ -5777,7 +5817,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 43,
-      "printed_page": 43
+      "printed_page": 43,
+      "article_id": "art_1563_25_5",
+      "instrument_id": "instr_1563_25"
     },
     {
       "number": "الثالثة",
@@ -5841,7 +5883,9 @@
       ],
       "organizations": [],
       "pdf_page": 44,
-      "printed_page": 44
+      "printed_page": 44,
+      "article_id": "art_1563_25_6",
+      "instrument_id": "instr_1563_25"
     },
     {
       "number": "2",
@@ -5854,7 +5898,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 44,
-      "printed_page": 44
+      "printed_page": 44,
+      "article_id": "art_1665_25_1",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "3",
@@ -5867,7 +5913,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 44,
-      "printed_page": 44
+      "printed_page": 44,
+      "article_id": "art_1665_25_2",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "4",
@@ -5887,7 +5935,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 44,
-      "printed_page": 44
+      "printed_page": 44,
+      "article_id": "art_1665_25_3",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "9",
@@ -5913,7 +5963,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 44,
-      "printed_page": 44
+      "printed_page": 44,
+      "article_id": "art_1665_25_4",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "6",
@@ -5926,7 +5978,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_5",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "7",
@@ -5946,7 +6000,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_6",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "8",
@@ -5959,7 +6015,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_7",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "9",
@@ -5972,7 +6030,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_8",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "10",
@@ -5985,7 +6045,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_9",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "11",
@@ -5998,7 +6060,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_10",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "12",
@@ -6011,7 +6075,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_11",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "13",
@@ -6024,7 +6090,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_12",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "14",
@@ -6044,7 +6112,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_13",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "15",
@@ -6057,7 +6127,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_14",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "16",
@@ -6070,7 +6142,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_15",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "17",
@@ -6083,7 +6157,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 45,
-      "printed_page": 45
+      "printed_page": 45,
+      "article_id": "art_1665_25_16",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "18",
@@ -6109,7 +6185,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 46,
-      "printed_page": 46
+      "printed_page": 46,
+      "article_id": "art_1665_25_17",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "19",
@@ -6122,7 +6200,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 46,
-      "printed_page": 46
+      "printed_page": 46,
+      "article_id": "art_1665_25_18",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "21",
@@ -6135,7 +6215,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 46,
-      "printed_page": 46
+      "printed_page": 46,
+      "article_id": "art_1665_25_19",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "16",
@@ -6168,7 +6250,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 46,
-      "printed_page": 46
+      "printed_page": 46,
+      "article_id": "art_1665_25_20",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "22",
@@ -6181,7 +6265,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 46,
-      "printed_page": 46
+      "printed_page": 46,
+      "article_id": "art_1665_25_21",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "21",
@@ -6214,7 +6300,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 47,
-      "printed_page": 6363
+      "printed_page": 6363,
+      "article_id": "art_1665_25_22",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "8",
@@ -6278,7 +6366,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_1665_25_23",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "8",
@@ -6304,7 +6394,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 47,
-      "printed_page": 6363
+      "printed_page": 6363,
+      "article_id": "art_1665_25_24",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "7",
@@ -6394,7 +6486,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_1665_25_25",
+      "instrument_id": "instr_1665_25"
     },
     {
       "number": "الثانية",
@@ -6495,7 +6589,9 @@
         }
       ],
       "pdf_page": 48,
-      "printed_page": 48
+      "printed_page": 48,
+      "article_id": "art_2_25_552_1",
+      "instrument_id": "instr_2_25_552"
     },
     {
       "number": "الثانية",
@@ -6674,7 +6770,9 @@
         }
       ],
       "pdf_page": 50,
-      "printed_page": 50
+      "printed_page": 50,
+      "article_id": "art_2_25_559_1",
+      "instrument_id": "instr_2_25_559"
     },
     {
       "number": "الثانية",
@@ -6835,7 +6933,9 @@
         }
       ],
       "pdf_page": 50,
-      "printed_page": 50
+      "printed_page": 50,
+      "article_id": "art_2_25_524_1",
+      "instrument_id": "instr_2_25_524"
     },
     {
       "number": "الثانية",
@@ -7028,7 +7128,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_556_1",
+      "instrument_id": "instr_2_25_556"
     },
     {
       "number": "الثانية",
@@ -7080,7 +7182,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_579_1",
+      "instrument_id": "instr_2_25_579"
     },
     {
       "number": "الثالثة",
@@ -7132,7 +7236,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_579_2",
+      "instrument_id": "instr_2_25_579"
     },
     {
       "number": "الرابعة",
@@ -7217,7 +7323,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_579_3",
+      "instrument_id": "instr_2_25_579"
     },
     {
       "number": "الثالثة",
@@ -7230,7 +7338,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 52,
-      "printed_page": 52
+      "printed_page": 52,
+      "article_id": "art_2_25_579_4",
+      "instrument_id": "instr_2_25_579"
     },
     {
       "number": "الرابعة",
@@ -7349,7 +7459,9 @@
         }
       ],
       "pdf_page": 53,
-      "printed_page": 53
+      "printed_page": 53,
+      "article_id": "art_2_25_579_5",
+      "instrument_id": "instr_2_25_579"
     },
     {
       "number": "الثانية",
@@ -7455,7 +7567,9 @@
       ],
       "organizations": [],
       "pdf_page": 53,
-      "printed_page": 53
+      "printed_page": 53,
+      "article_id": "art_2_25_607_1",
+      "instrument_id": "instr_2_25_607"
     },
     {
       "number": "الثانية",
@@ -7555,7 +7669,9 @@
       ],
       "organizations": [],
       "pdf_page": 53,
-      "printed_page": 53
+      "printed_page": 53,
+      "article_id": "art_2_25_608_1",
+      "instrument_id": "instr_2_25_608"
     },
     {
       "number": "الثانية",
@@ -7672,7 +7788,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_609_1",
+      "instrument_id": "instr_2_25_609"
     },
     {
       "number": "الثالثة",
@@ -7867,7 +7985,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_610_1",
+      "instrument_id": "instr_2_25_610"
     },
     {
       "number": "الثانية",
@@ -7946,7 +8066,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_612_1",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -8193,7 +8315,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_612_2",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -8257,7 +8381,9 @@
         }
       ],
       "pdf_page": 55,
-      "printed_page": 55
+      "printed_page": 55,
+      "article_id": "art_2_25_612_3",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثالثة",
@@ -8270,7 +8396,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 55,
-      "printed_page": 55
+      "printed_page": 55,
+      "article_id": "art_2_25_612_4",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "3",
@@ -8309,7 +8437,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 55,
-      "printed_page": 55
+      "printed_page": 55,
+      "article_id": "art_2_25_612_5",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الرابعة",
@@ -8548,7 +8678,9 @@
             ]
           ]
         }
-      ]
+      ],
+      "article_id": "art_2_25_612_6",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -8654,7 +8786,9 @@
       ],
       "organizations": [],
       "pdf_page": 57,
-      "printed_page": 57
+      "printed_page": 57,
+      "article_id": "art_2_25_612_7",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -8772,7 +8906,9 @@
       ],
       "organizations": [],
       "pdf_page": 58,
-      "printed_page": 58
+      "printed_page": 58,
+      "article_id": "art_2_25_612_8",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -8878,7 +9014,9 @@
       ],
       "organizations": [],
       "pdf_page": 58,
-      "printed_page": 58
+      "printed_page": 58,
+      "article_id": "art_2_25_612_9",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -8990,7 +9128,9 @@
       ],
       "organizations": [],
       "pdf_page": 58,
-      "printed_page": 58
+      "printed_page": 58,
+      "article_id": "art_2_25_612_10",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -9127,7 +9267,9 @@
         }
       ],
       "pdf_page": 59,
-      "printed_page": 59
+      "printed_page": 59,
+      "article_id": "art_2_25_612_11",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -9245,7 +9387,9 @@
       ],
       "organizations": [],
       "pdf_page": 59,
-      "printed_page": 59
+      "printed_page": 59,
+      "article_id": "art_2_25_612_12",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -9363,7 +9507,9 @@
       ],
       "organizations": [],
       "pdf_page": 60,
-      "printed_page": 60
+      "printed_page": 60,
+      "article_id": "art_2_25_612_13",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -9469,7 +9615,9 @@
       ],
       "organizations": [],
       "pdf_page": 60,
-      "printed_page": 60
+      "printed_page": 60,
+      "article_id": "art_2_25_612_14",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -9581,7 +9729,9 @@
       ],
       "organizations": [],
       "pdf_page": 61,
-      "printed_page": 61
+      "printed_page": 61,
+      "article_id": "art_2_25_612_15",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -9687,7 +9837,9 @@
       ],
       "organizations": [],
       "pdf_page": 61,
-      "printed_page": 61
+      "printed_page": 61,
+      "article_id": "art_2_25_612_16",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -9805,7 +9957,9 @@
       ],
       "organizations": [],
       "pdf_page": 61,
-      "printed_page": 61
+      "printed_page": 61,
+      "article_id": "art_2_25_612_17",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -9911,7 +10065,9 @@
       ],
       "organizations": [],
       "pdf_page": 62,
-      "printed_page": 62
+      "printed_page": 62,
+      "article_id": "art_2_25_612_18",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -10017,7 +10173,9 @@
       ],
       "organizations": [],
       "pdf_page": 62,
-      "printed_page": 62
+      "printed_page": 62,
+      "article_id": "art_2_25_612_19",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -10129,7 +10287,9 @@
       ],
       "organizations": [],
       "pdf_page": 63,
-      "printed_page": 63
+      "printed_page": 63,
+      "article_id": "art_2_25_612_20",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -10241,7 +10401,9 @@
       ],
       "organizations": [],
       "pdf_page": 63,
-      "printed_page": 63
+      "printed_page": 63,
+      "article_id": "art_2_25_612_21",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -10360,7 +10522,9 @@
         }
       ],
       "pdf_page": 64,
-      "printed_page": 64
+      "printed_page": 64,
+      "article_id": "art_2_25_612_22",
+      "instrument_id": "instr_2_25_612"
     },
     {
       "number": "الثانية",
@@ -10472,7 +10636,9 @@
       ],
       "organizations": [],
       "pdf_page": 64,
-      "printed_page": 64
+      "printed_page": 64,
+      "article_id": "art_20_1",
+      "instrument_id": "instr_20"
     },
     {
       "number": "الثانية",
@@ -10602,7 +10768,9 @@
       ],
       "organizations": [],
       "pdf_page": 65,
-      "printed_page": 65
+      "printed_page": 65,
+      "article_id": "art_1848_25_1",
+      "instrument_id": "instr_1848_25"
     },
     {
       "number": "الثانية",
@@ -10732,7 +10900,9 @@
       ],
       "organizations": [],
       "pdf_page": 65,
-      "printed_page": 65
+      "printed_page": 65,
+      "article_id": "art_1854_25_1",
+      "instrument_id": "instr_1854_25"
     },
     {
       "number": "الثانية",
@@ -10856,7 +11026,9 @@
       ],
       "organizations": [],
       "pdf_page": 66,
-      "printed_page": 66
+      "printed_page": 66,
+      "article_id": "art_1855_25_1",
+      "instrument_id": "instr_1855_25"
     },
     {
       "number": "الثانية",
@@ -11035,7 +11207,9 @@
       ],
       "organizations": [],
       "pdf_page": 67,
-      "printed_page": 67
+      "printed_page": 67,
+      "article_id": "art_1856_25_1",
+      "instrument_id": "instr_1856_25"
     },
     {
       "number": "الثانية",
@@ -11062,7 +11236,9 @@
         }
       ],
       "pdf_page": 67,
-      "printed_page": 67
+      "printed_page": 67,
+      "article_id": "art_1547_25_1",
+      "instrument_id": "instr_1547_25"
     },
     {
       "number": "الثالثة",
@@ -11075,7 +11251,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 67,
-      "printed_page": 67
+      "printed_page": 67,
+      "article_id": "art_1547_25_2",
+      "instrument_id": "instr_1547_25"
     },
     {
       "number": "الرابعة",
@@ -11187,7 +11365,9 @@
       ],
       "organizations": [],
       "pdf_page": 67,
-      "printed_page": 67
+      "printed_page": 67,
+      "article_id": "art_1547_25_3",
+      "instrument_id": "instr_1547_25"
     },
     {
       "number": "6",
@@ -11244,7 +11424,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 68,
-      "printed_page": 68
+      "printed_page": 68,
+      "article_id": "art_1547_25_4",
+      "instrument_id": "instr_1547_25"
     },
     {
       "number": "6",
@@ -11264,7 +11446,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 68,
-      "printed_page": 68
+      "printed_page": 68,
+      "article_id": "art_1547_25_5",
+      "instrument_id": "instr_1547_25"
     },
     {
       "number": "الثانية",
@@ -11291,7 +11475,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 68,
-      "printed_page": 68
+      "printed_page": 68,
+      "article_id": "art_1547_25_6",
+      "instrument_id": "instr_1547_25"
     },
     {
       "number": "الثالثة",
@@ -11608,7 +11794,9 @@
         }
       ],
       "pdf_page": 81,
-      "printed_page": 81
+      "printed_page": 81,
+      "article_id": "art_1547_25_7",
+      "instrument_id": "instr_1547_25"
     },
     {
       "number": "الثانية",
@@ -11621,7 +11809,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 81,
-      "printed_page": 81
+      "printed_page": 81,
+      "article_id": "art_1805_25_1",
+      "instrument_id": "instr_1805_25"
     },
     {
       "number": "الثالثة",
@@ -11634,7 +11824,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 82,
-      "printed_page": 82
+      "printed_page": 82,
+      "article_id": "art_1805_25_2",
+      "instrument_id": "instr_1805_25"
     },
     {
       "number": "الرابعة",
@@ -11654,7 +11846,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1805_25_3",
+      "instrument_id": "instr_1805_25"
     },
     {
       "number": "الخامسة",
@@ -11681,7 +11875,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1805_25_4",
+      "instrument_id": "instr_1805_25"
     },
     {
       "number": "السادسة",
@@ -11694,7 +11890,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1805_25_5",
+      "instrument_id": "instr_1805_25"
     },
     {
       "number": "السابعة",
@@ -11909,7 +12107,9 @@
         }
       ],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1805_25_6",
+      "instrument_id": "instr_1805_25"
     },
     {
       "number": "الثانية",
@@ -11922,7 +12122,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": null,
-      "printed_page": null
+      "printed_page": null,
+      "article_id": "art_1693_25_1",
+      "instrument_id": "instr_1693_25"
     },
     {
       "number": "الثالثة",
@@ -11935,7 +12137,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1693_25_2",
+      "instrument_id": "instr_1693_25"
     },
     {
       "number": "الرابعة",
@@ -11948,7 +12152,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1693_25_3",
+      "instrument_id": "instr_1693_25"
     },
     {
       "number": "الخامسة",
@@ -11987,7 +12193,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1693_25_4",
+      "instrument_id": "instr_1693_25"
     },
     {
       "number": "السادسة",
@@ -12000,7 +12208,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1693_25_5",
+      "instrument_id": "instr_1693_25"
     },
     {
       "number": "السابعة",
@@ -12034,86 +12244,118 @@
       ],
       "organizations": [],
       "pdf_page": 83,
-      "printed_page": 83
+      "printed_page": 83,
+      "article_id": "art_1693_25_6",
+      "instrument_id": "instr_1693_25"
     }
   ],
   "total_pdf_pages": 83,
   "instruments": [
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "846.25",
       "article_indices": [
         0,
         1,
         2
       ],
       "n_articles": 3,
-      "instrument_id": "instr_1"
+      "instrument_id": "instr_846_25",
+      "article_ids": [
+        "art_846_25_1",
+        "art_846_25_2",
+        "art_846_25_3"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "845.25",
       "article_indices": [
         3,
         4,
         5
       ],
       "n_articles": 3,
-      "instrument_id": "instr_2"
+      "instrument_id": "instr_845_25",
+      "article_ids": [
+        "art_845_25_1",
+        "art_845_25_2",
+        "art_845_25_3"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "846.25",
       "article_indices": [
         6,
         7,
         8
       ],
       "n_articles": 3,
-      "instrument_id": "instr_3"
+      "instrument_id": "instr_846_25_2",
+      "article_ids": [
+        "art_846_25_4",
+        "art_846_25_5",
+        "art_846_25_6"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "847.25",
       "article_indices": [
         9,
         10,
         11
       ],
       "n_articles": 3,
-      "instrument_id": "instr_4"
+      "instrument_id": "instr_847_25",
+      "article_ids": [
+        "art_847_25_1",
+        "art_847_25_2",
+        "art_847_25_3"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE_CONJOINT",
+      "reference": "1228.25",
       "article_indices": [
         12
       ],
       "n_articles": 1,
-      "instrument_id": "instr_5"
+      "instrument_id": "instr_1228_25",
+      "article_ids": [
+        "art_1228_25_1"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1890.25",
       "article_indices": [
         13,
         14
       ],
       "n_articles": 2,
-      "instrument_id": "instr_6"
+      "instrument_id": "instr_1890_25",
+      "article_ids": [
+        "art_1890_25_1",
+        "art_1890_25_2"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1891.25",
       "article_indices": [
         15
       ],
       "n_articles": 1,
-      "instrument_id": "instr_7"
+      "instrument_id": "instr_1891_25",
+      "article_ids": [
+        "art_1891_25_1"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE_CONJOINT",
+      "reference": "1563.25",
       "article_indices": [
         16,
         17,
@@ -12123,11 +12365,19 @@
         21
       ],
       "n_articles": 6,
-      "instrument_id": "instr_8"
+      "instrument_id": "instr_1563_25",
+      "article_ids": [
+        "art_1563_25_1",
+        "art_1563_25_2",
+        "art_1563_25_3",
+        "art_1563_25_4",
+        "art_1563_25_5",
+        "art_1563_25_6"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1665.25",
       "article_indices": [
         22,
         23,
@@ -12156,47 +12406,86 @@
         46
       ],
       "n_articles": 25,
-      "instrument_id": "instr_9"
+      "instrument_id": "instr_1665_25",
+      "article_ids": [
+        "art_1665_25_1",
+        "art_1665_25_2",
+        "art_1665_25_3",
+        "art_1665_25_4",
+        "art_1665_25_5",
+        "art_1665_25_6",
+        "art_1665_25_7",
+        "art_1665_25_8",
+        "art_1665_25_9",
+        "art_1665_25_10",
+        "art_1665_25_11",
+        "art_1665_25_12",
+        "art_1665_25_13",
+        "art_1665_25_14",
+        "art_1665_25_15",
+        "art_1665_25_16",
+        "art_1665_25_17",
+        "art_1665_25_18",
+        "art_1665_25_19",
+        "art_1665_25_20",
+        "art_1665_25_21",
+        "art_1665_25_22",
+        "art_1665_25_23",
+        "art_1665_25_24",
+        "art_1665_25_25"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.552",
       "article_indices": [
         47
       ],
       "n_articles": 1,
-      "instrument_id": "instr_10"
+      "instrument_id": "instr_2_25_552",
+      "article_ids": [
+        "art_2_25_552_1"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.559",
       "article_indices": [
         48
       ],
       "n_articles": 1,
-      "instrument_id": "instr_11"
+      "instrument_id": "instr_2_25_559",
+      "article_ids": [
+        "art_2_25_559_1"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.524",
       "article_indices": [
         49
       ],
       "n_articles": 1,
-      "instrument_id": "instr_12"
+      "instrument_id": "instr_2_25_524",
+      "article_ids": [
+        "art_2_25_524_1"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.556",
       "article_indices": [
         50
       ],
       "n_articles": 1,
-      "instrument_id": "instr_13"
+      "instrument_id": "instr_2_25_556",
+      "article_ids": [
+        "art_2_25_556_1"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.579",
       "article_indices": [
         51,
         52,
@@ -12205,47 +12494,66 @@
         55
       ],
       "n_articles": 5,
-      "instrument_id": "instr_14"
+      "instrument_id": "instr_2_25_579",
+      "article_ids": [
+        "art_2_25_579_1",
+        "art_2_25_579_2",
+        "art_2_25_579_3",
+        "art_2_25_579_4",
+        "art_2_25_579_5"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.607",
       "article_indices": [
         56
       ],
       "n_articles": 1,
-      "instrument_id": "instr_15"
+      "instrument_id": "instr_2_25_607",
+      "article_ids": [
+        "art_2_25_607_1"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.608",
       "article_indices": [
         57
       ],
       "n_articles": 1,
-      "instrument_id": "instr_16"
+      "instrument_id": "instr_2_25_608",
+      "article_ids": [
+        "art_2_25_608_1"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.609",
       "article_indices": [
         58
       ],
       "n_articles": 1,
-      "instrument_id": "instr_17"
+      "instrument_id": "instr_2_25_609",
+      "article_ids": [
+        "art_2_25_609_1"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.610",
       "article_indices": [
         59
       ],
       "n_articles": 1,
-      "instrument_id": "instr_18"
+      "instrument_id": "instr_2_25_610",
+      "article_ids": [
+        "art_2_25_610_1"
+      ]
     },
     {
       "instrument_type": "DECRET",
-      "reference": null,
+      "reference": "2.25.612",
       "article_indices": [
         60,
         61,
@@ -12271,56 +12579,95 @@
         81
       ],
       "n_articles": 22,
-      "instrument_id": "instr_19"
+      "instrument_id": "instr_2_25_612",
+      "article_ids": [
+        "art_2_25_612_1",
+        "art_2_25_612_2",
+        "art_2_25_612_3",
+        "art_2_25_612_4",
+        "art_2_25_612_5",
+        "art_2_25_612_6",
+        "art_2_25_612_7",
+        "art_2_25_612_8",
+        "art_2_25_612_9",
+        "art_2_25_612_10",
+        "art_2_25_612_11",
+        "art_2_25_612_12",
+        "art_2_25_612_13",
+        "art_2_25_612_14",
+        "art_2_25_612_15",
+        "art_2_25_612_16",
+        "art_2_25_612_17",
+        "art_2_25_612_18",
+        "art_2_25_612_19",
+        "art_2_25_612_20",
+        "art_2_25_612_21",
+        "art_2_25_612_22"
+      ]
     },
     {
-      "instrument_type": "DECRET",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": null,
       "article_indices": [
         82
       ],
       "n_articles": 1,
-      "instrument_id": "instr_20"
+      "instrument_id": "instr_20",
+      "article_ids": [
+        "art_20_1"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1848.25",
       "article_indices": [
         83
       ],
       "n_articles": 1,
-      "instrument_id": "instr_21"
+      "instrument_id": "instr_1848_25",
+      "article_ids": [
+        "art_1848_25_1"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1854.25",
       "article_indices": [
         84
       ],
       "n_articles": 1,
-      "instrument_id": "instr_22"
+      "instrument_id": "instr_1854_25",
+      "article_ids": [
+        "art_1854_25_1"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1855.25",
       "article_indices": [
         85
       ],
       "n_articles": 1,
-      "instrument_id": "instr_23"
+      "instrument_id": "instr_1855_25",
+      "article_ids": [
+        "art_1855_25_1"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1856.25",
       "article_indices": [
         86
       ],
       "n_articles": 1,
-      "instrument_id": "instr_24"
+      "instrument_id": "instr_1856_25",
+      "article_ids": [
+        "art_1856_25_1"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1547.25",
       "article_indices": [
         87,
         88,
@@ -12331,11 +12678,20 @@
         93
       ],
       "n_articles": 7,
-      "instrument_id": "instr_25"
+      "instrument_id": "instr_1547_25",
+      "article_ids": [
+        "art_1547_25_1",
+        "art_1547_25_2",
+        "art_1547_25_3",
+        "art_1547_25_4",
+        "art_1547_25_5",
+        "art_1547_25_6",
+        "art_1547_25_7"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "DECISION",
+      "reference": "1805.25",
       "article_indices": [
         94,
         95,
@@ -12345,11 +12701,19 @@
         99
       ],
       "n_articles": 6,
-      "instrument_id": "instr_26"
+      "instrument_id": "instr_1805_25",
+      "article_ids": [
+        "art_1805_25_1",
+        "art_1805_25_2",
+        "art_1805_25_3",
+        "art_1805_25_4",
+        "art_1805_25_5",
+        "art_1805_25_6"
+      ]
     },
     {
-      "instrument_type": "DECRET",
-      "reference": null,
+      "instrument_type": "ARRETE",
+      "reference": "1693.25",
       "article_indices": [
         100,
         101,
@@ -12359,7 +12723,15 @@
         105
       ],
       "n_articles": 6,
-      "instrument_id": "instr_27"
+      "instrument_id": "instr_1693_25",
+      "article_ids": [
+        "art_1693_25_1",
+        "art_1693_25_2",
+        "art_1693_25_3",
+        "art_1693_25_4",
+        "art_1693_25_5",
+        "art_1693_25_6"
+      ]
     }
   ],
   "n_instruments": 27,

@@ -1452,7 +1452,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 6,
-      "printed_page": 9390
+      "printed_page": 9390,
+      "article_id": "art_454_26_1",
+      "instrument_id": "instr_454_26"
     },
     {
       "number": "2",
@@ -1497,7 +1499,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 6,
-      "printed_page": 9390
+      "printed_page": 9390,
+      "article_id": "art_454_26_2",
+      "instrument_id": "instr_454_26"
     },
     {
       "number": "Annexe",
@@ -1517,7 +1521,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 35
+      "printed_page": 35,
+      "article_id": "art_454_26_3",
+      "instrument_id": "instr_454_26"
     },
     {
       "number": "PREMIER",
@@ -1530,7 +1536,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 35
+      "printed_page": 35,
+      "article_id": "art_304_26_1",
+      "instrument_id": "instr_304_26"
     },
     {
       "number": "2",
@@ -1550,7 +1558,9 @@
         }
       ],
       "pdf_page": 9,
-      "printed_page": 35
+      "printed_page": 35,
+      "article_id": "art_304_26_2",
+      "instrument_id": "instr_304_26"
     },
     {
       "number": "3",
@@ -1595,7 +1605,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 9,
-      "printed_page": 35
+      "printed_page": 35,
+      "article_id": "art_304_26_3",
+      "instrument_id": "instr_304_26"
     },
     {
       "number": "PREMIER",
@@ -1652,7 +1664,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 746
+      "printed_page": 746,
+      "article_id": "art_2_26_143_1",
+      "instrument_id": "instr_2_26_143"
     },
     {
       "number": "2",
@@ -1776,7 +1790,9 @@
         }
       ],
       "pdf_page": 10,
-      "printed_page": 746
+      "printed_page": 746,
+      "article_id": "art_2_26_143_2",
+      "instrument_id": "instr_2_26_143"
     },
     {
       "number": "PREMIER",
@@ -1839,7 +1855,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 10,
-      "printed_page": 746
+      "printed_page": 746,
+      "article_id": "art_2_26_143_3",
+      "instrument_id": "instr_2_26_143"
     },
     {
       "number": "2",
@@ -1891,7 +1909,9 @@
         }
       ],
       "pdf_page": 11,
-      "printed_page": 747
+      "printed_page": 747,
+      "article_id": "art_2_26_143_4",
+      "instrument_id": "instr_2_26_143"
     },
     {
       "number": "PREMIER",
@@ -1979,7 +1999,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 747
+      "printed_page": 747,
+      "article_id": "art_2_26_183_1",
+      "instrument_id": "instr_2_26_183"
     },
     {
       "number": "2",
@@ -2024,7 +2046,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 11,
-      "printed_page": 747
+      "printed_page": 747,
+      "article_id": "art_2_26_183_2",
+      "instrument_id": "instr_2_26_183"
     },
     {
       "number": "PREMIER",
@@ -2112,7 +2136,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 748
+      "printed_page": 748,
+      "article_id": "art_351_26_1",
+      "instrument_id": "instr_351_26"
     },
     {
       "number": "2",
@@ -2170,7 +2196,9 @@
       ],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 748
+      "printed_page": 748,
+      "article_id": "art_351_26_2",
+      "instrument_id": "instr_351_26"
     },
     {
       "number": "PREMIER",
@@ -2246,7 +2274,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 748
+      "printed_page": 748,
+      "article_id": "art_462_26_1",
+      "instrument_id": "instr_462_26"
     },
     {
       "number": "2",
@@ -2298,7 +2328,9 @@
       ],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 748
+      "printed_page": 748,
+      "article_id": "art_462_26_2",
+      "instrument_id": "instr_462_26"
     },
     {
       "number": "PREMIER",
@@ -2374,7 +2406,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 748
+      "printed_page": 748,
+      "article_id": "art_3063_25_1",
+      "instrument_id": "instr_3063_25"
     },
     {
       "number": "2",
@@ -2432,7 +2466,9 @@
       ],
       "organizations": [],
       "pdf_page": 12,
-      "printed_page": 748
+      "printed_page": 748,
+      "article_id": "art_3063_25_2",
+      "instrument_id": "instr_3063_25"
     },
     {
       "number": "PREMIER",
@@ -2472,7 +2508,9 @@
       ],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 749
+      "printed_page": 749,
+      "article_id": "art_8_1",
+      "instrument_id": "instr_8"
     },
     {
       "number": "2",
@@ -2517,7 +2555,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 749
+      "printed_page": 749,
+      "article_id": "art_8_2",
+      "instrument_id": "instr_8"
     },
     {
       "number": "PREMIER",
@@ -2550,7 +2590,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 749
+      "printed_page": 749,
+      "article_id": "art_9_1",
+      "instrument_id": "instr_9"
     },
     {
       "number": "2",
@@ -2595,7 +2637,9 @@
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
-      "printed_page": 749
+      "printed_page": 749,
+      "article_id": "art_9_2",
+      "instrument_id": "instr_9"
     }
   ],
   "total_pdf_pages": 50,
@@ -2609,7 +2653,12 @@
         2
       ],
       "n_articles": 3,
-      "instrument_id": "instr_1"
+      "instrument_id": "instr_454_26",
+      "article_ids": [
+        "art_454_26_1",
+        "art_454_26_2",
+        "art_454_26_3"
+      ]
     },
     {
       "instrument_type": "DECISION",
@@ -2620,7 +2669,12 @@
         5
       ],
       "n_articles": 3,
-      "instrument_id": "instr_2"
+      "instrument_id": "instr_304_26",
+      "article_ids": [
+        "art_304_26_1",
+        "art_304_26_2",
+        "art_304_26_3"
+      ]
     },
     {
       "instrument_type": "DECRET",
@@ -2632,7 +2686,13 @@
         9
       ],
       "n_articles": 4,
-      "instrument_id": "instr_3"
+      "instrument_id": "instr_2_26_143",
+      "article_ids": [
+        "art_2_26_143_1",
+        "art_2_26_143_2",
+        "art_2_26_143_3",
+        "art_2_26_143_4"
+      ]
     },
     {
       "instrument_type": "DECRET",
@@ -2642,7 +2702,11 @@
         11
       ],
       "n_articles": 2,
-      "instrument_id": "instr_4"
+      "instrument_id": "instr_2_26_183",
+      "article_ids": [
+        "art_2_26_183_1",
+        "art_2_26_183_2"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -2652,7 +2716,11 @@
         13
       ],
       "n_articles": 2,
-      "instrument_id": "instr_5"
+      "instrument_id": "instr_351_26",
+      "article_ids": [
+        "art_351_26_1",
+        "art_351_26_2"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -2662,7 +2730,11 @@
         15
       ],
       "n_articles": 2,
-      "instrument_id": "instr_6"
+      "instrument_id": "instr_462_26",
+      "article_ids": [
+        "art_462_26_1",
+        "art_462_26_2"
+      ]
     },
     {
       "instrument_type": "ARRETE",
@@ -2672,7 +2744,11 @@
         17
       ],
       "n_articles": 2,
-      "instrument_id": "instr_7"
+      "instrument_id": "instr_3063_25",
+      "article_ids": [
+        "art_3063_25_1",
+        "art_3063_25_2"
+      ]
     },
     {
       "instrument_type": "DECISION",
@@ -2682,7 +2758,11 @@
         19
       ],
       "n_articles": 2,
-      "instrument_id": "instr_8"
+      "instrument_id": "instr_8",
+      "article_ids": [
+        "art_8_1",
+        "art_8_2"
+      ]
     },
     {
       "instrument_type": "DECISION",
@@ -2692,49 +2772,59 @@
         21
       ],
       "n_articles": 2,
-      "instrument_id": "instr_9"
+      "instrument_id": "instr_9",
+      "article_ids": [
+        "art_9_1",
+        "art_9_2"
+      ]
     },
     {
       "instrument_type": "CIRCULAIRE",
       "reference": null,
       "article_indices": [],
       "n_articles": 0,
-      "instrument_id": "instr_10"
+      "instrument_id": "instr_10",
+      "article_ids": []
     },
     {
       "instrument_type": "DECRET",
       "reference": null,
       "article_indices": [],
       "n_articles": 0,
-      "instrument_id": "instr_11"
+      "instrument_id": "instr_11",
+      "article_ids": []
     },
     {
       "instrument_type": "DECRET",
       "reference": null,
       "article_indices": [],
       "n_articles": 0,
-      "instrument_id": "instr_12"
+      "instrument_id": "instr_12",
+      "article_ids": []
     },
     {
       "instrument_type": "DECRET",
       "reference": null,
       "article_indices": [],
       "n_articles": 0,
-      "instrument_id": "instr_13"
+      "instrument_id": "instr_13",
+      "article_ids": []
     },
     {
       "instrument_type": "DECRET",
       "reference": null,
       "article_indices": [],
       "n_articles": 0,
-      "instrument_id": "instr_14"
+      "instrument_id": "instr_14",
+      "article_ids": []
     },
     {
       "instrument_type": "CIRCULAIRE",
       "reference": null,
       "article_indices": [],
       "n_articles": 0,
-      "instrument_id": "instr_15"
+      "instrument_id": "instr_15",
+      "article_ids": []
     }
   ],
   "n_instruments": 15

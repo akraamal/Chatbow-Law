@@ -526,6 +526,68 @@ def _ref_is_false_positive(match: re.Match, text: str) -> bool:
     return False
 
 
+def _slugify_ref(ref: str | None) -> str:
+    """Transforme une référence (ex. '936-26', 'n° 168-26', '1.60.063')
+
+    en slug stable pour construire instrument_id/article_id :
+        '936-26' -> '936_26'
+        'n° 168-26' -> '168_26'
+        '1.60.063' -> '1_60_063'
+    """
+    if not ref:
+        return ""
+    # retire préfixe 'n°'/'nº' éventuel, conserve chiffres + séparateurs
+    s = re.sub(r"^\s*n\s*[°ºo]\s*", "", ref, flags=re.IGNORECASE).strip()
+    s = re.sub(r"[-–—.]", "_", s)
+    s = re.sub(r"[^0-9_]", "", s)
+    return s.strip("_")
+
+
+def _assign_stable_ids(instruments: list[dict], articles: list[dict]) -> None:
+    """
+    Remplace les instrument_id positionnels (instr_1, instr_2…) par des ID
+    stables dérivés de la référence, et donne à chaque article un article_id
+    stable rattaché à son instrument.
+
+    Conventions (alignées sur le schéma optimal) :
+        instrument_id : 'instr_936_26'   (slug de la référence)
+        article_id    : 'art_936_26_1'   (slug instrument + rang 1-based dans l'instrument)
+        instrument.article_ids : liste des article_id (en plus de article_indices,
+                                 conservé pour la rétrocompatibilité)
+        article.instrument_id  : ID de l'instrument propriétaire
+
+    En cas de référence absente ou de collision (deux instruments même slug),
+    on retombe sur un suffixe numérique stable dans l'ordre document.
+    """
+    used_iids: set[str] = set()
+    used_aids: set[str] = set()
+
+    for idx, instr in enumerate(instruments, 1):
+        base = _slugify_ref(instr.get("reference"))
+        candidate = f"instr_{base}" if base else f"instr_{idx}"
+        suffix = 2
+        while candidate in used_iids:
+            candidate = f"instr_{base}_{suffix}" if base else f"instr_{idx}_{suffix}"
+            suffix += 1
+        used_iids.add(candidate)
+        instr["instrument_id"] = candidate
+
+        article_ids: list[str] = []
+        for pos, art_idx in enumerate(instr.get("article_indices", []), 1):
+            if not (0 <= art_idx < len(articles)):
+                continue
+            art = articles[art_idx]
+            aid = f"art_{base}_{pos}" if base else f"art_{idx}_{pos}"
+            while aid in used_aids:
+                pos += 1
+                aid = f"art_{base}_{pos}" if base else f"art_{idx}_{pos}"
+            used_aids.add(aid)
+            art["article_id"] = aid
+            art["instrument_id"] = candidate
+            article_ids.append(aid)
+        instr["article_ids"] = article_ids
+
+
 def _mergeable_refs(prev: dict, curr: dict) -> bool:
     """Return True if *curr* should be merged into *prev* as a sub-instrument.
 
@@ -652,8 +714,8 @@ def _group_into_instruments(
                 merged.append(instr)
         instruments = merged
 
-        for idx, instr in enumerate(instruments, 1):
-            instr["instrument_id"] = f"instr_{idx}"
+        _assign_stable_ids(instruments, articles)
+        for instr in instruments:
             instr.pop("_preamble", None)  # internal field, not for output
         return instruments
 
@@ -687,8 +749,7 @@ def _group_into_instruments(
             _make_instrument(articles, current_start, len(articles), prev_preamble_context)
         )
 
-    for idx, instr in enumerate(instruments, 1):
-        instr["instrument_id"] = f"instr_{idx}"
+    _assign_stable_ids(instruments, articles)
 
     return instruments
 

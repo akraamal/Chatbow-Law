@@ -30,6 +30,8 @@ OPTIONAL_ARTICLE_FIELDS = {
     "persons": list,
     "organizations": list,
     "extracted_tables": list,
+    "article_id": str,
+    "instrument_id": str,
 }
 
 REQUIRED_INSTRUMENT_FIELDS = {
@@ -39,6 +41,10 @@ REQUIRED_INSTRUMENT_FIELDS = {
     # Les instruments produisent `article_indices` (indices dans l'array
     # plat data["articles"]) depuis le refactor de _group_into_instruments.
     "article_indices": list,
+    # Depuis l'audit 2026-08 : IDs stables — instrument_id dérivé de la
+    # référence (instr_936_26) et article_ids référencent les articles par
+    # ID stable (art_936_26_1) plutôt que par indice uniquement.
+    "article_ids": list,
 }
 
 REQUIRED_DOC_FIELDS = {
@@ -104,6 +110,32 @@ def validate_enriched_json(path: Path) -> list[str]:
         ids = [i.get("instrument_id") for i in instruments]
         if len(ids) != len(set(ids)):
             errors.append("duplicate instrument_id values")
+
+        # Stable-ID consistency (audit 2026-08) :
+        #  1. instrument.article_ids correspond exactement aux article_id
+        #     des articles référencés par article_indices ;
+        #  2. chaque article porte l'instrument_id de son instrument ;
+        #  3. les article_id sont uniques dans tout le document.
+        articles_flat = data.get("articles", [])
+        for i, instr in enumerate(instruments):
+            art_ids = instr.get("article_ids", [])
+            idxs = instr.get("article_indices", [])
+            if len(art_ids) != len(idxs):
+                errors.append(f"instruments[{i}]: article_ids len {len(art_ids)} "
+                              f"!= article_indices len {len(idxs)}")
+            for j, idx in enumerate(idxs[:len(art_ids)]):
+                art = articles_flat[idx] if idx < len(articles_flat) else {}
+                if art.get("article_id") != art_ids[j]:
+                    errors.append(f"instruments[{i}]: article_indices[{j}] -> "
+                                  f"article_id '{art.get('article_id')}' != article_ids[{j}] "
+                                  f"'{art_ids[j]}'")
+                if art.get("instrument_id") != instr.get("instrument_id"):
+                    errors.append(f"instruments[{i}]: article_indices[{j}] has "
+                                  f"instrument_id '{art.get('instrument_id')}' != "
+                                  f"'{instr.get('instrument_id')}'")
+        all_article_ids = [a.get("article_id") for a in articles_flat if a.get("article_id")]
+        if len(all_article_ids) != len(set(all_article_ids)):
+            errors.append("duplicate article_id values")
 
     # Page mapping consistency: total_pdf_pages if backfill ran
     tpp = data.get("total_pdf_pages")
