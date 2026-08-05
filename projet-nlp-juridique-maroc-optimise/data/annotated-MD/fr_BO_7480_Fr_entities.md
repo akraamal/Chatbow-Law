@@ -957,7 +957,8 @@ litiges concernant les droits dont elles ont la libre disposition,
 dans les limites et selon les formes et procédures prévues par
 la présente loi.
 
-*Entités :* `9 ramadan 1331` (DATE_HIJRI), `12 août 1913` (DATE_GREGORIAN)
+*Entités :* `9 ramadan
+1331` (DATE_HIJRI), `12 août 1913` (DATE_GREGORIAN)
 
 *Dates :* 9 ramadan 1331, 12 août 1913
 
@@ -2591,7 +2592,8 @@ date visée au 1er paragraphe ci-dessus, jusqu' à leur
 règlement définitif et l'épuisement de toutes les voies
 de recours.
 
-*Entités :* `dahir portant loi n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974)` (DAHIR)
+*Entités :* `dahir portant loi n° 1-74-447
+du 11 ramadan 1394 (28 septembre 1974)` (DAHIR)
 
 
 ## Article 104
@@ -2624,7 +2626,7 @@ civile approuvé par le dahir portant loi n°  1-74-447 du
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7099 du 13 kaada 1443 (13 juin 2022).
 
-*Entités :* `loi n° 1-74-447` (LOI), `11 ramadan 1394` (DATE_HIJRI), `28 septembre 1974` (DATE_GREGORIAN), `Bulletin officiel » n° 7099 du 13 kaada 1443 (13 juin 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `loi n°  1-74-447` (LOI), `11 ramadan 1394` (DATE_HIJRI), `28 septembre 1974` (DATE_GREGORIAN), `Bulletin officiel » n° 7099 du 13 kaada 1443 (13 juin 2022)` (BULLETIN_OFFICIEL)
 
 *Citations :*
 
@@ -2654,7 +2656,8 @@ promulguée par le dahir n°1-01-126 du 29 rabii I 1422 (22 juin
 « 6 de l'article 4 ci-dessus, satisfaire les critères de qualification
 « énoncés au paragraphe 8 de l'article 3 de la présente loi. »
 
-*Entités :* `loi n° 45-00 relative aux experts judiciaires,` (LOI), `dahir n°1-01-126` (DAHIR), `29 rabii I 1422` (DATE_HIJRI), `22 juin 2001` (DATE_GREGORIAN), `loi n°45-00 relative aux experts judiciaires` (LOI), `loi n°45-00 relative aux experts judiciaires, telle qu'adoptée par` (LOI)
+*Entités :* `loi n° 45-00 relative aux experts judiciaires,` (LOI), `dahir n°1-01-126` (DAHIR), `29 rabii I 1422` (DATE_HIJRI), `22 juin
+2001` (DATE_GREGORIAN), `45-00` (LOI), `45-00` (LOI)
 
 *Citations :*
 
@@ -2677,7 +2680,7 @@ précitée sont modifiées comme suit :
 « ou à l'article 4 bis, selon le cas, de la présente loi est inscrit
 «  […texte non modifié…]  national. »
 
-*Entités :* `loi n°45-00` (LOI), `loi n°45-00 relative aux experts judiciaires` (LOI), `loi n°45-00 relative aux experts judiciaires, telle qu'adoptée par` (LOI)
+*Entités :* `loi n°45-00` (LOI), `45-00` (LOI), `45-00` (LOI)
 
 *Citations :*
 
@@ -2720,7 +2723,7 @@ suit :
 « les personnes chargées de réaliser  l'expertise pour participer
 « aux sessions de formation précitées.»
 
-*Entités :* `loi n° 45-00` (LOI), `loi n°45-00 relative aux experts judiciaires` (LOI), `loi n°45-00 relative aux experts judiciaires, telle qu'adoptée par` (LOI)
+*Entités :* `loi n° 45-00` (LOI), `45-00` (LOI), `45-00` (LOI)
 
 *Citations :*
 
@@ -2784,7 +2787,7 @@ des informations précises sur la consommation de
 l'énergie des produits, afin de permettre aux clients de
 mieux choisir le produit.
 
-*Entités :* `loi n° 47-09 relative à l'efficacité énergétique,` (LOI)
+*Entités :* `47-09` (LOI)
 
 *Citations :*
 
@@ -2863,7 +2866,8 @@ par l'autorité gouvernementale chargée de l'industrie ou les
 organismes agréés par ladite autorité conformément à la loi
 n° 24-09 susvisée.
 
-*Entités :* `loi n° 24-09` (LOI), `loi n° 24-09 relative à la sécurité des produits et` (LOI)
+*Entités :* `loi
+n° 24-09` (LOI), `24-09` (LOI)
 
 
 ## Article 6
@@ -2993,6 +2997,38 @@ par la consommation d'électricité annuelle pour le chauffage.
 *ART. 2. –*
 
 Le présent arrêté conjoint s'applique aux
+climatiseurs fonctionnant à l'électricité ayant une puissance
+frigorifqiue nominale, ou une puissance calorifqiue nominale,
+si l'équipement ne dispose pas de fonction de refroidissement,
+inférieure ou égale à 12 kW.
+Le présent arrêté conjoint ne s'applique pas aux
+climatiseurs :
+a) alimentés par des sources d'énergie non électriques ;
+b) dont la partie condenseur et/ou la partie évaporateur
+n'utilisent pas l'air comme fulide caloporteur.
+
+*Entités :* `arrêté conjoint` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+L'étiquetage énergétique des climatiseurs est
+défini selon la forme conformément à la norme NM 14.2.302
+intitulée « Etiquetage énergétique des produits électriques
+et des appareils électroménagers  : exigences pour les
+climatiseurs ».
+
+
+## Article 4
+
+*ART. 4.  –*
+
+Les exigences relatives à l'étiquetage
+énergétique des appareils mentionnés dans le deuxième article
+ci-dessus entreront en vigueur 6 (six) mois à partir de la date
+de publication de cet arrêté conjoint au « Bulletin officiel ».
 
 *Entités :* `arrêté conjoint` (ARRETE)
 
@@ -3004,60 +3040,25 @@ Le présent arrêté conjoint s'applique aux
 Les seuils relatifs aux performances
 énergétiques minimales des climatiseurs, sont définies dans
 l'annexe de cet arrêté conjoint.
-climatiseurs fonctionnant à l'électricité ayant une puissance
-frigorifqiue nominale, ou une puissance calorifqiue nominale,
 Les seuils relatifs aux performances énergétiques
 minimales sont applicables progressivement en deux phases
 selon le calendrier suivant :
-si l'équipement ne dispose pas de fonction de refroidissement,
-inférieure ou égale à 12 kW.
 • Phase 1 : à partir de douze (12) mois après la publication
 de cet arrêté conjoint au « Bulletin officiel » :
-Le présent arrêté conjoint ne s'applique pas aux
 a) les climatiseurs à simple et à double conduit doivent
 respecter les seuils fixés au point 1 de l'annexe jointe au présent
 arrêté conjoint.
-climatiseurs :
-a) alimentés par des sources d'énergie non électriques ;
 b) les climatiseurs, à l'exception des climatiseurs à
 simple et à double conduit, doivent respecter les seuils fixés
 au point 2 de l'annexe jointe au présent arrêté conjoint.
-b) dont la partie condenseur et/ou la partie évaporateur
-n'utilisent pas l'air comme fulide caloporteur.
 • Phase 2 : à partir de quatre (4) années après la publication
 jointe au présent arrêté conjoint au « Bulletin officiel » :
-
-*Entités :* `arrêté conjoint` (ARRETE)
-
-
-## Article 3
-
-*ART. 3. –*
-
-L'étiquetage énergétique des climatiseurs est
 a) les climatiseurs à simple et à double conduit doivent
 respecter les seuils fixés au points 3 et 4 de l'annexe jointe au
 présent arrêté conjoint.
-défini selon la forme conformément à la norme NM 14.2.302
-intitulée « Etiquetage énergétique des produits électriques
 b) les climatiseurs, à l'exception des climatiseurs à
 simple et à double conduit, doivent respecter les seuils fixés
 au point 3 de l'annexe jointe au présent arrêté conjoint
-et des appareils électroménagers  : exigences pour les
-climatiseurs ».
-
-*Entités :* `arrêté conjoint` (ARRETE)
-
-
-## Article 4
-
-*ART. 4.  –*
-
-Les exigences relatives à l'étiquetage
-énergétique des appareils mentionnés dans le deuxième article
-ci-dessus entreront en vigueur 6 (six) mois à partir de la date
-de publication de cet arrêté conjoint au « Bulletin officiel ».
-*
 
 *Entités :* `arrêté conjoint` (ARRETE)
 
@@ -3075,6 +3076,7 @@ développement durable,
 et du commerce,
 RYAD MEZZOUR.
 LEILA BENALI.
+*
 
 *Entités :* `arrêté conjoint` (ARRETE), `29 kaada 1445` (DATE_HIJRI), `7 juin 2024` (DATE_GREGORIAN)
 
@@ -3430,7 +3432,7 @@ du 30 rejeb 1436 (19 mai 2015) susvisé :
 «  Ledit bilan est adressé  […texte non modifié…]  l'autorité
 « gouvernementale chargée de l'environnement. »
 
-*Entités :* `décret n° 2-14-782` (DECRET), `30 rejeb 1436` (DATE_HIJRI), `19 mai 2015` (DATE_GREGORIAN), `loi n° 11-03` (LOI), `loi n° 12-03` (LOI), `loi n° 13-03` (LOI), `loi n° 28-00` (LOI), `loi n° 81-12` (LOI), `arrêté` (ARRETE), `loi n° 81-12 relative au littoral, promulguée par` (LOI)
+*Entités :* `décret n° 2-14-782` (DECRET), `30 rejeb 1436` (DATE_HIJRI), `19 mai 2015` (DATE_GREGORIAN), `loi n° 11-03` (LOI), `loi n° 12-03` (LOI), `loi n° 13-03` (LOI), `loi n° 28-00` (LOI), `loi n° 81-12` (LOI), `arrêté` (ARRETE), `81-12` (LOI)
 
 *Citations :*
 
@@ -4066,7 +4068,7 @@ susvisé, est perçu définitivement au profit du Trésor,
 conformément aux dispositions de l'article 33 de la loi précitée
 n°15-09.
 
-*Entités :* `arrêté conjoint` (ARRETE), `loi n°15-09 relative aux mesures de défense commerciale,` (LOI), `loi n°15-09 relative aux mesures` (LOI)
+*Entités :* `arrêté conjoint` (ARRETE), `15-09` (LOI), `15-09` (LOI)
 
 *Citations :*
 
@@ -4129,7 +4131,9 @@ Droit antidumping définitif à appliquer aux
 importations de Polychlorure de Vinyle originaires d'Egypte
 par producteurs et/ou exportateurs
 
-*Entités :* `arrêté conjoint du ministre de l'industrie` (ARRETE), `ministre de l'économie et des finances` (MINISTERE), `8 rejeb 1447` (DATE_HIJRI), `29 décembre 2025` (DATE_GREGORIAN)
+*Entités :* `arrêté conjoint du ministre de l'industrie` (ARRETE), `ministre de l'économie et des finances` (MINISTERE), `8 rejeb 1447` (DATE_HIJRI), `29 décembre 2025` (DATE_GREGORIAN), `ministre de l'industrie
+et du commerce` (MINISTERE), `arrêté conjoint du ministre de l'industrie
+et du` (ARRETE)
 
 *Dates :* 8 rejeb 1447, 29 décembre 2025
 
@@ -4169,7 +4173,9 @@ ajusté pour le rendre au stade « sortie usine ».
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7478 du 9 chaabane 1447 (29 janvier 2026).
 
-*Entités :* `arrêté conjoint du ministre de l'industrie` (ARRETE), `ministre de l'économie et des finances` (MINISTERE), `8 rejeb 1447` (DATE_HIJRI), `29 décembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7478 du 9 chaabane 1447 (29 janvier 2026)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté conjoint du ministre de l'industrie` (ARRETE), `ministre de l'économie et des finances` (MINISTERE), `8 rejeb 1447` (DATE_HIJRI), `29 décembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7478 du 9 chaabane 1447 (29 janvier 2026)` (BULLETIN_OFFICIEL), `ministre de l'industrie
+et du commerce` (MINISTERE), `arrêté conjoint du ministre de l'industrie
+et du` (ARRETE)
 
 *Organisations :* Office des changes
 
@@ -4187,7 +4193,7 @@ ci-dessus, fgiurant à l'annexe n° 2 jointe au présent arrêté.
 Les prix des médicaments fgiurant à l'annexe de l'arrêté visé ci-dessus n° 787-14, tel qu'il a été modifié et
 complété par les arrêtés subséquents, sont révisés à la baisse tel qu'indiqué à l'annexe n° 3 au présent arrêté.
 
-*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `arrêté n° 787-14` (ARRETE)
+*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `787-14` (ARRETE)
 
 
 ## Article 2
@@ -4212,7 +4218,7 @@ Les prix des médicaments fgiurant à l'annexe de l'arrêté visé ci-dessus n°
 tel qu'il a été modifié et complété par les arrêtés subséquents, sont révisés à la hausse tel qu'indiqué à l'annexe
 n° 1 au présent arrêté.
 
-*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `arrêté n° 787-14` (ARRETE)
+*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `787-14` (ARRETE)
 
 
 ## Article 2
@@ -4240,7 +4246,7 @@ ci-dessus, fgiurant à l'annexe n° 2 jointe au présent arrêté.
 Les prix des médicaments fgiurant à l'annexe de l'arrêté visé ci-dessus n° 787-14, tel qu'il a été modifié et
 complété par les arrêtés subséquents, sont révisés à la baisse tel qu'indiqué à l'annexe n° 3 au présent arrêté.
 
-*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `arrêté n° 787-14` (ARRETE)
+*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `787-14` (ARRETE)
 
 
 ## Article 2
@@ -4268,7 +4274,7 @@ ci-dessus, fgiurant à l'annexe n° 2 jointe au présent arrêté.
 Les prix des médicaments fgiurant à l'annexe de l'arrêté visé ci-dessus n° 787-14, tel qu'il a été modifié et
 complété par les arrêtés subséquents, sont révisés à la baisse tel qu'indiqué à l'annexe n° 3 au présent arrêté.
 
-*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `arrêté n° 787-14` (ARRETE)
+*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `787-14` (ARRETE)
 
 
 ## Article 2
@@ -4293,7 +4299,8 @@ La liste II des marchandises soumises à la licence d'exportation, annexée à l
 ministre du commerce extérieur, des investissements extérieurs et de l'artisanat susvisé n° 1308-94 du 7 kaada 1414
 (19 avril 1994) est complétée par la liste des marchandises fgiurant à l'annexe du présent arrêté.
 
-*Entités :* `arrêté du ministre du commerce extérieur` (ARRETE), `7 kaada 1414` (DATE_HIJRI), `19 avril 1994` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté du
+ministre du commerce extérieur` (ARRETE), `7 kaada 1414` (DATE_HIJRI), `19 avril 1994` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Dates :* 7 kaada 1414, 19 avril 1994
 
@@ -4389,7 +4396,8 @@ la sécurité des produits et des services et complétant le dahir
 du 9 ramadan 1331 (12 août 1913) formant code des obligations
 et des contrats, notamment ses articles 4 et 5 ;
 
-*Entités :* `arrêté` (ARRETE), `27 moharrem 1446` (DATE_HIJRI), `2 août 2024` (DATE_GREGORIAN), `MINISTRE DE L'INDUSTRIE ET DU COMMERCE` (MINISTERE), `loi n° 24-09 relative à la sécurité des produits` (LOI), `9 ramadan 1331` (DATE_HIJRI), `12 août 1913` (DATE_GREGORIAN), `dahir n° 1-11-140 du 16 ramadan 1432 (17 août 2011)` (DAHIR), `Bulletin officiel » n° 7331 du 28 safar 1446 (2 septembre 2024)` (BULLETIN_OFFICIEL), `décret n° 2-12-502` (DECRET), `2 rejeb 1434` (DATE_HIJRI), `13 mai 2013` (DATE_GREGORIAN), `loi n° 24-09 relative à` (LOI)
+*Entités :* `arrêté` (ARRETE), `27 moharrem 1446` (DATE_HIJRI), `2 août 2024` (DATE_GREGORIAN), `MINISTRE DE L'INDUSTRIE ET DU COMMERCE` (MINISTERE), `loi n° 24-09 relative à la sécurité des produits` (LOI), `9 ramadan 1331` (DATE_HIJRI), `12 août 1913` (DATE_GREGORIAN), `dahir n° 1-11-140 du 16 ramadan 1432
+(17 août 2011)` (DAHIR), `Bulletin officiel » n° 7331 du 28 safar 1446 (2 septembre 2024)` (BULLETIN_OFFICIEL), `décret n° 2-12-502` (DECRET), `2 rejeb 1434` (DATE_HIJRI), `13 mai 2013` (DATE_GREGORIAN), `loi n° 24-09 relative à` (LOI)
 
 *Citations :*
 
@@ -4414,7 +4422,8 @@ la sécurité des produits et des services et complétant le dahir
 du 9 ramadan 1331 (12 août 1913) formant code des obligations
 et des contrats, notamment ses articles 4 et 5 ;
 
-*Entités :* `arrêté` (ARRETE), `décret n° 2-12-502` (DECRET), `2 rejeb 1434` (DATE_HIJRI), `13 mai 2013` (DATE_GREGORIAN), `loi n° 24-09 relative à` (LOI), `9 ramadan 1331` (DATE_HIJRI), `12 août 1913` (DATE_GREGORIAN), `loi n° 24-09 relative à la sécurité des produits` (LOI)
+*Entités :* `arrêté` (ARRETE), `décret n° 2-12-502` (DECRET), `2 rejeb 1434` (DATE_HIJRI), `13 mai 2013` (DATE_GREGORIAN), `loi n° 24-09 relative à` (LOI), `9 ramadan 1331` (DATE_HIJRI), `12 août 1913` (DATE_GREGORIAN), `loi n° 24-09 relative à
+la sécurité des produits` (LOI)
 
 *Citations :*
 
@@ -4448,7 +4457,8 @@ l'organisme d'évaluation de la conformité « Bureau Veritas »
 pour l'évaluation de la conformité des produits industriels
 déclarés pour l'importation ;
 
-*Entités :* `arrêté du ministre de l'industrie` (ARRETE), `22 safar 1435` (DATE_HIJRI), `26 décembre 2013` (DATE_GREGORIAN), `28 rabii II 1441` (DATE_HIJRI), `25 décembre 2019` (DATE_GREGORIAN)
+*Entités :* `arrêté du ministre de l'industrie` (ARRETE), `22 safar 1435` (DATE_HIJRI), `26 décembre 2013` (DATE_GREGORIAN), `28 rabii II
+1441` (DATE_HIJRI), `25 décembre 2019` (DATE_GREGORIAN)
 
 *Dates :* 22 safar 1435, 26 décembre 2013, 28 rabii II 1441, 25 décembre 2019
 
@@ -4475,7 +4485,8 @@ l'agrément de l'organisme d'évaluation de la conformité
 « Bureau Veritas » pour l'évaluation de la conformité des
 produits industriels déclarés pour l'importation,
 
-*Entités :* `arrêté du ministre de l'industrie` (ARRETE), `9 rejeb 1446` (DATE_HIJRI), `10 janvier 2025` (DATE_GREGORIAN)
+*Entités :* `arrêté du ministre de l'industrie` (ARRETE), `9 rejeb
+1446` (DATE_HIJRI), `10 janvier 2025` (DATE_GREGORIAN)
 
 *Dates :* 9 rejeb 1446, 10 janvier 2025
 
@@ -4502,7 +4513,8 @@ Ledit agrément est octroyé pour les prestations
 exercées dans le réseau mondial de l'organisme « Bureau
 Veritas » et dans les postes frontaliers marocains.
 
-*Entités :* `organisme « Bureau Veritas »` (ORG)
+*Entités :* `organisme « Bureau
+Veritas »` (ORG)
 
 
 ## Article 3
@@ -4548,7 +4560,8 @@ Ledit agrément est octroyé pour les prestations
 exercées dans le réseau mondial de l'organisme «  TÜV
 RHEINLAND » et dans les postes frontaliers marocains.
 
-*Entités :* `organisme « TÜV RHEINLAND »` (ORG)
+*Entités :* `organisme «  TÜV
+RHEINLAND »` (ORG)
 
 
 ## Article 3
@@ -4637,7 +4650,8 @@ Les dispositions des articles 4 et
 « 11. La date de durabilité minimale (DDM) ne doit pas
 « dépasser 24 mois à compter de la date de production. »
 
-*Entités :* `arrêté susvisé n° 1800-18 du 26 ramadan 1439` (ARRETE), `11 juin 2018` (DATE_GREGORIAN), `26 ramadan 1439` (DATE_HIJRI)
+*Entités :* `arrêté susvisé n° 1800-18 du 26 ramadan 1439` (ARRETE), `11 juin
+2018` (DATE_GREGORIAN), `26 ramadan 1439` (DATE_HIJRI)
 
 *Citations :*
 
@@ -4685,7 +4699,8 @@ suit :
 «  en l'année académique 2021-2022 par la même
 « université. »
 
-*Entités :* `arrêté susvisé n° 2311-10 du 20 chaabane 1431` (ARRETE), `2 août 2010` (DATE_GREGORIAN), `16 avril 2024` (DATE_GREGORIAN), `arrêté n° 2311-10 du 20 chaabane 1431` (ARRETE), `20 chaabane 1431` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 2311-10 du 20 chaabane 1431` (ARRETE), `2 août 2010` (DATE_GREGORIAN), `16 avril 2024` (DATE_GREGORIAN), `2311-10` (ARRETE), `20 chaabane 1431` (DATE_HIJRI)
 
 *Dates :* 2 août 2010, 16 avril 2024
 
@@ -4726,7 +4741,8 @@ complété comme suit :
 « de validation du complément de formation, délivrée
 « par l'Ecole nationale d'architecture de Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `4 septembre 2024` (DATE_GREGORIAN), `19 octobre 2020` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `4 septembre 2024` (DATE_GREGORIAN), `19 octobre 2020` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -4790,4 +4806,5 @@ ABDERRAHIM CHAFFAI.
 - `loi n° 95-17 relative à l'arbitrage et la` → LOI
 - `23 chaoual 1443` → DATE_HIJRI
 - `24 mai 2022` → DATE_GREGORIAN
-- `Loi n° 95-17 relative à l'arbitrage et la médiation conventionnelle` → LOI
+- `Loi n° 95-17
+relative à l'arbitrage et la médiation conventionnelle` → LOI

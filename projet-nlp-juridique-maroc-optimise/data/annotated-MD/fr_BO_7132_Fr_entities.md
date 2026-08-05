@@ -2070,7 +2070,8 @@ et des finances, chargé du budget,
 FOUZI LEKJAA.
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `2 rabii I 1444` (DATE_HIJRI), `29 septembre 2022` (DATE_GREGORIAN), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `2 rabii I 1444` (DATE_HIJRI), `29 septembre 2022` (DATE_GREGORIAN), `9 rabii I 1444` (DATE_HIJRI), `ministre de
+l'économie et des finances` (MINISTERE)
 
 *Dates :* 2 rabii I 1444, 29 septembre 2022, 9 rabii I 1444
 
@@ -2092,7 +2093,7 @@ un objectif de 60% au moins ;
 garantissant la conservation du stock de l'espadon à un niveau
 d'équilibre.
 
-*Entités :* `décret n° 2-18-722` (DECRET)
+*Entités :* `2-18-722` (DECRET)
 
 *Citations :*
 
@@ -2183,7 +2184,8 @@ pêche maritime.
 Le modèle de ladite décision est fixé à l'annexe au présent
 arrêté.
 
-*Entités :* `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `arrêté` (ARRETE)
+*Entités :* `dahir portant loi n° 1-73-255 du 27 chaoual 1393
+(23 novembre 1973)` (DAHIR), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -2260,7 +2262,8 @@ sus-indiqués, du nombre d'espadons capturés.
 Les captures d'espadon ne doivent comprendre que des
 pièces entières et non découpées.
 
-*Entités :* `arrêté n° 1154-88 du 20 safar 1409` (ARRETE), `3 octobre 1988` (DATE_GREGORIAN)
+*Entités :* `arrêté n°
+1154-88 du 20 safar 1409` (ARRETE), `3 octobre 1988` (DATE_GREGORIAN)
 
 *Dates :* 3 octobre 1988
 
@@ -2282,8 +2285,6 @@ soient stockés et arrimés dans un lieu sous le pont supérieur
 de façon à ne pas être facilement accessibles.
 Tout hameçon utilisé ou stocké à bord du navire doit
 avoir une taille supérieure ou égale à 7 cm de hauteur.
-*
-*   *
 
 
 ## Article 9
@@ -2313,7 +2314,7 @@ réfrigérés doivent embarquer à leur bord un observateur et/
 ou un chercheur scientifique de l'Institut national de recherche
 halieutique (INRH).
 
-*Entités :* `décret n° 2-18-722` (DECRET)
+*Entités :* `2-18-722` (DECRET)
 
 *Citations :*
 
@@ -2379,7 +2380,7 @@ partir de sa date de publication au «Bulletin officiel». Il peut
 l'article 12 du décret précité n° 2-18-722, chaque fois que les
 circonstances l'exigent.
 
-*Entités :* `décret n° 2-18-722` (DECRET)
+*Entités :* `2-18-722` (DECRET)
 
 *Citations :*
 
@@ -2407,6 +2408,8 @@ est abrogé.
 Le présent arrêté est publié au Bulletin officiel.
 Rabat, le 12 ramadan 1443 (14 avril 2022).
 MOHAMMED SADIKI.
+*
+*   *
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
 *Entités :* `arrêté` (ARRETE), `12 ramadan 1443` (DATE_HIJRI), `14 avril 2022` (DATE_GREGORIAN), `9 rabii I 1444` (DATE_HIJRI)
@@ -2473,7 +2476,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `ministre de l'agriculture` (MINISTERE), `12 ramadan 1443` (DATE_HIJRI), `14 avril 2022` (DATE_GREGORIAN), `arrêté n° 1112-22` (ARRETE), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `ministre de l'agriculture` (MINISTERE), `12 ramadan 1443` (DATE_HIJRI), `14 avril 2022` (DATE_GREGORIAN), `arrêté n° 1112-22` (ARRETE), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Personnes :* Xiphias gladius, Xiphias gladius
 
@@ -2530,7 +2533,7 @@ MOHAMMED SADIKI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `9 safar 1444` (DATE_HIJRI), `6 septembre 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `9 safar 1444` (DATE_HIJRI), `6 septembre 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 9 safar 1444, 6 septembre 2022
 
@@ -2591,7 +2594,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7128  du 25 safar 1444 (22 septembre 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté` (ARRETE), `15 safar 1444` (DATE_HIJRI), `12 septembre 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7128 du 25 safar 1444 (22 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `15 safar 1444` (DATE_HIJRI), `12 septembre 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7128  du 25 safar 1444 (22 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Dates :* 15 safar 1444, 12 septembre 2022, 9 rabii I 1444
 
@@ -2610,7 +2613,7 @@ ART. 3. – Le directeur de l'administration des douanes et impôts indirects es
 qui sera publié au Bulletin officiel.
 Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7118  du 20 moharrem 1444 (18 août 2022).
 
-*Entités :* `arrêté susvisé n° 2984-20` (ARRETE), `10 rabii II 1442` (DATE_HIJRI), `26 novembre 2020` (DATE_GREGORIAN), `arrêté` (ARRETE), `9 rabii I 1444` (DATE_HIJRI), `Bulletin officiel » n° 7118 du 20 moharrem 1444 (18 août 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté susvisé n° 2984-20` (ARRETE), `10 rabii II 1442` (DATE_HIJRI), `26 novembre 2020` (DATE_GREGORIAN), `arrêté` (ARRETE), `9 rabii I 1444` (DATE_HIJRI), `Bulletin officiel » n° 7118  du 20 moharrem 1444 (18 août 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 10 rabii II 1442, 26 novembre 2020, 9 rabii I 1444
 
@@ -2639,7 +2642,7 @@ sont modifiés comme suit :
 « marchandise au bureau de douane et le jour de l'échéance.
 « Les jours fériés  […texte non modifié…]  une journée entière. »
 
-*Entités :* `arrêté du ministre des` (ARRETE), `17 kaada 1397` (DATE_HIJRI), `31 octobre 1977` (DATE_GREGORIAN), `Arrêté du ministre des finances n° 1318-77 du 17 kaada` (ARRETE), `Arrêté` (ARRETE), `arrêté du ministre des finances n° 1318-77 du 17 kaada 1397` (ARRETE)
+*Entités :* `arrêté du ministre des` (ARRETE), `17 kaada 1397` (DATE_HIJRI), `31 octobre 1977` (DATE_GREGORIAN), `Arrêté du ministre des finances n° 1318-77 du 17 kaada` (ARRETE), `Arrêté` (ARRETE), `1318-77` (ARRETE)
 
 *Citations :*
 
@@ -2663,7 +2666,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7120  du 27 moharrem 1444 (25 août 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté` (ARRETE), `20 kaada 1443` (DATE_HIJRI), `20 juin 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7120 du 27 moharrem 1444 (25 août 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `20 kaada 1443` (DATE_HIJRI), `20 juin 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7120  du 27 moharrem 1444 (25 août 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Dates :* 20 kaada 1443, 20 juin 2022, 9 rabii I 1444
 
@@ -3013,25 +3016,15 @@ pièces suivantes :
 précisant les noms des bénéficiaires, leurs adresses
 (commune, douar,…), les quantités vendues par espèces,
 par variétés et catégories ainsi que le prix de vente ;
+– les états quotidiens des ventes (livre-journal) par point
+de vente selon les annexes 11 et 12 du présent arrêté
+conjoint.
 
 *Entités :* `ministère de l'agriculture` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `arrêté conjoint` (ARRETE), `9 rabii I 1444` (DATE_HIJRI)
 
 *Organisations :* ministère de l'agriculture
 
 *Dates :* 9 rabii I 1444
-
-
-## Article 11
-
-*ART. 11. –*
-
-Le présent arrêté conjoint sera publié au
-Bulletin officiel et entre en vigueur à compter de la date de sa
-– les états quotidiens des ventes (livre-journal) par point
-de vente selon les annexes 11 et 12 du présent arrêté
-conjoint.
-
-*Entités :* `arrêté conjoint` (ARRETE)
 
 
 ## Article 10
@@ -3044,7 +3037,6 @@ stockage prévue par l'article 4 ci-dessus sont déterminées pour
 chaque société semencière agréée sur la base du prorata des
 ventes en semences céréalières certifiées réparties entre les
 différentes sociétés au cours de la campagne agricole antérieure
-*
 à la campagne concernée (du 1er septembre au 31 janvier), et ce
 dans les limites d'un stock global de 220.000 Qx. Cette répartition
 est arrêtée annuellement par la direction du développement des
@@ -3082,6 +3074,22 @@ lui est accordé ou le cas échéant, le refus motivé de sa demande.
 Le délai de traitement des dossiers de demandes de la
 prime de stockage est fixé à 60 jours à compter de la date du
 dépôt du dossier.
+
+*Entités :* `arrêtée` (ARRETE), `ministère de l'agriculture` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `arrêté conjoint` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → arrêtée [✓]
+
+*Organisations :* ministère de l'agriculture
+
+
+## Article 11
+
+*ART. 11. –*
+
+Le présent arrêté conjoint sera publié au
+Bulletin officiel et entre en vigueur à compter de la date de sa
 publication.
 Rabat, le 6 hija 1443 (6 juillet 2022).
 Le ministre de l'agriculture,
@@ -3094,18 +3102,13 @@ chargé du budget,
 et des eaux et forêts,
 MOHAMMED SADIKI.
 FOUZI LEKJAA.
+*
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 2022)octroyant une subvention à la commercialisation des semences céréalières certifiées de production nationale et d'importation
 (G3, G4, R1 et R2) et des semences de Génération Ultérieure à la deuxième reproduction  GUR2 ainsi que la prime au stockage au
 ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget  n°3318-22 du 6 hija 1443 (6 juillet
 
-*Entités :* `arrêtée` (ARRETE), `ministère de l'agriculture` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `arrêté conjoint` (ARRETE), `6 hija 1443` (DATE_HIJRI), `6 juillet 2022` (DATE_GREGORIAN), `9 rabii I 1444` (DATE_HIJRI), `ministre de l'économie et des finances` (MINISTERE)
-
-*Citations :*
-
-- `l'article 4` → arrêtée [✓]
-
-*Organisations :* ministère de l'agriculture
+*Entités :* `arrêté conjoint` (ARRETE), `6 hija 1443` (DATE_HIJRI), `6 juillet 2022` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `9 rabii I 1444` (DATE_HIJRI), `ministre de l'économie et des finances` (MINISTERE)
 
 *Dates :* 6 hija 1443, 6 juillet 2022, 9 rabii I 1444, 6 hija 1443
 
@@ -3422,7 +3425,7 @@ khénifra
 Berkane,
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `décret n° 2-10-578` (DECRET), `arrêté` (ARRETE), `9 rabii I 1444` (DATE_HIJRI), `décret n°2-10-578` (DECRET)
+*Entités :* `décret n° 2-10-578` (DECRET), `arrêté` (ARRETE), `9 rabii I 1444` (DATE_HIJRI), `2-10-578` (DECRET)
 
 *Citations :*
 
@@ -3443,7 +3446,7 @@ Nº 7132 – 9 rabii I 1444 (6-10-2022)
 Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté` (ARRETE), `29 hija 1443` (DATE_HIJRI), `29 juillet 2022` (DATE_GREGORIAN), `9 rabii I 1444` (DATE_HIJRI), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `29 hija 1443` (DATE_HIJRI), `29 juillet 2022` (DATE_GREGORIAN), `9 rabii I 1444` (DATE_HIJRI), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 29 hija 1443, 29 juillet 2022, 9 rabii I 1444, 9 rabii I 1444
 
@@ -3618,7 +3621,7 @@ MOHAMED BENCHAABOUN.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `arrêté` (ARRETE), `10 chaabane 1442` (DATE_HIJRI), `24 mars 2021` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `10 chaabane 1442` (DATE_HIJRI), `24 mars 2021` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Dates :* 10 chaabane 1442, 24 mars 2021
 
@@ -3715,7 +3718,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -3822,7 +3825,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -3864,7 +3867,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -3910,7 +3913,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -3951,7 +3954,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -3994,7 +3997,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4053,7 +4056,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4119,7 +4122,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4158,7 +4161,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4202,7 +4205,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4246,7 +4249,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4290,7 +4293,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4405,7 +4408,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4483,7 +4486,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4562,7 +4565,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4664,7 +4667,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4776,7 +4779,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4882,7 +4885,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4923,7 +4926,7 @@ HASSAN BOUBRIK.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021).
 
-*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
+*Entités :* `18 rabii I 1442` (DATE_HIJRI), `4 novembre 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)` (BULLETIN_OFFICIEL)
 
 *Personnes :* HASSAN BOUBRIK
 
@@ -4950,7 +4953,8 @@ complété comme suit :
 « l'Ecole nationale d'architecture de Rabat. »
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `24 juin 2019` (DATE_GREGORIAN), `30 mai 2017` (DATE_GREGORIAN), `9 rabii I 1444` (DATE_HIJRI), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `24 juin 2019` (DATE_GREGORIAN), `30 mai 2017` (DATE_GREGORIAN), `9 rabii I 1444` (DATE_HIJRI), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -4969,7 +4973,7 @@ ABDELLATIF MIRAOUI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `13 rejeb 1443` (DATE_HIJRI), `15 février 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `13 rejeb 1443` (DATE_HIJRI), `15 février 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 13 rejeb 1443, 15 février 2022
 
@@ -4993,7 +4997,8 @@ complété comme suit :
 « validation du complément de formation, délivrée par
 « l'Ecole nationale d'architecture de Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `11 février 2019` (DATE_GREGORIAN), `6 février 2017` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `11 février 2019` (DATE_GREGORIAN), `6 février 2017` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -5012,7 +5017,7 @@ ABDELLATIF MIRAOUI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `22 rejeb 1443` (DATE_HIJRI), `24 février 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `22 rejeb 1443` (DATE_HIJRI), `24 février 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 22 rejeb 1443, 24 février 2022
 
@@ -5041,7 +5046,8 @@ complété comme suit :
 « validation du complément de formation, délivrée par
 « l'Ecole nationale d'architecture de Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2021` (DATE_GREGORIAN), `30 juin 2019` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2021` (DATE_GREGORIAN), `30 juin 2019` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -5061,7 +5067,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté` (ARRETE), `21 chaabane 1443` (DATE_HIJRI), `24 mars 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `21 chaabane 1443` (DATE_HIJRI), `24 mars 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Dates :* 21 chaabane 1443, 24 mars 2022, 9 rabii I 1444
 
@@ -5089,7 +5095,8 @@ complété comme suit :
 « de validation du complément de formation, délivrée
 « par l'Ecole nationale d'architecture de Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `30 juin 2018` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `30 juin 2018` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -5108,7 +5115,7 @@ ABDELLATIF MIRAOUI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `21 chaabane 1443` (DATE_HIJRI), `24 mars 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `21 chaabane 1443` (DATE_HIJRI), `24 mars 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 21 chaabane 1443, 24 mars 2022
 
@@ -5132,7 +5139,8 @@ complété comme suit :
 «  délivrée par l'Ecole nationale d'architecture de
 « Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `1er juillet 2019` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `1er juillet 2019` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -5152,7 +5160,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté` (ARRETE), `16 ramadan 1443` (DATE_HIJRI), `18 avril 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `16 ramadan 1443` (DATE_HIJRI), `18 avril 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Dates :* 16 ramadan 1443, 18 avril 2022, 9 rabii I 1444
 
@@ -5176,7 +5184,8 @@ complété comme suit :
 «  délivrée par l'Ecole nationale d'architecture de
 « Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `21 novembre 2019` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `21 novembre 2019` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -5195,7 +5204,7 @@ ABDELLATIF MIRAOUI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `5 hija 1443` (DATE_HIJRI), `5 juillet 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `5 hija 1443` (DATE_HIJRI), `5 juillet 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 5 hija 1443, 5 juillet 2022
 
@@ -5214,7 +5223,7 @@ de la Fondation de promotion des oeuvres sociales, au profti
 des fonctionnaires et agents du département ministériel chargé
 de la pêche maritime.
 
-*Entités :* `loi n° 93-17` (LOI)
+*Entités :* `93-17` (LOI)
 
 *Citations :*
 
@@ -5242,7 +5251,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7112  du 28 hija 1443 (28 juillet 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté conjoint` (ARRETE), `24 kaada 1443` (DATE_HIJRI), `24 juin 2022` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `Bulletin officiel » n° 7112 du 28 hija 1443 (28 juillet 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI), `arrêté` (ARRETE)
+*Entités :* `arrêté conjoint` (ARRETE), `24 kaada 1443` (DATE_HIJRI), `24 juin 2022` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `Bulletin officiel » n° 7112  du 28 hija 1443 (28 juillet 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI), `arrêté` (ARRETE)
 
 *Dates :* 24 kaada 1443, 24 juin 2022, 9 rabii I 1444
 
@@ -5258,7 +5267,9 @@ pétrolier « MOGADOR OFFSHORE » conclu, le 10 chaoual
 et des mines et la société «  HUNT OIL COMPANY
 MOROCCO ».
 
-*Entités :* `arrêté conjoint` (ARRETE), `10 chaoual 1443` (DATE_HIJRI), `11 mai 2022` (DATE_GREGORIAN), `société « HUNT OIL COMPANY MOROCCO »` (ORG)
+*Entités :* `arrêté conjoint` (ARRETE), `10 chaoual
+1443` (DATE_HIJRI), `11 mai 2022` (DATE_GREGORIAN), `société «  HUNT OIL COMPANY
+MOROCCO »` (ORG)
 
 *Organisations :* Office national des hydrocarbures
 et des mines
@@ -5283,7 +5294,7 @@ LEILA BENALI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté conjoint` (ARRETE), `4 moharrem 1444` (DATE_HIJRI), `2 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté conjoint` (ARRETE), `4 moharrem 1444` (DATE_HIJRI), `2 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 4 moharrem 1444, 2 août 2022
 
@@ -5298,7 +5309,8 @@ l'Office national des hydrocarbures et des mines et à la société
 d'hydrocarbures dit « RISSANA OFFSHORE 1 ».
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `société « CHARIOT RISSANA LIMITED »` (ORG), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `société
+« CHARIOT RISSANA LIMITED »` (ORG), `9 rabii I 1444` (DATE_HIJRI)
 
 *Organisations :* Office national des hydrocarbures et des mines
 
@@ -5346,7 +5358,7 @@ LEILA BENALI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 1er safar 1444, 29 août 2022
 
@@ -5360,7 +5372,8 @@ l'Office national des hydrocarbures et des mines et à la société
 « CHARIOT RISSANA LIMITED », le permis de recherche
 d'hydrocarbures dit « RISSANA OFFSHORE 2 ».
 
-*Entités :* `société « CHARIOT RISSANA LIMITED »` (ORG)
+*Entités :* `société
+« CHARIOT RISSANA LIMITED »` (ORG)
 
 *Organisations :* Office national des hydrocarbures et des mines
 
@@ -5407,7 +5420,7 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
 *Dates :* 1er safar 1444, 29 août 2022, 9 rabii I 1444
 
@@ -5421,7 +5434,8 @@ l'Office national des hydrocarbures et des mines et à la société
 « CHARIOT RISSANA LIMITED », le permis de recherche
 d'hydrocarbures dit « RISSANA OFFSHORE 3 ».
 
-*Entités :* `société « CHARIOT RISSANA LIMITED »` (ORG)
+*Entités :* `société
+« CHARIOT RISSANA LIMITED »` (ORG)
 
 *Organisations :* Office national des hydrocarbures et des mines
 
@@ -5466,7 +5480,7 @@ LEILA BENALI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 1er safar 1444, 29 août 2022
 
@@ -5480,7 +5494,8 @@ l'Office national des hydrocarbures et des mines et à la société
 « CHARIOT RISSANA LIMITED », le permis de recherche
 d'hydrocarbures dit « RISSANA OFFSHORE 4 ».
 
-*Entités :* `société « CHARIOT RISSANA LIMITED »` (ORG)
+*Entités :* `société
+« CHARIOT RISSANA LIMITED »` (ORG)
 
 *Organisations :* Office national des hydrocarbures et des mines
 
@@ -5526,7 +5541,7 @@ LEILA BENALI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 1er safar 1444, 29 août 2022
 
@@ -5540,7 +5555,8 @@ l'Office national des hydrocarbures et des mines et à la société
 « CHARIOT RISSANA LIMITED », le permis de recherche
 d'hydrocarbures dit « RISSANA OFFSHORE 5 ».
 
-*Entités :* `société « CHARIOT RISSANA LIMITED »` (ORG)
+*Entités :* `société
+« CHARIOT RISSANA LIMITED »` (ORG)
 
 *Organisations :* Office national des hydrocarbures et des mines
 
@@ -5589,7 +5605,7 @@ LEILA BENALI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022).
 
-*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `1er safar 1444` (DATE_HIJRI), `29 août 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)` (BULLETIN_OFFICIEL)
 
 *Dates :* 1er safar 1444, 29 août 2022
 
@@ -5603,7 +5619,9 @@ Le texte en langue arabe a été publié dans l'édition générale du
 - `23 mars 2021` → DATE_GREGORIAN
 - `9 chaabane 1442` → DATE_HIJRI
 - `23 mars 2021` → DATE_GREGORIAN
-- `Loi n° 09-21 relative à la protection sociale` → LOI
-- `9 octobre 2020` → DATE_GREGORIAN
+- `Loi n° 09-21
+relative à la protection sociale` → LOI
+- `9 octobre
+2020` → DATE_GREGORIAN
 - `9 rabii I 1444` → DATE_HIJRI
 - `arrêtées` → ARRETE

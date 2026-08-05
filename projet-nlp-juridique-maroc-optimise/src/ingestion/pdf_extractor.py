@@ -21,7 +21,7 @@ import fitz
 # détectés comme stalés via leur sidecar .meta.json
 # (pipeline.stamp_interim_provenance) et la régénération des JSON est
 # refusée tant que l'ingestion n'a pas été relancée.
-EXTRACTOR_VERSION = "4"
+EXTRACTOR_VERSION = "5"
 
 
 # ======================================================================
@@ -218,10 +218,40 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
     # 1) Gouttière par balayage de couverture : robuste aux blocs centrés
     # dans une colonne (ex. « ARRÊTE : » de la page 98 du BO_7492) qui
     # masquent la gouttière dans la projection des écarts adjacents.
+    split_x = None
+    split_from_band = False
     band = _find_empty_band(blocks)
     if band is not None and (band[1] - band[0]) >= threshold:
         split_x = (band[0] + band[1]) / 2
+        split_from_band = True
     else:
+        # 1bis) La gouttière peut être masquée par des blocs de FOND de page
+        # qui la traversent — signatures et séparateurs « * * ».  Ex.
+        # BO_7510 page 9 : « ZAKIA DRIOUICH » (x 294-548, y 723) et
+        # « * * » (x 281-313, y 765) couvrent l'espace inter-colonnes
+        # (289→309) en bas de page, si bien que le balayage ne trouve
+        # aucune bande vide.  On relance le balayage sur la zone haute de
+        # la page (hors marge de pied) : la gouttière réelle réapparaît
+        # alors, non contaminée par les signatures.  Ce repli n'est retenu
+        # que si des blocs de pied traversent réellement la bande trouvée
+        # (sinon, une bande haute d'une page tabulaire pourrait être
+        # confondue avec une gouttière de colonnes, ex. BO_7500 page 5).
+        bottom_limit = max(b[3] for b in blocks) - FOOTER_BLOCK_MARGIN
+        body_blocks = [b for b in blocks if b[1] < bottom_limit]
+        footer_blocks = [b for b in blocks if b[1] >= bottom_limit]
+        band = _find_empty_band(body_blocks)
+        if (
+            band is not None
+            and (band[1] - band[0]) >= threshold
+            and any(
+                fb[0] < (band[0] + band[1]) / 2 < fb[2] and _is_decorative_straddler(fb)
+                for fb in footer_blocks
+            )
+        ):
+            split_x = (band[0] + band[1]) / 2
+            split_from_band = True
+
+    if split_x is None:
         # 2) Repli : écarts entre blocs consécutifs (nécessaire quand un
         # titre centré traverse l'inter-colonnes, ex. « TEXTES GENERAUX »
         # du BO_7522 : la bande n'est alors pas vide et le balayage ne
@@ -231,10 +261,12 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
             for idx, gap in enumerate(gaps)
             if gap >= threshold and _is_valid_column_gap(sorted_by_x, idx)
         ]
-        if not candidates:
-            return [sorted(blocks, key=lambda b: b[1])], []
-        _, max_idx = max(candidates)
-        split_x = (sorted_by_x[max_idx][2] + sorted_by_x[max_idx + 1][0]) / 2
+        if candidates:
+            _, max_idx = max(candidates)
+            split_x = (sorted_by_x[max_idx][2] + sorted_by_x[max_idx + 1][0]) / 2
+
+    if split_x is None:
+        return [sorted(blocks, key=lambda b: b[1])], []
 
     left_col = []
     right_col = []
@@ -250,17 +282,34 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
     # Ex. page 3 du BO_7522, « TEXTES GENERAUX » (x 236-359) centré au
     #-dessus du dahir n° 1-26-08 : sans cette étape, il était rattaché à
     # la colonne de droite et se retrouvait émis après toute la colonne
-    # gauche, en plein milieu de la loi organique n° 36-24.
-    spanning = []
-    if left_col and right_col:
-        gap_left = max(b[2] for b in left_col)
-        gap_right = min((b[0] for b in right_col if b[0] >= gap_left), default=gap_left)
-        mid_gap = (gap_left + gap_right) / 2
-        spanning = [b for b in blocks if b[0] < mid_gap < b[2]]
-        if spanning:
-            span_ids = {id(b) for b in spanning}
-            left_col = [b for b in left_col if id(b) not in span_ids]
-            right_col = [b for b in right_col if id(b) not in span_ids]
+    # gauche, en plein milieu de la loi organique n° 36-24.  C'est aussi le
+    # sort des signatures et séparateurs de pied de page qui traversent la
+    # gouttière (BO_7510 page 9 : « ZAKIA DRIOUICH » x 294-548 et « * * »
+    # x 281-313) : ils sont émis à leur position verticale, en fin de page,
+    # et non dans une colonne.
+    if split_from_band:
+        # Gouttière fiable (bande vide) : la frontière est le centre exact de
+        # la masse inter-colonnes, tout bloc qui la traverse est spannting —
+        # y compris les signatures et séparateurs de pied de page (BO_7510
+        # page 9 : « ZAKIA DRIOUICH » x 294-548 et « * * » x 281-313).
+        spanning = [b for b in blocks if b[0] < split_x < b[2]]
+    else:
+        # Repli : la frontière entre les deux colonnes peut ne pas coïncider
+        # avec le centre du split par écart de blocs (ex. BO_7500 page 3 :
+        # « DÉCRÈTE : » x 132-177 | « TEXTES GENERAUX » x 236-359, split à
+        # x 206 mais gouttière réelle à ~300) — on repère alors les
+        # traversées par la gouttière réelle, déduite des emprises des
+        # colonnes nettes.
+        spanning = []
+        if left_col and right_col:
+            gap_left = max(b[2] for b in left_col)
+            gap_right = min((b[0] for b in right_col if b[0] >= gap_left), default=gap_left)
+            mid_gap = (gap_left + gap_right) / 2
+            spanning = [b for b in blocks if b[0] < mid_gap < b[2]]
+    if spanning:
+        span_ids = {id(b) for b in spanning}
+        left_col = [b for b in left_col if id(b) not in span_ids]
+        right_col = [b for b in right_col if id(b) not in span_ids]
 
     # Ne garder que les colonnes non vides
     columns = [col for col in (left_col, right_col) if col]
@@ -272,6 +321,41 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
 
 FULL_WIDTH_RATIO = 0.6
 BAND_Y_GAP_THRESHOLD = 15.0
+# Marge de pied de page : les blocs sous cette ligne (signatures, séparateurs
+# « * * », numéros de page) peuvent traverser la gouttière et masquer les
+# colonnes au balayage de couverture (ex. BO_7510 page 9, « ZAKIA DRIOUICH »
+# x 294-548).  Le balayage est alors relancé sur la zone haute uniquement.
+FOOTER_BLOCK_MARGIN = 120.0
+
+
+def _is_decorative_straddler(block):
+    """
+    Un bloc de pied de page qui chevauche la gouttière ne doit déclencher le
+    repli « bande sur le corps » que s'il s'agit d'une DÉCORATION de fin de
+    page — séparateur d'astérisques (« * * ») ou signature attestant
+    l'arrêté (« ZAKIA DRIOUICH. ») — et non d'une cellule de tableau qui
+    traverse par hasard la bande trouvée par le balayage (ex. les en-têtes
+    tabulaires « عونلا »/« يملعلا مسلاا » de la page des variétés protégées
+    du BO_7500, qui couvrent 159→181 sans que la page soit réellement
+    bicolonne).
+
+    Détection sans expression régulière (module backend léger) :
+      - la présence d'une astérisque (séparateurs « * * », signatures
+        suivies du séparateur « ZAKIA DRIOUICH.\n* ») ;
+      - sinon une signature : texte court, en MAJUSCULES, se terminant
+        par « . » (ex. « FOUZI LEKJAA. »).
+    """
+    text = block[4].strip()
+    if not text:
+        return False
+    if "*" in text:
+        return True
+    upper = "".join(ch for ch in text if not ch.isspace())
+    if not upper.endswith("."):
+        return False
+    if len(upper) > 40:
+        return False
+    return all(ch.isupper() or ch in ".-'/," for ch in upper)
 
 
 def _split_full_width_blocks(blocks, page_width):

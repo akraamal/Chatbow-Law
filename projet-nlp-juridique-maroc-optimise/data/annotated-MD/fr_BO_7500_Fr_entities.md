@@ -127,12 +127,10 @@ fixant les conditions et les modalités de délivrance
 et de renouvellement des autorisations d'établissement
 de pêche maritime, tel que modifié et complété, notamment
 ses articles 7, 7 bis et 9 ;
-« Mejillons Labouirda-Cintra » pour l'élevage, en mer au large
 Vu l'arrêté de la ministre de l'économie et des finances
 n° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
 délégation d'attributions au ministre délégué auprès de la
 ministre de l'économie et des finances, chargé du budget ;
-1393 (23 novembre 1973) susvisé, répertorie dans l'ordre
 Vu l'arrêté du ministre de l'agriculture, de la pêche
 maritime, du développement rural et des eaux et forêts n° 2561-24
 du 25 rabii II 1446 (29 octobre 2024) portant délégation
@@ -145,15 +143,12 @@ maritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
 d'établissement de pêche maritime et fixant le modèle de
 convention de concession y afférent, tel que modifié et
 complété, notamment son article 3 ;
-Bulletin officiel.
 Vu l'arrêté conjoint du ministre de l'économie et des
 finances et du ministre de l'agriculture et de la pêche maritime
 n° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
 les montants et les modalités de paiement de la redevance
 annuelle due au titre des conventions de concession de ferme
 aquacole, tel que modifié et complété ;
-*
-*      *
 Considérant la convention de création et d'exploitation
 de ferme aquacole n° 2023/DOE/505 signée le 19 ramadan 1446
 (20 mars 2025) entre la société « MEJILLONS LABOUIRDA
@@ -167,10 +162,6 @@ ARRÊTENT :
 ### Arrêté
 
 Arrêté conjoint du ministre délégué auprès de la ministre de
-Considérant la convention de création et d'exploitation
-de ferme aquacole n° 2024/DOE/521 signée le 16 ramadan 1446
-(17 mar.s 2025) entre la société « WEST LEOCEANIC Sarl
-AU » et la secrétaire d'Etat auprès du ministre de l'agriculture,
 l'économie et des finances, chargé du budget et de la
 secrétaire d'Etat auprès du ministre de l'agriculture,
 de la pêche maritime, du développement rural et des
@@ -180,6 +171,51 @@ du 6 chaabane 1447 (26 janvier 2026) autorisant la société
 l'exploitation d'une ferme aquacole dénommée « West
 Leoceanic Cintra » et portant publication de l'extrait de
 la convention y afférente.
+LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE
+L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
+LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
+L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
+DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
+CHARGÉE DE LA PÊCHE MARITIME,
+Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393
+(23 novembre 1973) formant règlement sur la pêche maritime,
+tel que modifié et complété, notamment ses articles 28 et 28-1 ;
+Vu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)
+fixant les conditions et les modalités de délivrance
+et de renouvellement des autorisations d'établissement
+de pêche maritime, tel que modifié et complété, notamment
+ses articles 7, 7 bis et 9 ;
+Vu l'arrêté de la ministre de l'économie et des finances
+n° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
+délégation d'attributions au ministre délégué auprès de la
+ministre de l'économie et des finances, chargé du budget ;
+Vu l'arrêté du ministre de l'agriculture, de la pêche
+maritime, du développement rural et des eaux et forêts n° 2561-24
+du 25 rabii II 1446 (29 octobre 2024) portant délégation
+d'attributions à la secrétaire d'Etat auprès du ministre de
+l'agriculture, de la pêche maritime, du développement rural
+et des eaux et forêts, chargée de la pêche maritime ;
+Vu l'arrêté du ministre de l'agriculture et de la pêche
+maritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
+à la demande d'autorisation de création et d'exploitation
+d'établissement de pêche maritime et fixant le modèle de
+convention de concession y afférent, tel que modifié et
+complété, notamment son article 3 ;
+Vu l'arrêté conjoint du ministre de l'économie et des
+finances et du ministre de l'agriculture et de la pêche maritime
+n° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
+les montants et les modalités de paiement de la redevance
+annuelle due au titre des conventions de concession de ferme
+aquacole, tel que modifié et complété ;
+Considérant la convention de création et d'exploitation
+de ferme aquacole n° 2024/DOE/521 signée le 16 ramadan 1446
+(17 mar.s 2025) entre la société « WEST LEOCEANIC Sarl
+AU » et la secrétaire d'Etat auprès du ministre de l'agriculture,
+de la pêche maritime, du développement rural et des eaux
+et forêts, chargée de la pêche maritime et approuvée par le
+ministre délégué auprès de la ministre de l'économie et des
+finances, chargé du budget,
+ARRÊTENT :
 
 ### Arrêté
 
@@ -190,7 +226,6 @@ de la pêche maritime, du développement rural et des eaux
 et forêts, chargée de la pêche maritime n° 495-26 du
 22 ramadan 1447 (12 mars 2026) autorisant la société
 «PRO AQUACULTURE COMPANY Sarl» pour la
-1446 (13 mars 2025) entre la société «PRO AQUACULTURE
 création et l'exploitation d'une ferme aquacole dénommée
 «Pro Aquaculture Company» et portant publication de
 l'extrait de la convention y afférente.
@@ -208,12 +243,10 @@ Vu le décret n°2-08-562 du 13 hija 1429 (12 décembre
 de renouvellement des autorisations d'établissement de pêche
 maritime, tel que modifié et complété, notamment ses articles
 7, 7 bis et 9 ;
-«Pro Aquaculture Company» pour l'élevage, en mer au large
 Vu l'arrêté de la ministre de l'économie et des finances
 n°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
 délégation d'attributions au ministre délégué auprès de la
 ministre de l'économie et des finances, chargé du budget ;
-AQUACULTURE COMPANY Sarl», en application des
 Vu l'arrêté du ministre de l'agriculture, de la pêche
 maritime, du développement rural et des eaux et forêts
 n°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation
@@ -226,17 +259,15 @@ maritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
 d'établissement de pêche maritime et fixant le modèle de
 convention de concession y afférent, tel que modifié et
 complété, notamment son article 3 ;
-Bulletin officiel.
 Vu l'arrêté conjoint du ministre de l'économie et des
 finances et du ministre de l'agriculture et de la pêche maritime
 n°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant les
 montants et les modalités de paiement de la redevance annuelle
 due au titre des conventions de concession de ferme aquacole,
 tel que modifié et complété ;
-*
-*      *
 Considérant la convention de création et d'exploitation
 de ferme aquacole n° 2024/DOE/524, signée le 12 ramadan
+1446 (13 mars 2025) entre la société «PRO AQUACULTURE
 COMPANY Sarl» et la secrétaire d'Etat auprès du ministre de
 l'agriculture, de la pêche maritime, du développement rural et
 des eaux et forêts, chargée de la pêche maritime et approuvée
@@ -255,6 +286,52 @@ n°496-26 du 22 ramadan 1447 (12 mars 2026) autorisant la
 société «ALGUES EPICURIENNES Sarl AU» pour la
 création et l'exploitation d'une ferme aquacole dénommée
 «Algues Epicuriennes» et portant publication de l'extrait
+de la convention y afférente.
+LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE
+L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
+LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
+L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
+DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
+CHARGÉE DE LA PÊCHE MARITIME,
+Vu le dahir portant loi n°1-73-255 du 27 chaoual 1393
+(23 novembre 1973) formant règlement sur la pêche maritime,
+tel que modifié et complété, notamment ses articles 28 et 28-1 ;
+Vu le décret n°2-08-562 du 13 hija 1429 (12 décembre
+2008) fixant les conditions et les modalités de délivrance et
+de renouvellement des autorisations d'établissement de pêche
+maritime, tel que modiféi et complété, notamment ses articles 7,
+7 bis et 9 ;
+Vu l'arrêté de la ministre de l'économie et des finances
+n°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
+délégation d'attributions au ministre délégué auprès de la
+ministre de l'économie et des finances chargé du budget ;
+Vu l'arrêté du ministre de l'agriculture, de la pêche
+maritime, du développement rural et des eaux et forêts
+n°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation
+d'attributions à la secrétaire d'Etat auprès du ministre de
+l'agriculture, de la pêche maritime, du développement rural
+et des eaux et forêts, chargée de la pêche maritime ;
+Vu l'arrêté du ministre de l'agriculture et de la pêche
+maritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
+à la demande d'autorisation de création et d'exploitation
+d'établissement de pêche maritime et fixant le modèle de
+convention de concession y afférent, tel que modifié et
+complété, notamment son article 3 ;
+Vu l'arrêté conjoint du ministre de l'économie et des
+finances et du ministre de l'agriculture et de la pêche maritime
+n°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant les
+montants et les modalités de paiement de la redevance annuelle
+due au titre des conventions de concession de ferme aquacole,
+tel que modifié et complété ;
+Considérant la convention de création et d'exploitation
+de ferme aquacole n° 2024/ORI/520 signée le 19 ramadan 1446
+(20 mars 2025) entre la société «ALGUES EPICURIENNES
+Sarl AU» et la secrétaire d'Etat auprès du ministre de
+l'agriculture, de la pêche maritime, du développement rural
+et des eaux et forêts, chargée de la pêche maritime et approuvée
+par le ministre délégué auprès de la ministre de l'économie et
+des finances, chargé du budget,
+ARRÊTENT :
 
 ### Arrêté
 
@@ -270,7 +347,6 @@ Perle Aquaculture » et portant publication de l'extrait de
 la convention y afférente
 LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE
 L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
-AQUACULTURE Sarl», immatriculée au registre de
 LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
 L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
 DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
@@ -283,13 +359,10 @@ Vu le décret n°2-08-562 du 13 hija 1429 (12 décembre
 de renouvellement des autorisations d'établissement de pêche
 maritime, tel que modifié et complété, notamment ses articles
 7, 7 bis et 9 ;
-«La Perle Aquaculture» pour l'élevage, en mer au large de
 Vu l'arrêté de la ministre de l'économie et des finances
 n°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
 délégation d'attributions au ministre délégué auprès de
 la ministre de l'économie et des finances, chargé du budget ;
-AQUACULTURE Sarl», en application des dispositions de
-1393 (23 novembre 1973) susvisé, répertorie, dans l'ordre
 Vu l'arrêté du ministre de l'agriculture, de la pêche
 maritime, du développement rural et des eaux et forêts
 n°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation
@@ -302,15 +375,12 @@ maritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
 d'établissement de pêche maritime et fixant le modèle
 de convention de concession y afférent, tel que modifié
 et complété, notamment son article 3 ;
-Bulletin officiel.
 Vu l'arrêté conjoint du ministre de l'économie et des
 finances et du ministre de l'agriculture et de la pêche maritime
 n°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
 les montants et les modalités de paiement de la redevance
 annuelle due au titre des conventions de concession de ferme
 aquacole, tel que modifié et complété ;
-*
-*      *
 Considérant la convention de création et d'exploitation
 de ferme aquacole n° 2024/DOE/527 signée le 28 hija 1446
 (25 juin 2025) entre la société «LA PERLE AQUACULTURE
@@ -560,7 +630,7 @@ articles 43, 44, 51, 61, 62, 63, 64, 65, 66, 67, 68, 70, 71, 97, 115,
 116, 136, 137, 147, 154 et 188 de la loi susvisée n° 03-25, est
 l'autorité gouvernementale chargée des finances.
 
-*Entités :* `loi n° 03-25 relative aux organismes de` (LOI), `loi n° 03-25 relative aux organismes de placement` (LOI)
+*Entités :* `03-25` (LOI), `03-25` (LOI)
 
 *Citations :*
 
@@ -578,7 +648,7 @@ montant minimum initial des apports des copropriétaires
 constituant un FCP ou l'un de ses compartiments, est d'un (1)
 million de dirhams.
 
-*Entités :* `loi n° 03-25 relative aux organismes de` (LOI), `loi n° 03-25 relative aux organismes de placement` (LOI)
+*Entités :* `03-25` (LOI), `03-25` (LOI)
 
 *Citations :*
 
@@ -594,7 +664,7 @@ la loi précitée n° 03-25  et sur proposition de l'AMMC, le montant
 minimum du capital de la SICAV lors de sa constitution, est de
 cinq (5) millions de dirhams.
 
-*Entités :* `loi n° 03-25 relative aux organismes de` (LOI), `loi n° 03-25 relative aux organismes de placement` (LOI)
+*Entités :* `03-25` (LOI), `03-25` (LOI)
 
 *Citations :*
 
@@ -611,7 +681,7 @@ que toute modifciation y afférente, sont approuvées par arrêté
 de l'autorité gouvernementale chargée des finances, après avis
 du conseil national de la comptabilité.
 
-*Entités :* `arrêté` (ARRETE), `loi n° 03-25 relative aux organismes de` (LOI), `loi n° 03-25 relative aux organismes de placement` (LOI)
+*Entités :* `arrêté` (ARRETE), `03-25` (LOI), `03-25` (LOI)
 
 *Citations :*
 
@@ -629,7 +699,7 @@ ainsi que toute modification y afférente, sont approuvés par
 arrêté de l'autorité gouvernementale chargée des finances, après
 avis de l'AMMC.
 
-*Entités :* `arrêté` (ARRETE), `loi n° 03-25 relative aux organismes de` (LOI), `loi n° 03-25 relative aux organismes de placement` (LOI)
+*Entités :* `arrêté` (ARRETE), `03-25` (LOI), `03-25` (LOI)
 
 *Citations :*
 
@@ -672,7 +742,8 @@ le Royaume du Maroc et l'Agence française de développement
 (AFD), pour le financement du projet « Réseau Express
 Régional (RER) de Rabat ».
 
-*Entités :* `cent millions d'euros` (MONEY), `100.000.000,00 euros` (MONEY), `9 février 2026` (DATE_GREGORIAN)
+*Entités :* `cent millions
+d'euros` (MONEY), `100.000.000,00 euros` (MONEY), `9 février 2026` (DATE_GREGORIAN)
 
 *Organisations :* Agence française de développement
 
@@ -709,7 +780,7 @@ conformément aux dispositions de l'article 2 du décret susvisé n°2-01-2324 d
 27 hija 1422 (12 mars 2002), les variétés désignées dans le tableau annexé au présent arrêté bénéficient de la
 protection des obtentions végétales.
 
-*Entités :* `27 hija 1422` (DATE_HIJRI), `12 mars 2002` (DATE_GREGORIAN), `arrêté` (ARRETE), `décret n° 2-01-2324` (DECRET)
+*Entités :* `27 hija 1422` (DATE_HIJRI), `12 mars 2002` (DATE_GREGORIAN), `arrêté` (ARRETE), `2-01-2324` (DECRET)
 
 *Citations :*
 
@@ -737,7 +808,7 @@ conformément aux dispositions de l'article 19 de la loi susvisée n° 9-94 sur 
 obtentions végétales, la durée de la protection est mentionnée dans le tableau indiqué à l'article premier
 ci-dessus, débute à compter de la date de délivrance du certificat d'obtention végétale correspondant.
 
-*Entités :* `loi n° 9-94` (LOI), `loi n°9-94` (LOI)
+*Entités :* `9-94` (LOI), `9-94` (LOI)
 
 *Citations :*
 
@@ -803,7 +874,8 @@ l'habitat et de l'urbanisme n° 426-04 du 25 safar 1425 (16 avril
 LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,
 LA MINISTRE DE L'AMÉNAGEMENT DU TERRITOIRE
 
-*Entités :* `arrêté conjoint du ministre de` (ARRETE), `25 safar 1425` (DATE_HIJRI), `16 avril 2004` (DATE_GREGORIAN), `MINISTRE DE L'INDUSTRIE ET DU COMMERCE` (MINISTERE)
+*Entités :* `arrêté conjoint du ministre de` (ARRETE), `25 safar 1425` (DATE_HIJRI), `16 avril
+2004` (DATE_GREGORIAN), `MINISTRE DE L'INDUSTRIE ET DU COMMERCE` (MINISTERE)
 
 *Dates :* 25 safar 1425, 16 avril 2004
 
@@ -946,9 +1018,13 @@ signée le 19 ramadan 1446 (20 mars 2025) entre ladite société
 et la secrétaire d'Etat auprès du ministre de l'agriculture, de la
 pêche maritime, du développement rural et des eaux et forêts,
 chargée de la pêche maritime, une ferme aquacole dénommée
+« Mejillons Labouirda-Cintra » pour l'élevage, en mer au large
 de Cintra, de l'huître creuse « Crassostrea gigas ».
 
-*Entités :* `société « MEJILLONS LABOUIRDA Sarl AU »` (ORG), `19 ramadan 1446` (DATE_HIJRI), `20 mars 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `société «  MEJILLONS
+LABOUIRDA Sarl AU  »` (ORG), `19 ramadan 1446` (DATE_HIJRI), `20 mars 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+
+*Personnes :* Mejillons Labouirda-Cintra
 
 *Dates :* 19 ramadan 1446, 20 mars 2025
 
@@ -960,14 +1036,17 @@ de Cintra, de l'huître creuse « Crassostrea gigas ».
 Le registre tenu par la société « MEJILLONS
 LABOUIRDA Sarl AU », en application des dispositions de
 l'article 28-1 du dahir portant loi n° 1-73-255 du 27 chaoual
+1393 (23 novembre 1973) susvisé, répertorie dans l'ordre
 chronologique, ventilé par espèce, les entrées et les sorties de
 l'huître creuse « Crassostrea gigas », élevée.
 
-*Entités :* `société « MEJILLONS LABOUIRDA Sarl AU »` (ORG), `dahir portant loi n° 1-73-255` (DAHIR), `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR)
+*Entités :* `société « MEJILLONS
+LABOUIRDA Sarl AU »` (ORG), `dahir portant loi n° 1-73-255 du 27 chaoual
+1393 (23 novembre 1973)` (DAHIR)
 
 *Citations :*
 
-- `l'article 28-1` → dahir portant loi n° 1-73-255 [✓]
+- `l'article 28-1` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
 
 
 ## Article 3
@@ -986,6 +1065,7 @@ arrêté conjoint.
 *ART. 4. –*
 
 Le présent arrêté conjoint sera publié au
+Bulletin officiel.
 Rabat, le 6 chaabane 1447 (26 janvier 2026).
 La secrétaire d'Etat auprès
 du ministre de l'agriculture,
@@ -999,6 +1079,7 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
+*
 
 *Entités :* `arrêté conjoint` (ARRETE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
@@ -1016,7 +1097,8 @@ chargée de la pêche maritime n° 493-26 du 6 chaabane 1447 (26 janvier 2026) a
 dénommée « Mejillons Labouirda-Cintra » et portant publication de l'extrait de la convention y afférente
 Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `société « MEJILLONS LABOUIRDA Sarl AU »` (ORG), `Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)` (BULLETIN_OFFICIEL), `arrêté` (ARRETE)
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `société
+« MEJILLONS LABOUIRDA Sarl AU »` (ORG), `Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)` (BULLETIN_OFFICIEL), `arrêté` (ARRETE)
 
 *Personnes :* Mejillons Labouirda-Cintra
 
@@ -1037,33 +1119,15 @@ et la secrétaire d'Etat auprès du ministre de l'agriculture, de la
 pêche maritime, du développement rural et des eaux et forêts,
 chargée de la pêche maritime, une ferme aquacole dénommée
 « West Leoceanic Cintra » pour l'élevage, en mer au large de
-LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE
-L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
-LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
-L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
-DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
-CHARGÉE DE LA PÊCHE MARITIME,
-Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393
-(23 novembre 1973) formant règlement sur la pêche maritime,
-tel que modifié et complété, notamment ses articles 28 et 28-1 ;
-Vu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)
-fixant les conditions et les modalités de délivrance
-et de renouvellement des autorisations d'établissement
-de pêche maritime, tel que modifié et complété, notamment
-ses articles 7, 7 bis et 9 ;
-Vu l'arrêté de la ministre de l'économie et des finances
-n° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
-délégation d'attributions au ministre délégué auprès de la
-ministre de l'économie et des finances, chargé du budget ;
+Cintra, des espèces halieutiques suivantes :
+– la moule des espèces « Mytilus galloprovincialis » et
+« Perna perna » ;
+– l'huître creuse « Crassostrea gigas ».
 
-*Entités :* `société « WEST LEOCEANIC Sarl AU »` (ORG), `16 ramadan 1446` (DATE_HIJRI), `17 mars 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `décret n° 2-08-562` (DECRET), `13 hija 1429` (DATE_HIJRI), `12 décembre 2008` (DATE_GREGORIAN), `arrêté` (ARRETE), `ministre de l'économie et des finances` (MINISTERE), `28 rabii I 1443` (DATE_HIJRI), `4 novembre 2021` (DATE_GREGORIAN)
+*Entités :* `société « WEST LEOCEANIC
+Sarl AU  »` (ORG), `16 ramadan 1446` (DATE_HIJRI), `17 mars 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
-*Citations :*
-
-- `articles 28 et 28-1` → décret n° 2-08-562 [✓]
-- `articles 7, 7` → arrêté [✓]
-
-*Dates :* 16 ramadan 1446, 17 mars 2025, 13 hija 1429, 12 décembre 2008, 28 rabii I 1443, 4 novembre 2021
+*Dates :* 16 ramadan 1446, 17 mars 2025
 
 
 ## Article 2
@@ -1077,54 +1141,14 @@ l'article 28-1 du dahir portant loi n° 1-73-255 du 27 chaoual
 chronologique, ventilé par espèce, les entrées et les sorties de
 la moule des espèces « Mytilus galloprovincialis » et « Perna
 perna » et de l'huître creuse « Crassostrea gigas », élevée.
-Vu l'arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des eaux et forêts n° 2561-24
-du 25 rabii II 1446 (29 octobre 2024) portant délégation
-d'attributions à la secrétaire d'Etat auprès du ministre de
-l'agriculture, de la pêche maritime, du développement rural
-et des eaux et forêts, chargée de la pêche maritime ;
-Vu l'arrêté du ministre de l'agriculture et de la pêche
-maritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
-à la demande d'autorisation de création et d'exploitation
-d'établissement de pêche maritime et fixant le modèle de
-convention de concession y afférent, tel que modifié et
-complété, notamment son article 3 ;
 
-*Entités :* `société « WEST LEOCEANIC Sarl AU »` (ORG), `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `ministre de l'agriculture` (MINISTERE), `25 rabii II 1446` (DATE_HIJRI), `29 octobre 2024` (DATE_GREGORIAN), `11 joumada II 1431` (DATE_HIJRI), `26 mai 2010` (DATE_GREGORIAN)
+*Entités :* `société «  WEST
+LEOCEANIC Sarl AU »` (ORG), `dahir portant loi n° 1-73-255 du 27 chaoual
+1393 (23 novembre 1973)` (DAHIR)
 
 *Citations :*
 
 - `l'article 28-1` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
-
-*Dates :* 25 rabii II 1446, 29 octobre 2024, 11 joumada II 1431, 26 mai 2010
-
-
-## Article 4
-
-*ART. 4. –*
-
-Le présent arrêté conjoint sera publié au
-Bulletin officiel.
-Vu l'arrêté conjoint du ministre de l'économie et des
-finances et du ministre de l'agriculture et de la pêche maritime
-n° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
-les montants et les modalités de paiement de la redevance
-annuelle due au titre des conventions de concession de ferme
-aquacole, tel que modifié et complété ;
-*
-de la pêche maritime, du développement rural et des eaux
-et forêts, chargée de la pêche maritime et approuvée par le
-ministre délégué auprès de la ministre de l'économie et des
-finances, chargé du budget,
-ARRÊTENT :
-Cintra, des espèces halieutiques suivantes :
-– la moule des espèces « Mytilus galloprovincialis » et
-« Perna perna » ;
-– l'huître creuse « Crassostrea gigas ».
-
-*Entités :* `arrêté conjoint` (ARRETE), `arrêté conjoint du ministre de l'économie et des` (ARRETE), `ministre de l'agriculture` (MINISTERE), `7 moharrem 1435` (DATE_HIJRI), `11 novembre 2013` (DATE_GREGORIAN)
-
-*Dates :* 7 moharrem 1435, 11 novembre 2013
 
 
 ## Article 3
@@ -1134,6 +1158,16 @@ Cintra, des espèces halieutiques suivantes :
 L'extrait de la convention n° 2024/DOE/521
 mentionnée à l'article premier ci-dessus est annexé au présent
 arrêté conjoint.
+
+*Entités :* `arrêté conjoint` (ARRETE), `arrêté` (ARRETE)
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté conjoint sera publié au
+Bulletin officiel.
 Rabat, le 6 chaabane 1447 (26 janvier 2026).
 La secrétaire d'Etat auprès
 du ministre de l'agriculture,
@@ -1147,8 +1181,9 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
+*
 
-*Entités :* `arrêté conjoint` (ARRETE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `arrêté conjoint` (ARRETE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
 *Dates :* 6 chaabane 1447, 26 janvier 2026
 
@@ -1164,7 +1199,8 @@ chargée de la pêche maritime n° 494-26 du 6 chaabane 1447 (26 janvier 2026) a
 dénommée « West Leoceanic Cintra » et portant publication de l'extrait de la convention y afférente
 Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `société « WEST LEOCEANIC Sarl AU »` (ORG), `Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)` (BULLETIN_OFFICIEL)
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `société
+« WEST LEOCEANIC Sarl AU »` (ORG), `Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026)` (BULLETIN_OFFICIEL), `arrêté` (ARRETE)
 
 *Dates :* 6 chaabane 1447, 26 janvier 2026
 
@@ -1182,9 +1218,11 @@ le 12 ramadan 1446 (13 mars 2025) entre ladite société et la
 secrétaire d'Etat auprès du ministre de l'agriculture, de la
 pêche maritime, du développement rural et des eaux et forêts,
 chargée de la pêche maritime, une ferme aquacole dénommée
+«Pro Aquaculture Company» pour l'élevage, en mer au large
 de Cintra de l'huître creuse «Crassostrea gigas».
 
-*Entités :* `société « PRO AQUACULTURE COMPANY Sarl »` (ORG), `12 ramadan 1446` (DATE_HIJRI), `13 mars 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `société « PRO AQUACULTURE
+COMPANY Sarl »` (ORG), `12 ramadan 1446` (DATE_HIJRI), `13 mars 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
 *Dates :* 12 ramadan 1446, 13 mars 2025
 
@@ -1194,12 +1232,15 @@ de Cintra de l'huître creuse «Crassostrea gigas».
 *ART.  2.  –*
 
 Le registre tenu par la société «PRO
+AQUACULTURE COMPANY Sarl», en application des
 dispositions de l'article 28-1 du dahir portant loi n°1-73-255
 du 27 chaoual 1393 (23 novembre 1973) susvisé, répertorie,
 dans l'ordre chronologique, ventilé par espèce, les entrées et
 les sorties de l'huître creuse «Crassostrea gigas», élevée.
 
-*Entités :* `dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR)
+*Entités :* `société «PRO
+AQUACULTURE COMPANY Sarl»` (ORG), `dahir portant loi n°1-73-255
+du 27 chaoual 1393 (23 novembre 1973)` (DAHIR)
 
 *Citations :*
 
@@ -1222,6 +1263,7 @@ arrêté conjoint.
 *ART. 4. –*
 
 Le présent arrêté conjoint sera publié au
+Bulletin officiel.
 Rabat, le 22 ramadan 1447 (12 mars 2026).
 La secrétaire d'Etat auprès
 du ministre de l'agriculture,
@@ -1235,6 +1277,7 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
+*
 
 *Entités :* `arrêté conjoint` (ARRETE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
@@ -1251,7 +1294,8 @@ chargée de la pêche maritime n°495-26 du 22 ramadan 1447 (12 mars 2026) autor
 COMPANY Sarl» pour la création et l'exploitation d'une ferme aquacole dénommée «Pro Aquaculture Company» et portant
 publication de l'extrait de la convention y afférente
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `société «PRO AQUACULTURE COMPANY Sarl»` (ORG), `arrêté` (ARRETE)
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `société «PRO AQUACULTURE
+COMPANY Sarl»` (ORG), `arrêté` (ARRETE)
 
 *Dates :* 22 ramadan 1447, 12 mars 2026
 
@@ -1270,37 +1314,22 @@ et la secrétaire d'Etat auprès du ministre de l'agriculture, de la
 pêche maritime, du développement rural et des eaux et forêts,
 chargée de la pêche maritime, une ferme aquacole dénommée
 «Algues Epicuriennes» pour la culture, au niveau de la lagune
-de la convention y afférente.
-LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE
-L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
-LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
-L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
-DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
-CHARGÉE DE LA PÊCHE MARITIME,
-Vu le dahir portant loi n°1-73-255 du 27 chaoual 1393
-(23 novembre 1973) formant règlement sur la pêche maritime,
-tel que modifié et complété, notamment ses articles 28 et 28-1 ;
-Vu le décret n°2-08-562 du 13 hija 1429 (12 décembre
-2008) fixant les conditions et les modalités de délivrance et
-de renouvellement des autorisations d'établissement de pêche
-maritime, tel que modiféi et complété, notamment ses articles 7,
-7 bis et 9 ;
-Vu l'arrêté de la ministre de l'économie et des finances
-n°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
-délégation d'attributions au ministre délégué auprès de la
-ministre de l'économie et des finances chargé du budget ;
+Marchica, des algues des espèces suivantes :
+– «Gracilaria gracilis» ;
+– «Laminaria ochroleuca» ;
+– «Gelidium sesquipedale» ;
+– «Saccorhiza polyschides» ;
+– «Grateloupia filicina» ;
+– «Codium tomentosum» ;
+– «Ulva lactuca» ;
+– «Cystoseira tamariscifolia».
 
-*Entités :* `société «ALGUES EPICURIENNES Sarl AU»` (ORG), `19 ramadan 1446` (DATE_HIJRI), `20 mars 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `décret n°2-08-562` (DECRET), `13 hija 1429` (DATE_HIJRI), `12 décembre 2008` (DATE_GREGORIAN), `arrêté` (ARRETE), `ministre de l'économie et des finances` (MINISTERE), `28 rabii I 1443` (DATE_HIJRI), `4 novembre 2021` (DATE_GREGORIAN)
-
-*Citations :*
-
-- `articles 28 et 28-1` → décret n°2-08-562 [✓]
-- `articles 7,
-7` → arrêté [✓]
+*Entités :* `société «ALGUES
+EPICURIENNES Sarl AU»` (ORG), `19 ramadan 1446` (DATE_HIJRI), `20 mars 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
 *Personnes :* Algues Epicuriennes
 
-*Dates :* 19 ramadan 1446, 20 mars 2025, 13 hija 1429, 12 décembre 2008, 28 rabii I 1443, 4 novembre 2021
+*Dates :* 19 ramadan 1446, 20 mars 2025
 
 
 ## Article 2
@@ -1315,64 +1344,15 @@ chronologique, ventilé par espèce, les entrées et les sorties
 des  algues des espèces «Gracilaria gracilis», «Laminaria
 ochroleuca», «Gelidium sesquipedale», «Saccorhiza polyschides»,
 «Grateloupia filicina», «Codium tomentosum», «Ulva lactuca»
-Vu l'arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des eaux et forêts
-n°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation
-d'attributions à la secrétaire d'Etat auprès du ministre de
-l'agriculture, de la pêche maritime, du développement rural
-et des eaux et forêts, chargée de la pêche maritime ;
-Vu l'arrêté du ministre de l'agriculture et de la pêche
-maritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
-à la demande d'autorisation de création et d'exploitation
-d'établissement de pêche maritime et fixant le modèle de
-convention de concession y afférent, tel que modifié et
-complété, notamment son article 3 ;
-Vu l'arrêté conjoint du ministre de l'économie et des
-finances et du ministre de l'agriculture et de la pêche maritime
-n°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant les
-montants et les modalités de paiement de la redevance annuelle
-due au titre des conventions de concession de ferme aquacole,
-tel que modifié et complété ;
+et «Cystoseira tamariscifolia», cultivées.
 
-*Entités :* `société «ALGUES EPICURIENNES Sarl AU»` (ORG), `dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `ministre de l'agriculture` (MINISTERE), `25 rabii II 1446` (DATE_HIJRI), `29 octobre 2024` (DATE_GREGORIAN), `11 joumada II 1431` (DATE_HIJRI), `26 mai 2010` (DATE_GREGORIAN), `arrêté conjoint du ministre de l'économie et des` (ARRETE), `7 moharrem 1435` (DATE_HIJRI), `11 novembre 2013` (DATE_GREGORIAN)
+*Entités :* `société «ALGUES
+EPICURIENNES Sarl AU»` (ORG), `dahir portant loi n°1-73-255 du 27 chaoual
+1393 (23 novembre 1973)` (DAHIR)
 
 *Citations :*
 
 - `l'article 28-1` → dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
-
-*Dates :* 25 rabii II 1446, 29 octobre 2024, 11 joumada II 1431, 26 mai 2010, 7 moharrem 1435, 11 novembre 2013
-
-
-## Article 4
-
-*ART. 4. –*
-
-Le présent arrêté conjoint sera publié au
-Bulletin officiel.
-Considérant la convention de création et d'exploitation
-de ferme aquacole n° 2024/ORI/520 signée le 19 ramadan 1446
-(20 mars 2025) entre la société «ALGUES EPICURIENNES
-Sarl AU» et la secrétaire d'Etat auprès du ministre de
-l'agriculture, de la pêche maritime, du développement rural
-et des eaux et forêts, chargée de la pêche maritime et approuvée
-par le ministre délégué auprès de la ministre de l'économie et
-des finances, chargé du budget,
-*
-ARRÊTENT :
-Marchica, des algues des espèces suivantes :
-– «Gracilaria gracilis» ;
-– «Laminaria ochroleuca» ;
-– «Gelidium sesquipedale» ;
-– «Saccorhiza polyschides» ;
-– «Grateloupia filicina» ;
-– «Codium tomentosum» ;
-– «Ulva lactuca» ;
-– «Cystoseira tamariscifolia».
-et «Cystoseira tamariscifolia», cultivées.
-
-*Entités :* `arrêté conjoint` (ARRETE), `19 ramadan 1446` (DATE_HIJRI), `20 mars 2025` (DATE_GREGORIAN), `société «ALGUES EPICURIENNES Sarl AU»` (ORG)
-
-*Dates :* 19 ramadan 1446, 20 mars 2025
 
 
 ## Article 3
@@ -1382,6 +1362,16 @@ et «Cystoseira tamariscifolia», cultivées.
 L'extrait de la convention n° 2024/ORI/520
 mentionnée à l'article premier ci-dessus est annexé au présent
 arrêté conjoint.
+
+*Entités :* `arrêté conjoint` (ARRETE), `arrêté` (ARRETE)
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté conjoint sera publié au
+Bulletin officiel.
 Rabat, le 22 ramadan 1447 (12 mars 2026).
 La secrétaire d'Etat auprès
 du ministre de l'agriculture,
@@ -1395,8 +1385,9 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
+*
 
-*Entités :* `arrêté conjoint` (ARRETE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `arrêté conjoint` (ARRETE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
 *Dates :* 22 ramadan 1447, 12 mars 2026
 
@@ -1411,7 +1402,7 @@ et des eaux et forêts, chargée de la pêche maritime n°496-26 du 22 ramadan 1
 la société «ALGUES EPICURIENNES Sarl AU» pour la création et l'exploitation d'une ferme aquacole
 dénommée «Algues Epicuriennes» et portant publication de l'extrait de la convention y afférente
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `société «ALGUES EPICURIENNES Sarl AU»` (ORG)
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `société «ALGUES EPICURIENNES Sarl AU»` (ORG), `arrêté` (ARRETE)
 
 *Organisations :* Algues Epicuriennes
 
@@ -1423,6 +1414,7 @@ dénommée «Algues Epicuriennes» et portant publication de l'extrait de la con
 *ARTICLE  PREMIER.  –*
 
 La société «LA PERLE
+AQUACULTURE Sarl», immatriculée au registre de
 commerce de Dakhla sous le numéro 22783 est autorisée à créer
 et exploiter, dans les conditions fixées par la convention de
 création et d'exploitation de ferme aquacole n° 2024/DOE/527,
@@ -1430,9 +1422,13 @@ signée le 28 hija 1446 (25 juin 2025) entre ladite société et
 la secrétaire d'Etat auprès du ministre de l'agriculture, de la
 pêche maritime, du développement rural et des eaux et forêts,
 chargée de la pêche maritime, une ferme aquacole dénommée
+«La Perle Aquaculture» pour l'élevage, en mer au large de
 Cintra de l'huître creuse «Crassostrea gigas».
 
-*Entités :* `28 hija 1446` (DATE_HIJRI), `25 juin 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `société «LA PERLE
+AQUACULTURE Sarl»` (ORG), `28 hija 1446` (DATE_HIJRI), `25 juin 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+
+*Organisations :* Sarl
 
 *Dates :* 28 hija 1446, 25 juin 2025
 
@@ -1442,15 +1438,19 @@ Cintra de l'huître creuse «Crassostrea gigas».
 *ART. 2. –*
 
 Le registre tenu par la société «LA PERLE
+AQUACULTURE Sarl», en application des dispositions de
 l'article 28-1 du dahir portant loi n°1-73-255 du 27 chaoual
+1393 (23 novembre 1973) susvisé, répertorie, dans l'ordre
 chronologique, ventilé par espèce, les entrées et les sorties de
 l'huître creuse «Crassostrea gigas», élevée.
 
-*Entités :* `dahir portant loi n°1-73-255` (DAHIR), `dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR)
+*Entités :* `société «LA PERLE
+AQUACULTURE Sarl»` (ORG), `dahir portant loi n°1-73-255 du 27 chaoual
+1393 (23 novembre 1973)` (DAHIR)
 
 *Citations :*
 
-- `l'article 28-1` → dahir portant loi n°1-73-255 [✓]
+- `l'article 28-1` → dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
 
 
 ## Article 3
@@ -1469,6 +1469,7 @@ arrêté conjoint.
 *ART. 4. –*
 
 Le présent arrêté conjoint sera publié au
+Bulletin officiel.
 Rabat, le 22 ramadan 1447 (12 mars 2026).
 La secrétaire d'Etat auprès
 du ministre de l'agriculture,
@@ -1482,6 +1483,7 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
+*
 
 *Entités :* `arrêté conjoint` (ARRETE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
@@ -1498,7 +1500,8 @@ chargée de la pêche maritime n°497-26 du 22 ramadan 1447 (12 mars 2026) autor
 «LA PERLE AQUACULTURE Sarl» pour la création et l'exploitation d'une ferme aquacole dénommée
 «La Perle Aquaculture» et portant publication de l'extrait de la convention y afférente
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `société «LA PERLE AQUACULTURE Sarl»` (ORG), `arrêté` (ARRETE)
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `société
+«LA PERLE AQUACULTURE Sarl»` (ORG), `arrêté` (ARRETE)
 
 *Dates :* 22 ramadan 1447, 12 mars 2026
 
@@ -1528,7 +1531,8 @@ complété comme suit :
 «  complément de formation, délivrée par l'Ecole
 « nationale d'architecture de Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2023` (DATE_GREGORIAN), `30 juin 2021` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2023` (DATE_GREGORIAN), `30 juin 2021` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -1579,7 +1583,8 @@ complété comme suit :
 « validation du complément de formation, délivrée
 « par l'Ecole nationale d'architecture de Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2023` (DATE_GREGORIAN), `30 juin 2021` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2023` (DATE_GREGORIAN), `30 juin 2021` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -1632,7 +1637,8 @@ complété comme suit :
 « validation du complément de formation, délivrée par
 « l'Ecole nationale d'architecture de Rabat. »
 
-*Entités :* `arrêté susvisé n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `27 septembre 2023` (DATE_GREGORIAN), `30 juin 2021` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `27 septembre 2023` (DATE_GREGORIAN), `30 juin 2021` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
 *Citations :*
 
@@ -1734,7 +1740,8 @@ Ledit agrément est octroyé pour les prestations
 exercées dans le site « Analysis And Control Laboratory
 (ACLAB) » sis au « Lot 182, zone industrielle, Mohammedia ».
 
-*Entités :* `site « Analysis And Control Laboratory (ACLAB) »` (ORG)
+*Entités :* `site « Analysis And Control Laboratory
+(ACLAB) »` (ORG)
 
 
 ## Article 3
@@ -1819,7 +1826,8 @@ durée d'un an (1) le délai de liquidation de la société
 « SOGEFINANCEMENT » prévu par la décision du Wali
 de Bank Al-Maghrib n° 118 susvisée.
 
-*Entités :* `société « SOGEFINANCEMENT »` (ORG)
+*Entités :* `société
+« SOGEFINANCEMENT »` (ORG)
 
 
 ## Article 2

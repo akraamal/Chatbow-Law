@@ -8521,25 +8521,25 @@ les dispositions de l'arrêté susvisé n° 2022-10 :
 « pendant le reste de l'année scolaire. »
 Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
 ART. 3. – Sont abrogés et remplacés par les tableaux
-Par dérogation aux dispositions du deuxième alinéa
 portant les mêmes numéros, annexés au présent arrêté, les
-de l'article 25, le dossier de candidature comporte, au titre
 tableaux portant les numéros 1, 5 et 6 annexés à l'arrêté susvisé
-des années scolaires 2024-2025 et 2025-2026, une attestation
 n° 2022-10.
-justifiant la mémorisation par le candidat de quarante Hizb
 ART. 4. – Le présent arrêté sera publié au Bulletin Offciiel
-du Saint Coran.
 et entre en vigueur à compter de l'année scolaire 2024-2025,
 sous réserve des dispositions suivantes :
-Rabat, le 22 ramadan 1445 (2 avril 2024).
 Les dispositions du troisième alinéa de l'article 14 sont
-AHMED TOUFIQ.
 applicables au quatrième niveau de l'enseignement traditionnel
 primaire à compter de l'année scolaire 2025-2026, au cinquième
-Le texte en langue arabe a été publié dans l'édition générale du
 niveau à compter de l'année scolaire 2026-2027 et au sixième
 niveau à compter de l'année scolaire 2027-2028 ;
+Par dérogation aux dispositions du deuxième alinéa
+de l'article 25, le dossier de candidature comporte, au titre
+des années scolaires 2024-2025 et 2025-2026, une attestation
+justifiant la mémorisation par le candidat de quarante Hizb
+du Saint Coran.
+Rabat, le 22 ramadan 1445 (2 avril 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7292 du 9 chaoual 1445 (18 avril 2024).
 *
 *     *
@@ -10409,38 +10409,21 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6385 du 24 chaoual 1436 (10 août 2015).
 Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
 Décision du ministre des Habous et des affaires islamiques
-ART. 6 – Sont mentionnées à la première section du
-premier titre du rapport, les recettes urgentes et les recettes
-n'ayant pas été perçues conformément à la modalité indiquée
-au tableau n° 3 annexé à la présente décision.
 n° 283-15 du 12 rabii II 1436 (2 février 2015) fixant les
 modalités d'élaboration des rapports annuels relatifs au
 bilan d'activités du contrôleur financier central et des
 contrôleurs locaux.
-ART. 7 – Le rapport établit les dépenses payées dans la
-première section du deuxième titre suivant les deux modes
-suivants :
 LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
 Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
 portant code des Habous, notamment son article 153 ;
-–	à travers leur répartition de manière générale selon la
-catégorisation et la classifciation prévues au paragraphe
-« b » de l'article 136 prévu à l'article 5 ci-dessus ;
 Vu l'arrêté du ministre des Habous et des affaires
 islamiques n° 2685-13 du 12 kaada 1434 (19 septembre 2013)
 portant organisation financière et comptable des Habous
 publics, notamment son article 104 ;
-– à  travers leur répartition de manière détaillée
-conformément au tableau n° 4 annexé à la présente
-décision pour le contrôleur financier central et
-conformément au tableau n° 5 pour les contrôleurs
-locaux.
 Vu le règlement intérieur du conseil supérieur du
 contrôle des finances des Habous publics, approuvé par le
 dahir n° 1-11-139 du 8 ramadan 1432 (9 août 2011), notamment
 ses articles 55, 56 et 57,
-ART. 8 – Sont mentionnés à la première section du
-deuxième titre du rapport :
 DÉCIDE :
 ARTICLE PREMIER. – Sont fixées conformément aux
 dispositions de la présente décision, les modalités d'élaboration
@@ -10448,47 +10431,64 @@ des rapports annuels relatifs au bilan d'activités du contrôleur
 financier central et des contrôleurs locaux, prévus à l'article 104
 de l'arrêté du ministre des Habous et des affaires islamiques
 susvisé n° 2685-13.
-– les crédits non utilisés ;
-– les dépassements dans les crédits ouverts ;
-– les crédits ouverts supplémentaires ;
 ART. 2 – Le rapport du contrôleur financier central et
 les rapports des contrôleurs locaux sont établis en un original
 et deux copies au moins.
-– les crédits objet de migration ;
-–.les crédits engagés et non payés en fin d'exercice.
 ART. 3 – Les rapports prévus à l'article 2 ci-dessus
 comportent une introduction générale et deux titres.
-Les derniers crédits sont fixés conformément au tableau
-n° 6 annexé à la présente décision.
 Le premier titre est consacré aux recettes perçues au
 titre de l'exercice concerné et le deuxième aux dépenses dont
 l'ordonnancement est visé au titre du même exercice.
-ART. 9 – Le rapport est assorti des copies :
-– .de l'arrêté de désignation du contrôleur concerné ;
 ART. 4 – Le premier et le deuxième titre du rapport
 sont subdivisés en sections. La première est consacrée, en
 général, aux opérations et aux mesures relatives à l'exécution
 du budget, la deuxième aux deux catégories des comptes
 spéciaux et la troisième aux échanges et aux bons Habous et
 ce, conformément au modèle n° 1 annexé à la présente décision.
+ART. 5 – Le rapport fixe les recettes perçues dans la
+première section du premier titre suivant les deux modes
+suivants :
+– à travers leur répartition de manière générale selon la
+catégorisation et la classifciation prévues au paragraphe
+« a » de l'article 136 du dahir susvisé n° 1-09-236 ;
+– à travers leur répartition de manière détaillée
+conformément au tableau n° 2 annexé à la présente
+décision.
+ART. 6 – Sont mentionnées à la première section du
+premier titre du rapport, les recettes urgentes et les recettes
+n'ayant pas été perçues conformément à la modalité indiquée
+au tableau n° 3 annexé à la présente décision.
+ART. 7 – Le rapport établit les dépenses payées dans la
+première section du deuxième titre suivant les deux modes
+suivants :
+–	à travers leur répartition de manière générale selon la
+catégorisation et la classifciation prévues au paragraphe
+« b » de l'article 136 prévu à l'article 5 ci-dessus ;
+– à  travers leur répartition de manière détaillée
+conformément au tableau n° 4 annexé à la présente
+décision pour le contrôleur financier central et
+conformément au tableau n° 5 pour les contrôleurs
+locaux.
+ART. 8 – Sont mentionnés à la première section du
+deuxième titre du rapport :
+– les crédits non utilisés ;
+– les dépassements dans les crédits ouverts ;
+– les crédits ouverts supplémentaires ;
+– les crédits objet de migration ;
+–.les crédits engagés et non payés en fin d'exercice.
+Les derniers crédits sont fixés conformément au tableau
+n° 6 annexé à la présente décision.
+ART. 9 – Le rapport est assorti des copies :
+– .de l'arrêté de désignation du contrôleur concerné ;
 – .des décisions de création de comptes spéciaux ;
 – des décisions de délégation de crédits.
 ART. 10 – Les copies des pièces prévues au deuxième
 alinéa de l'article 56 du règlement intérieur du conseil supérieur
 du contrôle des finances des Habous publics susmentionné,
 sont classées selon les lignes budgétaires.
-ART. 5 – Le rapport fixe les recettes perçues dans la
-première section du premier titre suivant les deux modes
-suivants :
-– à travers leur répartition de manière générale selon la
 ART. 11 – La présente décision est publiée au Bulletin
 officiel et prend effet à compter de la date de sa publication.
-catégorisation et la classifciation prévues au paragraphe
-« a » de l'article 136 du dahir susvisé n° 1-09-236 ;
-– à travers leur répartition de manière détaillée
 Rabat, le 12 rabii II 1436 (2 février 2015).
-conformément au tableau n° 2 annexé à la présente
-décision.
 AHMED TOUFIQ.
 *
 *      *
@@ -16476,53 +16476,27 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6136 du 9 joumada I 1434 (21 mars 2013).
 Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
 Arrêté du ministre des Habous et des affaires islamiques
-ARRÊTE :
 n° 1079-05 du 7 rabii II 1426 (16 mai 2005) fixant le
 montant de l'indemnité de responsabilité allouée aux chefs
 de départements au sein de l'administration du Conseil
 supérieur des Ouléma.
-ARTICLE  PREMIER. – En application des dispositions
-de l'article 24 du règlement intérieur du Conseil supérieur
-des Ouléma susvisé, les chefs de départements au sein de
-l'administration du Conseil supérieur des Ouléma perçoivent
-une indemnité de responsabilité dont le montant mensuel est
-fixé à mille cinq cent dirhams (1.500).
 LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
 Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
 portant réorganisation des conseils des Ouléma ;
-ART. 2. – Le présent arrêté est publié au Bulletin officiel.
 Vu le règlement intérieur du Conseil supérieur des
 Ouléma, approuvé par le dahir n° 1-04-231 du 7 moharrem
 1426 (26 février 2005), notamment son article 24 ;
-Le texte en langue arabe a été publié dans l'édition générale du
 Sur proposition du secrétaire général du Conseil
 supérieur des Ouléma,
-« Bulletin officiel » n° 5342 du 5 rejeb 1426 (11 août 2005).
 Arrêté du ministre des Habous et des affaires islamiques n° 1561-11
-– fonctionnaires chargés de l'encadrement des pèlerins
 du 16 kaada 1432 (14 octobre 2011) fixant la nature et
 les conditions de remise d'une tenue de travail à certains
 fonctionnaires du ministère des Habous et des affaires
 islamiques.
-marocains aux lieux saints dans la limite des crédits
-inscrits à cet effet au budget de la division du pèlerinage
-et des affaires sociales (service de l'Etat géré de manière
-autonome).
-ART. 2. – Les conditions et la nature des tenues prévues
-à l'article premier ci-dessus sont fixées conformément
-à la liste annexée au présent arrêté.
 LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
 Vu le décret n° 2-10-552 du 27 safar 1432 (1er février 2011)
 portant remise d'une tenue de travail à certains fonctionnaires
 du ministère des Habous et des affaires islamiques,
-ART. 3. – Sont chargés de l'acquisition desdites tenues,
-à partir du compte des dépenses prévues à cet effet, les
-services compétents à l'administration centrale, les services
-extérieurs, le conseil supérieur des Ouléma, les conseils locaux
-des Ouléma, le conseil marocain des Oulémas pour l'Europe,
-l'établissement Dar El Hadith El Hassania, l'institut royal pour
-la recherche sur l'histoire du Maroc et le conseil supérieur du
-contrôle des finances des Habous publics.
 ARRÊTE :
 ARTICLE  PREMIER. – Des tenues de travail sont remises
 gratuitement aux :
@@ -16536,18 +16510,44 @@ sur l'histoire du Maroc et au conseil supérieur du
 contrôle des finances des Habous publics, dans la limite
 des crédits inscrits à cet effet au budget du ministère
 des Habous et des affaires islamiques ;
+ARRÊTE :
+ARTICLE  PREMIER. – En application des dispositions
+de l'article 24 du règlement intérieur du Conseil supérieur
+des Ouléma susvisé, les chefs de départements au sein de
+l'administration du Conseil supérieur des Ouléma perçoivent
+une indemnité de responsabilité dont le montant mensuel est
+fixé à mille cinq cent dirhams (1.500).
+ART. 2. – Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 7 rabii II 1426 (16 mai 2005).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5342 du 5 rejeb 1426 (11 août 2005).
+– fonctionnaires chargés de l'encadrement des pèlerins
+marocains aux lieux saints dans la limite des crédits
+inscrits à cet effet au budget de la division du pèlerinage
+et des affaires sociales (service de l'Etat géré de manière
+autonome).
+ART. 2. – Les conditions et la nature des tenues prévues
+à l'article premier ci-dessus sont fixées conformément
+à la liste annexée au présent arrêté.
+ART. 3. – Sont chargés de l'acquisition desdites tenues,
+à partir du compte des dépenses prévues à cet effet, les
+services compétents à l'administration centrale, les services
+extérieurs, le conseil supérieur des Ouléma, les conseils locaux
+des Ouléma, le conseil marocain des Oulémas pour l'Europe,
+l'établissement Dar El Hadith El Hassania, l'institut royal pour
+la recherche sur l'histoire du Maroc et le conseil supérieur du
+contrôle des finances des Habous publics.
 ART. 4. – Le présent arrêté est publié au Bulletin officiel
 et est abrogé à compter de la date de publication, l'arrêté du
 ministre des Habous et des affaires islamiques  n° 1479-05 du
 22 joumada II 1426 (29 juillet 2005) fixant les conditions de
 remise de tenues de travail à certains agents du ministère des
 Habous et des affaires islamiques.
-*
-*      *
-Rabat, le 7 rabii II 1426 (16 mai 2005).
-AHMED TOUFIQ.
 Rabat, le 16 kaada 1432 (14 octobre 2011).
 AHMED TOUFIQ.
+*
+*      *
 Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
 Liste des tenues de travail par catégorie de bénéficiaires
 Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 5997 du 24 hija 1432 (21 novembre 2011).

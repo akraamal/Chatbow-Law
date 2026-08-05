@@ -33,13 +33,13 @@
     },
     {
       "label": "LOI",
-      "text": "Loi n° 09-21 relative à la protection sociale",
+      "text": "Loi n° 09-21\nrelative à la protection sociale",
       "start": 728,
       "end": 773
     },
     {
       "label": "DATE_GREGORIAN",
-      "text": "9 octobre 2020",
+      "text": "9 octobre\n2020",
       "start": 2447,
       "end": 2461
     },
@@ -4959,6 +4959,12 @@
           "text": "9 rabii I 1444",
           "start": 379,
           "end": 393
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de\nl'économie et des finances",
+          "start": 33,
+          "end": 71
         }
       ],
       "dates": [
@@ -4997,7 +5003,7 @@
       "entities": [
         {
           "label": "DECRET",
-          "text": "décret n° 2-18-722",
+          "text": "2-18-722",
           "start": 66,
           "end": 74
         }
@@ -5108,7 +5114,7 @@
       "entities": [
         {
           "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973)",
           "start": 874,
           "end": 941
         },
@@ -5194,7 +5200,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté n° 1154-88 du 20 safar 1409",
+          "text": "arrêté n°\n1154-88 du 20 safar 1409",
           "start": 35,
           "end": 69
         },
@@ -5229,7 +5235,7 @@
       "entities": [],
       "dates": [],
       "preamble": "",
-      "text": "Seules la palangre dérivante de surface et la\nligne, sont autorisées pour la pêche de l'espadon.\nLa longueur maximale de la palangre dérivante de\nsurface pour la pêche de l'espadon est fixée à cinquante-\ncinq kilomètres (55 Km). Le nombre maximum d'hameçons\npouvant être mouillés ou embarqués est fixé à 2500 hameçons.\nUn lot équivalent d'hameçons supplémentaires peut être\nembarqué à bord lorsque le navire doit effectuer des sorties en\nmer supérieures à 48 heures, à la condition que ces hameçons\nsoient stockés et arrimés dans un lieu sous le pont supérieur\nde façon à ne pas être facilement accessibles.\nTout hameçon utilisé ou stocké à bord du navire doit\navoir une taille supérieure ou égale à 7 cm de hauteur.\n*\n*   *",
+      "text": "Seules la palangre dérivante de surface et la\nligne, sont autorisées pour la pêche de l'espadon.\nLa longueur maximale de la palangre dérivante de\nsurface pour la pêche de l'espadon est fixée à cinquante-\ncinq kilomètres (55 Km). Le nombre maximum d'hameçons\npouvant être mouillés ou embarqués est fixé à 2500 hameçons.\nUn lot équivalent d'hameçons supplémentaires peut être\nembarqué à bord lorsque le navire doit effectuer des sorties en\nmer supérieures à 48 heures, à la condition que ces hameçons\nsoient stockés et arrimés dans un lieu sous le pont supérieur\nde façon à ne pas être facilement accessibles.\nTout hameçon utilisé ou stocké à bord du navire doit\navoir une taille supérieure ou égale à 7 cm de hauteur.",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -5259,7 +5265,7 @@
       "entities": [
         {
           "label": "DECRET",
-          "text": "décret n° 2-18-722",
+          "text": "2-18-722",
           "start": 73,
           "end": 81
         }
@@ -5377,7 +5383,7 @@
       "entities": [
         {
           "label": "DECRET",
-          "text": "décret n° 2-18-722",
+          "text": "2-18-722",
           "start": 259,
           "end": 267
         }
@@ -5472,8 +5478,8 @@
         {
           "label": "DATE_HIJRI",
           "text": "9 rabii I 1444",
-          "start": 121,
-          "end": 135
+          "start": 129,
+          "end": 143
         }
       ],
       "dates": [
@@ -5492,12 +5498,12 @@
         {
           "label": "DATE_HIJRI",
           "text": "9 rabii I 1444",
-          "start": 121,
-          "end": 135
+          "start": 129,
+          "end": 143
         }
       ],
       "preamble": "",
-      "text": "Le présent arrêté est publié au Bulletin officiel.\nRabat, le 12 ramadan 1443 (14 avril 2022).\nMOHAMMED SADIKI.\nNº 7132 – 9 rabii I 1444 (6-10-2022)",
+      "text": "Le présent arrêté est publié au Bulletin officiel.\nRabat, le 12 ramadan 1443 (14 avril 2022).\nMOHAMMED SADIKI.\n*\n*   *\nNº 7132 – 9 rabii I 1444 (6-10-2022)",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -5536,7 +5542,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 2692,
           "end": 2757
         },
@@ -5690,7 +5696,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 179,
           "end": 244
         }
@@ -5794,7 +5800,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7128 du 25 safar 1444 (22 septembre 2022)",
+          "text": "Bulletin officiel » n° 7128  du 25 safar 1444 (22 septembre 2022)",
           "start": 181,
           "end": 246
         },
@@ -5871,7 +5877,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7118 du 20 moharrem 1444 (18 août 2022)",
+          "text": "Bulletin officiel » n° 7118  du 20 moharrem 1444 (18 août 2022)",
           "start": 577,
           "end": 640
         }
@@ -5942,7 +5948,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté du ministre des finances n° 1318-77 du 17 kaada 1397",
+          "text": "1318-77",
           "start": 122,
           "end": 129
         }
@@ -6014,7 +6020,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7120 du 27 moharrem 1444 (25 août 2022)",
+          "text": "Bulletin officiel » n° 7120  du 27 moharrem 1444 (25 août 2022)",
           "start": 317,
           "end": 380
         },
@@ -6303,7 +6309,7 @@
         }
       ],
       "preamble": "",
-      "text": "Procédure d'octroi de la subvention\nPour bénéficier de ladite subvention, les sociétés\nsemencières agréées doivent déposer, contre récépissé daté\net signé, un dossier de demande de subvention au niveau\nde la direction du développement des filières de production\ndu ministère de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts.\nLe dossier de demande de subvention doit être déposé\ndans les 12 mois à compter de la date de la fin de la campagne\nde commercialisation des semences. Ce délai peut être prolongé\nune seule fois d'un délai additionnel d'une durée de six (06)\nmois en cas de survenance, d'un évènement de force majeure\nou de difficultés dans le dépôt du dossier dûment justifiés.\nCe dossier, déposé en un seul exemplaire sur support\npapier et électronique, doit comprendre les pièces et les\ndocuments suivants :\na) Pour les semences de production nationale :\n– un récapitulatif des certificats des résultats d'analyses\npour les semences de la récolte de l'année et un\nrécapitulatif des bulletins de lots de semences en stock\nde report conformes aux normes en vigueur prévues\npar l'arrêté du ministre de l'agriculture et de la pêche\nmaritime précité n° 2197-13, délivré par l'office national\nde sécurité sanitaire des produits alimentaires au début\nde la campagne agricole selon les annexes 1 et 2 du\nprésent arrêté conjoint ;\n– un récapitulatif des stocks des semences céréalières\nà la fin de la période des ventes. Cet état est délivré\npar l'office national de sécurité sanitaire des produits\nalimentaires selon l'annexe 3 du présent arrêté conjoint\nsur la base des quantités déclarées par les sociétés\nsemencières concernées et après vérification desdites\ndéclarations au niveau des centres de stockage ;\n– une facture détaillée des ventes par espèces, variétés et\ncatégories, libellée au nom du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des\neaux et forêts ;\n– une déclaration de la société semencière en cas de pertes\nou d'avaries des semences selon l'annexe 4 du présent\narrêté conjoint ;\n– une attestation du RIB de la société semencière agréée.\nb) Pour les semences d'origine importée :\n– une facture détaillée des ventes par espèces, variétés et\ncatégories libellée au nom du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des\neaux et forêts ;\n– un récapitulatif des certificats des résultats d'analyse\ndes semences céréalières certifiées importées, délivré\npar l'office national de sécurité sanitaire des produits\nalimentaires selon l'annexe 5 du présent arrêté conjoint ;\n– un récapitulatif des bulletins de lots des semences\ncéréalières importées, en stock de report, délivré par\nl'office national de sécurité sanitaire des produits\nalimentaires selon l'annexe 6 du présent arrêté conjoint ;\nNº 7132 – 9 rabii I 1444 (6-10-2022)\n– un récapitulatif des stocks des semences céréalières\nimportées à la fin de la période des ventes, délivré\npar l'office national de sécurité sanitaire des produits\nalimentaires selon l'annexe 7 du présent arrêté conjoint ;\n– une déclaration de la société semencière agréée en\ncas de pertes ou d'avaries des quantités de semences\ncéréalières importées selon l'annexe 8 du présent arrêté\nconjoint ;\n– une copie d'engagement d'importation, visé par les\nservices de la douane ;\n– une copie de la déclaration unique des marchandises à\nl'importation (DUM) ;\n– une copie du bulletin international orange de lot de\nsemences ;\n– une attestation du RIB de la société semencière agréée.\nc) Octroi de la subvention :\nAprès instruction du dossier, la direction de\ndéveloppement des filières de production établit un état\ndes quantités vendues en semences par espèces, variétés et\ncatégories selon les annexes 9 et 10 du présent arrêté conjoint.\nLorsque la direction financière au niveau du ministère\nde l'agriculture, de la pêche maritime, du développement\nrural et des eaux et forêts reçoit le dossier, elle procède à\nson examen et délivre au postulant à l'aide, par tout moyen\njustifiant réception, une lettre l'informant de l'acceptation de\nsa demande et le montant de la subvention qui lui est accordé\nou le cas échéant, le refus motivé de sa demande.\nLe délai de traitement des dossiers de demandes de\nsubvention est fixé à 60 jours à compter de la date du dépôt\ndes dossiers.\nPour les besoins de contrôles, les sociétés semencières\nagréées sont tenues d'établir et de conserver à leur niveau les\npièces suivantes :\n–  un duplicata des factures de ventes des semences\nprécisant les noms des bénéficiaires, leurs adresses\n(commune, douar,…), les quantités vendues par espèces,\npar variétés et catégories ainsi que le prix de vente ;",
+      "text": "Procédure d'octroi de la subvention\nPour bénéficier de ladite subvention, les sociétés\nsemencières agréées doivent déposer, contre récépissé daté\net signé, un dossier de demande de subvention au niveau\nde la direction du développement des filières de production\ndu ministère de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts.\nLe dossier de demande de subvention doit être déposé\ndans les 12 mois à compter de la date de la fin de la campagne\nde commercialisation des semences. Ce délai peut être prolongé\nune seule fois d'un délai additionnel d'une durée de six (06)\nmois en cas de survenance, d'un évènement de force majeure\nou de difficultés dans le dépôt du dossier dûment justifiés.\nCe dossier, déposé en un seul exemplaire sur support\npapier et électronique, doit comprendre les pièces et les\ndocuments suivants :\na) Pour les semences de production nationale :\n– un récapitulatif des certificats des résultats d'analyses\npour les semences de la récolte de l'année et un\nrécapitulatif des bulletins de lots de semences en stock\nde report conformes aux normes en vigueur prévues\npar l'arrêté du ministre de l'agriculture et de la pêche\nmaritime précité n° 2197-13, délivré par l'office national\nde sécurité sanitaire des produits alimentaires au début\nde la campagne agricole selon les annexes 1 et 2 du\nprésent arrêté conjoint ;\n– un récapitulatif des stocks des semences céréalières\nà la fin de la période des ventes. Cet état est délivré\npar l'office national de sécurité sanitaire des produits\nalimentaires selon l'annexe 3 du présent arrêté conjoint\nsur la base des quantités déclarées par les sociétés\nsemencières concernées et après vérification desdites\ndéclarations au niveau des centres de stockage ;\n– une facture détaillée des ventes par espèces, variétés et\ncatégories, libellée au nom du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des\neaux et forêts ;\n– une déclaration de la société semencière en cas de pertes\nou d'avaries des semences selon l'annexe 4 du présent\narrêté conjoint ;\n– une attestation du RIB de la société semencière agréée.\nb) Pour les semences d'origine importée :\n– une facture détaillée des ventes par espèces, variétés et\ncatégories libellée au nom du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des\neaux et forêts ;\n– un récapitulatif des certificats des résultats d'analyse\ndes semences céréalières certifiées importées, délivré\npar l'office national de sécurité sanitaire des produits\nalimentaires selon l'annexe 5 du présent arrêté conjoint ;\n– un récapitulatif des bulletins de lots des semences\ncéréalières importées, en stock de report, délivré par\nl'office national de sécurité sanitaire des produits\nalimentaires selon l'annexe 6 du présent arrêté conjoint ;\nNº 7132 – 9 rabii I 1444 (6-10-2022)\n– un récapitulatif des stocks des semences céréalières\nimportées à la fin de la période des ventes, délivré\npar l'office national de sécurité sanitaire des produits\nalimentaires selon l'annexe 7 du présent arrêté conjoint ;\n– une déclaration de la société semencière agréée en\ncas de pertes ou d'avaries des quantités de semences\ncéréalières importées selon l'annexe 8 du présent arrêté\nconjoint ;\n– une copie d'engagement d'importation, visé par les\nservices de la douane ;\n– une copie de la déclaration unique des marchandises à\nl'importation (DUM) ;\n– une copie du bulletin international orange de lot de\nsemences ;\n– une attestation du RIB de la société semencière agréée.\nc) Octroi de la subvention :\nAprès instruction du dossier, la direction de\ndéveloppement des filières de production établit un état\ndes quantités vendues en semences par espèces, variétés et\ncatégories selon les annexes 9 et 10 du présent arrêté conjoint.\nLorsque la direction financière au niveau du ministère\nde l'agriculture, de la pêche maritime, du développement\nrural et des eaux et forêts reçoit le dossier, elle procède à\nson examen et délivre au postulant à l'aide, par tout moyen\njustifiant réception, une lettre l'informant de l'acceptation de\nsa demande et le montant de la subvention qui lui est accordé\nou le cas échéant, le refus motivé de sa demande.\nLe délai de traitement des dossiers de demandes de\nsubvention est fixé à 60 jours à compter de la date du dépôt\ndes dossiers.\nPour les besoins de contrôles, les sociétés semencières\nagréées sont tenues d'établir et de conserver à leur niveau les\npièces suivantes :\n–  un duplicata des factures de ventes des semences\nprécisant les noms des bénéficiaires, leurs adresses\n(commune, douar,…), les quantités vendues par espèces,\npar variétés et catégories ainsi que le prix de vente ;\n– les états quotidiens des ventes (livre-journal) par point\nde vente selon les annexes 11 et 12 du présent arrêté\nconjoint.",
       "citations": [],
       "persons": [],
       "organizations": [
@@ -6320,108 +6326,37 @@
       "instrument_id": "instr_1833_22"
     },
     {
-      "number": "11",
-      "raw_header": "ART. 11. –",
-      "entities": [
-        {
-          "label": "ARRETE",
-          "text": "arrêté conjoint",
-          "start": 11,
-          "end": 26
-        }
-      ],
-      "dates": [],
-      "preamble": "",
-      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel et entre en vigueur à compter de la date de sa\n– les états quotidiens des ventes (livre-journal) par point\nde vente selon les annexes 11 et 12 du présent arrêté\nconjoint.",
-      "citations": [],
-      "persons": [],
-      "organizations": [],
-      "pdf_page": 18,
-      "printed_page": 1518,
-      "article_id": "art_1833_22_10",
-      "instrument_id": "instr_1833_22"
-    },
-    {
       "number": "10",
       "raw_header": "ART. 10 –",
       "entities": [
         {
           "label": "ARRETE",
           "text": "arrêtée",
-          "start": 493,
-          "end": 500
+          "start": 482,
+          "end": 489
         },
         {
           "label": "MINISTERE",
           "text": "ministère de l'agriculture",
-          "start": 785,
-          "end": 811
+          "start": 774,
+          "end": 800
         },
         {
           "label": "MINISTERE",
           "text": "ministre de l'agriculture",
-          "start": 1640,
-          "end": 1665
+          "start": 1629,
+          "end": 1654
         },
         {
           "label": "ARRETE",
           "text": "arrêté conjoint",
-          "start": 1795,
-          "end": 1810
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "6 hija 1443",
-          "start": 2386,
-          "end": 2397
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "6 juillet 2022",
-          "start": 2399,
-          "end": 2413
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "9 rabii I 1444",
-          "start": 2646,
-          "end": 2660
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 2960,
-          "end": 2998
+          "start": 1784,
+          "end": 1799
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "6 hija 1443",
-          "start": 2386,
-          "end": 2397
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "6 juillet 2022",
-          "start": 2399,
-          "end": 2413
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "9 rabii I 1444",
-          "start": 2646,
-          "end": 2660
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "6 hija 1443",
-          "start": 3031,
-          "end": 3042
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "Procédure d'octroi de la prime de stockage\nLes quantités qui peuvent bénéficier de la prime de\nstockage prévue par l'article 4 ci-dessus sont déterminées pour\nchaque société semencière agréée sur la base du prorata des\nventes en semences céréalières certifiées réparties entre les\ndifférentes sociétés au cours de la campagne agricole antérieure\n*\n*      *\nà la campagne concernée (du 1er septembre au 31 janvier), et ce\ndans les limites d'un stock global de 220.000 Qx. Cette répartition\nest arrêtée annuellement par la direction du développement des\nfilières de production (DDFP).\nPour bénéficier de la prime de stockage, les sociétés\nsemencières agréées doivent déposer, contre récépissé daté\net signé, un dossier de la demande de subvention au niveau\nde la direction financière du ministère de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts.\nLe dossier de demande de la prime de stockage doit\nêtre déposé dans les 12 mois suivant la fin de la campagne de\ncommercialisation des semences. Ce délai peut être prolongé\nune seule fois d'un délai additionnel d'une durée de six (06)\nmois en cas de survenance d'un évènement de force majeure\nou de difficultés dans le dépôt du dossier dûment justifiés.\nLe dossier de demande de la prime de stockage des\nsemences certifiées est composé de :\n– la facture globale des stocks, établie sur la base d'une\nattestation précisant la quantité qui peut bénéficier\nde la prime de stockage délivrée par la direction du\ndéveloppement des filières de production ;\n–  un récapitulatif des stocks des lots de semences\ncéréalières conformes aux normes prévues par l'arrêté\ndu ministre de l'agriculture et la pêche maritime\nn°2197-13 précité, délivré par l'ONSSA au début de la\ncampagne agricole selon les annexes 2 et 6 du présent\narrêté conjoint ;\n– une attestation du RIB de la société semencière.\nAprès examen du dossier, la direction financière\ndu ministère de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts délivre au postulant à\nl'aide, par tout moyen justifaint réception, une lettre l'informant\nde l'acceptation de sa demande et le montant de la prime qui\nlui est accordé ou le cas échéant, le refus motivé de sa demande.\nLe délai de traitement des dossiers de demandes de la\nprime de stockage est fixé à 60 jours à compter de la date du\ndépôt du dossier.\npublication.\nRabat, le 6 hija 1443 (6 juillet 2022).\nLe ministre de l'agriculture,\nLe ministre délégué auprès\nde la ministre de l'économie\nde la pêche maritime,\ndu développement rural\net des finances,\nchargé du budget,\net des eaux et forêts,\nMOHAMMED SADIKI.\nFOUZI LEKJAA.\nNº 7132 – 9 rabii I 1444 (6-10-2022)\n2022)octroyant une subvention à la commercialisation des semences céréalières certifiées de production nationale et d'importation\n(G3, G4, R1 et R2) et des semences de Génération Ultérieure à la deuxième reproduction  GUR2 ainsi que la prime au stockage au\nministre délégué auprès de la ministre de l'économie et des finances, chargé du budget  n°3318-22 du 6 hija 1443 (6 juillet",
+      "text": "Procédure d'octroi de la prime de stockage\nLes quantités qui peuvent bénéficier de la prime de\nstockage prévue par l'article 4 ci-dessus sont déterminées pour\nchaque société semencière agréée sur la base du prorata des\nventes en semences céréalières certifiées réparties entre les\ndifférentes sociétés au cours de la campagne agricole antérieure\nà la campagne concernée (du 1er septembre au 31 janvier), et ce\ndans les limites d'un stock global de 220.000 Qx. Cette répartition\nest arrêtée annuellement par la direction du développement des\nfilières de production (DDFP).\nPour bénéficier de la prime de stockage, les sociétés\nsemencières agréées doivent déposer, contre récépissé daté\net signé, un dossier de la demande de subvention au niveau\nde la direction financière du ministère de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts.\nLe dossier de demande de la prime de stockage doit\nêtre déposé dans les 12 mois suivant la fin de la campagne de\ncommercialisation des semences. Ce délai peut être prolongé\nune seule fois d'un délai additionnel d'une durée de six (06)\nmois en cas de survenance d'un évènement de force majeure\nou de difficultés dans le dépôt du dossier dûment justifiés.\nLe dossier de demande de la prime de stockage des\nsemences certifiées est composé de :\n– la facture globale des stocks, établie sur la base d'une\nattestation précisant la quantité qui peut bénéficier\nde la prime de stockage délivrée par la direction du\ndéveloppement des filières de production ;\n–  un récapitulatif des stocks des lots de semences\ncéréalières conformes aux normes prévues par l'arrêté\ndu ministre de l'agriculture et la pêche maritime\nn°2197-13 précité, délivré par l'ONSSA au début de la\ncampagne agricole selon les annexes 2 et 6 du présent\narrêté conjoint ;\n– une attestation du RIB de la société semencière.\nAprès examen du dossier, la direction financière\ndu ministère de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts délivre au postulant à\nl'aide, par tout moyen justifaint réception, une lettre l'informant\nde l'acceptation de sa demande et le montant de la prime qui\nlui est accordé ou le cas échéant, le refus motivé de sa demande.\nLe délai de traitement des dossiers de demandes de la\nprime de stockage est fixé à 60 jours à compter de la date du\ndépôt du dossier.",
       "citations": [
         {
           "text": "l'article 4",
@@ -6435,10 +6370,87 @@
         {
           "label": "MINISTERE",
           "text": "ministère de l'agriculture",
-          "start": 785,
-          "end": 811
+          "start": 774,
+          "end": 800
         }
       ],
+      "pdf_page": 18,
+      "printed_page": 1518,
+      "article_id": "art_1833_22_10",
+      "instrument_id": "instr_1833_22"
+    },
+    {
+      "number": "11",
+      "raw_header": "ART. 11. –",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint",
+          "start": 11,
+          "end": 26
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 hija 1443",
+          "start": 130,
+          "end": 141
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 juillet 2022",
+          "start": 143,
+          "end": 157
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 163,
+          "end": 188
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 rabii I 1444",
+          "start": 401,
+          "end": 415
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 715,
+          "end": 753
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 hija 1443",
+          "start": 130,
+          "end": 141
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "6 juillet 2022",
+          "start": 143,
+          "end": 157
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 rabii I 1444",
+          "start": 401,
+          "end": 415
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "6 hija 1443",
+          "start": 786,
+          "end": 797
+        }
+      ],
+      "preamble": "",
+      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel et entre en vigueur à compter de la date de sa\npublication.\nRabat, le 6 hija 1443 (6 juillet 2022).\nLe ministre de l'agriculture,\nLe ministre délégué auprès\nde la ministre de l'économie\nde la pêche maritime,\ndu développement rural\net des finances,\nchargé du budget,\net des eaux et forêts,\nMOHAMMED SADIKI.\nFOUZI LEKJAA.\n*\n*      *\nNº 7132 – 9 rabii I 1444 (6-10-2022)\n2022)octroyant une subvention à la commercialisation des semences céréalières certifiées de production nationale et d'importation\n(G3, G4, R1 et R2) et des semences de Génération Ultérieure à la deuxième reproduction  GUR2 ainsi que la prime au stockage au\nministre délégué auprès de la ministre de l'économie et des finances, chargé du budget  n°3318-22 du 6 hija 1443 (6 juillet",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
       "pdf_page": 18,
       "printed_page": 1518,
       "article_id": "art_1833_22_11",
@@ -7224,7 +7236,7 @@
         },
         {
           "label": "DECRET",
-          "text": "décret n°2-10-578",
+          "text": "2-10-578",
           "start": 61,
           "end": 69
         }
@@ -7284,7 +7296,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 222,
           "end": 287
         }
@@ -8016,7 +8028,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 182,
           "end": 242
         }
@@ -8106,7 +8118,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -8203,7 +8215,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -8286,7 +8298,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         },
@@ -8381,7 +8393,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -8464,7 +8476,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         },
@@ -8559,7 +8571,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -8656,7 +8668,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -8739,7 +8751,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -8828,7 +8840,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -8918,7 +8930,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9001,7 +9013,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9084,7 +9096,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9215,7 +9227,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9298,7 +9310,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9381,7 +9393,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9464,7 +9476,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9547,7 +9559,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         },
@@ -9656,7 +9668,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9739,7 +9751,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 6988 du 8 chaoual 1442 (20 mai 2021)",
+          "text": "Bulletin officiel » n° 6988  du 8 chaoual 1442 (20 mai 2021)",
           "start": 183,
           "end": 243
         }
@@ -9781,7 +9793,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2797-95",
+          "text": "arrêté susvisé\nn° 2797-95",
           "start": 23,
           "end": 48
         },
@@ -9901,7 +9913,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 182,
           "end": 247
         }
@@ -9936,7 +9948,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2797-95",
+          "text": "arrêté susvisé\nn° 2797-95",
           "start": 23,
           "end": 48
         },
@@ -10044,7 +10056,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 182,
           "end": 247
         }
@@ -10079,7 +10091,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2797-95",
+          "text": "arrêté susvisé\nn° 2797-95",
           "start": 23,
           "end": 48
         },
@@ -10187,7 +10199,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 182,
           "end": 247
         },
@@ -10234,7 +10246,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2797-95",
+          "text": "arrêté susvisé\nn° 2797-95",
           "start": 23,
           "end": 48
         },
@@ -10330,7 +10342,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 182,
           "end": 247
         }
@@ -10365,7 +10377,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2797-95",
+          "text": "arrêté susvisé\nn° 2797-95",
           "start": 23,
           "end": 48
         },
@@ -10461,7 +10473,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 182,
           "end": 247
         },
@@ -10508,7 +10520,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2797-95",
+          "text": "arrêté susvisé\nn° 2797-95",
           "start": 23,
           "end": 48
         },
@@ -10604,7 +10616,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 179,
           "end": 244
         }
@@ -10639,7 +10651,7 @@
       "entities": [
         {
           "label": "LOI",
-          "text": "loi n° 93-17",
+          "text": "93-17",
           "start": 70,
           "end": 75
         }
@@ -10692,7 +10704,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7112 du 28 hija 1443 (28 juillet 2022)",
+          "text": "Bulletin officiel » n° 7112  du 28 hija 1443 (28 juillet 2022)",
           "start": 387,
           "end": 449
         },
@@ -10751,7 +10763,7 @@
         },
         {
           "label": "DATE_HIJRI",
-          "text": "10 chaoual 1443",
+          "text": "10 chaoual\n1443",
           "start": 144,
           "end": 159
         },
@@ -10763,7 +10775,7 @@
         },
         {
           "label": "ORG",
-          "text": "société « HUNT OIL COMPANY MOROCCO »",
+          "text": "société «  HUNT OIL COMPANY\nMOROCCO »",
           "start": 236,
           "end": 273
         }
@@ -10823,7 +10835,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 311,
           "end": 376
         }
@@ -10858,7 +10870,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « CHARIOT RISSANA LIMITED »",
+          "text": "société\n« CHARIOT RISSANA LIMITED »",
           "start": 88,
           "end": 123
         },
@@ -10969,7 +10981,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 200,
           "end": 265
         }
@@ -11004,7 +11016,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « CHARIOT RISSANA LIMITED »",
+          "text": "société\n« CHARIOT RISSANA LIMITED »",
           "start": 88,
           "end": 123
         }
@@ -11102,7 +11114,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 200,
           "end": 265
         },
@@ -11149,7 +11161,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « CHARIOT RISSANA LIMITED »",
+          "text": "société\n« CHARIOT RISSANA LIMITED »",
           "start": 88,
           "end": 123
         }
@@ -11247,7 +11259,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 200,
           "end": 265
         }
@@ -11282,7 +11294,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « CHARIOT RISSANA LIMITED »",
+          "text": "société\n« CHARIOT RISSANA LIMITED »",
           "start": 88,
           "end": 123
         }
@@ -11380,7 +11392,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 200,
           "end": 265
         }
@@ -11415,7 +11427,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « CHARIOT RISSANA LIMITED »",
+          "text": "société\n« CHARIOT RISSANA LIMITED »",
           "start": 88,
           "end": 123
         }
@@ -11526,7 +11538,7 @@
         },
         {
           "label": "BULLETIN_OFFICIEL",
-          "text": "Bulletin officiel » n° 7129 du 29 safar 1444 (26 septembre 2022)",
+          "text": "Bulletin officiel » n° 7129  du 29 safar 1444 (26 septembre 2022)",
           "start": 200,
           "end": 265
         }

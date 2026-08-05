@@ -1,6 +1,6 @@
 {
-  "pdf": "C:\\Users\\yahia\\Downloads\\projet-nlp-juridique-maroc-optimise-v5\\projet-nlp-juridique-maroc-optimise\\data\\raw\\fr\\BO_7510_Fr.pdf",
+  "pdf": "data\\raw\\fr\\BO_7510_Fr.pdf",
   "pdf_sha256": "2e46c8cd870447069cf331c24e52a1781ca2d8f3094594800edfe152cb94dfbd",
-  "extractor_version": "4",
-  "generated_at": "2026-08-03T10:52:35"
+  "extractor_version": "5",
+  "generated_at": "2026-08-05T12:52:03"
 }

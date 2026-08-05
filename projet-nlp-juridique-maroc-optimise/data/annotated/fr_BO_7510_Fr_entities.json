@@ -39,7 +39,7 @@
     },
     {
       "label": "DATE_HIJRI",
-      "text": "2 kaada 1447",
+      "text": "2 kaada\n1447",
       "start": 296,
       "end": 308
     },
@@ -69,7 +69,7 @@
     },
     {
       "label": "LOI",
-      "text": "loi n° 17-95 relative aux sociétés anonymes",
+      "text": "loi n° 17-95\nrelative aux sociétés anonymes",
       "start": 608,
       "end": 651
     },
@@ -111,7 +111,7 @@
     },
     {
       "label": "DATE_GREGORIAN",
-      "text": "21 décembre 2009",
+      "text": "21 décembre\n2009",
       "start": 882,
       "end": 898
     },
@@ -467,7 +467,7 @@
     },
     {
       "title": "Arrêté",
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/451 signée le 29 joumada II\n1446 (31 décembre 2024) entre la société « ZNIBER SEAFARM\nSarl AU  » et la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime et approuvée\npar le ministre délégué auprès de la ministre de l'économie et\ndes finances, chargé du budget,\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 181-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« ZNIBER SEAFARM Sarl AU » pour la création et\nl'exploitation d'une ferme aquacole dénommée « Zniber\nSeafarm  » et portant  publication de l'extrait de la\nconvention y afférente.\nARRÊTENT :",
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 181-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« ZNIBER SEAFARM Sarl AU » pour la création et\nl'exploitation d'une ferme aquacole dénommée « Zniber\nSeafarm  » et portant  publication de l'extrait de la\nconvention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/451 signée le 29 joumada II\n1446 (31 décembre 2024) entre la société « ZNIBER SEAFARM\nSarl AU  » et la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime et approuvée\npar le ministre délégué auprès de la ministre de l'économie et\ndes finances, chargé du budget,\nARRÊTENT :",
       "first_article_idx": 11,
       "entities": [
         {
@@ -477,52 +477,172 @@
           "end": 60
         },
         {
-          "label": "DATE_HIJRI",
-          "text": "29 joumada II 1446",
-          "start": 164,
-          "end": 182
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "31 décembre 2024",
-          "start": 184,
-          "end": 200
-        },
-        {
-          "label": "ORG",
-          "text": "société « ZNIBER SEAFARM Sarl AU »",
-          "start": 211,
-          "end": 246
-        },
-        {
           "label": "MINISTERE",
           "text": "ministre de l'agriculture",
-          "start": 596,
-          "end": 621
+          "start": 144,
+          "end": 169
         },
         {
           "label": "DATE_HIJRI",
           "text": "1er chaabane 1447",
-          "start": 733,
-          "end": 750
+          "start": 281,
+          "end": 298
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "21 janvier 2026",
-          "start": 752,
-          "end": 767
+          "start": 300,
+          "end": 315
         },
         {
           "label": "ORG",
           "text": "société « ZNIBER SEAFARM Sarl AU »",
-          "start": 783,
-          "end": 817
+          "start": 331,
+          "end": 365
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "start": 771,
+          "end": 838
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-08-562",
+          "start": 951,
+          "end": 969
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "13 hija 1429",
+          "start": 973,
+          "end": 985
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start": 987,
+          "end": 1003
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 1205,
+          "end": 1211
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1218,
+          "end": 1256
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "28 rabii I 1443",
+          "start": 1271,
+          "end": 1286
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start": 1288,
+          "end": 1303
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1372,
+          "end": 1410
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1446,
+          "end": 1471
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "25 rabii II 1446",
+          "start": 1554,
+          "end": 1570
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "29 octobre 2024",
+          "start": 1572,
+          "end": 1587
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1656,
+          "end": 1681
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1797,
+          "end": 1822
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start": 1861,
+          "end": 1879
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 mai 2010",
+          "start": 1881,
+          "end": 1892
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start": 2114,
+          "end": 2162
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2178,
+          "end": 2203
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start": 2242,
+          "end": 2257
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start": 2259,
+          "end": 2275
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "29 joumada II 1446",
+          "start": 2546,
+          "end": 2564
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "31 décembre 2024",
+          "start": 2566,
+          "end": 2582
+        },
+        {
+          "label": "ORG",
+          "text": "société « ZNIBER SEAFARM Sarl AU »",
+          "start": 2593,
+          "end": 2628
         }
       ]
     },
     {
       "title": "Arrêté",
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2022/SMA/347 signée le 21 kaada 1446\n(19 mai 2025) entre la société « EXTRAMER Sarl AU » et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 182-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« EXTRAMER Sarl AU » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Extramer » et portant\npublication de l'extrait de la convention y afférente.\nARRÊTENT :",
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 182-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« EXTRAMER Sarl AU » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Extramer » et portant\npublication de l'extrait de la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2022/SMA/347 signée le 21 kaada 1446\n(19 mai 2025) entre la société « EXTRAMER Sarl AU » et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
       "first_article_idx": 16,
       "entities": [
         {
@@ -532,64 +652,184 @@
           "end": 60
         },
         {
-          "label": "DATE_HIJRI",
-          "text": "21 kaada 1446",
-          "start": 164,
-          "end": 177
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "19 mai 2025",
-          "start": 179,
-          "end": 190
-        },
-        {
-          "label": "ORG",
-          "text": "société « EXTRAMER Sarl AU »",
-          "start": 201,
-          "end": 229
-        },
-        {
           "label": "MINISTERE",
           "text": "ministre de l'agriculture",
-          "start": 264,
-          "end": 289
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 438,
-          "end": 476
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 579,
-          "end": 604
+          "start": 144,
+          "end": 169
         },
         {
           "label": "DATE_HIJRI",
           "text": "1er chaabane 1447",
-          "start": 716,
-          "end": 733
+          "start": 281,
+          "end": 298
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "21 janvier 2026",
-          "start": 735,
-          "end": 750
+          "start": 300,
+          "end": 315
         },
         {
           "label": "ORG",
           "text": "société « EXTRAMER Sarl AU »",
-          "start": 766,
-          "end": 794
+          "start": 331,
+          "end": 359
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "start": 757,
+          "end": 824
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-08-562",
+          "start": 937,
+          "end": 955
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "13 hija 1429",
+          "start": 959,
+          "end": 971
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start": 973,
+          "end": 989
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 1191,
+          "end": 1197
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1204,
+          "end": 1242
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "28 rabii I 1443",
+          "start": 1257,
+          "end": 1272
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start": 1274,
+          "end": 1289
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1358,
+          "end": 1396
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1432,
+          "end": 1457
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "25 rabii II 1446",
+          "start": 1540,
+          "end": 1556
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "29 octobre 2024",
+          "start": 1558,
+          "end": 1573
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1642,
+          "end": 1667
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1783,
+          "end": 1808
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start": 1847,
+          "end": 1865
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 mai 2010",
+          "start": 1867,
+          "end": 1878
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start": 2100,
+          "end": 2148
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2164,
+          "end": 2189
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start": 2228,
+          "end": 2243
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start": 2245,
+          "end": 2261
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "21 kaada 1446",
+          "start": 2532,
+          "end": 2545
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "19 mai 2025",
+          "start": 2547,
+          "end": 2558
+        },
+        {
+          "label": "ORG",
+          "text": "société « EXTRAMER Sarl AU »",
+          "start": 2569,
+          "end": 2597
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2632,
+          "end": 2657
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 2806,
+          "end": 2844
         }
       ]
     },
     {
       "title": "Arrêté",
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/482 signée le 14 rejeb 1446\n(15 janvier 2025) entre la société « IMAR AQUA Sarl » et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 183-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« IMAR AQUA Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Imar Aqua » et portant\npublication de l'extrait de la convention y afférente.\nARRÊTENT :",
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 183-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« IMAR AQUA Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Imar Aqua » et portant\npublication de l'extrait de la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)\nfixant les conditions et les modalités de délivrance et de\nrenouvellement des autorisations d'établissement de pêche\nmaritime, tel que modiféi et complété, notamment ses articles 7,\n7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/482 signée le 14 rejeb 1446\n(15 janvier 2025) entre la société « IMAR AQUA Sarl » et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
       "first_article_idx": 21,
       "entities": [
         {
@@ -599,64 +839,184 @@
           "end": 60
         },
         {
-          "label": "DATE_HIJRI",
-          "text": "14 rejeb 1446",
-          "start": 164,
-          "end": 177
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "15 janvier 2025",
-          "start": 179,
-          "end": 194
-        },
-        {
-          "label": "ORG",
-          "text": "société « IMAR AQUA Sarl »",
-          "start": 205,
-          "end": 231
-        },
-        {
           "label": "MINISTERE",
           "text": "ministre de l'agriculture",
-          "start": 266,
-          "end": 291
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 440,
-          "end": 478
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 581,
-          "end": 606
+          "start": 144,
+          "end": 169
         },
         {
           "label": "DATE_HIJRI",
           "text": "1er chaabane 1447",
-          "start": 718,
-          "end": 735
+          "start": 281,
+          "end": 298
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "21 janvier 2026",
-          "start": 737,
-          "end": 752
+          "start": 300,
+          "end": 315
         },
         {
           "label": "ORG",
           "text": "société « IMAR AQUA Sarl »",
-          "start": 768,
-          "end": 794
+          "start": 331,
+          "end": 357
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "start": 756,
+          "end": 823
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-08-562",
+          "start": 936,
+          "end": 954
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "13 hija 1429",
+          "start": 958,
+          "end": 970
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start": 972,
+          "end": 988
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 1190,
+          "end": 1196
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1203,
+          "end": 1241
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "28 rabii I 1443",
+          "start": 1256,
+          "end": 1271
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start": 1273,
+          "end": 1288
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1357,
+          "end": 1395
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1431,
+          "end": 1456
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "25 rabii II 1446",
+          "start": 1539,
+          "end": 1555
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "29 octobre 2024",
+          "start": 1557,
+          "end": 1572
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1641,
+          "end": 1666
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1782,
+          "end": 1807
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start": 1846,
+          "end": 1864
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 mai 2010",
+          "start": 1866,
+          "end": 1877
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start": 2099,
+          "end": 2147
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2163,
+          "end": 2188
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start": 2227,
+          "end": 2242
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start": 2244,
+          "end": 2260
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "14 rejeb 1446",
+          "start": 2531,
+          "end": 2544
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "15 janvier 2025",
+          "start": 2546,
+          "end": 2561
+        },
+        {
+          "label": "ORG",
+          "text": "société « IMAR AQUA Sarl »",
+          "start": 2572,
+          "end": 2598
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2633,
+          "end": 2658
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 2807,
+          "end": 2845
         }
       ]
     },
     {
       "title": "Arrêté",
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 184-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« AQUADUNE Sarl » pour la création et l'exploitation\nde la ferme aquacole n° 2024/SMA/525 signée le 22 joumada II\n1446 (24 décembre 2024) entre la société « AQUADUNE Sarl »\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\nd'une ferme aquacole dénommée « Aquadune Algoculture »\net portant publication de l'extrait de la convention y\nafférente.\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 184-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« AQUADUNE Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Aquadune Algoculture »\net portant publication de l'extrait de la convention y\nafférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2024/SMA/525 signée le 22 joumada II\n1446 (24 décembre 2024) entre la société « AQUADUNE Sarl »\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
       "first_article_idx": 26,
       "entities": [
         {
@@ -668,62 +1028,182 @@
         {
           "label": "MINISTERE",
           "text": "ministre de l'agriculture",
-          "start": 200,
-          "end": 225
+          "start": 144,
+          "end": 169
         },
         {
           "label": "DATE_HIJRI",
           "text": "1er chaabane 1447",
-          "start": 337,
-          "end": 354
+          "start": 281,
+          "end": 298
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "21 janvier 2026",
-          "start": 356,
-          "end": 371
+          "start": 300,
+          "end": 315
         },
         {
           "label": "ORG",
           "text": "société « AQUADUNE Sarl »",
-          "start": 387,
-          "end": 412
+          "start": 331,
+          "end": 356
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "start": 766,
+          "end": 833
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-08-562",
+          "start": 946,
+          "end": 964
         },
         {
           "label": "DATE_HIJRI",
-          "text": "22 joumada II 1446",
-          "start": 495,
-          "end": 513
+          "text": "13 hija 1429",
+          "start": 968,
+          "end": 980
         },
         {
           "label": "DATE_GREGORIAN",
-          "text": "24 décembre 2024",
-          "start": 515,
-          "end": 531
+          "text": "12 décembre 2008",
+          "start": 982,
+          "end": 998
         },
         {
-          "label": "ORG",
-          "text": "société « AQUADUNE Sarl »",
-          "start": 542,
-          "end": 567
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 602,
-          "end": 627
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 1200,
+          "end": 1206
         },
         {
           "label": "MINISTERE",
           "text": "ministre de l'économie et des finances",
-          "start": 897,
-          "end": 935
+          "start": 1213,
+          "end": 1251
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "28 rabii I 1443",
+          "start": 1266,
+          "end": 1281
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start": 1283,
+          "end": 1298
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1367,
+          "end": 1405
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1441,
+          "end": 1466
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "25 rabii II 1446",
+          "start": 1549,
+          "end": 1565
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "29 octobre 2024",
+          "start": 1567,
+          "end": 1582
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1651,
+          "end": 1676
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1792,
+          "end": 1817
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start": 1856,
+          "end": 1874
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 mai 2010",
+          "start": 1876,
+          "end": 1887
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start": 2109,
+          "end": 2157
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2173,
+          "end": 2198
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start": 2237,
+          "end": 2252
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start": 2254,
+          "end": 2270
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 joumada II 1446",
+          "start": 2541,
+          "end": 2559
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 décembre 2024",
+          "start": 2561,
+          "end": 2577
+        },
+        {
+          "label": "ORG",
+          "text": "société « AQUADUNE Sarl »",
+          "start": 2588,
+          "end": 2613
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2648,
+          "end": 2673
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 2822,
+          "end": 2860
         }
       ]
     },
     {
       "title": "Arrêté",
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2024/GON/526 signée le 22 joumada II\n1446 (24 décembre 2024) entre la société « AQUADUNE Sarl »\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 185-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« AQUADUNE Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Aquadune Pisciculture »\net portant  publication de l'extrait de la convention\ny afférente.\nARRÊTENT :",
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 185-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« AQUADUNE Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Aquadune Pisciculture »\net portant  publication de l'extrait de la convention\ny afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2024/GON/526 signée le 22 joumada II\n1446 (24 décembre 2024) entre la société « AQUADUNE Sarl »\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
       "first_article_idx": 31,
       "entities": [
         {
@@ -733,58 +1213,178 @@
           "end": 60
         },
         {
-          "label": "DATE_HIJRI",
-          "text": "22 joumada II 1446",
-          "start": 164,
-          "end": 182
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "24 décembre 2024",
-          "start": 184,
-          "end": 200
-        },
-        {
-          "label": "ORG",
-          "text": "société « AQUADUNE Sarl »",
-          "start": 211,
-          "end": 236
-        },
-        {
           "label": "MINISTERE",
           "text": "ministre de l'agriculture",
-          "start": 271,
-          "end": 296
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 445,
-          "end": 483
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 586,
-          "end": 611
+          "start": 144,
+          "end": 169
         },
         {
           "label": "DATE_HIJRI",
           "text": "1er chaabane 1447",
-          "start": 723,
-          "end": 740
+          "start": 281,
+          "end": 298
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "21 janvier 2026",
-          "start": 742,
-          "end": 757
+          "start": 300,
+          "end": 315
         },
         {
           "label": "ORG",
           "text": "société « AQUADUNE Sarl »",
-          "start": 773,
-          "end": 798
+          "start": 331,
+          "end": 356
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "start": 768,
+          "end": 835
+        },
+        {
+          "label": "DECRET",
+          "text": "décret n° 2-08-562",
+          "start": 948,
+          "end": 966
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "13 hija 1429",
+          "start": 970,
+          "end": 982
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "12 décembre 2008",
+          "start": 984,
+          "end": 1000
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 1202,
+          "end": 1208
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1215,
+          "end": 1253
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "28 rabii I 1443",
+          "start": 1268,
+          "end": 1283
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "4 novembre 2021",
+          "start": 1285,
+          "end": 1300
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 1369,
+          "end": 1407
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1443,
+          "end": 1468
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "25 rabii II 1446",
+          "start": 1551,
+          "end": 1567
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "29 octobre 2024",
+          "start": 1569,
+          "end": 1584
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1653,
+          "end": 1678
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 1794,
+          "end": 1819
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "11 joumada II 1431",
+          "start": 1858,
+          "end": 1876
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "26 mai 2010",
+          "start": 1878,
+          "end": 1889
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint du ministre de l'économie et des",
+          "start": 2111,
+          "end": 2159
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2175,
+          "end": 2200
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "7 moharrem 1435",
+          "start": 2239,
+          "end": 2254
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "11 novembre 2013",
+          "start": 2256,
+          "end": 2272
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "22 joumada II 1446",
+          "start": 2543,
+          "end": 2561
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "24 décembre 2024",
+          "start": 2563,
+          "end": 2579
+        },
+        {
+          "label": "ORG",
+          "text": "société « AQUADUNE Sarl »",
+          "start": 2590,
+          "end": 2615
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 2650,
+          "end": 2675
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 2824,
+          "end": 2862
         }
       ]
     },
@@ -2970,6 +3570,12 @@
           "text": "20 avril 2026",
           "start": 85,
           "end": 98
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de\nl'agriculture",
+          "start": 132,
+          "end": 157
         }
       ],
       "dates": [
@@ -3092,7 +3698,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « TAIBA SEAFOOD Sarl »",
+          "text": "société « TAIBA SEAFOOD\nSarl »",
           "start": 3,
           "end": 33
         },
@@ -3116,7 +3722,7 @@
         },
         {
           "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973)",
           "start": 861,
           "end": 928
         },
@@ -3134,7 +3740,7 @@
         },
         {
           "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
+          "text": "12 décembre\n2008",
           "start": 1178,
           "end": 1194
         }
@@ -3194,13 +3800,13 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « TAIBA SEAFOOD Sarl »",
+          "text": "société «  TAIBA\nSEAFOOD Sarl »",
           "start": 24,
           "end": 55
         },
         {
           "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23  novembre 1973)",
           "start": 109,
           "end": 177
         },
@@ -3456,7 +4062,7 @@
         },
         {
           "label": "ORG",
-          "text": "société « TAIBA SEAFOOD Sarl »",
+          "text": "société\n« TAIBA SEAFOOD Sarl »",
           "start": 341,
           "end": 371
         },
@@ -3497,7 +4103,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « ZNIBER SEAFARM Sarl AU »",
+          "text": "société « ZNIBER SEAFARM\nSarl AU »",
           "start": 3,
           "end": 37
         },
@@ -3518,54 +4124,6 @@
           "text": "ministre de l'agriculture",
           "start": 355,
           "end": 380
-        },
-        {
-          "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
-          "start": 825,
-          "end": 892
-        },
-        {
-          "label": "DECRET",
-          "text": "décret n° 2-08-562",
-          "start": 1042,
-          "end": 1060
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 1064,
-          "end": 1076
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 1078,
-          "end": 1094
-        },
-        {
-          "label": "ARRETE",
-          "text": "arrêté",
-          "start": 1452,
-          "end": 1458
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 1465,
-          "end": 1503
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 1518,
-          "end": 1533
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 1535,
-          "end": 1550
         }
       ],
       "dates": [
@@ -3580,48 +4138,11 @@
           "text": "31 décembre 2024",
           "start": 282,
           "end": 298
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 1064,
-          "end": 1076
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 1078,
-          "end": 1094
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 1518,
-          "end": 1533
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 1535,
-          "end": 1550
         }
       ],
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/451 signée le 29 joumada II\n1446 (31 décembre 2024) entre la société « ZNIBER SEAFARM\nSarl AU  » et la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime et approuvée\npar le ministre délégué auprès de la ministre de l'économie et\ndes finances, chargé du budget,\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 181-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« ZNIBER SEAFARM Sarl AU » pour la création et\nl'exploitation d'une ferme aquacole dénommée « Zniber\nSeafarm  » et portant  publication de l'extrait de la\nconvention y afférente.\nARRÊTENT :",
-      "text": "La société « ZNIBER SEAFARM\nSarl AU », immatriculée au registre de commerce de Agadir\nsous le numéro 54273 est autorisée à créer et exploiter,\ndans les conditions fixées par la convention de création et\nd'exploitation de ferme aquacole n° 2023/MSA/451 signée le\n29 joumada II 1446 (31 décembre 2024) entre ladite société et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts ,\nchargée de la pêche maritime, une ferme aquacole dénommée\n« Zniber Seafarm » pour l'élevage, en mer au large de Ounagha,\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\ndes espèces halieutiques suivantes :\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\n– la Daurade royale « Sparus aurata » ;\n– le Bar ou Loup « Dicentrarchus labrax » ;\n– le Maigre « Argyrosomus regius » ;\n– la Sériole « Seriola dumerili ».\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;",
-      "citations": [
-        {
-          "text": "articles 28 et 28-1",
-          "target_label": "DECRET",
-          "target_text": "décret n° 2-08-562",
-          "resolved": true
-        },
-        {
-          "text": "articles\n7, 7",
-          "target_label": "ARRETE",
-          "target_text": "arrêté",
-          "resolved": true
-        }
-      ],
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 181-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« ZNIBER SEAFARM Sarl AU » pour la création et\nl'exploitation d'une ferme aquacole dénommée « Zniber\nSeafarm  » et portant  publication de l'extrait de la\nconvention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/451 signée le 29 joumada II\n1446 (31 décembre 2024) entre la société « ZNIBER SEAFARM\nSarl AU  » et la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime et approuvée\npar le ministre délégué auprès de la ministre de l'économie et\ndes finances, chargé du budget,\nARRÊTENT :",
+      "text": "La société « ZNIBER SEAFARM\nSarl AU », immatriculée au registre de commerce de Agadir\nsous le numéro 54273 est autorisée à créer et exploiter,\ndans les conditions fixées par la convention de création et\nd'exploitation de ferme aquacole n° 2023/MSA/451 signée le\n29 joumada II 1446 (31 décembre 2024) entre ladite société et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts ,\nchargée de la pêche maritime, une ferme aquacole dénommée\n« Zniber Seafarm » pour l'élevage, en mer au large de Ounagha,\ndes espèces halieutiques suivantes :\n– la Daurade royale « Sparus aurata » ;\n– le Bar ou Loup « Dicentrarchus labrax » ;\n– le Maigre « Argyrosomus regius » ;\n– la Sériole « Seriola dumerili ».",
+      "citations": [],
       "persons": [],
       "organizations": [
         {
@@ -3642,51 +4163,26 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « ZNIBER SEAFARM Sarl AU »",
+          "text": "société « ZNIBER\nSEAFARM Sarl AU »",
           "start": 24,
           "end": 58
         },
         {
           "label": "DAHIR",
-          "text": "dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "text": "dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973)",
           "start": 113,
           "end": 179
         },
         {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 408,
-          "end": 433
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 516,
-          "end": 532
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 534,
-          "end": 549
+          "label": "DAHIR",
+          "text": "1-73-255",
+          "start": 133,
+          "end": 141
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 516,
-          "end": 532
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 534,
-          "end": 549
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "Le registre tenu par la société « ZNIBER\nSEAFARM Sarl AU », en application des dispositions de\nl'article 28-1 du dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973) susvisé, répertorie, dans l'ordre\nchronologique, ventilé par espèce, les entrées et les sorties\nde la Daurade royale « Sparus aurata », du Bar ou Loup\n« Dicentrarchus labrax », du Maigre « Argyrosomus regius » et\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nde la Sériole « Seriola dumerili », élevés.",
+      "text": "Le registre tenu par la société « ZNIBER\nSEAFARM Sarl AU », en application des dispositions de\nl'article 28-1 du dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973) susvisé, répertorie, dans l'ordre\nchronologique, ventilé par espèce, les entrées et les sorties\nde la Daurade royale « Sparus aurata », du Bar ou Loup\n« Dicentrarchus labrax », du Maigre « Argyrosomus regius » et\nde la Sériole « Seriola dumerili », élevés.",
       "citations": [
         {
           "text": "l'article 28-1",
@@ -3713,40 +4209,15 @@
           "end": 121
         },
         {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 138,
-          "end": 163
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 106,
+          "end": 112
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "L'extrait de la convention n° 2023/MSA/451\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;",
+      "text": "L'extrait de la convention n° 2023/MSA/451\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -3778,28 +4249,22 @@
           "end": 105
         },
         {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 139,
+          "end": 164
+        },
+        {
           "label": "ARRETE",
-          "text": "arrêté conjoint du ministre de l'économie et des",
-          "start": 141,
-          "end": 189
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         },
         {
           "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 205,
-          "end": 230
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
+          "text": "ministre de l'économie et\ndes finances",
+          "start": 275,
+          "end": 313
         }
       ],
       "dates": [
@@ -3814,22 +4279,10 @@
           "text": "21 janvier 2026",
           "start": 90,
           "end": 105
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
         }
       ],
       "preamble": "",
-      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
+      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -3868,7 +4321,7 @@
         },
         {
           "label": "ORG",
-          "text": "société « ZNIBER SEAFARM Sarl AU »",
+          "text": "société\n« ZNIBER SEAFARM Sarl AU »",
           "start": 341,
           "end": 375
         },
@@ -3877,6 +4330,12 @@
           "text": "Bulletin officiel » n° 7508 du 26 kaada 1447 (14 mai 2026)",
           "start": 592,
           "end": 650
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         }
       ],
       "dates": [
@@ -3916,137 +4375,52 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « EXTRAMER Sarl AU »",
+          "text": "société « EXTRAMER Sarl\nAU »",
           "start": 3,
           "end": 31
         },
         {
           "label": "DATE_HIJRI",
-          "text": "21 kaada 1446",
-          "start": 347,
-          "end": 360
+          "text": "21 kaada\n1446",
+          "start": 256,
+          "end": 269
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "19 mai 2025",
-          "start": 362,
-          "end": 373
+          "start": 271,
+          "end": 282
         },
         {
           "label": "MINISTERE",
           "text": "ministre de l'agriculture",
-          "start": 430,
-          "end": 455
-        },
-        {
-          "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
-          "start": 840,
-          "end": 907
-        },
-        {
-          "label": "DECRET",
-          "text": "décret n° 2-08-562",
-          "start": 1020,
-          "end": 1038
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 1042,
-          "end": 1054
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 1056,
-          "end": 1072
-        },
-        {
-          "label": "ARRETE",
-          "text": "arrêté",
-          "start": 1440,
-          "end": 1446
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 1453,
-          "end": 1491
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 1506,
-          "end": 1521
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 1523,
-          "end": 1538
+          "start": 339,
+          "end": 364
         }
       ],
       "dates": [
         {
           "label": "DATE_HIJRI",
           "text": "21 kaada 1446",
-          "start": 347,
-          "end": 360
+          "start": 256,
+          "end": 269
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "19 mai 2025",
-          "start": 362,
-          "end": 373
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 1042,
-          "end": 1054
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 1056,
-          "end": 1072
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 1506,
-          "end": 1521
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 1523,
-          "end": 1538
+          "start": 271,
+          "end": 282
         }
       ],
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2022/SMA/347 signée le 21 kaada 1446\n(19 mai 2025) entre la société « EXTRAMER Sarl AU » et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 182-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« EXTRAMER Sarl AU » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Extramer » et portant\npublication de l'extrait de la convention y afférente.\nARRÊTENT :",
-      "text": "La société « EXTRAMER Sarl\nAU », immatriculée au registre de commerce de Dakhla sous\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nle numéro 3233 est autorisée à créer et exploiter, dans les\nconditions fixées par la convention de création et d'exploitation\nde ferme aquacole n°  2022/SMA/347 signée le 21 kaada\n1446 (19 mai 2025) entre ladite société et la secrétaire d'Etat\nauprès du ministre de l'agriculture, de la pêche maritime,\ndu développement rural et des eaux et forêts chargée de la\npêche maritime, une ferme aquacole dénommée « Extramer »\npour l'élevage, en mer au large d'Imiouaddar, des espèces\nhalieutiques suivantes :\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\n– la moule des espèces « Mytilus galloprovincialis » et\n« Perna perna » ;\n– l'huître creuse « Crassostrea gigas » ;\n–  la coquille Saint Jacques  «Chlamys varia»  et\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\n« Patinopecten yessoensis ».",
-      "citations": [
-        {
-          "text": "articles 28 et 28-1",
-          "target_label": "DECRET",
-          "target_text": "décret n° 2-08-562",
-          "resolved": true
-        },
-        {
-          "text": "articles\n7, 7",
-          "target_label": "ARRETE",
-          "target_text": "arrêté",
-          "resolved": true
-        }
-      ],
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 182-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« EXTRAMER Sarl AU » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Extramer » et portant\npublication de l'extrait de la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2022/SMA/347 signée le 21 kaada 1446\n(19 mai 2025) entre la société « EXTRAMER Sarl AU » et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
+      "text": "La société « EXTRAMER Sarl\nAU », immatriculée au registre de commerce de Dakhla sous\nle numéro 3233 est autorisée à créer et exploiter, dans les\nconditions fixées par la convention de création et d'exploitation\nde ferme aquacole n°  2022/SMA/347 signée le 21 kaada\n1446 (19 mai 2025) entre ladite société et la secrétaire d'Etat\nauprès du ministre de l'agriculture, de la pêche maritime,\ndu développement rural et des eaux et forêts chargée de la\npêche maritime, une ferme aquacole dénommée « Extramer »\npour l'élevage, en mer au large d'Imiouaddar, des espèces\nhalieutiques suivantes :\n– la moule des espèces « Mytilus galloprovincialis » et\n« Perna perna » ;\n– l'huître creuse « Crassostrea gigas » ;\n–  la coquille Saint Jacques  «Chlamys varia»  et\n« Patinopecten yessoensis ».",
+      "citations": [],
       "persons": [],
       "organizations": [
         {
           "text": "Extramer",
-          "start": 584,
-          "end": 592,
+          "start": 493,
+          "end": 501,
           "label": "ORG"
         }
       ],
@@ -4061,51 +4435,20 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « EXTRAMER Sarl AU »",
+          "text": "société « EXTRAMER\nSarl AU »",
           "start": 24,
           "end": 52
         },
         {
           "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre\n1973)",
           "start": 107,
           "end": 174
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 443,
-          "end": 468
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 551,
-          "end": 567
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 569,
-          "end": 584
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 551,
-          "end": 567
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 569,
-          "end": 584
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "Le registre tenu par la société « EXTRAMER\nSarl AU », en application des dispositions de l'article 28-1 du\ndahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre\n1973) susvisé, répertorie, dans l'ordre chronologique, ventilé\npar espèce, les entrées et les sorties de la moule des espèces\n« Mytilus galloprovincialis » et « Perna perna », de l'huître creuse\n« Crassostrea gigas » et de la coquille Saint Jacques « Chlamys\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nvaria » et « Patinopecten yessoensis » élevées.",
+      "text": "Le registre tenu par la société « EXTRAMER\nSarl AU », en application des dispositions de l'article 28-1 du\ndahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre\n1973) susvisé, répertorie, dans l'ordre chronologique, ventilé\npar espèce, les entrées et les sorties de la moule des espèces\n« Mytilus galloprovincialis » et « Perna perna », de l'huître creuse\n« Crassostrea gigas » et de la coquille Saint Jacques « Chlamys\nvaria » et « Patinopecten yessoensis » élevées.",
       "citations": [
         {
           "text": "l'article 28-1",
@@ -4114,7 +4457,14 @@
           "resolved": true
         }
       ],
-      "persons": [],
+      "persons": [
+        {
+          "text": "Saint Jacques « Chlamys",
+          "start": 404,
+          "end": 427,
+          "label": "PERSON"
+        }
+      ],
       "organizations": [],
       "pdf_page": 11,
       "printed_page": 931,
@@ -4132,40 +4482,15 @@
           "end": 121
         },
         {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 138,
-          "end": 163
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 106,
+          "end": 112
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "L'extrait de la convention n° 2022/SMA/347\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;",
+      "text": "L'extrait de la convention n° 2022/SMA/347\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -4197,28 +4522,22 @@
           "end": 105
         },
         {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 139,
+          "end": 164
+        },
+        {
           "label": "ARRETE",
-          "text": "arrêté conjoint du ministre de l'économie et des",
-          "start": 141,
-          "end": 189
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         },
         {
           "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 205,
-          "end": 230
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
+          "text": "ministre de l'économie et\ndes finances",
+          "start": 275,
+          "end": 313
         }
       ],
       "dates": [
@@ -4233,22 +4552,10 @@
           "text": "21 janvier 2026",
           "start": 90,
           "end": 105
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
         }
       ],
       "preamble": "",
-      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
+      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -4287,7 +4594,7 @@
         },
         {
           "label": "ORG",
-          "text": "société « EXTRAMER Sarl AU »",
+          "text": "société\n« EXTRAMER Sarl AU »",
           "start": 341,
           "end": 369
         },
@@ -4296,6 +4603,12 @@
           "text": "Bulletin officiel » n° 7508 du 26 kaada 1447 (14 mai 2026)",
           "start": 580,
           "end": 638
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         }
       ],
       "dates": [
@@ -4356,54 +4669,6 @@
           "text": "ministre de l'agriculture",
           "start": 346,
           "end": 371
-        },
-        {
-          "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
-          "start": 847,
-          "end": 914
-        },
-        {
-          "label": "DECRET",
-          "text": "décret n° 2-08-562",
-          "start": 1083,
-          "end": 1101
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 1105,
-          "end": 1117
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 1119,
-          "end": 1135
-        },
-        {
-          "label": "ARRETE",
-          "text": "arrêté",
-          "start": 1530,
-          "end": 1536
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 1543,
-          "end": 1581
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 1596,
-          "end": 1611
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 1613,
-          "end": 1628
         }
       ],
       "dates": [
@@ -4418,48 +4683,11 @@
           "text": "15 janvier 2025",
           "start": 274,
           "end": 289
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 1105,
-          "end": 1117
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 1119,
-          "end": 1135
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 1596,
-          "end": 1611
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 1613,
-          "end": 1628
         }
       ],
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/482 signée le 14 rejeb 1446\n(15 janvier 2025) entre la société « IMAR AQUA Sarl » et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 183-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« IMAR AQUA Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Imar Aqua » et portant\npublication de l'extrait de la convention y afférente.\nARRÊTENT :",
-      "text": "La société « IMAR AQUA Sarl »,\nimmatriculée au registre de commerce de Laâyoune sous\nle numéro 43475 est autorisée à créer et exploiter, dans les\nconditions fixées par la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/482 signée le 14 rejeb 1446\n(15 janvier 2025) entre ladite société et la secrétaire d'Etat\nauprès du ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime, une ferme aquacole dénommée «Imar Aqua» pour\nla culture, en mer au large de Lamaachate, des algues des\nespèces suivantes :\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\n– les algues rouges « Gracilaria Gracilis », « Gelidium\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)\nfixant les conditions et les modalités de délivrance et de\nrenouvellement des autorisations d'établissement de pêche\nmaritime, tel que modiféi et complété, notamment ses articles 7,\n7 bis et 9 ;\nSesquipedale » et « Grateloupia filicina » ;\n– les algues vertes « Codium tomentosum » et « Ulva\nlactuca » ;\n–  les algues brunes «  Saccorhiza polyschides  » et\n« Cystoseira tamariscifolia ».\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;",
-      "citations": [
-        {
-          "text": "articles 28 et 28-1",
-          "target_label": "DECRET",
-          "target_text": "décret n° 2-08-562",
-          "resolved": true
-        },
-        {
-          "text": "articles 7,\n7",
-          "target_label": "ARRETE",
-          "target_text": "arrêté",
-          "resolved": true
-        }
-      ],
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 183-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« IMAR AQUA Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Imar Aqua » et portant\npublication de l'extrait de la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)\nfixant les conditions et les modalités de délivrance et de\nrenouvellement des autorisations d'établissement de pêche\nmaritime, tel que modiféi et complété, notamment ses articles 7,\n7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/482 signée le 14 rejeb 1446\n(15 janvier 2025) entre la société « IMAR AQUA Sarl » et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
+      "text": "La société « IMAR AQUA Sarl »,\nimmatriculée au registre de commerce de Laâyoune sous\nle numéro 43475 est autorisée à créer et exploiter, dans les\nconditions fixées par la convention de création et d'exploitation\nde la ferme aquacole n° 2023/MSA/482 signée le 14 rejeb 1446\n(15 janvier 2025) entre ladite société et la secrétaire d'Etat\nauprès du ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime, une ferme aquacole dénommée «Imar Aqua» pour\nla culture, en mer au large de Lamaachate, des algues des\nespèces suivantes :\n– les algues rouges « Gracilaria Gracilis », « Gelidium\nSesquipedale » et « Grateloupia filicina » ;\n– les algues vertes « Codium tomentosum » et « Ulva\nlactuca » ;\n–  les algues brunes «  Saccorhiza polyschides  » et\n« Cystoseira tamariscifolia ».",
+      "citations": [],
       "persons": [],
       "organizations": [],
       "pdf_page": 13,
@@ -4473,51 +4701,20 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « IMAR AQUA Sarl »",
+          "text": "société « IMAR AQUA\nSarl »",
           "start": 24,
           "end": 50
         },
         {
           "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "text": "dahir\nportant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
           "start": 104,
           "end": 171
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 381,
-          "end": 406
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 489,
-          "end": 505
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 507,
-          "end": 522
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 489,
-          "end": 505
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 507,
-          "end": 522
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "Le registre tenu par la société « IMAR AQUA\nSarl » en application des dispositions de l'article 28-1 du dahir\nportant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)\nsusvisé, répertorie, dans l'ordre chronologique, ventilé par\nespèce, les entrées et les sorties des algues rouges « Gracilaria\nGracilis », « Gelidium Sesquipedale » et « Grateloupia filicina »,\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\ndes algues vertes « Codium tomentosum » et « Ulva lactuca »\net des algues brunes « Saccorhiza polyschides » et « Cystoseira\ntamariscifolia », cultivées.",
+      "text": "Le registre tenu par la société « IMAR AQUA\nSarl » en application des dispositions de l'article 28-1 du dahir\nportant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)\nsusvisé, répertorie, dans l'ordre chronologique, ventilé par\nespèce, les entrées et les sorties des algues rouges « Gracilaria\nGracilis », « Gelidium Sesquipedale » et « Grateloupia filicina »,\ndes algues vertes « Codium tomentosum » et « Ulva lactuca »\net des algues brunes « Saccorhiza polyschides » et « Cystoseira\ntamariscifolia », cultivées.",
       "citations": [
         {
           "text": "l'article 28-1",
@@ -4544,40 +4741,15 @@
           "end": 121
         },
         {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 138,
-          "end": 163
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 106,
+          "end": 112
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "L'extrait de la convention n° 2023/MSA/482\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;",
+      "text": "L'extrait de la convention n° 2023/MSA/482\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -4609,28 +4781,22 @@
           "end": 105
         },
         {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 139,
+          "end": 164
+        },
+        {
           "label": "ARRETE",
-          "text": "arrêté conjoint du ministre de l'économie et des",
-          "start": 141,
-          "end": 189
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         },
         {
           "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 205,
-          "end": 230
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
+          "text": "ministre de l'économie et\ndes finances",
+          "start": 275,
+          "end": 313
         }
       ],
       "dates": [
@@ -4645,22 +4811,10 @@
           "text": "21 janvier 2026",
           "start": 90,
           "end": 105
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
         }
       ],
       "preamble": "",
-      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
+      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -4699,7 +4853,7 @@
         },
         {
           "label": "ORG",
-          "text": "société « IMAR AQUA Sarl »",
+          "text": "société\n« IMAR AQUA Sarl »",
           "start": 341,
           "end": 367
         },
@@ -4708,6 +4862,12 @@
           "text": "Bulletin officiel » n° 7508 du 26 kaada 1447 (14 mai 2026)",
           "start": 579,
           "end": 637
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         }
       ],
       "dates": [
@@ -4739,90 +4899,47 @@
       "raw_header": "ARTICLE  PREMIER.  –",
       "entities": [
         {
+          "label": "ORG",
+          "text": "société «  AQUADUNE\nSarl »",
+          "start": 3,
+          "end": 29
+        },
+        {
           "label": "DATE_HIJRI",
           "text": "22 joumada II 1446",
-          "start": 501,
-          "end": 519
+          "start": 254,
+          "end": 272
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "24 décembre 2024",
-          "start": 521,
-          "end": 537
-        },
-        {
-          "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
-          "start": 569,
-          "end": 636
+          "start": 274,
+          "end": 290
         },
         {
           "label": "MINISTERE",
           "text": "ministre de l'agriculture",
-          "start": 774,
-          "end": 799
-        },
-        {
-          "label": "DECRET",
-          "text": "décret n° 2-08-562",
-          "start": 933,
-          "end": 951
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 955,
-          "end": 967
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 969,
-          "end": 985
+          "start": 347,
+          "end": 372
         }
       ],
       "dates": [
         {
           "label": "DATE_HIJRI",
           "text": "22 joumada II 1446",
-          "start": 501,
-          "end": 519
+          "start": 254,
+          "end": 272
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "24 décembre 2024",
-          "start": 521,
-          "end": 537
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 955,
-          "end": 967
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 969,
-          "end": 985
+          "start": 274,
+          "end": 290
         }
       ],
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 184-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« AQUADUNE Sarl » pour la création et l'exploitation\nde la ferme aquacole n° 2024/SMA/525 signée le 22 joumada II\n1446 (24 décembre 2024) entre la société « AQUADUNE Sarl »\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\nd'une ferme aquacole dénommée « Aquadune Algoculture »\net portant publication de l'extrait de la convention y\nafférente.\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
-      "text": "La société «  AQUADUNE\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nSarl », immatriculée au registre de commerce de Dakhla\nsous le numéro 22959 est autorisée à créer et exploiter,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\ndans les conditions fixées par la convention de création et\nd'exploitation de ferme aquacole n° 2024/SMA/525 signée le\n22 joumada II 1446 (24 décembre 2024) entre ladite société et\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime, une ferme aquacole dénommée\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\n« Aquadune Algoculture » pour la culture, en mer au large\nde Sidi Rbat, des algues des espèces « Gracilaria Gracilis »,\n« Gracilaria Verrucosa » et « Gracilaria dura ».",
-      "citations": [
-        {
-          "text": "articles 28 et 28-1",
-          "target_label": "DAHIR",
-          "target_text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
-          "resolved": true
-        },
-        {
-          "text": "articles\n7, 7",
-          "target_label": "DECRET",
-          "target_text": "décret n° 2-08-562",
-          "resolved": true
-        }
-      ],
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 184-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« AQUADUNE Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Aquadune Algoculture »\net portant publication de l'extrait de la convention y\nafférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2024/SMA/525 signée le 22 joumada II\n1446 (24 décembre 2024) entre la société « AQUADUNE Sarl »\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
+      "text": "La société «  AQUADUNE\nSarl », immatriculée au registre de commerce de Dakhla\nsous le numéro 22959 est autorisée à créer et exploiter,\ndans les conditions fixées par la convention de création et\nd'exploitation de ferme aquacole n° 2024/SMA/525 signée le\n22 joumada II 1446 (24 décembre 2024) entre ladite société et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime, une ferme aquacole dénommée\n« Aquadune Algoculture » pour la culture, en mer au large\nde Sidi Rbat, des algues des espèces « Gracilaria Gracilis »,\n« Gracilaria Verrucosa » et « Gracilaria dura ».",
+      "citations": [],
       "persons": [],
       "organizations": [],
       "pdf_page": 15,
@@ -4835,82 +4952,21 @@
       "raw_header": "ART. 2. –",
       "entities": [
         {
-          "label": "ARRETE",
-          "text": "arrêté",
-          "start": 48,
-          "end": 54
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 61,
-          "end": 99
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 114,
-          "end": 129
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 131,
-          "end": 146
+          "label": "ORG",
+          "text": "société « AQUADUNE\nSarl »",
+          "start": 24,
+          "end": 49
         },
         {
           "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
-          "start": 334,
-          "end": 401
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 478,
-          "end": 503
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 586,
-          "end": 602
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 604,
-          "end": 619
+          "text": "dahir\nportant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "start": 103,
+          "end": 170
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 114,
-          "end": 129
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 131,
-          "end": 146
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 586,
-          "end": 602
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 604,
-          "end": 619
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "Le registre tenu par la société « AQUADUNE\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nSarl » en application des dispositions de l'article 28-1 du dahir\nportant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)\nsusvisé, répertorie, dans l'ordre chronologique, ventilé par\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nespèce, les entrées et les sorties des algues espèces « Gracilaria\nGracilis », « Gracilaria Verrucosa » et « Gracilaria dura»,\ncultivées.",
+      "text": "Le registre tenu par la société « AQUADUNE\nSarl » en application des dispositions de l'article 28-1 du dahir\nportant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)\nsusvisé, répertorie, dans l'ordre chronologique, ventilé par\nespèce, les entrées et les sorties des algues espèces « Gracilaria\nGracilis », « Gracilaria Verrucosa » et « Gracilaria dura»,\ncultivées.",
       "citations": [
         {
           "text": "l'article 28-1",
@@ -4937,40 +4993,15 @@
           "end": 121
         },
         {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 138,
-          "end": 163
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 106,
+          "end": 112
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "L'extrait de la convention n° 2024/SMA/525\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;",
+      "text": "L'extrait de la convention n° 2024/SMA/525\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -5002,28 +5033,22 @@
           "end": 105
         },
         {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 139,
+          "end": 164
+        },
+        {
           "label": "ARRETE",
-          "text": "arrêté conjoint du ministre de l'économie et des",
-          "start": 141,
-          "end": 189
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         },
         {
           "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 205,
-          "end": 230
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
+          "text": "ministre de l'économie et\ndes finances",
+          "start": 275,
+          "end": 313
         }
       ],
       "dates": [
@@ -5038,22 +5063,10 @@
           "text": "21 janvier 2026",
           "start": 90,
           "end": 105
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
         }
       ],
       "preamble": "",
-      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
+      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -5092,7 +5105,7 @@
         },
         {
           "label": "ORG",
-          "text": "société « AQUADUNE Sarl »",
+          "text": "société\n« AQUADUNE Sarl »",
           "start": 341,
           "end": 366
         },
@@ -5101,6 +5114,12 @@
           "text": "Bulletin officiel » n° 7508 du 26 kaada 1447 (14 mai 2026)",
           "start": 589,
           "end": 647
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         }
       ],
       "dates": [
@@ -5133,7 +5152,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « AQUADUNE Sarl »",
+          "text": "société «  AQUADUNE\nSarl »",
           "start": 3,
           "end": 29
         },
@@ -5154,54 +5173,6 @@
           "text": "ministre de l'agriculture",
           "start": 347,
           "end": 372
-        },
-        {
-          "label": "DAHIR",
-          "text": "dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
-          "start": 813,
-          "end": 880
-        },
-        {
-          "label": "DECRET",
-          "text": "décret n° 2-08-562",
-          "start": 1041,
-          "end": 1059
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 1063,
-          "end": 1075
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 1077,
-          "end": 1093
-        },
-        {
-          "label": "ARRETE",
-          "text": "arrêté",
-          "start": 1416,
-          "end": 1422
-        },
-        {
-          "label": "MINISTERE",
-          "text": "ministre de l'économie et des finances",
-          "start": 1429,
-          "end": 1467
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 1482,
-          "end": 1497
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 1499,
-          "end": 1514
         }
       ],
       "dates": [
@@ -5216,48 +5187,11 @@
           "text": "24 décembre 2024",
           "start": 274,
           "end": 290
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "13 hija 1429",
-          "start": 1063,
-          "end": 1075
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "12 décembre 2008",
-          "start": 1077,
-          "end": 1093
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "28 rabii I 1443",
-          "start": 1482,
-          "end": 1497
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "4 novembre 2021",
-          "start": 1499,
-          "end": 1514
         }
       ],
-      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2024/GON/526 signée le 22 joumada II\n1446 (24 décembre 2024) entre la société « AQUADUNE Sarl »\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 185-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« AQUADUNE Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Aquadune Pisciculture »\net portant  publication de l'extrait de la convention\ny afférente.\nARRÊTENT :",
-      "text": "La société «  AQUADUNE\nSarl », immatriculée au registre de commerce de Dakhla\nsous le numéro 22959 est autorisée à créer et exploiter,\ndans les conditions fixées par la convention de création et\nd'exploitation de ferme aquacole n° 2024/GON/526 signée le\n22 joumada II 1446 (24 décembre 2024) entre ladite société et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts\nchargée de la pêche maritime, une ferme aquacole dénommée\n« Aquadune Pisciculture » pour l'élevage, en mer au large de\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nSidi Ifni, des espèces halieutiques suivantes :\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\n– la Daurade royale « Sparus aurata » ;\n– le Bar ou Loup « Dicentrarchus labrax » ;\n– le Maigre « Argyrosomus regius » ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\n– la Sériole « Seriola dumerili ».",
-      "citations": [
-        {
-          "text": "articles 28 et 28-1",
-          "target_label": "DECRET",
-          "target_text": "décret n° 2-08-562",
-          "resolved": true
-        },
-        {
-          "text": "articles\n7, 7",
-          "target_label": "ARRETE",
-          "target_text": "arrêté",
-          "resolved": true
-        }
-      ],
+      "preamble": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 185-26 du\n1er chaabane 1447 (21 janvier 2026) autorisant la société\n« AQUADUNE Sarl » pour la création et l'exploitation\nd'une ferme aquacole dénommée « Aquadune Pisciculture »\net portant  publication de l'extrait de la convention\ny afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde la ferme aquacole n° 2024/GON/526 signée le 22 joumada II\n1446 (24 décembre 2024) entre la société « AQUADUNE Sarl »\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime et approuvée par le ministre\ndélégué auprès de la ministre de l'économie et des finances,\nchargé du budget,\nARRÊTENT :",
+      "text": "La société «  AQUADUNE\nSarl », immatriculée au registre de commerce de Dakhla\nsous le numéro 22959 est autorisée à créer et exploiter,\ndans les conditions fixées par la convention de création et\nd'exploitation de ferme aquacole n° 2024/GON/526 signée le\n22 joumada II 1446 (24 décembre 2024) entre ladite société et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts\nchargée de la pêche maritime, une ferme aquacole dénommée\n« Aquadune Pisciculture » pour l'élevage, en mer au large de\nSidi Ifni, des espèces halieutiques suivantes :\n– la Daurade royale « Sparus aurata » ;\n– le Bar ou Loup « Dicentrarchus labrax » ;\n– le Maigre « Argyrosomus regius » ;\n– la Sériole « Seriola dumerili ».",
+      "citations": [],
       "persons": [],
       "organizations": [],
       "pdf_page": 17,
@@ -5271,51 +5205,26 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « AQUADUNE Sarl »",
+          "text": "société « AQUADUNE\nSarl »",
           "start": 24,
           "end": 49
         },
         {
           "label": "DAHIR",
-          "text": "dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
+          "text": "dahir\nportant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)",
           "start": 104,
           "end": 170
         },
         {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 443,
-          "end": 468
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 551,
-          "end": 567
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 569,
-          "end": 584
+          "label": "DAHIR",
+          "text": "1-73-255",
+          "start": 124,
+          "end": 132
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "25 rabii II 1446",
-          "start": 551,
-          "end": 567
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "29 octobre 2024",
-          "start": 569,
-          "end": 584
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "Le registre tenu par la société « AQUADUNE\nSarl », en application des dispositions de l'article 28-1 du dahir\nportant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)\nsusvisé, répertorie, dans l'ordre chronologique, ventilé par\nespèce, les entrées et les sorties de la Daurade royale « Sparus\naurata », du Bar ou Loup « Dicentrarchus labrax », du Maigre\n« Argyrosomus regius » et de la Sériole « Seriola dumerili », élevés.\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant\ndélégation d'attributions à la secrétaire d'Etat auprès\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, chargée de la pêche\nmaritime ;",
+      "text": "Le registre tenu par la société « AQUADUNE\nSarl », en application des dispositions de l'article 28-1 du dahir\nportant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)\nsusvisé, répertorie, dans l'ordre chronologique, ventilé par\nespèce, les entrées et les sorties de la Daurade royale « Sparus\naurata », du Bar ou Loup « Dicentrarchus labrax », du Maigre\n« Argyrosomus regius » et de la Sériole « Seriola dumerili », élevés.",
       "citations": [
         {
           "text": "l'article 28-1",
@@ -5342,40 +5251,15 @@
           "end": 121
         },
         {
-          "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 138,
-          "end": 163
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 106,
+          "end": 112
         }
       ],
-      "dates": [
-        {
-          "label": "DATE_HIJRI",
-          "text": "11 joumada II 1431",
-          "start": 202,
-          "end": 220
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "26 mai 2010",
-          "start": 222,
-          "end": 233
-        }
-      ],
+      "dates": [],
       "preamble": "",
-      "text": "L'extrait de la convention n° 2024/GON/526\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;",
+      "text": "L'extrait de la convention n° 2024/GON/526\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -5407,28 +5291,22 @@
           "end": 105
         },
         {
+          "label": "MINISTERE",
+          "text": "ministre de l'agriculture",
+          "start": 139,
+          "end": 164
+        },
+        {
           "label": "ARRETE",
-          "text": "arrêté conjoint du ministre de l'économie et des",
-          "start": 141,
-          "end": 189
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         },
         {
           "label": "MINISTERE",
-          "text": "ministre de l'agriculture",
-          "start": 205,
-          "end": 230
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
+          "text": "ministre de l'économie et\ndes finances",
+          "start": 275,
+          "end": 313
         }
       ],
       "dates": [
@@ -5443,22 +5321,10 @@
           "text": "21 janvier 2026",
           "start": 90,
           "end": 105
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "7 moharrem 1435",
-          "start": 269,
-          "end": 284
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "11 novembre 2013",
-          "start": 286,
-          "end": 302
         }
       ],
       "preamble": "",
-      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nZAKIA DRIOUICH.\n*\nFOUZI LEKJAA.\n*     *",
+      "text": "Le présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 1er chaabane 1447 (21 janvier 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\nLe ministre délégué auprès\nde la ministre de l'économie et\ndes finances, chargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n*\n*     *",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -5497,7 +5363,7 @@
         },
         {
           "label": "ORG",
-          "text": "société « AQUADUNE Sarl »",
+          "text": "société\n« AQUADUNE Sarl »",
           "start": 341,
           "end": 366
         },
@@ -5506,6 +5372,12 @@
           "text": "Bulletin officiel » n° 7508 du 26 kaada 1447 (14 mai 2026)",
           "start": 590,
           "end": 648
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
         }
       ],
       "dates": [
@@ -5538,7 +5410,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -5645,7 +5517,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -5657,7 +5529,7 @@
         },
         {
           "label": "ORG",
-          "text": "Université « El Hadji Ibrahima Niasse - Sénégal. »",
+          "text": "Université\n« El Hadji Ibrahima Niasse - Sénégal. »",
           "start": 461,
           "end": 511
         },
@@ -5758,7 +5630,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -5865,7 +5737,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -5972,7 +5844,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -6079,7 +5951,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2189-04 du 14 kaada 1425",
+          "text": "arrêté susvisé\nn° 2189-04 du 14 kaada 1425",
           "start": 23,
           "end": 65
         },
@@ -6091,7 +5963,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 2189-04 du 14 kaada 1425",
+          "text": "2189-04",
           "start": 41,
           "end": 48
         },
@@ -6186,7 +6058,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -6293,7 +6165,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -6400,7 +6272,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2340-03 du 23 chaoual 1424",
+          "text": "arrêté susvisé\nn° 2340-03 du 23 chaoual 1424",
           "start": 23,
           "end": 67
         },
@@ -6412,7 +6284,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 2340-03 du 23 chaoual 1424",
+          "text": "2340-03",
           "start": 41,
           "end": 48
         },
@@ -6507,7 +6379,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -6591,7 +6463,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2075-09 du 11 chaabane 1430",
+          "text": "arrêté susvisé\nn° 2075-09 du 11 chaabane 1430",
           "start": 23,
           "end": 68
         },
@@ -6698,7 +6570,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -6805,7 +6677,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2963-97 du 2 chaabane 1418",
+          "text": "arrêté susvisé\nn° 2963-97 du 2 chaabane 1418",
           "start": 23,
           "end": 67
         },
@@ -6912,7 +6784,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 572-04 du 15 safar 1425",
+          "text": "arrêté susvisé\nn° 572-04 du 15 safar 1425",
           "start": 23,
           "end": 64
         },
@@ -6924,7 +6796,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 572-04 du 15 safar 1425",
+          "text": "572-04",
           "start": 41,
           "end": 47
         },
@@ -7019,7 +6891,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 1482-04",
+          "text": "arrêté susvisé\nn° 1482-04",
           "start": 24,
           "end": 49
         },
@@ -7132,7 +7004,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 572-04 du 15 safar 1425",
+          "text": "arrêté susvisé\nn° 572-04 du 15 safar 1425",
           "start": 23,
           "end": 64
         },
@@ -7144,7 +7016,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 572-04 du 15 safar 1425",
+          "text": "572-04",
           "start": 41,
           "end": 47
         },
@@ -7239,7 +7111,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2189-04 du 14 kaada 1425",
+          "text": "arrêté susvisé\nn° 2189-04 du 14 kaada 1425",
           "start": 23,
           "end": 65
         },
@@ -7477,7 +7349,7 @@
         },
         {
           "label": "ORG",
-          "text": "société « MURPHY MOROCCO OIL CO.,LTD »",
+          "text": "société « MURPHY MOROCCO OIL\nCO.,LTD »",
           "start": 225,
           "end": 263
         }
@@ -8044,7 +7916,7 @@
       ]
     },
     {
-      "instrument_type": "ARRETE_CONJOINT",
+      "instrument_type": "ARRETE",
       "reference": "181-26",
       "article_indices": [
         11,
@@ -8064,7 +7936,7 @@
       ]
     },
     {
-      "instrument_type": "ARRETE_CONJOINT",
+      "instrument_type": "ARRETE",
       "reference": "182-26",
       "article_indices": [
         16,
@@ -8084,7 +7956,7 @@
       ]
     },
     {
-      "instrument_type": "ARRETE_CONJOINT",
+      "instrument_type": "ARRETE",
       "reference": "183-26",
       "article_indices": [
         21,
@@ -8104,7 +7976,7 @@
       ]
     },
     {
-      "instrument_type": "ARRETE_CONJOINT",
+      "instrument_type": "ARRETE",
       "reference": "184-26",
       "article_indices": [
         26,
@@ -8124,7 +7996,7 @@
       ]
     },
     {
-      "instrument_type": "ARRETE_CONJOINT",
+      "instrument_type": "ARRETE",
       "reference": "185-26",
       "article_indices": [
         31,
