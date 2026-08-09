@@ -55,7 +55,7 @@
 <div class="flex items-center gap-8">
 <span class="font-display-lg text-headline-md text-primary uppercase tracking-tight">ADLI MOROCCO</span>
 <nav class="hidden md:flex gap-6">
-<a class="text-on-surface-variant font-medium hover:text-primary-container transition-colors" href="#">Directives</a>
+<a class="text-on-surface-variant font-medium hover:text-primary-container transition-colors quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">Directives</a>
 <a class="text-on-surface-variant font-medium hover:text-primary-container transition-colors" href="/analyzer">Bulletins</a>
 <a class="text-tertiary font-bold border-b-2 border-tertiary pb-1" href="/analyzer">Jurisprudence</a>
 </nav>
@@ -63,16 +63,23 @@
 <div class="flex items-center gap-6">
 <div class="flex items-center bg-surface-container-low border border-outline-variant px-3 py-1.5 rounded-lg">
 <span class="material-symbols-outlined text-outline mr-2">search</span>
-<input class="bg-transparent border-none focus:ring-0 text-body-md w-48" placeholder="Rechercher un texte..." type="text">
+<input class="bg-transparent border-none focus:ring-0 text-body-md w-48" id="header-search" placeholder="Rechercher un texte..." type="text">
 </div>
 <button id="lang-toggle" data-i18n="langToggle" class="font-label-md text-primary font-bold hover:opacity-80 transition-opacity">ARABIC</button>
 <div class="flex items-center gap-4 text-primary">
-<span class="material-symbols-outlined cursor-pointer hover:text-primary-container">account_balance</span>
-<span class="material-symbols-outlined cursor-pointer hover:text-primary-container">settings</span>
+<span class="material-symbols-outlined cursor-pointer quick-chip-disabled" title="Bientôt disponible">account_balance</span>
+<span class="material-symbols-outlined cursor-pointer quick-chip-disabled" title="Bientôt disponible">settings</span>
 </div>
 </div>
 </div>
 </header>
+
+{% if model_loading %}
+<div class="setup-banner">
+  ⏳ Chargement du modèle juridique en arrière-plan (~30 s au premier
+  démarrage)… L'interface est déjà prête, pose ta question quand tu veux.
+</div>
+{% endif %}
 
 {% if setup_error %}
 <div class="setup-banner">
@@ -95,7 +102,7 @@
 </div>
 </div>
 <nav class="flex-1 space-y-2">
-<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group" href="#">
+<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group" href="/">
 <span class="material-symbols-outlined text-primary group-hover:translate-x-1 transition-transform">book</span>
 <span class="font-body-md">Bibliothèque</span>
 </a>
@@ -103,15 +110,15 @@
 <span class="material-symbols-outlined">gavel</span>
 <span class="font-body-md">Analyses</span>
 </a>
-<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group" href="#">
+<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
 <span class="material-symbols-outlined text-primary group-hover:translate-x-1 transition-transform">star</span>
 <span class="font-body-md">Favoris</span>
 </a>
-<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group" href="#">
+<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
 <span class="material-symbols-outlined text-primary group-hover:translate-x-1 transition-transform">history</span>
 <span class="font-body-md">Historique</span>
 </a>
-<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group" href="#">
+<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
 <span class="material-symbols-outlined text-primary group-hover:translate-x-1 transition-transform">support_agent</span>
 <span class="font-body-md">Assistance</span>
 </a>
@@ -121,11 +128,11 @@
 <span data-i18n="newAnalysis">Nouvelle Analyse</span>
 </button>
 <div class="mt-auto border-t border-outline-variant pt-4 space-y-2">
-<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-high rounded-lg transition-all" href="#">
+<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-high rounded-lg transition-all quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
 <span class="material-symbols-outlined">settings</span>
 <span class="font-body-md text-sm">Paramètres</span>
 </a>
-<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-high rounded-lg transition-all" href="#">
+<a class="flex items-center gap-3 p-3 text-on-surface-variant hover:bg-surface-container-high rounded-lg transition-all quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
 <span class="material-symbols-outlined">logout</span>
 <span class="font-body-md text-sm">Déconnexion</span>
 </a>
@@ -143,7 +150,7 @@
 </div>
 </div>
 <div class="flex gap-2">
-<button data-i18n="exporter" class="bg-primary-container text-white px-4 py-1.5 rounded-[7px] text-xs font-bold uppercase tracking-tight hover:bg-secondary transition-colors">Exporter</button>
+<button data-i18n="exporter" id="export-convo-btn" class="bg-primary-container text-white px-4 py-1.5 rounded-[7px] text-xs font-bold uppercase tracking-tight hover:bg-secondary transition-colors">Exporter</button>
 </div>
 </div>
 
@@ -164,7 +171,7 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
 <form id="chat-form" class="accent-border flex items-center bg-white p-1">
 <textarea id="chat-input" data-i18n="placeholder" class="flex-1 border-none focus:ring-0 resize-none py-3 px-4 font-body-md min-h-[50px]" placeholder="Posez votre question juridique..." rows="1"></textarea>
 <div class="flex gap-2 px-2">
-<button type="button" class="w-10 h-10 flex items-center justify-center text-primary hover:bg-surface-container transition-colors" title="Pièce jointe (non disponible)">
+<button type="button" class="w-10 h-10 flex items-center justify-center text-primary hover:bg-surface-container transition-colors quick-chip-disabled" title="Pièce jointe (non disponible)" disabled>
 <span class="material-symbols-outlined">attach_file</span>
 </button>
 <button type="submit" class="w-10 h-10 bg-primary text-white flex items-center justify-center hover:bg-primary-container transition-colors">
@@ -185,7 +192,7 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
 <div class="bg-[#D9DCD9] p-4 border-b border-primary flex flex-col gap-3">
 <div class="flex justify-between items-center">
 <h3 class="font-headline-md text-primary uppercase text-sm tracking-widest font-bold">Analyse Documentaire</h3>
-<span class="material-symbols-outlined text-primary cursor-pointer">more_vert</span>
+<span class="material-symbols-outlined text-primary cursor-pointer quick-chip-disabled" title="Bientôt disponible">more_vert</span>
 </div>
 <div class="flex bg-white/50 p-1 rounded-lg border border-primary/20">
 <button id="doc-tab-original" class="flex-1 py-1.5 text-[10px] font-bold uppercase tracking-tight bg-primary text-white rounded-md transition-all">Document Original</button>
@@ -212,12 +219,12 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
 <div class="flex flex-col items-center py-4 px-margin-desktop w-full max-w-container-max mx-auto md:flex-row md:justify-between">
 <p class="font-label-md text-label-md text-on-surface-variant">© 2026 Royaume du Maroc - Secrétariat Général du Gouvernement</p>
 <div class="flex gap-6 mt-2 md:mt-0">
-<a class="font-label-md text-label-md text-on-surface-variant hover:text-tertiary transition-colors" href="#">Mentions Légales</a>
-<a class="font-label-md text-label-md text-on-surface-variant hover:text-tertiary transition-colors" href="#">Confidentialité</a>
-<a class="font-label-md text-label-md text-on-surface-variant hover:text-tertiary transition-colors" href="#">Bulletin Officiel</a>
+<a class="font-label-md text-label-md text-on-surface-variant hover:text-tertiary transition-colors quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">Mentions Légales</a>
+<a class="font-label-md text-label-md text-on-surface-variant hover:text-tertiary transition-colors quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">Confidentialité</a>
+<a class="font-label-md text-label-md text-on-surface-variant hover:text-tertiary transition-colors" href="/analyzer">Bulletin Officiel</a>
 </div>
 </div>
 </footer>
 
-<script src="{{ url_for('static', filename='js/chat.js') }}?v=2"></script>
+<script src="{{ url_for('static', filename='js/chat.js') }}?v=3"></script>
 </body></html>

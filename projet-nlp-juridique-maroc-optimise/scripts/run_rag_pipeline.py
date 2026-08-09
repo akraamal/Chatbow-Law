@@ -48,12 +48,14 @@ def _load_all_enriched_jsons() -> tuple[list[dict], dict[str, list[dict]]]:
 
         for art in data.get("articles", []):
             articles.append({
+                "article_id": art.get("article_id", ""),
                 "doc_id": doc_id,
                 "bo_number": bo_number,
                 "date_publication": date_pub,
                 "lang": lang,
                 "article_number": art.get("number", ""),
                 "text": art.get("text", ""),
+                "text_clean": art.get("text_clean", ""),
                 "instrument_type": art.get("instrument_type", ""),
                 "reference": art.get("reference", ""),
                 "pdf_page": art.get("pdf_page"),
@@ -70,12 +72,14 @@ def _load_all_enriched_jsons() -> tuple[list[dict], dict[str, list[dict]]]:
             instr_ref = instr.get("reference", "")
             for art in instr.get("articles", []):
                 articles.append({
+                    "article_id": art.get("article_id", ""),
                     "doc_id": doc_id,
                     "bo_number": bo_number,
                     "date_publication": date_pub,
                     "lang": lang,
                     "article_number": art.get("number", ""),
                     "text": art.get("text", ""),
+                    "text_clean": art.get("text_clean", ""),
                     "instrument_type": instr_type,
                     "reference": instr_ref,
                     "pdf_page": art.get("pdf_page"),

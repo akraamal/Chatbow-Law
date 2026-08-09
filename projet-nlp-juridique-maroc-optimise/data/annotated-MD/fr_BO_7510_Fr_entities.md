@@ -1,19 +1,11 @@
 # Bulletin Officiel 7510
 **Source :** `data\processed\fr\BO_7510_Fr.txt`
 **Langue :** fr
-**Nombre d'articles :** 86
+**Nombre d'articles :** 87
 
 ## Préambule
 
 décret n° 2-25-1080 du 27 ramadan 1447 (17 mars 2026) modifaint
-Arrêté conjoint du ministre de l'industrie et du commerce et de
-la secrétaire d'Etat auprès du ministre de l'agriculture, de
-la pêche maritime, du développement rural et des eaux et
-forêts, chargée de la pêche maritime n° 834-26 du 2 kaada
-1447 (20 avril 2026) fixant le niveau de représentativité des
-organisations professionnelles requis pour la constitution
-de l'interprofession de la filière conchylicole issue de
-l'aquaculture marine.
 et complétant le décret n° 2-09-481 du 4 moharrem 1431
 (21 décembre 2009) pris pour l'application de la loi n° 17-95
 relative aux sociétés anonymes.
@@ -24,19 +16,55 @@ promulguée par le dahir n° 1-96-124 du 14 rabii II 1417
 Vu le décret n° 2-09-481 du 4 moharrem 1431 (21 décembre
 2009) pris pour l'application de la loi n° 17-95 relative aux
 sociétés anonymes, notamment son article 4 ;
+Après délibération en Conseil du gouvernement, réuni
+le 8 ramadan 1447 (26 février 2026),
+DÉCRÈTE :
+
+## Décrets
+
+### décret
+
+décret n° 2-25-1080 du 27 ramadan 1447 (17 mars 2026) modifaint
+et complétant le décret n° 2-09-481 du 4 moharrem 1431
+(21 décembre 2009) pris pour l'application de la loi n° 17-95
+relative aux sociétés anonymes.
+LE CHEF DU GOUVERNEMENT,
+Vu la loi n° 17-95 relative aux sociétés anonymes,
+promulguée par le dahir n° 1-96-124 du 14 rabii II 1417
+(30 août 1996), notamment ses articles 193 et 194 ;
+Vu le décret n° 2-09-481 du 4 moharrem 1431 (21 décembre
+2009) pris pour l'application de la loi n° 17-95 relative aux
+sociétés anonymes, notamment son article 4 ;
+Après délibération en Conseil du gouvernement, réuni
+le 8 ramadan 1447 (26 février 2026),
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté conjoint du ministre de l'industrie et du commerce et de
+la secrétaire d'Etat auprès du ministre de l'agriculture, de
+la pêche maritime, du développement rural et des eaux et
+forêts, chargée de la pêche maritime n° 834-26 du 2 kaada
+1447 (20 avril 2026) fixant le niveau de représentativité des
+organisations professionnelles requis pour la constitution
+de l'interprofession de la filière conchylicole issue de
+l'aquaculture marine.
 LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,
 LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
 L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
 DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
-Après délibération en Conseil du gouvernement, réuni
-le 8 ramadan 1447 (26 février 2026),
 CHARGÉE DE LA PÊCHE MARITIME,
 Vu le décret n° 2-12-602 du 9 rejeb 1434 (20 mai 2013) pris
 pour l'application de la loi n° 03-12 relative aux interprofessions
 agricoles et halieutiques, notamment son article 2 ;
-DÉCRÈTE :
-
-## Décrets
+Vu l'arrêté du ministre de l'agriculture, de la pêche
+maritime, du développement rural et des eaux et forêts
+n° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant
+délégation d'attributions à la secrétaire d'Etat auprès
+du ministre de l'agriculture, de la pêche maritime, du
+développement rural et des eaux et forêts, chargée de la pêche
+maritime,
+ARRÊTENT :
 
 ### Arrêté
 
@@ -96,14 +124,6 @@ Après avis de la commission interministérielle des prix,
 ### Arrêté
 
 Arrêté conjoint du ministre délégué auprès de la ministre de
-Considérant la convention de création et d'exploitation
-de la ferme aquacole n° 2023/MSA/480 signée le 8 joumada II
-1446 (10 decembre 2024) entre la société « TAIBA SEAFOOD
-Sarl » et la secrétaire d'Etat auprès du ministre de l'agriculture,
-de la pêche maritime, du développement rural et des eaux
-et forêts, chargée de la pêche maritime et approuvée par le
-ministre délégué auprès de la ministre de l'économie et des
-finances, chargé du budget,
 l'économie et des finances, chargé du budget  et de la
 secrétaire d'Etat auprès du ministre de l'agriculture,
 de la pêche maritime, du développement rural et des
@@ -113,6 +133,52 @@ société « TAIBA SEAFOOD Sarl » pour la création et
 l'exploitation d'une ferme aquacole dénommée « Taiba
 Seafood  » et portant publication de l'extrait de la
 convention y afférente
+LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE
+L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
+LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
+L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
+DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
+CHARGÉE DE LA PÊCHE MARITIME,
+Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393
+(23 novembre 1973) formant règlement sur la pêche maritime,
+tel que modifié et complété, notamment ses articles 28 et 28-1 ;
+Vu le décret n° 2-08-562 du 13 hija 1429 (12 décembre
+2008) fixant les conditions et les modalités de délivrance et
+de renouvellement des autorisations d'établissement de pêche
+maritime, tel que modifié et complété, notamment ses articles
+7, 7 bis et 9 ;
+Vu l'arrêté de la ministre de l'économie et des finances
+n° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
+délégation d'attributions au ministre délégué auprès de
+la ministre de l'économie et des finances, chargé du budget ;
+Vu l'arrêté du ministre de l'agriculture, de la pêche
+maritime, du développement rural et des eaux et forêts
+n° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation
+d'attributions à la secrétaire d'Etat auprès du ministre de
+l'agriculture, de la pêche maritime, du développement rural
+et des eaux et forêts, chargée de la pêche maritime ;
+Vu l'arrêté du ministre de l'agriculture et de la pêche
+maritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
+à la demande d'autorisation de création et d'exploitation
+d'établissement de pêche maritime et fixant le modèle
+de convention de concession y afférent, tel que modifié
+et complété, notamment son article 3 ;
+Vu l'arrêté conjoint du ministre de l'économie et des
+finances et du ministre de l'agriculture et de la pêche maritime
+n° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
+les montants et les modalités de paiement de la redevance
+annuelle due au titre des conventions de concession de ferme
+aquacole, tel que modifié et complété ;
+*
+Considérant la convention de création et d'exploitation
+de la ferme aquacole n° 2023/MSA/480 signée le 8 joumada II
+1446 (10 decembre 2024) entre la société « TAIBA SEAFOOD
+Sarl » et la secrétaire d'Etat auprès du ministre de l'agriculture,
+de la pêche maritime, du développement rural et des eaux
+et forêts, chargée de la pêche maritime et approuvée par le
+ministre délégué auprès de la ministre de l'économie et des
+finances, chargé du budget,
+ARRÊTENT :
 
 ### Arrêté
 
@@ -972,13 +1038,6 @@ DÉCIDE :
 Les dispositions des paragraphes 2
 et 3 de l'article 4 du décret susvisé n°2-09-481 sont modifiées
 et complétées comme suit :
-Vu l'arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des eaux et forêts
-n° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant
-délégation d'attributions à la secrétaire d'Etat auprès
-du ministre de l'agriculture, de la pêche maritime, du
-développement rural et des eaux et forêts, chargée de la pêche
-maritime,
 « Article 4. –  Le rapport du  commissaire aux comptes
 « spécial  […texte non modifié…]  ,  daté et signé, doit contenir :
 « – l'avis du commissaire aux comptes […texte non modifié…] du directoire ;
@@ -986,25 +1045,16 @@ maritime,
 « fourchette retenue ou les conditions de fixation de
 « ce prix ;
 « – l'indication si les bases de calcul du prix d'émission,
-ARRÊTENT :
-ARTICLE PREMIER. – Le niveau de représentativité des
-organisations professionnelles requis pour la constitution de
-l'interprofession halieutique de la filière conchylicole issue
-de l'aquaculture marine est fixé, en tenant compte du poids
-économique desdites organisations dans la filière, comme suit :
 « de la fourchette ou des conditions de fixation de ce prix,
 « retenues par le conseil d'administration ou le directoire
 « lui paraissent exactes et sincères ;
 « ou du directoire. »
-– Production : 51% au moins du volume de la production
 
-*Entités :* `ministre de l'agriculture` (MINISTERE), `25 rabii II 1446` (DATE_HIJRI), `29 octobre 2024` (DATE_GREGORIAN)
+*Entités :* `2-09-481` (DECRET)
 
 *Citations :*
 
-- `l'article 4` → décret n° 2-09-481 [✓]
-
-*Dates :* 25 rabii II 1446, 29 octobre 2024
+- `l'article 4` → décret n° 2-25-1080 [✓]
 
 
 ## Article 2
@@ -1015,19 +1065,39 @@ La ministre de l'économie et des finances et le
 ministre de l'industrie et du commerce sont chargés, chacun
 en ce qui le concerne, de l'exécution du présent décret qui sera
 publié au Bulletin officiel.
+Fait à Rabat, le 27 ramadan 1447 (17 mars 2026).
+AZIZ AKHANNOUCH.
+Pour contreseing :
+La ministre de l'économie
+et des finances,
+NADIA FETTAH.
+Le ministre de l'industrie
+et du commerce,
+RYAD MEZZOUR.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026).
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'industrie et du commerce` (MINISTERE), `27 ramadan 1447` (DATE_HIJRI), `17 mars 2026` (DATE_GREGORIAN), `Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026)` (BULLETIN_OFFICIEL)
+
+*Dates :* 27 ramadan 1447, 17 mars 2026
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Le niveau de représentativité des
+organisations professionnelles requis pour la constitution de
+l'interprofession halieutique de la filière conchylicole issue
+de l'aquaculture marine est fixé, en tenant compte du poids
+économique desdites organisations dans la filière, comme suit :
+– Production : 51% au moins du volume de la production
 nationale conchylicole issue de l'aquaculture marine ;
 – Conditionnement, valorisation et transformation :
 51% au moins du volume de production nationale
 conchylicole issue de l'aquaculture marine réalisé par
 les unités de conditionnement et/ou de valorisation et/
 ou de transformation.
-Fait à Rabat, le 27 ramadan 1447 (17 mars 2026).
-AZIZ AKHANNOUCH.
-Pour contreseing :
-
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'industrie et du commerce` (MINISTERE), `27 ramadan 1447` (DATE_HIJRI), `17 mars 2026` (DATE_GREGORIAN)
-
-*Dates :* 27 ramadan 1447, 17 mars 2026
 
 
 ## Article 2
@@ -1036,27 +1106,20 @@ Pour contreseing :
 
 Le présent arrêté conjoint sera publié au
 Bulletin officiel.
-La ministre de l'économie
-et des finances,
 Rabat, le 2 kaada 1447 (20 avril 2026).
-NADIA FETTAH.
-Le ministre de l'industrie
 La secrétaire d'Etat
 auprès du ministre de
 l'agriculture, de la pêche
 maritime, du développement
-et du commerce,
-RYAD MEZZOUR.
 Le ministre de l'industrie
 rural et des eaux et forêts,
 chargée de la pêche maritime,
-Le texte en langue arabe a été publié dans l'édition générale du
 et du commerce,
 RYAD MEZZOUR.
 ZAKIA DRIOUICH.
-« Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026).
 
-*Entités :* `arrêté conjoint` (ARRETE), `2 kaada 1447` (DATE_HIJRI), `20 avril 2026` (DATE_GREGORIAN), `Bulletin officiel » n° 7495 du 11 chaoual 1447 (30 mars 2026)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté conjoint` (ARRETE), `2 kaada 1447` (DATE_HIJRI), `20 avril 2026` (DATE_GREGORIAN), `ministre de
+l'agriculture` (MINISTERE)
 
 *Dates :* 2 kaada 1447, 20 avril 2026
 
@@ -1146,39 +1209,17 @@ de la pêche maritime, du développement rural et des eaux
 et forêts chargée de la pêche maritime, une ferme aquacole
 dénommée « Taiba Seafood » pour la culture, en mer au large
 de Lamaachate, des algues des espèces suivantes :
-LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE
-L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
-LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
-L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
-DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
-CHARGÉE DE LA PÊCHE MARITIME,
-Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393
-(23 novembre 1973) formant règlement sur la pêche maritime,
-tel que modifié et complété, notamment ses articles 28 et 28-1 ;
 – les algues rouges « Gracilaria Gracilis », « Gelidium
 Sesquipedale » et « Grateloupia filicina » ;
-Vu le décret n° 2-08-562 du 13 hija 1429 (12 décembre
-2008) fixant les conditions et les modalités de délivrance et
-de renouvellement des autorisations d'établissement de pêche
-maritime, tel que modifié et complété, notamment ses articles
-7, 7 bis et 9 ;
 – les algues vertes « Codium tomentosum » et « Ulva
 lactuca » ;
 –  les algues brunes «  Saccorhiza polyschides  » et
 « Cystoseira tamariscifolia ».
 
 *Entités :* `société « TAIBA SEAFOOD
-Sarl »` (ORG), `8 joumada II 1446` (DATE_HIJRI), `10 decembre 2024` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `dahir portant loi n° 1-73-255 du 27 chaoual 1393
-(23 novembre 1973)` (DAHIR), `décret n° 2-08-562` (DECRET), `13 hija 1429` (DATE_HIJRI), `12 décembre
-2008` (DATE_GREGORIAN)
+Sarl »` (ORG), `8 joumada II 1446` (DATE_HIJRI), `10 decembre 2024` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
-*Citations :*
-
-- `articles 28 et 28-1` → décret n° 2-08-562 [✓]
-- `articles
-7, 7` → décret n° 2-08-562 [✓]
-
-*Dates :* 8 joumada II 1446, 10 decembre 2024, 13 hija 1429, 12 décembre 2008
+*Dates :* 8 joumada II 1446, 10 decembre 2024
 
 
 ## Article 2
@@ -1194,27 +1235,16 @@ des algues rouges «  Gracilaria Gracilis  », «  Gelidium
 Sesquipedale » et « Grateloupia filicina », des algues vertes
 « Codium tomentosum » et « Ulva lactuca » et des algues brunes
 « Saccorhiza polyschides » et « Cystoseira tamariscifolia »,
-Vu l'arrêté de la ministre de l'économie et des finances
-n° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
-délégation d'attributions au ministre délégué auprès de
-la ministre de l'économie et des finances, chargé du budget ;
-Vu l'arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des eaux et forêts
-n° 2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation
-d'attributions à la secrétaire d'Etat auprès du ministre de
-l'agriculture, de la pêche maritime, du développement rural
-et des eaux et forêts, chargée de la pêche maritime ;
+cultivées.
 
 *Entités :* `société «  TAIBA
 SEAFOOD Sarl »` (ORG), `dahir portant loi n° 1-73-255 du 27 chaoual 1393
-(23  novembre 1973)` (DAHIR), `arrêté` (ARRETE), `ministre de l'économie et des finances` (MINISTERE), `28 rabii I 1443` (DATE_HIJRI), `4 novembre 2021` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `25 rabii II 1446` (DATE_HIJRI), `29 octobre 2024` (DATE_GREGORIAN)
+(23  novembre 1973)` (DAHIR)
 
 *Citations :*
 
 - `l'article
 28-1` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
-
-*Dates :* 28 rabii I 1443, 4 novembre 2021, 25 rabii II 1446, 29 octobre 2024
 
 
 ## Article 3
@@ -1224,16 +1254,8 @@ SEAFOOD Sarl »` (ORG), `dahir portant loi n° 1-73-255 du 27 chaoual 1393
 L'extrait de la convention n° 2023/MSA/480
 mentionnée à l'article premier ci-dessus est annexé au présent
 arrêté conjoint.
-Vu l'arrêté du ministre de l'agriculture et de la pêche
-maritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
-à la demande d'autorisation de création et d'exploitation
-d'établissement de pêche maritime et fixant le modèle
-de convention de concession y afférent, tel que modifié
-et complété, notamment son article 3 ;
 
-*Entités :* `arrêté conjoint` (ARRETE), `ministre de l'agriculture` (MINISTERE), `11 joumada II 1431` (DATE_HIJRI), `26 mai 2010` (DATE_GREGORIAN)
-
-*Dates :* 11 joumada II 1431, 26 mai 2010
+*Entités :* `arrêté conjoint` (ARRETE), `arrêté` (ARRETE)
 
 
 ## Article 4
@@ -1242,31 +1264,23 @@ et complété, notamment son article 3 ;
 
 Le présent arrêté conjoint sera publié au
 Bulletin officiel.
-Vu l'arrêté conjoint du ministre de l'économie et des
-finances et du ministre de l'agriculture et de la pêche maritime
-n° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
-les montants et les modalités de paiement de la redevance
-annuelle due au titre des conventions de concession de ferme
-aquacole, tel que modifié et complété ;
-Le ministre délégué auprès
-de la ministre de l'économie et
-des finances, chargé du budget,
-FOUZI LEKJAA.
-*
-ARRÊTENT :
-cultivées.
 Rabat, le 1er chaabane 1447 (21 janvier 2026).
 La secrétaire d'Etat auprès
 du ministre de l'agriculture,
 de la pêche maritime,
 du développement rural
 et des eaux et forêts, chargée
+Le ministre délégué auprès
+de la ministre de l'économie et
+des finances, chargé du budget,
 de la pêche maritime,
+FOUZI LEKJAA.
 ZAKIA DRIOUICH.
 
-*Entités :* `arrêté conjoint` (ARRETE), `arrêté conjoint du ministre de l'économie et des` (ARRETE), `ministre de l'agriculture` (MINISTERE), `7 moharrem 1435` (DATE_HIJRI), `11 novembre 2013` (DATE_GREGORIAN), `1er chaabane 1447` (DATE_HIJRI), `21 janvier 2026` (DATE_GREGORIAN)
+*Entités :* `arrêté conjoint` (ARRETE), `1er chaabane 1447` (DATE_HIJRI), `21 janvier 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE), `ministre de l'économie et
+des finances` (MINISTERE)
 
-*Dates :* 7 moharrem 1435, 11 novembre 2013, 1er chaabane 1447, 21 janvier 2026
+*Dates :* 1er chaabane 1447, 21 janvier 2026
 
 
 ## Article Annexe
@@ -1281,7 +1295,7 @@ et forêts, chargée de la pêche maritime n° 180-26 du 1er chaabane 1447 (21 j
 Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7508 du 26 kaada 1447 (14 mai 2026).
 
 *Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `1er chaabane 1447` (DATE_HIJRI), `21 janvier 2026` (DATE_GREGORIAN), `société
-« TAIBA SEAFOOD Sarl »` (ORG), `Bulletin officiel » n° 7508 du 26 kaada 1447 (14 mai 2026)` (BULLETIN_OFFICIEL)
+« TAIBA SEAFOOD Sarl »` (ORG), `Bulletin officiel » n° 7508 du 26 kaada 1447 (14 mai 2026)` (BULLETIN_OFFICIEL), `arrêté` (ARRETE)
 
 *Dates :* 1er chaabane 1447, 21 janvier 2026
 
@@ -2903,11 +2917,6 @@ des télécommunications, Uni Fiber
 - `décret n° 2-25-1080` → DECRET
 - `27 ramadan 1447` → DATE_HIJRI
 - `17 mars 2026` → DATE_GREGORIAN
-- `ministre de l'industrie et du commerce` → MINISTERE
-- `ministre de l'agriculture` → MINISTERE
-- `2 kaada
-1447` → DATE_HIJRI
-- `20 avril 2026` → DATE_GREGORIAN
 - `décret n° 2-09-481` → DECRET
 - `4 moharrem 1431` → DATE_HIJRI
 - `21 décembre 2009` → DATE_GREGORIAN
@@ -2922,10 +2931,5 @@ relative aux sociétés anonymes` → LOI
 - `21 décembre
 2009` → DATE_GREGORIAN
 - `loi n° 17-95 relative aux` → LOI
-- `MINISTRE DE L'INDUSTRIE ET DU COMMERCE` → MINISTERE
 - `8 ramadan 1447` → DATE_HIJRI
 - `26 février 2026` → DATE_GREGORIAN
-- `décret n° 2-12-602` → DECRET
-- `9 rejeb 1434` → DATE_HIJRI
-- `20 mai 2013` → DATE_GREGORIAN
-- `loi n° 03-12 relative aux interprofessions` → LOI

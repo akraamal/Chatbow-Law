@@ -116,7 +116,7 @@ def _is_valid_column_gap(sorted_by_x, idx, min_blocks=MIN_BLOCKS_PER_COLUMN):
     return left >= min_blocks and right >= min_blocks
 
 
-def _find_empty_band(blocks, min_blocks=MIN_BLOCKS_PER_COLUMN):
+def _find_empty_band(blocks, min_blocks=MIN_BLOCKS_PER_COLUMN, max_crossers=0):
     """Cherche la bande verticale vide la plus large entre les blocs, avec
     au moins ``min_blocks`` blocs ENTIERS de part et d'autre.
 
@@ -127,6 +127,15 @@ def _find_empty_band(blocks, min_blocks=MIN_BLOCKS_PER_COLUMN):
     (289→309) — aucun couple consécutif ne la traverse, alors que le
     balayage de couverture la voit comme une bande sans aucun bloc.
 
+    ``max_crossers`` tolère qu'un petit nombre de blocs TRAVERSENT la bande
+    (titres de section centrés entre les colonnes, ex. « TEXTES GENERAUX »
+    x 236-359 du BO_7480 page 4 ou « TEXTES PARTICULIERS » x 226-368 du
+    BO_7510 page 6) : sans cette tolérance, un tel titre cache la gouttière
+    au balayage et le repli sur les écarts consécutifs retient une fausse
+    gouttière à l'intérieur de la colonne gauche (décalage du découpage).
+    La bande retenue doit rester « propre » : aucun bloc ne commence ni ne
+    finit à l'intérieur — chaque bloc la couvre en entier ou en est hors.
+
     Returns:
         (start, end) du milieu de la bande la plus large, ou None si aucune
         bande valide (blocs entiers des deux côtés).
@@ -134,23 +143,15 @@ def _find_empty_band(blocks, min_blocks=MIN_BLOCKS_PER_COLUMN):
     if not blocks:
         return None
 
-    events = []
-    for b in blocks:
-        events.append((b[0], +1))
-        events.append((b[2], -1))
-    events.sort()
-
-    coverage = 0
-    bands = []
-    x = events[0][0]
-    for pos, delta in events:
-        if pos > x and coverage == 0:
-            bands.append((x, pos))
-        coverage += delta
-        x = max(x, pos)
+    edges = sorted({b[0] for b in blocks} | {b[2] for b in blocks})
 
     best = None
-    for start, end in bands:
+    for start, end in zip(edges, edges[1:]):
+        if end - start <= 0:
+            continue
+        crossers = sum(1 for b in blocks if b[0] <= start and b[2] >= end)
+        if crossers > max_crossers:
+            continue
         left = sum(1 for b in blocks if b[2] <= start)
         right = sum(1 for b in blocks if b[0] >= end)
         if left < min_blocks or right < min_blocks:
@@ -218,9 +219,21 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
     # 1) Gouttière par balayage de couverture : robuste aux blocs centrés
     # dans une colonne (ex. « ARRÊTE : » de la page 98 du BO_7492) qui
     # masquent la gouttière dans la projection des écarts adjacents.
+    # Si le balayage strict ne trouve rien, on tolère UN bloc traversant
+    # la bande : un titre de section centré entre les colonnes (ex.
+    # « TEXTES GENERAUX » x 236-359 du BO_7480 page 4, « TEXTES
+    # PARTICULIERS » x 226-368 du BO_7510 page 6) cache la gouttière au
+    # balayage strict ; sans cette tolérance, le repli sur les écarts
+    # consécutifs retenait une fausse gouttière à l'intérieur de la
+    # colonne gauche (BO_7480 pages 3/4 : découpage décalé) ou promouvait
+    # toute la colonne droite en ``spanning`` (BO_7510 page 6 :
+    # entrelacement TAIBA SEAFOOD).  Le titre traversant est isolé en
+    # ``spanning`` après le split (emission à sa position verticale).
     split_x = None
     split_from_band = False
     band = _find_empty_band(blocks)
+    if band is None:
+        band = _find_empty_band(blocks, max_crossers=1)
     if band is not None and (band[1] - band[0]) >= threshold:
         split_x = (band[0] + band[1]) / 2
         split_from_band = True
@@ -300,8 +313,34 @@ def _group_into_columns(blocks, min_ratio=3.0, min_gap_floor=6.0):
         # x 206 mais gouttière réelle à ~300) — on repère alors les
         # traversées par la gouttière réelle, déduite des emprises des
         # colonnes nettes.
-        spanning = []
-        if left_col and right_col:
+        # On déduit la gouttière réelle des emprises des colonnes nettes,
+        # en écartant d'abord les blocs qui traversent l'emprise de l'autre
+        # colonne (titres centrés, signatures) : sans ce pré-filtrage, un
+        # titre centré rattaché à la colonne gauche par son centre (ex.
+        # « TEXTES PARTICULIERS » du BO_7510 page 6, x 226-368) enflait
+        # ``gap_left`` (368) et décalait mid_gap vers la droite, faisant
+        # passer TOUTE la colonne droite en ``spanning`` (entrelacement
+        # par ordre y des arrêtés TAIBA SEAFOOD).  Ce repli n'a de sens que
+        # si la page a une vraie colonne droite avec du contenu dans le
+        # CORPS (des blocs pleine hauteur) — sinon la page est mono-colonne
+        # (paragraphes pleine largeur avec retrait suspendu, ex. BO_7480
+        # page 35, dont la « colonne droite » ne contient que le pied de
+        # page : date et signature) et on retombe sur l'heuristique
+        # précédente (mid_gap issu des emprises complètes, BO_7480 pages 3
+        # et 4).
+        body_bottom = max(b[3] for b in blocks) - FOOTER_BLOCK_MARGIN
+        right_has_body = any(b[1] < body_bottom for b in right_col)
+        if left_col and right_col and right_has_body:
+            min_right_x0 = min(b[0] for b in right_col)
+            core_left = [b for b in left_col if b[2] < min_right_x0]
+            max_left_x2 = max((b[2] for b in core_left), default=min_right_x0)
+            core_right = [b for b in right_col if b[0] > max_left_x2]
+            gap_left = max((b[2] for b in core_left), default=min_right_x0)
+            gap_right = min((b[0] for b in core_right if b[0] >= gap_left), default=gap_left)
+            mid_gap = (gap_left + gap_right) / 2
+            spanning = [b for b in blocks if b[0] < mid_gap < b[2]]
+        else:
+            spanning = []
             gap_left = max(b[2] for b in left_col)
             gap_right = min((b[0] for b in right_col if b[0] >= gap_left), default=gap_left)
             mid_gap = (gap_left + gap_right) / 2

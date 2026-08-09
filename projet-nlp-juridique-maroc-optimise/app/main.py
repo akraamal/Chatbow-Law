@@ -10,6 +10,7 @@ Usage :
     -> http://localhost:5000
 """
 import sys
+import threading
 from pathlib import Path
 
 import flask
@@ -27,8 +28,19 @@ app.register_blueprint(chat_bp)
 app.register_blueprint(analyzer_bp)
 
 
+def _preload_chatbot():
+    from app.chat import preload_chatbot
+
+    preload_chatbot()
+
+
 if __name__ == "__main__":
     print("  -> http://localhost:5000")
+    # Préchargement du chatbot en arrière-plan : le modèle d'embedding
+    # (~1,1 Go) met ~27 s à se charger ; lancé en parallèle du bind du port,
+    # la première page s'affiche instantanément (bandeau « chargement » si
+    # besoin) au lieu de rester bloquée sur la construction synchrone.
+    threading.Thread(target=_preload_chatbot, daemon=True).start()
     # use_reloader=False: with the reloader on, Werkzeug forks a second
     # process that re-imports everything (spaCy, camel-tools, etc.) before
     # actually binding the port, which delays startup further and can

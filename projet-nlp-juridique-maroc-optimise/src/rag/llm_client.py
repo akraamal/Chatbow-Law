@@ -15,13 +15,20 @@ from __future__ import annotations
 import os
 import time
 
-DEFAULT_MODEL_NAME = "qwen/qwen3.6-27b"
+DEFAULT_MODEL_NAME = "llama-3.3-70b-versatile"
+
+# Modèle capable d'émettre le bloc [[CITATIONS]] vérifiable par le chatbot.
+# Attention : ne PAS mettre ici un modèle "reasoning" (ex. qwen/qwen3.6-27b)
+# — il consomme les tokens sur une chaîne de pensée visible et n'émet JAMAIS
+# de bloc [[CITATIONS]], ce qui rendrait aveugle le garde-fou anti-
+# hallucination (le chatbot ne pourrait jamais vérifier ce que dit le LLM).
+CITATION_CAPABLE_MODEL = "llama-3.3-70b-versatile"
 
 DEFAULT_TEMPERATURE = 0.2
 DEFAULT_MAX_OUTPUT_TOKENS = 1024
 
-# qwen/qwen3.6-27b (préversion Groq) — le retry ci-dessous absorbe les 429
-# transitoires (pic de trafic) et les erreurs réseau/5xx passagères.
+# Le retry ci-dessous absorbe les 429 transitoires (pic de trafic) et les
+# erreurs réseau/5xx passagères.
 MAX_RETRIES = 3
 RETRY_BASE_DELAY_SECONDS = 2.0
 REQUEST_TIMEOUT_SECONDS = 60.0
@@ -62,6 +69,7 @@ class LLMClient:
         self.model_name = model_name
         self.temperature = temperature
         self.max_output_tokens = max_output_tokens
+        self._api_key = api_key
         self._client = Groq(api_key=api_key, timeout=REQUEST_TIMEOUT_SECONDS)
 
     def generate(self, system_instruction: str, user_prompt: str) -> str:
@@ -101,3 +109,30 @@ class LLMClient:
             time.sleep(RETRY_BASE_DELAY_SECONDS * (2**attempt))
 
         raise last_error  # tous les essais ont échoué
+
+    def generate_with_citation_guarantee(
+        self, system_instruction: str, user_prompt: str
+    ) -> str:
+        """
+        Génère une réponse en GARANTISSANT l'émission d'un bloc
+        [[CITATIONS]] vérifiable.
+
+        Certains modèles configurés (ex. qwen/qwen3.6-27b, un modèle
+        "reasoning") n'émettent jamais ce bloc : le garde-fou anti-
+        hallucination du chatbot devient aveugle et aucune citation ne peut
+        être contrôlée mécaniquement. Si la première génération ne contient
+        pas de bloc [[CITATIONS]], on réessaie une fois avec
+        CITATION_CAPABLE_MODEL (llama-3.3-70b-versatile) — qui remplit le
+        format. Le modèle citant est utilisé directement quand c'est déjà
+        celui configuré (pas de double appel).
+        """
+        answer = self.generate(system_instruction, user_prompt)
+        if self.model_name == CITATION_CAPABLE_MODEL or "[[CITATIONS]]" in answer:
+            return answer
+        fallback = LLMClient(
+            model_name=CITATION_CAPABLE_MODEL,
+            api_key=self._api_key,
+            temperature=self.temperature,
+            max_output_tokens=self.max_output_tokens,
+        )
+        return fallback.generate(system_instruction, user_prompt)

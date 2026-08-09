@@ -1195,11 +1195,131 @@ def _deduplicate_tables(tables: list[dict]) -> list[dict]:
     deduped = []
     for t in tables:
         rows_tuple = tuple(tuple(r) for r in t.get("rows", []))
-        key = (t.get("page_number"), tuple(t.get("bbox", [])), rows_tuple)
+        key = (t.get("page") or t.get("page_number"), tuple(t.get("bbox", [])),
+               rows_tuple)
         if key not in seen:
             seen.add(key)
             deduped.append(t)
     return deduped
+
+
+def _flatten_cell(cell: str) -> str:
+    """Flatten a multi-line PDF cell into a single-line string."""
+    return " ".join(cell.split())
+
+
+def _normalize_french_number(cell: str) -> str:
+    """Convert '619.00 DH/TM' -> '619,00 DH/TM' (French decimal convention)."""
+    import re as _re
+    return _re.sub(r"(\d+)\.(\d{2})(?=\D|$)", r"\1,\2", cell)
+
+
+def _is_dot_row(row: list[str]) -> bool:
+    """A row of only dots/dashes/empty cells is a separator, not data."""
+    return all(
+        not cell.strip() or set(cell.strip()) <= {".", "-", "—", "_", " "}
+        for cell in row
+    )
+
+
+def _split_table_rows(rows: list[list[str]]) -> tuple[list[str], list[list[str]]]:
+    """
+    Split raw pdfplumber rows into (headers, data_rows).
+
+    The first row is treated as the header.  Separator rows (dots) and empty
+    rows are dropped from the data.
+    """
+    if not rows:
+        return [], []
+    headers = [_flatten_cell(c) for c in rows[0]]
+    data_rows = [
+        [_normalize_french_number(_flatten_cell(c)) for c in row]
+        for row in rows[1:]
+        if not _is_dot_row(row) and any(c.strip() for c in row)
+    ]
+    return headers, data_rows
+
+
+def _derive_caption(article_text: str) -> str:
+    """
+    Derive a table caption from the article text.
+
+    Prefer the sentence introducing the table ("...fixés respectivement
+    comme suit :"), otherwise fall back to the first sentence of the article
+    (annexe titles act as captions for annexe tables).
+    """
+    import re as _re
+    m = _re.search(r"([^:]{15,}?)\s+fixés?\s+respectivement", article_text, _re.DOTALL)
+    if not m:
+        m = _re.search(r"([^:]{15,}?)\s+comme\s+suit", article_text, _re.DOTALL)
+    if m:
+        caption = m.group(1).strip()
+    else:
+        caption = article_text.split("\n")[0].strip()
+    caption = caption.strip("«»„“\"': \n").strip()
+    caption = caption.replace("«", "").replace("»", "")
+    caption = _re.sub(r"\s+", " ", caption)
+    if caption.lower().startswith(("les ", "le ", "la ")):
+        caption = caption.split(" ", 1)[1]
+    caption = caption[:160]
+    if caption:
+        caption = caption[0].upper() + caption[1:]
+    return caption
+
+
+def _extract_unit(cell: str) -> str:
+    """Extract the unit (e.g. 'DH/TM') from a table cell, if present."""
+    import re as _re
+    m = _re.search(r"\s([A-ZÀ-Ý]{2,}/[A-ZÀ-Ý]{2,})$", cell.strip())
+    return m.group(1) if m else ""
+
+
+def _linearize_table(table: dict) -> list[str]:
+    """
+    Build the text_clean linearization of a normalized table.
+
+    One line per data row: 'Header0: c0 | Header1 (unit): c1 | ...'.
+    The first line is the '[Tableau : caption]' placeholder.
+    """
+    import re as _re
+    lines = [f"[Tableau : {table.get('caption', '')}]"]
+    headers = table.get("headers", [])
+    for row in table.get("rows", []):
+        parts = []
+        for i, cell in enumerate(row):
+            unit = _extract_unit(cell)
+            if unit:
+                value = _re.sub(r"\s" + _re.escape(unit) + r"$", "", cell).strip()
+            else:
+                value = cell
+            if i == 0:
+                label = headers[0] if headers else "Ligne"
+                parts.append(f"{label}: {value}")
+            else:
+                header = headers[i] if i < len(headers) else f"Colonne {i + 1}"
+                parts.append(f"{header} ({unit}): {value}" if unit else f"{header}: {value}")
+        lines.append(" | ".join(parts))
+    return lines
+
+
+def _table_to_target_schema(
+    article_id: str, table: dict, idx: int, article_text: str
+) -> dict:
+    """
+    Normalize a raw pdfplumber table dict to the reference schema:
+
+    table_id, page, caption, headers, rows, linearized_in_text_clean.
+    """
+    headers, data_rows = _split_table_rows(table.get("rows", []))
+    caption = _derive_caption(article_text)
+    return {
+        "table_id": f"{article_id}::tbl_{idx}",
+        "page": table.get("page_number"),
+        "caption": caption,
+        "headers": headers,
+        "rows": data_rows,
+        "linearized_in_text_clean": True,
+    }
 
 
 def enrich_json_with_tables(
@@ -1262,6 +1382,8 @@ def enrich_json_with_tables(
     # Clear any table data from previous runs so re-runs are idempotent
     for art in data.get("articles", []):
         art.pop("extracted_tables", None)
+        art.pop("text_raw", None)
+        art.pop("text_clean", None)
     for instr in data.get("instruments", []):
         instr.pop("extracted_tables", None)
         for art in instr.get("articles", []):
@@ -1315,6 +1437,27 @@ def enrich_json_with_tables(
                        tuple(tuple(r) for r in t.get("rows", [])))
                 all_table_keys.pop(key, None)
 
+    # Normalize linked tables to the reference schema (table_id, page, caption,
+    # headers, rows, linearized_in_text_clean) and linearize them into a
+    # dedicated text_clean field (bug 3: table_loss).
+    for art_idx, art in enumerate(data.get("articles", [])):
+        tables = art.get("extracted_tables")
+        if not tables:
+            continue
+        art_text = art.get("text", "")
+        art["text_raw"] = art_text
+        normalized = [
+            _table_to_target_schema(
+                art.get("article_id") or f"art_{art_idx}", t, k, art_text
+            )
+            for k, t in enumerate(tables)
+        ]
+        art["extracted_tables"] = normalized
+        lines = []
+        for t in normalized:
+            lines.extend(_linearize_table(t))
+        art["text_clean"] = art_text + "\n\n" + "\n".join(lines)
+
     # Tables that could not be linked by either method → store at document level
     unlinked_tables = list(all_table_keys.values())
     n_unlinked = len(unlinked_tables)
@@ -1328,9 +1471,8 @@ def enrich_json_with_tables(
         instr_tables = []
         for idx in instr.get("article_indices", []):
             if idx < len(all_data_articles):
-                for t in all_data_articles[idx].get("extracted_tables", []):
-                    if t not in instr_tables:
-                        instr_tables.append(t)
+                instr_tables.extend(all_data_articles[idx].get("extracted_tables", []))
+        instr_tables = _deduplicate_tables(instr_tables)
         if instr_tables:
             instr["extracted_tables"] = instr_tables
 

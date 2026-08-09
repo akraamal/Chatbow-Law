@@ -54,6 +54,10 @@ def _normalize_article(art: dict) -> dict:
         "bo_number": art.get("bo_number", ""),
         "date_publication": art.get("date_publication", ""),
         "text": text,
+        # text_clean = texte + tableaux linéarisés (produit par
+        # enrich_json_with_pages --tables). Conservé dans l'index : le LLM
+        # voit et cite le contenu des tableaux à partir de lui.
+        "text_clean": art.get("text_clean", ""),
         # Enriched fields (may be empty)
         "instrument_type": art.get("instrument_type", ""),
         "reference": art.get("reference", ""),
@@ -95,7 +99,10 @@ def build_index(
     embedder = Embedder(model_name) if model_name else Embedder()
     texts = []
     for a in raw:
-        t = a.get("raw_text") or a.get("text", "")
+        # Embedder text_clean (texte + tableaux linéarisés) quand il existe :
+        # sinon les valeurs des tableaux (553,00 DH/TM, charges > 5 kg, ...)
+        # sont invisibles pour le retrieval sémantique.
+        t = a.get("text_clean") or a.get("raw_text") or a.get("text", "")
         texts.append(t)
     vectors = embedder.embed_passages(texts, batch_size=batch_size)
 

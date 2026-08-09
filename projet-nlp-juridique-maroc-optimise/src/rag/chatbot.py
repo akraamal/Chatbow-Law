@@ -18,8 +18,14 @@ from __future__ import annotations
 
 from pathlib import Path
 
+from src.rag.citation_verifier import parse_citations, verify_citations
 from src.rag.llm_client import LLMClient
-from src.rag.prompt_builder import MAX_CONTEXT_CHARS, build_prompt
+from src.rag.prompt_builder import (
+    UNSUPPORTED_SENTENCE_AR,
+    UNSUPPORTED_SENTENCE_FR,
+    MAX_CONTEXT_CHARS,
+    build_prompt,
+)
 from src.search_engine.search import DEFAULT_INDEX_DIR, SemanticSearchEngine
 
 DEFAULT_TOP_K = 3
@@ -140,9 +146,16 @@ class LegalRAGChatbot:
         lang: str | None = None,
     ) -> dict:
         """
-        Renvoie {"answer": str, "sources": list[dict], "query_used": str}.
-        `sources` est la liste des articles effectivement utilisés comme
-        contexte (vide si le garde-fou anti-hallucination s'est déclenché).
+        Renvoie {"answer": str, "sources": list[dict], "citations": list[dict],
+        "citation_stats": dict, "query_used": str}.
+
+        Les citations du LLM sont extraites du bloc [[CITATIONS]] et
+        VÉRIFIÉES mécaniquement contre le texte des sources récupérées
+        (src/rag/citation_verifier.py). Une citation qui ne se retrouve pas
+        mot à mot dans sa source est silencieusement supprimée — rien
+        d'invérifiable n'est jamais montré. Si le LLM a produit des
+        citations mais qu'aucune ne passe la vérification, la réponse est
+        remplacée par un refus explicite.
         """
         search_query = self._standalone_query(query, history) if history else query
 
@@ -155,11 +168,47 @@ class LegalRAGChatbot:
 
         if not results:
             no_result = NO_RESULT_MESSAGE_AR if lang == "ar" else NO_RESULT_MESSAGE
-            return {"answer": no_result, "sources": [], "query_used": search_query}
+            return {
+                "answer": no_result,
+                "sources": [],
+                "citations": [],
+                "citation_stats": {"claimed": 0, "verified": 0, "failed": 0},
+                "query_used": search_query,
+            }
 
         system_instruction, user_prompt = build_prompt(
             search_query, results, doc_unlinked=self.doc_unlinked, max_context_chars=MAX_CONTEXT_CHARS
         )
-        answer_text = self.llm.generate(system_instruction, user_prompt)
+        # Garantit l'émission d'un bloc [[CITATIONS]] vérifiable : si le
+        # modèle configuré est un "reasoning" qui n'émet jamais ce bloc
+        # (ex. qwen/qwen3.6-27b), on régénère une fois avec le modèle citant
+        # fallback — sinon le garde-fou anti-hallucination reste aveugle.
+        answer_text = self.llm.generate_with_citation_guarantee(system_instruction, user_prompt)
 
-        return {"answer": answer_text, "sources": results, "query_used": search_query}
+        # 1. Extraire le bloc de citations du texte brut du LLM
+        clean_answer, cited_spans = parse_citations(answer_text)
+
+        # 2. Vérifier mécaniquement chaque citation contre la source réelle
+        verified_citations, citation_stats = verify_citations(cited_spans, results)
+
+        # 3. Si des citations ont été réclamées mais qu'aucune ne passe la
+        #    vérification → réponse invérifiable → refus explicite. Si le
+        #    modèle n'a produit aucune citation (réponse libre), on garde la
+        #    réponse sans refus.
+        if cited_spans and not verified_citations and clean_answer.strip():
+            unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
+            return {
+                "answer": unsupported,
+                "sources": [],
+                "citations": [],
+                "citation_stats": citation_stats,
+                "query_used": search_query,
+            }
+
+        return {
+            "answer": clean_answer,
+            "sources": results,
+            "citations": verified_citations,
+            "citation_stats": citation_stats,
+            "query_used": search_query,
+        }

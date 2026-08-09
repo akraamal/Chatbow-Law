@@ -15,6 +15,9 @@
   const docTabAnalysis = document.getElementById("doc-tab-ai");
   const downloadBtn = document.getElementById("download-btn");
   const langToggle = document.getElementById("lang-toggle");
+  const newAnalysisBtn = document.getElementById("new-analysis-btn");
+  const exportBtn = document.getElementById("export-convo-btn");
+  const headerSearch = document.getElementById("header-search");
 
   let history = [];
   let lastSources = [];
@@ -263,6 +266,53 @@
       inputEl.dispatchEvent(new Event("input"));
     });
   });
+
+  function exportConversation() {
+    const parts = ["# Conversation ADLI MOROCCO", ""];
+    document.querySelectorAll("#chat-messages > .flex").forEach((wrapper) => {
+      const bubble = wrapper.querySelector(".brutal-border");
+      if (!bubble) return;
+      const role = wrapper.classList.contains("justify-end")
+        ? "**Utilisateur**"
+        : "**ADLI AI**";
+      const text = bubble.textContent.replace(/\s+/g, " ").trim();
+      if (!text) return;
+      parts.push(`${role} : ${text}`, "");
+    });
+    if (parts.length <= 2) {
+      addErrorMessage("Aucune conversation à exporter pour le moment.");
+      return;
+    }
+    const blob = new Blob([parts.join("\n")], { type: "text/markdown;charset=utf-8" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `conversation-adli-${new Date().toISOString().slice(0, 10)}.md`;
+    a.click();
+    URL.revokeObjectURL(a.href);
+  }
+
+  if (newAnalysisBtn) {
+    newAnalysisBtn.addEventListener("click", () => {
+      window.location.href = "/analyzer";
+    });
+  }
+
+  if (exportBtn) {
+    exportBtn.addEventListener("click", exportConversation);
+  }
+
+  if (headerSearch) {
+    headerSearch.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        e.preventDefault();
+        const q = headerSearch.value.trim();
+        if (!q) return;
+        headerSearch.value = "";
+        inputEl.value = q;
+        sendQuery(q);
+      }
+    });
+  }
 
   const I18N = {
     fr: {
