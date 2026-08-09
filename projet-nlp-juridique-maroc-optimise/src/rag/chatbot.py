@@ -25,7 +25,9 @@ from src.rag.prompt_builder import (
     UNSUPPORTED_SENTENCE_FR,
     MAX_CONTEXT_CHARS,
     build_prompt,
+    build_catalog_prompt,
 )
+from src.rag.query_routing import route_query
 from src.search_engine.search import DEFAULT_INDEX_DIR, SemanticSearchEngine
 
 DEFAULT_TOP_K = 3
@@ -87,6 +89,25 @@ def _load_doc_unlinked(annotated_dir: str | Path = "data/annotated") -> dict[str
     return doc_unlinked
 
 
+def _load_catalog(index_dir: str) -> list[dict] | None:
+    """
+    Charge le catalogue d'instruments (data/index/catalog.json) ; s'il
+    n'existe pas, le construit depuis data/annotated et le persiste.
+    Retourne None (et ne bloque jamais le chatbot) en cas de problème.
+    """
+    try:
+        from src.search_engine.catalog import build_catalog, load_catalog, save_catalog
+
+        catalog = load_catalog(index_dir)
+        if catalog is None:
+            catalog = build_catalog()
+            if catalog:
+                save_catalog(catalog, index_dir)
+        return catalog or None
+    except Exception:
+        return None
+
+
 class LegalRAGChatbot:
     def __init__(
         self,
@@ -101,6 +122,8 @@ class LegalRAGChatbot:
         self.top_k = top_k
         self.score_threshold = score_threshold
         self.doc_unlinked = _load_doc_unlinked()
+        self.catalog = _load_catalog(index_dir)
+        self.catalog_top_n = 8
 
     def _standalone_query(self, query: str, history: list[dict]) -> str:
         """
@@ -147,10 +170,14 @@ class LegalRAGChatbot:
     ) -> dict:
         """
         Renvoie {"answer": str, "sources": list[dict], "citations": list[dict],
-        "citation_stats": dict, "query_used": str}.
+        "citation_stats": dict, "query_used": str, "mode": "catalog"|None}.
 
-        Les citations du LLM sont extraites du bloc [[CITATIONS]] et
-        VÉRIFIÉES mécaniquement contre le texte des sources récupérées
+        Les questions agrégées (« les dahirs les plus importants », « les
+        décrets de 2024 », « combien d'articles comporte le décret n° X ? »)
+        sont aiguillées vers le catalogue d'instruments (mode "catalog") ;
+        les autres suivent la recherche sémantique classique. Dans les
+        deux cas, les citations du LLM sont extraites du bloc [[CITATIONS]]
+        et VÉRIFIÉES mécaniquement contre le texte des sources récupérées
         (src/rag/citation_verifier.py). Une citation qui ne se retrouve pas
         mot à mot dans sa source est silencieusement supprimée — rien
         d'invérifiable n'est jamais montré. Si le LLM a produit des
@@ -158,6 +185,52 @@ class LegalRAGChatbot:
         remplacée par un refus explicite.
         """
         search_query = self._standalone_query(query, history) if history else query
+
+        # Chemin « catalogue » : questions agrégées / par référence
+        # (« les dahirs les plus importants », « les décrets de 2024 »,
+        # « combien d'articles comporte le décret n° 2-25-1080 ? »).
+        # Se replie silencieusement sur le chemin sémantique si le catalogue
+        # n'est pas disponible ou ne donne rien.
+        route = route_query(search_query, lang)
+        catalog_hits = None
+        if route.get("catalog") and self.catalog:
+            from src.search_engine.catalog import search_catalog
+
+            catalog_hits = search_catalog(
+                self.catalog,
+                search_query,
+                type_filter=route.get("type") or None,
+                year=route.get("year") or None,
+                lang=lang,
+                top_n=self.catalog_top_n,
+            )
+
+        if catalog_hits:
+            system_instruction, user_prompt = build_catalog_prompt(search_query, catalog_hits)
+            answer_text = self.llm.generate_with_citation_guarantee(system_instruction, user_prompt)
+
+            clean_answer, cited_spans = parse_citations(answer_text)
+            verified_citations, citation_stats = verify_citations(cited_spans, catalog_hits)
+
+            if cited_spans and not verified_citations and clean_answer.strip():
+                unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
+                return {
+                    "answer": unsupported,
+                    "sources": [],
+                    "citations": [],
+                    "citation_stats": citation_stats,
+                    "query_used": search_query,
+                    "mode": "catalog",
+                }
+
+            return {
+                "answer": clean_answer,
+                "sources": catalog_hits,
+                "citations": verified_citations,
+                "citation_stats": citation_stats,
+                "query_used": search_query,
+                "mode": "catalog",
+            }
 
         results = self.search_engine.search(search_query, top_k=top_k or self.top_k, lang=lang)
 

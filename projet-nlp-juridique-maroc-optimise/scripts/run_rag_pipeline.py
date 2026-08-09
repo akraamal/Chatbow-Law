@@ -111,6 +111,16 @@ def build_index():
     if n_ul:
         print(f"  {n_ul} unlinked tables loaded from {len(doc_unlinked)} document(s)")
 
+    from src.search_engine.catalog import build_catalog, save_catalog
+
+    print("Building instrument catalog ...")
+    catalog = build_catalog(str(ANNOTATED_DIR))
+    if catalog:
+        save_catalog(catalog, str(index_dir))
+        print(f"  {len(catalog)} instruments saved to {index_dir}/catalog.json")
+    else:
+        print("  (no instruments found — catalog skipped)")
+
 
 def run_query(query: str, top_k: int = 5, lang: str | None = None):
     """Run a single query against the RAG pipeline."""
@@ -122,8 +132,12 @@ def run_query(query: str, top_k: int = 5, lang: str | None = None):
     print(f"\nAnswer:\n{result['answer']}")
     print(f"\nSources ({len(result['sources'])}):")
     for src in result["sources"]:
-        print(f"  [{src['doc_id']}] Art. {src.get('article_number','?')} "
-              f"(score={src['score']:.2f}, page={src.get('pdf_page','?')})")
+        if src.get("instrument_id"):
+            print(f"  [{src['doc_id']}] {src.get('type','?')} n°{src.get('reference','?')} "
+                  f"({src.get('n_articles','?')} articles, importance={src.get('importance','?')})")
+        else:
+            print(f"  [{src['doc_id']}] Art. {src.get('article_number','?')} "
+                  f"(score={src['score']:.2f}, page={src.get('pdf_page','?')})")
     if result.get("sources") and result.get("query_used") != query:
         print(f"\n(reformulé depuis : {result['query_used']})")
 

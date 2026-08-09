@@ -83,16 +83,23 @@
     const textDir = isArabic ? ' dir="rtl"' : "";
     const textClass = isArabic ? "font-arabic-body text-right" : "font-body-md";
     const snippet = (source.text || "").slice(0, 220);
+    const isInstrument = !!source.instrument_id;
+    const badge = isInstrument
+      ? `INSTRUMENT JURIDIQUE — Source ${index}`
+      : `EXTRAIT LÉGAL — Source ${index}`;
+    const meta = isInstrument
+      ? `BO n°${escapeHtml(String(bo))} — ${escapeHtml(String(source.type || "Instrument"))}${source.reference ? ` n°${escapeHtml(String(source.reference))}` : ""} · ${escapeHtml(String(source.n_articles || "?"))} article(s) · importance ${escapeHtml(String(source.importance ?? 0))}/100`
+      : `BO n°${escapeHtml(String(bo))} — article ${escapeHtml(String(source.article_number || "?"))} · pertinence ${(source.score || 0).toFixed(2)}`;
     return `
       <div class="bg-white border border-primary p-3 mb-3" data-source-card="${index}">
         <div class="flex justify-between items-start mb-2">
           <span class="text-[10px] font-bold text-primary bg-primary-fixed px-2 py-0.5">
-            EXTRAIT LÉGAL — Source ${index}
+            ${badge}
           </span>
           <span class="material-symbols-outlined text-primary text-sm cursor-pointer copy-source" data-copy-index="${index}">content_copy</span>
         </div>
         <p class="${textClass} mb-1"${textDir}>${escapeHtml(snippet)}${source.text && source.text.length > 220 ? "…" : ""}</p>
-        <p class="text-[10px] text-outline">BO n°${escapeHtml(String(bo))} — article ${escapeHtml(String(source.article_number || "?"))} · pertinence ${(source.score || 0).toFixed(2)}</p>
+        <p class="text-[10px] text-outline">${meta}</p>
       </div>`;
   }
 
