@@ -18,10 +18,15 @@
   const newAnalysisBtn = document.getElementById("new-analysis-btn");
   const exportBtn = document.getElementById("export-convo-btn");
   const headerSearch = document.getElementById("header-search");
+  const attachBtn = document.getElementById("attach-file-btn");
+  const attachInput = document.getElementById("attach-file");
 
   let history = [];
   let lastSources = [];
   let currentDocView = "original"; // "original" | "analysis"
+  let attachFile = null;      // PDF sélectionné sur le disque (téléchargement)
+  let attachTask = null;      // task_id en cours d'analyse
+  let docResult = null;       // résultat JSON du document attaché
 
   function scrollToBottom() {
     messagesEl.scrollTop = messagesEl.scrollHeight;
@@ -141,6 +146,10 @@
 
   function updateAnalysisPanel(sources) {
     lastSources = sources || [];
+    if (docResult) {
+      renderDocPanel();
+      return;
+    }
     if (!lastSources.length) return;
 
     downloadBtn.disabled = false;
@@ -151,6 +160,10 @@
   }
 
   function renderDocPanel() {
+    if (docResult) {
+      renderAttachedDocPanel();
+      return;
+    }
     if (!lastSources.length) {
       docPreviewEl.innerHTML = `
         <p class="text-xs text-outline text-center mt-12">
@@ -203,23 +216,32 @@
   });
 
   async function sendQuery(query) {
+    if (attachTask) {
+      inputEl.value = "";
+      addErrorMessage("Attends la fin de l'analyse du document en cours avant de poser une question.");
+      return;
+    }
     addUserMessage(query);
     inputEl.value = "";
     inputEl.style.height = "auto";
     addTypingIndicator();
 
-    if (history.length === 0) {
+    if (docResult && history.length === 0) {
+      subjectEl.textContent = `Document : ${attachFile ? attachFile.name : "document analysé"}`;
+    } else if (!docResult && history.length === 0) {
       subjectEl.textContent = `Sujet : ${query.slice(0, 70)}${query.length > 70 ? "…" : ""}`;
     }
 
     let data;
     try {
-      const response = await fetch("/api/chat", {
+      const response = await fetch(docResult ? "/chat" : "/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         // Historique plafonné aux 8 derniers tours (coût de la reformulation
         // et surface d'injection) ; lang transmet le toggle FR/AR réellement.
-        body: JSON.stringify({ query, history: history.slice(-8), lang: uiLang }),
+        body: JSON.stringify(docResult
+          ? { question: query, doc_id: docResult.doc_id }
+          : { query, history: history.slice(-8), lang: uiLang }),
       });
       data = await response.json();
       if (!response.ok) {
@@ -311,6 +333,145 @@
         inputEl.value = q;
         sendQuery(q);
       }
+    });
+  }
+
+  // ── Pièce jointe : analyse d'un PDF du Bulletin Officiel ─────────────
+
+  function renderAttachedDocPanel() {
+    const d = docResult;
+    const allArts = (d.instruments || []).flatMap(i => i.articles || []);
+    const artsHtml = allArts.slice(0, 3).map((a) => `
+      <div class="mb-3">
+        <p class="text-[10px] font-bold text-primary mb-1">Article ${escapeHtml(a.number || "?")}</p>
+        <p class="font-body-md text-xs whitespace-pre-wrap">${escapeHtml((a.text || "").slice(0, 220))}${(a.text || "").length > 220 ? "…" : ""}</p>
+      </div>`).join("");
+    docPreviewEl.innerHTML = `
+      <div class="border-b-2 border-primary/30 pb-4 mb-4 text-center">
+        <h4 class="font-arabic-body text-lg font-bold" dir="rtl">الجريدة الرسمية</h4>
+        <p class="text-[8px] uppercase tracking-widest mt-1">ROYAUME DU MAROC — BO n°${escapeHtml(String(d.bo_number || "?"))} · ${escapeHtml(d.date_publication || "")}</p>
+      </div>
+      <div class="flex gap-2 mb-4">
+        <span class="text-[10px] font-bold text-primary bg-primary-fixed px-2 py-1">${d.n_instruments} instruments</span>
+        <span class="text-[10px] font-bold text-primary bg-primary-fixed px-2 py-1">${d.n_articles} articles</span>
+      </div>
+      <p class="text-[9px] text-outline uppercase tracking-widest mb-2">Extraits</p>
+      ${artsHtml}`;
+  }
+
+  attachBtn.addEventListener("click", () => {
+    attachInput.click();
+  });
+
+  attachInput.addEventListener("change", () => {
+    const file = attachInput.files[0];
+    attachInput.value = "";
+    if (!file) return;
+    if (file.size > 50 * 1024 * 1024) {
+      addErrorMessage("Le fichier dépasse la limite de 50 Mo.");
+      return;
+    }
+    attachDocument(file);
+  });
+
+  function setDocStatus(text) {
+    const el = document.getElementById("doc-status");
+    if (el) el.querySelector("p").textContent = text;
+  }
+
+  function addDocStatus(text) {
+    const wrapper = document.createElement("div");
+    wrapper.className = "flex justify-start";
+    wrapper.id = "doc-status";
+    wrapper.innerHTML = `
+      <div class="max-w-[85%] brutal-border bg-white p-4 relative">
+        <p class="font-body-md text-on-surface-variant">${escapeHtml(text)}</p>
+      </div>`;
+    messagesEl.appendChild(wrapper);
+    scrollToBottom();
+  }
+
+  async function attachDocument(file) {
+    if (attachTask || docResult) {
+      addErrorMessage("Un document est déjà en cours d'analyse. Clique sur « Nouvelle analyse » pour en joindre un autre.");
+      return;
+    }
+    if (!/\.pdf$/i.test(file.name)) {
+      addErrorMessage("Seuls les fichiers PDF du Bulletin Officiel sont acceptés.");
+      return;
+    }
+    attachFile = file;
+    attachTask = "pending";
+    addUserMessage(`📎 ${file.name}`);
+    addTypingIndicator();
+
+    const form = new FormData();
+    form.append("file", file);
+    try {
+      const resp = await fetch("/upload", { method: "POST", body: form });
+      const data = await resp.json();
+      if (!resp.ok || data.error) {
+        throw new Error(data.error || "Échec de l'envoi du fichier.");
+      }
+      removeTypingIndicator();
+      addDocStatus(`⏳ Analyse de « ${file.name} » en cours…`);
+      attachTask = data.task_id;
+      watchTaskProgress(data.task_id, file);
+    } catch (err) {
+      removeTypingIndicator();
+      addErrorMessage(`Impossible de lancer l'analyse : ${err.message || err}`);
+      attachFile = null;
+      attachTask = null;
+    }
+  }
+
+  function watchTaskProgress(tid, file) {
+    const es = new EventSource(`/stream/${tid}`);
+
+    es.onmessage = (e) => {
+      setDocStatus(`⏳ Analyse de « ${file.name} » en cours… ${e.data}`);
+    };
+
+    es.addEventListener("done", async () => {
+      es.close();
+      try {
+        const resp = await fetch(`/result/${tid}`);
+        const data = await resp.json();
+        if (!resp.ok || data.error) {
+          setDocStatus(`❌ ${data.error || "Analyse échouée."}`);
+          attachFile = null;
+          attachTask = null;
+          return;
+        }
+        docResult = data;
+        attachTask = null;
+        setDocStatus(`✅ « ${file.name} » analysé${data.bo_number ? ` — BO n° ${data.bo_number}` : ""}. Pose une question sur ce document.`);
+        subjectEl.textContent = `Document : ${file.name}`;
+        downloadBtn.disabled = false;
+        downloadBtn.onclick = () => {
+          const a = document.createElement("a");
+          a.href = URL.createObjectURL(file);
+          a.download = file.name || "document.pdf";
+          a.click();
+          URL.revokeObjectURL(a.href);
+        };
+        renderDocPanel();
+      } catch (err) {
+        setDocStatus("❌ Erreur lors de la récupération des résultats.");
+        attachFile = null;
+        attachTask = null;
+      }
+    });
+
+    es.addEventListener("error", (e) => {
+      es.close();
+      if (e.data) {
+        setDocStatus(`❌ ${e.data}`);
+      } else {
+        setDocStatus("❌ Connexion au pipeline perdue.");
+      }
+      attachFile = null;
+      attachTask = null;
     });
   }
 

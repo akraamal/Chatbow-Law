@@ -171,9 +171,10 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
 <form id="chat-form" class="accent-border flex items-center bg-white p-1">
 <textarea id="chat-input" data-i18n="placeholder" class="flex-1 border-none focus:ring-0 resize-none py-3 px-4 font-body-md min-h-[50px]" placeholder="Posez votre question juridique..." rows="1"></textarea>
 <div class="flex gap-2 px-2">
-<button type="button" class="w-10 h-10 flex items-center justify-center text-primary hover:bg-surface-container transition-colors quick-chip-disabled" title="Pièce jointe (non disponible)" disabled>
+<button type="button" id="attach-file-btn" class="w-10 h-10 flex items-center justify-center text-primary hover:bg-surface-container transition-colors" title="Joindre un PDF du Bulletin Officiel">
 <span class="material-symbols-outlined">attach_file</span>
 </button>
+<input type="file" id="attach-file" accept="application/pdf,.pdf" class="hidden">
 <button type="submit" class="w-10 h-10 bg-primary text-white flex items-center justify-center hover:bg-primary-container transition-colors">
 <span class="material-symbols-outlined">send</span>
 </button>
@@ -226,5 +227,5 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
 </div>
 </footer>
 
-<script src="{{ url_for('static', filename='js/chat.js') }}?v=3"></script>
+<script src="{{ url_for('static', filename='js/chat.js') }}?v=4"></script>
 </body></html>
