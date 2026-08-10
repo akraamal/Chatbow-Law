@@ -438,6 +438,48 @@ def _search_articles(data: dict, query: str) -> list:
     return results[:5]
 
 
+def _western_digits(s: str) -> str:
+    """Convertit les chiffres arabes ٠-٩ en chiffres occidentaux."""
+    return str(s).translate(str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789"))
+
+
+def _digits_only(s: str) -> str:
+    return "".join(c for c in _western_digits(s) if c.isdigit())
+
+
+def _canonical_instrument_type(i_type: str) -> str:
+    """Normalise un type d'instrument (« Décret »/« décret »/« decret »)
+    vers son nom canonique pour la comparaison avec le routage."""
+    if not i_type:
+        return ""
+    import unicodedata
+    n = "".join(
+        c for c in unicodedata.normalize("NFD", i_type.lower())
+        if unicodedata.category(c) != "Mn"
+    )
+    return {
+        "dahir": "Dahir", "loi": "Loi", "decret": "Décret",
+        "arrete": "Arrêté", "decision": "Décision", "avis": "Avis",
+        "instruction": "Instruction", "ordonnance": "Ordonnance",
+    }.get(n, n.title())
+
+
+def _find_instrument_by_reference(data: dict, query: str) -> dict | None:
+    """Retrouve l'instrument dont la référence figure dans la question
+    (« décret n° 2-25-1080 », « المرسوم رقم 2.24.874 »)."""
+    import re
+    m = re.search(r"(?:n\s*[°o]?\s*|رقم\s*)([\d٠-٩]+(?:[-.][\d٠-٩]+)+)", query)
+    if not m:
+        return None
+    want = _digits_only(m.group(1))
+    if len(want) < 3:
+        return None
+    for instr in data.get("instruments", []):
+        if want == _digits_only(instr.get("reference", "")):
+            return instr
+    return None
+
+
 def _chat_answer(data: dict, question: str) -> str:
     q = question.lower().strip()
 
@@ -447,12 +489,16 @@ def _chat_answer(data: dict, question: str) -> str:
     date_pub = data.get("date_publication", "?")
 
     # ── Count questions ──
-    if any(w in q for w in ["combien", "nombre", "how many", "count"]):
-        if "article" in q or "section" in q:
-            return f"Ce document contient **{n_arts} articles** au total."
+    if any(w in q for w in ["combien", "nombre", "how many", "count", "عدد"]):
         if "instrument" in q or "décret" in q or "dahir" in q or "loi" in q or "arrêté" in q:
+            exact = _find_instrument_by_reference(data, q)
+            if exact:
+                return (f"L'instrument **{exact.get('instrument_type','?')} "
+                        f"{exact.get('reference','')}** contient **{exact.get('n_articles','?')} articles**.")
             return f"Ce document contient **{n_instrs} instruments** : " + \
                    ", ".join(f"{i.get('instrument_type','?')} {i.get('reference','')}" for i in data.get("instruments", []))
+        if "article" in q or "section" in q:
+            return f"Ce document contient **{n_arts} articles** au total."
         if "entité" in q or "entite" in q or "entity" in q:
             counts = {}
             for a in data.get("articles", []):
@@ -468,15 +514,67 @@ def _chat_answer(data: dict, question: str) -> str:
     if any(w in q for w in ["date", "publication"]):
         return f"Date de publication : **{date_pub}**."
 
-    # ── List instruments ──
-    if any(w in q for w in ["liste", "list", "quels sont", "instruments"]):
+    # ── Instrument précis par référence (« décret n° 2-25-1080 ») ──
+    exact = _find_instrument_by_reference(data, q)
+    if exact:
+        art_idxs = exact.get("article_indices", [])
+        previews = []
+        for i in art_idxs[:3]:
+            if isinstance(i, int) and i < len(data.get("articles", [])):
+                a = data["articles"][i]
+                txt = (a.get("text") or "").strip()[:220]
+                previews.append(f"**Article {a.get('number','?')}** — {txt}…")
+        head = (f"**{exact.get('instrument_type','?')} {exact.get('reference','')}** — "
+                f"**{exact.get('n_articles','?')} articles**, BO n°{bo}.")
+        return head + ("\n\n" + "\n\n".join(previews) if previews else "")
+
+    # ── Liste des instruments (générale ou par type, ordonnée par importance) ──
+    try:
+        from src.rag.query_routing import route_query
+        wanted_type = route_query(question).get("type")
+    except Exception:
+        wanted_type = None
+    asks_list = any(w in q for w in ["liste", "list", "quels sont", "quelles sont",
+                                     "lister", "énumérer", "enumere", "recense"])
+    importance_signals = ("plus importants", "plus importantes", "importants",
+                          "importantes", "majeurs", "majeures", "principaux",
+                          "principales", "récents", "récentes", "important",
+                          "importante", "tous les", "toutes les")
+    if asks_list or (wanted_type and any(s in q for s in importance_signals)):
+        matched = data.get("instruments", [])
+        if wanted_type:
+            matched = [i for i in matched
+                       if _canonical_instrument_type(i.get("instrument_type")) == wanted_type]
+        if not matched:
+            return f"Aucun instrument de type « {wanted_type or '?'} » trouvé dans ce document."
+        matched = sorted(matched, key=lambda i: -(i.get("n_articles") or 0))
         lines = []
-        for i, instr in enumerate(data.get("instruments", []), 1):
+        for i, instr in enumerate(matched[:8], 1):
             ref = instr.get("reference", "")
             typ = instr.get("instrument_type", "?")
             na = instr.get("n_articles", 0)
             lines.append(f"**{i}.** {typ} {ref} — {na} articles")
-        return "\n".join(lines) if lines else "Aucun instrument détecté."
+        if len(matched) > 8:
+            lines.append(f"… et {len(matched) - 8} autre(s) instrument(s).")
+        title = f"Instruments « {wanted_type or 'tous types'} » triés par importance (nombre d'articles) :"
+        return title + "\n\n" + "\n".join(lines)
+
+    # ── Domaine principal du document ──
+    if any(w in q for w in ["domaine", "sujet principal", "principalement",
+                            "thème", "thèmes", "themes", "matière traité"]):
+        try:
+            from src.classification.keyword_classifier import classify_text_with_scores
+            text = " ".join((a.get("text") or "") for a in data.get("articles", []))[:80000]
+            if len(text.strip()) < 50:
+                return "Texte insuffisant pour classifier le domaine de ce document."
+            scores = classify_text_with_scores(text, lang=data.get("lang", "fr")) or {}
+            top = sorted(scores.items(), key=lambda kv: -kv[1])[:3]
+            if not top or top[0][1] <= 0:
+                return "Aucun domaine dominant détecté dans ce document."
+            lines = [f"**{d}** : {c} occurrence(s)" for d, c in top]
+            return f"Domaine(s) principal(aux) de ce document :\n\n" + "\n".join(lines)
+        except Exception:
+            pass
 
     # ── Show article ──
     import re
@@ -498,8 +596,10 @@ def _chat_answer(data: dict, question: str) -> str:
             return f"Résultats pour « {question} » :\n\n" + "\n".join(lines)
 
     return f"Je n'ai pas trouvé de réponse à « {question} ».\n\n" \
-           "Essayez :\n- « Combien d'articles ? »\n- « Liste des instruments »\n" \
-           "- « Article 5 »\n- « Recherche [mot-clé] »\n- « BO numéro ? »"
+           "Essayez :\n- « Combien d'articles ? »\n- « Liste des décrets »\n" \
+           "- « Les lois les plus importantes »\n- « Quel est le domaine principal ? »\n" \
+           "- « Article 5 »\n- « Recherche [mot-clé] »\n- « décret n° 2-25-1080 »\n" \
+           "- « BO numéro ? »"
 
 
 @analyzer_bp.route("/chat", methods=["POST"])
