@@ -21,6 +21,8 @@ from pathlib import Path
 from src.rag.citation_verifier import parse_citations, verify_citations
 from src.rag.llm_client import LLMClient
 from src.rag.prompt_builder import (
+    REFUSAL_SENTENCE_AR,
+    REFUSAL_SENTENCE_FR,
     UNSUPPORTED_SENTENCE_AR,
     UNSUPPORTED_SENTENCE_FR,
     MAX_CONTEXT_CHARS,
@@ -33,21 +35,25 @@ from src.search_engine.search import DEFAULT_INDEX_DIR, SemanticSearchEngine
 DEFAULT_TOP_K = 3
 
 # Seuil de similarité cosinus (embeddings E5 normalisés, cf. embedder.py) en
-# dessous duquel on considère qu'aucun résultat n'est assez pertinent pour
-# servir de base à une réponse.
+# dessous duquel on considère qu'un résultat est trop éloigné pour figurer
+# dans le contexte du prompt (filtre de QUALITÉ du contexte, pas garde-fou
+# anti-hallucination).
 #
-# Calibré empiriquement le 2026-08-03 sur 24 requêtes (12 pertinentes déjà
-# couvertes par le corpus + 12 hors-sujet, en fr et ar) avec l'index
-# data/index/ (1161 docs, intfloat/multilingual-e5-base) :
+# Historique de la calibration (2026-08-03, 24 requêtes labelisées, index
+# 1161 docs, intfloat/multilingual-e5-base) :
 #   - scores top-1 des requêtes pertinentes : min 0.819 / médiane 0.833 / max 0.844
 #   - scores top-1 des requêtes hors-sujet  : min 0.777 / médiane 0.801 / max 0.818
-#   - seuil 0.80  → recall 12/12, fp 6/12 (F1 0.800) — garde-fou presque inerte
-#   - seuil 0.82  → recall 11/12, fp 0/12   (F1 0.957) — meilleur compromis
-# Les scores saturant ~0.80 même pour du hors-sujet (documents juridiques très
-# homogènes), un seuil strictement supérieur à 0.818 est nécessaire ; 0.82
-# bloque tout le hors-sujet testé tout en ne perdant qu'un seul résultat
-# pertinent réel (score 0.819, très proche de la limite).
-DEFAULT_SCORE_THRESHOLD = 0.82
+#   - seuil 0.82  → recall 11/12, fp 0/12 (F1 0.957) MAIS bloc dés aussi la
+#     plupart des questions réelles (scores saturant 0.78-0.82 sur un corpus
+#     juridique homogène, même pour des questions pertinentes).
+#
+# Politique actuelle : le garde-fou anti-hallucination est le VÉRIFICATEUR
+# DE CITATIONS (a) sortie) — une réponse sans citation vérifiée mécaniquement
+# est refusée (voir answer()). Le seuil n'est donc plus qu'un filtre de bruit
+# de contexte : 0.75 coupe les chunks manifestement hors-sujet tout en
+# laissant passer les questions réelles (recall élevé), le refus explicite
+# en aval gardant le contrôle du risque.
+DEFAULT_SCORE_THRESHOLD = 0.75
 
 NO_RESULT_MESSAGE = (
     "Je n'ai pas trouvé d'information suffisamment pertinente dans le corpus "
@@ -264,19 +270,23 @@ class LegalRAGChatbot:
         # 2. Vérifier mécaniquement chaque citation contre la source réelle
         verified_citations, citation_stats = verify_citations(cited_spans, results)
 
-        # 3. Si des citations ont été réclamées mais qu'aucune ne passe la
-        #    vérification → réponse invérifiable → refus explicite. Si le
-        #    modèle n'a produit aucune citation (réponse libre), on garde la
-        #    réponse sans refus.
-        if cited_spans and not verified_citations and clean_answer.strip():
-            unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
-            return {
-                "answer": unsupported,
-                "sources": [],
-                "citations": [],
-                "citation_stats": citation_stats,
-                "query_used": search_query,
-            }
+        # 3. Garde-fou anti-hallucination « verrou à la sortie » : avec un
+        #    seuil de retrieval bas (DEFAULT_SCORE_THRESHOLD = 0.75), la
+        #    réponse n'est conservée QUE si elle est adossée à au moins une
+        #    citation VÉRIFIÉE mécaniquement. Une réponse de fond sans aucune
+        #    citation vérifiée est remplacée par un refus explicite — sauf si
+        #    le LLM a lui-même refusé avec la phrase canonique (déjà sûre).
+        if clean_answer.strip() and not verified_citations:
+            refusal = REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR
+            if refusal not in clean_answer:
+                unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
+                return {
+                    "answer": unsupported,
+                    "sources": [],
+                    "citations": [],
+                    "citation_stats": citation_stats,
+                    "query_used": search_query,
+                }
 
         return {
             "answer": clean_answer,
