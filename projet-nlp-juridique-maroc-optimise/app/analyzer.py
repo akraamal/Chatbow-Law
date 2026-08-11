@@ -327,12 +327,37 @@ def result(task_id: str):
     return flask.jsonify(build_response(data))
 
 
+def _count_entities(data: dict) -> dict:
+    """Compte les entités du document : articles + préambule du document +
+    préambules par décret (titres d'instruments).
+
+    Sans les préambules par décret, les dahirs de promulgation (dont le
+    numéro ne figure QUE dans leur titre, jamais dans le corps d'un
+    article) restaient invisibles au comptage : BO_6758 affichait
+    « DAHIR : 9 » alors que le document contient 21 vrais dahirs.
+    """
+    counts: dict[str, int] = {}
+
+    def _add(ents) -> None:
+        for e in ents:
+            lbl = e.get("label", "")
+            if lbl:
+                counts[lbl] = counts.get(lbl, 0) + 1
+
+    for a in data.get("articles", []):
+        _add(a.get("entities", []))
+    _add(data.get("preamble_entities", []))
+    for dec in data.get("decrees", []):
+        _add(dec.get("entities", []))
+
+    return counts
+
+
 def build_response(data: dict) -> dict:
     """Build a simplified JSON response for the frontend."""
     articles = data.get("articles", [])
     instruments = data.get("instruments", [])
     preamble_entities = data.get("preamble_entities", [])
-
     articles_out = []
     for a in articles:
         entities = a.get("entities", [])
@@ -381,14 +406,7 @@ def build_response(data: dict) -> dict:
             ],
         })
 
-    entity_counts = {}
-    for a in articles:
-        for e in a.get("entities", []):
-            lbl = e.get("label", "")
-            entity_counts[lbl] = entity_counts.get(lbl, 0) + 1
-    for e in preamble_entities:
-        lbl = e.get("label", "")
-        entity_counts[lbl] = entity_counts.get(lbl, 0) + 1
+    entity_counts = _count_entities(data)
 
     preamble_text = data.get("preamble_text", "")
     preamble_out = [
@@ -500,11 +518,7 @@ def _chat_answer(data: dict, question: str) -> str:
         if "article" in q or "section" in q:
             return f"Ce document contient **{n_arts} articles** au total."
         if "entité" in q or "entite" in q or "entity" in q:
-            counts = {}
-            for a in data.get("articles", []):
-                for e in a.get("entities", []):
-                    lbl = e.get("label", "")
-                    counts[lbl] = counts.get(lbl, 0) + 1
+            counts = _count_entities(data)
             parts = [f"{lbl} : {c}" for lbl, c in sorted(counts.items(), key=lambda x: -x[1])]
             return f"Répartition des entités :\n" + "\n".join(parts)
 

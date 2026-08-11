@@ -433,24 +433,69 @@ SECTION_MARKERS = {
 }
 
 
-def _skip_sommaire(text: str, lang: str = "fr") -> int:
+def _skip_sommaire(text: str, lang: str = "fr", limit: int | None = None) -> int:
     """Find the position where actual legal text starts, after the sommaire.
 
     Strategy: locate the sommaire heading (``SOMMAIRE`` / ``فهرست``), then
-    find the *first* occurrence of a section marker (``TEXTES GÉNÉRAUX`` /
-    ``TEXTES GENERAUX`` / ``TEXTES PARTICULIERS`` / ``نصوص عامة`` /
-    ``نصوص خاصة``) that appears **after** the sommaire content
-    (500+ chars from the sommaire line).  This avoids matching the
-    marker inside the table-of-contents list.
+    find a section marker (``TEXTES GÉNÉRAUX`` / ``TEXTES GENERAUX`` /
+    ``TEXTES PARTICULIERS`` / ``نصوص عامة`` / ``نصوص خاصة``) that appears
+    **after** the sommaire content (500+ chars from the sommaire line).
+    This avoids matching the marker inside the table-of-contents list.
+
+    Un sommaire multi-pages (OCR 2 colonnes) contient souvent SES PROPRES
+    en-têtes de section dans sa liste (« TEXTES PARTICULIERS » dans la
+    table des matières, BO_6758) : le premier marqueur après
+    ``sommaire_pos + 500`` peut donc tomber DANS le sommaire.  Règle
+    retenue :
+
+      * on préfère les marqueurs de type « GÉNÉRAUX » (« TEXTES G… »,
+        « نصوص عامة ») — le corps des BO s'ouvre presque toujours par la
+        rubrique générale ; les entrées du sommaire qui sont de type
+        « PARTICULIERS » arrivent généralement en fin de table des
+        matières (après le garde-fou des 500 caractères) ;
+      * parmi les marqueurs du type préféré, on retient le DERNIER avant
+        *limit* (typiquement le premier marqueur d'article) : en
+        français, si le corps réel démarre par « TEXTES GÉNÉRAUX » mais
+        que la liste du sommaire contient aussi « TEXTES GENERAUX »,
+        c'est le marqueur le plus proche du premier article qui est le
+        bon ;
+      * en repli (aucun marqueur « GÉNÉRAUX »), dernier marqueur de
+        n'importe quel type avant *limit*.
+
+    Les marqueurs tronqués par l'extraction PDF (« TEXTES Gl » au lieu de
+    « TEXTES GÉNÉRAUX ») sont acceptés tant que la ligne reste courte
+    (≤ 30 caractères, ce qui exclut les entrées du sommaire fusionnées
+    avec du texte).
     """
     sommaire_marker = SOMMAIRE_MARKERS.get(lang, SOMMAIRE_MARKERS["fr"])
     sommaire_pos = text.find(sommaire_marker)
     if sommaire_pos == -1:
         return 0
     search_from = sommaire_pos + 500
+    if limit is None:
+        limit = len(text)
+
+    if lang == "ar":
+        general_re = re.compile(r"^[ \t]*نصوص\s+عامة[^\n]*", re.MULTILINE)
+        any_re = re.compile(r"^[ \t]*نصوص\s+(?:عامة|خاصة)[^\n]*", re.MULTILINE)
+    else:
+        general_re = re.compile(r"^[ \t]*TEXTES[ \t]+G[^\n]*", re.MULTILINE)
+        any_re = re.compile(r"^[ \t]*TEXTES[ \t]+[GP][^\n]*", re.MULTILINE)
+
+    def _candidates(pattern):
+        return [
+            m for m in pattern.finditer(text, search_from, limit)
+            if len(m.group().strip()) <= 30
+        ]
+
+    candidates = _candidates(general_re) or _candidates(any_re)
+    if candidates:
+        return candidates[-1].end()
+
+    # Repli rétrocompatible : marqueurs exacts.
     for marker in SECTION_MARKERS.get(lang, SECTION_MARKERS["fr"]):
         pos = text.find(marker, search_from)
-        if pos != -1:
+        if pos != -1 and pos < limit:
             return pos + len(marker)
     return 0
 
@@ -677,7 +722,7 @@ def get_preamble(text: str, lang: str = "fr") -> str:
     """
     matches = _filter_article_matches(text, lang)
     if matches:
-        start = _skip_sommaire(text, lang)
+        start = _skip_sommaire(text, lang, limit=matches[0].start())
         first_art = matches[0].start()
         if first_art > start:
             return text[start:first_art].strip()
@@ -698,7 +743,9 @@ def get_sommaire(text: str, lang: str = "fr") -> str:
     sommaire_pos = text.find(sommaire_marker)
     if sommaire_pos == -1:
         return ""
-    end = _skip_sommaire(text, lang)
+    matches = _filter_article_matches(text, lang)
+    limit = matches[0].start() if matches else None
+    end = _skip_sommaire(text, lang, limit=limit)
     if end <= sommaire_pos:
         return ""
     # _skip_sommaire renvoie la position APRÈS le premier marqueur de
@@ -708,6 +755,13 @@ def get_sommaire(text: str, lang: str = "fr") -> str:
         if text[end - len(marker):end] == marker:
             end -= len(marker)
             break
+    else:
+        # Marqueur tronqué par l'extraction PDF (« TEXTES Gl ») : on le
+        # retire aussi du sommaire s'il se termine exactement à `end`.
+        m = re.search(r"(?:TEXTES[ \t]+[GP][^\n]*|\u0646\u0635\u0648\u0635\s+(?:\u0639\u0627\u0645\u0629|\u062e\u0627\u0635\u0629))$",
+                      text[max(0, end - 40):end])
+        if m:
+            end -= m.end()
     return text[sommaire_pos:end].strip()
 
 
@@ -751,7 +805,7 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
             if lang == "ar" or _is_doc_title_match(region, m, lang)
         ]
 
-    sommaire_end = _skip_sommaire(text, lang)
+    sommaire_end = _skip_sommaire(text, lang, limit=matches[0].start())
     decrees = []
 
     for i, m in enumerate(matches):
@@ -801,7 +855,16 @@ def get_per_decree_preamble_map(text: str, lang: str = "fr") -> list[dict]:
     if matches:
         last_art_end = matches[-1].end()
         remaining = text[last_art_end:]
-        remaining_titles = _title_matches(remaining)
+        # Titres après le dernier article (décisions courtes, avis, annexes) :
+        # on exige une majuscule initiale en français.  Les citations
+        # bibliographiques en minuscule (« dahir n° 1-16-115 … portant
+        # promulgation de la loi n° 01-16 », note de bas de page de l'Avis du
+        # CESE, BO_6758) ne doivent PAS créer d'instrument fantôme
+        # (n_articles = 0) en fin de document.
+        remaining_titles = [
+            dm for dm in _title_matches(remaining)
+            if lang == "ar" or dm.group().strip()[:1].isupper()
+        ]
         for ti, dm in enumerate(remaining_titles):
             dm_start = last_art_end + dm.start()
             if ti + 1 < len(remaining_titles):

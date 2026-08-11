@@ -29,7 +29,12 @@ def test_ar_sommaire_extracted():
     """Le sommaire arabe (« فهرست ») est détecté et restitue les entrées
     de la table des matières ; le contenu réel ne commence pas dedans."""
     from ingestion.pipeline import run_ingestion_pipeline
-    from preprocessing.segmenter import _skip_sommaire, get_preamble, get_sommaire
+    from preprocessing.segmenter import (
+        _filter_article_matches,
+        _skip_sommaire,
+        get_preamble,
+        get_sommaire,
+    )
 
     result = run_ingestion_pipeline(str(AR_PDF))
     text = result.text_ar
@@ -52,7 +57,12 @@ def test_ar_sommaire_extracted():
     assert "فهرست" not in preamble[:200], \
         "le préambule ne doit pas contenir la table des matières"
 
-    skip = _skip_sommaire(text, lang="ar")
+    article_matches = _filter_article_matches(text, lang="ar")
+    skip = _skip_sommaire(
+        text,
+        lang="ar",
+        limit=article_matches[0].start() if article_matches else None,
+    )
     assert skip > 0, "aucun marqueur de section trouvé après le sommaire"
     assert "نصوص عامة" in text[skip - 15:skip + 15], \
         "le contenu réel doit s'ouvrir sur un marqueur de section arabe"

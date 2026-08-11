@@ -1,432 +1,38 @@
 # Bulletin Officiel 6758
 **Source :** `data\processed\fr\BO_6758_Fr.txt`
 **Langue :** fr
-**Nombre d'articles :** 56
+**Nombre d'articles :** 72
 
 ## Préambule
 
-Décision du Wali de Bank Al-Maghrib n° 81 du 26 rabii [I 1440
-(3 janvier 2019) portant nouvel agrément de la « Banque
-populaire Fès-Meknès » en qualité de banque,
-LE WALI DE BANK AL-MAGHRIB,
-Vu la loi n° 103-12 relative aux établissements de crédit
-et organismes assimilés promulguée par le dahir n° 1-14-193
-du 1° rabii I 1436 (24 décembre 2014), notamment ses articles
-34 et 42 ;
-Vu larrêté du ministre des finances et des investissements
-n° 2348-94 du 14 rabii E 1415 (23 août 1994) relatif aux
-établissements de crédit agréés de plein droit en qualité de
-banques ;
-Vu l'arrêté du ministre des finances et de la privatisation
-n° 1234-03 du 23 rabii II 1424 (24 juin 2003) portant agrément
-de la Banque populaire de Fès-Taza ;
-Vu la demande d'agrément formulée par la Banque
-Centrale Populaire en date du 18 novembre 2018, suite à
-l'opération de fusion-absorption de la « Banque Populaire
-Meknès » par la « Banque populaire Fès-Taza » ;
-Vu la décision de l'assemblée générale extraordinaire
-tenue le 21 décembre 2018 pour modifier la dénomination de
-« Banque populaire Fès-Taza » par « Banque populaire
-Fes-Meknès » ;
-Vu les informations complémentaires communiquées par
-la Banque Centrale Populaire en date du 21 décembre 2018 ;
-Après avis du Comité des établissements de crédit, en
-date du 24 décembre 2018,
-DÉCIDE :
+Dahir n°1-18-109 du 2 joumada I 1440 (9 janvier 2019) portant
+promulgation de la loi n° 88-17 relative à la création et
+à Paccompagnement d'entreprises par voie électronique.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes — puisse Dieu en élever
+et en fortifier la teneur |
+Que Notre Majesté Chérifienne,
+Vu la Constitution, notamment ses articles 42 et 50,
+À DÉCIDÉ CE QUI SUIT :
+Est promulguée et sera publiée au Bulletin officiel, à la
+suite du présent dahir, la loi n° 88-17 relative à la création et
+à l'accompagnement d'entreprises par voie électronique, telle
+qu'adoptée par la Chambre des conseillers et la Chambre des
+représentants.
+Fait à Rabat, le 2 joumada 1 1440 (9 janvier 2019).
+Pour contreseing :
+Le Chef du gouvernement,
+SAAD DINE EL OTMANI.
+*  _*
+Loi n° 88-17
+relative à la création et à l'accompagnement
+d'entreprises par voie électronique
 
 ## Décrets
 
 ### Dahir
 
-Dahir n° 1-19-20 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la loi
-n° 20-18 portant approbation de l'Accord relatif
-à la reconnaissance réciproque des permis de
-conduire, fait à Rabat le 26 décembre 2017 entre
-le gouvernement du Royaume du Maroc et le
-gouvernement de la République du Niger... 429
-Création et accompagnement d'entreprises
-par voie électronique.
-Dahir n°1-18-109 du 2 joumada I 1440 (9 janvier 2019)
-portant promulgation de la loin° 88-17 relative à
-la création et à l'accompagnement d'entreprises
-par voie électronique.
-Accord relatif aux services aériens entre le
-gouvernement du Royaume du Maroc
-et le gouvernement de la République du
-Panama.
-Dahir n° 1-19-19 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la loi
-n° 14-18 portant approbation de l'Accord relatif
-aux services aériens, fait à Rabat le 19 janvier
-2018 entre le gouvernement du Royaume du de voyageurs et de marchandises, fait à Rabat
-Maroc et le gouvernement de la République du le 8 mars 2018 entre le Royaume du Maroc et
-Panama. ss 428 la République du Mali. 429
-Royaume du Maroc et République du Mali :
-+ Accord relatif aux transports internationaux
-routiers de voyageurs et de marchandises.
-Dahir n° 1-19-21 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la
-loi n° 28-18 portant approbation de l'Accord
-relatif aux transports internationaux routiers
-422 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
-Pages
-+ Accord relatif à la reconnaissance réciproque
-des permis de conduire.
-Dabhir n° 1-19-22 du 21 joumada II 1440
-(27 février 2019) portant promulgation de la
-loi n° 30-18 portant approbation de l'Accord
-relatif à la reconnaissance réciproque des permis
-de conduire, fait à Rabat le 8 mars 2018 entre
-le gouvernement du Royaume du Maroc et le
-gouvernement de la République du Mali... 430
-Actes de l'Union postale universelle et
-décisions prises par le 25°"° Congrès de
-P'Union.
-Dabhir n° 1-19-23 du 21 joumada IT 1440 (27 février 2019)
-portant promulgation de la loi n° 35-18 portant
-approbation des Actes de l'Union postale
-universelle (UPU) et des décisions prises
-par le 25°" Congrès de l'Union tenu à Doha
-en 2012, 430
-Royaume du Maroc et République du Congo :
-+ Convention tendant à éviter la double imposition
-et à prévenir évasion fiscale en matière d'impôts
-sur le revenu.
-Dahir n° 1-19-24 du 21 joumada I 1440 (27 février 2019)
-portant promulgation de la loi n° 39-I8 portant
-approbation de la Convention faite à Brazzaville
-le 30 avril 2018 entre le gouvernement du
-Royaume du Maroc et le gouvernement de la
-République du Congo tendant à éviter la double
-imposition et à prévenir l'évasion fiscale en
-matière d'impôts sur le revenu. 431
-* Accord sur la promotion et la protection
-réciproques des investissements.
-Dahir n° 1-19-25 du 21 joumada II 1440 (27 février 2019)
-portant promulgation de la loi n° 40-18 portant
-approbation de l'Accord fait à Brazzaville le
-30 avril 2018 entre le gouvernement du Royaume
-du Maroc et le gouvernement de la République
-du Congo sur la promotion et la protection
-+ Accord de coopération dans le domaine de la
-pêche maritime et d'aquaculture marine.
-Dalhir n° 1-19-27 du 21 joumada II 1440 (27 février 2019)
-portant promulgation de la loi n° 43-18 portant
-approbation de l'Accord de coopération dans le
-domaine de la pêche maritime et d'aquaculture
-marine, fait à Brazzaville le 30 avril 2018 entre
-le gouvernement du Royaume du Maroc et le
-gouvernement de la République du Congo... 432
-Pages
-« Accord-cadre de coopération dans les domaines
-de Pagriculture et de l'élevage.
-Dahir n° 1-19-28 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la
-loi n° 48-18 portant approbation de l'Accord-
-cadre de coopération dans les domaines de
-l'agriculture et de l'élevage, fait à Brazzaville le
-30 avril 2018 entre le gouvernement du Royaume
-du Maroc et le gouvernement de la République
-du Congo... 432
-+ Accord-cadre de coopération dans le domaine
-de l'énergie.
-Dahir n° 1-19-30 du21 joumada II 1440 (27 février 2019)
-portant promulgation de la loi n° 50-18 portant
-approbation de l'Accord-cadre de coopération
-dans le domaine de l'énergie, fait à Brazzaville
-le 30 avril 2018 entre le gouvernement du
-Royaume du Maroc et le gouvernement de la
-République du Congo... 433
-+ Accord-cadre de coopération dans le domaine
-de la logistique.
-Dahir n° 1-19-32 du 21 joumada II 1440
-(27 février 2019) portant promulgation de la loi
-n° 56-18 portant approbation de l'Accord-cadre
-de coopération dans le domaine de la logistique,
-fait à Brazzaville le 30 avril 2018 entre le
-gouvernement du Royaume du Maroc et le
-gouvernement de la République du Congo... 433
-Royaume du Maroc et République
-d'Azerbaïdjan :
-+ Convention tendant à éviter la double imposition
-et à prévenir l'évasion fiscale en matière d'impôts
-sur le revenu.
-Dahir n° 1-19-26 du 21 joumada II 1440
-(27 février 2019) portant promulgation de la
-loi n° 41-18 portant approbation de la
-Convention faite à Bakou le 5 mars 2018 entre
-le gouvernement du Royaume du Maroc et le
-gouvernement de la République d'Azerbaïdjan
-tendant à éviter la double imposition et à
-prévenir l'évasion fiscale en matière d'impôts
-Sur le FEVER. ss 434
-+ Accord de coopération en matière de sécurité et
-de lutte contre la criminalité.
-Dahir n° 1-19-29 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la
-loi n° 49-18 portant approbation de l'Accord
-de coopération en matière de sécurité et de
-lutte contre la criminalité, fait à Bakou le
-5 mars 2018 entre le gouvernement du Royaume
-du Maroc et le gouvernement de la République
-d'Azerbaïdjan. ss 434
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 423
-Convention de Bamako sur l'interdiction
-d'importer en Afrique des déchets
-dangereux et sur le contrôle des
-mouvements transfrontières et la gestion
-des déchets dangereux produits en
-Afrique.
-Dahir n° 1-19-31 du 21 joumada I 1440 (27 février 2019)
-portant promulgation de la loi n° 55-18 portant
-approbation de la Convention de Bamako sur
-l'interdiction d'importer en Afrique des déchets
-dangereux et sur le contrôle des mouvements
-transfrontières et la gestion des déchets
-dangereux produits en Afrique, adoptée à
-Bamako (Mali) le 30 janvier 1991... 435
-Accord bilatéral de coopération en matière
-de formation professionnelle agricole
-et de supervision technique entre le
-ministère de l'agriculture, de la pêche
-maritime, du développement rural et des
-eaux et forêts du Royaume du Maroc
-et le ministère de l'agriculture et du
-développement rural de Ia République
-fédérale du Nigéria.
-Dakhir n° 1-19-33 du 21 joumada II 1440
-(27 février 2019) portant promulgation de la
-loi n° 61-18 portant approbation de l'Accord
-bilatéral de coopération en matière de formation
-professionnelle agricole et de supervision
-technique, fait à Rabat le 10 juin 2018 entre
-le ministère de l'agriculture, de la pêche
-maritime, du développement rural et des eaux
-et forêts du Royaume du Maroc et le ministère
-de l'agriculture et du développement rural de la
-République fédérale du Nigéria. 435
-Royaume du Maroc et République
-dominicaine :
-+ Accord relatif aux services aériens.
-Dalhir n° 1-19-34 du 21 joumada II 1440 (27 février 2019)
-portant promulgation de la loi n° 73-18 portant
-approbation de l'Accord relatif aux services
-aériens, fait à Rabat le 20 juillet 2018 entre
-le gouvernement du Royaume du Maroc et le
-gouvernement de la République dominicaine... 436
-+ Accord d'assistance mutuelle administrative en
-matière douanière.
-Dahir n° 1-19-35 du 21 joumada IT 1440(27 février 2019)
-portant promulgation de la loi n° 77-18 portant
-approbation de l'Accord d'assistance mutuelle
-administrative en matière douanière, fait à
-Rabat le 20 juillet 2018 entre le gouvernement
-du Royaume du Maroc et le gouvernement de
-la République dominicaine... 436
-Pages
-Royaume du Maroc et Burkina Faso :
-+ Convention en matière d'extradition.
-Dahir n° 1-19-36 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la loi
-n° 78-18 portant approbation de la Convention
-en matière d'extradition, faite à Ouagadougou
-le 3 septembre 2018 entre le gouvernement du
-Royaume du Maroc et le gouvernement du
-Burkina Faso... ss 437
-+ Convention de coopération judiciaire en matière
-civile, commerciale et administrative.
-Dahir n° 1-19-38 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la loi
-n° 82-18 portant approbation de la Convention
-de coopération judiciaire en matière civile,
-commerciale et administrative, faite à
-Ouagadougou le 3 septembre 2018 entre le
-gouvernement du Royaume du Maroc et le
-gouvernement du Burkina Faso...
-de l'Union africaine sur la prévention et la
-lutte contre la corruption, adoptée à Maputo
-(Mozambique) le II juillet 2003...
-décret n° 2-19-40 du 17 joumada 1 1440 (24 janvier 2019)
-fixant le modèle-type du schéma directeur de la
-déconcentration administrative...
-+ Convention sur l'entraide judiciaire en matière
-pénale.
-Dahir n° 1-19-39 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la loi
-n° 83-18 portant approbation de la Convention
-sur l'entraide judiciaire en matière pénale, faite
-à Ouagadougou le 3 septembre 2018 entre le
-gouvernement du Royaume du Maroc et le
-gouvernement du Burkina Faso... 438
-Convention de l'Union africaine sur la
-prévention et la lutte contre la corruption.
-Dahir n° 1-19-37 du 21 joumada IT 1440
-(27 février 2019) portant promulgation de la loi
-n° 81-18 portant approbation de la Convention
-Déconcentration administrative. —- Modèle-
-type du schéma directeur.
-Taxe sur la valeur ajoutée.
-décret n° 2-18-638 du 16 joumada IT 1440
-(22 février 2019) modifiant et complétant le décret
-n° 2-06-574 du 10 hija 1427 (31 décembre 2006)
-pris pour l'application de la taxe sur la valeur
-ajoutée prévue au titre III du code général
-des impôts. ss 451
-424 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
-Pages
-Protection de variétés par certificats
-d'obtention végétale.
-Arrêté du ministre de l'agriculture, de la pêche maritime,
-du développement rural et des eaux et forêts
-n° 3568-18 du I“ rabii I 1440 (9 novembre 2018)
-portant protection de variétés par certificats
-d'obtention végétale. 452
-Pêche maritime. — Liste des zones maritimes
-de production conchylicole.
-Arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des
-eaux et forêts n° 3859-18 du 17 rabii II 1440
-TEXTES PARTICULIERS
-Zone franche d'exportation Souss Massa. —
-Approbation de la concession de
-l'aménagement et la gestion à la société
-« PARC HALIOPOLIS SA ».
-(25 décembre 2018) fixant la liste des zones
-maritimes de production conchylicole
-décret n° 2-19-120 du 19 joumada IT 1440
-(25 février 2019) approuvant la concession de
-l'aménagement et la gestion de la première
-phase de la première tranche de la zone franche
-d'exportation Souss Massa à la société « PARC
-HALIOPOLIS SA DR 461
-Liste des conseillers agricoles.
-Arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des
-eaux et forêts n° 3587-18 du 21 rabii I 1440
-(29 novembre 2018) complétant l'arrêté du
-ministre de l'agriculture et de la pêche maritime
-n° 2627-16 du 27 kaada 1437 (31 août 2016)
-portant publication de la liste des conseillers
-agricoles. 463
-Société « MEDITERRANEAN AQUAFARM
-SA » . — Création et exploitation d'une
-ferme aquacole.
-Arrêté conjoint du ministre de l'agriculture, de
-la pêche maritime, du développement
-rural et des eaux et forêts et du ministre
-de l'économie et des finances n° 015-19 du
-26 rabii II 1440 (3 janvier 2019) autorisant la
-société « MEDITERRANEAN AQUAFARM
-SA » pour la création et l'exploitation d'une
-ferme aquacole dénommée « Méditerranean
-aquafarm » et portant publication de l'extrait
-de la convention y afférente..… ……. 495
-Pages
-Société « AZUR INNOVATION MANAGEMENT». —
-Agrément.
-Arrêté du ministre de l'économie et des finances
-n° 128-19 du 17 joumada I 1440 (24 janvier 2019)
-portant agrément de la société « AZUR
-INNOVATION MANAGEMENT » pour
-l'exercice de l'activité de société de gestion
-d'organismes de placement collectif en capital
-Equivalences de diplômes.
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 3761-18 du 29 rabii I 1440
-(7 décembre 2018) complétant l'arrêté n° 2797-95
-du 20 joumada IT 1416 (14 novembre 1995)
-fixant la liste des diplômes reconnus équivalents
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 3762-18 du 29 rabii IT 1440
-(7 décembre 2018) complétant l'arrêté n° 2797-95
-au diplôme d'architecte de l'Ecole nationale
-du 20 joumada IT 1416 (14 novembre 1995)
-fixant la liste des diplômes reconnus équivalents
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 3763-18 du 29 rabii I 1440
-(7 décembre 2018) complétant l'arrêté n° 2797-95
-d'architecture...
-au diplôme d'architecte de l'Ecole nationale
-d'architecture... ss
-du 20 joumada II 1416 (14 novembre 1995)
-fixant la liste des diplômes reconnus équivalents
-au diplôme d'architecte de l'Ecole nationale
-d'architecture...
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 3764-18 du 29 rabii I 1440
-(7 décembre 2018) complétant l'arrêté n° 2797-95
-du 20 joumada IT 1416 (14 novembre 1995)
-fixant la liste des diplômes reconnus équivalents
-au diplôme d'architecte de l'Ecole nationale
-d'architecture
-nee nn ne no num ao me needs esensseseessee
-N° 6758 — 29 joumada IT 1440 (7-3-2019) BULLETIN OFFICIEL 425
-Pages
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 3765-18 du 29 rabii I 1440
-(7 décembre 2018) complétant l'arrêté n° 2797-95
-du 20 joumada II 1416 (14 novembre 1995)
-fixant la liste des diplômes reconnus équivalents
-au diplôme d'architecte de l'Ecole nationale
-interbancaire » en qualité d'établissement de
-Re nn nn nes nement sens eesesrens
-d'architecture 499
-Nouvel agrément :
-+ Société « Centre monétique interbancaire ».
-Décision du Wali de Bank Al-Maghrib n° 79 du
-6 rabii IT 1440 (14 décembre 2018) portant nouvel
-agrément de la société « Centre monétique
-paiement 500
-+ Société « BARID CASH ».
-Décision du Wali de Bank Al-Maghrib n° 80 du
-23 rabii II 1440 (31 décembre 2018) portant
-nouvel agrément de la société« BARID CASH »
-en qualité d'établissement de paiement. 500
-Tr tes
-Pages
-+ Société « NAPS ».
-Décision du Wali de Bank Al-Maghrib n° 82 du
-23 rabii II 1440 (31 décembre 2018) portant
-nouvel agrément de la société « NAPS » en
-qualité d'établissement de paiement... 501
-e Société « SALAFIN ».
-Décision du Wali de Bank Al-Maghrib n° 83 du
-2 joumada I 1440 (9 janvier 2019) portant
-nouvel agrément de la société « SALAFIN »
-en qualité de société de financement. sol
-+ « Banque populaire Fès-Meknès ».
-Décision du Wali de Bank Al-Maghrib n° 81 du
-26 rabii II 1440 (3 janvier 2019) portant nouvel
-agrément de la« Banque populaire Fès-Meknès »
-en qualité de banque. 502
-AVIS ET COMMUNICATIONS
-Avis du Conseil économique, Social et
-Environnemental sur la migration et le marché
-du travail
-nn es pense emma serre sen esse
-426 BULLETIN OFFICIEL ” N° 6758 — 29 joumada II 1440 (7-3-2019)
-TEXTES Gl
 Dahir n°1-18-109 du 2 joumada I 1440 (9 janvier 2019) portant
 promulgation de la loi n° 88-17 relative à la création et
 à Paccompagnement d'entreprises par voie électronique.
@@ -483,11 +89,9 @@ portant approbation de l'Accord relatif
 aux services aériens, fait à Rabat le 19 janvier 2018
 entre le gouvernement du Royaume du Maroc
 et le gouvernement de la République du Panama
-Article unique
-Est approuvé l'Accord relatif aux services aériens, fait
-à Rabat le 19 janvier 2018 entre le gouvernement du Royaume
-du Maroc et le gouvernement de la République du Panama.
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 429
+
+### Dahir
+
 Dahir n° 1-19-20 du 21 joumada IT 1440 (27 février 2019) portant
 promulgation de la loi n° 20-18 portant approbation
 de l'Accord relatif à la reconnaissance réciproque des
@@ -520,11 +124,9 @@ portant approbation de l'Accord relatif
 fait à Rabat le 26 décembre 2017
 entre le gouvernement du Royaume du Maroc
 et le gouvernement de la République du Niger
-Article unique
-Est approuvé l'Accord relatif à la reconnaissance
-réciproque des permis de conduire, fait à Rabat le
-26 décembre 2017 entre le gouvernement du Royaume du
-Maroc et le gouvernement de la République du Niger.
+
+### Dahir
+
 Dahir n° 1-19-21 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 28-18 portant approbation
 de l'Accord relatif aux transports internationaux
@@ -557,12 +159,9 @@ portant approbation de l'Accord relatif aux transports
 internationaux routiers de voyageurs et de marchandises, fait
 à Rabat le 8 mars 2018 entre le Royaume du Maroc
 et la République du Mali
-Article unique
-Est approuvé l'Accord relatif aux transports
-internationaux routiers de voyageurs et de marchandises, fait
-à Rabat le 8 mars 2018 entre le Royaume du Maroc et la
-République du Mali.
-430 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019) |
+
+### Dahir
+
 Dahir n° 1-19-22 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 30-18 portant approbation
 de l'Accord relatif à la reconnaissance réciproque des
@@ -594,11 +193,9 @@ portant approbation de l'Accord relatif à la reconnaissance
 réciproque des permis de conduire, fait à Rabat
 le 8 mars 2018 entre le gouvernement du Royaume
 du Maroc et le gouvernement de la République du Mali
-Article unique
-Est approuvé l'Accord relatif à [a reconnaissance
-réciproque des permis de conduire, fait à Rabat le 8 mars 2018
-entre le gouvernement du Royaume du Maroc et le
-gouvernement de la République du Mali.
+
+### Dahir
+
 Dahir n° 1-19-23 du 21 joumada 11 1440 (27 février 2019) portant
 promulgation dela loi n° 35-18 portant approbation des Actes
 de l'Union postale universelle (UPU) et des décisions prises
@@ -627,11 +224,9 @@ Loi n° 35-18
 portant approbation des Actes de l'Union postale universelle
 (UPU) et des décisions prises par le 25" Congrès de l'Union
 tenu à Doha en 2012
-Article unique
-Sont approuvés les Actes de l'Union postale universelle
-(UPU) et des décisions prises par le 25°" Congrès de l'Union
-tenu à Doha en 2012.
-N° 6758 — 29 joumada IT 1440 (7-3-2019) BULLETIN OFFICIEL 431
+
+### Dahir
+
 Dahir n° 1-19-24 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 39-18 portant approbation de la
 Convention faite à Brazzaville le 30 avril 2018 entre le
@@ -668,12 +263,9 @@ le gouvernement du Royaume du Maroc
 et le gouvernement de la République du Congo
 tendant à éviter la double imposition et à prévenir
 l'évasion fiscale en matière d'impôts sur le revenu
-Article unique
-Est approuvée la Convention faite à Brazzaville le
-30 avril 2018 entre le gouvernement du Royaume du Maroc et
-le gouvernement de la République du Congo tendant à éviter
-la double imposition et à prévenir l'évasion fiscale en matière
-d'impôts sur le revenu.
+
+### Dahir
+
 Dahir n° 1-19-25 du 21 joumada [I 1440 (27 février 2019) portant
 promulgation de la loi n° 40-18 portant approbation
 de l'Accord fait à Brazzaville le 30 avril 2018 entre le
@@ -708,12 +300,9 @@ le gouvernement du Royaume du Maroc
 et le gouvernement de la République du Congo
 sur la promotion et la protection réciproques des
 investissements
-Article unique
-Est approuvé l'Accord fait à Brazzaville le 30 avril 2018
-entre le gouvernement du Royaume du Maroc et Île
-gouvernement de la République du Congo sur la promotion
-et la protection réciproques des investissements.
-432 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+
+### Dahir
+
 Dahir n° 1-19-27 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 43-18 portant approbation de
 l'Accord de coopération dans le domaine de la pêche
@@ -747,11 +336,9 @@ dans le domaine de la pêche maritime et d'aquaculture marine,
 fait à Brazzaville le 30 avril 2018 entre
 le gouvernement du Royaume du Maroc
 et le gouvernement de la République du Congo
-Article unique
-Est approuvé l'Accord de coopération dans le domaine
-de la pêche maritime et d'aquaculture marine, fait à Brazzaville
-le 30 avril 2018 entre le gouvernement du Royaume du Maroc
-et le gouvernement de la République du Congo.
+
+### Dahir
+
 Dahir n° 1-19-28 du 21 joumada 11 1440 (27 février 2019) portant
 promulgation de la loi n° 48-18 portant approbation de
 lP'Accord-cadre de coopération dans les domaines de
@@ -784,12 +371,9 @@ de coopération dans les domaines de l'agriculture
 et de l'élevage, fait à Brazzaville le 30 avril 2018
 entre le gouvernement du Royaume du Maroc
 et le gouvernement de la République du Congo
-Article unique
-Est approuvé l'Accord-cadre de coopération dans Îles
-domaines de l'agriculture et de l'élevage, fait à Brazzaville le
-30 avril 2018 entre le gouvernement du Royaume du Maroc et
-le gouvernement de la République du Congo.
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 433
+
+### Dahir
+
 Dahir n° 1-19-30 du 21 joumada 11 1440 (27 février 2019) portant
 promulgation de la loi n° 50-18 portant approbation de
 l'Accord-cadre de coopération dans le domaine de l'énergie,
@@ -821,11 +405,9 @@ portant approbation de l'Accord-cadre de coopération
 dans le domaine de l'énergie, fait à Brazzaville
 le 30 avril 2018 entre le gouvernement du Royaume du Maroc
 et le gouvernement de la République du Congo
-Article unique
-Est approuvé l'Accord-cadre de coopération dans Île
-domaine de l'énergie, fait à Brazzaville le 30 avril 2018 entre
-le gouvernement du Royaume du Maroc et le gouvernement
-de la République du Congo.
+
+### Dahir
+
 Dahir n° 1-19-32 du 21 joumada 11 1440 (27 février 2019) portant
 promulgation de la loi n° 56-18 portant approbation de
 l'Accord-cadre de coopération dans le domaine de la
@@ -858,12 +440,9 @@ portant approbation de l'Accord-cadre de coopération
 dans le domaine de la logistique, fait à Brazzaville
 le 30 avril 2018 entre le gouvernement du Royaume du Maroc
 et le gouvernement de la République du Congo
-Article unique
-Est approuvé l'Accord-cadre de coopération dans le
-domaine de la logistique, fait à Brazzaville le 30 avril 2018
-entre le gouvernement du Royaume du Maroc et le
-gouvernement de la République du Congo.
-434 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019) |
+
+### Dahir
+
 Dahir n° 1-19-26 du 21 joumada I1 1440 (27 février 2019) portant
 promulgation de la loi n° 41-18 portant approbation de
 la Convention faite à Bakou le 5 mars 2018 entre le
@@ -899,13 +478,9 @@ le 5 mars 2018 entre le gouvernement du Royaume du Maroc
 et le gouvernement de la République d'Azerbaïdjan
 tendant à éviter la double imposition et à prévenir
 Pévasion fiscale en matière d'impôts sur le revenu
-Article unique
-Est approuvée la Convention faite à Bakou le 5 mars 2018
-entre le gouvernement du Royaume du Maroc et Île
-gouvernement de la République d'Azerbaïdjan tendant à éviter
-la double imposition et à prévenir l'évasion fiscale en matière
-d'impôts sur le revenu,
-—@
+
+### Dahir
+
 Dahir n° 1-19-29 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 49-18 portant approbation de
 l'Accord de coopération en matière de sécurité et de lutte
@@ -938,12 +513,9 @@ en matière de sécurité et de lutte contre la criminalité,
 fait à Bakou le 5 mars 2018 entre
 le gouvernement du Royaume du Maroc
 et le gouvernement de la République d'Azerbaïdjan
-Article unique
-Est approuvé l'Accord de coopération en matière de
-sécurité et de lutte contre la criminalité, fait à Bakou le
-5 mars 2018 entre le gouvernement du Royaume du Maroc et
-le gouvernement de la République d'Azerbaïdjan.
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL L 435
+
+### Dahir
+
 Dahir n° 1-19-31 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 55-18 portant approbation de
 la Convention de Bamako sur Pinterdiction d'importer
@@ -979,65 +551,9 @@ sur l'interdiction d'importer en Afrique des déchets
 dangereux et sur le contrôle des mouvements transfrontières et
 la gestion des déchets dangereux produits en Afrique, adoptée
 à Bamako (Mali) le 30 janvier 1991
-Article unique
-Est approuvée la Convention de Bamako sur l'interdiction
-d'importer en Afrique des déchets dangereux
-et sur le contrôle des mouvements transfrontières et la gestion
-des déchets dangereux produits en Afrique, adoptée
-à Bamako (Mali) le 30 janvier 1991, sous réserve de la
-déclaration interprétative formulée par le Royaume
-du Maroc.
-Dabhir n° 1-19-33 du 21 joumada II 1440 (27 février 2019) portant
-promulgation de la loi n° 61-18 portant approbation de
-l'Accord bilatéral de coopération en matière de formation
-professionnelle agricole et de supervision technique, fait
-à Rabat le 10 juin 2018 entre le ministère de l'agriculture,
-de la pêche maritime, du développement rural et des
-eaux et forêts du Royaume du Maroc et le ministère de
-Pagriculture et du développement rural de la République
-fédérale du Nigéria.
-LOUANGE A DIEU SEUL!
-(Grand Sceau de Sa Majesté Mohammed VI)
-Que l'on sache par les présentes — puisse Dieu en élever
-et en fortifier la teneur |
-Que Notre Majesté Chérifienne,
-Vu la Constitution, notamment ses articles 42, 50 et 55
-(2ÿ"e alinéa),
-A DÉCIDÉ CE QUI SUIT :
-Est promulguée et sera publiée au Bulletin officiel, à la
-suite du présent dahir, la loi n° 61-18 portant approbation de
-l'Accord bilatéral de coopération en matière de formation
-professionnelle agricole et de supervision technique, fait à
-Rabat le 10 juin 2018 entre le ministère de l'agriculture, de la
-pêche maritime, du développement rural et des eaux et forêts
-du Royaume du Maroc et le ministère de l'agriculture et du
-développement rural de la République fédérale du Nigéria,
-telle qu'adoptée par la Chambre des représentants et la
-Chambre des conseillers,
-Fait à Rabat, le 21 joumnada II 1440 (27 février 2019).
-Pour contreseing :
-Le Chef du gouvernement,
-SAAD DINE EL OTMANI.
-*
-* *
-Loi n° 61-18
-portant approbation de Accord bilatéral de coopération
-en matière de formation professionnelle agricole
-et de supervision technique, fait à Rabat le 10 juin 2018 entre
-le ministère de l'agriculture, de la pêche maritime,
-du développement rural et des eaux et forêts
-du Royaume du Maroc et le ministère de l'agriculture
-et du développement rural de la République fédérale
-du Nigéria
-Article unique
-Est approuvé l'Accord bilatéral de coopération en
-matière de formation professionnelle agricole et de supervision
-technique, fait à Rabat le 10 juin 2018 entre le ministère de
-l'agriculture, de la pêche maritime, du développement rural
-et des eaux et forêts du Royaume du Maroc et le ministère de
-l'agriculture et du développement rural de la République
-fédérale du Nigéria.
-436 BULLETIN OFFICIEL N° 6758 -- 29 joumada II 1440 (7-3-2019) |
+
+### Dahir
+
 Dahir n° 1-19-34 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 73-18 portant approbation de
 l'Accord relatif aux services aériens, fait à Rabat le
@@ -1068,11 +584,9 @@ portant approbation de l'Accord relatif
 aux services aériens, fait à Rabat le 20 juillet 2018
 entre le gouvernement du Royaume du Maroc
 et le gouvernement de la République dominicaine
-Article unique
-Est approuvé l'Accord relatif aux services aériens, fait
-à Rabat le 20 juillet 2018 entre le gouvernement du Royaume
-du Maroc et le gouvernement de la République dominicaine.
-EE marrer rater etenttinene
+
+### Dahir
+
 Dahir n° 1-19-35 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 77-18 portant approbation
 de l'Accord d'assistance mutuelle administrative en
@@ -1105,12 +619,9 @@ mutuelle administrative en matière douanière,
 fait à Rabat le 20 juillet 2018 entre
 le gouvernement du Royaume du Maroc
 et le gouvernement de la République dominicaine
-Article unique
-Est approuvé l'Accord d'assistance mutuelle
-administrative en matière douanière, fait à Rabat le
-20 juillet 2018 entre le gouvernement du Royaume du Maroc
-et le gouvernement de la République dominicaine.
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 437
+
+### Dahir
+
 Dahir n° 1-19-36 du 21 joumada IT 1440 (27 février 2019) portant
 promulgation de la loi n° 78-18 portant approbation de la
 Convention en matière d'extradition, faite à Ouagadougou
@@ -1141,10 +652,9 @@ portant approbation de la Convention en matière d'extradition,
 faite à Ouagadougou le 3 septembre 2018
 entre le gouvernement du Royaume du Maroc
 et le gouvernement du Burkina Faso
-Article unique
-Est approuvée la Convention en matière d'extradition,
-faite à Ouagadougou le 3 septembre 2018 entre le gouvernement
-du Royaume du Maroc et le gouvernement du Burkina Faso.
+
+### Dahir
+
 Dahir n° 1-19-38 du 21 joumada I] 1440 (27 février 2019) portant
 promulgation de la loi n° 82-18 portant approbation de
 la Convention de coopération judiciaire en matière civile,
@@ -1178,12 +688,9 @@ judiciaire en matière civile, commerciale et administrative,
 faite à Ouagadougou le 3 septembre 2018
 entre le gouvernement du Royaume du Maroc
 et le gouvernement du Burkina Faso
-Article unique
-Est approuvée la Convention de coopération judiciaire
-en matière civile, commerciale et administrative, faite à
-Ouagadougou le 3 septembre 2018 entre le gouvernement du
-Royaume du Maroc et le gouvernement du Burkina Faso.
-438 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019) :
+
+### Dahir
+
 Dahir n° 1-19-39 du 21 joumada II 1440 (27 février 2019) portant
 promulgation de la loi n° 83-18 portant approbation de la
 Convention sur l'entraide judiciaire en matière pénale, faite
@@ -1217,11 +724,9 @@ sur l'entraide judiciaire en matière pénale,
 faite à Ouagadougou le 3 septembre 2018
 entre le gouvernement du Royaume du Maroc
 et le gouvernement du Burkina Faso
-Article unique
-Est approuvée la Convention sur l'entraide judiciaire en
-matière pénale, faite à Ouagadougou le 3 septembre 2018 entre
-le gouvernement du Royaume du Maroc et le gouvernement
-du Burkina Faso.
+
+### Dahir
+
 Dahir n° 1-19-37 du 21 joumada [1 1440 (27 février 2019) portant
 promulgation de la loi n° 81-18 portant approbation de la
 Convention de l'Union africaine sur la prévention et la lutte
@@ -1250,13 +755,9 @@ Loi n° 81-18
 portant approbation de la Convention de l'Union africaine
 sur la prévention et la lutte contre la corruption,
 adoptée à Maputo (Mozambique) le 11 juillet 2003
-Article unique
-Est approuvée la Convention de l'Union africaine sur la
-prévention et la lutte contre la corruption, adoptée à Maputo
-(Mozambique) le 11 juillet 2003, sous réserve des deux
-déclarations interprétatives formulées par le Royaume du
-Maroc.
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL | 439
+
+### décret
+
 décret n° 2-19-40 du 17 joumada I 1440
 le modèle-type du schéma directeur de la déc
 LE CHEF DU GOUVERNEMENT,
@@ -1268,277 +769,8 @@ du gouvernement chargé de la réforme de l'administration et de la fonct:
 Après délibération en Conseil du gouvernement réuni le 17 joumac
 DÉCRÈTE :
 
-### Annexe
+### décret
 
-Annexe
-r de la déconcentration administrative
-0 08600 0% 5006000 00 ONE LILELLELLELL ÆIRLLRELLELL CLLELL
-000000 000 000 000 200 CETTE LIRLILELLELL UESILELLELLELLLLE
-butions, notamment celles de nature
-aux services déconcentrés de l'Etat au
-réfecture ou de la province, selon les règles
-ons prévues par les articles 14, 15 et 16 du
-iventaire des attributions, des prérogatives
-et des missions à transférer aux services
-concentrés de l'Etat, au niveau de la région
-de . 00005000 000009 LE A2
-Première Deuxième Troisième
-année
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 441
-Inventaï
-et des
-déconce:
-préfectu:
-Inventaire de l'ensemble
-des attributions et des
-prérogatives dévolues
-aux services centraux en
-vertu des textes législatifs
-réglementaires en
-Premi
-anné
-2- Deuxième axe: Les attributia
-délégation aux services déconcer
-de la préfecture ou de la province
-Inventa
-Inventaire de l'ensemble
-des attributions et des et d ee
-À . À délégati.
-prérogatives dévolues un
-aux services centraux en
-vertu des textes législatifs
-et réglementaires en
-vigueur
-Premi
-anné
-re des attributions, des prérogatives
-missions à transférer aux services
-trés de l'Etat au niveau de la
-re ou de la province de : .… … sers .
-Troisième
-année
-ns qui peuvent faire l'objet de
-trés de l'Etat au niveau de larégion et
-ire des attributions, des prérogatives
-nissions qui peuvent faire l'objet de
-on aux services déconcentrés de l'Etat
-Deuxième Troisième
-442 BULLETIN OFFICIEL N° 6758 — 29 joumada Il 1440 (7-3-2019) |
-Inventaire de l'ensemble
-des attributions et des
-prérogatives dévolues
-aux services centraux en
-vertu des textes législatifs
-et réglementaires en
-vigueur
-Inventaire des attributions, des prérogatives
-et des missions qui peuvent faire l'objet de
-délégation aux services déconcentrés de l'Etat
-au niveau de la préfecture ou de la province
-Première Deuxième Troisième
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL | 443
-3- Troisième axe: Répartitioi
-centraux et Les services dé
-de la préfecture ou de la p
-Répartition des ressourct
-services déconcentrés de |
-Corps
-(interminis
-tériels/ Adminis-
-soumis à tration
-des statuts centrale
-particuliers
-..* 0, ……)
-1 des ressources humaines entre les services
-concentrés de l'Etat au niveau de Îa région et
-rovince
->s humaines entre les services centraux et les
-l'Etat au niveau de la région
-Services déconcentrés de l'Etat au niveau
-de la région de: 05 00 00 800709 000 00 CREER ELELS) CRE]
-Troisième
-année
-Deuxième
-année
-Première
-année
-Objectifs
-à
-atteindre
-Objectifs
-à
-atteindre
-Situation
-actuelle
-Situation
-actuelle
-Situation
-actuelle
-Obiectifs
-à
-atteindre
-444 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
-Répartition des res
-services déconcei
-Corps
-(interminis
-tériels/
-soumis à
-des statuts
-particuliers
-Admin
-tratioi
-central
-sources humaines entre les services centraux et les
-trés de l'Etat au niveau de la préfecture ou de la
-province
-Services déconcentrés de l'Etat au niveau
-de la préfecture ou de la province de:
-Première Deuxième Troisième
-année année année
-. tecti Objectifs ue
-Situation Objects Situation " Situation | Objectifs à
-actuelle atteindre actuelle | atteindre | ACtuelle atteindre
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 445
-4- Quatrième axe: Répartition des ressource
-services centraux et les services déconcentrés
-région et de la préfecture ou de la province
-Répartition des ressources financières entre les
-services déconcentrés de l'Etat au nives
-Services déconcent
-de la région de :
-Première Det
-, un année ai
-financières
-centrale
-Situation Objets Situation
-actuelle actuelle
-atteindre
-s financières entre les
-de L'Etat au niveau de la
-services centraux et les
-Lu de la région
-rés de l'Etat au niveau
-0000000000 060 CEXRLLRLZ)
-Troisième
-année
-xième
-née
-Obijectifs
-à
-atteindre
-Objectifs
-à
-atteindre
-Situation
-actuelle
-446 = BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
-Répartition des ressource:
-services déconcentrés de
-province
-Ressources
-financières
-; financières entre les services centraux et les
-l'Etat au niveau de la préfecture ou de la
-Services déconcentrés de l'Etat au niveau
-de la préfecture ou de la province de: ….….…
-Troisième
-année
-Deuxième
-année
-Première
-année
-Objectifs
-à
-atteindre
-Objectifs
-à
-atteindre
-Objectifs
-à
-atteindre
-Situation
-actuelle
-Situation
-actuelle
-ituation
-actuelle
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 447
-5- Cinquième axe: Définition des objectifs à réaliser par les services
-déconcentrés de l'Etat au niveau de la région.et de la préfecture ou de la
-province au regard des attributions qui leur seront transférées, et les
-indicateurs de mesure de leur performance dans la réalisation de ces
-objectifs |
-Définition des objectifs à réaliser par les services déconcentrés de l'Etat au niveau
-de la région de … …. … … … … …. au regard des attributions qui leur seront
-transférées, et les indicateurs de mesure de leur performance dans la réalisation de
-ces objectifs
-Objectif n° 1:  .…
-Détermination des indicateurs de mesure des performances pour la
-réalisation dudit objectif
-Indicateur
-Première Deuxième Troisième
-année année année
-Indicateur
-Indicateur
-448 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019) |
-Détermination des indicateurs de mesure des p
-réalisation dudit objectif
-Unité de
-Indicateur
-mesure
-Première
-année
-Indicateur
-Indicateur
-Indicateur
-erformances pour la
-Années
-euxième Troisième
-année année
-nn ns messes
-N° 6758 - 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 449
-Définition des objectifs à réaliser par les services
-au niveau de la province ou de la préfecture de …
-des attributions qui leur seront transférées, et les t
-leur performance dans la réalisation de
-Détermination des indicateurs de mesure des ]
-réalisation dudit objectif
-Unité de
-Indicateur mesure
-Première
-Indicateur
-Indicateur
-Indicateur
-déconcentrés de l'Etat
-ee ee se or AU T'EGATA
-idicateurs de mesure de
-ces objectifs
-00 ee
-»erformances pour la
-Années
-euxième Troisième
-année année
-. 450 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
-Détermination des indicateu
-réalisat:
-Unité
-de
-mesure
-Indicateur
-Indicateur
-n°2:
-Indicateur
-Le texte en langue arabe a été publié dans l'édition ;
-(25 janvier 2019).
-rs de mesure des performances pour la
-ion dudit objectif
-Années
-Première Deuxième troisième
-année
-0 0 00000000 vrorrssmnueens
-sénérale du « Bulletin officiel » n° 6746 bis du 18 joumada I 1440
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 451
 décret n° 2-18-638 du 16 joumada II 1440 (22 février 2019)
 modifiant et complétant le décret n° 2-06-574 du 10 hija 1427
 (31 décembre 2006) pris pour l'application de la taxe sur
@@ -1567,7 +799,6 @@ promulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009) ;
 Vu le décret n° 2-01-2324 du 27 hija 1422 (12 mars 2002) pris pour l'application de la loi n° 9-94 sur la
 protection des obtentions végétales, notamment ses articles 2 et 8 ;
 Après avis du Comité consultatif de la protection des obtentions végétales,
-ARRÊTE :
 
 ### Arrêté
 
@@ -1578,60 +809,18 @@ Vu l'arrêté du ministre de Pagriculture,
 n° 1950-17 du 14 kaada 1438 (7 août 2017) tr
 conchylicole, notamment son article 8 ;
 Après avis du comité technique prévu à |
-
-### ARRÊTE
-
-ARRÊTE :
-maritimes de production conchylicole prévue à l'article 8 de l'arrêté
-acement, de leurs limites géographiques et de leur code d'identification
-rticle 4 dudit arrêté et leur classement sanitaire est fixée au tableau
-Bulletin officiel.
-Rabat, le 17 rabii II 1440 (25 décembre 2018).
-AZIZ AKHANNOUCH.
-*% *#
-N° 6758 — 29 joumada IT 1440 (7-3-2019) BULLETIN OFFICIEL | 461
-TEXTES PARTICULIERS
-———_—_—_ ————_——————
-décret n° 2-19-120 du 19 joumada II 1440 (25 février 2019) approuvant la concession de l'aménagement et la
-sestion de la première phase de la première tranche de la zone franche d'exportation Souss Massa à la
-société « PARC HALIOPOLIS SA »,
-LE CHEF DU GOUVERNEMENT,
-Vu la loi n° 19-94 relative aux zones franches d'exportation promulguée par le dahir n° 1-95-1 du
-24 chaabane 1415 (26 janvier 1995), telle qu'elle a été modifiée par la loi n° 51-09, notamment son article 7 ;
-Vu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1995) pris pour l'application de la loi n° 19-94
-relative aux zones franches d'exportation, notamment son article 5 ;
-Vu le décret n° 2-18-738 du 22 rabii I 1440 (30 novembre 2018) portant création de la zone franche
-d'exportation Souss Massa ;
-Sur proposition de la commission nationale des zones franches d'exportation,
-DÉCRÈTE :
-
-### Annexe
-
-Annexe : Plan délimitation
-384870.25
-384941.53
-384669.52
-384655.85
-384571.92
-Première Phase de la Première
-Tranche de la ZFE SOTSS MASSA
-T.F 240324/09
-LOT—1
-TN
-ComptantSé d'arganier
-T239783/09
-Zone Franche Agadir — Trancl
-\ T.N Compianté d'arge
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 463
-PP
-: Arrêté du ministre de l'agriculture, de la pêche maritime, du développeme
-8 P
-(29 novembre 2018) complétant l'arrêté du ministre de l'agricultu
-(31 août 2016) portant publication de la liste des conseillers agricol
-LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
-Vu l'arrêté du ministre de l'agriculture et de la pêche maritime n° 2
-de la liste des conseillers agricoles,
-ARRÊTE :
+ARTICLE PREMIER. -— La liste des zones
+susvisé n° 1950-17 avec l'indication de leur empl
+attribué conformément aux dispositions de fl”:
+annexé au présent arrêté.
+ART. 2. - Le présent arrêté est publié au
+EE ————@
+e maritime, du développement rural et des eaux et forêts n° 3859-18
+fixant la liste des zones maritimes de production conchylicole
+>ÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX ET FOR ÊTS,
+de la pêche maritime, du développement rural et des eaux et forêts
+elatif au classement sanitaire des zones maritimes de production
+article 11 de l'arrêté susvisé n°1950-17 du 14 kaada 1438 (7 août 2017),
 
 ### Arrêté
 
@@ -1673,50 +862,8 @@ maritime, du développement rural et des eaux et forêts et
 approuvée par le ministre de l'économie et des finances,
 ARRÊTENT :
 
-### Annexe
+### Arrêté
 
-Annexe à Parrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts
-et du ministre de l'économie et des finances n° 015-19 du 26 rabii 11 1440 (3 janvier 2019) autorisant
-la société «MEDITERRANEAN AQUAFARM SA » pour la création et exploitation d'une ferme aquacole
-dénommée « Méditerranean aquafarm » et portant publication de l'extrait de la convention y afférente
-Extrait de la convention de création et d'exploitation de la ferme aquacole dénommée « Méditerranean aquafarm »
-n°2018TTA010 signée le 28 safar 1440 (7 novembre 2018) entre la société « MEDITERRANEAN AQUAFARM SA)»
-et le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts
-(art.9 du décret n°2-08-562 du 13 hiju1429 (12 décembre 2008 ))
-Nom du bénéficiaire Société « MEDITERRANEAN AQUAFARM SA »
-Rocade Méditerranéenne, Saidia
-Au large de Ras El Ma, province de Nador
-Lieu d'implantation de la ferme aquacole :
-Soixante deux hectares et vingt huit ares (62.28)
-largeur de cent (100) mètres autour des limites extérieures d'implantation de la
-ferme aquacole
-Superficie :
-Limites externes d'implantation pour l'exploitation :
-Zone de protection :
-de jour et de nuit au moyen de signaux conformes à la réglementation relative à la
-sécurité de la navigation
-Signalement en mer :
-Activité de la ferme aquacole : Élevage des espèces halieutiques suivantes :
-- Bar ou loup { Dicentrarchus labrax );
-- Dorade Royale {Sparus auratu);
-- Maigre { Argyrosomus regius );
-Cages flottantes ;
-Technique utilisée :
-Navires de servitude
-Moyens d'exploitation :
-L'administration de la pêche maritime et l'Institut national de recherche halieutique
-(INRH).
-Contrôle et suivi technique et scientifique :
-Surveillance environnementale :
-Selon le programme prévu dans l'étude d'impact sur l'environnement
-Gestion des déchets :
-Montant de la redevance due
-Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6757 du 26 joumada II 1440 (4 mars 2019).
-Enfouissement et stockage dans des lieux autorisés à cet effet, conformément à la
-loi n° 28-00 relative à la gestion des déchets et à leur élimination.
-droit fixe : Trente et un mille cent quarante (31.140 dhs) dirhams par an
-.droit variable : 1/1000 de la valeur des espèces vendues
-N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 497
 Arrêté du ministre de l'économie et des finances n° 128-19
 du 17 joumada I 1440 (24 janvier 2019) portant agrément
 de la société « AZUR INNOVATION MANAGEMENT »
@@ -1735,7 +882,6 @@ Vu la demande d'agrément présentée par la société
 &« AZUR INNOVATION MANAGEMENT » ;
 Après avis de l'Autorité marocaine des marchés de
 capitaux, en date du 26 novembre 2018,
-ARRÊTE :
 
 ### Arrêté
 
@@ -1774,7 +920,6 @@ Après avis du conseil national de l'Ordre national des
 architectes ;
 Après avis de la commision sectorielle des sciences,
 techniques, ingénierie et architecture du 11 mai 2018,
-ARRÊTE :
 
 ### Arrêté
 
@@ -1812,7 +957,6 @@ Après avis du conseil national de l'Ordre national des
 architectes ;
 Après avis de la commision sectorielle des sciences,
 techniques, ingénierie et architecture du 19 avril 2018,
-ARRÊTE :
 
 ### Arrêté
 
@@ -1850,7 +994,6 @@ Après avis du conseil national de l'Ordre national des
 architectes ;
 Après avis de la commision sectorielle des sciences,
 techniques, ingénierie et architecture du 11 maï 2018,
-ARRÊTE :
 
 ### Arrêté
 
@@ -1888,7 +1031,6 @@ Après avis du conseil national de l'Ordre national des
 architectes ;
 Après avis de la commision sectorielle des sciences,
 techniques, ingénierie et architecture du 11 mai 2018,
-ARRÊTE :
 
 ### Arrêté
 
@@ -1927,7 +1069,6 @@ architectes ;
 Après avis de la commision sectorielle des sciences,
 techniques, ingénierie et architecture du 24 juillet 2018,
 500 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
-ARRÊTE :
 
 ### Décision
 
@@ -2084,6 +1225,1201 @@ Après avis du Comité des établissements de crédit, en
 date du 24 décembre 2018,
 DÉCIDE :
 
+### Avis
+
+Avis
+du Conseil économique, Social et Environnemental
+Migration et marché du travail
+conformément à l'article 6 de la loi organique n°128-12
+relative à son organisation et à son fonctionnement, le Conseil
+économique, Social et Environnemental (CESE) s'est autosaisi
+afin de préparer un rapport sur la migration et le marché du
+travail.
+Dans ce cadre, le Bureau du Conseil a confié à la
+Commission permanente chargée de l'emploi et des relations
+professionnelles l'élaboration dudit rapport et de son avis.
+Lors de sa 92m session ordinaire, tenue le
+30 novembre 2018, l'Assemblée Générale du Conseil
+économique, Social et Environnemental a adopté, à la quasi-
+unanimité (une seule abstention), le rapport intitulé « migration
+et marché du travail », dont est extrait le présent avis.
+Contexte
+La migration a marqué la construction des sociétés et
+le développement des nations depuis l'existence de l'humanité
+et reste largement favorisée par les différentiels de développe-
+ment, les disparités démographiques croissantes, les effets des
+changements climatiques ainsi que les nouvelles forces
+politiques et économiques.
+L'évolution récente de la migration a connu des
+changements quant à sa nature et son intensité. Elle pourrait
+s'accroitre davantage dans l'avenir, en particulier au niveau
+régional, du fait de la croissance démographique, de la
+multiplication des zones de catastrophes naturelles, de conflits
+et d'instabilités, ainsi que des arrangements régionaux
+facilitant la libre circulation des biens et personnes, y compris
+la mobilité de la main d'œuvre.
+En Afrique, la migration s'opère principalement
+à l'intérieur du continent, elle est à 80% une migration intra-
+africaine. Les personnes se déplacent essentiellement dans
+leurs sous-régions.
+Le Maroc présente un intérêt particulier compte tenu
+de ses évolutions en termes de développement économique, de
+sa politique en faveur des migrants ainsi que de sa position
+géographique. Il constitue à la fois un pays d'émigration, de
+transit ainsi qu'une terre d'immigration.
+Son processus d'intégration en Afrique d'une manière
+globale et en Afrique de l'Ouest d'une manière spécifique
+devrait entrainer une évolution du commerce des biens et
+services et une augmentation du nombre de migrants issus
+d'Afrique subsaharienne.
+Le Maroc a pris plusieurs initiatives et mesures dans le
+cadre de sa politique migratoire. Celle-ci devrait s'inscrire
+dans un cadre global assurant de la cohérence et de la
+pertinence vis-à-vis des enjeux du Maroc et des objectifs de
+son implication dans le développement économique, social et
+environnemental en Afrique, notamment en termes de
+compétitivité, de formation et du marché du travail.
+[UNICATIONS
+Compte tenu de ce contexte et conscient de l'engagement
+du Maroc à l'échelle africaine, le Conseil économique, Social
+et Environnemental (CESE), s'est autosaisi du sujet de « la
+migration et le marché du travail ».
+Objet et méthodologie de Pauto-saisine
+En raison de l'importance du sujet de la migration et de
+sa forte articulation avec le marché du travail, il parait
+nécessaire pour le Conseil, de participer au débat y afférent
+et de contribuer à l'élaboration d'une vision à la fois globale
+et cohérente en matière de migration.
+Le Conseil souhaite à travers cette réflexion faire le point
+sur l'état de la migration au Maroc, ses réalisations, ses limites
+et ses impacts, principalement sur le marché du travail, et
+proposer de nouvelles pistes pour une intégration durable des
+migrants contribuant ainsi au développement et à la prospérité
+du Maroc et des pays de provenance.
+Pour la réalisation de ce rapport, le Conseil tire profit
+de sa composition plurielle, de sa représentativité de la société
+civile organisée et de sa démarche participative. La méthodolo-
+gie est basée sur une approche interactive entre diagnostic,
+analyse et recommandations stratégiques et opérationnelles.
+La réalisation des recommandations s'est appuyée sur
+un benchmark international pour identifier les meilleures
+pratiques en termes d'insertion des migrants.
+Il convient de souligner que ce rapport traite de la
+problématique de la migration au Maroc en donnant un aperçu
+sur la corrélation entre la migration et le marché du travail.
+Cadre référentiel
+Le Conseil économique, Social et Environnemental
+considère que la question de la migration revêt une grande
+importance au niveau de la plus haute autorité de l'Etat, non
+seulement sur le plan national mais aussi à l'échelle continentale.
+Le cadre de référence adopté par le CESE pour la
+réalisation de cette auto-saisine comprend le droit international
+relatif aux droits de l'Homme ainsi que les instruments
+internationaux et régionaux en matière de migration.
+Le CESE se réfère aussi dans son analyse à la Constitution
+du Royaume du Maroc, au Référentiel de la Charte Sociale
+du Conseil et à la Stratégie Nationale d'Immigration et d'Asile.
+Il se base également sur les considérants suivants :
+«J'UnionAfricaineaconfiéàSaMajestéleRoiMohammed VI
+le mandat de « Leader de l'Union Africaine sur la Ques-
+tion de la Migration » lors de son 28ème Sommet, tenu
+les 30 et 31 janvier 2017 à Addis-Abeba ;
++ l'« Agenda Africain pour la Migration » soumis par le
+Souverain au 30%" Sommet de l'Union Africaine le 29
+janvier 2018, constitue une voie et une base fondamen-
+tale pour orienter la mise en œuvre du Pacte Mondial
+pour des Migrations sûres, ordonnées et régulières ;
+504 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
++ La co-présidence maroco-allemande du Forum
+Mondial sur la Migration et le Développement prévu
+en décembre 2018 à Marrakech. Cet événement
+international, qui intervient dans le cadre du
+débat international autour d'un grand accord
+international, sous les auspices de l'Organisation des
+Nations Unies (ONU), cherche à disposer d'un cadre
+fédérateur régissant la gouvernance mondiale des
+migrations grâce à un ensemble de principes communs,
+d'engagements et d'accords ;
++ «l'Agenda 2063» de l'Union Africaine, intitulé
+« L'Afrique que nous voulons », adopté à Addis-Abeba,
+le 31 janvier 2015, qui aspire à la libre circulation des
+personnes dans le cadre du programme d'intégration
+continentale ;
++ l'importance accordée à la question de la migration dans
+les préoccupations de la communauté internationale, a
+été traduite au niveau des Objectifs du Développement
+Durable (ODD) en 2015 comme partie intégrante de la
+politique de développement ;
++ l'Accord de Paris sur le changement climatique appelle
+à mettre en place des mesures face aux changements
+climatiques qui amènent les Parties à respecter,
+promouvoir et prendre en considération leurs
+obligations respectives concernant les migrants ;
++ l''Appel de Rabat du 31 octobre 2018 réaffirme
+l'engagement du CESE, du Parlement du Royaume du
+Maroc et des Parlements et CES-IS d'Afrique et leur
+rôle important en tant que force de propositions et de
+veille stratégique dans tous les domaines relatifs à la
+migration.
+Etat des lieux et analyse du CESE
+[. — Caractéristiques et tendances mondiales de la
+migration et des politiques migratoires
+a. Vers une hausse des flux migratoires au niveau mondial
+En 2017, le nombre de migrants dans le monde s'est élevé
+à environ 258 millions selon l'Organisation des Nations Unies,
+soit 3,4% de la population mondiale, Les femmes représen-tent
+48,4% du total des migrants contre 49,3% en 2000. La migration
+concerne un être humain sur 7, compte tenu des 740 millions
+de migrants internes comptabilisés par les Nations Unies.
+Un tiers des migrants se déplace des pays en
+développement (sud) vers les pays développés (nord) ; un tiers,
+du sud vers le sud ; et le dernier tiers du nord vers le nord. Les
+principaux pays d'émigration sont aujourd'hui des pays à
+revenu intermédiaire tels l'Inde, le Mexique, la Russie, les
+Philippines, la Turquie ou la Chine.
+Les mouvements de migration sont concentrés au niveau
+des grandes lignes de fractures géographiques, qui séparent
+des régions aux caractéristiques politico-économiques
+fortement distinctes. Ces mouvements évoluent le long de la
+Méditerranée, la frontière américano-mexicaine, ou celle entre
+la Russie et la Chine.
+Ces lignes de fracture sont en constante évolution.
+D'anciens pays de départ ou de transit sont rapidement
+devenus des pays d'accueil : c'est le cas notamment du Maroc,
+de la Côte d'ivoire et de la Turquie.
+En Afrique, le nombre de migrants est estimé, selon
+l'ONU, à 24,7 millions pour l'année 2017, représentant 2% de
+la population africaine (14% de la somme mondiale des
+migrants). Au Maroc, ce nombre est de 101.200 selon la même
+source, constituant environ 0,3% de la population du pays (en
+2017).
+Les causes des migrations sont multiples et peuvent être
+multiformes. Elles sont d'ordre économique, politique,
+éducationnel et social, environnemental et climatique,
+psychologique, ...etc.
+Les pays à revenus élevés (à leur tête les Etats Unis
+d'Amérique, l'Allemagne, l'Arabie Saoudite, le Royaume Uni)
+constituent la principale destination des migrants.
+Les flux migratoires, notamment l'immigration
+permanente de travail, vers ces pays industrialisés ont baissé
+de façon régulière depuis la crise économique et financière de
+2008. Cette diminution était très légère en 2013 pour reprendre
+un niveau plus stable les années suivantes.
+Les stéréotypes véhiculés par les médias et les politiciens
+(essentiellement d'extrême droite), principalement en Europe,
+sur la migration irrégulière, le trafic des migrants, la traite et
+le nombre élevé de morts parmi les migrants irréguliers qui
+traversent la Méditerranée, ont renforcé l'impression que la
+migration africaine est essentiellement dirigée vers l'Europe
+et constitue un danger potentiel pour les populations locales.
+Ces idées préconçues induisent des phénomènes de rejet qui
+conduisent à des phénomènes discriminatoires voire au
+développement du racisme et de la xénophobie.
+La migration africaine demeure intra-africaine. Parmi
+les 24,7 millions de migrants en Afrique, 19,4 restent sur le
+continent africain, soit 80% de la population migrante.
+La grande partie des migrants africains se déplace à
+l'intérieur du continent et reste généralement dans la sous-
+région. La part des personnes qui émigrent dans la sous-région
+est de plus de 70% en Afrique de l'Ouest, 65% en Afrique
+australe, 50% en Afrique centrale et 47% en Afrique de l'Est.
+Les effets des changements climatiques engendrent une
+vulnérabilité des populations africaines. Selon le Centre de
+surveillance des déplacements internes (IDMC, International
+Displacement Monitoring Center), les catastrophes naturelles
+dues aux changements climatiques, aux phénomènes
+météorologiques extrêmes, à la baisse des réserves d'eau, à la
+dégradation des terres agricoles et à l'insécurité alimentaire
+ont poussé 1,1 million d'Africains à quitter leur foyer en 2015.
+Le nombre des déplacés climatiques en Afrique est situé autour
+de 14 millions pour la période allant de 2009 à 2015.
+La Banque mondiale estime de son côté, qu'en l'absence
+de mesures concrètes qui permettront de lutter contre le
+changement climatique et de favoriser le développement,
+l'Afrique subsaharienne risque de compter jusqu'à 86 millions
+de déplacés climatiques internes d'ici 2050.
+Le dernier rapport spécial du Groupe d'experts
+intergouvernemental sur l'évolution du climat (GIEC), présenté
+le 8 octobre 2018, pourra amener à la révision de ces prévisions
+à la hausse.
+1 Commission économique pour l'Afrique, ONU.
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 505
+b. La migration internationale du travail caractérisée par
+l'attention portée à la main d'œuvre qualifiée
+Selon l'Organisation Internationale du Travail (OIT), la
+migration du travail désigne « toute personne qui émigre ou
+a émigré vers un pays dont elle n'a pas la nationalité en vue
+d'occuper un emploi autrement que pour son propre compte ».
+Les instruments de l'OIT relatifs aux travailleurs
+migrants se composent des conventions et recommandations
+suivantes :
+RO0O02 - Recommandation (n° 2) sur la réciprocité de
+traitement, 1919 :
+C019 - Convention (n° 19) sur l'égalité de traitement
+(accidents du travail), 1925 ;
+C021 - Convention (n° 21) sur l'inspection des émigrants,
+1926 ;
+R025 - Recommandation (n° 25) sur l'égalité de traitement
+(accidents du travail), 1925 ;
+R026 - Recommandation (n° 26) sur la protection des
+émigrantes à bord des navires, 1926 ;
+C048 - Convention (n° 48) sur la conservation des droits
+à pension des migrants, 1935 ;
+C097 - Convention (n° 97) sur les travailleurs migrants
+(révisée), 1949 ;
+R086 - Recommandation (n° 86) sur les travailleurs
+migrants (révisée), 1949 ;
+C118 - Convention (n° 118) sur l'égalité de traitement
+(sécurité sociale), 1962 ;
+C143 - Convention (n° 143) sur les travailleurs migrants
+(dispositions complémentaires), 1975 ;
+R151 - Recommandation (n° 151) sur les travailleurs
+migrants, 1975 ;
+C157 - Convention (n° 157) sur la conservation des droits
+en matière de sécurité sociale, 1982 ;
+R167 - Recommandation (n° 167) sur la conservation des
+droits en matière de sécurité sociale, 1983 ;
+C189 - Convention (n° 189) sur les travailleuses et
+travailleurs domestiques, 2011.
+En 1990, PONU a adopté la convention internationale
+sur la protection des droits de tous les travailleurs migrants
+et des membres de leur famille, en tant qu'instrument de
+protection des travailleurs migrants. Cette convention rappelle
+les conventions de l'Organisation internationale du Travail
+(n° 97 et n° 143 sur les travailleurs migrants ; recommandations
+n° 86 et n° 151 sur les travailleurs migrants ; conventions
+n° 29 et n° 105 sur le travail forcé), la Convention concernant
+la lutte contre la discrimination dans le domaine de
+l'enseignement et les autres traités internationaux des droits
+de l'Homme.
+La migration internationale du travail connait une
+variabilité des situations. Elle peut être permanente comme
+elle peut être temporaire.
+En principe, les migrants issus du regroupement familial,
+les demandeurs d'asile, les travailleurs transfrontaliers, les
+artistes et les personnes qui travaillent pour leur propre
+compte ne sont pas considérés comme étant des travailleurs
+migrants.
+Les travailleurs migrants, estimés aujourd'hui autour
+de 150,3 millions dans le monde?, ont contribué, entre les
+années 2000 et 2014, de 40 à 80% à la croissance de la force du
+travail dans les principaux pays de destination et à hauteur de
+94% du PIB mondial, l'équivalent de 6,7 trillion de dollars*.
+Cette contribution est estimée importante, car si cette catégorie
+avait fourni le même effort dans son pays d'origine, le PIB
+mondial allait perdre 3 trillions de dollars.
+Les migrations temporaires du travail constituent aussi
+un phénomène important de par le volume de flux considérables
+qu'elles impliquent et de par les compétences clés qu'elles
+apportent. Plus généralement, ces migrations de travail
+peuvent constituer un outil d'ajustement très utile sur le
+marché du travail des pays d'accueil dans la mesure où ces
+flux sont sensibles aux conditions économiques et à l'évolution
+à court terme des besoins en main d'œuvre et en compétences.
+Même si, au début, ce type de migration ne prévoit pas
+une installation permanente dans le pays d'accueil, 1l n'est
+toutefois pas sans lien avec l'installation durable de ces
+migrants temporaires, du fait qu'une part importante parmi
+eux prolongent leur séjour après avoir obtenu un changement
+de statut,
+Il y a lieu de souligner un passage d'une migration de
+travail à des formes plus fluides de mobilité.
+Une caractéristique persistante de la migration
+internationale du travail est l'attention portée à la main
+d'œuvre qualifiée. La plupart des pays ont cherché à l'attirer
+d'abord pour leur enrichissement économique par de nouveaux
+talents et connaissances, mais aussi pour combler des besoins
+dans des secteurs spécifiques, à l'instar des migrants médecins,
+informaticiens et ingénieurs, etc.
+La volonté d'attirer des travailleurs hautement qualifiés
+persiste en particulier dans les secteurs en pénurie de main-
+d'œuvre. Cette tendance se poursuit et certains pays ont mis
+en place des politiques migratoires sélectives visant à répondre
+plus précisément aux besoins de leur marché du travail.
+En résumé, les travailleurs ayant eu accès à une
+formation supérieure sont beaucoup plus mobiles que les
+travailleurs les moins qualifiés et se déplacent vers les pays où
+ils sont mieux payés et où ils peuvent avoir une meilleure
+qualité de vie et un environnement de travail plus valorisant.
+2 Département des Affaires économiques et Sociales, ONU.
+3 McKinsey Global Institute, People on the move: Global migration s
+impact and opportunity, Décembre 2016.
+506 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+c. Des politiques migratoires contrastées et souvent
+divergentes pour gérer les flux de migrants
+Parmi les recommandations formulées dans les dix-sept
+Objectifs de Développement Durable à l'horizon 2030, la pièce
+maîtresse de la migration se trouve au niveau de la cible 10.7
+qui appelle à la mise en œuvre de « politiques migratoires bien
+gérées » et englobe ainsi tous les aspects de la migration.
+Les politiques migratoires peuvent être considérées
+comme un ensemble d'actions coordonnées et d'interventions
+visant à assurer une meilleure gestion des flux de migrants sur
+un territoire donné. La mise en place de toute politique
+migratoire devrait suivre une approche planifiée pour
+l'élaboration d'une réponse d'ordre économique, politique,
+législative et administrative aux défis posés par les migrations.
+Une gestion méthodique, intégrée, sûre et humaine
+devrait permettre le maintien ou l'obtention d'un équilibre
+entre plusieurs objectifs politiques stratégiques relatifs à la
+santé publique, à la sécurité, au développement économique,
+à l'identité culturelle et à la cohésion sociale.
+Les politiques migratoires englobent des considérations
+diverses telles que couvrir les besoins du marché du travail
+lorsque la main d'œuvre locale est insuffisante tout en essayant
+de préserver les intérêts des travailleurs nationaux contre la
+concurrence extérieure.
+Il existe des politiques migratoires construites suivant
+une logique d'intégration ou une logique d'assimilation,
+d'autres suivant une logique d'immigration choisie, comme il
+y a des politiques qui ont suivi une stratégie de fermeture des
+frontières.
+En général, les pays tentent de trouver un équilibre pour
+qu'ils ne soient ni totalement ouverts ni totalement fermés.
+[IT — Les flux migratoires au Maroc et les enjeux du
+marché du travail
+a, La migration au Maroc
+Actuellement, le Maroc est considéré non seulement
+comme un pays de départ ou de transit, mais aussicommeun
+pays d'accueil et d'installation. C'est son niveau de croissance
+et sa position géographique particulière dans le continent
+africain qui ont attiré les vagues de migrations. Sa Constitution
+assure la garantie des droits pour les migrants.
+Les données officielles communiquées par le
+Département des Affaires économiques et Sociales des
+Nations Unies indiquent qu'environ 0,3% de la population
+marocaine est constituée de migrants (101.200 étrangers
+résidents sur le territoire marocain en 2017). Les femmes
+constituent 49,8% du total des migrants au Maroc au titre de
+la même année contre 48,6% en 2000, sauf que cette tendance
+ne concerne pas les travailleuses migrantes qui sont de 31,4%
+selon les données de la CNSS pour l'année 2017.
+Depuis 2013, la politique migratoire marocaine à connu
+un tournant important, suite aux Très Hautes orientations
+que Sa Majesté le Roi Mohammed VI a données au
+Gouvernement pour développer une politique migratoire
+humaniste dans sa philosophie, globale dans son contenu,
+responsable dans sa démarche, en phase avec l'évolution du
+phénomène et pionnière au niveau régional. Ces orientations
+font suite à la publication des conclusions du rapport du
+Conseil national des droits de l'Homme (CNDH),
+intitulé « Etrangers et Droits de l'Homme au Maroc : pour
+une politique d'asile et d'immigration radicalement nouvelle »,
+sur la situation des migrants au Maroc.
+C'est dans ce contexte que la Stratégie Nationale en
+matière d'Immigration et d'Asile (SNIA) a été lancée en vue
+d'assurer une meilleure gestion des flux migratoires dans le
+respect des droits de l'Homme et faciliter l'intégration des
+immigrés réguliers en mettant en place un cadre institutionnel
+adapté aux nouveaux défis.
+En ce qui concerne les opérations de régularisation des
+migrants lancées respectivement en 2014 et fin 2016, réalisées
+dans le cadre de la SNIA, le nombre de dépôts des demandes
+de régularisation a atteint plus de 56.000 demandes (le nombre
+de demandes de régularisations acceptées est estimé
+aujourd'hui à plus de 43.000).
+Les migrants non réguliers ou clandestins, non recensés
+par les services officiels, sont estimés à environ 20.000 migrants
+résidents de manière illégale sur le territoire marocain. De par
+sa nature, ce phénomène de clandestinité est difficile à mesurer.
+Si des données sur les personnes arrêtées en situation
+d'illégalité sont parfois disponibles, ce phénomène échappe
+aux statistiques.
+Le schéma explicatif du phénomène de la clandestinité
+est assez complexe, car la clandestinité n'est certes pas un état
+naturel mais le produit de plusieurs facteurs. Il s'agit
+généralement d'un mouvement qui échappe aux normes
+réglementaires.
+Depuis plusieurs années, une immigration de
+ressortissants de pays qui n'ont pas besoin de visa pour entrer
+au Maroc est apparue, essentiellement des Européens. Si
+certains d'entre eux régularisent leur situation vis-à-vis des
+autorités locales et consulaires, nombre d'entre eux travaillent
+de manière informelle sur le territoire national.
+b. Les effets sur le marché du travail marocain
+i. La migration dans le code du travail marocain
+Le Marocest le deuxième pays ayant ratifié la Convention
+des Nations Unies sur la protection des droits de tous les
+travailleurs migrants et des membres de leur famille* et l'un
+des rares pays qui ont ratifié les principaux instruments de
+VOIT relatifs à la migration, à savoir la Convention 97° sur les
+4 Dahir n° 1-93-317 du 1 ramadan 1432 (2 août 2011) portant
+publication de ia Convention internationale sur la protection des
+droits de tous les travailleurs migrants et des membres de leur
+famille, adoptée par l'Assemblée générale de l'Organisation des
+Nations Unies le 18 décembre 1990. Bulletin officiel n° 6018 du 9
+rabii I 1433 (2-2-2012)
+5 Bulletin Officieln° 6280 du 10 chaoual 1435 (7-8-2014), dahirn° 1-14-119
+du 10 ramadan 1435 (8 juillet 2014) portant promulgation de la loi
+n° 87-13 portant approbation de la convention n° 97 concernant les
+travailleurs migrants (révisée) 1949.
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 507
+travailleurs migrants (révisée) et la Convention 143% sur les
+travailleurs migrants (dispositions complémentaires). Il a de
+même conclu 11 accords de main d'œuvre et 3 conventions
+d'établissements, ce qui engage le Maroc à formuler et à
+promouvoir une politique nationale qui garantisse la non-
+discrimination entre les travailleurs migrants et nationaux.
+L'emploi de migrants est régi par les dispositions du
+Code du Travail de 2004, au niveau du Chapitre V relatif à
+l'emploi (les articles 516 à 521), des salariés étrangers, et par
+la loi n° 19-12 fixant les conditions de travail et d'emploi
+des travailleurs domestiques.
+Cet emploi est subordonné, en vertu de l'article 516 du
+code du travail, à l'obtention d'une autorisation de l'autorité
+gouvernementale chargée du travail, accordée sous forme de
+visa apposé sur le contrat de travail. Cette autorisation peut
+être retirée à tout moment par l'autorité gouvernementale
+chargée du travail.
+L'emploi de tout étranger doit être fixé dans un contrat
+dont le modèle est établi par l'arrêté n° 1391-05 du 25/11/2005
+complétant le modèle de contrat du travail réservé aux
+étrangers annexé à l'arrêté du ministre de l'emploi et de la
+formation professionnelle n° 350-05 du 09/02/2005.
+Selon le préambule du code du travail marocain : «les
+dispositions de la présente loi sont applicables sur l'ensemble
+du territoire national sans discrimination entre les salariés
+fondée sur la race, la couleur, le sexe, l'handicap, la situation
+conjugale, la religion, l'opinion politique, l'appartenance
+syndicale, l'origine nationale ou sociale ».
+[] en ressort que le principe de l'égalité et de la non-
+discrimination est bien affirmé entre les étrangers et les
+nationaux dans la relation d'emploi et dans les conditions du
+travail.
+Dans ce sillage, l'article 9, paragraphe 2 affirme qu'« est
+(...) interdite à l'encontre des salariés, toute discrimination
+fondée sur la race, la couleur, le sexe, le handicap, la situation
+conjugale, la religion, l'opinion politique, l'affiliation syndicale,
+lascendance nationale ou l'origine sociale, ayant pour effet
+de violer ou d'altérer le principe d'égalité des chances ou de
+traitement sur un pied d'égalité en matière d'emploi ou
+d'exercice d'une profession, notamment, en ce qui concerne
+l'embauchage, la conduite et la répartition du travail, la
+formation professionnelle, le salaire, l'avancement, l'octroi
+des avantages sociaux, les mesures disciplinaires et le
+licenciement ».
+Dans le domaine de l'intermédiation en matière de
+recrutement et d'embauche, l'article 478 stipule qu'est interdite
+aux agences de recrutement privées et entreprises d'emploi
+temporaires « toute discrimination basée sur la race,
+6 Bulletin Officiel n° 6493 du 18 kaada 1437 (22 août 2016),
+dahir n° 1-16-115 du 6 kaada 1437 (10 août 2016) portant promulgation
+de la loi n° 01-16 portant approbation de la convention n° 143 sur
+les travailleurs migrants (dispositions complémentaires) 1975.
+la couleur, le sexe, la religion, l'opinion politique, Pascendance
+nationale ou l'origine sociale, de nature à porter atteinte au
+principe de l'égalité des chances et de traitement en matière
+d'emploi. », ainsi que « toute discrimination se basant sur la
+sélection privative de la liberté syndicale ou de la négociation
+collective ».
+Dans le champ du travail domestique, la loi n° 19-12 de 2016
+fixant les conditions de travail et d'emploi des travailleurs
+domestiques dispose dans l'article 3 paragraphe 3 qu'en cas
+d'occupation des travailleurs domestiques étrangers, seront
+appliquées les dispositions du code du travail contenues dans
+les chapitres 5 et 6 dudit code relatives à l'emploi des salariés
+étrangers.
+Par ailleurs, l'article 41 de la loi 19-12, à l'instar du code
+du travail, précise qu'en cas d'emploi des salariés domestiques
+étrangers, par l'intermédiaire des agences de recrutement
+privées, les dispositions du code seront appliquées. Ce même
+article interdit l'intermédiation par les personnes physiques
+pour éviter les abus, le trafic humain et la traite des personnes.
+En dépit de l'affirmation du principe de l'égalité, deux
+limites restent encore à dépasser concernant la législation du
+travail :
+* dans la représentation professionnelle élue, l'article 439
+du code du travail exige la condition de nationalité
+marocaine pour être éligible à la fonction du délégué
+des salariés ;
++ dans l'exercice de la liberté syndicale, Particle 416
+du code du travail exige la condition de nationalité
+marocaine pour la direction d'un syndicat professionnel.
+[1 s'agit d'une discrimination fondée sur la nationalité
+qui contredit la règle constitutionnelle instituée par
+l'article 30 de la constitution, la disposition établie
+par l'article 9 du même texte ainsi que le principe
+de la convention internationale du travail n° 87, de
+1948 sur la liberté syndicale et la protection du droit
+syndical reconnaissant la liberté syndicale à tous les
+travailleurs « sans distinction d'aucune sorte ».
+Dans le champ de la jurisprudence sociale, la Chambre
+sociale de la Cour de Cassation a considéré dans sa décision
+n° 419 du 08/03/2016, dossier social n° 387/8/1/2015 que Île
+contrat d'immigrant est un contrat à durée déterminée qui
+prend fin après l'expiration de sa durée. Elle a rappelé qu'il
+est impossible pour les parties à la relation du travail de faire
+du contrat d'immigrant un contrat à durée indéterminée dans
+la mesure où la disposition le régissant, en l'occurrence l'article
+516 du code du travail, revêt un caractère impératif et par
+conséquent d'ordre public. Le problème n'est pas d'origine
+législative mais de nature administrative, En effet, l'autorité
+gouvernementale chargée du travail, habilitée à autoriser
+l'emploi des étrangers, accorde une autorisation pour une
+durée maximale d'un an et ce, sans aucune base juridique.
+Cette autorisation accordée pour une durée d'un an
+constitue une discrimination en matière d'emploi entre les
+étrangers (les migrants) et les nationaux.
+La considération du contrat d'immigrant en tant que
+contrat à durée déterminée prive les salariés migrants du droit
+aux indemnités.
+508 : BULLETIN OFFICIEL N° 6758 - 29 joumada II 1440 (7-3-2019)
+Par ailleurs, l'article 516 du code du travail, accorde à
+l'autorité gouvernementale chargée du travail le droit de
+retirer l'autorisation de travail d'un étranger « à tout moment »,
+ce qui risque de créer un sentiment d'insécurité dans l'emploi
+et ce, même si jusqu'à présent aucune autorisation n'a été
+retirée.
+Il y a lieu de signaler que même la durée de séjour est
+liée à la durée du contrat de travail. D'une autre manière, si
+un travailleur étranger est licencié, son séjour prendra fin avec
+cette rupture de contrat, d'où la nécessité de s'aligner aux
+instruments internationaux qui appellent les Etats et
+Gouvernements à adopter des contrats de travail à durée
+indéterminée.
+ii. Le profil des travailleurs migrants au Maroc
+Les données de la Caisse Nationale de la Sécurité Sociale
+montrent que le nombre des travailleurs migrants s'élève à
+26.283 pour l'année 2017 (dont 31,4% sont des femmes et 69,6%
+des hommes), contre 24.684 pour l'année 2016 et 23.055
+travailleurs migrants pour l'année 2015.
+Les données fournies par la CNSS montrent que pour
+l'année 2017, les nationalités les plus représentées sont : les
+Français (5.346), les Sénégalais (4.958), les Espagnols (2.722),
+les Tunisiens (964), les Philippins (905), les Ivoiriens (899), les
+Algériens (770), les Etats-uniens (667), les Turcs (664) et les
+Chinois (626).
+La majeure partie des travailleurs migrants (9.578)
+exercent dans le secteur des services suivis par 3.779 travailleurs
+migrants dans le secteur du commerce. 2,689 exercent dans
+Pindustrie manufacturière et 2.410 dans la construction. Par
+contre, le secteur de l'agriculture, sylviculture et pêche ne
+compte que 354 travailleurs migrants.
+[ Secturéactiité | [ Secturéactiité | Nombre de travailleurs migrants | de travailleurs Nombre de travailleurs migrants |
+Agriculture, sylviculture
+et prene 354
+Hébergement
+et restauration 1.696
+Information
+et communication 1.229
+Activités financières
+et d'assurance 5
+Source : CNSS 2017
+Selon les tranches de salaire mensuel, ils sont 10.138
+travailleurs migrants à gagner plus de 10.000 dhs par mois,
+3.621 travailleurs migrants à gagner entre 6.000 et 10.000 dhs/
+mois, 3.193 travailleurs migrants à gagner entre 3.000 et 4.000
+dhs/mois, alors qu'ils ne sont que 843 à gagner un salaire
+mensuel inférieur à 1.813 dhs par mois.
+Tranches qu mensuel Nombre de travailleurs migrants
+10.000 et + 10.138
+Source : CNSS 2017
+Ces données peuvent être confirmées par le Ministère
+de l'Emploi et de l'insertion professionnelle qui d'après lui,
+l'essentiel des travailleurs migrants installés au Maroc sont
+des cadres supérieurs. Près de 1.300 parmi eux sont des
+directeurs généraux et directeurs ; un peu plus de 800 sont des
+responsables. Ils sont suivis de près par les ingénieurs, cadres
+et consultants ainsi que par les techniciens et les animateurs.'
+Les contrats de cadres supérieurs concernent
+essentiellement les Européens, les Chinois et les Turcs. Les
+subsahariens (Sénégalais, Congolais, Ivoiriens et Camerounais)
+travaillent notamment dans les métiers de l'offshoring
+(essentiellement les centres d'appel).
+Les données du Ministère de l'Emploi et de l'insertion
+professionnelle les-plus récentes montrent pour l'année 2015,
+que le Maroc comptait 7.755 travailleurs migrants, alors que
+la Caisse Nationale de la Sécurité Sociale a recensé au titre de
+la même année 23.055 travailleurs migrants. L'explication qui
+peut être donnée à cette différence est que les 7.755 identifiés
+par le Ministère de l'Emploi disposent de contrats visés et à
+jour par l'autorité gouvernementale en charge de l'emploi.
+D'après les chiffres de l'inspection du travail pour
+l'année 2015, sur 1.667 travailleurs migrants recensés auprès
+de 426 entreprises, 76,12% étaient en situation régulière et
+21,47% en situation irrégulière. Les travailleurs migrants
+étaient principalement employés dans les centres urbains :
+Casa-Anfa, Safi, Rabat, Tanger, Fès-Boulemane et Agadir.
+Les données fournies par l'autorité en charge de l'Emploi
+et par les différentes institutions ne contiennent pas les
+travailleurs migrants non déclarés ni ceux qui opèrent dans
+le secteur informel.
+iii. Difficulté de mesurer Pimpact réel de la migration sur
+le marché du travail national
+Selon le Haut-Commissariat au Plan, le volume de
+l'emploi s'est établi au Maroc à 10,7 millions de personnes
+environ. La population active est estimée à 12 millions de
+personnes environ, en augmentation de 135.000 personnes par
+rapport à 2016. La population au chômage s'est accrue de
+49.000 personnes portant leur effectif à environ 1,2 millions
+de personnes au niveau national.
+7 Ministère de l'Emploi et de l'insertion professionnelle
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 509
+Avec une hausse de 4,2% du volume du chômage, le taux
+de chômage est ainsi passé de 9,9% à 10,2% au niveau national.
+Il a connu une hausse de 14,2% à 14,7% en milieu urbain et
+une stagnation à 4% en milieu rural.
+L'analyse de la relation de la migration avec le marché
+du travail devrait impérativement considérer ces données.
+L'impact sur le marché du travail n'est pas négligeable malgré
+que les 101.200 migrants ne constituent que 0,3% de la
+population marocaine.
+Les flux migratoires au Maroc pourraient à l'avenir avoir
+un impact considérable sur le marché du travail national si on
+considère les 56.000 migrants ayant déposé une demande de
+régularisation et les 20.000 autres non recensés par les services
+officiels. Certains de ces migrants occupent des emplois
+formels et d'autres pratiquent des activités de survie en
+recourant au secteur informel.
+Avec les futures migrations qui seront davantage intra-
+africaine, le Maroc aura besoin de considérer dans son
+équation de gestion des flux migratoires la transition
+démographique qui enregistre une avancée importante. Le
+pays devrait se préparer au changement démographique qu'il
+va connaître, car sa population atteindrait, selon le HCP, 43,6
+millions en 2050 au lieu de 33,8 il y a environ quatre ans.
+Face au manque de données approfondies relatives aux
+travailleurs migrants (auto-emploi, secteur informel,
+productivité et valeur ajoutée, effet de substitution par rapport
+aux émigrés ...) au Maroc, il est difficile de mesurer l'impact
+réel de la migration sur le marché du travail marocain, d'où
+le besoin d'approfondir les connaissances et développer les
+études statistiques en la matière.
+c. La migration au Maroc et les effets des crises dans la
+région MENA, notamment les crises libyenne et syrienne
+L'impact sur le Maroc et sur son marché du travail
+pourrait être encore plus important en analysant la situation
+géopolitique de la région.
+En effet, la crise qui perdure dans certains pays du
+Moyen Orient, notamment en Syrie, pourrait générer une
+augmentation de l'afflux de personnes originaires de la région.
+Aussi, les récents événements survenus en Lybie, pays
+qui avait séduit les migrants à la fois pour s'y installer et pour
+passer de l'autre côté de la Méditerranée (Italie), ont poussé
+les observateurs et les experts mondiaux de la migration à
+déduire que les flux migratoires de cette zone seront très
+probablement redirigés vers le corridor marocain.
+Ces conclusions interpellent non seulement le Maroc,
+mais aussi l'Espagne qui craint un stock de migrants de
+788.400 qui pourrait à tout moment rejoindre ses frontières
+en passant par le Maroc.
+d. Les perspectives de la migration et l'adhésion attendue
+du Maroc à la Communauté économique des Etats d'Afrique de
+l'Ouest (CEDEAO)
+Les flux migratoires issus du continent africain ne
+cessent de croitre chaque année et risquent de se multiplier
+encore plus en raison de l'évolution démographique que
+connaîtra l'Afrique dans quarante ans.
+8 Recensés par l'ONU en 2017.
+PA
+Selon la Commission économique pour l'Afrique, les
+jeunes de 15 à 24 ans représentent plus de 20% de la population
+africaine, soit plus que la moyenne internationale. Ce
+pourcentage sera revu à la hausse et l'âge médian au sein du
+continent africain qui est de 18 ans faisant de l'Afrique la plus
+jeune région du monde, ne fera que grimper à 24 ans dans les
+années à venir. Selon les tendances actuelles, l'Afrique dispose
+de la population en âge de travailler qui augmente le plus
+rapidement. Les données de la Commission économique pour
+l'Afrique des Nations Unies, font savoir qu'entre 1960 et 2010,
+la population africaine en âge de travailler (15 à 64 ans) à été
+multipliée par quatre et continuera d'augmenter au cours des
+40 prochaines années,
+Par ailleurs, l'adhésion attendue du Maroc à la
+Communauté économique des États d'Afrique de l'Ouest
+(CEDEAO), disposant d'« un protocole sur la libre circulation
+des personnes, le droit de résidence et d'établissement »,
+ouvrira le chemin à une population importante habitant une
+région qui connaît une croissance démographique rapide.
+La population en Afrique de l'Ouest est de 372 millions
+d'habitants (en 2017), et estimée atteindre 810 millions
+d'habitants en 2050. En 2017, cette région a enregistré environ
+7 millions de migrants représentant 1,8% de la population
+ouest-africaine. Ce pourcentage était de 2,2% en 2010 malgré
+que le stock de migrants ne fût à cette date que de 5 millions,
+ce qui justifie bien la croissance démographique importante
+dans cette région du continent.
+e. Analyse des impacts de l'intégration régionale du Maroc
+en Afrique de POuest sur la migration et le marché du travail
+L'intégration dans le domaine du commerce entre le
+Maroc et les pays de la CEDEAO et ses perspectives de
+renforcement dans le cadre d'une adhésion éventuelle et de la
+mise en place de la ZLEC (baisse des droits de douane
+notamment) devrait nécessairement accroitre les échanges
+dans les biens et services.
+Grâce au cadre de libre circulation des personnes
+spécifique à la CEDEAO et à la progression d'une population
+jeune en âge de travailler, les flux de migration seront appelés
+à évoluer et auront nécessairement un impact à court terme
+sur le marché du travail surtout au Maroc en raison de la forte
+interdépendance qui existe entre la mobilité de main d'œuvre
+et le développement du commerce des biens et des services
+entre les pays de la zone.
+Pour les migrants et leurs pays d'origine, limpact est
+essentiellement économique notamment à travers le transfert
+de fonds aux familles, le renforcement des compétences et de
+technologies essentiellement pour les mains d'œuvre qualifiées.
+Pour le Maroc, l'impact de cette migration de travail,
+d'origine ouest-africaine, effectuée dans un cadre légal et
+ordonné, pourrait présenter plusieurs avantages. Ses retombées
+économiques sont le renforcement des flux commerciaux, la
+satisfaction des besoins dans des filières spécialisées dans les
+secteurs de télécommunication, l'agriculture, le bâtiment et
+le tourisme ; l'effet de substitution des emplois avec les migrants
+serait dans ce cas limité. Dans le contexte actuel, l'impact de
+la main d'œuvre sur le marché du travail peut être observé
+essentiellement dans le secteur informel, principalement le
+bâtiment, l'agriculture, le commerce et certains domaines des
+services comme le tourisme.
+510 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+Une migration de travail du nord vers le sud peut
+également s'accroitre à moyen terme. Bien que cette migration
+soit actuellement limitée et peu attractive, l'expatriation de
+cadres et travailleurs marocains vers les pays de la CEDEAO
+pourrait se renforcer grâce à l'évolution des flux des IDE
+marocains, le développement du commerce et l'organisation
+du marché régional ouest africain (la mise en place du tarif
+extérieur commun TEC). Les besoins des pays de la CEDEAO
+en main d'œuvre qualifiée dans des domaines spécialisés à
+l'instar des services (finance, banque, assurances), de
+l'irrigation et de génie civile pourraient également favoriser
+cette migration.
+Globalement, l'impact positif de la migration de travail
+sur les économies aussi bien du Maroc que des pays de la zone
+CEDEAO reste actuellement limitée et peu profitable en
+termes d'amélioration de la compétitivité et de formation du
+capital humain. L'absence d'un marché de travail régional et
+d'une main d'œuvre qualifiée réduit fortement les effets
+escomptés d'une économie compétitive disposant d'une main
+d'œuvre fortement qualifiée et spécialisée, susceptible de
+favoriser l'attrait des IDE et les investissements dans
+l'innovation.
+III. — La vision du Conseil pour des politiques nationales
+migratoires collaboratives qui garantissent les droits
+de Homme des migrants et qui favorisent le Co-développement
+Le Maroc a toujours confirmé sa place en tant qu'acteur
+dynamique sur les questions migratoires à l'échelle
+internationale. En plus de son adhésion aux instruments
+internationaux de protection des droits des migrants, le Maroc
+a pris l'initiative en 1990 de travailler, avec un groupe de pays,
+sur un instrument onusien qui deviendra par la suite la
+Convention internationale sur la protection des droits de tous
+les travailleurs migrants et des membres de leur famille,
+adoptée par les Nations Unies en décembre 1990.
+Le Maroc est devenu depuis cette date un acteur
+incontournable et une partie prenante des principales
+initiatives internationales concernant la migration,
+notamment le processus de l'Initiative de Berne «Gérer la
+migration par la coopération interétatique», lancé en 2001, la
+«Commission mondiale sur les migrations internationales»
+lancée en 2005 par Kofi Annan, ancien secrétaire général de
+PONU, en vue d'intégrer la question migratoire dans l'Agenda
+International et le Forum Mondial sur la Migration et le
+Développement, coprésidé cette année par le Maroc et
+l'Allemagne.
+Malgré ces différentes initiatives, le Marocest conscient
+et convaincu que la gestion, l'ampleur et la complexité du
+phénomène migratoire soulèvent plusieurs préoccupations qui
+ne sont pas l'affaire d'un seul pays, d'une seule région ou d'un
+seul continent mais une responsabilité qui doit être partagée
+entre tous les pays et tous les acteurs. D'où l'importance
+accordée par le Maroc et par la plus haute instance de l'Etat
+à cette question.
+Comme l'a souligné Sa Majesté le Roï dans son message
+adressé au 5°" sommet Union africaine (UA)-Union
+européenne (UE) à Abidjan en novembre 2017, le Maroc
+confirme sa vocation à constituer un trait d'union naturel et
+pleinement assumé entre l'Afrique, son continent
+d'appartenance et l'Europe, son premier partenaire, qui sont,
+« aussi importants l'un à l'autre, donc aussi importants l'un que
+l'autre. Egaux devant les défis, ils le sont autant devant les
+opportunités et les responsabilités ».
+Le Maroc, en tant que pays d'accueil d'immigrés,
+essentiellement de l'Afrique subsaharienne et du Moyen-
+Orient, s'est activement engagé dans le dossier migratoire avec
+une politique nationale intégrée en matière d'immigration et
+d'asile déclinée en onze programmes d'actions concernant
+plusieurs domaines, à savoir l'éducation, la culture, la jeunesse
+et le sport, la santé, le logement, l'assistance sociale, la
+formation professionnelle et l'emploi, outre l'organisation de
+deux opérations de régularisation de ressortissants étrangers
+en situation irrégulière.
+Le Maroc est également un véritable dynamo de Agenda
+migratoire africain et a plaidé pour un « Pacte bi-continental
+nouveau », afin de déployer un nouveau modèle de partenariat,
+favorisant la compétitivité partagée, la Co-localisation des
+entreprises productives et une mobilité humaine régulière.
+L'augmentation des flux dans l'avenir nécessite de
+l'anticipation et des actions pour une meilleure intégration,
+particulièrement dans la perspective d'adhésion du Maroc à
+la CEDEAO. Le Maroc a affirmé dans ce cadre sa volonté à
+faire de la migration un levier du Co-développement, un pilier
+de la coopération Sud-Sud et un vecteur de solidarité.
+Partant de là, il s'agit de mobiliser toutes les forces vives
+de la nation autour d'une nouvelle vision pour bâtir un
+nouveau mode de gouvernance de la migration, conçu au
+niveau national et territorial à travers une approche humaniste,
+globale et commune, garantir une intégration qui maximise
+impact économique et social et assurer une meilleure
+harmonisation entre la stratégie migratoire et les autres
+politiques publiques.
+Pour cela, il convient de considérer la migration comme
+une ressource durable, susceptible, parmi d'autres moyens, de
+répondre aux différents problèmes liés au développement et
+de participer à la construction d'une société privilégiant la
+solidarité, la diversité, le vivre-ensemble, la cohésion sociale
+et le dialogue des civilisations.
+La construction de cette vision est aujourd'hui
+indispensable pour garantir la dignité et une meilleure qualité
+de vie pour tous les migrants, où chacun a la possibilité de
+concrétiser son potentiel de créativité et d'innovation et
+d'améliorer son niveau de bien-être et ce, à travers un emploi
+décent, un accès aux soins de santé de base, un système
+d'éducation et de formation et aux différents services sociaux.
+L'objectif est de faire du Maroc une plateforme régionale
+de coopération triangulaire entre le Maroc, l'Europe et
+l'Afrique en matière de renforcement de compétences et
+d'innovation, d'éducation et de formation qui pourrait
+éventuellement offrir des opportunités pouvant créer des
+richesses, de l'emploi et améliorer la compétitivité du marché
+africain.
+Cette coopération devrait se fonder sur une dynamique,
+offrant au-delà de l'apport en savoir, l'accès à des stages de
+formation professionnelle par la participation effective des
+structures déjà existantes, mais aussi par la mise en place d'un
+Campus africain des métiers au Maroc.
+Pour ce faire, et en préambule à toute déclinaison de
+cette vision, les propositions du CESE s'articulent autour des
+axes suivants :
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL Si
+Le choix assumé de l'ouverture : Suivant les directives de
+Sa Majesté le Roi Mohammed VI, et en considération
+de la position géographique du Royaume, sa tradition
+d'hospitalité, son histoire marquée par le brassage des
+civilisations, l'action nationale doit assumer ce choix
+dans le cadre des politiques publiques adoptées, sans
+pour autant s'opposer à ses exigences légitimes d'ordre
+sécuritaires ;
+L'impératif du respect de l'ordre public : La stratégie
+nationale doit s'accomplir dans le respect inaliénable
+de l'ordre public, des traditions et des constantes de la
+Nation marocaine. Ses dispositifs doivent être conçus
+dans le souci d'éviter le débat éculé du laxisme des Etats
+et de leurs institutions, tout en offrant un cadre clair
+pour lutter contre les peurs et les angoisses trop souvent
+associées au fait migratoire ;
+La prévalence de la concertation et du partenariat vers
+une Co-émergence en Afrique : Le Maroc se doit d'agir
+dans le dialogue constant avec ses partenaires immédiats
+aux niveaux bilatéral et multilatéral, en considération
+de son appartenance, de ses liens multiformes et de ses
+rapports historiques avec l'Afrique et tout en prenant en
+compte ses engagements et ses positions statutaires avec
+l'Europe. Cette logique s'étend aussi à son insertion
+dans la communauté internationale à travers la diversité
+de ses instances.
+Il convient de souligner que cet avis se focalise sur les
+immigrés et non sur les réfugiés et demandeurs d'asile.
+IV. - Les recommandations stratégiques, à caractère
+institutionnel, du Conseil économique, Social et Environnemental
+a. Mettre en place un mode de gouvernance novateur pour
+faire de la migration un réel levier de Co-développement, de
+coopération et de solidarité, capable d'assurer une cohérence des
+politiques publiques et des agendas relatifs aux migrations de
+travail
+Ce mode de gouvernance nécessite une coordination et
+une action globale et multidimensionnelle impliquant
+l'ensemble des parties prenantes pour apporter des solutions
+durables à la gestion des flux migratoires.
+Il doit être structuré suivant une démarche humaniste
+et cohérente, capable d'agir en conséquence sur les politiques
+nationales, la coordination sous régionale, l'approche
+continentale et le partenariat international.
+Il doit agir sur les causes profondes des flux migratoires,
+favoriser la création de voies régulières et faciliter la mobilité
+des compétences pour le développement de l'Afrique, tout en
+luttant contre la migration forcée, la traite et le trafic des
+migrants le long des routes migratoires.
+[1 doit prendre en considération l'interdépendance qui
+existe entre le développement du commerce et la migration du
+travail en tenant compte de la dimension de la migration du
+travail dans les accords de commerce et d'investissement
+(établis avec les pays d'Afrique).
+op
+Il doit être axé sur les priorités de développement
+économique et social à la fois dans les pays d'accueil et de
+destination (notamment la mobilité de main d'œuvre et le
+transfert de compétences et de technologie) et les domaines
+d'intégration régionale.
+Il doit assurer la cohérence entre les différents agendas
+et politiques publiques à l'échelle régionale et continentale,
+notamment par le renforcement de la coopération
+internationale.
+Dans ce cadre, tout en saluant la proposition de création
+de l'Observatoire Africain des Migrations, présenté au niveau
+de l'Agenda Africain pour la Migration, le CESE appelle à
+accélérer sa mise en place avec comme principale vocation la
+production des données sur les flux migratoires et la
+construction de capacités nationales et régionales en matière
+de collecte de données objectives et fiables, ainsi que le
+renforcement de la coopération en la matière au niveau
+_ continental et international. Une cellule de veille et de
+| prévention devrait être mise en place pour assurer le suivi de
+l'état de la migration dans chaque pays africain et partager
+les expériences afin d'impulser la promotion d'un mode de
+gouvernance africain des phénomènes migratoires.
+b. Renforcer la coopération internationale pour une
+meilleure gestion des flux migratoires
+Cette coopération internationale devrait soutenir
+l'Agenda africain pour la migration et l'atteinte des Objectifs
+de Développement Durable à l'horizon 2030, principalement
+les objectifs liés à l'élimination de l'extrême pauvreté et la faim,
+la lutte contre les changements climatiques et leurs
+répercussions, les mécanismes d'alerte précoce visant la
+prévention et la résolution des conflits et la réalisation d'un
+développement durable et inclusif.
+Il convient dans ce sens de lancer une enquête pour un
+ciblage thématique (sécurité alimentaire, énergie, éducation
+et formation, ...}) et géographique des zones les plus touchées
+par ces phénomènes migratoires en menant des actions
+préalables permettant d'agir sur leurs causes profondes et
+améliorer la qualité de vie de la population à l'intérieur des
+pays.
+[1 faut aussi prendre en considération la dimension
+sécuritaire pour lutter contre la menace structurelle
+géopolitique et le trafic des migrants et la traite humaine afin
+d'assurer des migrations sécurisées. Des mesures doivent être
+entreprises dans ce sens et orientées vers le renforcement du
+cadre législatif et politique et la consolidation des capacités
+des acteurs, l'échange des données et la coopération sécuritaire
+(policière, affaires criminelles, ..).
+La coopération internationale devrait capitaliser sur les
+réalisations tangibles du Processus de Rabat', tant en matière
+du dialogue politique que dans la mise en œuvre de projets
+concrets au niveau bilatéral, régional et multilatéral.
+Elle doit mobiliser la société civile organisée, notamment
+les associations de solidarité internationale, autour des
+questions de la protection sociale des migrants.
+9 Le Processus de Rabat est une plateforme pour la coopération
+politique entre les pays concernés par les routes migratoires qui
+relient l'Afrique Centrale, de l'Ouest et du Nord à l'Europe. https://
+www.rabat-process.org/fr/about/processus-de-rabat
+512 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+Par ailleurs, une meilleure articulation de la coopération
+marocaine et une coordination efficiente entre les différents
+intervenants est nécessaire pour l'harmonisation entre la
+stratégie migratoire et les autres politiques publiques.
+c. Assurer un financement continu pour une gestion
+efficace de l'intégration des migrants
+Le Conseil appelle à poursuivre l'appui financier à Îa
+politique migratoire en ciblant les secteurs clefs, notamment
+la protection sociale, l'emploi, la formation professionnelle et
+la santé.
+Il convient de mettre en place d'autres mécanismes de
+financement plus flexibles pour répondre aux besoins des
+politiques sectorielles concernées par l'intégration des
+migrants,
+V. Des recommandations opérationnelles pour optimiser
+la mise en œuvre de la Stratégie Nationale en matière
+d'Immigration et d'Asile
+a, Optimiser la mise en œuvre de la Stratégie Nationale
+en matière d'Immigration et d'Asile au niveau territorial
+Il convient de considérer l'intégration et la mobilité des
+migrants comme une nouvelle exigence nécessitant des actions
+concrètes de court terme déclinées au niveau local. Pour cela,
+il est nécessaire d'optimiser la mise en œuvre de la Stratégie
+Nationale en matière d'Immigration et d'Asile, notamment au
+niveau des mécanismes de gouvernance locale et territoriale
+et d'intégrer la dimension de la migration dans les programmes
+d'action communale et les programmes de développement
+régional.
+I convient dans ce sens de sensibiliser les élus locaux et
+l'administration territoriale à cette question de la migration,
+d'intégrer de façon méthodologique les besoins des migrants
+en développement et leurs droits dans le domaine de la
+planification stratégique au niveau local et régional, et de
+suivre la dynamique d'évolution territoriale de la migration
+au Maroc.
+L'objectif est de faire adhérer le migrant au territoire
+par sa participation au changement du visage de la ville et de
+la localité de destination afin d'éviter son exclusion de fait de
+la vie de la cité par la constitution de foyers à l'instar de ce qui
+est constaté autour des centres de commutation des transports
+publics (exemple de la Gare routière de Casablanca).
+Cette installation territorialisée a besoin de dépasser la
+métropolisation de la croissance économique du Maroc autour
+des grands centres urbains tels que Casablanca, Tanger ou
+Marrakech et concerner aussi l'émergence des villes moyennes.
+Une gestion efficiente de la migration au niveau
+territorial et local nécessite la mise en place de structures
+d'orientation pour les immigrés qui joueront un rôle important
+facilitant l'accueil et l'intégration au sein de la société. Elle
+nécessite aussi d'intégrer, dans une logique participative, le
+tissu associatif local ; la société civile étant un vecteur efficace
+de pédagogie pour introduire dans la politique de la ville une
+véritable culture de l'accueil.
+b. Renforcer l'intégration des immigrés au Maroc par
+emploi décent et améliorer l'accès aux services de base
+L'insertion par l'emploi constitue un élément central de
+l'intégration des étrangers au sein de la société marocaine. Le
+CESE recommande de renforcer le processus d'intégration
+des migrants par l'emploi et ce, en mettant à niveau les
+mécanismes existants permettant un accès équitable au
+marché du travail.
+Il convient tout d'abord de réaliser une étude afin de
+définir les besoins futurs sur le marché du travail et disposer
+d'une base de données sur les profils des migrants et leurs
+secteurs de travail (formels et informels).
+I s'agit aussi de développer le processus de reconnaissance
+et de validation des acquis de l'expérience professionnelle au
+profit des migrants en l'adossant à un référentiel des emplois
+et métiers et de prévoir un mécanisme d'homologation des
+diplômes.
+Le Conseil préconise également le recours à la migration
+circulaire de travail (à l'exemple de la coopération entre le
+Maroc et l'Espagne dans le secteur agricole) et simplifier les
+procédures administratives de recrutement des travailleurs
+migrants pour faciliter leur insertion et répondre aux besoins
+des acteurs économiques.
+Le Conseil appelle au renforcement du processus d'accès
+aux droits sociaux notamment dans le secteur de la santé,
+l'éducation et la formation, au même titre que les nationaux.
+Il convient dans le secteur de la santé d'accorder une
+attention particulière à la santé préventive, aux besoins de
+santé des femmes, des enfants mineurs et des migrants en
+situation de handicap et ceux à besoin spécifique.
+c. Favoriser l'intégration culturelle des migrants
+La prise en compte de la diversité ethnoculturelle et
+cultuelle représente une voie nouvelle comportant plusieurs
+défis, surtout au niveau local et territorial, Le Conseil
+préconise pour cela la mise en place d'actions adaptées aux
+réalités des territoires et des migrants pour assurer une
+meilleure intégration et créer les conditions du vivre- ensemble.
+Cela nécessite la mise en place de formations linguistiques
+appropriées permettant un apprentissage du dialecte parlé au
+Maroc.
+Le Conseil recommande également la mise en place des
+outils permettant l'échange des expériences entre les jeunes et
+le brassage des cultures à l'exemple du programme ERASMUS
+au niveau européen.
+d. Développer une dynamique favorable à la mobilité
+des personnes
+Le Conseil préconise le développement d'une nouvelle
+génération de formes et dispositifs de mobilité de personnes,
+favorisant des migrations régulières, sûres et ordonnées à
+travers des canaux d'immigration légaux plus accessibles et
+mieux adaptés.
+Pour cela, il convient de renforcer les dispositifs de
+mobilité des personnes (y compris la mobilité temporaire où
+circulaire) et élargir les régimes de visa, permettant de faciliter
+la mobilité des étudiants et des entrepreneurs.
+N° 6758 — 29 joumada II 1440 (7-3-2019) : BULLETIN OFFICIEL 513
+Ces dispositifs pourraient contribuer à limiter le trafic
+des migrants et la traite des êtres humains en favorisant les
+voies légales de migration et en protégeant les droits humains
+des migrants à travers le renforcement et la mise à niveau des
+mécanismes d'appui et d'assistance.
+Il convient aussi de créer l'environnement adéquat et les
+conditions politiques, sociales et économiques nécessaires
+pour inverser la tendance à la fuite des cerveaux et développer
+des possibilités permettant d'accélérer le retour des
+compétences marocaines établies à l'étranger.
+Dans cette même optique, le Maroc pourrait tirer profit
+de la main d'œuvre qualifiée sur le marché du travail
+international en adoptant une approche proactive d'incitation
+au recrutement de talents à l'étranger ayant acquis des
+expériences et des connaissances hautement reconnues.
+e. Renforcer le vivre-ensemble au sein de la société en
+mobilisant la société civile organisée et les médias
+Le Conseil appelle au renforcement du rôle des acteurs
+de la société civile organisée pour sensibiliser les populations
+sur le rôle positif de la migration dans le développement
+économique ainsi qu'en matière de consolidation des droits
+humains.
+Ces acteurs doivent assurer un suivi des politiques et
+actions mises en œuvre sur la migration pour garantir
+Peffectivité des lois, normes et règles nationales et
+internationales en la matière,
+Il est aussi nécessaire d'améliorer la contribution des
+syndicats et des organisations professionnelles dans le
+renforcement des capacités des travailleurs migrants.
+Les médias devraient jouer un rôle prépondérant pour
+démystifier les stéréotypes et valoriser le rôle positif de la
+migration dans le développement de la société marocaine.
+À cet effet, il convient de consolider lapproche
+médiatique dans le traitement de la question migratoire. Cette
+mesure pourra sans doute accélérer les démarches visant la
+création de cadres propices pour faciliter l'intégration des
+migrants.
+Cet axe de communication devrait concerner à la fois
+les médias publics que privés. Il convient dans ce sens de
+défendre l'idée d'une coopération assistée des médias
+marocains avec leurs homologues du continent par la mise en
+place de programmes d'échange et de co-production de
+contenus journalistiques grâce à l'appui de fonds dédiés, à
+l'image de ceux financés par l'Union européenne et appuyés
+par des chaines européennes (françaises et allemandes).
+Dans cette même perspective, le Conseil appelle à créer
+une chaine de télévision africaine basée au Maroc. La création
+de cette chaine pourrait capitaliser sur l'expérience des chaines
+marocaines qui diffusent dans plusieurs pays africains.
+f. Mettre à niveau la législation nationale
+Il est important de souligner que la mobilisation du
+corpus juridique du droit commun est une étape préalable
+nécessaire à la réussite de l'intégration des migrants. À cet
+effet, le Conseil recommande de mettre à niveau les lois
+nationales vers un alignement ou une convergence avec les
+normes internationales, ce qui appelle en premier de ratifier
+la Charte africaine des droits de l'Homme et des peuples et
+parachever le processus de ratification de certaines conventions
+internationales et créer une dynamique et une interaction entre
+ces instruments internationaux et le droit national surtout que
+le Maroc a pris des initiatives à dimension continentale et
+internationale dans le domaine de la migration.
+Il convient dans ce sens d'accélérer le processus
+d'amendement du code de la nationalité en adoptant les
+propositions législatives visant à modifier l'article 10 du dahir
+n° 1-58-250 portant code de la nationalité marocaine tel qu'il
+a été modifié et complété.
+[l convient de même de garantir le respect, au même titre
+que les marocains, des dispositifs de la législation du travail
+au profit des migrants, d'où la nécessité d'une mise à niveau
+des normes qui s'appliquent à l'emploi des étrangers sur Île
+territoire marocain, notamment celles prévues par le droit
+social marocain et la loi 02-03 relative à l'entrée et au séjour
+des étrangers au Maroc, à l'émigration et à l'immigration
+irrégulière, dont le contenu a besoin d'une adaptation par
+rapport aux garanties judiciaires prévues par les instruments
+internationaux afin d'éliminer certaines limites législatives
+entravant la jouissance des migrants de certains droits
+économiques et sociaux.
+Il serait opportun de consulter les organisations
+professionnelles d'employeurs et de travailleurs, principalement
+sur la législation du travail qui doit garantir à un migrant
+travailleur en situation régulière un traitement égal à celui des
+nationaux y compris tous les droits syndicaux.
+Enfin, le Conseil recommande d'accorder aux migrants
+le droit de constituer des associations garanti par la Convention
+internationale sur la protection des droits de tous les
+travailleurs migrants et des membres de leur famille, en
+s'alignant sur la loi sur les coopératives qui a permis à une
+grande partie de cette population de développer des activités
+génératrices de revenus.
+g. Renforcer la coordination entre les organismes
+producteurs de données et statistiques sur la migration
+Le Conseil recommande de combler le besoin de
+connaissances et d'études statistiques en matière de migrations
+et d'assurer une coordination entre les différents organismes
+producteurs de données en la matière, notamment les
+départements de l'Intérieur, de la Migration, du Travail, la
+Caisse Nationale de Sécurité Sociale (CNSS) et le Haut-
+Commissariat au Plan (HCP).
+Cette mesure permettra d'anticiper le manque de
+données approfondies relatives aux travailleurs migrants, ce
+qui favorisera, selon le CESE, une meilleure compréhension
+de la migration au Maroc et de son impact sur le marché du
+travail national.
+
 
 ---
 
@@ -2111,6 +2447,13 @@ promulguée par le dahir n° 1-96-83 du 15 rabii [ 1417
 (I août 1996).
 =INERAUX
 _ _ _ — —————————————……..—..—..  ————
+
+*Entités :* `loi
+n° 13-99` (LOI), `dahir n° 1-00-71 du 9 kaada 1420
+(15 février 2000)` (DAHIR), `loi n° 15-95` (LOI), `dahir n° 1-96-83` (DAHIR)
+
+*Organisations :* Office marocain
+de la propriété industrielle et commerciale
 
 
 ## Article 2
@@ -2161,9 +2504,11 @@ secrétaire greffier compétent est tenu de les inscrire au registre
 du commerce relatif à l'entreprise concernée, et ce, à travers
 la plateforme électronique.
 
-*Entités :* `loi n° 17-95 relative aux sociétés anonymes, promulguée` (LOI), `loi n° 13-97 relative aux groupements d'intérêt` (LOI), `29 joumada II 1440` (DATE_HIJRI)
+*Entités :* `loi n° 15-95` (LOI), `dahir n° 1-96-83` (DAHIR), `loi n° 17-95 relative aux sociétés anonymes, promulguée` (LOI), `dahir n° 1-96-124` (DAHIR), `30 août 1996` (DATE_GREGORIAN), `loi n° 5-96` (LOI), `dahir n° 1-97-49
+du 5 chaoual 1417 (13 février 1997)` (DAHIR), `loi n° 13-97 relative aux groupements d'intérêt` (LOI), `dahir n° 1-99-12 du
+18 chaoual 1419 (5 février 1999)` (DAHIR), `29 joumada II 1440` (DATE_HIJRI)
 
-*Dates :* 29 joumada II 1440
+*Dates :* 30 août 1996, 29 joumada II 1440
 
 
 ## Article 3
@@ -2242,7 +2587,7 @@ plateforme électronique.
 
 *Citations :*
 
-- `l'article 2` → Dahir n° 1-19-20 [✓]
+- `l'article 2` → Dahir n°1-18-109 [✓]
 
 
 ## Article 8
@@ -2259,7 +2604,8 @@ protection des personnes physiques à l'égard du traitement
 des données à caractère personnel, promulguée par le dahir
 n° 1-09-15 du 22 safar 1430 (18 février 2009).
 
-*Entités :* `loi n° 09-08 relative à la` (LOI)
+*Entités :* `loi n° 09-08 relative à la` (LOI), `dahir
+n° 1-09-15 du 22 safar 1430 (18 février 2009)` (DAHIR)
 
 
 ## Article 9
@@ -2275,9 +2621,9 @@ faux documents est punie des peines prévues aux articles 358,
 *Citations :*
 
 - `articles 358,
-359, 360, 361, 607-7 et 607-8` → Dahir n° 1-19-20 [✓]
+359, 360, 361, 607-7 et 607-8` → Dahir n°1-18-109 [✓]
 - `articles
-62 à 68` → Dahir n° 1-19-20 [✓]
+62 à 68` → Dahir n°1-18-109 [✓]
 
 
 ## Article 10
@@ -2327,6 +2673,13 @@ commerciale assure le secrétariat de la commission.
 
 *Entités :* `29 joumada II 1440` (DATE_HIJRI)
 
+*Organisations :* Office marocain de la propriété
+industrielle et commerciale, Agence marocaine de développement
+des investissements et des exportations, Agence du développement du digital, Agence nationale pour la promotion
+des petites et moyennes entreprises, Caisse nationale de la sécurité
+sociale, Office marocain de la propriété industrielle et
+commerciale
+
 *Dates :* 29 joumada II 1440
 
 
@@ -2355,11 +2708,370 @@ et ce, à travers la fenêtre dédiée à cet effet sur la plateforme
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6745 du 14 joumada I 1440 (21 janvier 2019).
 
-*Entités :* `Bulletin officiel » n° 6745` (BULLETIN_OFFICIEL)
+*Entités :* `loi n° 15-95` (LOI), `Bulletin officiel » n° 6745` (BULLETIN_OFFICIEL), `14 joumada I 1440` (DATE_HIJRI), `21 janvier 2019` (DATE_GREGORIAN)
 
 *Citations :*
 
-- `l'article 62` → Bulletin officiel » n° 6745 [✓]
+- `l'article 62` → loi n° 15-95 [✓]
+
+*Dates :* 14 joumada I 1440, 21 janvier 2019
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord relatif aux services aériens, fait
+à Rabat le 19 janvier 2018 entre le gouvernement du Royaume
+du Maroc et le gouvernement de la République du Panama.
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 429
+
+*Entités :* `19 janvier 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 19 janvier 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord relatif à la reconnaissance
+réciproque des permis de conduire, fait à Rabat le
+26 décembre 2017 entre le gouvernement du Royaume du
+Maroc et le gouvernement de la République du Niger.
+
+*Entités :* `26 décembre 2017` (DATE_GREGORIAN)
+
+*Dates :* 26 décembre 2017
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord relatif aux transports
+internationaux routiers de voyageurs et de marchandises, fait
+à Rabat le 8 mars 2018 entre le Royaume du Maroc et la
+République du Mali.
+430 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019) |
+
+*Entités :* `8 mars 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 8 mars 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord relatif à [a reconnaissance
+réciproque des permis de conduire, fait à Rabat le 8 mars 2018
+entre le gouvernement du Royaume du Maroc et le
+gouvernement de la République du Mali.
+
+*Entités :* `8 mars 2018` (DATE_GREGORIAN)
+
+*Dates :* 8 mars 2018
+
+
+## Article unique
+
+*Article unique*
+
+Sont approuvés les Actes de l'Union postale universelle
+(UPU) et des décisions prises par le 25°" Congrès de l'Union
+tenu à Doha en 2012.
+N° 6758 — 29 joumada IT 1440 (7-3-2019) BULLETIN OFFICIEL 431
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvée la Convention faite à Brazzaville le
+30 avril 2018 entre le gouvernement du Royaume du Maroc et
+le gouvernement de la République du Congo tendant à éviter
+la double imposition et à prévenir l'évasion fiscale en matière
+d'impôts sur le revenu.
+
+*Entités :* `30 avril 2018` (DATE_GREGORIAN)
+
+*Dates :* 30 avril 2018
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord fait à Brazzaville le 30 avril 2018
+entre le gouvernement du Royaume du Maroc et Île
+gouvernement de la République du Congo sur la promotion
+et la protection réciproques des investissements.
+432 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+
+*Entités :* `30 avril 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 30 avril 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord de coopération dans le domaine
+de la pêche maritime et d'aquaculture marine, fait à Brazzaville
+le 30 avril 2018 entre le gouvernement du Royaume du Maroc
+et le gouvernement de la République du Congo.
+
+*Entités :* `30 avril 2018` (DATE_GREGORIAN)
+
+*Dates :* 30 avril 2018
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord-cadre de coopération dans Îles
+domaines de l'agriculture et de l'élevage, fait à Brazzaville le
+30 avril 2018 entre le gouvernement du Royaume du Maroc et
+le gouvernement de la République du Congo.
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 433
+
+*Entités :* `30 avril 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 30 avril 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord-cadre de coopération dans Île
+domaine de l'énergie, fait à Brazzaville le 30 avril 2018 entre
+le gouvernement du Royaume du Maroc et le gouvernement
+de la République du Congo.
+
+*Entités :* `30 avril 2018` (DATE_GREGORIAN)
+
+*Dates :* 30 avril 2018
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord-cadre de coopération dans le
+domaine de la logistique, fait à Brazzaville le 30 avril 2018
+entre le gouvernement du Royaume du Maroc et le
+gouvernement de la République du Congo.
+434 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019) |
+
+*Entités :* `30 avril 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 30 avril 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvée la Convention faite à Bakou le 5 mars 2018
+entre le gouvernement du Royaume du Maroc et Île
+gouvernement de la République d'Azerbaïdjan tendant à éviter
+la double imposition et à prévenir l'évasion fiscale en matière
+d'impôts sur le revenu,
+—@
+
+*Entités :* `5 mars 2018` (DATE_GREGORIAN)
+
+*Dates :* 5 mars 2018
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord de coopération en matière de
+sécurité et de lutte contre la criminalité, fait à Bakou le
+5 mars 2018 entre le gouvernement du Royaume du Maroc et
+le gouvernement de la République d'Azerbaïdjan.
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL L 435
+
+*Entités :* `5 mars 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 5 mars 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvée la Convention de Bamako sur l'interdiction
+d'importer en Afrique des déchets dangereux
+et sur le contrôle des mouvements transfrontières et la gestion
+des déchets dangereux produits en Afrique, adoptée
+à Bamako (Mali) le 30 janvier 1991, sous réserve de la
+déclaration interprétative formulée par le Royaume
+du Maroc.
+Dabhir n° 1-19-33 du 21 joumada II 1440 (27 février 2019) portant
+promulgation de la loi n° 61-18 portant approbation de
+l'Accord bilatéral de coopération en matière de formation
+professionnelle agricole et de supervision technique, fait
+à Rabat le 10 juin 2018 entre le ministère de l'agriculture,
+de la pêche maritime, du développement rural et des
+eaux et forêts du Royaume du Maroc et le ministère de
+Pagriculture et du développement rural de la République
+fédérale du Nigéria.
+LOUANGE A DIEU SEUL!
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes — puisse Dieu en élever
+et en fortifier la teneur |
+Que Notre Majesté Chérifienne,
+Vu la Constitution, notamment ses articles 42, 50 et 55
+(2ÿ"e alinéa),
+A DÉCIDÉ CE QUI SUIT :
+Est promulguée et sera publiée au Bulletin officiel, à la
+suite du présent dahir, la loi n° 61-18 portant approbation de
+l'Accord bilatéral de coopération en matière de formation
+professionnelle agricole et de supervision technique, fait à
+Rabat le 10 juin 2018 entre le ministère de l'agriculture, de la
+pêche maritime, du développement rural et des eaux et forêts
+du Royaume du Maroc et le ministère de l'agriculture et du
+développement rural de la République fédérale du Nigéria,
+telle qu'adoptée par la Chambre des représentants et la
+Chambre des conseillers,
+Fait à Rabat, le 21 joumnada II 1440 (27 février 2019).
+Pour contreseing :
+Le Chef du gouvernement,
+SAAD DINE EL OTMANI.
+*
+* *
+Loi n° 61-18
+portant approbation de Accord bilatéral de coopération
+en matière de formation professionnelle agricole
+et de supervision technique, fait à Rabat le 10 juin 2018 entre
+le ministère de l'agriculture, de la pêche maritime,
+du développement rural et des eaux et forêts
+du Royaume du Maroc et le ministère de l'agriculture
+et du développement rural de la République fédérale
+du Nigéria
+
+*Entités :* `30 janvier 1991` (DATE_GREGORIAN), `21 joumada II 1440` (DATE_HIJRI), `27 février 2019` (DATE_GREGORIAN), `loi n° 61-18` (LOI), `10 juin 2018` (DATE_GREGORIAN), `ministère de l'agriculture` (MINISTERE)
+
+*Citations :*
+
+- `articles 42, 50 et 55` → loi n° 61-18 [✓]
+
+*Organisations :* ministère de l'agriculture, ministère de
+Pagriculture, Chambre des représentants, Chambre
+
+*Dates :* 30 janvier 1991, 21 joumada II 1440, 27 février 2019, 10 juin 2018, 10 juin 2018, 27 février 2019, 10 juin 2018
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord bilatéral de coopération en
+matière de formation professionnelle agricole et de supervision
+technique, fait à Rabat le 10 juin 2018 entre le ministère de
+l'agriculture, de la pêche maritime, du développement rural
+et des eaux et forêts du Royaume du Maroc et le ministère de
+l'agriculture et du développement rural de la République
+fédérale du Nigéria.
+436 BULLETIN OFFICIEL N° 6758 -- 29 joumada II 1440 (7-3-2019) |
+
+*Entités :* `10 juin 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 10 juin 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord relatif aux services aériens, fait
+à Rabat le 20 juillet 2018 entre le gouvernement du Royaume
+du Maroc et le gouvernement de la République dominicaine.
+EE marrer rater etenttinene
+
+*Entités :* `20 juillet 2018` (DATE_GREGORIAN)
+
+*Dates :* 20 juillet 2018
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvé l'Accord d'assistance mutuelle
+administrative en matière douanière, fait à Rabat le
+20 juillet 2018 entre le gouvernement du Royaume du Maroc
+et le gouvernement de la République dominicaine.
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 437
+
+*Entités :* `20 juillet 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 20 juillet 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvée la Convention en matière d'extradition,
+faite à Ouagadougou le 3 septembre 2018 entre le gouvernement
+du Royaume du Maroc et le gouvernement du Burkina Faso.
+
+*Entités :* `3 septembre 2018` (DATE_GREGORIAN)
+
+*Dates :* 3 septembre 2018
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvée la Convention de coopération judiciaire
+en matière civile, commerciale et administrative, faite à
+Ouagadougou le 3 septembre 2018 entre le gouvernement du
+Royaume du Maroc et le gouvernement du Burkina Faso.
+438 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019) :
+
+*Entités :* `3 septembre 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 3 septembre 2018, 29 joumada II 1440
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvée la Convention sur l'entraide judiciaire en
+matière pénale, faite à Ouagadougou le 3 septembre 2018 entre
+le gouvernement du Royaume du Maroc et le gouvernement
+du Burkina Faso.
+
+*Entités :* `3 septembre 2018` (DATE_GREGORIAN)
+
+*Dates :* 3 septembre 2018
+
+
+## Article unique
+
+*Article unique*
+
+Est approuvée la Convention de l'Union africaine sur la
+prévention et la lutte contre la corruption, adoptée à Maputo
+(Mozambique) le 11 juillet 2003, sous réserve des deux
+déclarations interprétatives formulées par le Royaume du
+Maroc.
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL | 439
+
+*Entités :* `11 juillet 2003` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+
+*Dates :* 11 juillet 2003, 29 joumada II 1440
 
 
 ## Article PREMIER
@@ -2371,7 +3083,7 @@ directeur de la déconcentration administrative est fixé en annexe du présen
 
 *Citations :*
 
-- `l'article 20` → Dahir n° 1-19-19 [✓]
+- `l'article 20` → décret n° 2-19-40 [✓]
 
 
 ## Article 2
@@ -2407,8 +3119,8 @@ Fait à Rabat, le 17 jourmada 1 1440 (24 janvier 2019).
 SAAD DINE EL OTMANI.
 440 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
 Modèle-type du schéma directet
-Département ministériel: … …
-Au titre de l'année ..… ,...
+Département ministériel: … […texte non modifié…] …
+Au titre de l'année ..… […texte non modifié…] ,...
 1- Premier axe: Les attri
 décisionnelle à transférer
 niveau de la régionet de la p
@@ -2421,9 +3133,9 @@ aux services centraux en
 vertu des textes législatifs
 et réglementaires en
 
-*Entités :* `ministre de l'intérieur` (MINISTERE), `ministre de l'intérieur` (MINISTERE), `29 joumada II 1440` (DATE_HIJRI), `décret n° 2-17-618` (DECRET)
+*Entités :* `ministre de l'intérieur` (MINISTERE), `24 janvier 2019` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI), `2-17-618` (DECRET)
 
-*Dates :* 29 joumada II 1440
+*Dates :* 24 janvier 2019, 24 janvier 2019, 24 janvier 2019, 29 joumada II 1440
 
 
 ## Article Annexe
@@ -2474,7 +3186,7 @@ anné
 re des attributions, des prérogatives
 missions à transférer aux services
 trés de l'Etat au niveau de la
-re ou de la province de : .… … sers .
+re ou de la province de : .… […texte non modifié…] … sers .
 Troisième
 année
 ns qui peuvent faire l'objet de
@@ -2633,7 +3345,7 @@ Définition des objectifs à réaliser par les services déconcentrés de l'Etat
 de la région de … …. … … … … …. au regard des attributions qui leur seront
 transférées, et les indicateurs de mesure de leur performance dans la réalisation de
 ces objectifs
-Objectif n° 1:  .…
+Objectif n° 1: […texte non modifié…]  .…
 Détermination des indicateurs de mesure des performances pour la
 réalisation dudit objectif
 Indicateur
@@ -2700,13 +3412,13 @@ année
 sénérale du « Bulletin officiel » n° 6746 bis du 18 joumada I 1440
 N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 451
 
-*Entités :* `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `Bulletin officiel » n° 6746` (BULLETIN_OFFICIEL), `29 joumada II 1440` (DATE_HIJRI)
+*Entités :* `29 joumada II 1440` (DATE_HIJRI), `25 janvier 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6746` (BULLETIN_OFFICIEL), `18 joumada I 1440` (DATE_HIJRI)
 
 *Citations :*
 
 - `articles 14, 15 et 16` → Bulletin officiel » n° 6746 [✓]
 
-*Dates :* 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440
+*Dates :* 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 25 janvier 2019, 18 joumada I 1440, 29 joumada II 1440
 
 
 ## Article PREMIER
@@ -2746,25 +3458,7 @@ ro UT
 CRETE TETE EE EEE EEECEELEETLEE]
 «II. — La demande de remboursement
 (La suite sans modification.)
-
-*Entités :* `31 décembre 2006` (DATE_GREGORIAN), `décret n° 2-06-574` (DECRET)
-
-*Citations :*
-
-- `l'article 25` → décret n° 2-18-638 [✓]
-- `l'article 210` → décret n° 2-18-638 [✓]
-- `l'article 112` → décret n° 2-18-638 [✓]
-
-*Personnes :* - I.
-
-*Dates :* 31 décembre 2006
-
-
-## Article 2
-
-*ART. 2. —*
-
-Le ministre de l'économie et des finances est
+ART. 2. — Le ministre de l'économie et des finances est
 chargé de l'exécution du présent décret qui sera publié au
 Bulletin officiel.
 Fait à Rabat, le 16 joumada 11 1440 (22 février 2019) .
@@ -2777,9 +3471,17 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6757 du 26 joumada II 1440 (4 mars 2019).
 452 BULLETIN OFFICIEL N° 6758 — 29 joumada IF 1440 (7-3-2019)
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `Bulletin officiel » n° 6757` (BULLETIN_OFFICIEL), `26 joumada II 1440` (DATE_HIJRI)
+*Entités :* `10 hija 1427` (DATE_HIJRI), `31 décembre 2006` (DATE_GREGORIAN), `ministre de l'économie et des finances` (MINISTERE), `22 février 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6757` (BULLETIN_OFFICIEL), `26 joumada II 1440` (DATE_HIJRI), `4 mars 2019` (DATE_GREGORIAN), `2-06-574` (DECRET)
 
-*Dates :* 26 joumada II 1440
+*Citations :*
+
+- `l'article 25` → Bulletin officiel » n° 6757 [✓]
+- `l'article 210` → Bulletin officiel » n° 6757 [✓]
+- `l'article 112` → Bulletin officiel » n° 6757 [✓]
+
+*Personnes :* - I.
+
+*Dates :* 10 hija 1427, 31 décembre 2006, 22 février 2019, 26 joumada II 1440, 4 mars 2019
 
 
 ## Article PREMIER
@@ -2790,11 +3492,13 @@ conformément aux dispositions de l'article 2 du décret susvisé n° 2-01-2324
 du 27 hija 1422 (12 mars 2002), les variétés désignées dans le tableau annexé au présent arrêté bénéficient de
 la protection des obtentions végétales.
 
-*Entités :* `décret n° 2-01-2324` (DECRET)
+*Entités :* `27 hija 1422` (DATE_HIJRI), `12 mars 2002` (DATE_GREGORIAN), `arrêté` (ARRETE), `2-01-2324` (DECRET)
 
 *Citations :*
 
-- `l'article 2` → loi n° 9-94 [✓]
+- `l'article 2` → arrêté [✓]
+
+*Dates :* 27 hija 1422, 12 mars 2002
 
 
 ## Article 2
@@ -2808,11 +3512,11 @@ ART, 3. - conformément aux dispositions de l'article 19 de la loi susvisée n°
 obtentions végétales, la durée de la protection mentionnée dans le tableau indiqué à l'article premier ci-dessus,
 débute à compter de la date de délivrance du certificat d'obtention végétale correspondant.
 
-*Entités :* `loi n° 9-94` (LOI)
+*Entités :* `arrêté` (ARRETE), `9-94` (LOI)
 
 *Citations :*
 
-- `l'article 19` → loi n° 9-94 [✓]
+- `l'article 19` → arrêté [✓]
 
 
 ## Article 4
@@ -2823,6 +3527,10 @@ Le directeur général de l'Office national de sécurité sanitaire des produits
 chargé de délivrer les certificats d'obtention végétale des variétés désignées dans le tableau annexé au présent
 arrêté.
 
+*Entités :* `arrêté` (ARRETE)
+
+*Organisations :* Office national de sécurité sanitaire
+
 
 ## Article 5
 
@@ -2832,6 +3540,7 @@ arrêté.
 Rabat, le 1“ rabii I 1440 (9 novembre 2018),
 AZIZ AKHANNOUCH.
 + *
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL | 453
 454 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019) l
 S 'À
 & ”)
@@ -2922,41 +3631,12 @@ E 8 :2 8 :
 + , KE A _ EL
 S À, 8 1 .
 & À &
+N° 6758 — 29 joumada II 1440 (7-3-2019) = BULLETIN OFFICIEL 457
 4S8 BULLETIN OFFICIEL N° 6758 — 29 joumada IT 1440 (7-3-2019) |
 
-*Entités :* `9 novembre 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `9 novembre 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
 
-*Dates :* 9 novembre 2018, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440
-
-
-## Article PREMIER
-
-*ARTICLE PREMIER. -*
-
-— La liste des zones
-susvisé n° 1950-17 avec l'indication de leur empl
-attribué conformément aux dispositions de fl”:
-annexé au présent arrêté.
-
-
-## Article 2
-
-*ART. 2. -*
-
-Le présent arrêté est publié au
-EE ————@
-e maritime, du développement rural et des eaux et forêts n° 3859-18
-fixant la liste des zones maritimes de production conchylicole
->ÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX ET FOR ÊTS,
-de la pêche maritime, du développement rural et des eaux et forêts
-elatif au classement sanitaire des zones maritimes de production
-
-
-## Article 11
-
-*article 11*
-
-de l'arrêté susvisé n°1950-17 du 14 kaada 1438 (7 août 2017),
+*Dates :* 9 novembre 2018, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440
 
 
 ## Article PREMIER
@@ -2966,6 +3646,9 @@ de l'arrêté susvisé n°1950-17 du 14 kaada 1438 (7 août 2017),
 Est approuvée la concession de l'aménagement et de la gestion de la première
 phase de la première tranche de la zone franche d'exportation Souss Massa à la société « PARC HALIOPOLIS
 SA » conformément au cahier des charges annexé à l'original du présent décret.
+
+*Entités :* `société « PARC HALIOPOLIS
+SA »` (ORG)
 
 
 ## Article 2
@@ -3012,9 +3695,9 @@ a ©
 œ
 Contenanc
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `29 joumada II 1440` (DATE_HIJRI)
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `25 février 2019` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
 
-*Dates :* 29 joumada II 1440
+*Dates :* 25 février 2019, 29 joumada II 1440
 
 
 ## Article Annexe
@@ -3046,9 +3729,9 @@ LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
 Vu l'arrêté du ministre de l'agriculture et de la pêche maritime n° 2
 de la liste des conseillers agricoles,
 
-*Entités :* `29 joumada II 1440` (DATE_HIJRI), `ministre de l'agriculture` (MINISTERE), `29 novembre 2018` (DATE_GREGORIAN), `arrêté du ministre de l'agricultu` (ARRETE), `MINISTRE DE L'AGRICULTURE` (MINISTERE), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `29 joumada II 1440` (DATE_HIJRI), `ministre de l'agriculture` (MINISTERE), `29 novembre 2018` (DATE_GREGORIAN), `arrêté du ministre de l'agricultu` (ARRETE), `31 août 2016` (DATE_GREGORIAN), `arrêté` (ARRETE)
 
-*Dates :* 29 joumada II 1440, 29 novembre 2018
+*Dates :* 29 joumada II 1440, 29 novembre 2018, 31 août 2016
 
 
 ## Article PREMIER
@@ -3076,6 +3759,24 @@ Abdelhamid Mesbah
 Habiba El Outmani
 cles JMexil ec L21147 86/2016
 =
+466 BULLETIN OFFICIEL N° 6758 — 29 joumada IT 1440 (7-3-2019)
+Yassir Hammioui
+El Amine Hammioui
+Bose pal LC129984 |  106/2016
+=
+=
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 467
+Mohamed Lahlali
+UM des 461818 |  126/2016
+_
+==
+=
+468 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+LB7546 150/2016
+Mouna Laktob
+Rachid Kjidaa ri M) Z297454 151/2016
+LEE
+ES
 N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 469
 JE224838 170/2016
 Brahim Anouar
@@ -3110,15 +3811,117 @@ Mohammed Chichi
 Ahmed El Hadraoui
 CD166106 190/2016
 Es
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 47]
+Abderrahim Amiri
+Hassane Ech-Charki
+Mohamed Touzalti
+Hassan Lhamous
+Abdessalam Ait Bary
+Mohamed Hosseni
+Lkhamis Zrhari
+Abdelghani Chyah
+Rachid Essakat
+Marouane Outahrourt
+Lahcen Ennya
+Soufiane Jorti
+Btissam Nouaiti
+Hakima El Bouhairi
+Abdelkader Naami
+Slimane Sellami
+gate pa>dil de 1B27707 215/2016
+_
+472 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+Sellam El Mouradi SLA pu
+me
+_
+=
+==
+GM132571 235/2016
 N° 6758 -- 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL : 473
 Abdellatif Hanti lei dat} ue
 ==
 =
 F97065 255/2016
+474 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+Walid Benmassoud Dgtueis Jul
+=
+_
+12/2017
+FB84801
+131884 31/2017
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL _ 475
+Jaouad Berrad sl slo>
+=
+=
+LE
+FB89404 1/2018
+476 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
+Rachid Briouqui Goal dec,
+==
+En
+LA128690 21/2018
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL | 477
+41/2018
+Abdelali Jamai A37013
+Saad El Ouadi GM115924 53/2018
+Mohamed El Hadi GA69069 | 54/2018
+GM134158 55/2018
+Mohammed Idrissi Jouicha Y741 57/2018
+Omar El Falous LB107578 | 58/2018
+Mohamed El Haila A184587 59/2018
+Ayoub Saidi
+478 BULLETIN OFFICIEL N°6758— 29 joumada II 1440 (7-3-2019)
+V125081 60/2018
+Abdelouahed El Ayadi
+gslall a>lsil de
+a gsslsll E6726 61/2018
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 479
+Mohammed Meftouh gytis des
+==
+ner
+a
+=
+==
+80/2018
+A502514
+D522179 81/2018
+480 BULLETIN OFFICIEL N° 6758 — 29 joumada [I 1440 (7-3-2019)
+Mohamed Ouchkat LR Lames
+=
+Adil Sajir ele date
+101/2018
+U142250
+pat]
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 48]
+Brahim Chibane ol esalnl
+Mohamed Sall Ulis des
+=
+U82624 121/2018
 482 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
 Abdelwahed Boussetta Cuuwgs A>lall Ac
 _
 DA14484 141/2018
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 483
+Omar Bellouridi
+gh29h se
+P3ÿS axes
+LES
+Juël (2)
+GS deal (5234
+GS des
+Cuaols deze
+Grie al Gil
+jan gamll ue
+QJlé,s demo
+Jai Loxo
+Jiÿs çux)
+gull LS;
+Jagll des
+äles jt due
+ball Goull 295
+164/2018
+E535948
+Y3534 165/2018
 484 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
 Hamid Atif
 Nassima Talhaoui
@@ -3126,6 +3929,12 @@ Yassine Hfa
 cälotall pos C68342 184/2018
 a
 ==
+N° 6758 — 29 joumada If 1440 (7-3-2019) BULLETIN OFFICIEL 485
+El Mustapha Es-salhi
+glall gélaail . | 1354948 204/2018
+galis se JA56662 206/2018
+=
+aa
 486 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
 Abdelkbir Naffal Jai pui dre
 =
@@ -3146,6 +3955,20 @@ Moha Chaouchaou
 Jalszles qussl BE39707
 D
 Driss Bouljoihel
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL L 439
+Achraf Rahoua Blog>) Là él
+_
+=
+ht
+RE RQ
+[r49482 | 306/2018
+490 BULLETIN OFFICIEL | N° 6758 — 29 joumada II 1440 (7-3-2019)
+Mustapha Ait Oummou gal Cul Lâlsyns
+=
+==
+=
+-
+1278843 326/2018
 N° 6758 - 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 491
 Abdelhadi Blaiha Let sol dre
 =
@@ -3222,22 +4045,7 @@ sate>l el F89043 |
 Technoges Coop et Extra
 Abdelmajid Marzak
 Consulting
-
-*Entités :* `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI)
-
-*Personnes :* Abdelhamid Mesbah, Habiba El Outmani, Brahim Anouar, Mohamed Barhoumi, Alaoui Gale, Moncef Boukili, Hamid Shaimi, Omar Oudrhiri Safiani, Hassan Hamecha, Nour Eddine Ben Askour, Ahmed Jelloul, Said Bouzroud, Abdellatif Hanti, Abdelwahed Boussetta Cuuwgs A>lall, Hamid Atif, Nassima Talhaoui, Ahmed Amine El Hassani El, Moha Chaouchaou, Abdelhadi Blaiha Let sol dre, Ahmed El-, Abdelhakim El Alami, Mohamed Derkaoui, Mohammed Karim, Ahmed BAGHAZ, Saïd Chekairi, Hassane Boudhaimi
-, Mohamed El Adrouji, Kamal Choubiqui, Abdelmajid Marzak
-
-*Organisations :* Mohamed Faqir JA der, Cherif Serhan, Idrissi Kaitouni, Rachid El Hender
-
-*Dates :* 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440
-
-
-## Article 2
-
-*ART. 2. —*
-
-Le présent arrêté est publié au Bulletin officiel.
+ART. 2. — Le présent arrêté est publié au Bulletin officiel.
 Le texte en langue arabe a été publié dans l'édition générale du « Bulletin
 gs JM due W47152 269/2018
 ==
@@ -3247,9 +4055,14 @@ AZIZ AKHANNOUCH.
 officiel » n° 6756 du 22 joumada II 1440 (28 février 2019).
 N° 6758 — 29 joumada II 1440 (7-3-2019) __ BULLETIN OFFICIEL 495
 
-*Entités :* `29 novembre 2018` (DATE_GREGORIAN), `22 joumada II 1440` (DATE_HIJRI), `29 joumada II 1440` (DATE_HIJRI)
+*Entités :* `arrêté n° 2627-16` (ARRETE), `21 rabii I 1440` (DATE_HIJRI), `du.27 kaada 1437` (DATE_HIJRI), `27 kaada 1437` (DATE_HIJRI), `31 août 2016` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI), `arrêté` (ARRETE), `29 novembre 2018` (DATE_GREGORIAN), `22 joumada II 1440` (DATE_HIJRI), `28 février 2019` (DATE_GREGORIAN)
 
-*Dates :* 29 novembre 2018, 22 joumada II 1440, 29 joumada II 1440
+*Personnes :* Abdelhamid Mesbah, Habiba El Outmani, Yassir Hammioui, Mohamed Lahlali, Mouna Laktob, Rachid Kjidaa ri M, Brahim Anouar, Mohamed Barhoumi, Alaoui Gale, Moncef Boukili, Hamid Shaimi, Omar Oudrhiri Safiani, Hassan Hamecha, Nour Eddine Ben Askour, Ahmed Jelloul, Said Bouzroud, Mohamed Touzalti, Hassan Lhamous, Abdessalam Ait Bary, Abdelghani Chyah, Lahcen Ennya, Soufiane Jorti, Hakima El Bouhairi, Abdelkader Naami, Slimane Sellami, Sellam El Mouradi SLA, Abdellatif Hanti, Walid Benmassoud, Rachid Briouqui Goal dec, Mohamed El, Mohamed El Haila, Ayoub Saidi, Abdelouahed El Ayadi, Mohammed Meftouh, Mohamed Ouchkat, Mohamed Sall Ulis, Abdelwahed Boussetta Cuuwgs A>lall, Omar Bellouridi, Hamid Atif, Nassima Talhaoui, Yassine Hfa, Ahmed Amine El Hassani El, Moha Chaouchaou, Achraf Rahoua Blog, Cul Lâlsyns, Abdelhadi Blaiha Let sol dre, Ahmed El-, Abdelhakim El Alami, Mohamed Derkaoui, Mohammed Karim, Ahmed BAGHAZ, Saïd Chekairi, Hassane Boudhaimi
+, Mohamed El Adrouji, Kamal Choubiqui, Abdelmajid Marzak
+
+*Organisations :* Société Horti Haouz, Mohamed Faqir JA der, Cherif Serhan, Idrissi Kaitouni, Rachid El Hender
+
+*Dates :* 21 rabii I 1440, du.27 kaada 1437, 27 kaada 1437, 31 août 2016, 31 août 2016, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 joumada II 1440, 29 novembre 2018, 22 joumada II 1440, 28 février 2019, 29 joumada II 1440
 
 
 ## Article PREMIER
@@ -3270,11 +4083,12 @@ des espèces halieutiques suivantes :
 — Dorade Royale : (Sparus aurata) ;
 — Maigre : (Argyrosomus regius) ;
 
-*Entités :* `7 novembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `société « MEDITERRANEAN
+AQUAFARM SA »` (ORG), `28 safar 1440` (DATE_HIJRI), `7 novembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
 *Personnes :* Méditerranean aquafarm, Argyrosomus regius
 
-*Dates :* 7 novembre 2018
+*Dates :* 28 safar 1440, 7 novembre 2018
 
 
 ## Article 2
@@ -3301,13 +4115,18 @@ ventilé par espèce, les entrées et les sorties du bar ou loup
 (Dicentrarchus labrax), de la dorade royale {Sparus aurata),
 du maigre (argyrosomus regius) élevés.
 
-*Entités :* `décret n°2-08-562` (DECRET)
+*Entités :* `décret n° 2-08-562` (DECRET), `arrêté conjoint` (ARRETE), `arrêté n° 1643-10` (ARRETE), `dahir
+portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « MEDITERRANEAN
+AQUAFARM SA »` (ORG)
 
 *Citations :*
 
-- `l'article 7` → décret n°2-08-562 [✓]
-- `l'article 3` → décret n°2-08-562 [✓]
-- `l'article 28-1` → décret n°2-08-562 [✓]
+- `l'article 7` → arrêté conjoint [✓]
+- `l'article 3` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
+- `l'article 28-1` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
+
+*Organisations :* Agence nationale pour le développement de
+l'aquaculture
 
 
 ## Article 4
@@ -3329,11 +4148,11 @@ et des euux et forêts, et des finances,
 AZIZ AKHANNOUCH. MOHAMED BENCHAABOUN.
 496 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
 
-*Entités :* `3 janvier 2019` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `29 joumada II 1440` (DATE_HIJRI), `décret n°2-08-562` (DECRET)
+*Entités :* `arrêté conjoint` (ARRETE), `3 janvier 2019` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `29 joumada II 1440` (DATE_HIJRI), `2-08-562` (DECRET)
 
 *Citations :*
 
-- `l'article 9` → décret n°2-08-562 [✓]
+- `l'article 9` → arrêté conjoint [✓]
 
 *Personnes :* MOHAMED BENCHAABOUN
 
@@ -3382,12 +4201,18 @@ Gestion des déchets :
 Montant de la redevance due
 Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6757 du 26 joumada II 1440 (4 mars 2019).
 Enfouissement et stockage dans des lieux autorisés à cet effet, conformément à la
+loi n° 28-00 relative à la gestion des déchets et à leur élimination.
+droit fixe : Trente et un mille cent quarante (31.140 dhs) dirhams par an
+.droit variable : 1/1000 de la valeur des espèces vendues
+N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 497
 
-*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `3 janvier 2019` (DATE_GREGORIAN), `7 novembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `12 décembre 2008` (DATE_GREGORIAN), `Bulletin officiel » n° 6757` (BULLETIN_OFFICIEL), `26 joumada II 1440` (DATE_HIJRI)
+*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `3 janvier 2019` (DATE_GREGORIAN), `société «MEDITERRANEAN AQUAFARM SA »` (ORG), `28 safar 1440` (DATE_HIJRI), `7 novembre 2018` (DATE_GREGORIAN), `société « MEDITERRANEAN AQUAFARM SA)»` (ORG), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `Société « MEDITERRANEAN AQUAFARM SA »` (ORG), `Bulletin officiel » n° 6757` (BULLETIN_OFFICIEL), `26 joumada II 1440` (DATE_HIJRI), `4 mars 2019` (DATE_GREGORIAN), `loi n° 28-00 relative à la gestion des déchets et à leur élimination` (LOI), `29 joumada II 1440` (DATE_HIJRI), `2-08-562` (DECRET)
 
 *Personnes :* Méditerranean aquafarm, Méditerranean aquafarm
 
-*Dates :* 3 janvier 2019, 7 novembre 2018, 12 décembre 2008, 26 joumada II 1440
+*Organisations :* Société, Institut national de recherche halieutique
+
+*Dates :* 3 janvier 2019, 28 safar 1440, 7 novembre 2018, 12 décembre 2008, 26 joumada II 1440, 4 mars 2019, 29 joumada II 1440
 
 
 ## Article PREMIER
@@ -3399,6 +4224,9 @@ MANAGEMENT », dont le siège social est à 117 Avenue
 Hassan II - Immeuble Blue Park - Casablanca, est agréée
 pour exercer l'activité de société de gestion d'organismes de
 placement collectif en capital.
+
+*Entités :* `société « AZUR IN NOVATION
+MANAGEMENT »` (ORG)
 
 *Organisations :* Hassan II
 
@@ -3413,9 +4241,9 @@ MOHAMED BENCHAABOUN.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6752 du 8 joumada II 1440 (14 février 2019).
 
-*Entités :* `Bulletin officiel » n° 6752` (BULLETIN_OFFICIEL), `8 joumada II 1440` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `17 joumada I 1440` (DATE_HIJRI), `24 janvier 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6752` (BULLETIN_OFFICIEL), `8 joumada II 1440` (DATE_HIJRI), `14 février 2019` (DATE_GREGORIAN)
 
-*Dates :* 8 joumada II 1440
+*Dates :* 17 joumada I 1440, 24 janvier 2019, 8 joumada II 1440, 14 février 2019
 
 
 ## Article PREMIER
@@ -3436,11 +4264,12 @@ PRET TTL T EEE TETE ETES TE EE TEE CCE ET EEE EE ETEEECEEEEEETEEEEEEEEELEEEEEEEE
 « 2016, assorti du bachelor, section architecture, délivré par
 « la même école. »
 
-*Entités :* `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `arrêté n° 2797-95` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `2797-95` (ARRETE)
 
 *Citations :*
 
-- `l'article 4` → arrêté n° 2797-95 [✓]
+- `l'article 4` → arrêté susvisé n° 2797-95 [✓]
 
 *Dates :* 20 joumada II 1416, 14 novembre 1995
 
@@ -3456,9 +4285,9 @@ Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6755 du 19 joumada IT 1440 (25 février 2019).
 498 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
 
-*Entités :* `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `29 joumada II 1440` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `29 rabii I 1440` (DATE_HIJRI), `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `25 février 2019` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
 
-*Dates :* 7 décembre 2018, 29 joumada II 1440
+*Dates :* 29 rabii I 1440, 7 décembre 2018, 25 février 2019, 29 joumada II 1440
 
 
 ## Article PREMIER
@@ -3478,11 +4307,12 @@ DDR DS nn pe ne ne np se pes nes os ss ne secs erenneresennoseoneeseses
 « nationale d'architecture et d'urbanisme - Université de
 « Carthage - Tunisie - le 26 novembre 2016. »
 
-*Entités :* `14 novembre 1995` (DATE_GREGORIAN), `26 novembre 2016` (DATE_GREGORIAN), `arrêté n° 2797-95` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `14 novembre 1995` (DATE_GREGORIAN), `26 novembre 2016` (DATE_GREGORIAN), `2797-95` (ARRETE)
 
 *Citations :*
 
-- `l'article 4` → arrêté n° 2797-95 [✓]
+- `l'article 4` → arrêté susvisé n° 2797-95 [✓]
 
 *Dates :* 14 novembre 1995, 26 novembre 2016
 
@@ -3497,9 +4327,9 @@ KHALID SAMADI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6755 du 19 joumada IT 1440 (25 février 2019).
 
-*Entités :* `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté` (ARRETE), `29 rabii I 1440` (DATE_HIJRI), `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `25 février 2019` (DATE_GREGORIAN)
 
-*Dates :* 7 décembre 2018
+*Dates :* 29 rabii I 1440, 7 décembre 2018, 25 février 2019
 
 
 ## Article PREMIER
@@ -3523,13 +4353,14 @@ OR 0 00 00 en een nen e nas an en nn ne pan es ss poses neeseenetetesses
 « la qualification of bachelor of architecture, délivrée par la
 « même université - le 22 janvier 2015. »
 
-*Entités :* `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI), `arrêté n° 2797-95` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI), `30 juin 2016` (DATE_GREGORIAN), `22 janvier 2015` (DATE_GREGORIAN), `2797-95` (ARRETE)
 
 *Citations :*
 
-- `l'article 4` → arrêté n° 2797-95 [✓]
+- `l'article 4` → arrêté susvisé n° 2797-95 [✓]
 
-*Dates :* 20 joumada II 1416, 14 novembre 1995, 29 joumada II 1440
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 29 joumada II 1440, 30 juin 2016, 22 janvier 2015
 
 
 ## Article 2
@@ -3542,9 +4373,9 @@ KHALID SAMADI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6755 du 19 joumada II 1440 (25 février 2019).
 
-*Entités :* `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `19 joumada II 1440` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `29 rabii I 1440` (DATE_HIJRI), `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `19 joumada II 1440` (DATE_HIJRI), `25 février 2019` (DATE_GREGORIAN)
 
-*Dates :* 7 décembre 2018, 19 joumada II 1440
+*Dates :* 29 rabii I 1440, 7 décembre 2018, 19 joumada II 1440, 25 février 2019
 
 
 ## Article PREMIER
@@ -3567,13 +4398,14 @@ PRPPPS EEE TETIL TITI TETE EESEE TEE EE ETES TETE TETE TEE EEE EE ELEEEEEEELEEEE
 « assorti de la qualification of bachelor of architecture,
 « délivrée par la même université - le 30 juin 2015. »
 
-*Entités :* `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `arrêté n° 2797-95` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `30 juin 2017` (DATE_GREGORIAN), `30 juin 2015` (DATE_GREGORIAN), `2797-95` (ARRETE)
 
 *Citations :*
 
-- `l'article 4` → arrêté n° 2797-95 [✓]
+- `l'article 4` → arrêté susvisé n° 2797-95 [✓]
 
-*Dates :* 20 joumada II 1416, 14 novembre 1995
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 30 juin 2017, 30 juin 2015
 
 
 ## Article 2
@@ -3586,9 +4418,9 @@ KHALID SAMADI.
 Le texte en langue arabe a été publié dans lédition générale du
 « Bulletin officiel » n° 6755 du 19 joumada II 1440 (25 février 2019).
 
-*Entités :* `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `19 joumada II 1440` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `19 joumada II 1440` (DATE_HIJRI), `25 février 2019` (DATE_GREGORIAN)
 
-*Dates :* 7 décembre 2018, 19 joumada II 1440
+*Dates :* 7 décembre 2018, 19 joumada II 1440, 25 février 2019
 
 
 ## Article PREMIER
@@ -3611,13 +4443,14 @@ CREEEEN EEE EEE TEE ETES EE TEE EEE ETES EEE TE EEE TEE ETES LEE EEE EEE ESS EEE
 « qualification of bachelor of architecture, délivrée par la
 « même université - le 22 janvier 2015. »
 
-*Entités :* `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN)
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `30 juin 2016` (DATE_GREGORIAN), `22 janvier 2015` (DATE_GREGORIAN), `2797-95` (ARRETE)
 
 *Citations :*
 
-- `l'article 4` → loi n° 103-12 [✓]
+- `l'article 4` → arrêté susvisé n° 2797-95 [✓]
 
-*Dates :* 20 joumada II 1416, 14 novembre 1995
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 30 juin 2016, 22 janvier 2015
 
 
 ## Article 2
@@ -3630,9 +4463,9 @@ KHALID SAMADI.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6755 du 19 joumada II 1440 (25 février 2019).
 
-*Entités :* `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `19 joumada II 1440` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `29 rabii I 1440` (DATE_HIJRI), `7 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6755` (BULLETIN_OFFICIEL), `19 joumada II 1440` (DATE_HIJRI), `25 février 2019` (DATE_GREGORIAN)
 
-*Dates :* 7 décembre 2018, 19 joumada II 1440
+*Dates :* 29 rabii I 1440, 7 décembre 2018, 19 joumada II 1440, 25 février 2019
 
 
 ## Article PREMIER
@@ -3650,11 +4483,11 @@ Est retiré à compter de la même date l'agrément de la
 société « Centre monétique interbancaire » en qualité de
 société de financement.
 
-*Entités :* `loi n°103-12` (LOI)
+*Entités :* `société « Centre monétique interbancaire »` (ORG), `103-12` (LOI)
 
 *Citations :*
 
-- `l'article 16` → loi n°103-12 [✓]
+- `l'article 16` → loi n° 103-12 [✓]
 
 
 ## Article 2
@@ -3666,9 +4499,9 @@ officiel.
 Rabat, le 6 rabii II 1440 (14 décembre 2018).
 ABDELLATIF JOUAHRI.
 
-*Entités :* `14 décembre 2018` (DATE_GREGORIAN)
+*Entités :* `6 rabii II 1440` (DATE_HIJRI), `14 décembre 2018` (DATE_GREGORIAN)
 
-*Dates :* 14 décembre 2018
+*Dates :* 6 rabii II 1440, 14 décembre 2018
 
 
 ## Article PREMIER
@@ -3686,11 +4519,11 @@ Rabat, le 23 rabii [1 1440 (31 décembre 2018).
 ABDELLATIF JOUAHRI.
 N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 501
 
-*Entités :* `31 décembre 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI), `loi n°103-12` (LOI)
+*Entités :* `société « Barid Cash »` (ORG), `loi n° 103-12` (LOI), `31 décembre 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI), `103-12` (LOI)
 
 *Citations :*
 
-- `l'article 16` → loi n°103-12 [✓]
+- `l'article 16` → loi n° 103-12 [✓]
 
 *Dates :* 31 décembre 2018, 29 joumada II 1440
 
@@ -3702,6 +4535,8 @@ N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 501
 , — Est octroyé un nouvel agrément à
 la société « NA PS », sise à Casablanca, n°16, rue Abdelhak
 Ben Mehyou, en qualité d'établissement de paiement.
+
+*Entités :* `société « NA PS »` (ORG)
 
 *Organisations :* Abdelhak
 Ben Mehyou
@@ -3718,9 +4553,9 @@ financement spécialisée dans la mise à la disposition de la
 clientèle de tous moyens de paiement utilisant un support
 électronique ou leur gestion.
 
-*Entités :* `4 joumada II 1433` (DATE_HIJRI)
+*Entités :* `4 joumada II 1433` (DATE_HIJRI), `26 avril 2012` (DATE_GREGORIAN), `société « M2M SPS »` (ORG)
 
-*Dates :* 4 joumada II 1433
+*Dates :* 4 joumada II 1433, 26 avril 2012
 
 
 ## Article 3
@@ -3733,9 +4568,9 @@ Rabat, le 23 rabii I 1440 (31 décembre 2018).
 ABDELLATIF JOUAHRI.
 ro oo
 
-*Entités :* `31 décembre 2018` (DATE_GREGORIAN)
+*Entités :* `23 rabii I 1440` (DATE_HIJRI), `31 décembre 2018` (DATE_GREGORIAN)
 
-*Dates :* 31 décembre 2018
+*Dates :* 23 rabii I 1440, 31 décembre 2018
 
 
 ## Article PREMIER
@@ -3749,6 +4584,8 @@ activités en qualité de société de financement suite à sa fusion-
 absorption de la société « TASLIF » après l'octroi à cette
 dernière un nouvel agrément après le changement de contrôle
 en faveur du groupe « SANLAM ».
+
+*Entités :* `société «SALA FIN »` (ORG), `société « TASLIF »` (ORG), `groupe « SANLAM »` (ORG)
 
 *Organisations :* Sidi Maârouf
 
@@ -3779,6 +4616,9 @@ Arradi, ville Neuve de Fès un nouvel agrément pour continuer
 de fusion-absorption de la « Banque Populaire Meknès » par
 la « Banque populaire Fès-Taza ».
 
+*Organisations :* Banque Populaire
+Fès, Banque Populaire Meknès, Banque populaire Fès-Taza
+
 
 ## Article 2
 
@@ -3790,9 +4630,9 @@ Rabat, le 26 rabii II 1440 (3 janvier 2019).
 ABDELLATIF JOUAHRI.
 N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 503
 
-*Entités :* `3 janvier 2019` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
+*Entités :* `26 rabii II 1440` (DATE_HIJRI), `3 janvier 2019` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
 
-*Dates :* 3 janvier 2019, 29 joumada II 1440
+*Dates :* 26 rabii II 1440, 3 janvier 2019, 29 joumada II 1440
 
 
 ---
@@ -3800,56 +4640,7 @@ N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 503
 ## Entités du préambule
 
 
-- `29 joumada II 1440` → DATE_HIJRI
-- `26 décembre 2017` → DATE_GREGORIAN
-- `2 joumada I 1440` → DATE_HIJRI
-- `9 janvier 2019` → DATE_GREGORIAN
-- `29 joumada II 1440` → DATE_HIJRI
-- `21 joumada II 1440` → DATE_HIJRI
-- `21 joumada II 1440` → DATE_HIJRI
-- `21 joumada II 1440` → DATE_HIJRI
-- `21 joumada II 1440` → DATE_HIJRI
-- `21 joumada II 1440` → DATE_HIJRI
-- `29 joumada II 1440` → DATE_HIJRI
-- `ministère de l'agriculture` → MINISTERE
-- `ministère de l'agriculture` → MINISTERE
-- `21 joumada II 1440` → DATE_HIJRI
-- `ministère de l'agriculture` → MINISTERE
-- `21 joumada II 1440` → DATE_HIJRI
-- `3 septembre 2018` → DATE_GREGORIAN
-- `3 septembre 2018` → DATE_GREGORIAN
-- `3 septembre 2018` → DATE_GREGORIAN
-- `31 décembre 2006` → DATE_GREGORIAN
-- `29 joumada II 1440` → DATE_HIJRI
-- `ministre de l'agriculture` → MINISTERE
-- `9 novembre 2018` → DATE_GREGORIAN
-- `ministre de l'agriculture` → MINISTERE
-- `25 décembre 2018` → DATE_GREGORIAN
-- `ministre de l'agriculture` → MINISTERE
-- `29 novembre 2018` → DATE_GREGORIAN
-- `ministre de l'agriculture` → MINISTERE
-- `ministre de l'agriculture` → MINISTERE
-- `3 janvier 2019` → DATE_GREGORIAN
-- `ministre de l'économie et des finances` → MINISTERE
-- `7 décembre 2018` → DATE_GREGORIAN
-- `14 novembre 1995` → DATE_GREGORIAN
-- `7 décembre 2018` → DATE_GREGORIAN
-- `14 novembre 1995` → DATE_GREGORIAN
-- `7 décembre 2018` → DATE_GREGORIAN
-- `20 joumada II 1416` → DATE_HIJRI
-- `14 novembre 1995` → DATE_GREGORIAN
-- `7 décembre 2018` → DATE_GREGORIAN
-- `14 novembre 1995` → DATE_GREGORIAN
-- `7 décembre 2018` → DATE_GREGORIAN
-- `20 joumada II 1416` → DATE_HIJRI
-- `14 novembre 1995` → DATE_GREGORIAN
-- `14 décembre 2018` → DATE_GREGORIAN
-- `31 décembre 2018` → DATE_GREGORIAN
-- `31 décembre 2018` → DATE_GREGORIAN
-- `2 joumada I 1440` → DATE_HIJRI
-- `9 janvier 2019` → DATE_GREGORIAN
-- `3 janvier 2019` → DATE_GREGORIAN
-- `29 joumada II 1440` → DATE_HIJRI
+- `Dahir n°1-18-109` → DAHIR
 - `2 joumada I 1440` → DATE_HIJRI
 - `9 janvier 2019` → DATE_GREGORIAN
 - `loi n° 88-17 relative à la création et` → LOI

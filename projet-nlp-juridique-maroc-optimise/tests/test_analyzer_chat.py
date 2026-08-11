@@ -84,3 +84,44 @@ def test_anciennes_regles_conservees():
     assert "n° 7510" in _chat_answer(data, "numero bo")
     assert "Recherche [mot-clé]" in _chat_answer(data, "xyzzy inconnu ??") or \
            "Je n'ai pas trouvé" in _chat_answer(data, "xyzzy inconnu ??")
+
+
+def _make_entity_data() -> dict:
+    """Document avec un dahir de promulgation dont le numéro ne figure QUE
+    dans le préambule du décret (jamais dans le corps d'un article)."""
+    return {
+        "articles": [
+            {"number": "unique", "text": "Est promulguée la loi n° 20-19.",
+             "entities": [{"label": "DAHIR", "text": "dahir n° 1-16-115 du 6 kaada 1437 (10 août 2016)"}]},
+        ],
+        "preamble_entities": [
+            {"label": "DAHIR", "text": "dahir n° 1-18-109 du 2 joumada I 1440 (9 janvier 2019)"},
+        ],
+        "decrees": [
+            {"preamble": "Dahir n° 1-19-19 du 21 joumada II 1440 (27 février 2019) portant promulgation de la loi n° 20-19",
+             "entities": [{"label": "DAHIR", "text": "Dahir n° 1-19-19"},
+                          {"label": "LOI", "text": "loi n° 20-19"}]},
+            {"preamble": "Dahir n° 1-19-20 du 21 joumada II 1440 (27 février 2019) portant promulgation de la loi n° 20-19",
+             "entities": [{"label": "DAHIR", "text": "Dahir n° 1-19-20"}]},
+        ],
+        "bo_number": "6758",
+        "date_publication": "2019-03-07",
+        "lang": "fr",
+    }
+
+
+def test_count_entities_includes_decree_preambles():
+    """Les titres de dahirs de promulgation (préambules par décret) doivent
+    compter dans la répartition des entités : articles (1) + préambule du
+    document (1) + préambules par décret (2) = 4 DAHIR."""
+    from app.analyzer import _count_entities
+    counts = _count_entities(_make_entity_data())
+    assert counts.get("DAHIR") == 4, f"DAHIR compté : {counts.get('DAHIR')}"
+
+
+def test_chat_entite_rule_counts_decree_preambles():
+    """La règle « combien d'entités » du chat documentaire inclut les
+    préambules par décret (régression : BO_6758 annonçait DAHIR : 9 alors
+    que le document contient 21 dahirs)."""
+    answer = _chat_answer(_make_entity_data(), "combien d'entités ?")
+    assert "DAHIR : 4" in answer, answer

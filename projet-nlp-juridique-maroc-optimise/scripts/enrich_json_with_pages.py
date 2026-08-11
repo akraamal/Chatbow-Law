@@ -350,6 +350,37 @@ def _classify_instrument_type(articles: list[dict], preamble_context: str = "") 
         if m:
             return _AR_TYPE_MAP[m.group(0).strip()]
 
+    # Priority 0 : le préambule commence PAR CONSTRUCTION à l'en-tête de
+    # l'instrument (title de get_per_decree_preamble_map / _build_instrument).
+    # On lit donc le premier mot du préambule — c'est plus fiable qu'un
+    # scan TYPE+n° qui peut capturer des citations de notes de bas de page
+    # (« …Bulletin Officiel n° 6493…\ndahir n° 1-16-115… » dans l'Avis du
+    # CESE, BO_6758).
+    _HEAD_TYPE_RE = re.compile(
+        r"^\s*(AVIS|D[ÉE]CRET|ARR[EÊ]T[EÉ](?:\s+CONJOINT)?|DAHIR|"
+        r"D[ÉE]CISION|CIRCULAIRE|LOI(?:\s*-?\s*cadre)?)\b",
+        re.IGNORECASE,
+    )
+    head = _HEAD_TYPE_RE.match(preamble_context)
+    if head:
+        h = head.group(1).upper().replace("É", "E").replace("Ê", "E").replace("È", "E")
+        if "CONJOINT" in h:
+            return "ARRETE_CONJOINT"
+        if "ARRETE" in h:
+            return "ARRETE"
+        if "DECRET" in h:
+            return "DECRET"
+        if "DAHIR" in h:
+            return "DAHIR"
+        if "CIRCULAIRE" in h:
+            return "CIRCULAIRE"
+        if "DECISION" in h:
+            return "DECISION"
+        if h.startswith("AVIS"):
+            return "AVIS"
+        if h.startswith("LOI"):
+            return "LOI"
+
     # Find all TYPE + n° matches. The type keyword and the number may be
     # separated by the instrument's own title (e.g. "Arrêté conjoint du
     # ministre délégué auprès de la ministre de l'économie et des
@@ -361,6 +392,19 @@ def _classify_instrument_type(articles: list[dict], preamble_context: str = "") 
         r"(?:[\s\S]{0,160}?)N[°o]\s*\d",
         preamble_upper,
     ))
+
+    def _is_citation(pos: int) -> bool:
+        """Un match situé à une position de continuation (ligne précédente
+        se terminant par une minuscule ou une virgule) est une citation
+        (« …,\ndahir n° 1-16-115 … ») et non l'en-tête propre."""
+        start_line = preamble_context.rfind("\n", 0, pos) + 1
+        j = start_line - 2
+        while j >= 0 and preamble_context[j] in " \t\r":
+            j -= 1
+        return j >= 0 and (preamble_context[j].islower()
+                           or preamble_context[j] in ",;:(")
+
+    matches = [m for m in matches if not _is_citation(m.start())]
     if matches:
         # Find the first "Vu" clause — cited references that follow
         # "Vu" are NOT the instrument's own heading.
@@ -455,11 +499,24 @@ def _extract_reference(text: str, instr_type: str) -> str | None:
     and return the first reference number found there (2-part or 3-part).
     """
     type_pat = re.compile(
-        r"(?:^|\n)\s*(Loi(?:-cadre)?|D[ée]cret|Arr[êe]t[ée](?:\s+conjoint)?|"
+        r"(?:^|\n)\s*(Avis|Loi(?:-cadre)?|D[ée]cret|Arr[êe]t[ée](?:\s+conjoint)?|"
         r"Dahir|Circulaire|D[ée]cision)",
         re.IGNORECASE | re.MULTILINE,
     )
-    type_match = type_pat.search(text)
+    # Le type propre de l'instrument est en tête de ligne ; un type en
+    # position de continuation (ligne précédente finissant par minuscule,
+    # virgule, point-virgule, deux-points ou parenthèse) est une citation
+    # (« …(22 août 2016),\ndahir n° 1-16-115 … » — note de bas de page de
+    # l'Avis du CESE, BO_6758) à écarter.
+    type_match = None
+    for cand in type_pat.finditer(text):
+        start_line = text.rfind("\n", 0, cand.start()) + 1
+        j = start_line - 2
+        while j >= 0 and text[j] in " \t\r":
+            j -= 1
+        if j < 0 or not (text[j].islower() or text[j] in ",;:("):
+            type_match = cand
+            break
     if not type_match:
         # Édition arabe : « قرار لوزير … رقم 731.25 » — le numéro propre
         # suit « رقم » dans la portion du titre, AVANT la première référence
@@ -496,6 +553,18 @@ def _extract_reference(text: str, instr_type: str) -> str | None:
     else:
         own_text = text[type_pos:vu_pos]
 
+    # Les citations de notes de bas de page démarrent par le rappel du BO
+    # (« 6 Bulletin Officiel n° 6493 du 18 kaada 1437 … ») : couper avant.
+    bo_idx = own_text.lower().find("bulletin officiel")
+    if bo_idx != -1:
+        own_text = own_text[:bo_idx]
+
+    # Avis du CESE/CCSA : pas de numéro propre (les « n° » cités dans le
+    # corps — loi organique n°128-12, dahir n° 1-16-115 — sont des
+    # références croisées, BO_6758).
+    if instr_type == "AVIS":
+        return None
+
     # Try 3-part number first (most common for moroccan legal refs)
     m = re.search(r"(?i:n[°oº]\s*)?(\d{1,4}[-–.]\d{2}[-–.]\d{2,4})", own_text)
     if m and not _ref_is_false_positive(m, own_text):
@@ -505,6 +574,14 @@ def _extract_reference(text: str, instr_type: str) -> str | None:
     m = re.search(r"(?i:n[°oº]\s*)?(\d{1,4}[-–.]\d{2,4})", own_text)
     if m and not _ref_is_false_positive(m, own_text):
         return m.group(1)
+
+    # Décisions (ex. « Décision du Wali de Bank Al-Maghrib n° 79 du … ») :
+    # numéro simple sans séparateur.  Le préfixe « n° » est obligatoire —
+    # sans lui, un montant ou un jour isolé serait capturé à tort.
+    if instr_type == "DECISION":
+        m = re.search(r"(?i:n[°oº]\s*)(\d{1,4})(?![\d-])", own_text)
+        if m:
+            return m.group(1)
 
     return None
 
@@ -814,6 +891,7 @@ _TYPE_LABELS = {
     "ARRETE_CONJOINT": "arrêté conjoint",
     "DECISION": "décision",
     "CIRCULAIRE": "circulaire",
+    "AVIS": "avis",
 }
 
 # Dates "du 20 kaada 1447 (8 mai 2026)" — hijri puis grégorienne entre
