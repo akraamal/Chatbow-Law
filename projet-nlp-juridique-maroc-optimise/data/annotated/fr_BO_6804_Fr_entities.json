@@ -1,830 +1,143 @@
 {
   "source": "data\\processed\\fr\\BO_6804_Fr.txt",
-  "lang": "fr",
+  "lang": "ar",
   "doc_id": "BO_6804_Fr",
-  "bo_number": null,
-  "date_publication": "2019-08-15",
+  "bo_number": "6804",
+  "bo_number_source": "filename",
+  "bo_number_confidence": "low",
+  "bo_number_header": null,
+  "date_publication": null,
   "edition_label": "huitiäma",
-  "preamble_text": "Equivalences de diplômes.\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1688-19 du 23 ramadan 1440 (29 mai 2019)\ncomplétant l'arrêté n° 2340-03 du 23 chaoual 1424\n(18 décembre 2003) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en neurologie...\nPages\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1873-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 2075-09 du\n11 chaabane 1430 (3 août 2009) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en endocrinologie et\nmaladies métaboliques... ss... 1825\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement\nsupérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et\nde la recherche scientifique n° 1877-19\ndu 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale\nen radiologie... ss...\nla liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en oto-rhino-\nlaryngologie..… […texte non modifié…]  ss\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1879-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 346-04\ndu 4 moharrem 1425 (25 février 2004) fixant\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1880-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 743-09 du 26 rabüi I 1430\n(24 mars 2009) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en biologie médicale (ou analyses\nbiologiques médicales)... 1827\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1882-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 753-06\ndu 27 rabii I 1427 (26 avril 2006) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en néphrologie. 1827\nN° 6804 — 13 hia 1440 (15-8-2019) , BULLETIN OFFICIEL 1819\nPages\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement\nsupérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et\nde la recherche scientifique n° 1884-19\ndu 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 570-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale\nen dermatologie. ss 1828\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1885-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 666-03 du\n7 rejeb 1424 (4 septembre 2003) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en urologie..… […texte non modifié…] ….……….\nla liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en traumatologie-\northopédie […texte non modifié…]  ss\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1886-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 1482-04\ndu 24 joumada IT 1425 (11 août 2004) fixant\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement\nsupérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et\nde la recherche scientifique n° 1888-19\ndu 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 173-18 du 23 rejeb 1439 (10 avril 2018)\nfixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en chirurgie\nvasculaire périphérique. 1829\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1889-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 753-06\ndu 27 rabii I 1427 (26 avril 2006) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en néphrologie. 1830\nD\nPages\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1890-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 950-04\ndu 6 rabii II 1425 (26 mai 2004) fixant la\nliste des diplômes reconnus équivalents au\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1891-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 2871-06 du 8 hija 1427\n(29 décembre 2006) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en médecine interne... 1831\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement\nsupérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et\nde la recherche scientifique n° 1895-19\ndu 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en radiologie. 1831\ndiplôme de spécialité médicale en gynécologie-\nObSHÉITIQUE.\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1899-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 1482-04 du\n24 joumada II 1425 (11 août 2004) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en traumatologie-\northopédie […texte non modifié…]  ss 1832\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 2003-19 du 13 chaoual 1440\n(17 juin 2019) complétant l'arrêté n° 405-14 du\n7 rabii II 1435 (7 février 2014) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en médecine du travail. 1832\n1890 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\na\nPages\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 2004-19 du 13 chaoual 1440\n(17 juin 2019) complétant l'arrêté n° 173-18\ndu 23 rejeb 1439 (10 avril 2018) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nAgréments :\n+ Société « SOFAC ».\nDécision du Wali de Bank Al-Maghrib n° 95 du\n12 kaada 1440 (15 juillet 2019) portant nouvel\nagrément de la société de financement d'achats\nà crédit « SOFAC » en qualité de société de\nfinancement... 1833\n+ Société « Orange Money Maroc ».\nde spécialité médicale en chirurgie vasculaire\npériphérique... ss\nDécision du Wali de Bank Al-Maghrib n° 94 du\n24 chaoual 1440 (28 juin 2019) portant agrément\nde la société « Orange Money Maroc » en\nqualité d'établissement de paiement...\n+ Société « DIGIFT ».\nDécision du Wali de Bank Al-Maghrib n° 95\ndu 6 kaada 1440 (9 juillet 2019) portant\nagrément de la société « DIGIFTI » en qualité\nd'établissement de paiement. 1834\nD\nPages\ne Société « MT Cash ».\nDécision du Wali de Bank Al-Maghrib n° 96\ndu 7 kaada 1440 (10 juillet 2019) portant\nagrément de la société « MT Cash » en qualité\nd'établissement de paiement. 1835\nCONSEIL SUPERIEUR DE LA\nCOMMUNICATION AUDIOVISUELLE\nDécision du CSCA n° 39-19 du 10 ramadan 1440\n(16 mai 2019)...\nDécision du CSCA n° 41-19 du 10 chaoual 1440\n(14 juin 2019)... 1837\nDécision du CSCA n° 42-19 du 10 chaoual 1440\n(14 juin 2019)...\nDécision du CSCA n° 43-19 du 10 chaoual 1440\n(14 juin 2019),\nDécision du CSCA n° 44-19 du 17 ramadan 1440\n(23 mai 2019) Re\nDécision du CSCA n° 48-19 du 10 chaoual 1440\n(14 juin 2019),\nDécision du CSCA n° 49-19 du 10 chaoual 1440\n(14 juin 2019).\nNO £RN4 _ 13 hia 1440 (15-8-2019) BULLETIN OFFICIEL 1821\nTEXTES Gi]\ndécret n° 2-19-592 du 20 kaada 1440 (23 juillet 2019)\napprouvant la convention de prêt conclue le 6 avril 2019\nentre le gouvernement du Royaume du Maroc et la Banque\nislamique de développement, portant sur un montant de\nquatre millions de dollars des Etats-Unis d'Amérique\n(4.000.000 SUS), consenti par ladite Banque au Royaume\ndu Maroc, en vue de la participation au financement du\nprojet de développement rural inclusif dans la région de\nTanger Tétouan Al-Hoceima.\nLE CHEF DU GOUVERNEMENT,\nVu la loi de finances n° 80-18 pour l'année budgétaire\n2019, promulguée par le dahir n° 1-18-104 du 12 rabii II 1440\n(20 décembre 2018), notamment son article 51 ;\nVu le paragraphe Ï de l'article 41 de la loi de finances\npour l'année 1982 n° 26-81 promulguée par le dahir n° 1-81-425\ndu 5 rabii I 1402 (1° janvier 1982) ;\nSur proposition du ministre de l'économie et des finances,\nDÉCRÈTE :",
+  "preamble_text": "décret n° 2-19-592 du 20 kaada 1440 (23 juillet 2019)\napprouvant la convention de prêt conclue le 6 avril 2019\nentre le gouvernement du Royaume du Maroc et la Banque\nislamique de développement, portant sur un montant de\nquatre millions de dollars des Etats-Unis d'Amérique\n(4.000.000 SUS), consenti par ladite Banque au Royaume\ndu Maroc, en vue de la participation au financement du\nprojet de développement rural inclusif dans la région de\nTanger Tétouan Al-Hoceima.\nLE CHEF DU GOUVERNEMENT,\nVu la loi de finances n° 80-18 pour l'année budgétaire\n2019, promulguée par le dahir n° 1-18-104 du 12 rabii II 1440\n(20 décembre 2018), notamment son article 51 ;\nVu le paragraphe Ï de l'article 41 de la loi de finances\npour l'année 1982 n° 26-81 promulguée par le dahir n° 1-81-425\ndu 5 rabii I 1402 (1° janvier 1982) ;\nSur proposition du ministre de l'économie et des finances,\nDÉCRÈTE :",
   "preamble_entities": [
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 26,
-      "end": 32
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "23 ramadan 1440",
-      "start": 273,
-      "end": 288
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "29 mai 2019",
-      "start": 290,
-      "end": 301
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 2340-03 du 23 chaoual 1424",
-      "start": 316,
-      "end": 352
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "18 décembre 2003",
-      "start": 354,
-      "end": 370
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 479,
-      "end": 485
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 727,
-      "end": 741
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 743,
-      "end": 755
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 2075-09 du 11 chaabane 1430",
-      "start": 770,
-      "end": 807
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "3 août 2009",
-      "start": 809,
-      "end": 820
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 963,
-      "end": 969
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 1211,
-      "end": 1225
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 1227,
-      "end": 1239
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 572-04 du 15 safar 1425",
-      "start": 1254,
-      "end": 1287
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "6 avril 2004",
-      "start": 1289,
-      "end": 1301
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 1543,
-      "end": 1549
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 1791,
-      "end": 1805
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 1807,
-      "end": 1819
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 346-04 du 4 moharrem 1425",
-      "start": 1834,
-      "end": 1869
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "25 février 2004",
-      "start": 1871,
-      "end": 1886
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 1895,
-      "end": 1901
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 2142,
-      "end": 2156
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 2158,
-      "end": 2170
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 743-09",
-      "start": 2185,
-      "end": 2201
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "24 mars 2009",
-      "start": 2222,
-      "end": 2234
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 2385,
-      "end": 2391
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 2633,
-      "end": 2647
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 2649,
-      "end": 2661
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 753-06",
-      "start": 2676,
-      "end": 2692
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "27 rabii I 1427",
-      "start": 2696,
-      "end": 2711
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "26 avril 2006",
-      "start": 2713,
-      "end": 2726
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 2898,
-      "end": 2904
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 3146,
-      "end": 3160
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 3162,
-      "end": 3174
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 570-04 du 15 safar 1425",
-      "start": 3189,
-      "end": 3222
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "6 avril 2004",
-      "start": 3224,
-      "end": 3236
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 3347,
-      "end": 3353
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 3595,
-      "end": 3609
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 3611,
-      "end": 3623
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 666-03 du 7 rejeb 1424",
-      "start": 3638,
-      "end": 3670
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "4 septembre 2003",
-      "start": 3672,
-      "end": 3688
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 3950,
-      "end": 3956
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 4198,
-      "end": 4212
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 4214,
-      "end": 4226
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 1482-04",
-      "start": 4241,
-      "end": 4258
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "11 août 2004",
-      "start": 4282,
-      "end": 4294
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 4303,
-      "end": 4309
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 4551,
-      "end": 4565
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 4567,
-      "end": 4579
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 173-18 du 23 rejeb 1439",
-      "start": 4594,
-      "end": 4627
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "10 avril 2018",
-      "start": 4629,
-      "end": 4642
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 4771,
-      "end": 4777
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 5019,
-      "end": 5033
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 5035,
-      "end": 5047
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 753-06",
-      "start": 5062,
-      "end": 5078
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "27 rabii I 1427",
-      "start": 5082,
-      "end": 5097
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "26 avril 2006",
-      "start": 5099,
-      "end": 5112
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 5227,
-      "end": 5233
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 5475,
-      "end": 5489
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 5491,
-      "end": 5503
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 950-04",
-      "start": 5518,
-      "end": 5534
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "6 rabii II 1425",
-      "start": 5538,
-      "end": 5553
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "26 mai 2004",
-      "start": 5555,
-      "end": 5566
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 5621,
-      "end": 5627
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 5868,
-      "end": 5882
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 5884,
-      "end": 5896
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 2871-06 du 8 hija 1427",
-      "start": 5911,
-      "end": 5943
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "29 décembre 2006",
-      "start": 5945,
-      "end": 5961
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 6075,
-      "end": 6081
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 6323,
-      "end": 6337
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 6339,
-      "end": 6351
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 572-04 du 15 safar 1425",
-      "start": 6366,
-      "end": 6399
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "6 avril 2004",
-      "start": 6401,
-      "end": 6413
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 6579,
-      "end": 6585
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "9 chaoual 1440",
-      "start": 6826,
-      "end": 6840
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "13 juin 2019",
-      "start": 6842,
-      "end": 6854
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 1482-04",
-      "start": 6869,
-      "end": 6886
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "24 joumada II 1425",
-      "start": 6890,
-      "end": 6908
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "11 août 2004",
-      "start": 6910,
-      "end": 6922
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 7068,
-      "end": 7074
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "13 chaoual 1440",
-      "start": 7316,
-      "end": 7331
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "17 juin 2019",
-      "start": 7333,
-      "end": 7345
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 405-14",
-      "start": 7360,
-      "end": 7376
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "7 rabii II 1435",
-      "start": 7380,
-      "end": 7395
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "7 février 2014",
-      "start": 7397,
-      "end": 7411
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "13 hija 1440",
-      "start": 7559,
-      "end": 7571
-    },
-    {
-      "label": "ARRETE",
-      "text": "Arrêté",
-      "start": 7592,
-      "end": 7598
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "13 chaoual 1440",
-      "start": 7840,
-      "end": 7855
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "17 juin 2019",
-      "start": 7857,
-      "end": 7869
-    },
-    {
-      "label": "ARRETE",
-      "text": "arrêté n° 173-18 du 23 rejeb 1439",
-      "start": 7884,
-      "end": 7917
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "10 avril 2018",
-      "start": 7919,
-      "end": 7932
-    },
-    {
-      "label": "ORG",
-      "text": "Société « SOFAC »",
-      "start": 8009,
-      "end": 8026
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "12 kaada 1440",
-      "start": 8073,
-      "end": 8086
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "15 juillet 2019",
-      "start": 8088,
-      "end": 8103
-    },
-    {
-      "label": "ORG",
-      "text": "Société « Orange Money Maroc »",
-      "start": 8233,
-      "end": 8263
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "24 chaoual 1440",
-      "start": 8376,
-      "end": 8391
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "28 juin 2019",
-      "start": 8393,
-      "end": 8405
-    },
-    {
-      "label": "ORG",
-      "text": "société « Orange Money Maroc »",
-      "start": 8430,
-      "end": 8460
-    },
-    {
-      "label": "ORG",
-      "text": "Société « DIGIFT »",
-      "start": 8505,
-      "end": 8523
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "6 kaada 1440",
-      "start": 8570,
-      "end": 8582
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "9 juillet 2019",
-      "start": 8584,
-      "end": 8598
-    },
-    {
-      "label": "ORG",
-      "text": "société « DIGIFTI »",
-      "start": 8623,
-      "end": 8642
-    },
-    {
-      "label": "ORG",
-      "text": "Société « MT Cash »",
-      "start": 8698,
-      "end": 8717
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "7 kaada 1440",
-      "start": 8764,
-      "end": 8776
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "10 juillet 2019",
-      "start": 8778,
-      "end": 8793
-    },
-    {
-      "label": "ORG",
-      "text": "société « MT Cash »",
-      "start": 8818,
-      "end": 8837
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "10 ramadan 1440",
-      "start": 8964,
-      "end": 8979
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "16 mai 2019",
-      "start": 8981,
-      "end": 8992
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "10 chaoual 1440",
-      "start": 9026,
-      "end": 9041
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "14 juin 2019",
-      "start": 9043,
-      "end": 9055
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "10 chaoual 1440",
-      "start": 9094,
-      "end": 9109
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "14 juin 2019",
-      "start": 9111,
-      "end": 9123
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "10 chaoual 1440",
-      "start": 9157,
-      "end": 9172
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "14 juin 2019",
-      "start": 9174,
-      "end": 9186
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "17 ramadan 1440",
-      "start": 9218,
-      "end": 9233
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "23 mai 2019",
-      "start": 9235,
-      "end": 9246
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "10 chaoual 1440",
-      "start": 9280,
-      "end": 9295
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "14 juin 2019",
-      "start": 9297,
-      "end": 9309
-    },
-    {
-      "label": "DATE_HIJRI",
-      "text": "10 chaoual 1440",
-      "start": 9341,
-      "end": 9356
-    },
-    {
-      "label": "DATE_GREGORIAN",
-      "text": "14 juin 2019",
-      "start": 9358,
-      "end": 9370
-    },
     {
       "label": "DECRET",
       "text": "décret n° 2-19-592",
-      "start": 9441,
-      "end": 9459
+      "start": 0,
+      "end": 18
     },
     {
       "label": "DATE_HIJRI",
       "text": "20 kaada 1440",
-      "start": 9463,
-      "end": 9476
+      "start": 22,
+      "end": 35
     },
     {
       "label": "DATE_GREGORIAN",
       "text": "23 juillet 2019",
-      "start": 9478,
-      "end": 9493
+      "start": 37,
+      "end": 52
     },
     {
       "label": "DATE_GREGORIAN",
       "text": "6 avril 2019",
-      "start": 9539,
-      "end": 9551
+      "start": 98,
+      "end": 110
     },
     {
       "label": "DAHIR",
       "text": "dahir n° 1-18-104",
-      "start": 10012,
-      "end": 10029
+      "start": 571,
+      "end": 588
     },
     {
       "label": "DATE_HIJRI",
       "text": "12 rabii II 1440",
-      "start": 10033,
-      "end": 10049
+      "start": 592,
+      "end": 608
     },
     {
       "label": "DATE_GREGORIAN",
       "text": "20 décembre 2018",
-      "start": 10051,
-      "end": 10067
+      "start": 610,
+      "end": 626
     },
     {
       "label": "DAHIR",
       "text": "dahir n° 1-81-425",
-      "start": 10199,
-      "end": 10216
+      "start": 758,
+      "end": 775
     },
     {
       "label": "DATE_HIJRI",
       "text": "5 rabii I 1402",
-      "start": 10220,
-      "end": 10234
+      "start": 779,
+      "end": 793
     },
     {
       "label": "MINISTERE",
       "text": "ministre de l'économie et des finances",
-      "start": 10274,
-      "end": 10312
+      "start": 833,
+      "end": 871
     }
   ],
   "possible_embedded_arabic": [],
-  "sommaire": "SOMMAIRE Micro-crédit.\n_ Pages décret n° 2-19-575 du 5 hija 1440 (7 août 2019)\nTEXTES GENERAUX fixant le montant maximum du micro-crédit… 1821\nns Taxe parafiscale à l'importation pour le\nConvention de prêt conclue entre le financement de la promotion économique\ngouvernement du Royaume du Maroc et et de l'inspection des exportations.\nla Banque islamique de développement. décret n° 2-19-615 du 5 hija 1440 (7 août 2019)\n, \" . modifiant et complétant le décret n°2-94-734\ndécret n° 2-19-592 du 20 kaada 1440 (23 juillet 2019) du 28 rejeb 1415 (31 décembre 1994) instituant\nune taxe parafiscale à l'importation pour le\napprouvant la convention de prêt conclue __F,\nfinancement de la promotion économique et de\nle 6 avril 2019 entre le gouvernement du l'inspection des exportations... 1821\nRoyaume du Maroc et la Banque islamique Interprofession de la filière du palmier\nde développement. portant ant dattier. — Niveau de représentativité des\nPP P SUr OUR MOnran organisations professionnelles.\nde quatre millions de dollars des Etats-Unis Arrêté conjoint du ministre de l'agriculture, de la\nd'Amérique (4.000.000 SUS), consenti par pêche maritime, du développement rural et des\neaux et forêts et du ministre de l'industrie, de\nl'investissement, du commerce et de l'économie\n . | numérique n° 1141-19 du 3 chaabane 1440\nde la participation au financement du projet de (9 avril 2019) fixant le niveau de représentativité\ndes organisations professionnelles requis pour la\nconstitution de l'interprofession de la filière du\nTanger Tétouan Al-Hoceima […texte non modifié…] …. 1821 palmier dattier. ss 1822\nladite Banque au Royaume du Maroc, en vue\ndéveloppement rural inclusif dans la région de\n191Q BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nPages\nListe des interprofessions agricoles reconnues.\nArrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et\nforêts n° 1805-19 du7 chaoual 1440 (11 juin 2019 )\ncomplétant l'arrêté du ministre de l'agriculture,\nde la pêche maritime, du développement rural\net des eaux et forêts n° 563-17 du 25 kaada 1438\n(18 août 2017) portant publication de la liste des\ninterprofessions agricoles reconnues... 1823\nCommerce extérieur. — Liste des marchandises\nfaisant l'objet de restrictions quantitatives\nà l'importation et à l'exportation.\nArrêté du ministre de l'industrie, de l'investissement,\ndu commerce et de l'économie numérique\nn° 1962-19 du 14 chaoual 1440 (18 juin 2019)\ncomplétant l'arrêté n° 1308-94 du 7 kaada 1414\n(19 avril 1994) fixant la liste des marchandises\nfaisant l'objet de restrictions quantitatives à\nl'importation et à l'exportation. 1823\nCode de commerce.\nArrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'industrie, de\nl'investissement, du commerce et de l'économie\nnumérique n° 1990-19 du 17 chaoual 1440\n(21 juin 2019) modifiant l'arrêté conjoint\ndu ministre de l'économie et des finances\net du ministre de l'industrie, du commerce\net des nouvelles technologies n° 3030-12 du\n3 kaada 1433 (20 septembre 2012) relatif au\ntaux de la pénalité de retard et aux modalités de\ndécomposition du solde des dettes fournisseurs\ndans les transactions commerciales. 1824",
+  "sommaire": "SOMMAIRE Micro-crédit.\n_ Pages décret n° 2-19-575 du 5 hija 1440 (7 août 2019)\nTEXTES GENERAUX fixant le montant maximum du micro-crédit… 1821\nns Taxe parafiscale à l'importation pour le\nConvention de prêt conclue entre le financement de la promotion économique\ngouvernement du Royaume du Maroc et et de l'inspection des exportations.\nla Banque islamique de développement. décret n° 2-19-615 du 5 hija 1440 (7 août 2019)\n, \" . modifiant et complétant le décret n°2-94-734\ndécret n° 2-19-592 du 20 kaada 1440 (23 juillet 2019) du 28 rejeb 1415 (31 décembre 1994) instituant\nune taxe parafiscale à l'importation pour le\napprouvant la convention de prêt conclue __F,\nfinancement de la promotion économique et de\nle 6 avril 2019 entre le gouvernement du l'inspection des exportations... 1821\nRoyaume du Maroc et la Banque islamique Interprofession de la filière du palmier\nde développement. portant ant dattier. — Niveau de représentativité des\nPP P SUr OUR MOnran organisations professionnelles.\nde quatre millions de dollars des Etats-Unis Arrêté conjoint du ministre de l'agriculture, de la\nd'Amérique (4.000.000 SUS), consenti par pêche maritime, du développement rural et des\neaux et forêts et du ministre de l'industrie, de\nl'investissement, du commerce et de l'économie\n . | numérique n° 1141-19 du 3 chaabane 1440\nde la participation au financement du projet de (9 avril 2019) fixant le niveau de représentativité\ndes organisations professionnelles requis pour la\nconstitution de l'interprofession de la filière du\nTanger Tétouan Al-Hoceima […texte non modifié…] …. 1821 palmier dattier. ss 1822\nladite Banque au Royaume du Maroc, en vue\ndéveloppement rural inclusif dans la région de\n191Q BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nPages\nListe des interprofessions agricoles reconnues.\nArrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et\nforêts n° 1805-19 du7 chaoual 1440 (11 juin 2019 )\ncomplétant l'arrêté du ministre de l'agriculture,\nde la pêche maritime, du développement rural\net des eaux et forêts n° 563-17 du 25 kaada 1438\n(18 août 2017) portant publication de la liste des\ninterprofessions agricoles reconnues... 1823\nCommerce extérieur. — Liste des marchandises\nfaisant l'objet de restrictions quantitatives\nà l'importation et à l'exportation.\nArrêté du ministre de l'industrie, de l'investissement,\ndu commerce et de l'économie numérique\nn° 1962-19 du 14 chaoual 1440 (18 juin 2019)\ncomplétant l'arrêté n° 1308-94 du 7 kaada 1414\n(19 avril 1994) fixant la liste des marchandises\nfaisant l'objet de restrictions quantitatives à\nl'importation et à l'exportation. 1823\nCode de commerce.\nArrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'industrie, de\nl'investissement, du commerce et de l'économie\nnumérique n° 1990-19 du 17 chaoual 1440\n(21 juin 2019) modifiant l'arrêté conjoint\ndu ministre de l'économie et des finances\net du ministre de l'industrie, du commerce\net des nouvelles technologies n° 3030-12 du\n3 kaada 1433 (20 septembre 2012) relatif au\ntaux de la pénalité de retard et aux modalités de\ndécomposition du solde des dettes fournisseurs\ndans les transactions commerciales. 1824\nTEXTES PARTICULIERS\nEquivalences de diplômes.\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1688-19 du 23 ramadan 1440 (29 mai 2019)\ncomplétant l'arrêté n° 2340-03 du 23 chaoual 1424\n(18 décembre 2003) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en neurologie...\nPages\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1873-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 2075-09 du\n11 chaabane 1430 (3 août 2009) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en endocrinologie et\nmaladies métaboliques... ss... 1825\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement\nsupérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et\nde la recherche scientifique n° 1877-19\ndu 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale\nen radiologie... ss...\nla liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en oto-rhino-\nlaryngologie..… […texte non modifié…]  ss\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1879-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 346-04\ndu 4 moharrem 1425 (25 février 2004) fixant\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1880-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 743-09 du 26 rabüi I 1430\n(24 mars 2009) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en biologie médicale (ou analyses\nbiologiques médicales)... 1827\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1882-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 753-06\ndu 27 rabii I 1427 (26 avril 2006) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en néphrologie. 1827\nN° 6804 — 13 hia 1440 (15-8-2019) , BULLETIN OFFICIEL 1819\nPages\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement\nsupérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et\nde la recherche scientifique n° 1884-19\ndu 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 570-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale\nen dermatologie. ss 1828\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1885-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 666-03 du\n7 rejeb 1424 (4 septembre 2003) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en urologie..… […texte non modifié…] ….……….\nla liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en traumatologie-\northopédie […texte non modifié…]  ss\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1886-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 1482-04\ndu 24 joumada IT 1425 (11 août 2004) fixant\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement\nsupérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et\nde la recherche scientifique n° 1888-19\ndu 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 173-18 du 23 rejeb 1439 (10 avril 2018)\nfixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en chirurgie\nvasculaire périphérique. 1829\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1889-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 753-06\ndu 27 rabii I 1427 (26 avril 2006) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en néphrologie. 1830\nD\nPages\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 1890-19 du 9 chaoual 1440\n(13 juin 2019) complétant l'arrêté n° 950-04\ndu 6 rabii II 1425 (26 mai 2004) fixant la\nliste des diplômes reconnus équivalents au\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1891-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 2871-06 du 8 hija 1427\n(29 décembre 2006) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en médecine interne... 1831\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement\nsupérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et\nde la recherche scientifique n° 1895-19\ndu 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en radiologie. 1831\ndiplôme de spécialité médicale en gynécologie-\nObSHÉITIQUE.\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1899-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 1482-04 du\n24 joumada II 1425 (11 août 2004) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en traumatologie-\northopédie […texte non modifié…]  ss 1832\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 2003-19 du 13 chaoual 1440\n(17 juin 2019) complétant l'arrêté n° 405-14 du\n7 rabii II 1435 (7 février 2014) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nde spécialité médicale en médecine du travail. 1832\n1890 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\na\nPages\nArrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur\net de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche\nscientifique n° 2004-19 du 13 chaoual 1440\n(17 juin 2019) complétant l'arrêté n° 173-18\ndu 23 rejeb 1439 (10 avril 2018) fixant la liste\ndes diplômes reconnus équivalents au diplôme\nAgréments :\n+ Société « SOFAC ».\nDécision du Wali de Bank Al-Maghrib n° 95 du\n12 kaada 1440 (15 juillet 2019) portant nouvel\nagrément de la société de financement d'achats\nà crédit « SOFAC » en qualité de société de\nfinancement... 1833\n+ Société « Orange Money Maroc ».\nde spécialité médicale en chirurgie vasculaire\npériphérique... ss\nDécision du Wali de Bank Al-Maghrib n° 94 du\n24 chaoual 1440 (28 juin 2019) portant agrément\nde la société « Orange Money Maroc » en\nqualité d'établissement de paiement...\n+ Société « DIGIFT ».\nDécision du Wali de Bank Al-Maghrib n° 95\ndu 6 kaada 1440 (9 juillet 2019) portant\nagrément de la société « DIGIFTI » en qualité\nd'établissement de paiement. 1834\nD\nPages\ne Société « MT Cash ».\nDécision du Wali de Bank Al-Maghrib n° 96\ndu 7 kaada 1440 (10 juillet 2019) portant\nagrément de la société « MT Cash » en qualité\nd'établissement de paiement. 1835\nCONSEIL SUPERIEUR DE LA\nCOMMUNICATION AUDIOVISUELLE\nDécision du CSCA n° 39-19 du 10 ramadan 1440\n(16 mai 2019)...\nDécision du CSCA n° 41-19 du 10 chaoual 1440\n(14 juin 2019)... 1837\nDécision du CSCA n° 42-19 du 10 chaoual 1440\n(14 juin 2019)...\nDécision du CSCA n° 43-19 du 10 chaoual 1440\n(14 juin 2019),\nDécision du CSCA n° 44-19 du 17 ramadan 1440\n(23 mai 2019) Re\nDécision du CSCA n° 48-19 du 10 chaoual 1440\n(14 juin 2019),\nDécision du CSCA n° 49-19 du 10 chaoual 1440\n(14 juin 2019).\nNO £RN4 _ 13 hia 1440 (15-8",
   "decrees": [
     {
-      "title": "Arrêté",
-      "preamble": "Arrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1688-19 du 23 ramadan 1440 (29 mai 2019)\ncomplétant l'arrêté n° 2340-03 du 23 chaoual 1424\n(18 décembre 2003) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en neurologie...\nPages",
+      "title": "décret",
+      "preamble": "décret n° 2-19-592 du 20 kaada 1440 (23 juillet 2019)\napprouvant la convention de prêt conclue le 6 avril 2019\nentre le gouvernement du Royaume du Maroc et la Banque\nislamique de développement, portant sur un montant de\nquatre millions de dollars des Etats-Unis d'Amérique\n(4.000.000 SUS), consenti par ladite Banque au Royaume\ndu Maroc, en vue de la participation au financement du\nprojet de développement rural inclusif dans la région de\nTanger Tétouan Al-Hoceima.\nLE CHEF DU GOUVERNEMENT,\nVu la loi de finances n° 80-18 pour l'année budgétaire\n2019, promulguée par le dahir n° 1-18-104 du 12 rabii II 1440\n(20 décembre 2018), notamment son article 51 ;\nVu le paragraphe Ï de l'article 41 de la loi de finances\npour l'année 1982 n° 26-81 promulguée par le dahir n° 1-81-425\ndu 5 rabii I 1402 (1° janvier 1982) ;\nSur proposition du ministre de l'économie et des finances,\nDÉCRÈTE :",
       "first_article_idx": 0,
       "entities": [
         {
-          "label": "ARRETE",
-          "text": "Arrêté",
+          "label": "DECRET",
+          "text": "décret n° 2-19-592",
           "start": 0,
-          "end": 6
+          "end": 18
         },
         {
           "label": "DATE_HIJRI",
-          "text": "23 ramadan 1440",
-          "start": 247,
-          "end": 262
+          "text": "20 kaada 1440",
+          "start": 22,
+          "end": 35
         },
         {
           "label": "DATE_GREGORIAN",
-          "text": "29 mai 2019",
-          "start": 264,
-          "end": 275
-        },
-        {
-          "label": "ARRETE",
-          "text": "arrêté n° 2340-03 du 23 chaoual 1424",
-          "start": 290,
-          "end": 326
+          "text": "23 juillet 2019",
+          "start": 37,
+          "end": 52
         },
         {
           "label": "DATE_GREGORIAN",
-          "text": "18 décembre 2003",
-          "start": 328,
-          "end": 344
+          "text": "6 avril 2019",
+          "start": 98,
+          "end": 110
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-18-104",
+          "start": 571,
+          "end": 588
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "12 rabii II 1440",
+          "start": 592,
+          "end": 608
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "20 décembre 2018",
+          "start": 610,
+          "end": 626
+        },
+        {
+          "label": "DAHIR",
+          "text": "dahir n° 1-81-425",
+          "start": 758,
+          "end": 775
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "5 rabii I 1402",
+          "start": 779,
+          "end": 793
+        },
+        {
+          "label": "MINISTERE",
+          "text": "ministre de l'économie et des finances",
+          "start": 833,
+          "end": 871
         }
       ]
     },
@@ -2550,7 +1863,7 @@
     {
       "title": "Arrêté",
       "preamble": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1899-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 1482-04 du 24 joumada IT 1425\n(11 août 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en\ntraumatologie-orthopédie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale, de\nl'enseignement supérieur, de la formation des cadres et de\nla recherche scientifique n° 1482-04 du 24 joumada IT 1425\n(11 août 2004) fixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en traumatologie-orthopédie,\ntel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de FOrdre national des\nmédecins,",
-      "first_article_idx": 41,
+      "first_article_idx": 42,
       "entities": [
         {
           "label": "ARRETE",
@@ -2629,7 +1942,7 @@
     {
       "title": "Arrêté",
       "preamble": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de Penseignement supérieur et de la recherche\nscientifique n° 2003-19 du 13 chaoual 1440 (17 juin 2019)\ncomplétant Parrêtén° 405-14 du 7 rabii II 1435 (7 février 2014)\nfixant la liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en médecine du travail.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de la\nrecherche scientifique et de la formation des cadres n° 405-14\ndu 7 rabii II 1435 (7 février 2014) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité médicale en\nmédecine du travail , tel qu'il a été complété ;\nNO EQNA 1 Lin TAAN IE RINION BULLETIN OFFICIEL 1833\nLS% VU + rt D À A\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,",
-      "first_article_idx": 43,
+      "first_article_idx": 44,
       "entities": [
         {
           "label": "ARRETE",
@@ -2720,7 +2033,7 @@
     {
       "title": "Arrêté",
       "preamble": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 2004-19 du 13 chaoual 1440 (17 juin 2019)\ncomplétant l'arrêté n° 173-18 du 23 rejeb 1439 (10 avril 2018)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en chirurgie vasculaire périphérique.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation professionnelle,\nde l'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 173-18 du 23 rejeb 1439 (10 avril 2018)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en chirurgie vasculaire périphérique,\ntel qu'il a été complété ;\n————@—\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,",
-      "first_article_idx": 45,
+      "first_article_idx": 46,
       "entities": [
         {
           "label": "ARRETE",
@@ -2805,7 +2118,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du Wali de Bank Al-Maghrib n° 93 du 12 kaada 1440\n(15 juillet 2019) portant nouvel agrément de la société de\nfinancement d'achats à crédit « SOFAC » en qualité de\nsociété de financement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1e\" rabii 1 1436 (24 décembre 2014), notamment ses articles 34\net 43 ;\nVu l'arrêté du ministre des finances et des investissements\nextérieurs n° 1398-96 du 29 safar 1417 (16 juillet 1996) portant\nagrément de la société de financement d'achats à crédit « Sofac-\nCrédit » en qualité de société de financement, tel que complété\npar l'arrêté du ministre des finances et des investissements\nextérieurs n° 547-97 du 18 kaada 1417 (28 mars 1997) ;\n1834 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nER EEZEZEZ———— 000\nVu la décision du gouverneur de Bank Al-Maghrib\nn° 5 du 18 rejeb 1428 (3 août 2007) portant agrément de la\nsociété de financement d'achats à crédit « SOFAC » suite à la\nrestructuration de son capital ;\nVu la décision du Wali de Bank Al-Maghrib n° 34\ndu 14 rabii I 1433 (7 février 2012) portant agrément de la\nsociété de financement d'achats à crédit « SOFAC » suite à la\nrestructuration de son capital ;\nVu la demande d'agrément formulée par la société\nde financement d'achats à crédit « SOFAC » en date du\n6 septembre 2018 pour l'extension de ses activités aux\nopérations de crédit-bail destinées aux toutes petites, petites\net moyennes entreprises (TPME) ;\nVu les informations complémentaires communiquées\npar la société de financement d'achats à crédit « SOFAC » en\ndate du 22 mai 2019 ;\nAprès avis favorable émis par le Comité des établissements\nde crédit en date du 19 juin 2019,\nDÉCIDE :",
-      "first_article_idx": 47,
+      "first_article_idx": 48,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -2932,7 +2245,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du Wali de Bank Al-Maghrib n° 94 du 24 chaoual 1440\n(28 juin 2019) portant agrément de la société « Orange\nMoney Maroc » en qualité d'établissement de paiement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit\net organismes assimilés, promulguée par le dahir n° 1-14-193\ndu 1° rabii I 1436 (24 décembre 2014), notamment ses articles\n26 et 34 ;\nVu la demande formulée par la société « Orange Money\nMaroc » en date du 26 février 2018 ;\nVu les informations complémentaires en date du\n10 juillet 2018 ;\nAprès avis favorable émis par le Comité des établissements\nde crédit, en date du 17 juillet 2018,\nDÉCIDE :",
-      "first_article_idx": 49,
+      "first_article_idx": 50,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3005,7 +2318,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du Wali de Bank Al-Maghrib n° 95 du 6 kaada 1440\n(? juillet 2019) portant agrément de la société « DIGIFI »\nen qualité d'établissement de paiement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1® rabii I 1436 (24 décembre 2014), notamment ses articles 26\net 34 ;\nVu la demande d'agrément formulée par la société\n« DIGIFI » en date du 14 décembre 2018 ;\nVu les informations complémentaires en date du\n23 mai 2019 ;\nAprès avis favorable émis par le Comité des établissements\nde crédit, en date du 19 juin 2019,\nDÉCIDE :",
-      "first_article_idx": 51,
+      "first_article_idx": 52,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3072,7 +2385,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du Wali de Bank AI-Maghrib n° 96 du 7 kaada 1440\n(10 juillet 2019) portant agrément de la société « MT\nCash » en qualité d'établissement de paiement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1# rabii I 1436 (24 décembre 2014), notamment ses articles 26\net 34 ;\nVu ja demande d'agrément formulée par la société\n« MT Cash » en date du 7 septembre 2017 ;\nVu les informations complémentaires en date du\n9 juillet 2018 ;\nAprès avis favorable émis par le Comité des établissements\nde crédit, en date du 17 juillet 2018,\nDÉCIDE :",
-      "first_article_idx": 53,
+      "first_article_idx": 54,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3145,7 +2458,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du CSCA n° 39-19 du 10 ramadan 1440 (16 mai 2019)\nrelative à l'émission KMASTERCHEF MAROC»\ndiffusée par le service télévisuel « 2M » édité par la société\n«SOREAD 2M ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la Communication Audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nson article 2 (alinéa premier, 2 et 4) ;\nVu le cahier des charges de la Société « SOREAD-2M »\nnotamment ses articles 50.1, 50.2 et 51.1 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectué par la Direction Générale de la Communication\nAudiovisuelle au sujet de l'édition du 19 mars 2019 de l'émission\n« MASTERCHEF MAROC » diffusée par le service télévisuel\n« 2M » édité par la Société « SOREAD-2M » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la Communication Audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nque l'édition du 19 mars 2019 de l'émission « MASTERCHEF\nMAROC » diffusée par le service télévisuel «2M », a présenté\nle parrain et l'un de ses produits par un slogan sonore à travers\nl'utilisation des termes suivants :\n« Prestigia plage des nations golf city, entre Rabat et\nKénitra, habitez dans un cadre exceptionnel toute l'année ! ».\nAttendu qu'il ressort également du contenu précité, qu'il\na inclus un commentaire de l'un des membres du jury, au sujet\ndu complexe résidentiel dans lequel s'est déroulée cette édition\nde l'émission « MASTERCHEF MAROC » par l'utilisation\ndes termes tels que :\nQUI lie Jet! sl Sbaiés LIN ce laut, A ble 52 11)\n4 Lie xl! 5la «Prestigia plage des nations golf city 3404\nsurf &i foot ! 598 Jls ll des GI de LAS paze\ndl di usgpse A les activités Jls cél;; «48 la plage! 4\nAttendu que la même édition a contenu des commentaires\nde l'une des concurrentes à travers l'utilisation des termes\nsuivants :\nplage Jhs àJsN 32 QUI! cl; cg ol ul bles » (.)\n4.) «luil;s luge bla SÂls : des nations\n[MUNICATION AUDIOVISUELLE\na ———————————\nAttendu que la même édition a reçu un groupe d'invités,\ndont le directeur du complexe résidentiel précité, qui est\nintervenu à la demande d'un membre du jury, en utilisant les\ntermes suivants :\n« (….) Plage des nations, c'est du bien-être, la convivialité\nqui rime parfaitement avec la gastronomie, je pense qu'on pouvait\npas mieux faire que ce soir. (...)”\nAttendu que l'article 2 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée\ndispose que :\n« Pour l'application des dispositions de la présente loi,\nconstitue : (...)\n2- Une publicité clandestine : la présentation verbale ou\nvisuelle, de manière explicite ou implicite, de marchandises, de\nservices, du nom, de la marque ou des activités d'un producteur\nde marchandises ou d'un prestataire de services dans des\nprogrammes, lorsque cette présentation est faite de façon\nintentionnelle par l'opérateur de communication audiovisuelle\ndans un but publicitaire non explicite et risque d'induire le public\nen erreur sur la nature d'une telle présentation. Une présentation\nest considérée comme intentionnelle notamment lorsqu'elle est\nfaite contre rémunération ou toute autre forme de paiement ; (...)\n4 - Un parrainage : toute contribution d'une entreprise\npublique ou privée au financement de programmes dans le but\nde promouvoir son nom, Sa marque, Son image, Ses activités ou\nses réalisations ; (...) ».\nAttendu que l'article 50.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nLyme 09 Ol jozs NY (.) eye pale Et AS AU pau\ncall als Ge ASès phil aile) de sle dell pol dass\nsa doll gpl LAN à Dlazuls dois\nAttendu que l'article 50.2 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nedge ELU gel à of9 dl $ arlue EN gt\nest dub 15 les elle UE Je gb oSe Ÿ\ndle so üly 5 le ahleë aol J 8 L4pl lil le Le\ndlus gl dilegtio #8 gl là le ll jo Y LS pal)\n«() lei lots pl slzgtio sl\nAttendu que l'article 51.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\ndie çylall pe AN of pgioll AN de putes SAN ji\n+ 689 679 669 (35 2 caiädll) 2 Slaûl 5 Lapéssai 339 LS\ns«(.) 77.03 dla\nN° 6804 — 13 hiia 1440 (15-8-2019) BULLETIN OFFICIEL 1837\nAttendu que la Haute Autorité de la Communication\nAudiovisuelle a adressé un courrier en date du 18 avril 2019 à la\nSociété « SOREAD-2M » au sujet des observations relevées ;\nAttendu que la Haute Autorité de la Communication\nAudiovisuelle a reçu en date du 3 mai 2019 une réponse de\nla Société « SOREAD-2M » au sujet desdites observations ;\nAttendu que l'édition précitée a présenté en tant que\nparrain, au début et à fin de l'émission, une entité commerciale\npar son nom (« Prestigia luxury home »), les images et le nom\nd'un de ses produits, en associant cette présentation à un\nslogan sonore contenant des termes renvoyant de manière\ndirecte aux avantages du produit objet de la présentation tels\nque :\n&« (...) habitez dans un cadre exceptionnel toute l'année\n(...) »,\nce qui constitue indéniablement une présentation\nargumentée, ce qui met le contenu précité en non-conformité\navec les dispositions encadrant la présentation du parrain ;\nAttendu que l'édition précitée a contenu la présentation\nsonore et visuelle du nom d'une entité commerciale et de l'un\nde ses services, à travers les témoignages des concurrents,\ndes invités et des membres du jury, en utilisant des termes de\nnature promotionnelle et argumentaire tels que :\ngas AN lie ll 5le &slrisg LUN CH de leu le 52\ngars 4,6 Lis Je) sla Prestigia plage des nations golf city\nla ds surf dis foot oëll ls ll des fe dd ie\nLilisn ds Gysgpge AN les activités Jls cils 546 plage\nplage des nations JL él 92 AN cl 25 OU als)\ndans un contexte général visant à mettre en exergue le\nproduit et ses avantages, ce qui met le contenu précité en non-\nconformité avec les dispositions relatives à la communication\npublicitaire, notamment, à la publicité clandestine ;\nAttendu que, en conséquence, il se doit de prendre les\nmesures appropriées à l'encontre de la Société « SOREAD-\n2M » ;\nPAR CES MOTIFS :\n1) Déclare que la Société « SOREAD-2M » éditrice du\nservice télévisuel « 2M » a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles relatives au\nparrainage et à la publicité clandestine ;\n2) Décide d'adresser un avertissement à la Société\n&« SOREAD-2M » ;\n3) Ordonne la notification de la présente décision à la\nSociété « SOREAD-2M », ainsi que sa publication au Bulletin\nofficiel ;\ndo de\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 ramadan 1440 (16 mai 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Al Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).\nEE meme\nEE ———————",
-      "first_article_idx": 55,
+      "first_article_idx": 56,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3290,7 +2603,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du CSCA n° 41-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM diffusé par le service télévisuel\n«MEDI 1 TV » édité par la société « MEDI 1 TV ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\n| Vu la loi n° 11-15 portant réorganisation de la Haute\n| Autorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nVu le cahier des charges de la Société « MEDI 1 TV»\nnotamment ses articles 7 et 31 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n« MEDI 1 TV » édité par la Société « MEDI 1 TV » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée\ndispose que :\n« La communication audiovisuelle est libre. (...).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (...). » ;\n1828 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\nInciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (...) ;\nFaire l'apologie des crimes (...). » ;\nAttendu que l'article 7 du cahier des charges de la Société\n« MEDI 1 TV » dispose que :\nGers deg all ÿ den «Jp» Sgser ÿ tçaill Li\nOle) dipl Shbeÿlg cbaarall LIU arslse PL\nGallo ll spraull f lole jagsaill telsalls sl ebi\nSoUL dule yogpaio 52 LS ar SM flo Mio Sami 639\næeball S'il dhës cg Ray Açaill ls céeles .28\ndonitus pas 88 gabl sles loués be clip lol älull\nSu Sp de spot Ke Llérl hell url ll\nsslaté Y die cl 396 disletuls\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019 à la\nSociété « MEDI 1 TV » au sujet des observations enregistrées,\ndemeuré sans réponse ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\n«(.) aus 505% Lily dére Mg) Luis (..)\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahâr » en Afghanistan ;\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\n| l'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu que l'article 31 du cahier des charges de la Société\n« MEDI 1 TV » dispose que :\nlil lustre se degarashsätis philo de ÿ»\nlat) JU Sbsëell DEN Gsss Lie clarill jiés sf Goilall\nbla) sh hls Je se adeNl alrall Ke, coel Uell\nZihel &sbs plie etgaill 5> (É otes dl she) 45\nah Sylla)\nsa) AS de y Sul pal se » 37 sf doutll 24 céés *\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la Société « MEDI1TV»;\nPAR CES MOTIFS :\n1) Déclare que la Société « MEDI Î TV » éditrice du\nservice télévisuel « MEDI 1 TV » a enfreint les dispositions\nlégales et règlementaires en vigueur, notamment celles relatives\naux obligations déontologiques et à la maîtrise d'antenne ;\n2) Décide d'adresser un avertissement à la Société\n« MEDI I TV »;\n3) Ordonne la notification de la présente décision à la\nSociété « MEDI 1 TV », ainsi que sa publication au Bulletin\nofficiel ;\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).\na ————",
-      "first_article_idx": 55,
+      "first_article_idx": 56,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3435,7 +2748,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du CSCA n° 42-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM» diffusé par le service télévisuel\n« AL OULA » édité par la « SOCIETE NATIONALE\nDE RADIO ET DE TELEVISION » - SNRT.\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nAIO LZONA 19125 TAAN IE Q MDOION RIILI ETIN OFFICIEL. 1839\nIN UVUOUT TT AU JA LFTU Lis A 7 A\nEE 0\nVu le cahier des charges de la « SNRT » notamment ses\narticles 183.1 et 183.3 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n« A1 Oula » édité par la « SNRT » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nJS osQ Lily Lite Mg) Laxis jlac go Gélall oui (er\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que :\n« La communication audiovisuelle est libre. ( […texte non modifié…] ).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (..…). » ;\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\n+ Inciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (..…) ;\n+ Faire l'apologie des crimes (...). » ;\nAttendu que l'article 183.1 du cahier des charges de la\nSNRT dispose que :\ntb uel&äl dcgamo sl aré PES «éiahl sl lat Le\nAttendu que l'article 183.3 du cahier des charges de la\nSNRT dispose que :\nle du sl el loss pStll cé LI 8,5 4 al Lséræsr\nproue pl) lle caen «5 30) ga ses Le (fl ché\nco bll Shhedt call hd 5e liés AG laser 9\nLars es seal le plein Bla Jolie Gel\n«lus de dy sis lb Lors [3195 RS] 85letuul\nD\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019 à\nla «SNRT » au sujet des observations enregistrées, demeuré\nsans réponse ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahâr » en Afghanistan ;\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\nl'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la SNRT ;\nPAR CES MOTIFS :\n1) Déclare que la Société « SNRT » éditrice du service\ntélévisuel « A1 Oula» a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles\nrelatives aux obligations déontologiques et à la maîtrise\nd'antenne ;\n2) Décide d'adresser un avertissement à la « SNRT » ;\n1840 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\n3) Ordonne la notification de la présente décision à\nla « SNRT », ainsi que sa publication au Bulletin officiel ;\nDélibérée par le Conseil Supérieur de la Communication\nAudiovisuelle lors de sa séance du 10 chaoual 1440\n(14 juin 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs NarjJis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
-      "first_article_idx": 55,
+      "first_article_idx": 56,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3526,7 +2839,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du CSCA n° 43-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM» diffusé par le service télévisuel\n«2M » édité par la société « SOREAD 2M.\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nVu le cahier des charges de la Société « SOREAD 2M»\nnotamment ses articles 52.1 et 52.3 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n«2M » édité par la Société « SOREAD 2M » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nS üsQ Lily Live My) Luxis jlac ge Gala ti (0)\nES\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que :\n« La communication audiovisuelle est libre. (...).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (...). » ;\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\n+ Inciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (...) ;\n* Faire l'apologie des crimes (...). » ;\nAttendu que l'article 52.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nof çgpaniall juil de Dép sf ctall 55LGÿl pue (..)\ncuLu) Leltäl dcsare ol uaté ôlei dial) sl la ÿl de\npal pl dit) desert dote of pyflaïil si peais si ele\ns(.) uso lil o\nAttendu que l'article 52.3 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nle dy sl gli Less pull c9 I ASS AS al Lt\npal goll else lslgell ali a) A le anus llans\nbuotéo js] lle cu cëälll goball «Glen Le ($ 4e dk\nao bl she lt tulle phSM 3e bolatus AS laileese 5\nelaSYl uieg eeSœtll le slatul Llixi del ss Lelil\n«ll le ou sf el lors Li96 ail éslerul\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019\nà la Société « SOREAD 2M » au sujet des observations\nenregistrées ;\nAttendu que la Haute Autorité de la communication\naudiovisuelle a reçu en date du 29 mai 2019 une réponse de la\nSociété « SOREAD 2M » exposant un ensemble d'explications\neu égard aux observations enregistrées ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahäôr » en Afghanistan ;\nNO £QNA 12 Lin TAAN TER IN1O) BULLETIN OFFICIEL 1841\nLU MMN ON et DÉS À\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\nl'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la Société « SOREAD\n2M » ;\nPAR CES MOTIFS :\n1) Déclare que la Société « SOREAD 2M » éditrice\ndu service télévisuel « 2M» a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles relatives aux\nobligations déontologiques et à la maîtrise d'antenne ;\n2) Décide d'adresser un avertissement à la Société\n&« SOREAD 2M » ;\n3) Ordonne la notification de la présente décision à la\nSociété « SOREAD 2M », ainsi que sa publication au Bulletin\nofficiel ;\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440\n(14 juin 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
-      "first_article_idx": 55,
+      "first_article_idx": 56,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3665,7 +2978,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du CSCA n° 44-19 du 17 ramadan 1440 (23 mai 2019)\nrelative à l'émission « wlë,i dùl sul, » diffusée par le\nréseau de service radiophonique «MFM » édité par la\nsociété « MFM RADIO TV ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1%), 4 (alinéa 9) et 22 ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 :\nVu le cahier des charges de la Société « MFM RADIO\nTV» notamment ses articles 6, 9 et 34.2 ;\nVu la décision du Conseil Supérieur de la communication\naudiovisuelle n° 07-17 du 03 joumada II 1438 (2 mars 2017)\nportant procédure des plaintes, notamment ses articles 2, 3,\n4, 5et6;\nVu la décision du Conseil Supérieur de la communication\naudiovisuelle n° 14-17 du 20 ramadan 1438 (15 juin 2017) portant\nadoption d'une recommandation relative aux programmes\ntraitant de la santé dans les services audiovisuels notamment\nses articles 3, 6 et 7;\nVu la plainte de la « Fédération Marocaine des Droits\ndu Consommateur » reçue en date du 08 avril 2019, au sujet\nde l'émission «ul3,f di ul diffusée par le réseau de service\nradiophonique « MFM » édité par la Société « MFM RADIO\nTV»;\nAprès avoir pris connaissance du rapport d'instruction\neffectué par la Direction Générale de la communication\naudiovisuelle au sujet des éditions du 5, du 12et du 14 mars 2019,\nde l'émission «21,5,i «ii ul» diffusée par le réseau de service\nradiophonique « MFM » édité par la Société « MFM RADIO\nTV»;\nEt après en avoir délibéré :\nAttendu que l'article 7 de la loi n° 11-15 portant\nréorganisation de la Haute Autorité de la communication\naudiovisuelle dispose que :\n« Le Conseil supérieur reçoit des plaintes, émanant\ndes présidents des chambres du Parlement, du Chef du\ngouvernement, des organisations politiques ou syndicales ou\ndes associations de la société civile intéressées à la chose publique\net des conseils des régions, relatives à des violations, par les\norganes et les opérateurs de communication audiovisuelle, des\nlois ou règlements applicables au secteur de la communication\naudiovisuelle.\nLes particuliers ont également le droit de saisir le Conseil\nsupérieur de plaintes, relatives à des violations par les opérateurs\nde la communication audiovisuelle des lois ou règlements\napplicables au secteur. (...) » ;\nAttendu que la plainte est de ce fait, recevable en la\nforme ;\n1049 RUILETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nIUT n Se\nAttendu qu'il ressort de la plainte de la « Fédération\nMarocaine des Droits du Consommateur », que certaines\némissions de services radiophoniques privés font les louanges\ndu charlatanisme, en particulier le style et la méthodologie\nemployés pour présenter l'émission «wli3,i dl eut», qui\nexploite, d'après la plainte, l'ignorance et la faiblesse de\ncertains consommateurs, ce qui pourrait porter préjudice à\nleurs intérêts pécuniaires et la sécurité de leur santé, et ce en\nnon-conformité avec les lois en vigueur ;\nAttendu qu'il ressort du suivi des éditions des 5, 12 et\n14 mars 2019 de l'émission «u1,3,f il ul» qu'elles ont abordé\nun ensemble de sujets, relatifs à ce qui a été présenté et\nconsidéré par l'invité de l'émission comme étant des maladies\net des symptômes psychologiques et physiologiques tels que\n« la stérilité et l'avortement », les « troubles mentaux », les\n«intoxications alimentaires », l'« épistaxis », les « hémorragies »\net les « syndromes du côlon »... ;\nL'invité a également interagi, avec les auditeurs,\nprésentant leurs situations par SMS et appels téléphoniques,\net a proposé ce qu'il a considéré comme étant des solutions\nthérapeutiques, et ce, à travers l'utilisation de termes tels que :\nEdition du 5 mars 2019 :\nghagauie Lo A lil cuil (..}» 'invité de l'émission\n…sgall oties bi L SN aatie (30); close fs SLI\nA hole Mo. as EN dis lgluter 8 30 …. 416\nQUI oleiYl Jls Ênis » Loÿl AUS (.)\" ali Läio\nAlors lg Liles ho los AN ile 35 lg cells célss a tal\nloJl39 al La of hs oléhtall ls il JL. lbs) 3e clé\nduaës (Ji al ue sol la Go Ayié rec Lo flo del\njme (9 àlal yyal agé a fleïs diese al le thus ail\nCrël lpé lgalieis 45 5le she lei dl eL8 of vëb Ll\n) Ve lossti Lo Lite Lo légal)\nEdition du 12 mars 2019 :\nRa pote A sLuill à uill (..)s : Invité de l'émission\nsl lois ler ile N Jls KA 5la Pers A of ésjll ls\nA(e.) duô 9/59 dl ele Jhs Ugo sul lle al\nEdition du 14 mars 2019 :\nler ll Us JEg5 autus (..)» 'invité de l'émission\ncuj pal ele is LS slèall 6 pl. slill Le Le Lagputs\nD aus lyitut LëN ele bg hs dsrhe psilé sf 2521\nLog çaraall Opläll Elle pate QU lil ae hs\nI —\nAttendu que l'article 9 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que : « Sans préjudice des sanctions prévues par les\ntextes en vigueur, les émissions et les reprises de programmes\nou de parties de programmes ne doivent pas : (..) Comporter\ndes incitations à des comportements préjudiciables à la santé\nou à la sécurité des personnes et des biens ou à la protection de\nl'environnement ; (...). » ;\nAttendu que l'article 3 de la décision du Conseil Supérieur\nde la communication audiovisuelle n°14-17 portant adoption\nd'une recommandation relative aux programmes traitant de\nla santé dans les services audiovisuels, dispose que :\n« Les opérateurs audiovisuels veillent dans leurs\nprogrammes relatifs à la santé : (...) - à ce que les intervenants\nrespectent leur domaine de spécialisation.(.….)» ;\nAttendu que l'article 6 de la même recommandation\ndispose que :\n« (..) Les opérateurs audiovisuels veillent dans leurs\nprogrammes traitant de la santé : (...) - à ce que les intervenants\ndans ces émissions n'établissent pas de diagnostics relatifs à\nl'état de santé des auditeurs qui les appellent pour demander\nconseil. (...) » ;\nAttendu que l'article 7 de la même recommandation\ndispose que :\n« (...) Les opérateurs audiovisuels veillent dans leurs\nprogrammes traitant de la santé : (...) - à ce que les intervenants\ndans ces émissions ne prescrivent pas de traitements aux\nauditeurs mais les incitent à solliciter l'avis d'un spécialiste.\n(..)»;\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 19 avril 2019, à\nja Société « MFM RADIO TV » eu égard aux observations\nrelevées concernant la plainte de la « Fédération Marocaine\nde Protection du Consommateur » ;\nAttendu que la Haute Autorité de la communication\naudiovisuelle a reçu en date du 3 mai 2019 un courrier de\nla Société « MFM RADIO TV » exposant un ensemble\nd'explications eu égard aux observations relevées ;\nAttendu que l'invité a, durant les éditions précitées,\ndiagnostiqué certaines situations en se basant sur les appels\ntéléphoniques et les messages des auditeurs et a proposé des\nsolutions thérapeutiques sous formes de recettes composées\nd'herbes et d' «eau de 4,5, » ;\nAttendu que, bien que ne contenant pas d'incitation\nexplicite, les éditions précitées, soulèvent les griefs suivants :\n— Ja présentation élogieuse et à connotation morale, de\nl'invité par l'animateur ;\n_ la présentation de solutions thérapeutiques,\nprétendument efficaces, pour la guérison de certains\nsymptômes et maladies ;\nNO ZONA ta Lie HAAN CIE RONION BULLETIN OFFICIEL 1843\nLY VUNV OT I RE 7 A\n— la présentation de témoignages par SMS et par appels\ntéléphoniques, qui ont dans leur globalité, fait état de\nsuccès thérapeutiques, ce qui est à même d'amener une\npartie du public, à tout le moins, «normaliser » avec ces\npratiques et traitements supposés, voire même délaisser\nou négliger le suivi médical ;\nTout ceci rend le contenu précité susceptible dans\nsa globalité, d'inciter, même implicitement, une partie\ndu public, à des pratiques préjudiciables à leur santé, et\nce, sans réserve aucune, voire sous les encouragements de\nanimateur, en violation de l'exigence en matière de maîtrise\nd'antenne, mettant ainsi l'émission, en non-conformité avec les\ndispositions légales et règlementaires en vigueur, notamment\ncelles relatives aux émissions de santé.\nAttendu que le Conseil Supérieur de la communication\naudiovisuelle avait précédemment adressé une mise en garde,\nen date du 9 janvier 2019, à la Société « MFM RADIO TV »\nconcernant la même émission pour des précédents similaires ;\nAttendu que l'article 34.2 du cahier des charges de la\nSociété « MFM RADIO TV » dispose que :\n« En cas de manquement à une ou plusieurs dispositions\nou prescriptions applicables au Service ou à l'Opérateur, et\nsans préjudice des pénalités pécuniaires visées ci-dessus, la\nHaute Autorité peut, hormis ses décisions de mise en demeure,\nprononcer à l'encontre de l'Opérateur, compte tenu de la gravité\ndu manquement, l'une des pénalités suivantes :\n+ L'avertissement ;\n+ La suspension de la diffusion du service ou d'une partie\ndu programme pendant un mois au plus ; (...) » ;\nAttendu que, en conséquence, il se doit de prendre les\nmesures appropriées à l'encontre de la Société « MFM RADIO\nTV»;\nPAR CES MOTIFS :\nDécide :\nEn la forme :\nde la recevabilité de la plainte de la « Fédération\nMarocaine des Droits du Consommateur » ;\nSur le fond :\nLa suspension de la diffusion, durant une semaine, par\nle réseau de services radiophoniques « MFM », durant\nl'horaire habituel de l'émission «els, ail pl , pour non-\nrespect par la Société « MFM RADIO TV » lors des éditions\nprécitées, des dispositions légales et règlementaires en vigueur,\nnotamment celles relatives aux règles encadrant les émissions\nde santé, et ordonne de ce fait, à la Société « MFM RADIO\nTV » de prendre les dispositions nécessaires pour l'exécution\nde cette décision ;\nD'ordonner à la Société « MFM RADIO TV » de\ndiffuser le communiqué qui suit, pendant la période de\nsanction précitée, fixée à une semaine, à compter de la date\nde notification, et ce, à l'heure habituelle du début de la\ndiffusion de l'émission «ls3,i 4 eut :\npub goliu ce «2019 asle 143 125 05 Slle célatulr\nVol és passes le les sil d'ores ml belles\nSlbls je êjlee dpdle Vol Ki pôle scgeatuall 4é Al\nsarsall galall à ol) Lilsalh\nsols #l dos àmsall let) LIEN) SU VE\nal golinll Lis 058 atull $ pl ls dati Less\ngli ges slal de ele le Ah Ar\nel luc) ds>9 «etœill &> Jde gous JHEN Goss\nDe notifier la présente décision à la Société « MFM\nRADIO T V », et à la partie plaignante, ainsi que sa publication\nau Bulletin officiel.\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 17 ramadan 1440\n(23 mai 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).\nEEE serment\nA ——_—_—— — ————",
-      "first_article_idx": 55,
+      "first_article_idx": 56,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3888,7 +3201,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du CSCA n° 48-19 du 10 chaoual 1440 (14 juin 2019)\nportant établissement du cahier des charges pour\nl'établissement et l'exploitation du service de télévision\ndiffusé par satellite « CHADA TV » par la société\n« CHADA RADIO $S.A. »\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 4) et 4 (alinéa 1) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 13, 26 et 38 ;\n1RAÀ BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nVu la décision du Conseil supérieur de la communication\naudiovisuelle n°04-17 en date du 20 rabii II 1438 (19 janvier\n2017), portant adoption de la procédure d'attribution de\nlicence pour l'établissement et l'exploitation de services de\ncommunication audiovisuelle, notamment son article 12 ;\nVu la demande d'octroi de licence d'établissement et\nd'exploitation du service de télévision diffusé par satellite\n« Chada TV » adressée à la Haute Autorité en date du\n23 mars 2018 ;\nAprès avoir pris connaissance des documents relatifs à\nl'instruction de la demande établis par la Direction générale\nde la communication audiovisuelle ;\nVu la réunion d'audition tenue par le Conseil supérieur\nde la communication audiovisuelle en date du 31 janvier 2019\navec la société « CHADA RADIO S.A » en vue d'exposer\nle contenu de son projet d'établissement et d'exploitation du\nservice de télévision diffusé par satellite « Chada TV »,\nEt après en avoir délibéré :\n1°) arrête les termes du cahier des charges du service\nde télévision diffusé par satellite « Chada TV » édité par la\nsociété « CHADA RADIO S.A », dont l'original est annexé à\nla présente décision ;\n2°) ordonne la publication au Bulletin officiel de la\nprésente décision et du cahier des charges visé ci-dessus et\nleur notification à la société « CHADA RADIO S.A » ;\nDélibérée par le Conseil supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
-      "first_article_idx": 55,
+      "first_article_idx": 56,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -3997,7 +3310,7 @@
     {
       "title": "Décision",
       "preamble": "Décision du CSCA n° 49-19 du 10 chaoual 1440 (14 juin 2019)\nportant attribution de licence pour Pétablissement et\nl'exploitation du service de télévision diffusé par satellite\n« chada tv » par la société « chada radio s.a. »\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 4) et 4 (alinéa 1) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 13, 17, 18, 24, 26 et 38 ;\n————@—@— ES\nVu la décision du Conseil supérieur de la communication\naudiovisuelle n° 04-17 en date du 20 rabii II 1438 (19 janvier\n2017), portant adoption de la procédure d'attribution de\nlicence pour l'établissement et l'exploitation de services de\ncommunication audiovisuelle, notamment ses articles premier,\n12, 13 et 14 ;\nVu la demande d'octroi de licence d'établissement et\nd'exploitation du service de télévision diffusé par satellite\n« Chada TV » adressée à la Haute Autorité en date du\n23 mars 2018 ;\nAprès avoir pris connaissance des documents relatifs à\nlinstruction de la demande établis par la Direction générale\nde la communication audiovisuelle ;\nVu la réunion d'audition tenue par le Conseil supérieur\nde la communication audiovisuelle en date du 31 janvier 2019\navec la société « CHADA RADIO S$S.A » en vue d'exposer\nle contenu de son projet d'établissement et d'exploitation du\nservice de télévision diffusé par satellite « Chada TV » ;\nVu la décision n°48-19 du Conseil supérieur de la\ncommunication audiovisuelle en date du 10 chaoual 1440\n(14 juin 2019) arrêtant les termes du cahier des charges du\nservice de télévision diffusé par satellite « Chada TV »,\nEt après en avoir délibéré :\n1°) Décide d'attribuer à la société « CHADA RADIO\nS.A » une licence d'établissement et d'exploitation du service\nde télévision diffusé par satellite « Chada TV » dans les\nconditions fixées au cahier des charges s'y rapportant ;\n2°) Ordonne la publication de la présente décision\nau Bulletin officiel et sa notification à la société « CHADA\nRADIO S.A », ainsi qu'à l'autorité gouvernementale chargée\nde la communication.\nDélibérée par le Conseil supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin\n2019), tenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
-      "first_article_idx": 55,
+      "first_article_idx": 56,
       "entities": [
         {
           "label": "DATE_HIJRI",
@@ -4104,7 +3417,7 @@
       ]
     }
   ],
-  "n_articles": 55,
+  "n_articles": 56,
   "articles": [
     {
       "number": "PREMIER",
@@ -4145,8 +3458,8 @@
       ],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_1688_19_1",
-      "instrument_id": "instr_1688_19"
+      "article_id": "art_2_19_592_1",
+      "instrument_id": "instr_2_19_592"
     },
     {
       "number": "2",
@@ -4198,8 +3511,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_1688_19_2",
-      "instrument_id": "instr_1688_19"
+      "article_id": "art_2_19_592_2",
+      "instrument_id": "instr_2_19_592"
     },
     {
       "number": "PREMIER",
@@ -4237,7 +3550,7 @@
         },
         {
           "label": "LOI",
-          "text": "loi n°18-97 relative au micro-crédit, promulguée",
+          "text": "18-97",
           "start": 68,
           "end": 73
         }
@@ -4291,13 +3604,13 @@
       "entities": [
         {
           "label": "DECRET",
-          "text": "décret n°2-94-734",
+          "text": "2-94-734",
           "start": 349,
           "end": 357
         },
         {
           "label": "DECRET",
-          "text": "décret n° 2-94-734",
+          "text": "2-94-734",
           "start": 349,
           "end": 357
         }
@@ -4494,7 +3807,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 563-17 du 25 kaada 1438",
+          "text": "arrêté susvisé n° 563-17 du\n25 kaada 1438",
           "start": 62,
           "end": 103
         },
@@ -4620,9 +3933,15 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 1308-94 du 7 kaada 1414",
+          "text": "1308-94",
           "start": 167,
           "end": 174
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté du ministre\ndu commerce extérieur",
+          "start": 73,
+          "end": 113
         }
       ],
       "dates": [],
@@ -4704,6 +4023,18 @@
           "text": "20 septembre 2012",
           "start": 183,
           "end": 200
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint\ndu ministre de",
+          "start": 16,
+          "end": 46
+        },
+        {
+          "label": "ARRETE",
+          "text": "arrêté conjoint\ndu ministre de l'économie et",
+          "start": 16,
+          "end": 60
         }
       ],
       "dates": [
@@ -4766,7 +4097,7 @@
         },
         {
           "label": "DECRET",
-          "text": "décret n° 2-12-170",
+          "text": "2-12-170",
           "start": 317,
           "end": 325
         },
@@ -4848,7 +4179,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2340-03 du 23 chaoual 1424",
+          "text": "arrêté susvisé\nn° 2340-03 du 23 chaoual 1424",
           "start": 25,
           "end": 69
         },
@@ -4866,7 +4197,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "Parrêté n° 2340-03 du 23 chaoual 1424",
+          "text": "2340-03",
           "start": 43,
           "end": 50
         },
@@ -4898,8 +4229,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_1688_19_3",
-      "instrument_id": "instr_1688_19_2"
+      "article_id": "art_1688_19_1",
+      "instrument_id": "instr_1688_19"
     },
     {
       "number": "2",
@@ -4945,8 +4276,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_1688_19_4",
-      "instrument_id": "instr_1688_19_2"
+      "article_id": "art_1688_19_2",
+      "instrument_id": "instr_1688_19"
     },
     {
       "number": "PREMIER",
@@ -4954,7 +4285,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2075-09 du 11 chaabane 1430",
+          "text": "arrêté susvisé\nn° 2075-09 du 11 chaabane 1430",
           "start": 26,
           "end": 71
         },
@@ -4996,7 +4327,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 2075-09 du 11 chaabane 1430",
+          "text": "2075-09",
           "start": 44,
           "end": 51
         },
@@ -5115,7 +4446,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 572-04 du 15 safar 1425",
+          "text": "arrêté susvisé\nn° 572-04 du 15 safar 1425",
           "start": 25,
           "end": 66
         },
@@ -5139,7 +4470,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 572-04 du 15 safar 1425",
+          "text": "572-04",
           "start": 43,
           "end": 49
         },
@@ -5233,7 +4564,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 346-04 du 4 moharrem 1425",
+          "text": "arrêté susvisé\nn° 346-04 du 4 moharrem 1425",
           "start": 23,
           "end": 66
         },
@@ -5251,7 +4582,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 346-04 du 4 moharrem 1425",
+          "text": "346-04",
           "start": 41,
           "end": 47
         },
@@ -5339,7 +4670,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 743-09",
+          "text": "arrêté susvisé\nn° 743-09",
           "start": 23,
           "end": 47
         },
@@ -5363,7 +4694,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 743-09",
+          "text": "743-09",
           "start": 41,
           "end": 47
         }
@@ -5451,7 +4782,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 753-06",
+          "text": "arrêté susvisé\nn° 753-06",
           "start": 23,
           "end": 47
         },
@@ -5481,7 +4812,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 753-06",
+          "text": "753-06",
           "start": 41,
           "end": 47
         }
@@ -5582,7 +4913,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 570-04 du 15 safar 1425",
+          "text": "arrêté susvisé\nn° 570-04 du 15 safar 1425",
           "start": 23,
           "end": 64
         },
@@ -5606,7 +4937,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 570-04 du 15 safar 1425",
+          "text": "570-04",
           "start": 41,
           "end": 47
         },
@@ -5700,7 +5031,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 666-03 du 7 rejeb 1424",
+          "text": "arrêté susvisé\nn° 666-03 du 7 rejeb 1424",
           "start": 23,
           "end": 63
         },
@@ -5724,7 +5055,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 666-03 du 7 rejeb 1424",
+          "text": "666-03",
           "start": 41,
           "end": 47
         },
@@ -5825,7 +5156,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 1482-04",
+          "text": "arrêté susvisé\nn° 1482-04",
           "start": 23,
           "end": 48
         },
@@ -5867,7 +5198,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 1482-04",
+          "text": "1482-04",
           "start": 41,
           "end": 48
         }
@@ -5973,7 +5304,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 173-18 du 23 rejeb 1439",
+          "text": "arrêté susvisé\nn° 173-18 du 23 rejeb 1439",
           "start": 23,
           "end": 64
         },
@@ -6003,7 +5334,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 173-18 du 23 rejeb 1439",
+          "text": "173-18",
           "start": 41,
           "end": 47
         },
@@ -6103,7 +5434,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 753-06",
+          "text": "arrêté susvisé\nn° 753-06",
           "start": 23,
           "end": 47
         },
@@ -6133,7 +5464,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 753-06",
+          "text": "753-06",
           "start": 41,
           "end": 47
         }
@@ -6227,7 +5558,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 950-04",
+          "text": "arrêté susvisé\nn° 950-04",
           "start": 23,
           "end": 47
         },
@@ -6245,7 +5576,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 950-04",
+          "text": "950-04",
           "start": 41,
           "end": 47
         }
@@ -6327,7 +5658,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 2871-06 du 8 hija 1427",
+          "text": "arrêté susvisé\nn° 2871-06 du 8 hija 1427",
           "start": 23,
           "end": 63
         },
@@ -6339,7 +5670,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 2871-06 du 8 hija 1427",
+          "text": "2871-06",
           "start": 41,
           "end": 48
         },
@@ -6421,7 +5752,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 572-04 du 15 safar 1425",
+          "text": "arrêté susvisé\nn° 572-04 du 15 safar 1425",
           "start": 23,
           "end": 64
         },
@@ -6445,25 +5776,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté",
-          "start": 804,
-          "end": 810
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "9 chaoual 1440",
-          "start": 855,
-          "end": 869
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "13 juin 2019",
-          "start": 871,
-          "end": 883
-        },
-        {
-          "label": "ARRETE",
-          "text": "Parrêté n° 572-04 du 15 safar 1425",
+          "text": "572-04",
           "start": 41,
           "end": 47
         },
@@ -6492,22 +5805,10 @@
           "text": "21 mars 2019",
           "start": 767,
           "end": 779
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "9 chaoual 1440",
-          "start": 855,
-          "end": 869
-        },
-        {
-          "label": "DATE_GREGORIAN",
-          "text": "13 juin 2019",
-          "start": 871,
-          "end": 883
         }
       ],
       "preamble": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1895-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant Parrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en radiologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de\nja formation des cadres et de la recherche scientifique n° 572-04\ndu 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en radiologie, tel\nqu'il a été complété ;\n1832 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\nARRÊTE :",
-      "text": "L'article premier de l'arrêté susvisé\nn° 572-04 du 15 safar 1425 (6 avril 2004) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en radiologie\n«est fixée ainsi qu'il suit :\nCOPASEIIE TETE IE CITE LEE EEE ET TES EST EL EEE EEE TETE ETES EE TEE ET LE EEE LE EEE EEZEEEEELETEEEEE EEE\nDPLLETE TEE ECESILEELCEETEEETE EEE ECEELEET ELEC EEE TETE EEE EEE TEE EEE EEETEEEEEE ELLE LEEELEELE ELLES\n« — Diplôme interuniversitaire de spécialisation de\n« radiodiagnostic, délivré par l'Université René\n« Descartes - Paris V - France - le 6 novembre 2000,\n«assorti d'une attestation d'évaluation des connaissances\n«et des compétences délivrée par la Faculté de médecine\n«et de pharmacie de Casablanca - le 21 mars 2019. »\nART, 2. - Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "text": "L'article premier de l'arrêté susvisé\nn° 572-04 du 15 safar 1425 (6 avril 2004) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en radiologie\n«est fixée ainsi qu'il suit :\nCOPASEIIE TETE IE CITE LEE EEE ET TES EST EL EEE EEE TETE ETES EE TEE ET LE EEE LE EEE EEZEEEEELETEEEEE EEE\nDPLLETE TEE ECESILEELCEETEEETE EEE ECEELEET ELEC EEE TETE EEE EEE TEE EEE EEETEEEEEE ELLE LEEELEELE ELLES\n« — Diplôme interuniversitaire de spécialisation de\n« radiodiagnostic, délivré par l'Université René\n« Descartes - Paris V - France - le 6 novembre 2000,\n«assorti d'une attestation d'évaluation des connaissances\n«et des compétences délivrée par la Faculté de médecine\n«et de pharmacie de Casablanca - le 21 mars 2019. »",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -6517,12 +5818,59 @@
       "instrument_id": "instr_1895_19"
     },
     {
+      "number": "2",
+      "raw_header": "ART, 2. -",
+      "entities": [
+        {
+          "label": "ARRETE",
+          "text": "arrêté",
+          "start": 11,
+          "end": 17
+        },
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 chaoual 1440",
+          "start": 62,
+          "end": 76
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "13 juin 2019",
+          "start": 78,
+          "end": 90
+        }
+      ],
+      "dates": [
+        {
+          "label": "DATE_HIJRI",
+          "text": "9 chaoual 1440",
+          "start": 62,
+          "end": 76
+        },
+        {
+          "label": "DATE_GREGORIAN",
+          "text": "13 juin 2019",
+          "start": 78,
+          "end": 90
+        }
+      ],
+      "preamble": "",
+      "text": "Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "citations": [],
+      "persons": [],
+      "organizations": [],
+      "pdf_page": null,
+      "printed_page": null,
+      "article_id": "art_1895_19_2",
+      "instrument_id": "instr_1895_19"
+    },
+    {
       "number": "PREMIER",
       "raw_header": "ARTICLE PREMIER. —",
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 1482-04",
+          "text": "arrêté susvisé\nn° 1482-04",
           "start": 23,
           "end": 48
         },
@@ -6552,7 +5900,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 1482-04",
+          "text": "1482-04",
           "start": 41,
           "end": 48
         }
@@ -6653,7 +6001,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 405-14",
+          "text": "arrêté susvisé\nn° 405-14",
           "start": 23,
           "end": 47
         },
@@ -6747,7 +6095,7 @@
       "entities": [
         {
           "label": "ARRETE",
-          "text": "arrêté susvisé n° 173-18 du 23 rejeb 1439",
+          "text": "arrêté susvisé\nn° 173-18 du 23 rejeb 1439",
           "start": 24,
           "end": 65
         },
@@ -6771,7 +6119,7 @@
         },
         {
           "label": "ARRETE",
-          "text": "arrêté n° 173-18 du 23 rejeb 1439",
+          "text": "173-18",
           "start": 42,
           "end": 48
         },
@@ -6927,7 +6275,7 @@
       "entities": [
         {
           "label": "ORG",
-          "text": "société « Orange Money Maroc »",
+          "text": "société\n« Orange Money Maroc »",
           "start": 29,
           "end": 59
         },
@@ -6939,7 +6287,7 @@
         },
         {
           "label": "LOI",
-          "text": "loi n° 103-12 relative aux établissements de crédit",
+          "text": "103-12",
           "start": 309,
           "end": 315
         }
@@ -7021,13 +6369,13 @@
         },
         {
           "label": "LOI",
-          "text": "loi n° 103-12",
+          "text": "loi\nn° 103-12",
           "start": 278,
           "end": 291
         },
         {
           "label": "LOI",
-          "text": "loi n° 103-12 relative aux établissements de crédit et",
+          "text": "103-12",
           "start": 285,
           "end": 291
         }
@@ -7115,7 +6463,7 @@
         },
         {
           "label": "LOI",
-          "text": "loi n° 103-12 relative aux établissements de crédit et",
+          "text": "103-12",
           "start": 249,
           "end": 255
         }
@@ -7195,29 +6543,29 @@
   "total_pdf_pages": 28,
   "instruments": [
     {
-      "instrument_type": "ARRETE",
-      "reference": "1688-19",
+      "instrument_type": "DECRET",
+      "reference": "2-19-592",
       "article_indices": [
         0,
         1
       ],
       "n_articles": 2,
-      "instrument_id": "instr_1688_19",
+      "instrument_id": "instr_2_19_592",
       "article_ids": [
-        "art_1688_19_1",
-        "art_1688_19_2"
+        "art_2_19_592_1",
+        "art_2_19_592_2"
       ],
-      "type": "ARRETE",
-      "reference_label": "arrêté n° 1688-19",
-      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de larecherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 2340-03 du 23 chaoual 1424 (18 décembre 2003) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en neurologie... Pages",
-      "date_hijri": "23 ramadan 1440",
-      "date_gregorian": "2019-05-29",
-      "decree_date_hijri": "23 ramadan 1440",
-      "decree_date_gregorian": "2019-05-29",
-      "bo_date_publication": "2019-08-15",
+      "type": "DECRET",
+      "reference_label": "décret n° 2-19-592",
+      "title": "décret approuvant la convention de prêt conclue le 6 avril 2019 entre le gouvernement du Royaume du Maroc et la Banque islamique de développement, portant sur un montant de quatre millions de dollars des Etats-Unis d'Amérique (4.000.000 SUS), consenti par ladite Banque au Royaume du Maroc, en vue de la participation au financement du projet de développement rural inclusif dans la région de Tanger Tétouan Al-Hoceima. LE CHEF DU GOUVERNEMENT,",
+      "date_hijri": "20 kaada 1440",
+      "date_gregorian": "2019-07-23",
+      "decree_date_hijri": "20 kaada 1440",
+      "decree_date_gregorian": "2019-07-23",
+      "bo_date_publication": null,
       "signatories": [
         {
-          "role": null,
+          "role": "Chef du Gouvernement",
           "name": "SAAD DINE EL OTMANI",
           "type": "issuer"
         },
@@ -7231,10 +6579,10 @@
         "SAAD DINE EL OTMANI",
         "MOHAMED BENCHAABOUN"
       ],
-      "content": "Arrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1688-19 du 23 ramadan 1440 (29 mai 2019)\ncomplétant l'arrêté n° 2340-03 du 23 chaoual 1424\n(18 décembre 2003) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en neurologie...\nPages\n\nEst approuvée, telle qu'elle est\nannexée à l'original du présent décret, la convention de prêt\nconclue le 6 avril 2019 entre le gouvernement du Royaume\ndu Maroc et la Banque islamique de développement, portant\nsur un montant de quatre millions de dollars des Etats-Unis\nd'Amérique (4.000.000 $US), consenti par ladite Banque au\nRoyaume du Maroc, en vue de la participation au financement\ndu projet de développement rural inclusif dans la région de\nTanger Tétouan Al-Hoceima.\n\nLe ministre de l'économie et des finances est\nchargé de l'exécution du présent décret qui sera publié au\nBulletin officiel.\nFait à Rabat, le 20 kaada 1440 (23 juillet 2019).\nSAAD DINE EL OTMANI.\nPour contreseing :\nLe ministre de l'économie\net des finances,\nMOHAMED BENCHAABOUN.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6802 du 6 hija 1440 (8 août 2019).",
+      "content": "décret n° 2-19-592 du 20 kaada 1440 (23 juillet 2019)\napprouvant la convention de prêt conclue le 6 avril 2019\nentre le gouvernement du Royaume du Maroc et la Banque\nislamique de développement, portant sur un montant de\nquatre millions de dollars des Etats-Unis d'Amérique\n(4.000.000 SUS), consenti par ladite Banque au Royaume\ndu Maroc, en vue de la participation au financement du\nprojet de développement rural inclusif dans la région de\nTanger Tétouan Al-Hoceima.\nLE CHEF DU GOUVERNEMENT,\nVu la loi de finances n° 80-18 pour l'année budgétaire\n2019, promulguée par le dahir n° 1-18-104 du 12 rabii II 1440\n(20 décembre 2018), notamment son article 51 ;\nVu le paragraphe Ï de l'article 41 de la loi de finances\npour l'année 1982 n° 26-81 promulguée par le dahir n° 1-81-425\ndu 5 rabii I 1402 (1° janvier 1982) ;\nSur proposition du ministre de l'économie et des finances,\nDÉCRÈTE :\n\nEst approuvée, telle qu'elle est\nannexée à l'original du présent décret, la convention de prêt\nconclue le 6 avril 2019 entre le gouvernement du Royaume\ndu Maroc et la Banque islamique de développement, portant\nsur un montant de quatre millions de dollars des Etats-Unis\nd'Amérique (4.000.000 $US), consenti par ladite Banque au\nRoyaume du Maroc, en vue de la participation au financement\ndu projet de développement rural inclusif dans la région de\nTanger Tétouan Al-Hoceima.\n\nLe ministre de l'économie et des finances est\nchargé de l'exécution du présent décret qui sera publié au\nBulletin officiel.\nFait à Rabat, le 20 kaada 1440 (23 juillet 2019).\nSAAD DINE EL OTMANI.\nPour contreseing :\nLe ministre de l'économie\net des finances,\nMOHAMED BENCHAABOUN.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6802 du 6 hija 1440 (8 août 2019).",
       "domain": {
         "label": "Fiscal",
-        "confidence": 0.53,
+        "confidence": 0.666,
         "method": "fine_tuned_model",
         "model_id": "camembert-legal-domain-v1",
         "fallback_used": false
@@ -7258,7 +6606,7 @@
       "date_gregorian": "2019-08-07",
       "decree_date_hijri": "5 hija 1440",
       "decree_date_gregorian": "2019-08-07",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": "Chef du Gouvernement",
@@ -7304,7 +6652,7 @@
       "date_gregorian": "2019-08-07",
       "decree_date_hijri": "5 hija 1440",
       "decree_date_gregorian": "2019-08-07",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": "Chef du Gouvernement",
@@ -7370,7 +6718,7 @@
       "date_gregorian": "2019-04-09",
       "decree_date_hijri": "3 chaabane 1440",
       "decree_date_gregorian": "2019-04-09",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [],
       "content": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime,\ndu développement rural et des eaux et forêts et du ministre\nde l'industrie, de l'investissement, du commerce et de\nl'économie numérique n° 1141-19 du 3 chaabane 1440\n(9 avril 2019) fixant le niveau de représentativité des\norganisations professionnelles requis pour la constitution\nde l'interprofession de la filière du palmier dattier.\nLE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE\nMARITIME, DU DÉVELOPPEMENT RURAL ET DES\nEAUX ET FORÊTS,\nLE MINISTRE DE L'INDUSTRIE, DE L'INVESTISSEMENT,\nDU COMMERCE ET DE L'ÉCONOMIE NUMÉRIQUE,\nVu le décret n° 2-12-602 du 9 rejeb 1434 (20 mai 2013) pris\npour l'application de la loi n° 03-12 relative aux interprofessions\nagricoles et halieutiques, notamment son article 2,\nARRÊTENT :\n\nLe niveau de représentativité des\norganisations professionnelles requis pour la constitution de\nlinterprofession de la filière du palmier dattier est fixé, en\ntenant compte du poids économique desdites organisations\ndans la filière, comme suit :\nN° 6804 — 13 hiia 1440 (15-8-2019) BULLETIN OFFICIEL 1823\n— Production :\n+ Production des plants : 55% au moins de la production\nnationale de plants du palmier dattier et 60% au moins,\ndu nombre de pépinières et des laboratoires agréés pour\nla production desdits plants ;\n+ Production des dattes : 55% au moins du volume de la\nproduction nationale de dattes et 55% au moins du\nnombre des producteurs répartis sur l'ensemble du\nterritoire national ;\n_ Valorisation : 55% au moins du volume de la\nproduction nationale des dattes conditionnées et/ou\ntransformées et commercialisées, et 55% au moins, du\nnombre des opérateurs intervenant dans les activités\nde conditionnement et/ou de transformation et/ou\nde commercialisation des dattes conditionnées ou\ntransformées.\n\nL'arrêté conjoint du ministre de l'agriculture\net de la pêche maritime et du ministre de l'industrie, du\ncommerce, de l'investissement et de l'économie numérique\nn° 4520-14 du 2 rabii I 1436 (25 décembre 2014) fixant le\nniveau de représentativité des organisations professionnelles\ncomposant l'interprofession de la filière du palmier dattier\nest abrogé.\n\nLe présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 3 chaabane 1440 (9 avril 2019).\nLe ministre de l'agriculture, Le ministre de l'industrie,\nde la pêche maritime, de l'investissement,\ndu développement rural du commerce\net des eaux et forêts, et de l'économie numérique,\nAZIZ AKHANNOUCH. MLY HAFID ELALAMY.",
       "domain": {
@@ -7399,7 +6747,7 @@
       "date_gregorian": "2019-06-11",
       "decree_date_hijri": "7 chaoual 1440",
       "decree_date_gregorian": "2019-06-11",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7437,7 +6785,7 @@
       "date_gregorian": "2019-06-18",
       "decree_date_hijri": "14 chaoual 1440",
       "decree_date_gregorian": "2019-06-18",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7477,7 +6825,7 @@
       "date_gregorian": "2019-06-21",
       "decree_date_hijri": "17 chaoual 1440",
       "decree_date_gregorian": "2019-06-21",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": "Le ministre de l'industrie, de l'investissement",
@@ -7502,10 +6850,10 @@
         15
       ],
       "n_articles": 2,
-      "instrument_id": "instr_1688_19_2",
+      "instrument_id": "instr_1688_19",
       "article_ids": [
-        "art_1688_19_3",
-        "art_1688_19_4"
+        "art_1688_19_1",
+        "art_1688_19_2"
       ],
       "type": "ARRETE",
       "reference_label": "arrêté n° 1688-19",
@@ -7514,7 +6862,7 @@
       "date_gregorian": "2019-05-29",
       "decree_date_hijri": "23 ramadan 1440",
       "decree_date_gregorian": "2019-05-29",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7552,7 +6900,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7590,7 +6938,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7628,7 +6976,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7666,7 +7014,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7704,7 +7052,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7742,7 +7090,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7780,7 +7128,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7818,7 +7166,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7856,7 +7204,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7894,7 +7242,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7932,7 +7280,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7970,7 +7318,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -7992,12 +7340,14 @@
       "instrument_type": "ARRETE",
       "reference": "1895-19",
       "article_indices": [
-        40
+        40,
+        41
       ],
-      "n_articles": 1,
+      "n_articles": 2,
       "instrument_id": "instr_1895_19",
       "article_ids": [
-        "art_1895_19_1"
+        "art_1895_19_1",
+        "art_1895_19_2"
       ],
       "type": "ARRETE",
       "reference_label": "arrêté n° 1895-19",
@@ -8006,7 +7356,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -8015,7 +7365,7 @@
         }
       ],
       "signatory": "KHALID SAMADI",
-      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1895-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant Parrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en radiologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de\nja formation des cadres et de la recherche scientifique n° 572-04\ndu 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en radiologie, tel\nqu'il a été complété ;\n1832 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 572-04 du 15 safar 1425 (6 avril 2004) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en radiologie\n«est fixée ainsi qu'il suit :\nCOPASEIIE TETE IE CITE LEE EEE ET TES EST EL EEE EEE TETE ETES EE TEE ET LE EEE LE EEE EEZEEEEELETEEEEE EEE\nDPLLETE TEE ECESILEELCEETEEETE EEE ECEELEET ELEC EEE TETE EEE EEE TEE EEE EEETEEEEEE ELLE LEEELEELE ELLES\n« — Diplôme interuniversitaire de spécialisation de\n« radiodiagnostic, délivré par l'Université René\n« Descartes - Paris V - France - le 6 novembre 2000,\n«assorti d'une attestation d'évaluation des connaissances\n«et des compétences délivrée par la Faculté de médecine\n«et de pharmacie de Casablanca - le 21 mars 2019. »\nART, 2. - Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1895-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant Parrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en radiologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de\nja formation des cadres et de la recherche scientifique n° 572-04\ndu 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en radiologie, tel\nqu'il a été complété ;\n1832 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 572-04 du 15 safar 1425 (6 avril 2004) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en radiologie\n«est fixée ainsi qu'il suit :\nCOPASEIIE TETE IE CITE LEE EEE ET TES EST EL EEE EEE TETE ETES EE TEE ET LE EEE LE EEE EEZEEEEELETEEEEE EEE\nDPLLETE TEE ECESILEELCEETEEETE EEE ECEELEET ELEC EEE TETE EEE EEE TEE EEE EEETEEEEEE ELLE LEEELEELE ELLES\n« — Diplôme interuniversitaire de spécialisation de\n« radiodiagnostic, délivré par l'Université René\n« Descartes - Paris V - France - le 6 novembre 2000,\n«assorti d'une attestation d'évaluation des connaissances\n«et des compétences délivrée par la Faculté de médecine\n«et de pharmacie de Casablanca - le 21 mars 2019. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
       "domain": {
         "label": "Fiscal",
         "confidence": 0.409,
@@ -8028,8 +7378,8 @@
       "instrument_type": "ARRETE",
       "reference": "1899-19",
       "article_indices": [
-        41,
-        42
+        42,
+        43
       ],
       "n_articles": 2,
       "instrument_id": "instr_1899_19",
@@ -8044,7 +7394,7 @@
       "date_gregorian": "2019-06-13",
       "decree_date_hijri": "9 chaoual 1440",
       "decree_date_gregorian": "2019-06-13",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -8066,8 +7416,8 @@
       "instrument_type": "ARRETE",
       "reference": "2003-19",
       "article_indices": [
-        43,
-        44
+        44,
+        45
       ],
       "n_articles": 2,
       "instrument_id": "instr_2003_19",
@@ -8082,7 +7432,7 @@
       "date_gregorian": "2019-06-17",
       "decree_date_hijri": "13 chaoual 1440",
       "decree_date_gregorian": "2019-06-17",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -8104,8 +7454,8 @@
       "instrument_type": "ARRETE",
       "reference": "2004-19",
       "article_indices": [
-        45,
-        46
+        46,
+        47
       ],
       "n_articles": 2,
       "instrument_id": "instr_2004_19",
@@ -8120,7 +7470,7 @@
       "date_gregorian": "2019-06-17",
       "decree_date_hijri": "13 chaoual 1440",
       "decree_date_gregorian": "2019-06-17",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -8142,8 +7492,8 @@
       "instrument_type": "DECISION",
       "reference": "93",
       "article_indices": [
-        47,
-        48
+        48,
+        49
       ],
       "n_articles": 2,
       "instrument_id": "instr_93",
@@ -8158,7 +7508,7 @@
       "date_gregorian": "2019-07-15",
       "decree_date_hijri": "12 kaada 1440",
       "decree_date_gregorian": "2019-07-15",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -8180,8 +7530,8 @@
       "instrument_type": "DECISION",
       "reference": "94",
       "article_indices": [
-        49,
-        50
+        50,
+        51
       ],
       "n_articles": 2,
       "instrument_id": "instr_94",
@@ -8196,7 +7546,7 @@
       "date_gregorian": "2019-06-28",
       "decree_date_hijri": "24 chaoual 1440",
       "decree_date_gregorian": "2019-06-28",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -8218,8 +7568,8 @@
       "instrument_type": "DECISION",
       "reference": "95",
       "article_indices": [
-        51,
-        52
+        52,
+        53
       ],
       "n_articles": 2,
       "instrument_id": "instr_95",
@@ -8232,7 +7582,7 @@
       "title": "Décision du Wali de Bank Al-Maghrib n° 95 du 6 kaada 1440 (? juillet 2019) portant agrément de la société « DIGIFI » en qualité d'établissement de paiement. LE WALI DE BANK AL-MAGHRIB,",
       "decree_date_hijri": null,
       "decree_date_gregorian": null,
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -8254,8 +7604,8 @@
       "instrument_type": "DECISION",
       "reference": "96",
       "article_indices": [
-        53,
-        54
+        54,
+        55
       ],
       "n_articles": 2,
       "instrument_id": "instr_96",
@@ -8270,7 +7620,7 @@
       "date_gregorian": "2019-07-10",
       "decree_date_hijri": "7 kaada 1440",
       "decree_date_gregorian": "2019-07-10",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [
         {
           "role": null,
@@ -8302,7 +7652,7 @@
       "date_gregorian": "2019-05-16",
       "decree_date_hijri": "10 ramadan 1440",
       "decree_date_gregorian": "2019-05-16",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [],
       "content": "Décision du CSCA n° 39-19 du 10 ramadan 1440 (16 mai 2019)\nrelative à l'émission KMASTERCHEF MAROC»\ndiffusée par le service télévisuel « 2M » édité par la société\n«SOREAD 2M ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la Communication Audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nson article 2 (alinéa premier, 2 et 4) ;\nVu le cahier des charges de la Société « SOREAD-2M »\nnotamment ses articles 50.1, 50.2 et 51.1 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectué par la Direction Générale de la Communication\nAudiovisuelle au sujet de l'édition du 19 mars 2019 de l'émission\n« MASTERCHEF MAROC » diffusée par le service télévisuel\n« 2M » édité par la Société « SOREAD-2M » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la Communication Audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nque l'édition du 19 mars 2019 de l'émission « MASTERCHEF\nMAROC » diffusée par le service télévisuel «2M », a présenté\nle parrain et l'un de ses produits par un slogan sonore à travers\nl'utilisation des termes suivants :\n« Prestigia plage des nations golf city, entre Rabat et\nKénitra, habitez dans un cadre exceptionnel toute l'année ! ».\nAttendu qu'il ressort également du contenu précité, qu'il\na inclus un commentaire de l'un des membres du jury, au sujet\ndu complexe résidentiel dans lequel s'est déroulée cette édition\nde l'émission « MASTERCHEF MAROC » par l'utilisation\ndes termes tels que :\nQUI lie Jet! sl Sbaiés LIN ce laut, A ble 52 11)\n4 Lie xl! 5la «Prestigia plage des nations golf city 3404\nsurf &i foot ! 598 Jls ll des GI de LAS paze\ndl di usgpse A les activités Jls cél;; «48 la plage! 4\nAttendu que la même édition a contenu des commentaires\nde l'une des concurrentes à travers l'utilisation des termes\nsuivants :\nplage Jhs àJsN 32 QUI! cl; cg ol ul bles » (.)\n4.) «luil;s luge bla SÂls : des nations\n[MUNICATION AUDIOVISUELLE\nAttendu que la même édition a reçu un groupe d'invités,\ndont le directeur du complexe résidentiel précité, qui est\nintervenu à la demande d'un membre du jury, en utilisant les\ntermes suivants :\n« (….) Plage des nations, c'est du bien-être, la convivialité\nqui rime parfaitement avec la gastronomie, je pense qu'on pouvait\npas mieux faire que ce soir. (...)”\nAttendu que l'article 2 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée\ndispose que :\n« Pour l'application des dispositions de la présente loi,\nconstitue : (...)\n2- Une publicité clandestine : la présentation verbale ou\nvisuelle, de manière explicite ou implicite, de marchandises, de\nservices, du nom, de la marque ou des activités d'un producteur\nde marchandises ou d'un prestataire de services dans des\nprogrammes, lorsque cette présentation est faite de façon\nintentionnelle par l'opérateur de communication audiovisuelle\ndans un but publicitaire non explicite et risque d'induire le public\nen erreur sur la nature d'une telle présentation. Une présentation\nest considérée comme intentionnelle notamment lorsqu'elle est\nfaite contre rémunération ou toute autre forme de paiement ; (...)\n4 - Un parrainage : toute contribution d'une entreprise\npublique ou privée au financement de programmes dans le but\nde promouvoir son nom, Sa marque, Son image, Ses activités ou\nses réalisations ; (...) ».\nAttendu que l'article 50.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nLyme 09 Ol jozs NY (.) eye pale Et AS AU pau\ncall als Ge ASès phil aile) de sle dell pol dass\nsa doll gpl LAN à Dlazuls dois\nAttendu que l'article 50.2 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nedge ELU gel à of9 dl $ arlue EN gt\nest dub 15 les elle UE Je gb oSe Ÿ\ndle so üly 5 le ahleë aol J 8 L4pl lil le Le\ndlus gl dilegtio #8 gl là le ll jo Y LS pal)\n«() lei lots pl slzgtio sl\nAttendu que l'article 51.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\ndie çylall pe AN of pgioll AN de putes SAN ji\n+ 689 679 669 (35 2 caiädll) 2 Slaûl 5 Lapéssai 339 LS\ns«(.) 77.03 dla\nN° 6804 — 13 hiia 1440 (15-8-2019) BULLETIN OFFICIEL 1837\nAttendu que la Haute Autorité de la Communication\nAudiovisuelle a adressé un courrier en date du 18 avril 2019 à la\nSociété « SOREAD-2M » au sujet des observations relevées ;\nAttendu que la Haute Autorité de la Communication\nAudiovisuelle a reçu en date du 3 mai 2019 une réponse de\nla Société « SOREAD-2M » au sujet desdites observations ;\nAttendu que l'édition précitée a présenté en tant que\nparrain, au début et à fin de l'émission, une entité commerciale\npar son nom (« Prestigia luxury home »), les images et le nom\nd'un de ses produits, en associant cette présentation à un\nslogan sonore contenant des termes renvoyant de manière\ndirecte aux avantages du produit objet de la présentation tels\nque :\n&« (...) habitez dans un cadre exceptionnel toute l'année\nce qui constitue indéniablement une présentation\nargumentée, ce qui met le contenu précité en non-conformité\navec les dispositions encadrant la présentation du parrain ;\nAttendu que l'édition précitée a contenu la présentation\nsonore et visuelle du nom d'une entité commerciale et de l'un\nde ses services, à travers les témoignages des concurrents,\ndes invités et des membres du jury, en utilisant des termes de\nnature promotionnelle et argumentaire tels que :\ngas AN lie ll 5le &slrisg LUN CH de leu le 52\ngars 4,6 Lis Je) sla Prestigia plage des nations golf city\nla ds surf dis foot oëll ls ll des fe dd ie\nLilisn ds Gysgpge AN les activités Jls cils 546 plage\nplage des nations JL él 92 AN cl 25 OU als)\ndans un contexte général visant à mettre en exergue le\nproduit et ses avantages, ce qui met le contenu précité en non-\nconformité avec les dispositions relatives à la communication\npublicitaire, notamment, à la publicité clandestine ;\nAttendu que, en conséquence, il se doit de prendre les\nmesures appropriées à l'encontre de la Société « SOREAD-\nPAR CES MOTIFS :\n1) Déclare que la Société « SOREAD-2M » éditrice du\nservice télévisuel « 2M » a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles relatives au\nparrainage et à la publicité clandestine ;\n2) Décide d'adresser un avertissement à la Société\n&« SOREAD-2M » ;\n3) Ordonne la notification de la présente décision à la\nSociété « SOREAD-2M », ainsi que sa publication au Bulletin\nofficiel ;\ndo de\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 ramadan 1440 (16 mai 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Al Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).\nEE meme",
       "domain": {
@@ -8327,7 +7677,7 @@
       "date_gregorian": "2019-06-14",
       "decree_date_hijri": "10 chaoual 1440",
       "decree_date_gregorian": "2019-06-14",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [],
       "content": "Décision du CSCA n° 41-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM diffusé par le service télévisuel\n«MEDI 1 TV » édité par la société « MEDI 1 TV ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\n| Vu la loi n° 11-15 portant réorganisation de la Haute\n| Autorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nVu le cahier des charges de la Société « MEDI 1 TV»\nnotamment ses articles 7 et 31 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n« MEDI 1 TV » édité par la Société « MEDI 1 TV » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée\ndispose que :\n« La communication audiovisuelle est libre. (...).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (...). » ;\n1828 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\nInciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (...) ;\nFaire l'apologie des crimes (...). » ;\nAttendu que l'article 7 du cahier des charges de la Société\n« MEDI 1 TV » dispose que :\nGers deg all ÿ den «Jp» Sgser ÿ tçaill Li\nOle) dipl Shbeÿlg cbaarall LIU arslse PL\nGallo ll spraull f lole jagsaill telsalls sl ebi\nSoUL dule yogpaio 52 LS ar SM flo Mio Sami 639\næeball S'il dhës cg Ray Açaill ls céeles .28\ndonitus pas 88 gabl sles loués be clip lol älull\nSu Sp de spot Ke Llérl hell url ll\nsslaté Y die cl 396 disletuls\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019 à la\nSociété « MEDI 1 TV » au sujet des observations enregistrées,\ndemeuré sans réponse ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\n«(.) aus 505% Lily dére Mg) Luis (..)\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahâr » en Afghanistan ;\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\n| l'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu que l'article 31 du cahier des charges de la Société\n« MEDI 1 TV » dispose que :\nlil lustre se degarashsätis philo de ÿ»\nlat) JU Sbsëell DEN Gsss Lie clarill jiés sf Goilall\nbla) sh hls Je se adeNl alrall Ke, coel Uell\nZihel &sbs plie etgaill 5> (É otes dl she) 45\nah Sylla)\nsa) AS de y Sul pal se » 37 sf doutll 24 céés *\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la Société « MEDI1TV»;\nPAR CES MOTIFS :\n1) Déclare que la Société « MEDI Î TV » éditrice du\nservice télévisuel « MEDI 1 TV » a enfreint les dispositions\nlégales et règlementaires en vigueur, notamment celles relatives\naux obligations déontologiques et à la maîtrise d'antenne ;\n2) Décide d'adresser un avertissement à la Société\n« MEDI I TV »;\n3) Ordonne la notification de la présente décision à la\nSociété « MEDI 1 TV », ainsi que sa publication au Bulletin\nofficiel ;\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
       "domain": {
@@ -8352,7 +7702,7 @@
       "date_gregorian": "2019-06-14",
       "decree_date_hijri": "10 chaoual 1440",
       "decree_date_gregorian": "2019-06-14",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [],
       "content": "Décision du CSCA n° 42-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM» diffusé par le service télévisuel\n« AL OULA » édité par la « SOCIETE NATIONALE\nDE RADIO ET DE TELEVISION » - SNRT.\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nAIO LZONA 19125 TAAN IE Q MDOION RIILI ETIN OFFICIEL. 1839\nIN UVUOUT TT AU JA LFTU Lis A 7 A\nEE 0\nVu le cahier des charges de la « SNRT » notamment ses\narticles 183.1 et 183.3 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n« A1 Oula » édité par la « SNRT » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nJS osQ Lily Lite Mg) Laxis jlac go Gélall oui (er\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que :\n« La communication audiovisuelle est libre. ( […texte non modifié…] ).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (..…). » ;\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\n+ Inciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (..…) ;\n+ Faire l'apologie des crimes (...). » ;\nAttendu que l'article 183.1 du cahier des charges de la\nSNRT dispose que :\ntb uel&äl dcgamo sl aré PES «éiahl sl lat Le\nAttendu que l'article 183.3 du cahier des charges de la\nSNRT dispose que :\nle du sl el loss pStll cé LI 8,5 4 al Lséræsr\nproue pl) lle caen «5 30) ga ses Le (fl ché\nco bll Shhedt call hd 5e liés AG laser 9\nLars es seal le plein Bla Jolie Gel\n«lus de dy sis lb Lors [3195 RS] 85letuul\nD\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019 à\nla «SNRT » au sujet des observations enregistrées, demeuré\nsans réponse ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahâr » en Afghanistan ;\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\nl'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la SNRT ;\nPAR CES MOTIFS :\n1) Déclare que la Société « SNRT » éditrice du service\ntélévisuel « A1 Oula» a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles\nrelatives aux obligations déontologiques et à la maîtrise\nd'antenne ;\n2) Décide d'adresser un avertissement à la « SNRT » ;\n1840 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\n3) Ordonne la notification de la présente décision à\nla « SNRT », ainsi que sa publication au Bulletin officiel ;\nDélibérée par le Conseil Supérieur de la Communication\nAudiovisuelle lors de sa séance du 10 chaoual 1440\n(14 juin 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs NarjJis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
       "domain": {
@@ -8377,7 +7727,7 @@
       "date_gregorian": "2019-06-14",
       "decree_date_hijri": "10 chaoual 1440",
       "decree_date_gregorian": "2019-06-14",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [],
       "content": "Décision du CSCA n° 43-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM» diffusé par le service télévisuel\n«2M » édité par la société « SOREAD 2M.\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nVu le cahier des charges de la Société « SOREAD 2M»\nnotamment ses articles 52.1 et 52.3 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n«2M » édité par la Société « SOREAD 2M » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nS üsQ Lily Live My) Luxis jlac ge Gala ti (0)\nES\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que :\n« La communication audiovisuelle est libre. (...).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (...). » ;\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\n+ Inciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (...) ;\n* Faire l'apologie des crimes (...). » ;\nAttendu que l'article 52.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nof çgpaniall juil de Dép sf ctall 55LGÿl pue (..)\ncuLu) Leltäl dcsare ol uaté ôlei dial) sl la ÿl de\npal pl dit) desert dote of pyflaïil si peais si ele\ns(.) uso lil o\nAttendu que l'article 52.3 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nle dy sl gli Less pull c9 I ASS AS al Lt\npal goll else lslgell ali a) A le anus llans\nbuotéo js] lle cu cëälll goball «Glen Le ($ 4e dk\nao bl she lt tulle phSM 3e bolatus AS laileese 5\nelaSYl uieg eeSœtll le slatul Llixi del ss Lelil\n«ll le ou sf el lors Li96 ail éslerul\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019\nà la Société « SOREAD 2M » au sujet des observations\nenregistrées ;\nAttendu que la Haute Autorité de la communication\naudiovisuelle a reçu en date du 29 mai 2019 une réponse de la\nSociété « SOREAD 2M » exposant un ensemble d'explications\neu égard aux observations enregistrées ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahäôr » en Afghanistan ;\nNO £QNA 12 Lin TAAN TER IN1O) BULLETIN OFFICIEL 1841\nLU MMN ON et DÉS À\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\nl'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la Société « SOREAD\nPAR CES MOTIFS :\n1) Déclare que la Société « SOREAD 2M » éditrice\ndu service télévisuel « 2M» a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles relatives aux\nobligations déontologiques et à la maîtrise d'antenne ;\n2) Décide d'adresser un avertissement à la Société\n&« SOREAD 2M » ;\n3) Ordonne la notification de la présente décision à la\nSociété « SOREAD 2M », ainsi que sa publication au Bulletin\nofficiel ;\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440\n(14 juin 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
       "domain": {
@@ -8402,7 +7752,7 @@
       "date_gregorian": "2019-05-23",
       "decree_date_hijri": "17 ramadan 1440",
       "decree_date_gregorian": "2019-05-23",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [],
       "content": "Décision du CSCA n° 44-19 du 17 ramadan 1440 (23 mai 2019)\nrelative à l'émission « wlë,i dùl sul, » diffusée par le\nréseau de service radiophonique «MFM » édité par la\nsociété « MFM RADIO TV ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1%), 4 (alinéa 9) et 22 ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 :\nVu le cahier des charges de la Société « MFM RADIO\nTV» notamment ses articles 6, 9 et 34.2 ;\nVu la décision du Conseil Supérieur de la communication\naudiovisuelle n° 07-17 du 03 joumada II 1438 (2 mars 2017)\nportant procédure des plaintes, notamment ses articles 2, 3,\nVu la décision du Conseil Supérieur de la communication\naudiovisuelle n° 14-17 du 20 ramadan 1438 (15 juin 2017) portant\nadoption d'une recommandation relative aux programmes\ntraitant de la santé dans les services audiovisuels notamment\nses articles 3, 6 et 7;\nVu la plainte de la « Fédération Marocaine des Droits\ndu Consommateur » reçue en date du 08 avril 2019, au sujet\nde l'émission «ul3,f di ul diffusée par le réseau de service\nradiophonique « MFM » édité par la Société « MFM RADIO\nTV»;\nAprès avoir pris connaissance du rapport d'instruction\neffectué par la Direction Générale de la communication\naudiovisuelle au sujet des éditions du 5, du 12et du 14 mars 2019,\nde l'émission «21,5,i «ii ul» diffusée par le réseau de service\nradiophonique « MFM » édité par la Société « MFM RADIO\nTV»;\nEt après en avoir délibéré :\nAttendu que l'article 7 de la loi n° 11-15 portant\nréorganisation de la Haute Autorité de la communication\naudiovisuelle dispose que :\n« Le Conseil supérieur reçoit des plaintes, émanant\ndes présidents des chambres du Parlement, du Chef du\ngouvernement, des organisations politiques ou syndicales ou\ndes associations de la société civile intéressées à la chose publique\net des conseils des régions, relatives à des violations, par les\norganes et les opérateurs de communication audiovisuelle, des\nlois ou règlements applicables au secteur de la communication\naudiovisuelle.\nLes particuliers ont également le droit de saisir le Conseil\nsupérieur de plaintes, relatives à des violations par les opérateurs\nde la communication audiovisuelle des lois ou règlements\napplicables au secteur. (...) » ;\nAttendu que la plainte est de ce fait, recevable en la\nforme ;\n1049 RUILETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nIUT n Se\nAttendu qu'il ressort de la plainte de la « Fédération\nMarocaine des Droits du Consommateur », que certaines\némissions de services radiophoniques privés font les louanges\ndu charlatanisme, en particulier le style et la méthodologie\nemployés pour présenter l'émission «wli3,i dl eut», qui\nexploite, d'après la plainte, l'ignorance et la faiblesse de\ncertains consommateurs, ce qui pourrait porter préjudice à\nleurs intérêts pécuniaires et la sécurité de leur santé, et ce en\nnon-conformité avec les lois en vigueur ;\nAttendu qu'il ressort du suivi des éditions des 5, 12 et\n14 mars 2019 de l'émission «u1,3,f il ul» qu'elles ont abordé\nun ensemble de sujets, relatifs à ce qui a été présenté et\nconsidéré par l'invité de l'émission comme étant des maladies\net des symptômes psychologiques et physiologiques tels que\n« la stérilité et l'avortement », les « troubles mentaux », les\n«intoxications alimentaires », l'« épistaxis », les « hémorragies »\net les « syndromes du côlon »... ;\nL'invité a également interagi, avec les auditeurs,\nprésentant leurs situations par SMS et appels téléphoniques,\net a proposé ce qu'il a considéré comme étant des solutions\nthérapeutiques, et ce, à travers l'utilisation de termes tels que :\nEdition du 5 mars 2019 :\nghagauie Lo A lil cuil (..}» 'invité de l'émission\n…sgall oties bi L SN aatie (30); close fs SLI\nA hole Mo. as EN dis lgluter 8 30 …. 416\nQUI oleiYl Jls Ênis » Loÿl AUS (.)\" ali Läio\nAlors lg Liles ho los AN ile 35 lg cells célss a tal\nloJl39 al La of hs oléhtall ls il JL. lbs) 3e clé\nduaës (Ji al ue sol la Go Ayié rec Lo flo del\njme (9 àlal yyal agé a fleïs diese al le thus ail\nCrël lpé lgalieis 45 5le she lei dl eL8 of vëb Ll\n) Ve lossti Lo Lite Lo légal)\nEdition du 12 mars 2019 :\nRa pote A sLuill à uill (..)s : Invité de l'émission\nsl lois ler ile N Jls KA 5la Pers A of ésjll ls\nA(e.) duô 9/59 dl ele Jhs Ugo sul lle al\nEdition du 14 mars 2019 :\nler ll Us JEg5 autus (..)» 'invité de l'émission\ncuj pal ele is LS slèall 6 pl. slill Le Le Lagputs\nD aus lyitut LëN ele bg hs dsrhe psilé sf 2521\nLog çaraall Opläll Elle pate QU lil ae hs\nI —\nAttendu que l'article 9 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que : « Sans préjudice des sanctions prévues par les\ntextes en vigueur, les émissions et les reprises de programmes\nou de parties de programmes ne doivent pas : (..) Comporter\ndes incitations à des comportements préjudiciables à la santé\nou à la sécurité des personnes et des biens ou à la protection de\nl'environnement ; (...). » ;\nAttendu que l'article 3 de la décision du Conseil Supérieur\nde la communication audiovisuelle n°14-17 portant adoption\nd'une recommandation relative aux programmes traitant de\nla santé dans les services audiovisuels, dispose que :\n« Les opérateurs audiovisuels veillent dans leurs\nprogrammes relatifs à la santé : (...) - à ce que les intervenants\nrespectent leur domaine de spécialisation.(.….)» ;\nAttendu que l'article 6 de la même recommandation\ndispose que :\n« (..) Les opérateurs audiovisuels veillent dans leurs\nprogrammes traitant de la santé : (...) - à ce que les intervenants\ndans ces émissions n'établissent pas de diagnostics relatifs à\nl'état de santé des auditeurs qui les appellent pour demander\nconseil. (...) » ;\nAttendu que l'article 7 de la même recommandation\ndispose que :\n« (...) Les opérateurs audiovisuels veillent dans leurs\nprogrammes traitant de la santé : (...) - à ce que les intervenants\ndans ces émissions ne prescrivent pas de traitements aux\nauditeurs mais les incitent à solliciter l'avis d'un spécialiste.\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 19 avril 2019, à\nja Société « MFM RADIO TV » eu égard aux observations\nrelevées concernant la plainte de la « Fédération Marocaine\nde Protection du Consommateur » ;\nAttendu que la Haute Autorité de la communication\naudiovisuelle a reçu en date du 3 mai 2019 un courrier de\nla Société « MFM RADIO TV » exposant un ensemble\nd'explications eu égard aux observations relevées ;\nAttendu que l'invité a, durant les éditions précitées,\ndiagnostiqué certaines situations en se basant sur les appels\ntéléphoniques et les messages des auditeurs et a proposé des\nsolutions thérapeutiques sous formes de recettes composées\nd'herbes et d' «eau de 4,5, » ;\nAttendu que, bien que ne contenant pas d'incitation\nexplicite, les éditions précitées, soulèvent les griefs suivants :\n— Ja présentation élogieuse et à connotation morale, de\nl'invité par l'animateur ;\n_ la présentation de solutions thérapeutiques,\nprétendument efficaces, pour la guérison de certains\nsymptômes et maladies ;\nNO ZONA ta Lie HAAN CIE RONION BULLETIN OFFICIEL 1843\nLY VUNV OT I RE 7 A\n— la présentation de témoignages par SMS et par appels\ntéléphoniques, qui ont dans leur globalité, fait état de\nsuccès thérapeutiques, ce qui est à même d'amener une\npartie du public, à tout le moins, «normaliser » avec ces\npratiques et traitements supposés, voire même délaisser\nou négliger le suivi médical ;\nTout ceci rend le contenu précité susceptible dans\nsa globalité, d'inciter, même implicitement, une partie\ndu public, à des pratiques préjudiciables à leur santé, et\nce, sans réserve aucune, voire sous les encouragements de\nanimateur, en violation de l'exigence en matière de maîtrise\nd'antenne, mettant ainsi l'émission, en non-conformité avec les\ndispositions légales et règlementaires en vigueur, notamment\ncelles relatives aux émissions de santé.\nAttendu que le Conseil Supérieur de la communication\naudiovisuelle avait précédemment adressé une mise en garde,\nen date du 9 janvier 2019, à la Société « MFM RADIO TV »\nconcernant la même émission pour des précédents similaires ;\nAttendu que l'article 34.2 du cahier des charges de la\nSociété « MFM RADIO TV » dispose que :\n« En cas de manquement à une ou plusieurs dispositions\nou prescriptions applicables au Service ou à l'Opérateur, et\nsans préjudice des pénalités pécuniaires visées ci-dessus, la\nHaute Autorité peut, hormis ses décisions de mise en demeure,\nprononcer à l'encontre de l'Opérateur, compte tenu de la gravité\ndu manquement, l'une des pénalités suivantes :\n+ L'avertissement ;\n+ La suspension de la diffusion du service ou d'une partie\ndu programme pendant un mois au plus ; (...) » ;\nAttendu que, en conséquence, il se doit de prendre les\nmesures appropriées à l'encontre de la Société « MFM RADIO\nTV»;\nPAR CES MOTIFS :\nDécide :\nEn la forme :\nde la recevabilité de la plainte de la « Fédération\nMarocaine des Droits du Consommateur » ;\nSur le fond :\nLa suspension de la diffusion, durant une semaine, par\nle réseau de services radiophoniques « MFM », durant\nl'horaire habituel de l'émission «els, ail pl , pour non-\nrespect par la Société « MFM RADIO TV » lors des éditions\nprécitées, des dispositions légales et règlementaires en vigueur,\nnotamment celles relatives aux règles encadrant les émissions\nde santé, et ordonne de ce fait, à la Société « MFM RADIO\nTV » de prendre les dispositions nécessaires pour l'exécution\nde cette décision ;\nD'ordonner à la Société « MFM RADIO TV » de\ndiffuser le communiqué qui suit, pendant la période de\nsanction précitée, fixée à une semaine, à compter de la date\nde notification, et ce, à l'heure habituelle du début de la\ndiffusion de l'émission «ls3,i 4 eut :\npub goliu ce «2019 asle 143 125 05 Slle célatulr\nVol és passes le les sil d'ores ml belles\nSlbls je êjlee dpdle Vol Ki pôle scgeatuall 4é Al\nsarsall galall à ol) Lilsalh\nsols #l dos àmsall let) LIEN) SU VE\nal golinll Lis 058 atull $ pl ls dati Less\ngli ges slal de ele le Ah Ar\nel luc) ds>9 «etœill &> Jde gous JHEN Goss\nDe notifier la présente décision à la Société « MFM\nRADIO T V », et à la partie plaignante, ainsi que sa publication\nau Bulletin officiel.\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 17 ramadan 1440\n(23 mai 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).\nEEE serment",
       "domain": {
@@ -8427,7 +7777,7 @@
       "date_gregorian": "2019-06-14",
       "decree_date_hijri": "10 chaoual 1440",
       "decree_date_gregorian": "2019-06-14",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [],
       "content": "Décision du CSCA n° 48-19 du 10 chaoual 1440 (14 juin 2019)\nportant établissement du cahier des charges pour\nl'établissement et l'exploitation du service de télévision\ndiffusé par satellite « CHADA TV » par la société\n« CHADA RADIO $S.A. »\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 4) et 4 (alinéa 1) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 13, 26 et 38 ;\n1RAÀ BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nVu la décision du Conseil supérieur de la communication\naudiovisuelle n°04-17 en date du 20 rabii II 1438 (19 janvier\n2017), portant adoption de la procédure d'attribution de\nlicence pour l'établissement et l'exploitation de services de\ncommunication audiovisuelle, notamment son article 12 ;\nVu la demande d'octroi de licence d'établissement et\nd'exploitation du service de télévision diffusé par satellite\n« Chada TV » adressée à la Haute Autorité en date du\n23 mars 2018 ;\nAprès avoir pris connaissance des documents relatifs à\nl'instruction de la demande établis par la Direction générale\nde la communication audiovisuelle ;\nVu la réunion d'audition tenue par le Conseil supérieur\nde la communication audiovisuelle en date du 31 janvier 2019\navec la société « CHADA RADIO S.A » en vue d'exposer\nle contenu de son projet d'établissement et d'exploitation du\nservice de télévision diffusé par satellite « Chada TV »,\nEt après en avoir délibéré :\n1°) arrête les termes du cahier des charges du service\nde télévision diffusé par satellite « Chada TV » édité par la\nsociété « CHADA RADIO S.A », dont l'original est annexé à\nla présente décision ;\n2°) ordonne la publication au Bulletin officiel de la\nprésente décision et du cahier des charges visé ci-dessus et\nleur notification à la société « CHADA RADIO S.A » ;\nDélibérée par le Conseil supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
       "domain": {
@@ -8452,7 +7802,7 @@
       "date_gregorian": "2019-06-14",
       "decree_date_hijri": "10 chaoual 1440",
       "decree_date_gregorian": "2019-06-14",
-      "bo_date_publication": "2019-08-15",
+      "bo_date_publication": null,
       "signatories": [],
       "content": "Décision du CSCA n° 49-19 du 10 chaoual 1440 (14 juin 2019)\nportant attribution de licence pour Pétablissement et\nl'exploitation du service de télévision diffusé par satellite\n« chada tv » par la société « chada radio s.a. »\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 4) et 4 (alinéa 1) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 13, 17, 18, 24, 26 et 38 ;\nVu la décision du Conseil supérieur de la communication\naudiovisuelle n° 04-17 en date du 20 rabii II 1438 (19 janvier\n2017), portant adoption de la procédure d'attribution de\nlicence pour l'établissement et l'exploitation de services de\ncommunication audiovisuelle, notamment ses articles premier,\nVu la demande d'octroi de licence d'établissement et\nd'exploitation du service de télévision diffusé par satellite\n« Chada TV » adressée à la Haute Autorité en date du\n23 mars 2018 ;\nAprès avoir pris connaissance des documents relatifs à\nlinstruction de la demande établis par la Direction générale\nde la communication audiovisuelle ;\nVu la réunion d'audition tenue par le Conseil supérieur\nde la communication audiovisuelle en date du 31 janvier 2019\navec la société « CHADA RADIO S$S.A » en vue d'exposer\nle contenu de son projet d'établissement et d'exploitation du\nservice de télévision diffusé par satellite « Chada TV » ;\nVu la décision n°48-19 du Conseil supérieur de la\ncommunication audiovisuelle en date du 10 chaoual 1440\n(14 juin 2019) arrêtant les termes du cahier des charges du\nservice de télévision diffusé par satellite « Chada TV »,\nEt après en avoir délibéré :\n1°) Décide d'attribuer à la société « CHADA RADIO\nS.A » une licence d'établissement et d'exploitation du service\nde télévision diffusé par satellite « Chada TV » dans les\nconditions fixées au cahier des charges s'y rapportant ;\n2°) Ordonne la publication de la présente décision\nau Bulletin officiel et sa notification à la société « CHADA\nRADIO S.A », ainsi qu'à l'autorité gouvernementale chargée\nde la communication.\nDélibérée par le Conseil supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin\n2019), tenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
       "domain": {
@@ -8465,8 +7815,5 @@
     }
   ],
   "n_instruments": 35,
-  "bo_date_publication": "2019-08-15",
-  "unlinked_tables": [],
-  "n_unlinked_tables": 0,
-  "n_total_tables": 0
+  "bo_date_publication": null
 }
