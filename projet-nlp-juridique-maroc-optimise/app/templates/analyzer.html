@@ -1,415 +1,450 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html class="light" lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Analyseur de Bulletins Officiels</title>
+<title>Analyseur BO - ADLI MOROCCO</title>
+<script src="{{ url_for('static', filename='js/tailwind.js') }}"></script>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&amp;family=Cairo:wght@400;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+    tailwind.config = {
+        darkMode: "class",
+        theme: {
+            extend: {
+                "colors": {
+                    "primary-container": "#466b99", "on-secondary-container": "#475f7f",
+                    "inverse-primary": "#a4c9fc", "on-error-container": "#93000a",
+                    "error": "#ba1a1a", "surface-tint": "#3b608d", "primary": "#2c537f",
+                    "secondary": "#486080", "on-surface": "#001e2b", "on-error": "#ffffff",
+                    "on-primary-fixed": "#001c38", "outline-variant": "#c3c6d0",
+                    "secondary-container": "#c1d9ff", "outline": "#737780",
+                    "surface-container-highest": "#c1e8ff", "primary-fixed-dim": "#a4c9fc",
+                    "on-secondary-fixed": "#001c39", "secondary-fixed-dim": "#b0c8ed",
+                    "primary-fixed": "#d3e4ff", "background": "#f4faff",
+                    "tertiary-fixed": "#c1e8ff", "surface-container-lowest": "#ffffff",
+                    "on-tertiary-container": "#d1edff", "on-primary-container": "#dfeaff",
+                    "on-secondary": "#ffffff", "tertiary": "#005774",
+                    "on-secondary-fixed-variant": "#304867", "secondary-fixed": "#d3e3ff",
+                    "on-tertiary-fixed": "#001e2b", "on-tertiary": "#ffffff",
+                    "on-primary-fixed-variant": "#204874", "inverse-on-surface": "#e2f3ff",
+                    "surface-variant": "#c1e8ff", "surface-dim": "#b8e0f7",
+                    "on-background": "#001e2b", "inverse-surface": "#053547",
+                    "surface": "#f4faff", "tertiary-fixed-dim": "#74d1ff",
+                    "tertiary-container": "#007196", "surface-bright": "#f4faff",
+                    "error-container": "#ffdad6", "surface-container": "#dbf1ff",
+                    "on-surface-variant": "#43474f", "surface-container-low": "#e8f6ff",
+                    "on-primary": "#ffffff", "surface-container-high": "#ceedff",
+                    "on-tertiary-fixed-variant": "#004d67", "teal-accent": "#178AB4",
+                    "panel-header": "#D9DCD9"
+                },
+                "borderRadius": {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "pill": "7px", "button": "7px", "input": "0px", "full": "9999px"},
+                "spacing": {"container-max": "1200px", "unit": "4px", "gutter": "24px", "margin-mobile": "16px", "margin-desktop": "64px"},
+                "fontFamily": {
+                    "display-lg": ["Archivo Narrow"], "label-md": ["Cairo"], "body-lg": ["Archivo Narrow"],
+                    "headline-md": ["Archivo Narrow"], "body-md": ["Archivo Narrow"], "arabic-body": ["Cairo"],
+                    "mono": ["ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", "monospace"]
+                }
+            }
+        }
+    }
+</script>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 <style>
   :root {
-    --bg: #0d1117;
-    --surface: #161b22;
-    --surface-2: #1c2333;
-    --border: #30363d;
-    --text: #e6edf3;
-    --text-muted: #8b949e;
-    --accent: #58a6ff;
-    --accent-hover: #79c0ff;
+    --bg: #f4faff;
+    --surface: #ffffff;
+    --surface-2: #e8f6ff;
+    --border: #c3c6d0;
+    --text: #001e2b;
+    --text-muted: #43474f;
+    --accent: #2c537f;
+    --accent-hover: #466b99;
     --radius: 8px;
-    --green: #3fb950;
-    --orange: #d29922;
-    --red: #f85149;
+    --green: #1b7f3a;
+    --orange: #b25e00;
+    --red: #ba1a1a;
     --font-mono: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
   }
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    min-height: 100vh;
-  }
-  .app-header {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 14px 24px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  .app-header h1 { font-size: 18px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
-  .app-header h1 .logo { width: 24px; height: 24px; background: var(--accent); border-radius: 6px; display: inline-flex; align-items: center; justify-content: center; color: #fff; font-size: 14px; }
-  .app-header span { color: var(--text-muted); font-size: 13px; }
-  .container { max-width: 1400px; margin: 0 auto; padding: 20px 24px; }
 
-  /* Upload zone */
+  .terminal-scroll::-webkit-scrollbar { width: 8px; }
+  .terminal-scroll::-webkit-scrollbar-track { background: #001e2b; }
+  .terminal-scroll::-webkit-scrollbar-thumb { background: #486080; border-radius: 4px; }
+  .chat-scrollbar::-webkit-scrollbar { width: 6px; }
+  .chat-scrollbar::-webkit-scrollbar-track { background: transparent; }
+  .chat-scrollbar::-webkit-scrollbar-thumb { background: #c3c6d0; border-radius: 10px; }
+
+  .brutal-border { border: 2px solid #2c537f; }
+
+  /* ── Upload zone ─────────────────────────────────────────── */
   .upload-zone {
-    background: var(--surface);
-    border: 2px dashed var(--border);
+    background: #ffffff;
+    border: 2px dashed #2c537f;
     border-radius: var(--radius);
     padding: 56px 24px;
     text-align: center;
     cursor: pointer;
     transition: border-color .2s, background .2s, padding .3s;
     position: relative;
-    max-width: 640px;
-    margin: 40px auto;
   }
-  .upload-zone:hover, .upload-zone.dragover {
-    border-color: var(--accent);
-    background: #0d1a2b;
-  }
+  .upload-zone:hover, .upload-zone.dragover { border-color: #178AB4; background: #e8f6ff; }
   .upload-zone.hidden { display: none; }
-  .upload-zone input[type="file"] {
-    position: absolute; inset: 0; opacity: 0; cursor: pointer;
-  }
-  .upload-zone .upload-icon { font-size: 48px; margin-bottom: 12px; color: var(--text-muted); }
-  .upload-zone h2 { font-size: 18px; font-weight: 500; margin-bottom: 6px; }
+  .upload-zone input[type="file"] { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+  .upload-zone h2 { font-size: 18px; font-weight: 600; color: #2c537f; margin-bottom: 6px; }
   .upload-zone p { color: var(--text-muted); font-size: 14px; }
 
-  /* Pipeline view */
+  /* ── Pipeline views ──────────────────────────────────────── */
   .pipeline-view { display: none; }
   .pipeline-view.active { display: block; }
-
-  /* Step indicators */
-  .step-bar {
-    display: flex; gap: 4px; margin-bottom: 16px; background: var(--surface);
-    border-radius: var(--radius); padding: 4px; border: 1px solid var(--border);
-  }
-  .step {
-    flex: 1; padding: 10px 12px; text-align: center; font-size: 13px; font-weight: 500;
-    border-radius: 6px; transition: .2s; color: var(--text-muted);
-    display: flex; align-items: center; justify-content: center; gap: 6px;
-  }
-  .step .step-num {
-    width: 20px; height: 20px; border-radius: 50%; background: var(--border);
-    color: var(--text-muted); font-size: 11px; font-weight: 700;
-    display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0;
-  }
-  .step.active { background: #0d2a4a; color: var(--accent); }
-  .step.active .step-num { background: var(--accent); color: #fff; }
-  .step.done { background: #0a2618; color: var(--green); }
-  .step.done .step-num { background: var(--green); color: #fff; }
-  .step-time { font-size: 11px; margin-left: 4px; font-variant-numeric: tabular-nums; }
-  .step.active .step-time { color: var(--accent); }
-  .step.done .step-time { color: var(--green); }
-
-  /* Terminal log */
-  .terminal {
-    background: #0a0e14;
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    font-family: var(--font-mono);
-    font-size: 13px;
-    line-height: 1.5;
-    overflow: hidden;
-    margin-bottom: 16px;
-  }
-  .terminal-header {
-    background: var(--surface);
-    padding: 8px 14px;
-    border-bottom: 1px solid var(--border);
-    display: flex; align-items: center; justify-content: space-between;
-    font-size: 12px; color: var(--text-muted); font-family: inherit;
-  }
-  .terminal-body {
-    height: 420px; overflow-y: auto; padding: 12px 14px;
-    scroll-behavior: smooth;
-  }
-  .terminal-body .line {
-    white-space: pre-wrap; word-break: break-all; min-height: 1.25em;
-    color: #abb2bf;
-  }
-  .terminal-body .line.etape {
-    color: var(--accent); font-weight: 600;
-  }
-  .terminal-body .line.ok {
-    color: var(--green);
-  }
-  .terminal-body .line.warn {
-    color: var(--orange);
-  }
-  .terminal-body .line.err {
-    color: var(--red);
-  }
-  .terminal-body .line.sep {
-    color: var(--text-muted); opacity: 0.4;
-  }
-
-  /* Progress info bar */
-  .progress-info {
-    display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 16px;
-    justify-content: center;
-  }
-  .progress-stat {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: var(--radius); padding: 10px 16px; text-align: center;
-    min-width: 100px;
-  }
-  .progress-stat .ps-value { font-size: 20px; font-weight: 700; color: var(--accent); }
-  .progress-stat .ps-label { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
-
-  /* Results */
   .results { display: none; }
   .results.active { display: block; }
-  .results-header {
-    display: flex; align-items: center; justify-content: space-between;
-    margin-bottom: 20px;
-  }
-  .results-header h2 { font-size: 20px; font-weight: 600; }
-  .btn-outline {
-    background: transparent; border: 1px solid var(--border); color: var(--text-muted);
-    padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px;
-    transition: .15s;
-  }
-  .btn-outline:hover { border-color: var(--accent); color: var(--accent); }
 
-  /* Stats bar */
-  .stats-bar {
-    display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px;
+  /* ── Stepper ─────────────────────────────────────────────── */
+  .step { transition: opacity .2s; }
+  .step .step-num {
+    width: 32px; height: 32px; border-radius: 9999px;
+    background: #ffffff; color: #737780;
+    border: 2px solid #c3c6d0;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 14px;
+    transition: all .3s;
   }
-  .stat-card {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: var(--radius); padding: 14px 18px; flex: 1; min-width: 120px;
+  .step .step-label { font-size: 13px; color: #737780; font-weight: 400; transition: all .3s; }
+  .step .step-time { font-size: 10px; color: #737780; font-variant-numeric: tabular-nums; }
+  .step.active .step-num { background: #ffffff; color: #005774; border-color: #005774; box-shadow: 0 0 0 4px rgba(0,87,116,.15); }
+  .step.active .step-label { color: #005774; font-weight: 700; }
+  .step.active .step-time { color: #005774; }
+  .step.done .step-num { background: #2c537f; border-color: #2c537f; color: #ffffff; }
+  .step.done .step-label { color: #2c537f; font-weight: 600; }
+  .step.done .step-time { color: #1b7f3a; }
+
+  /* ── Terminal console ────────────────────────────────────── */
+  .terminal-body .line {
+    white-space: pre-wrap; word-break: break-all; min-height: 1.25em;
+    color: #c1c6d0;
   }
+  .terminal-body .line .t-time { color: #737780; }
+  .terminal-body .line .t-level { font-weight: 600; }
+  .terminal-body .line.etape { color: #a4c9fc; }
+  .terminal-body .line.etape .t-level { color: #a4c9fc; }
+  .terminal-body .line.ok { color: #4ade80; }
+  .terminal-body .line.ok .t-level { color: #4ade80; }
+  .terminal-body .line.warn { color: #fbbf24; }
+  .terminal-body .line.warn .t-level { color: #fbbf24; }
+  .terminal-body .line.err { color: #f87171; }
+  .terminal-body .line.err .t-level { color: #f87171; }
+  .terminal-body .line.sep { color: #486080; opacity: 0.5; }
+
+  /* ── Progress stats ──────────────────────────────────────── */
+  .progress-info { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+  .progress-stat { background: #e8f6ff; border: 1px solid #c3c6d0; border-radius: 7px; padding: 6px 12px; text-align: center; min-width: 90px; }
+  .progress-stat .ps-value { font-size: 15px; font-weight: 700; color: #2c537f; }
+  .progress-stat .ps-label { font-size: 10px; color: var(--text-muted); margin-top: 2px; text-transform: uppercase; letter-spacing: .04em; }
+
+  /* ── Buttons ─────────────────────────────────────────────── */
+  .btn-outline {
+    background: transparent; border: 2px solid #2c537f; color: #2c537f;
+    padding: 6px 14px; border-radius: 7px; cursor: pointer; font-size: 13px;
+    font-weight: 600; transition: .15s;
+  }
+  .btn-outline:hover { background: #2c537f; color: #ffffff; }
+
+  /* ── Stats bar ───────────────────────────────────────────── */
+  .stats-bar { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px; }
+  .stat-card { background: #ffffff; border: 2px solid #2c537f; border-radius: 7px; padding: 14px 18px; flex: 1; min-width: 120px; }
   .stat-card .stat-value { font-size: 24px; font-weight: 700; }
   .stat-card .stat-label { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
 
-  /* Entity pills */
-  .entity-pills {
-    display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px;
-  }
-  .entity-pill {
-    display: inline-flex; align-items: center; gap: 5px;
-    padding: 4px 12px; border-radius: 999px; font-size: 12px; font-weight: 500;
-    color: #fff;
-  }
+  /* ── Entity pills ────────────────────────────────────────── */
+  .entity-pills { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; }
+  .entity-pill { display: inline-flex; align-items: center; gap: 5px; padding: 4px 12px; border-radius: 999px; font-size: 12px; font-weight: 600; color: #fff; }
 
-  /* Preamble */
-  .preamble-box {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: var(--radius); padding: 14px 18px; margin-bottom: 20px;
-  }
-  .preamble-box h3 {
-    font-size: 13px; font-weight: 600; margin-bottom: 8px; color: var(--text-muted);
-    text-transform: uppercase; letter-spacing: .05em;
-  }
-  .preamble-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #c9d1d9; }
+  /* ── Preamble ────────────────────────────────────────────── */
+  .preamble-box { background: #ffffff; border: 2px solid #2c537f; border-radius: 7px; padding: 14px 18px; margin-bottom: 20px; }
+  .preamble-box h3 { font-size: 13px; font-weight: 600; margin-bottom: 8px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .05em; }
+  .preamble-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #001e2b; }
 
-  /* Tabs */
-  .tabs {
-    display: flex; gap: 2px; background: var(--border); border-radius: var(--radius);
-    padding: 2px; margin-bottom: 16px;
-  }
-  .tab-btn {
-    flex: 1; padding: 8px 16px; border: none; background: transparent;
-    font-size: 13px; font-weight: 500; cursor: pointer; border-radius: 6px;
-    color: var(--text-muted); white-space: nowrap; transition: .15s;
-  }
+  /* ── Tabs ────────────────────────────────────────────────── */
+  .tabs { display: flex; gap: 2px; background: #d9dcd9; border: 2px solid #2c537f; border-radius: 7px; padding: 3px; margin-bottom: 16px; }
+  .tab-btn { flex: 1; padding: 8px 16px; border: none; background: transparent; font-size: 13px; font-weight: 600; cursor: pointer; border-radius: 6px; color: #2c537f; white-space: nowrap; transition: .15s; }
   .tab-btn:hover { color: var(--text); }
-  .tab-btn.active { background: var(--surface); color: var(--text); }
+  .tab-btn.active { background: #2c537f; color: #ffffff; }
   .tab-content { display: none; }
   .tab-content.active { display: block; }
 
-  /* Instrument cards */
-  .instrument-card {
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: var(--radius); margin-bottom: 12px; overflow: hidden;
-  }
-  .instrument-header {
-    padding: 12px 16px; cursor: pointer; display: flex;
-    align-items: center; justify-content: space-between;
-  }
-  .instrument-header:hover { background: var(--surface-2); }
-  .instrument-header .type-badge {
-    display: inline-block; padding: 3px 10px; border-radius: 4px;
-    font-size: 11px; font-weight: 600; color: #fff; margin-right: 8px;
-  }
-  .instrument-header .ref { font-weight: 600; font-size: 14px; }
+  /* ── Instrument cards ────────────────────────────────────── */
+  .instrument-card { background: #ffffff; border: 2px solid #2c537f; border-radius: 7px; margin-bottom: 12px; overflow: hidden; }
+  .instrument-header { padding: 12px 16px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; background: #f4faff; }
+  .instrument-header:hover { background: #e8f6ff; }
+  .instrument-header .type-badge { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 11px; font-weight: 700; color: #fff; margin-right: 8px; }
+  .instrument-header .ref { font-weight: 700; font-size: 14px; }
   .instrument-header .meta { color: var(--text-muted); font-size: 12px; }
   .instrument-body { padding: 0 16px 16px; display: none; }
   .instrument-body.open { display: block; }
 
-  /* Article */
-  .article-item {
-    padding: 10px 0; border-bottom: 1px solid var(--border);
-  }
+  /* ── Article ─────────────────────────────────────────────── */
+  .article-item { padding: 10px 0; border-bottom: 1px solid #c3c6d0; }
   .article-item:last-child { border-bottom: none; }
-  .article-number {
-    font-weight: 600; font-size: 12px; color: var(--accent); margin-bottom: 3px;
-  }
-  .article-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #c9d1d9; }
-  .article-text em {
-    font-style: normal; padding: 1px 4px; border-radius: 3px; color: #fff;
-  }
+  .article-number { font-weight: 700; font-size: 12px; color: #2c537f; margin-bottom: 3px; }
+  .article-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #001e2b; }
+  .article-text em { font-style: normal; padding: 1px 4px; border-radius: 3px; color: #fff; }
   .article-meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
 
-  /* Table */
+  /* ── Table ───────────────────────────────────────────────── */
   .table-wrap { overflow-x: auto; margin-top: 10px; }
-  .table-wrap table {
-    width: 100%; border-collapse: collapse; font-size: 12px;
-  }
-  .table-wrap th, .table-wrap td {
-    border: 1px solid var(--border); padding: 5px 8px; text-align: left;
-    white-space: nowrap; min-width: 70px;
-  }
-  .table-wrap th {
-    background: var(--surface-2); font-weight: 600; position: sticky; top: 0;
-  }
+  .table-wrap table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  .table-wrap th, .table-wrap td { border: 1px solid #c3c6d0; padding: 5px 8px; text-align: left; white-space: nowrap; min-width: 70px; }
+  .table-wrap th { background: #e8f6ff; font-weight: 700; position: sticky; top: 0; }
 
-  /* Error */
-  .error-box {
-    background: #2d1215; border: 1px solid var(--red);
-    border-radius: var(--radius); padding: 14px 18px; color: var(--red);
-    margin-bottom: 16px; display: none; font-size: 14px;
-  }
+  /* ── Error ───────────────────────────────────────────────── */
+  .error-box { background: #ffdad6; border: 2px solid #ba1a1a; border-radius: 7px; padding: 14px 18px; color: #93000a; font-weight: 600; margin-bottom: 16px; display: none; font-size: 14px; }
 
-  /* ── Chat ─────────────────────────────────────── */
+  /* ── Chat flottant ───────────────────────────────────────── */
   .chat-toggle {
     position: fixed; bottom: 24px; right: 24px; z-index: 1000;
-    width: 56px; height: 56px; border-radius: 50%;
-    background: var(--accent); color: #fff; border: none;
-    font-size: 24px; cursor: pointer; box-shadow: 0 4px 16px rgba(0,0,0,.4);
+    width: 56px; height: 56px; border-radius: 9999px;
+    background: #2c537f; color: #fff; border: 2px solid #2c537f;
+    font-size: 24px; cursor: pointer; box-shadow: 0 4px 16px rgba(0,0,0,.25);
     transition: transform .2s, background .2s;
     display: flex; align-items: center; justify-content: center;
   }
-  .chat-toggle:hover { transform: scale(1.08); background: var(--accent-hover); }
-  .chat-toggle.active { background: var(--red); transform: rotate(45deg); }
+  .chat-toggle:hover { transform: scale(1.08); background: #466b99; }
+  .chat-toggle.active { background: #ba1a1a; border-color: #ba1a1a; transform: rotate(45deg); }
   .chat-panel {
     position: fixed; bottom: 92px; right: 24px; z-index: 999;
-    width: 400px; max-height: 560px; background: var(--surface);
-    border: 1px solid var(--border); border-radius: var(--radius);
-    box-shadow: 0 8px 32px rgba(0,0,0,.5);
+    width: 400px; max-height: 560px; background: #ffffff;
+    border: 2px solid #2c537f; border-radius: 7px;
+    box-shadow: 0 8px 32px rgba(0,0,0,.25);
     display: none; flex-direction: column; overflow: hidden;
     font-size: 13px;
   }
   .chat-panel.open { display: flex; }
-  .chat-header {
-    padding: 12px 14px; border-bottom: 1px solid var(--border);
-    font-weight: 600; font-size: 14px;
-    display: flex; align-items: center; justify-content: space-between;
-  }
-  .chat-header .chat-status { font-size: 11px; font-weight: 400; color: var(--text-muted); }
-  .chat-messages {
-    flex: 1; overflow-y: auto; padding: 10px 12px;
-    max-height: 380px; min-height: 120px;
-    display: flex; flex-direction: column; gap: 8px;
-  }
-  .chat-msg {
-    max-width: 85%; padding: 8px 12px; border-radius: 8px;
-    line-height: 1.5; white-space: pre-wrap; word-break: break-word;
-  }
-  .chat-msg.user { background: #0d2a4a; color: var(--text); align-self: flex-end; }
-  .chat-msg.bot { background: var(--surface-2); color: var(--text); align-self: flex-start; }
-  .chat-msg.bot strong { color: var(--accent); }
-  .chat-input-area {
-    display: flex; border-top: 1px solid var(--border); padding: 8px;
-    gap: 6px;
-  }
-  .chat-input-area input {
-    flex: 1; background: var(--bg); border: 1px solid var(--border);
-    border-radius: 6px; padding: 8px 10px; color: var(--text); font-size: 13px;
-    outline: none;
-  }
-  .chat-input-area input:focus { border-color: var(--accent); }
-  .chat-input-area button {
-    background: var(--accent); color: #fff; border: none;
-    border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 13px;
-    font-weight: 500;
-  }
-  .chat-input-area button:hover { background: var(--accent-hover); }
+  .chat-header { padding: 12px 14px; background: #d9dcd9; border-bottom: 2px solid #2c537f; font-weight: 700; font-size: 14px; color: #001e2b; display: flex; align-items: center; justify-content: space-between; }
+  .chat-header .chat-status { font-size: 11px; font-weight: 400; color: #43474f; }
+  .chat-messages { flex: 1; overflow-y: auto; padding: 10px 12px; max-height: 380px; min-height: 120px; display: flex; flex-direction: column; gap: 8px; }
+  .chat-msg { max-width: 85%; padding: 8px 12px; border-radius: 7px; line-height: 1.5; white-space: pre-wrap; word-break: break-word; }
+  .chat-msg.user { background: #2c537f; color: #ffffff; align-self: flex-end; }
+  .chat-msg.bot { background: #e8f6ff; color: #001e2b; align-self: flex-start; }
+  .chat-msg.bot strong { color: #2c537f; }
+  .chat-input-area { display: flex; border-top: 2px solid #2c537f; padding: 8px; gap: 6px; }
+  .chat-input-area input { flex: 1; background: #f4faff; border: 1px solid #c3c6d0; border-radius: 6px; padding: 8px 10px; color: #001e2b; font-size: 13px; outline: none; }
+  .chat-input-area input:focus { border-color: #2c537f; }
+  .chat-input-area button { background: #2c537f; color: #fff; border: none; border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 13px; font-weight: 600; }
+  .chat-input-area button:hover { background: #466b99; }
   .chat-input-area button:disabled { opacity: .5; cursor: default; }
-  .chat-welcome {
-    color: var(--text-muted); text-align: center; padding: 20px 10px;
-    font-size: 12px; line-height: 1.6;
-  }
+  .chat-welcome { color: #43474f; text-align: center; padding: 20px 10px; font-size: 12px; line-height: 1.6; }
 
   @media (max-width: 768px) {
-    .container { padding: 12px; }
-    .app-header { padding: 10px 14px; flex-direction: column; gap: 4px; }
     .stat-card { min-width: 80px; }
-    .terminal-body { height: 300px; }
-    .step-bar { flex-wrap: wrap; }
-    .step { font-size: 11px; padding: 6px 8px; }
+    .step .step-label { font-size: 11px; }
     .chat-panel { width: calc(100% - 32px); right: 16px; bottom: 80px; max-height: 480px; }
     .chat-toggle { bottom: 16px; right: 16px; width: 48px; height: 48px; font-size: 20px; }
   }
 </style>
 </head>
-<body>
-<div class="app-header">
-  <h1><span class="logo">&#x2696;</span> Analyseur BO</h1>
-  <span>NLP juridique marocain &middot; Temps r&eacute;el &middot; <a href="/" style="color:var(--accent)">Chat RAG</a></span>
-</div>
-<div class="container">
+<body class="bg-background text-on-background font-body-md min-h-screen flex flex-col md:flex-row overflow-hidden administrative-pattern">
 
-  <!-- Upload -->
-  <div class="upload-zone" id="uploadZone">
-    <input type="file" accept=".pdf" id="fileInput">
-    <div class="upload-icon">&#x1F4C1;</div>
-    <h2>D&eacute;posez un Bulletin Officiel (PDF)</h2>
-    <p>ou cliquez pour parcourir &mdash; pipeline complet visible en direct</p>
-  </div>
-
-  <!-- Pipeline View (live) -->
-  <div class="pipeline-view" id="pipelineView">
-
-    <div class="step-bar" id="stepBar">
-      <div class="step" data-step="1"><span class="step-num">1</span> Ingestion &amp; OCR <span class="step-time" id="time1"></span></div>
-      <div class="step" data-step="2"><span class="step-num">2</span> Nettoyage <span class="step-time" id="time2"></span></div>
-      <div class="step" data-step="3"><span class="step-num">3</span> Extraction NLP <span class="step-time" id="time3"></span></div>
-      <div class="step" data-step="4"><span class="step-num">4</span> Enrichissement <span class="step-time" id="time4"></span></div>
-      <div class="step" data-step="5"><span class="step-num">5</span> Tables <span class="step-time" id="time5"></span></div>
+<!-- SideNavBar -->
+<nav class="hidden md:flex flex-col h-screen w-64 fixed left-0 top-0 border-r-2 border-primary bg-surface-container-low p-gutter z-20">
+  <div class="mb-8 flex items-center gap-4">
+    <div class="w-10 h-10 bg-primary-container rounded-lg flex items-center justify-center text-white">
+      <span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">gavel</span>
     </div>
-
-    <div style="display:flex;gap:8px;margin-bottom:12px;justify-content:space-between;align-items:center">
-      <div style="display:flex;gap:8px">
-        <button class="btn-outline" onclick="resetToUpload()" style="font-size:12px">&#x25C0; Nouvelle analyse</button>
-        <button class="btn-outline" id="btnBackToResults" onclick="showResultsView()" style="font-size:12px;display:none">&#x25B6; R&eacute;sultats</button>
-      </div>
-      <div class="progress-info" id="progressInfo" style="margin:0;flex:1"></div>
-    </div>
-
-    <div class="terminal" id="terminal">
-      <div class="terminal-header">
-        <span>Pipeline output</span>
-        <span id="lineCount">0 lines</span>
-      </div>
-      <div class="terminal-body" id="terminalBody"></div>
+    <div>
+      <h1 class="font-headline-md text-headline-md text-primary font-bold leading-tight">Portail Légal</h1>
+      <p class="font-label-md text-label-md text-on-surface-variant uppercase text-xs tracking-wider">Souveraineté Numérique</p>
     </div>
   </div>
+  <div class="flex flex-col gap-2 flex-grow">
+    <a class="flex items-center gap-3 px-4 py-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all font-body-md" href="/">
+      <span class="material-symbols-outlined">chat_bubble</span>
+      Chat
+    </a>
+    <a class="flex items-center gap-3 px-4 py-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all font-body-md quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
+      <span class="material-symbols-outlined">history</span>
+      Chat historique
+    </a>
+    <a class="flex items-center gap-3 px-4 py-3 bg-primary-container text-on-primary-container font-bold rounded-lg transition-all translate-x-1 font-body-md border border-primary" href="/analyzer">
+      <span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">gavel</span>
+      Analyses
+    </a>
+    <a class="flex items-center gap-3 px-4 py-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all font-body-md quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
+      <span class="material-symbols-outlined">settings</span>
+      Paramètres
+    </a>
+  </div>
+  <div class="mt-auto">
+    <button class="w-full py-3 bg-primary text-on-primary rounded-button font-label-md text-label-md uppercase hover:bg-primary-container transition-colors shadow-sm flex items-center justify-center gap-2" onclick="resetToUpload()">
+      <span class="material-symbols-outlined">add</span>
+      Nouvelle analyse
+    </button>
+  </div>
+</nav>
 
-  <!-- Error -->
-  <div class="error-box" id="errorBox"></div>
+<!-- Main Content Area -->
+<div class="flex-1 flex flex-col md:ml-64 h-screen relative z-10">
 
-  <!-- Results -->
-  <div class="results" id="results">
-    <div class="results-header">
-      <h2 id="resultTitle">R&eacute;sultats</h2>
-      <div style="display:flex;gap:8px;align-items:center">
-        <button class="btn-outline" onclick="showPipelineView()">&#x25B6; Voir le pipeline</button>
-        <button class="btn-outline" style="border-color:var(--accent);color:var(--accent)" onclick="resetToUpload()">&#x1F4C1; Nouvelle analyse</button>
-        <div style="position:relative">
-          <button class="btn-outline" id="exportBtn" onclick="toggleExportMenu()" style="border-color:var(--green);color:var(--green)">&#x2B07; Exporter</button>
-          <div id="exportMenu" style="display:none;position:absolute;right:0;top:100%;margin-top:4px;background:var(--surface);border:1px solid var(--border);border-radius:6px;overflow:hidden;z-index:100;min-width:140px;box-shadow:0 4px 16px rgba(0,0,0,.4)">
-            <div onclick="exportJSON()" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px" onmouseover="this.style.background='var(--surface-2)'" onmouseout="this.style.background='transparent'">&#x1F4CB; JSON</div>
-            <div onclick="exportMarkdown()" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px" onmouseover="this.style.background='var(--surface-2)'" onmouseout="this.style.background='transparent'">&#x1F4DD; Markdown</div>
-            <div onclick="exportPDF()" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px" onmouseover="this.style.background='var(--surface-2)'" onmouseout="this.style.background='transparent'">&#x1F4C4; PDF</div>
+  <!-- TopNavBar -->
+  <header class="flex justify-between items-center w-full px-margin-mobile md:px-margin-desktop py-4 bg-surface-container-lowest border-b-2 border-primary sticky top-0 z-30">
+    <span class="font-display-lg text-headline-md text-primary uppercase tracking-tight font-extrabold">ADLI MOROCCO</span>
+    <div class="flex items-center gap-4">
+      <div class="relative hidden sm:block">
+        <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-outline">search</span>
+        <input class="pl-10 pr-4 py-2 bg-surface-container border-2 border-primary rounded-input focus:outline-none focus:border-tertiary font-body-md text-on-surface w-64 placeholder-outline transition-colors" placeholder="Rechercher un texte..." type="text">
+      </div>
+      <button class="font-label-md text-label-md font-bold text-primary hover:text-tertiary transition-colors uppercase">ARABIC</button>
+      <button class="text-primary hover:text-tertiary transition-colors">
+        <span class="material-symbols-outlined">account_balance</span>
+      </button>
+      <button class="text-primary hover:text-tertiary transition-colors">
+        <span class="material-symbols-outlined">settings</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Canvas -->
+  <main class="flex-1 overflow-y-auto p-4 md:p-gutter flex justify-center">
+    <div class="w-full max-w-container-max flex flex-col gap-6">
+
+        <!-- Header Actions -->
+        <div class="flex flex-wrap justify-between items-center gap-4 bg-surface-container-lowest p-4 border border-primary">
+          <div class="flex items-center gap-3">
+            <span class="material-symbols-outlined text-primary text-3xl">analytics</span>
+            <div>
+              <h2 class="font-headline-md text-headline-md text-primary font-bold">Analyseur BO</h2>
+              <p class="font-body-md text-sm text-on-surface-variant">NLP juridique marocain &middot; Temps r&eacute;el</p>
+            </div>
+          </div>
+          <a href="/" class="flex items-center gap-2 px-4 py-2 bg-surface-container-high text-primary border border-primary rounded-button font-label-md hover:bg-surface-variant transition-colors uppercase text-sm">
+            <span class="material-symbols-outlined text-sm">arrow_back</span>
+            Retour aux analyses
+          </a>
+        </div>
+
+        <!-- Analyses précédentes -->
+        <div class="bg-surface-container-lowest border border-primary p-4">
+          <div class="flex items-center justify-between mb-4">
+            <h3 class="font-label-md text-label-md text-primary uppercase border-b border-outline-variant pb-2 flex items-center gap-2">
+              <span class="material-symbols-outlined text-sm">history</span>
+              Analyses pr&eacute;c&eacute;dentes
+            </h3>
+            <button class="btn-outline" onclick="loadHistory()" title="Actualiser la liste">&#x21BB; Actualiser</button>
+          </div>
+          <div id="historyList">
+            <p class="text-sm text-on-surface-variant">Chargement des analyses...</p>
           </div>
         </div>
-      </div>
-    </div>
-    <div class="stats-bar" id="statsBar"></div>
-    <div class="entity-pills" id="entityPills"></div>
-    <div class="preamble-box" id="preambleBox"></div>
-    <div class="tabs">
-      <button class="tab-btn active" data-tab="instruments">Instruments</button>
-      <button class="tab-btn" data-tab="articles">Articles</button>
-      <button class="tab-btn" data-tab="tables">Tableaux</button>
-    </div>
-    <div class="tab-content active" id="tab-instruments"></div>
-    <div class="tab-content" id="tab-articles"></div>
-    <div class="tab-content" id="tab-tables"></div>
-  </div>
 
+      <!-- Upload -->
+      <div class="upload-zone" id="uploadZone">
+        <input type="file" accept=".pdf" id="fileInput">
+        <span class="material-symbols-outlined text-primary" style="font-size:56px;display:inline-block;margin-bottom:12px">description</span>
+        <h2>D&eacute;posez un Bulletin Officiel (PDF)</h2>
+        <p>ou cliquez pour parcourir &mdash; pipeline complet visible en direct</p>
+      </div>
+
+      <!-- Pipeline View (live) -->
+      <div class="pipeline-view" id="pipelineView">
+
+        <!-- Stepper -->
+        <div class="bg-surface-container-lowest border border-primary p-6 mb-4">
+          <h3 class="font-label-md text-label-md text-primary uppercase mb-6 border-b border-outline-variant pb-2">État du traitement</h3>
+          <div class="flex items-start justify-between relative">
+            <div class="absolute left-0 top-4 w-full h-1 bg-surface-container-high z-0"></div>
+            <div class="absolute left-0 top-4 h-1 bg-primary z-0 transition-all duration-700" id="progressLine" style="width:0%"></div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="1">
+              <div class="step-num" data-num="1">1</div>
+              <span class="step-label">Ingestion &amp; OCR</span>
+              <span class="step-time" id="time1"></span>
+            </div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="2">
+              <div class="step-num" data-num="2">2</div>
+              <span class="step-label">Nettoyage</span>
+              <span class="step-time" id="time2"></span>
+            </div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="3">
+              <div class="step-num" data-num="3">3</div>
+              <span class="step-label">Extraction NLP</span>
+              <span class="step-time" id="time3"></span>
+            </div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="4">
+              <div class="step-num" data-num="4">4</div>
+              <span class="step-label">Enrichissement</span>
+              <span class="step-time" id="time4"></span>
+            </div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="5">
+              <div class="step-num" data-num="5">5</div>
+              <span class="step-label">Tables</span>
+              <span class="step-time" id="time5"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Actions + Progress -->
+        <div class="flex flex-wrap gap-2 items-center justify-between mb-4">
+          <div class="flex gap-2">
+            <button class="btn-outline" onclick="resetToUpload()">&#x25C0; Nouvelle analyse</button>
+            <button class="btn-outline" id="btnBackToResults" onclick="showResultsView()" style="display:none">&#x25B6; R&eacute;sultats</button>
+            <button class="btn-outline" id="cancelBtn" onclick="cancelTask()" style="display:none;border-color:#ba1a1a;color:#ba1a1a" title="Interrompre l'analyse en cours">
+              <span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px">stop_circle</span>
+              Interrompre
+            </button>
+          </div>
+          <div class="progress-info" id="progressInfo"></div>
+        </div>
+
+        <!-- Terminal Console -->
+        <div class="bg-on-background border border-primary flex flex-col shadow-lg">
+          <div class="bg-[#d9dcd9] px-4 py-2 flex justify-between items-center border-b border-primary">
+            <div class="flex items-center gap-2">
+              <span class="material-symbols-outlined text-on-surface-variant text-sm">terminal</span>
+              <span class="font-body-md text-sm font-semibold text-on-surface">Pipeline output</span>
+            </div>
+            <span class="font-mono text-xs text-on-surface-variant" id="lineCount">0 lines</span>
+          </div>
+          <div class="terminal-body terminal-scroll p-4 font-mono text-xs md:text-sm leading-relaxed h-96 overflow-y-auto bg-[#0a1118]" id="terminalBody"></div>
+        </div>
+      </div>
+
+      <!-- Error -->
+      <div class="error-box" id="errorBox"></div>
+
+      <!-- Results -->
+      <div class="results" id="results">
+        <div class="flex flex-wrap items-center justify-between gap-3 mb-5">
+          <h2 class="font-headline-md text-headline-md text-primary font-bold" id="resultTitle">R&eacute;sultats</h2>
+          <div class="flex gap-2 items-center flex-wrap">
+            <button class="btn-outline" onclick="showPipelineView()">&#x25B6; Voir le pipeline</button>
+            <button class="btn-outline" onclick="resetToUpload()">&#x1F4C1; Nouvelle analyse</button>
+            <div class="relative">
+              <button class="btn-outline" id="exportBtn" onclick="toggleExportMenu()">&#x2B07; Exporter</button>
+              <div id="exportMenu" style="display:none;position:absolute;right:0;top:100%;margin-top:4px;background:#ffffff;border:2px solid #2c537f;border-radius:7px;overflow:hidden;z-index:100;min-width:140px;box-shadow:0 4px 16px rgba(0,0,0,.2)">
+                <div onclick="exportJSON()" class="export-item" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px">&#x1F4CB; JSON</div>
+                <div onclick="exportMarkdown()" class="export-item" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px">&#x1F4DD; Markdown</div>
+                <div onclick="exportPDF()" class="export-item" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px">&#x1F4C4; PDF</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="stats-bar" id="statsBar"></div>
+        <div class="entity-pills" id="entityPills"></div>
+        <div class="preamble-box" id="preambleBox"></div>
+        <div class="tabs">
+          <button class="tab-btn active" data-tab="instruments">Instruments</button>
+          <button class="tab-btn" data-tab="articles">Articles</button>
+          <button class="tab-btn" data-tab="tables">Tableaux</button>
+        </div>
+        <div class="tab-content active" id="tab-instruments"></div>
+        <div class="tab-content" id="tab-articles"></div>
+        <div class="tab-content" id="tab-tables"></div>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="bg-surface-container-highest border-t border-outline-variant px-4 py-3 text-center">
+    <p class="font-label-md text-label-md text-on-surface-variant">© 2026 Royaume du Maroc - Secrétariat Général du Gouvernement</p>
+  </footer>
 </div>
 
 <!-- Chat toggle button -->
@@ -421,7 +456,7 @@
     <span>🤖 Assistant BO</span>
     <span class="chat-status" id="chatStatus">Aucun document</span>
   </div>
-  <div class="chat-messages" id="chatMessages">
+  <div class="chat-messages chat-scrollbar" id="chatMessages">
     <div class="chat-welcome" id="chatWelcome">
       Analysez un BO pour discuter de son contenu.<br>
       Questions possibles :<br>
@@ -484,7 +519,6 @@ function stopTimerInterval() {
 }
 
 function markStepActive(stepNum) {
-  // Mark current step start if not already set
   if (!stepTiming[stepNum].start) {
     stepTiming[stepNum].start = Date.now();
   }
@@ -495,6 +529,26 @@ function markStepDone(stepNum) {
   if (t.start && !t.done) {
     t.elapsed = Date.now() - t.start;
     t.done = true;
+  }
+}
+
+function updateProgressLine(activeStep) {
+  const line = document.getElementById('progressLine');
+  if (!line) return;
+  // activeStep 1..5 → 0..100% (étape active = déjà parcourue à 25% de sa largeur)
+  const pct = Math.max(0, Math.min(100, ((activeStep - 1) / 4) * 100));
+  line.style.width = pct + '%';
+}
+
+function setStepDoneIcon(stepEl, done) {
+  const num = stepEl.querySelector('.step-num');
+  if (!num) return;
+  if (done) {
+    if (num.dataset.num !== undefined && num.textContent !== '✓') {
+      num.textContent = '✓';
+    }
+  } else {
+    if (num.dataset.num !== undefined) num.textContent = num.dataset.num;
   }
 }
 
@@ -562,6 +616,9 @@ uploadZone.addEventListener('drop', (e) => {
   }
 });
 
+// Charger l'historique au démarrage
+loadHistory();
+
 // ── Upload & stream ──────────────────────────────────────────────────
 
 async function uploadFile(file) {
@@ -574,13 +631,22 @@ async function uploadFile(file) {
   const pv = document.getElementById('pipelineView');
   pv.classList.add('active');
 
+  // Afficher le bouton d'interruption
+  const cancelBtn = document.getElementById('cancelBtn');
+  cancelBtn.style.display = 'inline-block';
+  cancelBtn.disabled = false;
+
   // Reset terminal
   document.getElementById('terminalBody').innerHTML = '';
   document.getElementById('lineCount').textContent = '0 lines';
   document.getElementById('progressInfo').innerHTML = '';
 
   // Reset steps
-  document.querySelectorAll('.step').forEach(s => s.classList.remove('active', 'done'));
+  document.querySelectorAll('.step').forEach(s => {
+    s.classList.remove('active', 'done');
+    setStepDoneIcon(s, false);
+  });
+  updateProgressLine(0);
 
   // Init timers
   initStepTiming();
@@ -613,31 +679,26 @@ function connectSSE(tid) {
 
   eventSource = new EventSource(`/stream/${tid}`);
 
-  // Prevent auto-reconnection on network errors - we handle done/error explicitly
   eventSource.onerror = (e) => {
     eventSource.close();
-    // Don't show error here - the server sends explicit 'error' event
   };
 
   eventSource.onmessage = (e) => {
     const line = e.data;
     addLogLine(line);
 
-    // Update step indicators
     const stepNum = detectStep(line);
     if (stepNum) {
-      // Mark previous steps as done
       for (let i = 1; i < stepNum; i++) {
         const el = document.querySelector(`.step[data-step="${i}"]`);
-        if (el) { el.classList.remove('active'); el.classList.add('done'); }
+        if (el) { el.classList.remove('active'); el.classList.add('done'); setStepDoneIcon(el, true); }
         markStepDone(i);
       }
-      // Mark current as active
       const curr = document.querySelector(`.step[data-step="${stepNum}"]`);
       if (curr) { curr.classList.add('active'); }
       markStepActive(stepNum);
+      updateProgressLine(stepNum);
 
-      // Update progress info
       const stepNames = {
         1: 'Ingestion & OCR', 2: 'Nettoyage', 3: 'Extraction NLP',
         4: 'Enrichissement', 5: 'Tables'
@@ -647,21 +708,18 @@ function connectSSE(tid) {
       `;
     }
 
-    // Extract article count
     const artMatch = line.match(/(\d+)\s+articles?/);
     if (artMatch && !line.includes('→')) {
       document.getElementById('progressInfo').innerHTML += `
         <div class="progress-stat"><div class="ps-value">${artMatch[1]}</div><div class="ps-label">Articles</div></div>
       `;
     }
-    // Extract entity count
     const entMatch = line.match(/(\d+)\s+entit[ée]s?/);
     if (entMatch) {
       document.getElementById('progressInfo').innerHTML += `
         <div class="progress-stat"><div class="ps-value">${entMatch[1]}</div><div class="ps-label">Entités</div></div>
       `;
     }
-    // Extract instrument count
     const instrMatch = line.match(/(\d+)\s+instrument/);
     if (instrMatch) {
       document.getElementById('progressInfo').innerHTML += `
@@ -674,24 +732,26 @@ function connectSSE(tid) {
     eventSource.close();
     addLogLine('');
     addLogLine('  Pipeline terminé avec succès');
-    // Mark all steps done and freeze timers
     document.querySelectorAll('.step').forEach(s => {
       s.classList.remove('active');
       s.classList.add('done');
+      setStepDoneIcon(s, true);
     });
     for (let i = 1; i <= 5; i++) markStepDone(i);
     updateTimers();
     stopTimerInterval();
+    updateProgressLine(5);
     document.getElementById('progressInfo').innerHTML = `
       <div class="progress-stat"><div class="ps-value" style="color:var(--green)">&#x2713; Terminé</div><div class="ps-label">Pipeline complet</div></div>
     `;
-    // Fetch results (uses the captured tid, not the global taskId — a
-    // second upload could otherwise trigger fetchResult with the wrong id)
+    document.getElementById('cancelBtn').style.display = 'none';
+    loadHistory();
     fetchResult(tid);
   });
 
   eventSource.addEventListener('error', (e) => {
     eventSource.close();
+    document.getElementById('cancelBtn').style.display = 'none';
     if (e.data) showError(e.data);
     else showError('Erreur de connexion au pipeline');
   });
@@ -702,8 +762,20 @@ function connectSSE(tid) {
 function addLogLine(text) {
   const body = document.getElementById('terminalBody');
   const div = document.createElement('div');
-  div.className = 'line ' + lineClass(text);
-  div.textContent = text;
+  const cls = lineClass(text);
+  div.className = 'line ' + cls;
+  if (cls === 'sep') {
+    div.textContent = text;
+  } else if (text.trim() !== '') {
+    const now = new Date();
+    const hh = String(now.getHours()).padStart(2, '0');
+    const mm = String(now.getMinutes()).padStart(2, '0');
+    const ss = String(now.getSeconds()).padStart(2, '0');
+    const level = cls === 'etape' ? 'EXEC' : cls === 'ok' ? 'OK' : cls === 'warn' ? 'WARN' : cls === 'err' ? 'ERROR' : 'INFO';
+    const levelColor = { EXEC: '#a4c9fc', OK: '#4ade80', WARN: '#fbbf24', ERROR: '#f87171', INFO: '#74d1ff' }[level];
+    div.innerHTML = `<span class="t-time">[${hh}:${mm}:${ss}]</span> <span class="t-level" style="color:${levelColor}">${level}</span> : `;
+    div.appendChild(document.createTextNode(text));
+  }
   body.appendChild(div);
   body.scrollTop = body.scrollHeight;
   document.getElementById('lineCount').textContent = body.children.length + ' lines';
@@ -737,56 +809,125 @@ function showPipelineView() {
 }
 
 function resetToUpload() {
-  // Close SSE
   if (eventSource) { eventSource.close(); eventSource = null; }
   stopTimerInterval();
-  // Reset state
   taskId = null;
   cachedResult = null;
   chatDocId = null;
-  // Hide pipeline & results
   document.getElementById('pipelineView').classList.remove('active');
   document.getElementById('results').classList.remove('active');
   document.getElementById('errorBox').style.display = 'none';
-  // Show upload zone
   document.getElementById('uploadZone').classList.remove('hidden');
-  // Reset file input
   document.getElementById('fileInput').value = '';
-  // Reset chat
   document.getElementById('chatStatus').textContent = 'Aucun document';
   document.getElementById('chatInput').disabled = true;
   document.getElementById('chatSendBtn').disabled = true;
-  // Hide back-to-results button
   document.getElementById('btnBackToResults').style.display = 'none';
+  document.getElementById('progressLine').style.width = '0%';
+  document.getElementById('cancelBtn').style.display = 'none';
+}
+
+// ── Interruption de l'analyse ────────────────────────────────────────
+
+async function cancelTask() {
+  if (!taskId) return;
+  const btn = document.getElementById('cancelBtn');
+  btn.disabled = true;
+  addLogLine('  ⚠ Interruption demandée — arrêt du pipeline...');
+  try {
+    await fetch(`/cancel/${taskId}`, { method: 'POST' });
+  } catch (err) {
+    showError('Erreur lors de l\'interruption.');
+    btn.disabled = false;
+  }
+}
+
+// ── Historique des analyses ──────────────────────────────────────────
+
+async function loadHistory() {
+  const listEl = document.getElementById('historyList');
+  try {
+    const resp = await fetch('/analyses');
+    const data = await resp.json();
+    renderHistory(data.analyses || []);
+  } catch (err) {
+    listEl.innerHTML = '<p class="text-sm text-on-surface-variant">Impossible de charger l\'historique.</p>';
+  }
+}
+
+function renderHistory(analyses) {
+  const listEl = document.getElementById('historyList');
+  if (!analyses.length) {
+    listEl.innerHTML = '<p class="text-sm text-on-surface-variant">Aucune analyse enregistr&eacute;e pour le moment.</p>';
+    return;
+  }
+  listEl.innerHTML = analyses.map(a => `
+    <div class="flex flex-wrap items-center justify-between gap-3 border border-outline-variant bg-surface-container-low p-3 mb-2">
+      <div class="min-w-0">
+        <div class="font-bold text-primary text-sm truncate">
+          ${escapeHtml(a.bo_number ? 'BO n° ' + a.bo_number : 'Document')} ${a.date_publication ? '— ' + escapeHtml(a.date_publication) : ''}
+        </div>
+        <div class="text-xs text-on-surface-variant truncate">${escapeHtml(a.filename || '')} · ${a.n_instruments} instruments · ${a.n_articles} articles</div>
+      </div>
+      <div class="flex gap-2 flex-shrink-0">
+        <button class="btn-outline history-open" data-doc="${escapeHtml(a.doc_id)}">&#x1F441; Voir</button>
+        <button class="btn-outline history-chat" data-doc="${escapeHtml(a.doc_id)}">&#x1F4AC; Nouveau chat</button>
+      </div>
+    </div>
+  `).join('');
+  listEl.querySelectorAll('.history-open').forEach(btn => {
+    btn.addEventListener('click', () => openAnalysis(btn.dataset.doc, false));
+  });
+  listEl.querySelectorAll('.history-chat').forEach(btn => {
+    btn.addEventListener('click', () => openAnalysis(btn.dataset.doc, true));
+  });
+}
+
+// ── Ouvrir une analyse passée ────────────────────────────────────────
+
+async function openAnalysis(docId, startChat) {
+  document.getElementById('errorBox').style.display = 'none';
+  try {
+    const resp = await fetch(`/open-analysis/${encodeURIComponent(docId)}`);
+    const data = await resp.json();
+    if (data.error) { showError(data.error); return; }
+    cachedResult = data;
+    uploadZone.classList.add('hidden');
+    renderResults(data);
+    enableChat(data.doc_id);
+    if (startChat) {
+      const panel = document.getElementById('chatPanel');
+      const btn = document.getElementById('chatToggle');
+      if (!panel.classList.contains('open')) toggleChat();
+      else document.getElementById('chatInput').focus();
+    }
+  } catch (err) {
+    showError('Erreur lors de l\'ouverture de l\'analyse.');
+  }
 }
 
 // ── Render ───────────────────────────────────────────────────────────
 
 function renderResults(data) {
-  // Show results view
   document.getElementById('pipelineView').classList.remove('active');
   document.getElementById('results').classList.add('active');
-  // Show back-to-results button in pipeline view
   document.getElementById('btnBackToResults').style.display = 'inline-block';
 
   document.getElementById('resultTitle').textContent =
     `Résultats — BO ${data.bo_number || ''} ${data.date_publication || ''}`;
 
-  // Stats
   document.getElementById('statsBar').innerHTML = `
-    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.n_instruments}</div><div class="stat-label">Instruments</div></div>
-    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.n_articles}</div><div class="stat-label">Articles</div></div>
-    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${data.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
-    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${escapeHtml(data.bo_number || '—')}</div><div class="stat-label">BO</div></div>
-    <div class="stat-card"><div class="stat-value" style="color:var(--accent)">${escapeHtml(data.date_publication || '—')}</div><div class="stat-label">Date</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.n_instruments}</div><div class="stat-label">Instruments</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.n_articles}</div><div class="stat-label">Articles</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${escapeHtml(data.bo_number || '—')}</div><div class="stat-label">BO</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${escapeHtml(data.date_publication || '—')}</div><div class="stat-label">Date</div></div>
   `;
 
-  // Entity pills
   document.getElementById('entityPills').innerHTML = data.entity_counts.map(e =>
     `<span class="entity-pill" style="background:${e.color}">${escapeHtml(e.label)} ${e.count}</span>`
   ).join('');
 
-  // Preamble
   const preBox = document.getElementById('preambleBox');
   if (data.preamble_text) {
     preBox.innerHTML = `<h3>Préambule</h3><div class="preamble-text">${highlightText(data.preamble_text, data.preamble_entities)}</div>`;
@@ -795,12 +936,9 @@ function renderResults(data) {
     preBox.style.display = 'none';
   }
 
-  // Instruments tab
   const cmap = { LOI:'#e74c3c', DAHIR:'#8e44ad', DECRET:'#2980b9', ARRETE:'#16a085',
     DECISION:'#d35400', DELIBERATION:'#c0392b', AVIS:'#95a5a6', CIRCULAIRE:'#7f8c8d' };
-  // Note: data from the PDF is untrusted — every interpolated value is
-  // escaped, and toggling is wired via addEventListener (no inline onclick
-  // with a raw id).
+
   document.getElementById('tab-instruments').innerHTML = data.instruments.map(instr => {
     const bg = cmap[instr.instrument_type] || '#6b7280';
     return `
@@ -830,14 +968,13 @@ function renderResults(data) {
     });
   });
 
-  // Articles tab
   const allArticles = data.instruments.flatMap(instr => instr.articles.map(a => ({ ...a, instrType: instr.instrument_type, instrRef: instr.reference })));
   document.getElementById('tab-articles').innerHTML = allArticles.map(a => {
     const bg = cmap[a.instrType] || '#6b7280';
     return `
       <div class="article-item">
         <div class="article-number">
-          <span class="type-badge" style="display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:600;color:#fff;background:${bg};margin-right:5px;vertical-align:middle">${escapeHtml(a.instrType)}</span>
+          <span class="type-badge" style="display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:700;color:#fff;background:${bg};margin-right:5px;vertical-align:middle">${escapeHtml(a.instrType)}</span>
           Article ${escapeHtml(a.number)}
         </div>
         <div class="article-text">${highlightText(a.text, a.entities)}</div>
@@ -846,12 +983,11 @@ function renderResults(data) {
     `;
   }).join('');
 
-  // Tables tab
   const allTables = data.instruments.flatMap(instr =>
     instr.tables.map(t => ({ ...t, instrType: instr.instrument_type, instrRef: instr.reference }))
   );
   document.getElementById('tab-tables').innerHTML = allTables.length === 0
-    ? '<p style="color:var(--text-muted);padding:20px;">Aucun tableau extrait.</p>'
+    ? '<p style="color:#43474f;padding:20px;">Aucun tableau extrait.</p>'
     : allTables.map(t => `
       <div class="instrument-card">
         <div class="instrument-header">
@@ -869,7 +1005,6 @@ function renderResults(data) {
       </div>
     `).join('');
 
-  // Tabs logic
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -896,6 +1031,10 @@ document.addEventListener('click', (e) => {
   if (!e.target.closest('#exportBtn') && !e.target.closest('#exportMenu')) {
     document.getElementById('exportMenu').style.display = 'none';
   }
+});
+document.querySelectorAll('.export-item').forEach(item => {
+  item.addEventListener('mouseover', () => item.style.background = '#e8f6ff');
+  item.addEventListener('mouseout', () => item.style.background = '#ffffff');
 });
 
 function downloadFile(content, filename, mime) {
@@ -1036,7 +1175,6 @@ async function sendChat() {
   input.focus();
   btn.disabled = true;
 
-  // Add user message
   const msgs = document.getElementById('chatMessages');
   const welcome = document.getElementById('chatWelcome');
   welcome.style.display = 'none';
@@ -1046,7 +1184,6 @@ async function sendChat() {
   msgs.appendChild(userDiv);
   msgs.scrollTop = msgs.scrollHeight;
 
-  // Add placeholder bot
   const botDiv = document.createElement('div');
   botDiv.className = 'chat-msg bot';
   botDiv.textContent = '…';

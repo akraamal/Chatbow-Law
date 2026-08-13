@@ -70,7 +70,7 @@ _janitor_thread = threading.Thread(target=_janitor_loop, daemon=True)
 _janitor_thread.start()
 
 
-def _new_task() -> str:
+def _new_task(filename: str = "") -> str:
     tid = uuid.uuid4().hex[:12]
     with _tasks_lock:
         _tasks[tid] = {
@@ -78,6 +78,9 @@ def _new_task() -> str:
             "done": False,
             "error": None,
             "result_path": None,
+            "cancel": False,
+            "proc": None,
+            "filename": filename,
             "created_at": time.time(),
         }
     return tid
@@ -96,6 +99,30 @@ def _set_done(tid: str, result_path: Path | None = None, error: str | None = Non
             _tasks[tid]["error"] = error
             if result_path:
                 _tasks[tid]["result_path"] = str(result_path)
+
+
+def _task_cancelled(tid: str) -> bool:
+    with _tasks_lock:
+        return bool(_tasks.get(tid, {}).get("cancel"))
+
+
+def _cancel_task(tid: str) -> bool:
+    """Demande l'interruption d'une tâche en cours : pose le drapeau
+    `cancel` (lu par la boucle de lecture du sous-processus) et tue le
+    sous-processus pipeline si celui-ci est déjà lancé."""
+    with _tasks_lock:
+        task = _tasks.get(tid)
+        if not task or task.get("done"):
+            return False
+        task["cancel"] = True
+        proc = task.get("proc")
+    if proc and proc.poll() is None:
+        _append_log(tid, "  Interruption demandée — arrêt du pipeline...")
+        try:
+            proc.terminate()
+        except Exception:
+            pass
+    return True
 
 
 # ── Colour palette for entity labels ──────────────────────────────────
@@ -149,6 +176,11 @@ def _run_pipeline_task(tid: str, pdf_path: Path):
         _pipeline_slots.acquire()
 
     try:
+        # Interruption pendant l'attente d'un slot ?
+        if _task_cancelled(tid):
+            _append_log(tid, "  Analyse annulée avant démarrage.")
+            _set_done(tid, error="Analyse interrompue par l'utilisateur")
+            return
         _run_pipeline_subprocess(tid, pdf_path)
     finally:
         _pipeline_slots.release()
@@ -176,12 +208,22 @@ def _run_pipeline_subprocess(tid: str, pdf_path: Path):
         cwd=str(PROJECT_ROOT),
         env=child_env,
     )
+    with _tasks_lock:
+        if tid in _tasks:
+            _tasks[tid]["proc"] = proc
 
     # Read output line by line in real-time
     for raw_line in proc.stdout:
         line = raw_line.rstrip("\n\r")
         if line:
             _append_log(tid, line)
+        if _task_cancelled(tid):
+            _append_log(tid, "  ⚠ Analyse interrompue par l'utilisateur.")
+            try:
+                proc.terminate()
+            except Exception:
+                pass
+            break
 
     proc.wait()
 
@@ -191,6 +233,10 @@ def _run_pipeline_subprocess(tid: str, pdf_path: Path):
             pdf_path.unlink()
     except Exception:
         pass
+
+    if _task_cancelled(tid):
+        _set_done(tid, error="Analyse interrompue par l'utilisateur")
+        return
 
     if proc.returncode != 0:
         _set_done(tid, error=f"Pipeline échoué (code {proc.returncode})")
@@ -204,6 +250,7 @@ def _run_pipeline_subprocess(tid: str, pdf_path: Path):
         return
 
     _set_done(tid, result_path=candidates[0])
+    _record_analysis(tid, candidates[0])
 
 
 # ── Routes ────────────────────────────────────────────────────────────
@@ -230,13 +277,106 @@ def upload():
     tmp_pdf.parent.mkdir(parents=True, exist_ok=True)
     pdf_file.save(str(tmp_pdf))
 
-    tid = _new_task()
+    tid = _new_task(filename=pdf_file.filename)
     thread = threading.Thread(
         target=_run_pipeline_task, args=(tid, tmp_pdf), daemon=True
     )
     thread.start()
 
     return flask.jsonify({"task_id": tid})
+
+
+# ── Historique persistant des analyses ────────────────────────────────
+
+HISTORY_FILE = PROJECT_ROOT / "data" / "analyses_history.json"
+_history_lock = threading.Lock()
+_MAX_HISTORY = 50
+
+
+def _load_history() -> list[dict]:
+    """Charge le registre des analyses terminées (persisté sur disque)."""
+    try:
+        if HISTORY_FILE.exists():
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, list):
+                return data
+    except Exception:
+        pass
+    return []
+
+
+def _save_history(history: list[dict]):
+    try:
+        HISTORY_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+            json.dump(history, f, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+
+
+def _record_analysis(tid: str, result_path: Path):
+    """Ajoute une analyse terminée au registre persistant (dédupliquée par
+    doc_id — une réanalyse du même document remplace l'ancienne entrée)."""
+    try:
+        with open(result_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return
+
+    doc_id = data.get("doc_id", "")
+    entry = {
+        "doc_id": doc_id,
+        "task_id": tid,
+        "filename": data.get("source_file", "") or data.get("filename", ""),
+        "bo_number": data.get("bo_number", ""),
+        "date_publication": data.get("date_publication", ""),
+        "n_instruments": len(data.get("instruments", [])),
+        "n_articles": len(data.get("articles", [])),
+        "result_path": str(result_path),
+        "created_at": time.time(),
+    }
+
+    with _history_lock:
+        history = [h for h in _load_history() if h.get("doc_id") != doc_id]
+        history.insert(0, entry)
+        _save_history(history[:_MAX_HISTORY])
+
+
+@analyzer_bp.route("/cancel/<task_id>", methods=["POST"])
+def cancel(task_id: str):
+    """Interrompt une analyse en cours (pipeline en arrière-plan)."""
+    if not _cancel_task(task_id):
+        return {"ok": False, "error": "Tâche introuvable ou déjà terminée"}, 404
+    return {"ok": True}
+
+
+@analyzer_bp.route("/analyses")
+def analyses():
+    """Liste des analyses précédentes (documents déjà analysés)."""
+    history = _load_history()
+    # Seules les entrées dont le résultat existe encore sont listées.
+    visible = [h for h in history if h.get("result_path") and Path(h["result_path"]).exists()]
+    return flask.jsonify({"analyses": visible})
+
+
+@analyzer_bp.route("/open-analysis/<doc_id>")
+def open_analysis(doc_id: str):
+    """Recharge une analyse passée : le résultat complet (résultats + chat
+    documentaire) redevient disponible comme si l'analyse venait de finir."""
+    for entry in _load_history():
+        if entry.get("doc_id") != doc_id:
+            continue
+        result_path = entry.get("result_path")
+        if not result_path or not Path(result_path).exists():
+            return {"error": "Résultat de l'analyse introuvable"}, 404
+        with open(result_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        data["_created_at"] = time.time()
+        with _chat_lock:
+            _chat_contexts[doc_id] = data
+        return flask.jsonify(build_response(data))
+    return {"error": "Analyse introuvable dans l'historique"}, 404
 
 
 @analyzer_bp.route("/stream/<task_id>")
