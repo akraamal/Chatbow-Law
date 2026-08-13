@@ -6871,8 +6871,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_25_1",
-      "instrument_id": "instr_25"
+      "article_id": "art_93_1",
+      "instrument_id": "instr_93"
     },
     {
       "number": "2",
@@ -6918,8 +6918,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_25_2",
-      "instrument_id": "instr_25"
+      "article_id": "art_93_2",
+      "instrument_id": "instr_93"
     },
     {
       "number": "PREMIER",
@@ -6959,8 +6959,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_26_1",
-      "instrument_id": "instr_26"
+      "article_id": "art_94_1",
+      "instrument_id": "instr_94"
     },
     {
       "number": "2",
@@ -7006,8 +7006,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_26_2",
-      "instrument_id": "instr_26"
+      "article_id": "art_94_2",
+      "instrument_id": "instr_94"
     },
     {
       "number": "PREMIER",
@@ -7047,8 +7047,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_27_1",
-      "instrument_id": "instr_27"
+      "article_id": "art_95_1",
+      "instrument_id": "instr_95"
     },
     {
       "number": "2",
@@ -7094,8 +7094,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_27_2",
-      "instrument_id": "instr_27"
+      "article_id": "art_95_2",
+      "instrument_id": "instr_95"
     },
     {
       "number": "PREMIER",
@@ -7135,8 +7135,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_28_1",
-      "instrument_id": "instr_28"
+      "article_id": "art_96_1",
+      "instrument_id": "instr_96"
     },
     {
       "number": "2",
@@ -7188,8 +7188,8 @@
       "organizations": [],
       "pdf_page": null,
       "printed_page": null,
-      "article_id": "art_28_2",
-      "instrument_id": "instr_28"
+      "article_id": "art_96_2",
+      "instrument_id": "instr_96"
     }
   ],
   "total_pdf_pages": 28,
@@ -7206,7 +7206,39 @@
       "article_ids": [
         "art_1688_19_1",
         "art_1688_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1688-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de larecherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 2340-03 du 23 chaoual 1424 (18 décembre 2003) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en neurologie... Pages",
+      "date_hijri": "23 ramadan 1440",
+      "date_gregorian": "2019-05-29",
+      "decree_date_hijri": "23 ramadan 1440",
+      "decree_date_gregorian": "2019-05-29",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "SAAD DINE EL OTMANI",
+          "type": "issuer"
+        },
+        {
+          "role": "Le ministre de l'économie et des finances",
+          "name": "MOHAMED BENCHAABOUN",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "SAAD DINE EL OTMANI",
+        "MOHAMED BENCHAABOUN"
+      ],
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation\nprofessionnelle, de l'enseignement supérieur et de\nlarecherche scientifique, chargé de l'enseignement\nsupérieur et de la recherche scientifique\nn° 1688-19 du 23 ramadan 1440 (29 mai 2019)\ncomplétant l'arrêté n° 2340-03 du 23 chaoual 1424\n(18 décembre 2003) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité\nmédicale en neurologie...\nPages\n\nEst approuvée, telle qu'elle est\nannexée à l'original du présent décret, la convention de prêt\nconclue le 6 avril 2019 entre le gouvernement du Royaume\ndu Maroc et la Banque islamique de développement, portant\nsur un montant de quatre millions de dollars des Etats-Unis\nd'Amérique (4.000.000 $US), consenti par ladite Banque au\nRoyaume du Maroc, en vue de la participation au financement\ndu projet de développement rural inclusif dans la région de\nTanger Tétouan Al-Hoceima.\n\nLe ministre de l'économie et des finances est\nchargé de l'exécution du présent décret qui sera publié au\nBulletin officiel.\nFait à Rabat, le 20 kaada 1440 (23 juillet 2019).\nSAAD DINE EL OTMANI.\nPour contreseing :\nLe ministre de l'économie\net des finances,\nMOHAMED BENCHAABOUN.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6802 du 6 hija 1440 (8 août 2019).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.53,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECRET",
@@ -7218,7 +7250,39 @@
       "instrument_id": "instr_2_19_575",
       "article_ids": [
         "art_2_19_575_1"
-      ]
+      ],
+      "type": "DECRET",
+      "reference_label": "décret n° 2-19-575",
+      "title": "décret fixant le montant maximum du micro-crédit LE CHEF DU GOUVERNEMENT,",
+      "date_hijri": "5 hija 1440",
+      "date_gregorian": "2019-08-07",
+      "decree_date_hijri": "5 hija 1440",
+      "decree_date_gregorian": "2019-08-07",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": "Chef du Gouvernement",
+          "name": "SAAD DINE EL OTMANI",
+          "type": "issuer"
+        },
+        {
+          "role": "Le ministre de l'économie et des finances",
+          "name": "MOHAMED BENCHAABOUN",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "SAAD DINE EL OTMANI",
+        "MOHAMED BENCHAABOUN"
+      ],
+      "content": "décret n°2-19-575 du 5 hija 1440 (7 août 2019) fixant\nle montant maximum du micro-crédit\nLE CHEF DU GOUVERNEMENT,\nVu la loi n°18-97 relative au micro-crédit, promulguée\npar le dahir n°1-99-16 du 18 chaoual 1419 6 février 1999), telle\nque modifiée et complétée, notamment son article 2 ;\nAprès délibération en Conseil du gouvernement, réuni\nle 22 kaada 1440 (25 juillet 2019),\nir\n:INERAUX\nDÉCRÈTE :\n\nEn application des dispositions\nde l'article 2 de la loi susvisée n°18-97, les personnes\néconomiquement faibles bénéficient du montant de micro-\ncrédit ne dépassant pas :\n- cinquante mille dirhams (50.000 DH), pour créer ou\ndévelopper leur propre activité de production ou de\nservice en vue de leur insertion économique ;\n_ cent mille dirhams (100.000 DH), destiné à acquérir,\nconstruire ou améliorer leur logement et souscrire\ndes contrats d'assurances et se doter d'installations\nélectriques ou son alimentation en eau potable.\nLa personne économiquement faible bénéficie d'un\nmontant ne dépassant pas cent cinquante mille dirhams\n(150.000 DH), pour créer ou développer une activité de\nproduction ou de service en vue de son insertion économique,\nlorsqu'elle remplit l'une des conditions suivantes :\n« être inscrite au registre de commerce ;\n+ disposer du statut d'auto-entrepreneur ;\n* être assujettie à la taxe professionnelle ;\n* être inscrite au registre des coopératives sous forme\nde coopérative agricole ou être membre dans lune de\ncelles-ci.\nART. 2. — Est abrogé le décret n°2-99-1044 du 13 hija 1420\n(20 mars 2000) fixant le montant maximum de micro-crédit.\nART, 3. - Le présent décret est publié au Bulletin officiel.\nFait à Rabat, le 5 hija 1440 (7 août 2019).\nSAAD DINE EL OTMANI.\nPour contreseing :\nLe ministre de l'économie\net des finances,\nMOHAMED BENCHAABOUN.\nEE ———",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.656,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECRET",
@@ -7232,10 +7296,60 @@
       "article_ids": [
         "art_2_19_615_1",
         "art_2_19_615_2"
-      ]
+      ],
+      "type": "DECRET",
+      "reference_label": "décret n° 2-19-615",
+      "title": "décret modifiant et complétant le décret n°2-94-734 du 28 rejeb 1415 (31 décembre 1994) instituant une taxe parafiscale à l'importation pour le financement de la promotion économique et de l'inspection des exportations. LE CHEF DU GOUVERNEMENT,",
+      "date_hijri": "5 hija 1440",
+      "date_gregorian": "2019-08-07",
+      "decree_date_hijri": "5 hija 1440",
+      "decree_date_gregorian": "2019-08-07",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": "Chef du Gouvernement",
+          "name": "SAAD DINE EL OTMANI",
+          "type": "issuer"
+        },
+        {
+          "role": "Le ministre de l'économie et des finances",
+          "name": "MOHAMED BENCHAABOUN",
+          "type": "contreseing"
+        },
+        {
+          "role": "Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+          "name": "AZIZ AKHANNOUCH",
+          "type": "contreseing"
+        },
+        {
+          "role": "Le ministre de l'industrie, de l'investissement, du commerce et de l'économie numérique",
+          "name": "MLY HAFID ELALAMY",
+          "type": "contreseing"
+        },
+        {
+          "role": "Le ministre du tourisme, du transport aérien, de l'artisanat et de l'économie sociale",
+          "name": "MOHAMED SAJID",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "SAAD DINE EL OTMANI",
+        "MOHAMED BENCHAABOUN",
+        "AZIZ AKHANNOUCH",
+        "MLY HAFID ELALAMY",
+        "MOHAMED SAJID"
+      ],
+      "content": "décret n° 2-19-615 du 5 hija 1440 (7 août 2019) modifiant\net complétant le décret n°2-94-734 du 28 rejeb 1415\n(31 décembre 1994) instituant une taxe parafiscale\nà l'importation pour le financement de la promotion\néconomique et de l'inspection des exportations.\nLE CHEF DU GOUVERNEMENT,\nVu le décret n° 2-94-734 du 28 rejeb 1415 (31 décembre 1994)\ninstituant une taxe parafiscale à limportation pour le\nfinancement de la promotion économique et de linspection\ndes exportations, tel qu'il a été modifié et complété ;\nVu la loi n°60-16 portant création de l'Agence marocaine\nde développement des investissements et des exportations,\npromulguée par le dahir n° 1-17-49 du 8 hija 1438 (30 août 2017) ;\n1999 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nSur proposition du ministre de l'économie et des\nfinances, du ministre de l'agriculture, de la pêche maritime,\ndu développement rural et des eaux et forêts, du ministre de\nl'industrie, de l'investissement, du commerce et de l'économie\nnumérique et du ministre du tourisme, du transport aérien, de\nl'artisanat et de l'économie sociale ;\nAprès délibération en Conseil du gouvernement, réuni\nle 22 kaada 1440 (25 juiliet 2019),\nDÉCRÈTE :\nARTICLE PREMIER. -Les dispositions du troisième alinéa\nde l'article premier et l'article 2 du décret susvisé n°2-94-734\ndu 28 rejeb 1415 (31 décembre 1994) sont modifiées et\ncomplétées comme suit :\n« Article premier (3*\"° alinéa). -Toutefois, ne sont pas\n« soumises à cette taxe :\n«—les importations en douane ;\n«—les importations au 30 juin 1996;\n« — les importations de marchandises bénéficiant de\n«l'exonération totale du droit d'importation et de la taxe sur\n« la valeur ajoutée à l'importation, conformément à la\n« législation en vigueur. » l\n« Article 2. - Le produit de la taxe est versé mensuellement\n« dans le compte de chaque établissement public des\n« établissements publics cités ci-dessous à concurrence de :\n« — 45% à l'Agence marocaine de développement des\n« investissements et des exportations et 4 % au titre\n« de contribution de ladite agence au financement des\n«associations professionnelles légalement constituées\n«et la Fédération marocaine des chambres de commerce,\n« d'industrie et de services, au titre de leurs actions de\n« promotion économique ;\n« — 37% à l'établissement autonome de contrôle et de\n« coordination des exportations ;\n«— 8% à l'Agence nationale de promotion des petites et\n« moyennes entreprises ;\n«— 6%% à la maison de l'artisan.\n« Ces versements sont effectués dans la limite des\n« montants obtenus au cours de l'année 2018.\n« Le reliquat du produit de ladite taxe obtenu après\n« réalisation des versements précités est versé au profit de\n«l'Agence marocaine de développement des investissements et\n« des exportations aux fins d'être affecté conformément aux\n« décisions de son conseil d'administration. »\n\nLe reliquat du produit de la taxe parafiscale à\nl'importation est affecté pour le financement des opérations de\nla promotion économique et de l'inspection des exportations\nau titre des années antérieures à la date de publication du\nprésent décret au « Bulletin officiel » instituée au profit des\norganismes prévus à l'article 2 du décret susvisé n° 2-94-734\nconformément aux décisions du conseil d'administration.\n\nLe ministre de l'économie et des finances,\nle ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts, le ministre de\nl'industrie, de l'investissement, du commerce et de l'économie\nnumérique et le ministre du tourisme, du transport aérien, de\nl'artisanat et de l'économie sociale sont chargés chacun en ce\nqui le concerne de l'exécution du présent décret qui sera publié\nau Bulletin officiel.\nFait à Rabat, le 5 hija 1440 (7 août 2019).\nSAAD DINE EL OTMANI.\nPour contreseing :\nLe ministre de l'économie\net des finances,\nMOHAMED BENCHAABOUN.\nLe ministre de l'agriculture,\nde la pêche maritime,\ndu développement rural\net des eaux et forêts,\nAZIZ AKHANNOUCH.\nLe ministre de l'industrie,\nde l'investissement,\ndu commerce\net de l'économie numérique,\nMLY HAFID ELALAMY.\nLe ministre du tourisme,\ndu transport aérien,\nde l'artisanat\net de l'économie sociale,\nMOHAMED SAJID.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.521,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "1141-19",
       "article_indices": [
         5,
@@ -7248,7 +7362,24 @@
         "art_1141_19_1",
         "art_1141_19_2",
         "art_1141_19_3"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 1141-19",
+      "title": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre de l'industrie, de l'investissement, du commerce et de l'économie numérique fixant le niveau de représentativité des organisations professionnelles requis pour la constitution de l'interprofession de la filière du palmier dattier.",
+      "date_hijri": "3 chaabane 1440",
+      "date_gregorian": "2019-04-09",
+      "decree_date_hijri": "3 chaabane 1440",
+      "decree_date_gregorian": "2019-04-09",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [],
+      "content": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime,\ndu développement rural et des eaux et forêts et du ministre\nde l'industrie, de l'investissement, du commerce et de\nl'économie numérique n° 1141-19 du 3 chaabane 1440\n(9 avril 2019) fixant le niveau de représentativité des\norganisations professionnelles requis pour la constitution\nde l'interprofession de la filière du palmier dattier.\nLE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE\nMARITIME, DU DÉVELOPPEMENT RURAL ET DES\nEAUX ET FORÊTS,\nLE MINISTRE DE L'INDUSTRIE, DE L'INVESTISSEMENT,\nDU COMMERCE ET DE L'ÉCONOMIE NUMÉRIQUE,\nVu le décret n° 2-12-602 du 9 rejeb 1434 (20 mai 2013) pris\npour l'application de la loi n° 03-12 relative aux interprofessions\nagricoles et halieutiques, notamment son article 2,\nARRÊTENT :\n\nLe niveau de représentativité des\norganisations professionnelles requis pour la constitution de\nlinterprofession de la filière du palmier dattier est fixé, en\ntenant compte du poids économique desdites organisations\ndans la filière, comme suit :\nN° 6804 — 13 hiia 1440 (15-8-2019) BULLETIN OFFICIEL 1823\n— Production :\n+ Production des plants : 55% au moins de la production\nnationale de plants du palmier dattier et 60% au moins,\ndu nombre de pépinières et des laboratoires agréés pour\nla production desdits plants ;\n+ Production des dattes : 55% au moins du volume de la\nproduction nationale de dattes et 55% au moins du\nnombre des producteurs répartis sur l'ensemble du\nterritoire national ;\n_ Valorisation : 55% au moins du volume de la\nproduction nationale des dattes conditionnées et/ou\ntransformées et commercialisées, et 55% au moins, du\nnombre des opérateurs intervenant dans les activités\nde conditionnement et/ou de transformation et/ou\nde commercialisation des dattes conditionnées ou\ntransformées.\n\nL'arrêté conjoint du ministre de l'agriculture\net de la pêche maritime et du ministre de l'industrie, du\ncommerce, de l'investissement et de l'économie numérique\nn° 4520-14 du 2 rabii I 1436 (25 décembre 2014) fixant le\nniveau de représentativité des organisations professionnelles\ncomposant l'interprofession de la filière du palmier dattier\nest abrogé.\n\nLe présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 3 chaabane 1440 (9 avril 2019).\nLe ministre de l'agriculture, Le ministre de l'industrie,\nde la pêche maritime, de l'investissement,\ndu développement rural du commerce\net des eaux et forêts, et de l'économie numérique,\nAZIZ AKHANNOUCH. MLY HAFID ELALAMY.",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.597,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7260,7 +7391,31 @@
       "instrument_id": "instr_1805_19",
       "article_ids": [
         "art_1805_19_1"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1805-19",
+      "title": "Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts complétant l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n° 563-17 du 25 kaada 1438 (18 août 2017) portant publication de la liste des interprofessions agricoles reconnues.",
+      "date_hijri": "7 chaoual 1440",
+      "date_gregorian": "2019-06-11",
+      "decree_date_hijri": "7 chaoual 1440",
+      "decree_date_gregorian": "2019-06-11",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "AZIZ AKHANNOUCH",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "AZIZ AKHANNOUCH",
+      "content": "Arrêté du ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts n° 1805-19\ndu 7 chaoual 1440 (11 juin 2019) complétant l'arrêté\ndu ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts n° 563-17 du\n25 kaada 1438 (18 août 2017) portant publication de la\nliste des interprofessions agricoles reconnues.\nLE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE\nMARITIME, DU DÉVELOPPEMENT RURAL ET DES\nEAUX ET FORÊTS,\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts n° 563-17\ndu 25 kaada 1438 (18 août 2017) portant publication de la\nliste des interprofessions agricoles reconnues, tel qu'il a été\ncomplété,\nES\n\nLa liste des interprofessions\nagricoles reconnues annexée à l'arrêté susvisé n° 563-17 du\n25 kaada 1438 (18 août 2017) est complétée comme suit :\n« Tableau annexé à l'arrêté du ministre de l'agriculture,\n« de la pêche maritime, du développement rural et des eaux\n« et forêts n° 563-17 du 25 kaada 1438 (18 août 2017) portant\n« publication de la liste des interprofessions agricoles reconnues\n«Liste des interprofessions reconnues\nRéférence\nDénomination de la décision\nde reconnaissance\nFédération interprofessionnelle marocaine\nde sucre (FIMASUCRE)\nFédération interprofessionnelle de la filière | n° 168 du 14/03/2018\nde l'Arboricuiture fruitière au Maroc\n(FEDAM)\nFédération interprofessionnelle marocaine | n° 717 du 17/04/2019\ndes fruits rouges (Interproberries Maroc)\nFédération interprofessionnelle marocaine | n° 718 du 17/04/2019\nde production et d'exportation des fruits et\nlégumes (FIFEL)\nART. 2. — Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 7 chaoual 1440 (11 juin 2019).\nAZIZ AKHANNOUCH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6802 du 6 hija 1440 (8 août 2019).\nEEE mm",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.54,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7274,10 +7429,34 @@
       "article_ids": [
         "art_1962_19_1",
         "art_1962_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1962-19",
+      "title": "Arrêté du ministre de l'industrie, de l'investissement, du commerce et de l'économie numérique complétant l'arrêté n° 1308-94 du 7 kaada 1414 (19 avril 1994) fixant la liste des marchandises faisant l'objet de restrictions quantitatives à l'importation et à l'exportation.",
+      "date_hijri": "14 chaoual 1440",
+      "date_gregorian": "2019-06-18",
+      "decree_date_hijri": "14 chaoual 1440",
+      "decree_date_gregorian": "2019-06-18",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "MLY HAFID ELALAMY",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "MLY HAFID ELALAMY",
+      "content": "Arrêté du ministre de l'industrie, de l'investissement, du\ncommerce et de l'économie numérique n° 1962-19 du\n14 chaoual 1440 (18 juin 2019) complétant l'arrêté\nn° 1308-94 du 7 kaada 1414 (19 avril 1994) fixant la\nliste des marchandises faisant l'objet de restrictions\nquantitatives à l'importation et à l'exportation.\nLE MINISTRE DE L'INDUSTRIE, DE L'INVESTISSEMENT,\nDU COMMERCE ET DE L'ÉCONOMIE NUMÉRIQUE,\nVu le décret n° 2-93-415 du 11 moharrem 1414 (2 juillet 1993)\npris pour l'application de la loi n° 13-89 relative au commerce\nextérieur, tel qu'il a été modifié et complété par le décret\nn° 2-99-1261 du 29 moharrem 1421 (4 mai 2000) ;\nVu l'arrêté du ministre du commerce extérieur, des\ninvestissements extérieurs et de l'artisanat n° 1308-94 du\n7 kaada 1414 (19 avril 1994) fixant la liste des marchandises\nfaisant l'objet des mesures de restrictions quantitatives\nà l'importation et à l'exportation, tel qu'il a été modifié et\ncomplété ;\nAprès avis du ministre de l'intérieur,\n1894 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\n\nLa liste I des marchandises\nsoumises à licence d'importation annexée à l'arrêté du ministre\ndu commerce extérieur, des investissements extérieurs et\nde l'artisanat n° 1308-94 susvisé, est complétée par la liste\nci-dessous :\nNUMÉRO DÉSIGNATION\n— NOMENCLATURE DES PRODUITS\nEX 8903.10.00. D Bateaux gonflables rigides et semi-rigides.\n8407.21 Moteurs du type hors-bord pour la\npropulsion de bateaux, à piston\nalternatif ou rotatif, à allumage par\nétincelles (moteurs à explosion).\nMoteurs du type hors-bord pour la\npropulsion de bateaux, à piston, à\nallumage par compression (moteurs\ndiesel ou semi-diesel).\n\nLe présent arrêté entrera en vigueur à partir\nde la date de sa publication au Bulletin officiel.\nRabat, le 14 chaoual 1440 (18 juin 2019).\nMLY HAFID ELALAMY.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.615,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "1990-19",
       "article_indices": [
         11,
@@ -7290,7 +7469,30 @@
         "art_1990_19_1",
         "art_1990_19_2",
         "art_1990_19_3"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 1990-19",
+      "title": "Arrêté conjoint du ministre de l'économie et des finances et du ministre de l'industrie, de linvestissement, du commerce et de l'économie numérique modifiant l'arrêté conjoint du ministre de l'économie et des finances et du ministre de l'industrie, du commerce et des nouvelles technologies n° 3030-12 du 3 kaada 1433 (20 septembre 2012) relatif au taux de la pénalité de retard et aux modalités de décomposition du solde des dettes fournisseurs dans les transactions commerciales.",
+      "date_hijri": "17 chaoual 1440",
+      "date_gregorian": "2019-06-21",
+      "decree_date_hijri": "17 chaoual 1440",
+      "decree_date_gregorian": "2019-06-21",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": "Le ministre de l'industrie, de l'investissement",
+          "name": null,
+          "type": "contreseing"
+        }
+      ],
+      "content": "Arrêté conjoint du ministre de l'économie et des finances et du\nministre de l'industrie, de linvestissement, du commerce\net de l'économie numérique n° 1990-19 du 17 chaoual 1440\n(21 juin 2019) modifiant l'arrêté conjoint du ministre de\nl'économie et des finances et du ministre de l'industrie,\ndu commerce et des nouvelles technologies n° 3030-12\ndu 3 kaada 1433 (20 septembre 2012) relatif au taux de\nla pénalité de retard et aux modalités de décomposition\ndu solde des dettes fournisseurs dans les transactions\ncommerciales.\nLE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,\nLE MINISTRE DE L'INDUSTRIE, DE L'INVESTISSEMENT,\nDU COMMERCE ET DE L'ÉCONOMIE NUMÉRIQUE,\nVu le décret n° 2-12-170 du 22 chaabane 1433 (12 juillet\n2012) pris pour l'application du chapitre III du titre IV du livre\npremier de la loi n° 15-95 formant code de commerce relatif\naux délais de paiement, tel qu'il a été modifié, notamment son\narticle premier ;\nVu l'arrêté conjoint du ministre de l'économie et\ndes finances et du ministre de l'industrie, du commerce\net des nouvelles technologies n° 3030-12 du 3 kaada 1433\n(20 septembre 2012) relatif au taux de la pénalité de retard\net aux modalités de décomposition du solde des dettes\nfournisseurs dans les transactions commerciales,\nARRÊTENT :\n\nL'intitulé de l'arrêté conjoint\ndu ministre de l'économie et des finances et du ministre\nde l'industrie, du commerce et des nouvelles technologies\nsusvisé n° 3030-12 du 3 kaada 1433 (20 septembre 2012) est\nmodifié comme suit :\n« Arrêté conjoint du ministre de l'économie et des finances\n« et du ministre de l'industrie, du commerce et des\n« nouvelles technologies n° 3030-12 du 3 kaada 1433\n«(20 septembre 2012) relatif au taux de l'indemnité de retard\n« et aux modalités de décomposition du solde des dettes\n« fournisseurs dans les transactions commerciales. »\n\nLes dispositions de l'article premier de\nl'arrêté conjoint du ministre de l'économie et des finances\net du ministre de l'industrie, du commerce et des nouvelles\ntechnologies précité n° 3030-12 sont modifiées comme suit :\n« Article premier. — En application des dispositions de\n«l'article premier du décret susvisé n° 2-12-170, le taux annuel\n&« de l'indemnité de retard exigible appliqué au principal de\n«la dette, ne peut être inférieur au taux directeur de Bank\n« Al-Maghrib le plus récent majoré d'une marge de :\n«— trois points de pourcentage à compter de 31 décembre 2020 ;\n«—quatre points de pourcentage à compter du 1* janvier 2021. »\n\n— Le présent arrêté conjoint qui sera publié au\nBulletin officiel, entre en vigueur à compter de la date de sa\npublication\nRabat, le 17 chaoual 1440 (21 juin 2019).\nLe ministre de l'industrie,\nde l'investissement,\nLe ministre de l'économie du commerce\net des finances, et de l'économie numérique,\nMOHAMED BENCHAABOUN. MLY HAFID ELALAMY.\nN° 6804 — 13 hiia 1440 (15-8-2019) BULLETIN OFFICIEL 1825\nTEXTES PAR",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.644,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7304,7 +7506,31 @@
       "article_ids": [
         "art_1688_19_3",
         "art_1688_19_4"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1688-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de Penseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant Parrêté n° 2340-03 du 23 chaoual 1424 (18 décembre 2003) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en neurologie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "23 ramadan 1440",
+      "date_gregorian": "2019-05-29",
+      "decree_date_hijri": "23 ramadan 1440",
+      "decree_date_gregorian": "2019-05-29",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADIL",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADIL",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de Penseignement\nsupérieur et de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche scientifique\nn° 1688-19 du 23 ramadan 1440 (29 mai 2019) complétant\nParrêté n° 2340-03 du 23 chaoual 1424 (18 décembre 2003)\nfixant la liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en neurologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de léducation nationale, de\nl'enseignement supérieur, de la formation des cadres et\nde la recherche scientifique n° 2340-03 du 23 chaoual 1424\n(18 décembre 2003) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en neurologie,\ntel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\n— L'article premier de l'arrêté susvisé\nn° 2340-03 du 23 chaoual 1424 (18 décembre 2003) est complété\ncomme suit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en neurologie,\n«est fixée ainsi qu'il suit :\nCENTS TEL TELE EEE EEE TEE STE ES EE LEE ETES TES EEE ETES SES LT E EEE LEE EETEEEEEE)\nPACE TTL TEE LISE CEE TESTS TEE SEC ES SET EETE EEE E EEE TETE EEE SET STEEL EEE EEE EEE ETES EEE EEEEEEELEES\n«— Diplôme d'études spécialisées (D.E.S) de neurologie,\n« délivré par la Faculté de médecine, de pharmacie et\n«d'odontologie - Université Cheikh-Anta-Diop de Dakar -\n« Sénégal - le 1° août 2017, assorti d'une attestation\n« d'évaluation des connaissances et des compétences,\n« délivrée par la Faculté de médecine et de pharmacie\n« de Rabat - le 14 janvier 2019. »\nA\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 23 ramadan 1440 (29 mai 2019).\nKHALID SAMADIL.\nro",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7318,7 +7544,31 @@
       "article_ids": [
         "art_1873_19_1",
         "art_1873_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1873-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de Péducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 2075-09 du 11 chaabane 1430 (3 août 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en endocrinologie et maladies métaboliques. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de Péducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1873-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 2075-09 du 11 chaabane 1430\n(3 août 2009) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en\nendocrinologie et maladies métaboliques.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale, de\nl'enseignement supérieur, de la formation des cadres et de\nla recherche scientifique n° 2075-09 du 11 chaabane 1430\n(3 août 2009) fixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en endocrinologie et\nmaladies métaboliques, tel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nja formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\n— L' article premier de l'arrêté susvisé\nn° 2075-09 du 11 chaabane 1430 (3 août 2009) est complété\ncomme suit :\n« Article premier. — La liste des diplômes reconnus\n« équivalents au diplôme de spécialité médicale en\n«endocrinologie et maladies métaboliques est fixée ainsi qu'il\n« suit :\nPRET PETITE TETE TELE TETE LEEEECELEECEEECEL EEE ELEEEEEEEEEEELEEEEEEEEEEES ELLES ELLES\n1826 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\n« — Certificat d'études spécialisées de médecine, dans\n« la spécialité endocrinologie, délivré par l'Université\n«d'Etat de médecine de Yaroslavl - Fédération de Russie -\n« le 1% octobre 2015, assorti d'un stage de deux ans et\n« demi : du 13 mars 2016 au 9 novembre 2017 au sein du\n« Centre hospitalier Ibn Rochd de Casablanca et du\n« 29 décembre 2017 au 28 décembre 2018 au sein de\n« l'hôpital Mohamed Baouañi, validé par la Faculté de\n« médecine et de pharmacie de Casablanca - le 4 janvier\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.434,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7332,7 +7582,31 @@
       "article_ids": [
         "art_1877_19_1",
         "art_1877_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1877-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en radiologie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1877-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en radiologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de\nla formation des cadres et de la recherche scientifique n° 572-04\ndu 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en radiologie, tel\nqu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du Î1 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\n— L'article premier de l'arrêté susvisé\nn° 572-04 du 15 safar 1425 (6 avril 2004) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en radiologie\n«est fixée ainsi qu'il suit :\nPRET T IC IT TELE EEE LEET EEE EC EL EEE ELEEEECEE STE EEE EEE EEE EEE ET EE EEE EEE EEE EEE EE EEE EEE LE EE)\nEE mm mms\nEEE\n« — Roumanie :\nAPPRIS TETE ET I TITI TITLE CEE TT EE ELEECLEE EE EEE EEE LELEELEELEEEEELEEEEELEEEELESSEESSSSSS\n«— Certificat de medic specialist radiologie imagistica\n«medicala, délivré par ministerul sanatatii - Roumanie -\n«le 18 avril 2018, assorti d'une attestation d'évaluation\n« des connaissances et des compétences délivrée par la\n« Faculté de médecine et de pharmacie de Marrakech -\n« le 25 mars 2019. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.411,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7346,7 +7620,31 @@
       "article_ids": [
         "art_1879_19_1",
         "art_1879_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1879-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 346-04 du 4 moharrem 1425 (25 février 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en oto-rhino- laryngologie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1879-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 346-04 du 4 moharrem 1425\n(25 février 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en oto-rhino-\nlaryngologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale,\nde l'enseignement supérieur, de la formation des cadres et de\nla recherche scientifique n° 346-04 du 4 moharrem 1425\n(25 février 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en oto-rhino-\nlaryngologie, tel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\nN° 6804 13 hia 1440 {15-8-2019) BULLETIN OFFICIEL 1827\n\nL'article premier de l'arrêté susvisé\nn° 346-04 du 4 moharrem 1425 (25 février 2004) est complété\ncomme suit :\n« Article premier. — La liste des diplômes reconnus\n« équivalents au diplôme de spécialité médicale en oto-rhino-\n« laryngologie est fixée ainsi qu'il suit :\nPSP ET II TITI TITI TITLE TETE TETE EE CEEE TEE ES ET EE LCENLELEETEEEEEEEEEEELEEEELEEEELEELELLES ES\nPRET PPET SIT CIE TETE IT EEE CEE EESE ELLES EEE EEE CEE ELELEELEEEEETEEEELEEEEEE EEE EEEEEE ELLE ES\n«— Diplôme d'études spécialisées d'oto-rhino-laryngologie,\n«délivré par l'Université de Reims Champagne Ardenne -\n« France - le 30 octobre 1993. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.415,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7360,7 +7658,31 @@
       "article_ids": [
         "art_1880_19_1",
         "art_1880_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1880-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 743-09 du 26 rabii I 1430 (24 mars 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en biologie médicale (ou analyses biologiques médicales). LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1880-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 743-09 du 26 rabii I 1430\n(24 mars 2009) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en biologie\nmédicale (ou analyses biologiques médicales).\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale, de\nl'enseignement supérieur, de la formation des cadres et\nde la recherche scientifique n° 743-09 du 26 rabii E 1430\n(24 mars 2009) fixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en biologie médicale (ou\nanalyses biologiques médicales) tel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 743-09 du 26 rabii I 1430 (24 mars 2009) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n« équivalents au diplôme de spécialité médicale en biologie\n« médicale (ou analyses biologiques médicales) est fixée ainsi\n« qu'il suit :\nARRET TEE TETE TITI ET T ET ELE LL ES EEE EETEEEEEEEEEEEEEEEEEEELEEEEEEEEEELE EEE EEEEEEEEEESLSSS\nPRET ETES TETE TERRE TTIII ET EE CE EEE EEECECELE EEE ECEEEEEEELEELELEELELEEEEEZEEEEEELESSSSSSSSS\n«— Diplôme d'études spécialisées de biologie médicale,\n« délivré par l'Université de Bordeaux - France - le\n« 4 janvier 2018. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.\nEEE mme",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.414,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7374,7 +7696,31 @@
       "article_ids": [
         "art_1882_19_1",
         "art_1882_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1882-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de Péducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 753-06 du 27 rabii I 1427 (26 avril 2006) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en néphrologie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de Péducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1882-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 753-06 du 27 rabii I 1427 (26 avril 2006)\nfixant la liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en néphrologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale, de\nl'enseignement supérieur, de la formation des cadres et de la\nrecherche scientifique n° 753-06 du 27 rabii I 1427 (26 avril 2006)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en néphrologie, tel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nja formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nja recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\n1828 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nAprès avis de ja commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 753-06 du 27 rabii I 1427 (26 avril 2006) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en néphrologie,\n«est fixée ainsi qu'il suit :\nPETITE LITE LEE TE TT EEE EE EEE EE EEE ETE EL LEE TELE LEE EEE ELLES ELLES EESELEEEEEELLELS\nPRIT TE EE TE EC ELEC ETES ET EE CEE EEE ET LEE EE EEE LEELEEEEEELELES ELLES\n«— Diplôme d'études spécialisées de médecine (ordinatura),\n«dans la spécialité néphrologie, délivré par l'Université\n« d'Etat de médecine et de pédiatrie de Saint-Pétersbourg -\n« Fédération de Russie - le 18 janvier 2016, assorti d'un\n« stage de deux années : une année au sein du Centre\n« hospitalier Ibn Rochd de Casablanca et une année\n«au sein du Centre hospitalier préfectoral Al Hassani\n« de Casablanca, validé par la Faculté de médecine et\n« de pharmacie de Casablanca - le 18 mars 2019. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.404,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7388,7 +7734,31 @@
       "article_ids": [
         "art_1884_19_1",
         "art_1884_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1884-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 570-04 du 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en dermatologie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1884-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 570-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en dermatologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de la\nformation des cadres et de la recherche scientifique n° 570-04\ndu 15 safar 1425 (6 avril 2004) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité médicale en\ndermatologie, tel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de POrdre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 570-04 du 15 safar 1425 (6 avril 2004) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en dermatologie\n«est fixée ainsi qu'il suit :\n'URPRRNPN NN EREEEEEEEE EEE SEE TEOET ICE EEE EEE TECEEECEEET EEE TECEEEEEEEEEEEETEEEEEEEEEEEEEEEEEEEE\n«— Roumanie :\nPRPPR PTT RETIRE TT EEE TITI TITI TEST EEE EEE CE EEEEE EEE EE EEECEEEELEEEEEEEEEEEEEEEELEEEELESSS SELS\n«— Certificat de medic specialist dermatovenerologie,\n« délivré par ministerul sanatatii - Roumanie - le\n«13 février 2018, assorti d'une attestation d'évaluation\n«des connaissances et des compétences, délivrée par la\n« Faculté de médecine et de pharmacie de Casablanca -\n«le 12 mars 2019. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.404,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7402,7 +7772,31 @@
       "article_ids": [
         "art_1885_19_1",
         "art_1885_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1885-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 666-03 du 7 rejeb 1424 (4 septembre 2003) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en urologie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SU PÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de l'enseignement\nsupérieur et de la recherche scientifique, chargé de\nl'enseignement supérieur et de la recherche scientifique\nn° 1885-19 du 9 chaoual 1440 (13 juin 2019) complétant\nl'arrêté n° 666-03 du 7 rejeb 1424 (4 septembre 2003)\nfixant la liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en urologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SU PÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de la\nformation des cadres et de la recherche scientifique n° 666-03\ndu 7 rejeb 1424 (4 septembre 2003) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité médicale en\nurologie, tel qu'il a été complété ;\nNO £QNA _ LR Mia 1AAN (15-R-2019) BULLETIN OFFICIEL 1829\nLY VVNM EP EN À\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 666-03 du 7 rejeb 1424 (4 septembre 2003) est complété\ncomme suit :\n« Article premier. — La liste des diplômes reconnus\n« équivalents au diplôme de spécialité médicale en urologie,\n«est fixée ainsi qu'il suit :\nPRET PETER EEE TT TETE EC EEE TEE EEE ELE EEE ELEC EEE ELEEEEELEEEEELELEREESESSSSSSSESS SSSR\nPNR ETES ETES EIRE LILI TITI LEE LEE CECELEEEEPELELEEELELELLEEEEEEERELLESEEEE EEE ESS SSSR\n« — Diplôme d'études spécialisées (D.E.S) d'urologie,\n« délivré par la Faculté de médecine, de pharmacie et\n«d'odontologie, Université Cheikh-Anta-Diop de Dakar -\n« Sénégal - le 30 juillet 2018, assorti d'une attestation\n« d'évaluation des connaissances et des compétences,\n« délivrée par la Faculté de médecine et de pharmacie\n« de Fès - le 4 mars 2019. »\n\n, — Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.408,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7416,7 +7810,31 @@
       "article_ids": [
         "art_1886_19_1",
         "art_1886_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1886-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 1482-04 du 24 joumada IT 1425 (11 août 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en traumatologie-orthopédie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1886-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 1482-04 du 24 joumada IT 1425\n(11 août 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en\ntraumatologie-orthopédie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale, de\nl'enseignement supérieur, de la formation des cadres et de\nla recherche scientifique n° 1482-04 du 24 joumada IT 1425\n(11 août 2004) fixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en traumatologie-orthopédie,\ntel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du Il rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL article premier de l'arrêté susvisé\nn° 1482-04 du 24 joumada II 1425 (11 août 2004) est complété\ncomme suit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en traumatologie-\n« orthopédie est fixée ainsi qu'il suit :\nANNEE TETE TE TT T IT ET TETE EEE EEE ELEC EEE EEEEEELEEEEEEEELEREEEEEEEEEE ES EEEESSSSSSSSSSSS\nANNEE TETE TI TEE ET EE TETE LITE CIEL EEE EEE LE EEEEELEEEEEEEEEEEEEEEEEELEEEEEEESSESESSSSSSS\n« — Diplôme d'études spécialisées d'orthopédie-\n« traumatologie, délivré par la Faculté de médecine,\n« de pharmacie et d'odontologie, Université Cheikh -\n« Anta-Diop de Dakar - Sénégal - le 5 août 2015,\n« assorti d'un stage d'un an du 19 février 2018 au\n« 18 février 2019, validé par la Faculté de médecine et de\n« pharmacie de Marrakech - le 21 février 2019. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.406,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7430,7 +7848,31 @@
       "article_ids": [
         "art_1888_19_1",
         "art_1888_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1888-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 173-18 du 23 rejeb 1439 (10 avril 2018) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en chirurgie vasculaire périphérique. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1888-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 173-18 du 23 rejeb 1439 (10 avril 2018)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en chirurgie vasculaire périphérique.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation professionnelle,\nde l'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 173-18 du 23 rejeb 1439 (10 avril 2018)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en chirurgie vasculaire périphérique,\ntel qu'il a été complété ;\n1830 BULLETIN OFFICIEL N° 6804 - 13 hija 1440 (15-8-2019)\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 173-18 du 23 rejeb 1439 (10 avril 2018) est complété comme\nsuit : '\n« Article premier. — La liste des diplômes reconnus\n« équivalents au diplôme de spécialité médicale en chirurgie\n« vasculaire périphérique est fixée ainsi qu'il suit :\nCPE TETE CITE CEE EEE EEE ELLES EEE ETES ELEC E TETE EE ETES ELITE EE TT EEE EEE EEEEE EE EEE EEE ELLE EEE SE\nCPEPEEEECE ETES EST EC CE EE TETE ES CEE EEE LEE LES STE ET LE EE EE EEE EEE EE EEE EE LEE EEE ELLE EEE\n« — Certificat d'études spécialisées de médecine\n« (ordinatura clinique) dans la spécialité chirurgie\n«vasculaire, délivré par l'Académie d'Etat de médecine\n« d'études postuniversitaires de Zaporijjia du ministère\n« de la santé de l'Ukraine - le 1 juillet 2016, assorti d'un\n« stage de deux années : du 13 février 2017 au 20 février\n« 2019 au Centre hospitalier Hassan II de Fès, validé\n«par la Faculté de médecine et de pharmacie de Fès - le\n« 26 février 2019. »\n\n— Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.437,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7444,7 +7886,31 @@
       "article_ids": [
         "art_1889_19_1",
         "art_1889_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1889-19",
+      "title": "Arrêté du secrétaire d'État auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 753-06 du 27 rabii I 1427 (26 avril 2006) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en néphrologie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'État auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1889-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 753-06 du 27 rabii I 1427 (26 avril 2006)\nfixant la liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en néphrologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale, de\nl'enseignement supérieur, de la formation des cadres et de la\nrecherche scientifique n° 753-06 du 27 rabii I 1427 (26 avril 2006)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en néphrologie, tel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 753-06 du 27 rabii I 1427 (26 avril 2006) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en néphrologie,\n« est fixée ainsi qu'il suit :\nAPP PEETE TITI TITRE TI ETES EEE EEE ECEETEEECEECELCEETEELEELEELEEEELEEEEELELEEES EEE E ESS\nPPS TT TITI TETE TETE IT TETE TEE LEE EEE EE EE ECECEEEE EE EECELELEEEEELELEEEELELELELEEEE EE EESSSSRRS\n«— Diplôme d'études spécialisées (D.E.S) de néphrologie,\n« délivré par la Faculté de médecine, de pharmacie et\n«d'odontologie - Université Cheikh-Anta-Diop de Dakar -\n« Sénégal - le 28 février 2018, assorti d'une attestation\n« d'évaluation des connaissances et des compétences\n« délivrée par la Faculté de médecine et de pharmacie\n« de Casablanca - le 2 avril 2019. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.397,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7458,7 +7924,31 @@
       "article_ids": [
         "art_1890_19_1",
         "art_1890_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1890-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 950-04 du 6 rabii IE 1425 (26 mai 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en gynécologie-obstétrique. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1890-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 950-04 du 6 rabii IE 1425 (26 mai 2004)\nfixant la liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en gynécologie-obstétrique.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de la\nformation des cadres et de la recherche scientifique n° 950-04\ndu 6 rabii II 1425 (26 mai 2004) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité médicale en\ngynécologie-obstétrique, tel qu'il a été complété ;\nNIO LONA 12 bia 1AAN SR ON1O) BULLETIN OFFICIEL 1851\nEN OOUOUUVTF Lu RAA ST ST À\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 950-04 du 6 rabii II 1425 (26 mai 2004) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en gynécologie-\n« obstétrique, est fixée ainsi qu'il suit :\nAPPRIS TITI TITI TE ITT EEE EEE TEE EE ECEEELEEEEEEEEELEEEELEEEEELEEEEEEELEEEEELSLSSS RES\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.\nEmme",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.414,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7472,7 +7962,31 @@
       "article_ids": [
         "art_1891_19_1",
         "art_1891_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1891-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 2871-06 du 8 hija 1427 (29 décembre 2006) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en médecine interne. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1891-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 2871-06 du 8 hija 1427\n(29 décembre 2006) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en médecine\ninterne.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale, de\nl'enseignement supérieur, de la formation des cadres\net de la recherche scientifique n° 2871-06 du 8 hija 1427\n(29 décembre 2006) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en médecine\ninterne, tel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du I rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 2871-06 du 8 hija 1427 (29 décembre 2006) est complété\ncomme sui :\n« Article premier. — La liste des diplômes reconnus\n« équivalents au diplôme de spécialité médicale en médecine\n«interne est fixée ainsi qu'il suit :\nNN ER EE RESTE CETTE TITI TELE TELE EEE ECCEEEEEECEEEEEELEEEEEELELEEEEEEEEELEEEELES SEE\nDNS E TEE T TEL IT TETE LEE EEE CEECCELEE EC EEEEEECEEEEEEEEEEEEEEEEEEEEELLEEEEEEEESEES ES\n«— Internal medicine residency, délivré par the Caritas\n«Carney Hospital Boston - Massachusetts - USA, assorti\n« d'un stage de deux ans au sein du Centre hospitalier\n« Ibn Rochd de Casablanca, validé par la Faculté de\n« médecine et de pharmacie de Casablanca - le 26 mars\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.41,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7484,7 +7998,31 @@
       "instrument_id": "instr_1895_19",
       "article_ids": [
         "art_1895_19_1"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1895-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant Parrêté n° 572-04 du 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en radiologie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1895-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant Parrêté n° 572-04 du 15 safar 1425 (6 avril 2004)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en radiologie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de\nja formation des cadres et de la recherche scientifique n° 572-04\ndu 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en radiologie, tel\nqu'il a été complété ;\n1832 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 572-04 du 15 safar 1425 (6 avril 2004) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en radiologie\n«est fixée ainsi qu'il suit :\nCOPASEIIE TETE IE CITE LEE EEE ET TES EST EL EEE EEE TETE ETES EE TEE ET LE EEE LE EEE EEZEEEEELETEEEEE EEE\nDPLLETE TEE ECESILEELCEETEEETE EEE ECEELEET ELEC EEE TETE EEE EEE TEE EEE EEETEEEEEE ELLE LEEELEELE ELLES\n« — Diplôme interuniversitaire de spécialisation de\n« radiodiagnostic, délivré par l'Université René\n« Descartes - Paris V - France - le 6 novembre 2000,\n«assorti d'une attestation d'évaluation des connaissances\n«et des compétences délivrée par la Faculté de médecine\n«et de pharmacie de Casablanca - le 21 mars 2019. »\nART, 2. - Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.409,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7498,7 +8036,31 @@
       "article_ids": [
         "art_1899_19_1",
         "art_1899_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 1899-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 1482-04 du 24 joumada IT 1425 (11 août 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en traumatologie-orthopédie. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "9 chaoual 1440",
+      "date_gregorian": "2019-06-13",
+      "decree_date_hijri": "9 chaoual 1440",
+      "decree_date_gregorian": "2019-06-13",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 1899-19 du 9 chaoual 1440 (13 juin 2019)\ncomplétant l'arrêté n° 1482-04 du 24 joumada IT 1425\n(11 août 2004) fixant la liste des diplômes reconnus\néquivalents au diplôme de spécialité médicale en\ntraumatologie-orthopédie.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'éducation nationale, de\nl'enseignement supérieur, de la formation des cadres et de\nla recherche scientifique n° 1482-04 du 24 joumada IT 1425\n(11 août 2004) fixant la liste des diplômes reconnus équivalents\nau diplôme de spécialité médicale en traumatologie-orthopédie,\ntel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de FOrdre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 1482-04 du 24 joumada II 1425 (11 août 2004) est complété\ncomme suit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en traumatologie-\n« orthopédie est fixée ainsi qu'il suit :\nPRET TEST TITI TRE III TETE TEE EEE EE CEE EEE EEELEEEL EE ELELLEESLEEESERES ELLES RS\nPPPPPPPE RIRE E SET EEE CEE EEE EEE CEE EL EELELEEEEEEEEEELEEEEEEEESELESSSSSRSSSSSRS\n«= Facharzt fur orthopadie und unfallchirurgie, délivré\n« par Landesarztekammer Hessen - Allemagne - le\n« 6 janvier 2016, assorti d'une attestation d'évaluation\n« des connaissances et des compétences, délivrée par\n« la Faculté de médecine et de pharmacie de Rabat - le\n« 15 janvier 2019. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 chaoual 1440 (13 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.404,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7512,7 +8074,31 @@
       "article_ids": [
         "art_2003_19_1",
         "art_2003_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 2003-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de Penseignement supérieur et de la recherche scientifique complétant Parrêtén° 405-14 du 7 rabii II 1435 (7 février 2014) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en médecine du travail. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "13 chaoual 1440",
+      "date_gregorian": "2019-06-17",
+      "decree_date_hijri": "13 chaoual 1440",
+      "decree_date_gregorian": "2019-06-17",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de Penseignement supérieur et de la recherche\nscientifique n° 2003-19 du 13 chaoual 1440 (17 juin 2019)\ncomplétant Parrêtén° 405-14 du 7 rabii II 1435 (7 février 2014)\nfixant la liste des diplômes reconnus équivalents au\ndiplôme de spécialité médicale en médecine du travail.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du ministre de l'enseignement supérieur, de la\nrecherche scientifique et de la formation des cadres n° 405-14\ndu 7 rabii II 1435 (7 février 2014) fixant la liste des diplômes\nreconnus équivalents au diplôme de spécialité médicale en\nmédecine du travail , tel qu'il a été complété ;\nNO EQNA 1 Lin TAAN IE RINION BULLETIN OFFICIEL 1833\nLS% VU + rt D À A\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL'article premier de l'arrêté susvisé\nn° 405-14 du 7 rabii II 1435 (7 février 2014) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n«équivalents au diplôme de spécialité médicale en médecine\n« du travail est fixée ainsi qu'il suit :\nPPT EEE EE EEE CE EE ECC EEE CEE E EE LEE TELE LLELEELELEEELEEELELLELLEESS\nPETTIL III TETE CITE EEE EEE EE EEE EEE EEE ELLE LEE LEE EELEE EEE EE ELLES EEEEEEESEEEEEE EEE SES LEE\n« — Grade académique de master complémentaire\n«en médecine du travail, délivré par l'École de santé\n« publique de l'Université Libre de Bruxelles - Belgique -\n«en l'année académique 2014/2015. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 13 chaoual 1440 (17 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.39,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -7526,63 +8112,181 @@
       "article_ids": [
         "art_2004_19_1",
         "art_2004_19_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 2004-19",
+      "title": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation nationale, de la formation professionnelle, de l'enseignement supérieur et de la recherche scientifique, chargé de l'enseignement supérieur et de la recherche scientifique complétant l'arrêté n° 173-18 du 23 rejeb 1439 (10 avril 2018) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en chirurgie vasculaire périphérique. LE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'ÉDUCATION NATIONALE, DE LA FORMATION PROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE SCIENTIFIQUE,",
+      "date_hijri": "13 chaoual 1440",
+      "date_gregorian": "2019-06-17",
+      "decree_date_hijri": "13 chaoual 1440",
+      "decree_date_gregorian": "2019-06-17",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "KHALID SAMADI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "KHALID SAMADI",
+      "content": "Arrêté du secrétaire d'Etat auprès du ministre de l'éducation\nnationale, de la formation professionnelle, de\nl'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 2004-19 du 13 chaoual 1440 (17 juin 2019)\ncomplétant l'arrêté n° 173-18 du 23 rejeb 1439 (10 avril 2018)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en chirurgie vasculaire périphérique.\nLE SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'ÉDUCATION NATIONALE, DE LA FORMATION\nPROFESSIONNELLE, DE L'ENSEIGNEMENT SUPÉRIEUR\nET DE LA RECHERCHE SCIENTIFIQUE, CHARGÉ DE\nL'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE\nSCIENTIFIQUE,\nVu l'arrêté du secrétaire d'Etat auprès du ministre\nde l'éducation nationale, de la formation professionnelle,\nde l'enseignement supérieur et de la recherche scientifique,\nchargé de l'enseignement supérieur et de la recherche\nscientifique n° 173-18 du 23 rejeb 1439 (10 avril 2018)\nfixant la liste des diplômes reconnus équivalents au diplôme\nde spécialité médicale en chirurgie vasculaire périphérique,\ntel qu'il a été complété ;\nVu l'arrêté du ministre de l'éducation nationale, de\nla formation professionnelle, de l'enseignement supérieur\net de la recherche scientifique n° 710-18 du 11 rejeb 1439\n(29 mars 2018) portant délégation d'attributions au secrétaire\nd'Etat auprès du ministre de l'éducation nationale, de la\nformation professionnelle, de l'enseignement supérieur et de\nla recherche scientifique, chargé de l'enseignement supérieur\net de la recherche scientifique ;\nAprès avis de la commission sectorielle des sciences de\nla santé du 4 avril 2019 ;\nAprès avis du conseil national de l'Ordre national des\nmédecins,\n\nL' article premier de l'arrêté susvisé\nn° 173-18 du 23 rejeb 1439 (10 avril 2018) est complété comme\nsuit :\n« Article premier. — La liste des diplômes reconnus\n« équivalents au diplôme de spécialité médicale en chirurgie\n« vasculaire périphérique est fixée ainsi qu'il suit :\nPPPPP PTIT TETE TITI TETE I LIES TESTS EEE EEE TEEEEEEECEZ LE EEE EE EEEEEEEEEELEEELEEEEEESEEESSSSSSSSSS\nANNEE TERRESTRE TT RTE II ETES TELE EEE E ET CEE EEE EEEEEEEEEEELEEEEEEEEEEEEEEEEEESEEEEESSSSS RSS\n« — Certificat d'études spécialisées de médecine\n« (ordinatura clinique) dans la spécialité chirurgie\n«vasculaire, délivré par l'Académie d'Etat de médecine\n« d'études postuniversitaires de Zaporijjia - Ukraine - le\n« 14 juillet 2011, assorti d'un stage de deux années : une\n« année au sein du C.H.U Rabat - Salé et une année à\n«la province d'Oujda, et d'une attestation d'évaluation\n« des connaissances et des compétences, délivrée par\n«la Faculté de médecine et de pharmacie de Rabat - le\n«3 avril 2019. »\n\n— Le présent arrêté sera publié au Bulletin officiel.\nRabat, le 13 chaoual 1440 (17 juin 2019).\nKHALID SAMADI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.438,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
-      "reference": null,
+      "reference": "93",
       "article_indices": [
         47,
         48
       ],
       "n_articles": 2,
-      "instrument_id": "instr_25",
+      "instrument_id": "instr_93",
       "article_ids": [
-        "art_25_1",
-        "art_25_2"
-      ]
+        "art_93_1",
+        "art_93_2"
+      ],
+      "type": "DECISION",
+      "reference_label": "décision n° 93",
+      "title": "Décision du Wali de Bank Al-Maghrib portant nouvel agrément de la société de financement d'achats à crédit « SOFAC » en qualité de société de financement. LE WALI DE BANK AL-MAGHRIB,",
+      "date_hijri": "12 kaada 1440",
+      "date_gregorian": "2019-07-15",
+      "decree_date_hijri": "12 kaada 1440",
+      "decree_date_gregorian": "2019-07-15",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "ABDELLATIF JOUAHRI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "ABDELLATIF JOUAHRI",
+      "content": "Décision du Wali de Bank Al-Maghrib n° 93 du 12 kaada 1440\n(15 juillet 2019) portant nouvel agrément de la société de\nfinancement d'achats à crédit « SOFAC » en qualité de\nsociété de financement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1e\" rabii 1 1436 (24 décembre 2014), notamment ses articles 34\net 43 ;\nVu l'arrêté du ministre des finances et des investissements\nextérieurs n° 1398-96 du 29 safar 1417 (16 juillet 1996) portant\nagrément de la société de financement d'achats à crédit « Sofac-\nCrédit » en qualité de société de financement, tel que complété\npar l'arrêté du ministre des finances et des investissements\nextérieurs n° 547-97 du 18 kaada 1417 (28 mars 1997) ;\n1834 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nER EEZEZEZ———— 000\nVu la décision du gouverneur de Bank Al-Maghrib\nn° 5 du 18 rejeb 1428 (3 août 2007) portant agrément de la\nsociété de financement d'achats à crédit « SOFAC » suite à la\nrestructuration de son capital ;\nVu la décision du Wali de Bank Al-Maghrib n° 34\ndu 14 rabii I 1433 (7 février 2012) portant agrément de la\nsociété de financement d'achats à crédit « SOFAC » suite à la\nrestructuration de son capital ;\nVu la demande d'agrément formulée par la société\nde financement d'achats à crédit « SOFAC » en date du\n6 septembre 2018 pour l'extension de ses activités aux\nopérations de crédit-bail destinées aux toutes petites, petites\net moyennes entreprises (TPME) ;\nVu les informations complémentaires communiquées\npar la société de financement d'achats à crédit « SOFAC » en\ndate du 22 mai 2019 ;\nAprès avis favorable émis par le Comité des établissements\nde crédit en date du 19 juin 2019,\nDÉCIDE :\n\nEst octroyé un nouvel agrément\nà la société de financement d'achats à crédit « SOFAC », sise\nà Casablanca, 57, boulevard Abdelmoumen, en qualité de\nsociété de financement suite à l'extension de ses activités aux\nopérations de crédit-bail destinées aux toutes petites, petites\net moyennes entreprises (TPME).\n\nLa présente décision sera publiée au Bulletin\nofficiel.\nRabat, le 12 kaada 1440 (15 juillet 2019).\nABDELLATIF JOUAHRI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.683,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
-      "reference": null,
+      "reference": "94",
       "article_indices": [
         49,
         50
       ],
       "n_articles": 2,
-      "instrument_id": "instr_26",
+      "instrument_id": "instr_94",
       "article_ids": [
-        "art_26_1",
-        "art_26_2"
-      ]
+        "art_94_1",
+        "art_94_2"
+      ],
+      "type": "DECISION",
+      "reference_label": "décision n° 94",
+      "title": "Décision du Wali de Bank Al-Maghrib portant agrément de la société « Orange Money Maroc » en qualité d'établissement de paiement. LE WALI DE BANK AL-MAGHRIB,",
+      "date_hijri": "24 chaoual 1440",
+      "date_gregorian": "2019-06-28",
+      "decree_date_hijri": "24 chaoual 1440",
+      "decree_date_gregorian": "2019-06-28",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "ABDELLATIF JOUAHRI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "ABDELLATIF JOUAHRI",
+      "content": "Décision du Wali de Bank Al-Maghrib n° 94 du 24 chaoual 1440\n(28 juin 2019) portant agrément de la société « Orange\nMoney Maroc » en qualité d'établissement de paiement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit\net organismes assimilés, promulguée par le dahir n° 1-14-193\ndu 1° rabii I 1436 (24 décembre 2014), notamment ses articles\nVu la demande formulée par la société « Orange Money\nMaroc » en date du 26 février 2018 ;\nVu les informations complémentaires en date du\n10 juillet 2018 ;\nAprès avis favorable émis par le Comité des établissements\nde crédit, en date du 17 juillet 2018,\nDÉCIDE :\n\nEst octroyé un agrément à la société\n« Orange Money Maroc », sise à Casablanca, lotissement\nla Colline, immeuble les 4 Temps, 6î\"° étage, Sidi Mañrouf, en\nqualité d'établissement de paiement pour offrir la prestation\ndes services de paiement prévus aux paragraphes 2, 3 et4 du |)\nde l'article 16 de la loi n° 103-12 susvisée.\n\nLa présente décision est publiée au Bulletin :\nofficiel.\nRabat, le 24 chaoual 1440 (28 juin 2019).\nABDELLATIF JOUAHRI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.679,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
-      "reference": null,
+      "reference": "95",
       "article_indices": [
         51,
         52
       ],
       "n_articles": 2,
-      "instrument_id": "instr_27",
+      "instrument_id": "instr_95",
       "article_ids": [
-        "art_27_1",
-        "art_27_2"
-      ]
+        "art_95_1",
+        "art_95_2"
+      ],
+      "type": "DECISION",
+      "reference_label": "décision n° 95",
+      "title": "Décision du Wali de Bank Al-Maghrib n° 95 du 6 kaada 1440 (? juillet 2019) portant agrément de la société « DIGIFI » en qualité d'établissement de paiement. LE WALI DE BANK AL-MAGHRIB,",
+      "decree_date_hijri": null,
+      "decree_date_gregorian": null,
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "ABDELLATIF JOUAHRI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "ABDELLATIF JOUAHRI",
+      "content": "Décision du Wali de Bank Al-Maghrib n° 95 du 6 kaada 1440\n(? juillet 2019) portant agrément de la société « DIGIFI »\nen qualité d'établissement de paiement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1® rabii I 1436 (24 décembre 2014), notamment ses articles 26\net 34 ;\nVu la demande d'agrément formulée par la société\n« DIGIFI » en date du 14 décembre 2018 ;\nVu les informations complémentaires en date du\n23 mai 2019 ;\nAprès avis favorable émis par le Comité des établissements\nde crédit, en date du 19 juin 2019,\nDÉCIDE :\n\nEst octroyé un agrément à la\nsociété « DIGIFI », sise à Casablanca, lotissement Attawfik,\nrue 1 et 3 Californie, Sidi Maârouf, en qualité d'établissement\nde paiement pour offrir la prestation des services de paiement\nprévus aux paragraphes 2, 3 et 4 du 1) de l'article 16 de la loi\nn° 103-12 susvisée.\n\nLa présente décision est publiée au Bulletin\nofficiel.\nRabat, le 6 kaada 1440 (9 juillet 2019).\nABDELLATIF JOUAHRI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).\nNo £anA ain TAAN /1E R 9010) BULLETIN OFFICIEL '1835\nLAN VV",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.676,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
-      "reference": null,
+      "reference": "96",
       "article_indices": [
         53,
         54
       ],
       "n_articles": 2,
-      "instrument_id": "instr_28",
+      "instrument_id": "instr_96",
       "article_ids": [
-        "art_28_1",
-        "art_28_2"
-      ]
+        "art_96_1",
+        "art_96_2"
+      ],
+      "type": "DECISION",
+      "reference_label": "décision n° 96",
+      "title": "Décision du Wali de Bank AI-Maghrib portant agrément de la société « MT Cash » en qualité d'établissement de paiement. LE WALI DE BANK AL-MAGHRIB,",
+      "date_hijri": "7 kaada 1440",
+      "date_gregorian": "2019-07-10",
+      "decree_date_hijri": "7 kaada 1440",
+      "decree_date_gregorian": "2019-07-10",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [
+        {
+          "role": null,
+          "name": "ABDELLATIF JOUAHRI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "ABDELLATIF JOUAHRI",
+      "content": "Décision du Wali de Bank AI-Maghrib n° 96 du 7 kaada 1440\n(10 juillet 2019) portant agrément de la société « MT\nCash » en qualité d'établissement de paiement.\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1# rabii I 1436 (24 décembre 2014), notamment ses articles 26\net 34 ;\nVu ja demande d'agrément formulée par la société\n« MT Cash » en date du 7 septembre 2017 ;\nVu les informations complémentaires en date du\n9 juillet 2018 ;\nAprès avis favorable émis par le Comité des établissements\nde crédit, en date du 17 juillet 2018,\nDÉCIDE :\n\nEst octroyé un agrément à la\nsociété « MT Cash », sise à Rabat, avenue Annakh1l, Hay\nRiad, en qualité d'établissement de paiement pour offrir la\nprestation des services de paiement prévus aux paragraphes\n2, 3 et 4 du 1) de l'article 16 de la loi n° 103-12 susvisée.\n\nLa présente décision est publiée au Bulletin\nofficiel.\nRabat, le 7 kaada 1440 (10 juillet 2019).\nABDELLATIF JOUAHRI.\n1836 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nCONSEIL SUPERIEUR DE LA CON",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.682,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -7590,7 +8294,24 @@
       "article_indices": [],
       "n_articles": 0,
       "instrument_id": "instr_39_19",
-      "article_ids": []
+      "article_ids": [],
+      "type": "DECISION",
+      "reference_label": "décision n° 39-19",
+      "title": "Décision du CSCA relative à l'émission KMASTERCHEF MAROC» diffusée par le service télévisuel « 2M » édité par la société «SOREAD 2M ». LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE,",
+      "date_hijri": "10 ramadan 1440",
+      "date_gregorian": "2019-05-16",
+      "decree_date_hijri": "10 ramadan 1440",
+      "decree_date_gregorian": "2019-05-16",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [],
+      "content": "Décision du CSCA n° 39-19 du 10 ramadan 1440 (16 mai 2019)\nrelative à l'émission KMASTERCHEF MAROC»\ndiffusée par le service télévisuel « 2M » édité par la société\n«SOREAD 2M ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la Communication Audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nson article 2 (alinéa premier, 2 et 4) ;\nVu le cahier des charges de la Société « SOREAD-2M »\nnotamment ses articles 50.1, 50.2 et 51.1 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectué par la Direction Générale de la Communication\nAudiovisuelle au sujet de l'édition du 19 mars 2019 de l'émission\n« MASTERCHEF MAROC » diffusée par le service télévisuel\n« 2M » édité par la Société « SOREAD-2M » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la Communication Audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nque l'édition du 19 mars 2019 de l'émission « MASTERCHEF\nMAROC » diffusée par le service télévisuel «2M », a présenté\nle parrain et l'un de ses produits par un slogan sonore à travers\nl'utilisation des termes suivants :\n« Prestigia plage des nations golf city, entre Rabat et\nKénitra, habitez dans un cadre exceptionnel toute l'année ! ».\nAttendu qu'il ressort également du contenu précité, qu'il\na inclus un commentaire de l'un des membres du jury, au sujet\ndu complexe résidentiel dans lequel s'est déroulée cette édition\nde l'émission « MASTERCHEF MAROC » par l'utilisation\ndes termes tels que :\nQUI lie Jet! sl Sbaiés LIN ce laut, A ble 52 11)\n4 Lie xl! 5la «Prestigia plage des nations golf city 3404\nsurf &i foot ! 598 Jls ll des GI de LAS paze\ndl di usgpse A les activités Jls cél;; «48 la plage! 4\nAttendu que la même édition a contenu des commentaires\nde l'une des concurrentes à travers l'utilisation des termes\nsuivants :\nplage Jhs àJsN 32 QUI! cl; cg ol ul bles » (.)\n4.) «luil;s luge bla SÂls : des nations\n[MUNICATION AUDIOVISUELLE\nAttendu que la même édition a reçu un groupe d'invités,\ndont le directeur du complexe résidentiel précité, qui est\nintervenu à la demande d'un membre du jury, en utilisant les\ntermes suivants :\n« (….) Plage des nations, c'est du bien-être, la convivialité\nqui rime parfaitement avec la gastronomie, je pense qu'on pouvait\npas mieux faire que ce soir. (...)”\nAttendu que l'article 2 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée\ndispose que :\n« Pour l'application des dispositions de la présente loi,\nconstitue : (...)\n2- Une publicité clandestine : la présentation verbale ou\nvisuelle, de manière explicite ou implicite, de marchandises, de\nservices, du nom, de la marque ou des activités d'un producteur\nde marchandises ou d'un prestataire de services dans des\nprogrammes, lorsque cette présentation est faite de façon\nintentionnelle par l'opérateur de communication audiovisuelle\ndans un but publicitaire non explicite et risque d'induire le public\nen erreur sur la nature d'une telle présentation. Une présentation\nest considérée comme intentionnelle notamment lorsqu'elle est\nfaite contre rémunération ou toute autre forme de paiement ; (...)\n4 - Un parrainage : toute contribution d'une entreprise\npublique ou privée au financement de programmes dans le but\nde promouvoir son nom, Sa marque, Son image, Ses activités ou\nses réalisations ; (...) ».\nAttendu que l'article 50.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nLyme 09 Ol jozs NY (.) eye pale Et AS AU pau\ncall als Ge ASès phil aile) de sle dell pol dass\nsa doll gpl LAN à Dlazuls dois\nAttendu que l'article 50.2 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nedge ELU gel à of9 dl $ arlue EN gt\nest dub 15 les elle UE Je gb oSe Ÿ\ndle so üly 5 le ahleë aol J 8 L4pl lil le Le\ndlus gl dilegtio #8 gl là le ll jo Y LS pal)\n«() lei lots pl slzgtio sl\nAttendu que l'article 51.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\ndie çylall pe AN of pgioll AN de putes SAN ji\n+ 689 679 669 (35 2 caiädll) 2 Slaûl 5 Lapéssai 339 LS\ns«(.) 77.03 dla\nN° 6804 — 13 hiia 1440 (15-8-2019) BULLETIN OFFICIEL 1837\nAttendu que la Haute Autorité de la Communication\nAudiovisuelle a adressé un courrier en date du 18 avril 2019 à la\nSociété « SOREAD-2M » au sujet des observations relevées ;\nAttendu que la Haute Autorité de la Communication\nAudiovisuelle a reçu en date du 3 mai 2019 une réponse de\nla Société « SOREAD-2M » au sujet desdites observations ;\nAttendu que l'édition précitée a présenté en tant que\nparrain, au début et à fin de l'émission, une entité commerciale\npar son nom (« Prestigia luxury home »), les images et le nom\nd'un de ses produits, en associant cette présentation à un\nslogan sonore contenant des termes renvoyant de manière\ndirecte aux avantages du produit objet de la présentation tels\nque :\n&« (...) habitez dans un cadre exceptionnel toute l'année\nce qui constitue indéniablement une présentation\nargumentée, ce qui met le contenu précité en non-conformité\navec les dispositions encadrant la présentation du parrain ;\nAttendu que l'édition précitée a contenu la présentation\nsonore et visuelle du nom d'une entité commerciale et de l'un\nde ses services, à travers les témoignages des concurrents,\ndes invités et des membres du jury, en utilisant des termes de\nnature promotionnelle et argumentaire tels que :\ngas AN lie ll 5le &slrisg LUN CH de leu le 52\ngars 4,6 Lis Je) sla Prestigia plage des nations golf city\nla ds surf dis foot oëll ls ll des fe dd ie\nLilisn ds Gysgpge AN les activités Jls cils 546 plage\nplage des nations JL él 92 AN cl 25 OU als)\ndans un contexte général visant à mettre en exergue le\nproduit et ses avantages, ce qui met le contenu précité en non-\nconformité avec les dispositions relatives à la communication\npublicitaire, notamment, à la publicité clandestine ;\nAttendu que, en conséquence, il se doit de prendre les\nmesures appropriées à l'encontre de la Société « SOREAD-\nPAR CES MOTIFS :\n1) Déclare que la Société « SOREAD-2M » éditrice du\nservice télévisuel « 2M » a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles relatives au\nparrainage et à la publicité clandestine ;\n2) Décide d'adresser un avertissement à la Société\n&« SOREAD-2M » ;\n3) Ordonne la notification de la présente décision à la\nSociété « SOREAD-2M », ainsi que sa publication au Bulletin\nofficiel ;\ndo de\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 ramadan 1440 (16 mai 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Al Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).\nEE meme",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.508,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -7598,7 +8319,24 @@
       "article_indices": [],
       "n_articles": 0,
       "instrument_id": "instr_41_19",
-      "article_ids": []
+      "article_ids": [],
+      "type": "DECISION",
+      "reference_label": "décision n° 41-19",
+      "title": "Décision du CSCA relative au message publicitaire concernant la société «ORANGE TELECOM diffusé par le service télévisuel «MEDI 1 TV » édité par la société « MEDI 1 TV ». LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE, | Vu la loi n° 11-15 portant réorganisation de la Haute | Autorité de la communication audiovisuelle, notamment ses articles 3 (alinéa 1) et 4 (alinéas 8 et 9) ;",
+      "date_hijri": "10 chaoual 1440",
+      "date_gregorian": "2019-06-14",
+      "decree_date_hijri": "10 chaoual 1440",
+      "decree_date_gregorian": "2019-06-14",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [],
+      "content": "Décision du CSCA n° 41-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM diffusé par le service télévisuel\n«MEDI 1 TV » édité par la société « MEDI 1 TV ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\n| Vu la loi n° 11-15 portant réorganisation de la Haute\n| Autorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nVu le cahier des charges de la Société « MEDI 1 TV»\nnotamment ses articles 7 et 31 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n« MEDI 1 TV » édité par la Société « MEDI 1 TV » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée\ndispose que :\n« La communication audiovisuelle est libre. (...).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (...). » ;\n1828 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\nInciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (...) ;\nFaire l'apologie des crimes (...). » ;\nAttendu que l'article 7 du cahier des charges de la Société\n« MEDI 1 TV » dispose que :\nGers deg all ÿ den «Jp» Sgser ÿ tçaill Li\nOle) dipl Shbeÿlg cbaarall LIU arslse PL\nGallo ll spraull f lole jagsaill telsalls sl ebi\nSoUL dule yogpaio 52 LS ar SM flo Mio Sami 639\næeball S'il dhës cg Ray Açaill ls céeles .28\ndonitus pas 88 gabl sles loués be clip lol älull\nSu Sp de spot Ke Llérl hell url ll\nsslaté Y die cl 396 disletuls\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019 à la\nSociété « MEDI 1 TV » au sujet des observations enregistrées,\ndemeuré sans réponse ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\n«(.) aus 505% Lily dére Mg) Luis (..)\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahâr » en Afghanistan ;\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\n| l'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu que l'article 31 du cahier des charges de la Société\n« MEDI 1 TV » dispose que :\nlil lustre se degarashsätis philo de ÿ»\nlat) JU Sbsëell DEN Gsss Lie clarill jiés sf Goilall\nbla) sh hls Je se adeNl alrall Ke, coel Uell\nZihel &sbs plie etgaill 5> (É otes dl she) 45\nah Sylla)\nsa) AS de y Sul pal se » 37 sf doutll 24 céés *\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la Société « MEDI1TV»;\nPAR CES MOTIFS :\n1) Déclare que la Société « MEDI Î TV » éditrice du\nservice télévisuel « MEDI 1 TV » a enfreint les dispositions\nlégales et règlementaires en vigueur, notamment celles relatives\naux obligations déontologiques et à la maîtrise d'antenne ;\n2) Décide d'adresser un avertissement à la Société\n« MEDI I TV »;\n3) Ordonne la notification de la présente décision à la\nSociété « MEDI 1 TV », ainsi que sa publication au Bulletin\nofficiel ;\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.504,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -7606,7 +8344,24 @@
       "article_indices": [],
       "n_articles": 0,
       "instrument_id": "instr_42_19",
-      "article_ids": []
+      "article_ids": [],
+      "type": "DECISION",
+      "reference_label": "décision n° 42-19",
+      "title": "Décision du CSCA relative au message publicitaire concernant la société «ORANGE TELECOM» diffusé par le service télévisuel « AL OULA » édité par la « SOCIETE NATIONALE DE RADIO ET DE TELEVISION » - SNRT. LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE,",
+      "date_hijri": "10 chaoual 1440",
+      "date_gregorian": "2019-06-14",
+      "decree_date_hijri": "10 chaoual 1440",
+      "decree_date_gregorian": "2019-06-14",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [],
+      "content": "Décision du CSCA n° 42-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM» diffusé par le service télévisuel\n« AL OULA » édité par la « SOCIETE NATIONALE\nDE RADIO ET DE TELEVISION » - SNRT.\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nAIO LZONA 19125 TAAN IE Q MDOION RIILI ETIN OFFICIEL. 1839\nIN UVUOUT TT AU JA LFTU Lis A 7 A\nEE 0\nVu le cahier des charges de la « SNRT » notamment ses\narticles 183.1 et 183.3 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n« A1 Oula » édité par la « SNRT » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nJS osQ Lily Lite Mg) Laxis jlac go Gélall oui (er\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que :\n« La communication audiovisuelle est libre. ( […texte non modifié…] ).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (..…). » ;\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\n+ Inciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (..…) ;\n+ Faire l'apologie des crimes (...). » ;\nAttendu que l'article 183.1 du cahier des charges de la\nSNRT dispose que :\ntb uel&äl dcgamo sl aré PES «éiahl sl lat Le\nAttendu que l'article 183.3 du cahier des charges de la\nSNRT dispose que :\nle du sl el loss pStll cé LI 8,5 4 al Lséræsr\nproue pl) lle caen «5 30) ga ses Le (fl ché\nco bll Shhedt call hd 5e liés AG laser 9\nLars es seal le plein Bla Jolie Gel\n«lus de dy sis lb Lors [3195 RS] 85letuul\nD\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019 à\nla «SNRT » au sujet des observations enregistrées, demeuré\nsans réponse ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahâr » en Afghanistan ;\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\nl'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la SNRT ;\nPAR CES MOTIFS :\n1) Déclare que la Société « SNRT » éditrice du service\ntélévisuel « A1 Oula» a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles\nrelatives aux obligations déontologiques et à la maîtrise\nd'antenne ;\n2) Décide d'adresser un avertissement à la « SNRT » ;\n1840 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\n3) Ordonne la notification de la présente décision à\nla « SNRT », ainsi que sa publication au Bulletin officiel ;\nDélibérée par le Conseil Supérieur de la Communication\nAudiovisuelle lors de sa séance du 10 chaoual 1440\n(14 juin 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs NarjJis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.531,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -7614,7 +8369,24 @@
       "article_indices": [],
       "n_articles": 0,
       "instrument_id": "instr_43_19",
-      "article_ids": []
+      "article_ids": [],
+      "type": "DECISION",
+      "reference_label": "décision n° 43-19",
+      "title": "Décision du CSCA relative au message publicitaire concernant la société «ORANGE TELECOM» diffusé par le service télévisuel «2M » édité par la société « SOREAD 2M. LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE,",
+      "date_hijri": "10 chaoual 1440",
+      "date_gregorian": "2019-06-14",
+      "decree_date_hijri": "10 chaoual 1440",
+      "decree_date_gregorian": "2019-06-14",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [],
+      "content": "Décision du CSCA n° 43-19 du 10 chaoual 1440 (14 juin 2019)\nrelative au message publicitaire concernant la société\n«ORANGE TELECOM» diffusé par le service télévisuel\n«2M » édité par la société « SOREAD 2M.\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1°) et 4 (alinéas 8 et 9) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 ;\nVu le cahier des charges de la Société « SOREAD 2M»\nnotamment ses articles 52.1 et 52.3 ;\nAprès avoir pris connaissance du rapport d'instruction\neffectuée par la Direction Générale de la communication\naudiovisuelle au sujet du message publicitaire concernant la\nSociété « Orange Telecom » diffusé par le service télévisuel\n«2M » édité par la Société « SOREAD 2M » ;\nEt après en avoir délibéré :\nLa Haute Autorité de la communication audiovisuelle\na relevé, dans le cadre du suivi des programmes audiovisuels,\nqu'un des messages publicitaires concernant la Société\n« Orange Telecom », a contenu une scène, comprenant une\nséquence sonore associée en les termes suivants :\nS üsQ Lily Live My) Luxis jlac ge Gala ti (0)\nES\nAttendu que l'article 3 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que :\n« La communication audiovisuelle est libre. (...).\nCette liberté s'exerce dans le respect des constantes du\nRoyaume, des libertés et des droits fondamentaux, tels que\nprévus par la Constitution, de l'ordre public, des bonnes mœurs\net des exigences de la défense nationale. (...). » ;\nAttendu que l'article 9 de la même loi dispose que :\n« Sans préjudice des sanctions prévues par les textes en\nvigueur, les émissions et les reprises de programmes ou de parties\nde programmes ne doivent pas : (...)\n+ Inciter à la violence ou à la haine, à la discrimination\nraciale, au terrorisme (...) ;\n* Faire l'apologie des crimes (...). » ;\nAttendu que l'article 52.1 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nof çgpaniall juil de Dép sf ctall 55LGÿl pue (..)\ncuLu) Leltäl dcsare ol uaté ôlei dial) sl la ÿl de\npal pl dit) desert dote of pyflaïil si peais si ele\ns(.) uso lil o\nAttendu que l'article 52.3 du cahier des charges de la\nSociété « SOREAD 2M » dispose que :\nle dy sl gli Less pull c9 I ASS AS al Lt\npal goll else lslgell ali a) A le anus llans\nbuotéo js] lle cu cëälll goball «Glen Le ($ 4e dk\nao bl she lt tulle phSM 3e bolatus AS laileese 5\nelaSYl uieg eeSœtll le slatul Llixi del ss Lelil\n«ll le ou sf el lors Li96 ail éslerul\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 20 mai 2019\nà la Société « SOREAD 2M » au sujet des observations\nenregistrées ;\nAttendu que la Haute Autorité de la communication\naudiovisuelle a reçu en date du 29 mai 2019 une réponse de la\nSociété « SOREAD 2M » exposant un ensemble d'explications\neu égard aux observations enregistrées ;\nAttendu que le spot publicitaire contient une scène,\ncomportant des images de jeunes vêtus de djellabas courtes,\ndont un barbu, associées aux termes suivants :\nce qui renvoie, au regard des éléments de la scène\nprécitée à une situation de communication anodine avec un\nami de quartier se trouvant à « Kandahäôr » en Afghanistan ;\nNO £QNA 12 Lin TAAN TER IN1O) BULLETIN OFFICIEL 1841\nLU MMN ON et DÉS À\nEu égard à la portée symbolique de cette référence\ngéographique, à la mise en scène précitée et à l'apparence\ndes personnages, en référence implicite au phénomène de\nl'embrigadement de certains jeunes, pour rejoindre des\norganisations illégales, ce qui est susceptible, même en\nl'absence d'incitation directe, de constituer une normalisation\net une banalisation, par l'humour, avec le fait de rejoindre des\nentités et des régions connues pour être des centres abritant\ndes organisations classées comme terroristes ;\nCe qui met le contenu précité en non-conformité avec les\ndispositions légales et réglementaires en vigueur, notamment\ncelles relatives aux engagements déontologiques ;\nAttendu que le spot publicitaire constitue un contenu\naudiovisuel préenregistré, devant en principe faire l'objet d'un\ncontrôle préalable avant sa diffusion à destination du public,\ntel que requis par l'obligation de maîtrise d'antenne, ce qui met\nl'opérateur en non-conformité avec ses engagements relatifs à\nla responsabilité éditoriale ;\nAttendu qu'il se doit, en conséquence, de prendre les\nmesures appropriées à l'encontre de la Société « SOREAD\nPAR CES MOTIFS :\n1) Déclare que la Société « SOREAD 2M » éditrice\ndu service télévisuel « 2M» a enfreint les dispositions légales\net règlementaires en vigueur, notamment celles relatives aux\nobligations déontologiques et à la maîtrise d'antenne ;\n2) Décide d'adresser un avertissement à la Société\n&« SOREAD 2M » ;\n3) Ordonne la notification de la présente décision à la\nSociété « SOREAD 2M », ainsi que sa publication au Bulletin\nofficiel ;\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440\n(14 juin 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.502,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -7622,7 +8394,24 @@
       "article_indices": [],
       "n_articles": 0,
       "instrument_id": "instr_44_19",
-      "article_ids": []
+      "article_ids": [],
+      "type": "DECISION",
+      "reference_label": "décision n° 44-19",
+      "title": "Décision du CSCA relative à l'émission « wlë,i dùl sul, » diffusée par le réseau de service radiophonique «MFM » édité par la société « MFM RADIO TV ». LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE,",
+      "date_hijri": "17 ramadan 1440",
+      "date_gregorian": "2019-05-23",
+      "decree_date_hijri": "17 ramadan 1440",
+      "decree_date_gregorian": "2019-05-23",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [],
+      "content": "Décision du CSCA n° 44-19 du 17 ramadan 1440 (23 mai 2019)\nrelative à l'émission « wlë,i dùl sul, » diffusée par le\nréseau de service radiophonique «MFM » édité par la\nsociété « MFM RADIO TV ».\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 1%), 4 (alinéa 9) et 22 ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 3 et 9 :\nVu le cahier des charges de la Société « MFM RADIO\nTV» notamment ses articles 6, 9 et 34.2 ;\nVu la décision du Conseil Supérieur de la communication\naudiovisuelle n° 07-17 du 03 joumada II 1438 (2 mars 2017)\nportant procédure des plaintes, notamment ses articles 2, 3,\nVu la décision du Conseil Supérieur de la communication\naudiovisuelle n° 14-17 du 20 ramadan 1438 (15 juin 2017) portant\nadoption d'une recommandation relative aux programmes\ntraitant de la santé dans les services audiovisuels notamment\nses articles 3, 6 et 7;\nVu la plainte de la « Fédération Marocaine des Droits\ndu Consommateur » reçue en date du 08 avril 2019, au sujet\nde l'émission «ul3,f di ul diffusée par le réseau de service\nradiophonique « MFM » édité par la Société « MFM RADIO\nTV»;\nAprès avoir pris connaissance du rapport d'instruction\neffectué par la Direction Générale de la communication\naudiovisuelle au sujet des éditions du 5, du 12et du 14 mars 2019,\nde l'émission «21,5,i «ii ul» diffusée par le réseau de service\nradiophonique « MFM » édité par la Société « MFM RADIO\nTV»;\nEt après en avoir délibéré :\nAttendu que l'article 7 de la loi n° 11-15 portant\nréorganisation de la Haute Autorité de la communication\naudiovisuelle dispose que :\n« Le Conseil supérieur reçoit des plaintes, émanant\ndes présidents des chambres du Parlement, du Chef du\ngouvernement, des organisations politiques ou syndicales ou\ndes associations de la société civile intéressées à la chose publique\net des conseils des régions, relatives à des violations, par les\norganes et les opérateurs de communication audiovisuelle, des\nlois ou règlements applicables au secteur de la communication\naudiovisuelle.\nLes particuliers ont également le droit de saisir le Conseil\nsupérieur de plaintes, relatives à des violations par les opérateurs\nde la communication audiovisuelle des lois ou règlements\napplicables au secteur. (...) » ;\nAttendu que la plainte est de ce fait, recevable en la\nforme ;\n1049 RUILETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nIUT n Se\nAttendu qu'il ressort de la plainte de la « Fédération\nMarocaine des Droits du Consommateur », que certaines\némissions de services radiophoniques privés font les louanges\ndu charlatanisme, en particulier le style et la méthodologie\nemployés pour présenter l'émission «wli3,i dl eut», qui\nexploite, d'après la plainte, l'ignorance et la faiblesse de\ncertains consommateurs, ce qui pourrait porter préjudice à\nleurs intérêts pécuniaires et la sécurité de leur santé, et ce en\nnon-conformité avec les lois en vigueur ;\nAttendu qu'il ressort du suivi des éditions des 5, 12 et\n14 mars 2019 de l'émission «u1,3,f il ul» qu'elles ont abordé\nun ensemble de sujets, relatifs à ce qui a été présenté et\nconsidéré par l'invité de l'émission comme étant des maladies\net des symptômes psychologiques et physiologiques tels que\n« la stérilité et l'avortement », les « troubles mentaux », les\n«intoxications alimentaires », l'« épistaxis », les « hémorragies »\net les « syndromes du côlon »... ;\nL'invité a également interagi, avec les auditeurs,\nprésentant leurs situations par SMS et appels téléphoniques,\net a proposé ce qu'il a considéré comme étant des solutions\nthérapeutiques, et ce, à travers l'utilisation de termes tels que :\nEdition du 5 mars 2019 :\nghagauie Lo A lil cuil (..}» 'invité de l'émission\n…sgall oties bi L SN aatie (30); close fs SLI\nA hole Mo. as EN dis lgluter 8 30 …. 416\nQUI oleiYl Jls Ênis » Loÿl AUS (.)\" ali Läio\nAlors lg Liles ho los AN ile 35 lg cells célss a tal\nloJl39 al La of hs oléhtall ls il JL. lbs) 3e clé\nduaës (Ji al ue sol la Go Ayié rec Lo flo del\njme (9 àlal yyal agé a fleïs diese al le thus ail\nCrël lpé lgalieis 45 5le she lei dl eL8 of vëb Ll\n) Ve lossti Lo Lite Lo légal)\nEdition du 12 mars 2019 :\nRa pote A sLuill à uill (..)s : Invité de l'émission\nsl lois ler ile N Jls KA 5la Pers A of ésjll ls\nA(e.) duô 9/59 dl ele Jhs Ugo sul lle al\nEdition du 14 mars 2019 :\nler ll Us JEg5 autus (..)» 'invité de l'émission\ncuj pal ele is LS slèall 6 pl. slill Le Le Lagputs\nD aus lyitut LëN ele bg hs dsrhe psilé sf 2521\nLog çaraall Opläll Elle pate QU lil ae hs\nI —\nAttendu que l'article 9 de la loi n° 77-03 relative à la\ncommunication audiovisuelle, telle que modifiée et complétée,\ndispose que : « Sans préjudice des sanctions prévues par les\ntextes en vigueur, les émissions et les reprises de programmes\nou de parties de programmes ne doivent pas : (..) Comporter\ndes incitations à des comportements préjudiciables à la santé\nou à la sécurité des personnes et des biens ou à la protection de\nl'environnement ; (...). » ;\nAttendu que l'article 3 de la décision du Conseil Supérieur\nde la communication audiovisuelle n°14-17 portant adoption\nd'une recommandation relative aux programmes traitant de\nla santé dans les services audiovisuels, dispose que :\n« Les opérateurs audiovisuels veillent dans leurs\nprogrammes relatifs à la santé : (...) - à ce que les intervenants\nrespectent leur domaine de spécialisation.(.….)» ;\nAttendu que l'article 6 de la même recommandation\ndispose que :\n« (..) Les opérateurs audiovisuels veillent dans leurs\nprogrammes traitant de la santé : (...) - à ce que les intervenants\ndans ces émissions n'établissent pas de diagnostics relatifs à\nl'état de santé des auditeurs qui les appellent pour demander\nconseil. (...) » ;\nAttendu que l'article 7 de la même recommandation\ndispose que :\n« (...) Les opérateurs audiovisuels veillent dans leurs\nprogrammes traitant de la santé : (...) - à ce que les intervenants\ndans ces émissions ne prescrivent pas de traitements aux\nauditeurs mais les incitent à solliciter l'avis d'un spécialiste.\nAttendu que la Haute Autorité de la communication\naudiovisuelle a adressé un courrier en date du 19 avril 2019, à\nja Société « MFM RADIO TV » eu égard aux observations\nrelevées concernant la plainte de la « Fédération Marocaine\nde Protection du Consommateur » ;\nAttendu que la Haute Autorité de la communication\naudiovisuelle a reçu en date du 3 mai 2019 un courrier de\nla Société « MFM RADIO TV » exposant un ensemble\nd'explications eu égard aux observations relevées ;\nAttendu que l'invité a, durant les éditions précitées,\ndiagnostiqué certaines situations en se basant sur les appels\ntéléphoniques et les messages des auditeurs et a proposé des\nsolutions thérapeutiques sous formes de recettes composées\nd'herbes et d' «eau de 4,5, » ;\nAttendu que, bien que ne contenant pas d'incitation\nexplicite, les éditions précitées, soulèvent les griefs suivants :\n— Ja présentation élogieuse et à connotation morale, de\nl'invité par l'animateur ;\n_ la présentation de solutions thérapeutiques,\nprétendument efficaces, pour la guérison de certains\nsymptômes et maladies ;\nNO ZONA ta Lie HAAN CIE RONION BULLETIN OFFICIEL 1843\nLY VUNV OT I RE 7 A\n— la présentation de témoignages par SMS et par appels\ntéléphoniques, qui ont dans leur globalité, fait état de\nsuccès thérapeutiques, ce qui est à même d'amener une\npartie du public, à tout le moins, «normaliser » avec ces\npratiques et traitements supposés, voire même délaisser\nou négliger le suivi médical ;\nTout ceci rend le contenu précité susceptible dans\nsa globalité, d'inciter, même implicitement, une partie\ndu public, à des pratiques préjudiciables à leur santé, et\nce, sans réserve aucune, voire sous les encouragements de\nanimateur, en violation de l'exigence en matière de maîtrise\nd'antenne, mettant ainsi l'émission, en non-conformité avec les\ndispositions légales et règlementaires en vigueur, notamment\ncelles relatives aux émissions de santé.\nAttendu que le Conseil Supérieur de la communication\naudiovisuelle avait précédemment adressé une mise en garde,\nen date du 9 janvier 2019, à la Société « MFM RADIO TV »\nconcernant la même émission pour des précédents similaires ;\nAttendu que l'article 34.2 du cahier des charges de la\nSociété « MFM RADIO TV » dispose que :\n« En cas de manquement à une ou plusieurs dispositions\nou prescriptions applicables au Service ou à l'Opérateur, et\nsans préjudice des pénalités pécuniaires visées ci-dessus, la\nHaute Autorité peut, hormis ses décisions de mise en demeure,\nprononcer à l'encontre de l'Opérateur, compte tenu de la gravité\ndu manquement, l'une des pénalités suivantes :\n+ L'avertissement ;\n+ La suspension de la diffusion du service ou d'une partie\ndu programme pendant un mois au plus ; (...) » ;\nAttendu que, en conséquence, il se doit de prendre les\nmesures appropriées à l'encontre de la Société « MFM RADIO\nTV»;\nPAR CES MOTIFS :\nDécide :\nEn la forme :\nde la recevabilité de la plainte de la « Fédération\nMarocaine des Droits du Consommateur » ;\nSur le fond :\nLa suspension de la diffusion, durant une semaine, par\nle réseau de services radiophoniques « MFM », durant\nl'horaire habituel de l'émission «els, ail pl , pour non-\nrespect par la Société « MFM RADIO TV » lors des éditions\nprécitées, des dispositions légales et règlementaires en vigueur,\nnotamment celles relatives aux règles encadrant les émissions\nde santé, et ordonne de ce fait, à la Société « MFM RADIO\nTV » de prendre les dispositions nécessaires pour l'exécution\nde cette décision ;\nD'ordonner à la Société « MFM RADIO TV » de\ndiffuser le communiqué qui suit, pendant la période de\nsanction précitée, fixée à une semaine, à compter de la date\nde notification, et ce, à l'heure habituelle du début de la\ndiffusion de l'émission «ls3,i 4 eut :\npub goliu ce «2019 asle 143 125 05 Slle célatulr\nVol és passes le les sil d'ores ml belles\nSlbls je êjlee dpdle Vol Ki pôle scgeatuall 4é Al\nsarsall galall à ol) Lilsalh\nsols #l dos àmsall let) LIEN) SU VE\nal golinll Lis 058 atull $ pl ls dati Less\ngli ges slal de ele le Ah Ar\nel luc) ds>9 «etœill &> Jde gous JHEN Goss\nDe notifier la présente décision à la Société « MFM\nRADIO T V », et à la partie plaignante, ainsi que sa publication\nau Bulletin officiel.\nDélibérée par le Conseil Supérieur de la communication\naudiovisuelle lors de sa séance du 17 ramadan 1440\n(23 mai 2019), tenue au siège de la Haute Autorité de la\ncommunication audiovisuelle à Rabat, où siégeaient Madame\nLatifa Akharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).\nEEE serment",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.543,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -7630,16 +8419,54 @@
       "article_indices": [],
       "n_articles": 0,
       "instrument_id": "instr_48_19",
-      "article_ids": []
+      "article_ids": [],
+      "type": "DECISION",
+      "reference_label": "décision n° 48-19",
+      "title": "Décision du CSCA portant établissement du cahier des charges pour l'établissement et l'exploitation du service de télévision diffusé par satellite « CHADA TV » par la société « CHADA RADIO $S.A. » LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE,",
+      "date_hijri": "10 chaoual 1440",
+      "date_gregorian": "2019-06-14",
+      "decree_date_hijri": "10 chaoual 1440",
+      "decree_date_gregorian": "2019-06-14",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [],
+      "content": "Décision du CSCA n° 48-19 du 10 chaoual 1440 (14 juin 2019)\nportant établissement du cahier des charges pour\nl'établissement et l'exploitation du service de télévision\ndiffusé par satellite « CHADA TV » par la société\n« CHADA RADIO $S.A. »\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 4) et 4 (alinéa 1) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 13, 26 et 38 ;\n1RAÀ BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)\nVu la décision du Conseil supérieur de la communication\naudiovisuelle n°04-17 en date du 20 rabii II 1438 (19 janvier\n2017), portant adoption de la procédure d'attribution de\nlicence pour l'établissement et l'exploitation de services de\ncommunication audiovisuelle, notamment son article 12 ;\nVu la demande d'octroi de licence d'établissement et\nd'exploitation du service de télévision diffusé par satellite\n« Chada TV » adressée à la Haute Autorité en date du\n23 mars 2018 ;\nAprès avoir pris connaissance des documents relatifs à\nl'instruction de la demande établis par la Direction générale\nde la communication audiovisuelle ;\nVu la réunion d'audition tenue par le Conseil supérieur\nde la communication audiovisuelle en date du 31 janvier 2019\navec la société « CHADA RADIO S.A » en vue d'exposer\nle contenu de son projet d'établissement et d'exploitation du\nservice de télévision diffusé par satellite « Chada TV »,\nEt après en avoir délibéré :\n1°) arrête les termes du cahier des charges du service\nde télévision diffusé par satellite « Chada TV » édité par la\nsociété « CHADA RADIO S.A », dont l'original est annexé à\nla présente décision ;\n2°) ordonne la publication au Bulletin officiel de la\nprésente décision et du cahier des charges visé ci-dessus et\nleur notification à la société « CHADA RADIO S.A » ;\nDélibérée par le Conseil supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin 2019),\ntenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.45,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "DECRET",
+      "instrument_type": "DECISION",
       "reference": "49-19",
       "article_indices": [],
       "n_articles": 0,
       "instrument_id": "instr_49_19",
-      "article_ids": []
+      "article_ids": [],
+      "type": "DECISION",
+      "reference_label": "décision n° 49-19",
+      "title": "Décision du CSCA portant attribution de licence pour Pétablissement et l'exploitation du service de télévision diffusé par satellite « chada tv » par la société « chada radio s.a. » LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE,",
+      "date_hijri": "10 chaoual 1440",
+      "date_gregorian": "2019-06-14",
+      "decree_date_hijri": "10 chaoual 1440",
+      "decree_date_gregorian": "2019-06-14",
+      "bo_date_publication": "2019-08-15",
+      "signatories": [],
+      "content": "Décision du CSCA n° 49-19 du 10 chaoual 1440 (14 juin 2019)\nportant attribution de licence pour Pétablissement et\nl'exploitation du service de télévision diffusé par satellite\n« chada tv » par la société « chada radio s.a. »\nLE CONSEIL SUPÉRIEUR DE LA COMMUNICATION\nAUDIOVISUELLE,\nVu la loi n° 11-15 portant réorganisation de la Haute\nAutorité de la communication audiovisuelle, notamment ses\narticles 3 (alinéa 4) et 4 (alinéa 1) ;\nVu la loi n° 77-03 relative à la communication\naudiovisuelle, telle que modifiée et complétée, notamment\nses articles 13, 17, 18, 24, 26 et 38 ;\nVu la décision du Conseil supérieur de la communication\naudiovisuelle n° 04-17 en date du 20 rabii II 1438 (19 janvier\n2017), portant adoption de la procédure d'attribution de\nlicence pour l'établissement et l'exploitation de services de\ncommunication audiovisuelle, notamment ses articles premier,\nVu la demande d'octroi de licence d'établissement et\nd'exploitation du service de télévision diffusé par satellite\n« Chada TV » adressée à la Haute Autorité en date du\n23 mars 2018 ;\nAprès avoir pris connaissance des documents relatifs à\nlinstruction de la demande établis par la Direction générale\nde la communication audiovisuelle ;\nVu la réunion d'audition tenue par le Conseil supérieur\nde la communication audiovisuelle en date du 31 janvier 2019\navec la société « CHADA RADIO S$S.A » en vue d'exposer\nle contenu de son projet d'établissement et d'exploitation du\nservice de télévision diffusé par satellite « Chada TV » ;\nVu la décision n°48-19 du Conseil supérieur de la\ncommunication audiovisuelle en date du 10 chaoual 1440\n(14 juin 2019) arrêtant les termes du cahier des charges du\nservice de télévision diffusé par satellite « Chada TV »,\nEt après en avoir délibéré :\n1°) Décide d'attribuer à la société « CHADA RADIO\nS.A » une licence d'établissement et d'exploitation du service\nde télévision diffusé par satellite « Chada TV » dans les\nconditions fixées au cahier des charges s'y rapportant ;\n2°) Ordonne la publication de la présente décision\nau Bulletin officiel et sa notification à la société « CHADA\nRADIO S.A », ainsi qu'à l'autorité gouvernementale chargée\nde la communication.\nDélibérée par le Conseil supérieur de la communication\naudiovisuelle lors de sa séance du 10 chaoual 1440 (14 juin\n2019), tenue au siège de la Haute Autorité de la communication\naudiovisuelle à Rabat, où siégeaient Madame Latifa\nAkharbach, Présidente, Mesdames et Messieurs Narjis\nRerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Abdelkader\nChaui Ludie, Fatima Baroudi, Khalil El Alami Idrissi, Badia\nErradi et Mohammed El Maazouz, Membres.\nPour le Conseil supérieur\nde la communication audiovisuelle,\nLa Présidente,\nLATIFA AKHARBACH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 6803 du 10 hija 1440 (12 août 2019).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.495,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     }
   ],
-  "n_instruments": 35
+  "n_instruments": 35,
+  "bo_date_publication": "2019-08-15",
+  "unlinked_tables": [],
+  "n_unlinked_tables": 0,
+  "n_total_tables": 0
 }

@@ -5145,8 +5145,8 @@
       "organizations": [],
       "pdf_page": 31,
       "printed_page": 817,
-      "article_id": "art_18_1",
-      "instrument_id": "instr_18"
+      "article_id": "art_162_1",
+      "instrument_id": "instr_162"
     },
     {
       "number": "2",
@@ -5186,8 +5186,8 @@
       "organizations": [],
       "pdf_page": 31,
       "printed_page": 817,
-      "article_id": "art_18_2",
-      "instrument_id": "instr_18"
+      "article_id": "art_162_2",
+      "instrument_id": "instr_162"
     }
   ],
   "total_pdf_pages": 32,
@@ -5212,7 +5212,39 @@
         "art_2_25_1062_4",
         "art_2_25_1062_5",
         "art_2_25_1062_6"
-      ]
+      ],
+      "type": "DECRET",
+      "reference_label": "décret n° 2-25-1062",
+      "title": "décret pris pour l'application de la loi n° 03-25 relative aux organismes de placement collectif en valeurs mobilières. LE CHEF DU GOUVERNEMENT,",
+      "date_hijri": "14 chaoual 1447",
+      "date_gregorian": "2026-04-02",
+      "decree_date_hijri": "14 chaoual 1447",
+      "decree_date_gregorian": "2026-04-02",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": "Chef du Gouvernement",
+          "name": "AZIZ AKHANNOUCH",
+          "type": "issuer"
+        },
+        {
+          "role": "La ministre de l'économie et des finances",
+          "name": "NADIA FETTAH",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "AZIZ AKHANNOUCH",
+        "NADIA FETTAH"
+      ],
+      "content": "décret n° 2-25-1062 du 14 chaoual 1447 (2 avril 2026) pris pour\nl'application de la loi n° 03-25 relative aux organismes de\nplacement collectif en valeurs mobilières.\nLE CHEF DU GOUVERNEMENT,\nVu la loi n° 03-25 relative aux organismes de placement\ncollectif en valeurs mobilières, promulguée par le dahir\nn°  1-25-64 du 22 joumada I 1447 (14 novembre 2025),\nnotamment ses articles 20, 28, 43, 44, 51, 61, 62, 63, 64, 65, 66,\nAprès délibération en Conseil du gouvernement, réuni\nle 22 ramadan 1447 (12 mars 2026),\nDÉCRÈTE :\n\nL'administration visée aux\n116, 136, 137, 147, 154 et 188 de la loi susvisée n° 03-25, est\nl'autorité gouvernementale chargée des finances.\n\nEn application des dispositions de l'article 20\nde la loi précitée n° 03-25, et sur proposition de l'AMMC, le\nmontant minimum initial des apports des copropriétaires\nconstituant un FCP ou l'un de ses compartiments, est d'un (1)\nmillion de dirhams.\n\nEn application des dispositions de l'article 28 de\nla loi précitée n° 03-25  et sur proposition de l'AMMC, le montant\nminimum du capital de la SICAV lors de sa constitution, est de\ncinq (5) millions de dirhams.\n\nEn application des dispositions de l'article 73 de\nla loi précitée n° 03-25, les règles comptables des OPCVM, ainsi\nque toute modifciation y afférente, sont approuvées par arrêté\nde l'autorité gouvernementale chargée des finances, après avis\ndu conseil national de la comptabilité.\n\nEn application des dispositions de l'article 173 de\nla loi précitée n° 03-25, les statuts de l' Association des Sociétés\nde Gestion des OPCVM et Fonds d'Investissement Marocains,\nainsi que toute modification y afférente, sont approuvés par\narrêté de l'autorité gouvernementale chargée des finances, après\navis de l'AMMC.\n\nLa ministre de l'économie et des finances est\nchargée de l'exécution du présent décret qui sera publié au\nBulletin officiel.\nFait à Rabat, le 14 chaoual 1447 (2 avril 2026).\nAZIZ AKHANNOUCH.\nPour contreseing :\nLa ministre de l'économie\net des finances,\nNADIA FETTAH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.698,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECRET",
@@ -5226,7 +5258,39 @@
       "article_ids": [
         "art_2_26_198_1",
         "art_2_26_198_2"
-      ]
+      ],
+      "type": "DECRET",
+      "reference_label": "décret n° 2-26-198",
+      "title": "décret approuvant la convention de crédit n° CMA 1371 01 H, d'un montant de cent millions d'euros (100.000.000,00 euros), conclue le 9 février 2026 entre le Royaume du Maroc et l'Agence française de développement (AFD), pour le financement du projet « Réseau Express Régional (RER) de Rabat ». LE CHEF DU GOUVERNEMENT,",
+      "date_hijri": "14 chaoual 1447",
+      "date_gregorian": "2026-04-02",
+      "decree_date_hijri": "14 chaoual 1447",
+      "decree_date_gregorian": "2026-04-02",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": "Chef du Gouvernement",
+          "name": "AZIZ AKHANNOUCH",
+          "type": "issuer"
+        },
+        {
+          "role": "Le ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget",
+          "name": "FOUZI LEKJAA",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "AZIZ AKHANNOUCH",
+        "FOUZI LEKJAA"
+      ],
+      "content": "décret n° 2-26-198 du 14 chaoual 1447 (2 avril 2026) approuvant\nla convention de crédit n° CMA 1371 01 H,  d'un montant\nde cent millions d'euros (100.000.000,00 euros), conclue\nle 9 février 2026 entre le Royaume du Maroc et l'Agence\nfrançaise de développement (AFD), pour le financement\ndu projet « Réseau Express Régional (RER) de Rabat ».\nLE CHEF DU GOUVERNEMENT,\nVu la loi de finances n° 50-25 pour l'année budgétaire\n2026, promulguée par le dahir n° 1-25-67 du 19 joumada II\n1447 (10 décembre 2025), notamment son article 38 ;\nVu la loi de finances pour l'année 1982, n°  26-81,\npromulguée par le dahir n° 1-81-425 du 5 rabii I 1402 (1er janvier\n1982), notamment son article 41, paragraphe premier ;\nSur proposition du ministre délégué auprès de la ministre\nde l'économie et  des finances, chargé du budget,\nDÉCRÈTE :\n\nEst approuvée, telle qu'elle est\nannexée à l'original du présent décret, la convention de\ncrédit n° CMA 1371 01 H,  d'un montant de cent millions\nd'euros (100.000.000,00 euros), conclue le 9 février 2026 entre\nle Royaume du Maroc et l'Agence française de développement\n(AFD), pour le financement du projet « Réseau Express\nRégional (RER) de Rabat ».\n\nLe ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget est chargé de\nl'exécution du présent décret qui sera publié au Bulletin officiel.\nFait à Rabat, le 14 chaoual 1447 (2 avril 2026).\nAZIZ AKHANNOUCH.\nPour contreseing :\nLe ministre délégué auprès\nde la ministre de l'économie\net des finances, chargé du budget,\nFOUZI LEKJAA.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.661,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -5254,7 +5318,24 @@
         "art_466_26_7",
         "art_466_26_8",
         "art_466_26_9"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 466-26",
+      "title": "Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts portant protection de variétés par certificat d'obtention végétale",
+      "date_hijri": "9 ramadan 1447",
+      "date_gregorian": "2026-02-27",
+      "decree_date_hijri": "9 ramadan 1447",
+      "decree_date_gregorian": "2026-02-27",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [],
+      "content": "Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n° 466-26\ndu 9 ramadan 1447 (27 février 2026) portant protection de variétés par certificat d'obtention végétale\nLE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX\nET FORÊTS,\nVu la loi n° 9-94 sur la protection des obtentions végétales, promulguée par le dahir n°1-96-255 du\n12 ramadan 1417 (21 janvier 1997) ;\nVu la loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires,\npromulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009) ;\nVu le décret n° 2-01-2324 du 27 hija 1422 (12 mars 2002) pris pour l'application de la loi n°9-94 sur la\nprotection des obtentions végétales, tel qu'il a été modifié, notamment ses articles 2 et 8 ;\nAprès avis du Comité consultatif de la protection des obtentions végétales,\n\nconformément aux dispositions de l'article 2 du décret susvisé n°2-01-2324 du\n27 hija 1422 (12 mars 2002), les variétés désignées dans le tableau annexé au présent arrêté bénéficient de la\nprotection des obtentions végétales.\n\nSont désignés dans le tableau annexé au présent arrêté l'espèce, le numéro du dépôt, la\ndénomination de la variété, le nom de l'obtenteur, le nom du déposant, la nouveauté de la variété et la durée\nde la protection.\n\nconformément aux dispositions de l'article 19 de la loi susvisée n° 9-94 sur la protection des\nobtentions végétales, la durée de la protection est mentionnée dans le tableau indiqué à l'article premier\nci-dessus, débute à compter de la date de délivrance du certificat d'obtention végétale correspondant.\n\nLe Directeur général de l'Office national de sécurité sanitaire des produits alimentaires est chargé\nde délivrer les certificats d'obtention végétale des variétés désignées dans le tableau annexé au présent arrêté.\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 9 ramadan 1447 (27 février 2026).\nAHMED EL BOUARI.\n\nLa norme marocaine - NM\nISO 13006 : Carreaux et dalles céramiques : Définitions,\nde la ministre de l'aménagement du territoire national,\nde l'urbanisme, de l'habitat et de la politique de la ville\nclassifications, caractéristiques et marquages - est rendue\nobligatoire, à partir de la date de la publication du présent\narrêté au « Bulletin officiel ».\nn° 302-26 du 17 chaabane 1447 (6 février 2026) rendant\nd'application obligatoire une norme marocaine.\n\nEst abrogé l'arrêté conjoint du ministre de\nl'industrie, du commerce et des télécommunications et du\nministre délégué auprès du Premier ministre, chargé de\nl'habitat et de l'urbanisme n° 426-04 du 25 safar 1425 (16 avril\n2004) rendant d'application obligatoire une norme marocaine.\nLE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,\nLA MINISTRE DE L'AMÉNAGEMENT DU TERRITOIRE\n\nLa norme marocaine NM ISO 13006 visée\nci-dessus est tenue à la disposition des intéressés à l'Institut\nMarocain de Normalisation.\nNATIONAL, DE L'URBANISME, DE L'HABITAT ET DE\nLA POLITIQUE DE LA VILLE,\nVu la loi n° 12-06 relative à la normalisation, à la\n\nLe présent arrêté sera publié au Bulletin officiel.\ncertification et à l'accréditation, promulguée par le dahir\nRabat, le 17 chaabane 1447 (6 février 2026).\nn°1-10-15 du 26 Safar 1431 (11 février 2010), notamment son\nLa ministre de l'aménagement\narticle 33 ;\ndu territoire national,\nde l'urbanisme, de l'habitat\nVu la décision du directeur de l'Institut marocain\net de la politique de la ville,\nde normalisation n° 1440-23 du 10 kaada 1444 (30 mai 2023),\nportant homologation de normes marocaines,",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.609,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
@@ -5270,7 +5351,45 @@
         "art_557_26_1",
         "art_557_26_2",
         "art_557_26_3"
-      ]
+      ],
+      "type": "DECISION",
+      "reference_label": "décision n° 557-26",
+      "title": "Décision du directeur de l'Institut marocain de normalisation portant homologation de normes marocaines LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION,",
+      "date_hijri": "21 ramadan 1447",
+      "date_gregorian": "2026-03-11",
+      "decree_date_hijri": "21 ramadan 1447",
+      "decree_date_gregorian": "2026-03-11",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "ABDERRAHIM TAIBI",
+          "type": "issuer"
+        },
+        {
+          "role": "Le ministre de l'industrie FATIM EZZAHRA et du commerce",
+          "name": "RYAD MEZZOUR",
+          "type": "contreseing"
+        },
+        {
+          "role": null,
+          "name": "EL MANSOURI",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "ABDERRAHIM TAIBI",
+        "RYAD MEZZOUR",
+        "EL MANSOURI"
+      ],
+      "content": "Décision du directeur de l'Institut marocain de normalisation n° 557-26\ndu 21 ramadan 1447 (11 mars 2026) portant homologation de normes marocaines\nLE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION,\nVu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée\npar le dahir n° 1.10.15 du 26 safar 1431 (11 février 2010), notamment ses articles 11, 15 et 32 ;\nVu la résolution du Conseil d'Administration de l'Institut marocain de normalisation (IMANOR) N°10\ntenue, le 19 safar 1435 (23 décembre 2013), qui a délégué au Directeur de l'IMANOR le pouvoir de prononcer\nl'homologation des normes marocaines et la certification de la conformité auxdites nomes,\nDÉCIDE :\n\nSont homologuées comme normes marocaines, les normes dont les références\nsont présentées en annexe de la présente décision.\n\nLes normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à\nl'Institut marocain de normalisation (IMANOR).\n\nLa présente décision sera publiée au Bulletin officiel.\nRabat, le 21 ramadan 1447 (11 mars 2026).\nABDERRAHIM TAIBI.\nLe ministre de l'industrie\nFATIM EZZAHRA\net du commerce,\nRYAD MEZZOUR.\nEL MANSOURI.",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.419,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE_CONJOINT",
@@ -5286,10 +5405,42 @@
         "art_492_26_1",
         "art_492_26_2",
         "art_492_26_3"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 492-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime portant publication de l'extrait de l'avenant n° 1 à la convention n°2019/GON/02 de création et d'exploitation d'une ferme aquacole dénommée « Power Fish Pisciculture ».",
+      "date_hijri": "6 chaabane 1447",
+      "date_gregorian": "2026-01-26",
+      "decree_date_hijri": "6 chaabane 1447",
+      "decree_date_gregorian": "2026-01-26",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": "Le ministre délégué auprès de la ministre de l'économie l'agriculture, de la pêche maritime, et des finances, chargé du budget",
+          "name": "FOUZI LEKJAA",
+          "type": "contreseing"
+        },
+        {
+          "role": "La secrétaire d'Etat auprès du ministre de du développement rural et des eaux et forêts, chargée de la pêche maritime",
+          "name": "ZAKIA DRIOUICH",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "content": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 492-26 du 6 chaabane 1447 (26 janvier 2026) portant publication de\nl'extrait de l'avenant n° 1 à la convention n°2019/GON/02 de création et d'exploitation d'une ferme aquacole\ndénommée « Power Fish Pisciculture ».\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS, CHARGÉE DE LA PÊCHE MARITIME,\nVu l'arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux\net forêts et du ministre de l'économie, des finances et de la réforme de l'administration n° 689-20 du 23 joumada II\n1441 (18 février 2020) autorisant la société « POWER FISH Sarl » pour la création et l'exploitation d'une ferme\naquacole dénommée « Power Fish Pisciculture » et portant publication de l'extrait de la convention y afférente ;\nConsidérant l'avenant n° 1 à la convention n° 2019/GON/02 de création et d'exploitation d'une ferme\naquacole signé le 30 kaada 1446 (28 mai 2025) entre la société « POWER FISH Sarl » et la secrétaire d'Etat\nauprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée\nde la pêche maritime et approuvé par le ministre délégué auprès de la ministre de l'économie et des finances\nchargé du budget,\nARRÊTENT :\n\nL'extrait de l'avenant n° 1 à la convention n°2019/GON/02, visé ci-dessus, est annexé\nau présent arrêté conjoint.\n\nLe présent arrêté conjoint sera publié au Bulletin officiel.\nRabat, le 6 chaabane 1447 (26 janvier 2026).\nLa secrétaire d'Etat auprès du ministre de\nLe ministre délégué\nauprès de la ministre de l'économie\nl'agriculture, de la pêche maritime,\ndu développement rural et des eaux\net forêts, chargée de la pêche maritime,\net des finances, chargé du budget,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n\nAnnexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget\net de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime n° 492-26 du 6 chaabane 1447 (26 janvier 2026) portant publication de l'extrait de l'avenant\nn° 1 à la convention n°2019/GON/02 de création et d'exploitation d'une ferme aquacole dénommée « Power Fish Pisiculture »\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.725,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "493-26",
       "article_indices": [
         23,
@@ -5306,10 +5457,42 @@
         "art_493_26_3",
         "art_493_26_4",
         "art_493_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 493-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société « MEJILLONS LABOUIRDA Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée « Mejillons Labouirda-Cintra » et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "6 chaabane 1447",
+      "date_gregorian": "2026-01-26",
+      "decree_date_hijri": "6 chaabane 1447",
+      "decree_date_gregorian": "2026-01-26",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": "La secrétaire d'Etat auprès du ministre de l'agriculture",
+          "name": "FOUZI LEKJAA",
+          "type": "contreseing"
+        },
+        {
+          "role": "Le ministre délégué auprès de la ministre de l'économie de la pêche maritime, du développement rural et des eaux et forêts, chargée et des finances, chargé du budget, de la pêche maritime",
+          "name": "ZAKIA DRIOUICH",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "content": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des\neaux et forêts, chargée de la pêche maritime n° 493-26\ndu 6 chaabane 1447 (26 janvier 2026) autorisant la société\n«  MEJILLONS LABOUIRDA Sarl AU  » pour la\ncréation et l'exploitation d'une ferme aquacole dénommée\n« Mejillons Labouirda-Cintra » et portant publication de\nl'extrait de la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)\nfixant les conditions et les modalités de délivrance\net de renouvellement des autorisations d'établissement\nde pêche maritime, tel que modifié et complété, notamment\nses articles 7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de la\nministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts n° 2561-24\ndu 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle de\nconvention de concession y afférent, tel que modifié et\ncomplété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde ferme aquacole n° 2023/DOE/505 signée le 19 ramadan 1446\n(20 mars 2025) entre la société « MEJILLONS LABOUIRDA\nSarl AU  » et la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime et approuvée\npar le ministre délégué auprès de la ministre de l'économie et\ndes finances, chargé du budget,\nARRÊTENT :\n\nLa société «  MEJILLONS\nLABOUIRDA Sarl AU  », immatriculée au registre de\ncommerce de Laâyoune sous le numéro 41127 est autorisée à\ncréer et exploiter, dans les conditions fixées par la convention de\ncréation et d'exploitation de ferme aquacole n° 2023/DOE/505\nsignée le 19 ramadan 1446 (20 mars 2025) entre ladite société\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime, une ferme aquacole dénommée\n« Mejillons Labouirda-Cintra » pour l'élevage, en mer au large\nde Cintra, de l'huître creuse « Crassostrea gigas ».\n\nLe registre tenu par la société « MEJILLONS\nLABOUIRDA Sarl AU », en application des dispositions de\nl'article 28-1 du dahir portant loi n° 1-73-255 du 27 chaoual\n1393 (23 novembre 1973) susvisé, répertorie dans l'ordre\nchronologique, ventilé par espèce, les entrées et les sorties de\nl'huître creuse « Crassostrea gigas », élevée.\n\nL'extrait de la convention n° 2023/DOE/505\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\n\nLe présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 6 chaabane 1447 (26 janvier 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nLe ministre délégué auprès\nde la ministre de l'économie\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\net des finances,\nchargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n\nAnnexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget\net de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime n° 493-26 du 6 chaabane 1447 (26 janvier 2026) autorisant la société\n« MEJILLONS LABOUIRDA Sarl AU » pour la création et l'exploitation d'une ferme aquacole\ndénommée « Mejillons Labouirda-Cintra » et portant publication de l'extrait de la convention y afférente\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.693,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "494-26",
       "article_indices": [
         28,
@@ -5326,10 +5509,42 @@
         "art_494_26_3",
         "art_494_26_4",
         "art_494_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 494-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société « WEST LEOCEANIC Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée « West Leoceanic Cintra » et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "6 chaabane 1447",
+      "date_gregorian": "2026-01-26",
+      "decree_date_hijri": "6 chaabane 1447",
+      "decree_date_gregorian": "2026-01-26",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": "La secrétaire d'Etat auprès du ministre de l'agriculture",
+          "name": "FOUZI LEKJAA",
+          "type": "contreseing"
+        },
+        {
+          "role": "Le ministre délégué auprès de la ministre de l'économie de la pêche maritime, du développement rural et des eaux et forêts, chargée et des finances, chargé du budget, de la pêche maritime",
+          "name": "ZAKIA DRIOUICH",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "content": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des\neaux et forêts, chargée de la pêche maritime n° 494-26\ndu 6 chaabane 1447 (26 janvier 2026) autorisant la société\n« WEST LEOCEANIC Sarl AU » pour la création et\nl'exploitation d'une ferme aquacole dénommée « West\nLeoceanic Cintra » et portant publication de l'extrait de\nla convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n° 1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)\nfixant les conditions et les modalités de délivrance\net de renouvellement des autorisations d'établissement\nde pêche maritime, tel que modifié et complété, notamment\nses articles 7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de la\nministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts n° 2561-24\ndu 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle de\nconvention de concession y afférent, tel que modifié et\ncomplété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde ferme aquacole n° 2024/DOE/521 signée le 16 ramadan 1446\n(17 mar.s 2025) entre la société « WEST LEOCEANIC Sarl\nAU » et la secrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime et approuvée par le\nministre délégué auprès de la ministre de l'économie et des\nfinances, chargé du budget,\nARRÊTENT :\n\nLa société « WEST LEOCEANIC\nSarl AU  », immatriculée au registre de commerce de\nCasablanca sous le numéro 438355 est autorisée à créer et\nexploiter, dans les conditions fixées par la convention de\ncréation et d'exploitation de ferme aquacole n° 2024/DOE/521\nsignée le 16 ramadan 1446 (17 mars 2025) entre ladite société\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime, une ferme aquacole dénommée\n« West Leoceanic Cintra » pour l'élevage, en mer au large de\nCintra, des espèces halieutiques suivantes :\n– la moule des espèces « Mytilus galloprovincialis » et\n« Perna perna » ;\n– l'huître creuse « Crassostrea gigas ».\n\nLe registre tenu par la société «  WEST\nLEOCEANIC Sarl AU », en application des dispositions de\nl'article 28-1 du dahir portant loi n° 1-73-255 du 27 chaoual\n1393 (23 novembre 1973) susvisé, répertorie, dans l'ordre\nchronologique, ventilé par espèce, les entrées et les sorties de\nla moule des espèces « Mytilus galloprovincialis » et « Perna\nperna » et de l'huître creuse « Crassostrea gigas », élevée.\n\nL'extrait de la convention n° 2024/DOE/521\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\n\nLe présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 6 chaabane 1447 (26 janvier 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nLe ministre délégué auprès\nde la ministre de l'économie\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\net des finances,\nchargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n\nAnnexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget\net de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime n° 494-26 du 6 chaabane 1447 (26 janvier 2026) autorisant la société\n« WEST LEOCEANIC Sarl AU » pour la création et l'exploitation d'une ferme aquacole\ndénommée « West Leoceanic Cintra » et portant publication de l'extrait de la convention y afférente\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.715,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "495-26",
       "article_indices": [
         33,
@@ -5346,10 +5561,42 @@
         "art_495_26_3",
         "art_495_26_4",
         "art_495_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 495-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société «PRO AQUACULTURE COMPANY Sarl» pour la création et l'exploitation d'une ferme aquacole dénommée «Pro Aquaculture Company» et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "22 ramadan 1447",
+      "date_gregorian": "2026-03-12",
+      "decree_date_hijri": "22 ramadan 1447",
+      "decree_date_gregorian": "2026-03-12",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": "La secrétaire d'Etat auprès du ministre de l'agriculture",
+          "name": "FOUZI LEKJAA",
+          "type": "contreseing"
+        },
+        {
+          "role": "Le ministre délégué auprès de la ministre de l'économie de la pêche maritime, du développement rural et des eaux et forêts, chargée et des finances, chargé du budget, de la pêche maritime",
+          "name": "ZAKIA DRIOUICH",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "content": "Arrêté conjoint du ministre délégué auprès de la ministre\nde l'économie et des finances, chargé du budget et de\nla secrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n° 495-26 du\n22 ramadan 1447 (12 mars 2026) autorisant la société\n«PRO AQUACULTURE COMPANY Sarl» pour la\ncréation et l'exploitation d'une ferme aquacole dénommée\n«Pro Aquaculture Company» et portant publication de\nl'extrait de la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n°2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de la\nministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle de\nconvention de concession y afférent, tel que modifié et\ncomplété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant les\nmontants et les modalités de paiement de la redevance annuelle\ndue au titre des conventions de concession de ferme aquacole,\ntel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde ferme aquacole n° 2024/DOE/524, signée le 12 ramadan\n1446 (13 mars 2025) entre la société «PRO AQUACULTURE\nCOMPANY Sarl» et la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural et\ndes eaux et forêts, chargée de la pêche maritime et approuvée\npar le ministre délégué auprès de la ministre de l'économie et\ndes finances, chargé du budget,\nARRÊTENT :\n\nLa société « PRO AQUACULTURE\nCOMPANY Sarl », immatriculée au registre de commerce de\nDakhla sous le numéro 18403 est autorisée à créer et exploiter,\ndans les conditions fixées par la convention de création et\nd'exploitation de ferme aquacole n° 2024/DOE/524 signée\nle 12 ramadan 1446 (13 mars 2025) entre ladite société et la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime, une ferme aquacole dénommée\n«Pro Aquaculture Company» pour l'élevage, en mer au large\nde Cintra de l'huître creuse «Crassostrea gigas».\n\nLe registre tenu par la société «PRO\nAQUACULTURE COMPANY Sarl», en application des\ndispositions de l'article 28-1 du dahir portant loi n°1-73-255\ndu 27 chaoual 1393 (23 novembre 1973) susvisé, répertorie,\ndans l'ordre chronologique, ventilé par espèce, les entrées et\nles sorties de l'huître creuse «Crassostrea gigas», élevée.\n\nL'extrait de la convention n° 2024/DOE/524\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\n\nLe présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 22 ramadan 1447 (12 mars 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nLe ministre délégué auprès\nde la ministre de l'économie\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\net des finances,\nchargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n\nAnnexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget\net de la Secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime n°495-26 du 22 ramadan 1447 (12 mars 2026) autorisant la société «PRO AQUACULTURE\nCOMPANY Sarl» pour la création et l'exploitation d'une ferme aquacole dénommée «Pro Aquaculture Company» et portant\npublication de l'extrait de la convention y afférente",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.702,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "496-26",
       "article_indices": [
         38,
@@ -5366,10 +5613,42 @@
         "art_496_26_3",
         "art_496_26_4",
         "art_496_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 496-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société «ALGUES EPICURIENNES Sarl AU» pour la création et l'exploitation d'une ferme aquacole dénommée «Algues Epicuriennes» et portant publication de l'extrait de la convention y afférente.",
+      "date_hijri": "22 ramadan 1447",
+      "date_gregorian": "2026-03-12",
+      "decree_date_hijri": "22 ramadan 1447",
+      "decree_date_gregorian": "2026-03-12",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": "La secrétaire d'Etat auprès du ministre de l'agriculture",
+          "name": "FOUZI LEKJAA",
+          "type": "contreseing"
+        },
+        {
+          "role": "Le ministre délégué auprès de la ministre de l'économie de la pêche maritime, du développement rural et des eaux et forêts, chargée et des finances, chargé du budget, de la pêche maritime",
+          "name": "ZAKIA DRIOUICH",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "content": "Arrêté conjoint du ministre délégué auprès de la ministre\nde l'économie et des finances, chargé du budget  et de\nla secrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et\ndes eaux et forêts, chargée de la pêche maritime\nn°496-26 du 22 ramadan 1447 (12 mars 2026) autorisant la\nsociété «ALGUES EPICURIENNES Sarl AU» pour la\ncréation et l'exploitation d'une ferme aquacole dénommée\n«Algues Epicuriennes» et portant publication de l'extrait\nde la convention y afférente.\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n°2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modiféi et complété, notamment ses articles 7,\n7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de la\nministre de l'économie et des finances chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle de\nconvention de concession y afférent, tel que modifié et\ncomplété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant les\nmontants et les modalités de paiement de la redevance annuelle\ndue au titre des conventions de concession de ferme aquacole,\ntel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde ferme aquacole n° 2024/ORI/520 signée le 19 ramadan 1446\n(20 mars 2025) entre la société «ALGUES EPICURIENNES\nSarl AU» et la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime et approuvée\npar le ministre délégué auprès de la ministre de l'économie et\ndes finances, chargé du budget,\nARRÊTENT :\n\nLa société «ALGUES\nEPICURIENNES Sarl AU», immatriculée au registre de\ncommerce de Rabat sous le numéro 160327 est autorisée à créer\net exploiter, dans les conditions fixées par la convention de\ncréation et d'exploitation de ferme aquacole n° 2024/ORI/520\nsignée le 19 ramadan 1446 (20 mars 2025) entre ladite société\net la secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime, une ferme aquacole dénommée\n«Algues Epicuriennes» pour la culture, au niveau de la lagune\nMarchica, des algues des espèces suivantes :\n– «Gracilaria gracilis» ;\n– «Laminaria ochroleuca» ;\n– «Gelidium sesquipedale» ;\n– «Saccorhiza polyschides» ;\n– «Grateloupia filicina» ;\n– «Codium tomentosum» ;\n– «Ulva lactuca» ;\n– «Cystoseira tamariscifolia».\n\nLe registre tenu par la société «ALGUES\nEPICURIENNES Sarl AU», en application des dispositions\nde l'article 28-1 du dahir portant loi n°1-73-255 du 27 chaoual\n1393 (23 novembre 1973) susvisé, répertorie, dans l'ordre\nchronologique, ventilé par espèce, les entrées et les sorties\ndes  algues des espèces «Gracilaria gracilis», «Laminaria\nochroleuca», «Gelidium sesquipedale», «Saccorhiza polyschides»,\n«Grateloupia filicina», «Codium tomentosum», «Ulva lactuca»\net «Cystoseira tamariscifolia», cultivées.\n\nL'extrait de la convention n° 2024/ORI/520\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\n\nLe présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 22 ramadan 1447 (12 mars 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nLe ministre délégué auprès\nde la ministre de l'économie\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\net des finances,\nchargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n\nAnnexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget\net de la Secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime n°496-26 du 22 ramadan 1447 (12 mars 2026) autorisant\nla société «ALGUES EPICURIENNES Sarl AU» pour la création et l'exploitation d'une ferme aquacole\ndénommée «Algues Epicuriennes» et portant publication de l'extrait de la convention y afférente",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.708,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "ARRETE",
+      "instrument_type": "ARRETE_CONJOINT",
       "reference": "497-26",
       "article_indices": [
         43,
@@ -5386,7 +5665,39 @@
         "art_497_26_3",
         "art_497_26_4",
         "art_497_26_5"
-      ]
+      ],
+      "type": "ARRETE_CONJOINT",
+      "reference_label": "arrêté conjoint n° 497-26",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime autorisant la société « LA PERLE AQUACULTURE Sarl » pour la création et l'exploitation d'une ferme aquacole dénommée « La Perle Aquaculture » et portant publication de l'extrait de la convention y afférente",
+      "date_hijri": "22 ramadan 1447",
+      "date_gregorian": "2026-03-12",
+      "decree_date_hijri": "22 ramadan 1447",
+      "decree_date_gregorian": "2026-03-12",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": "La secrétaire d'Etat auprès du ministre de l'agriculture",
+          "name": "FOUZI LEKJAA",
+          "type": "contreseing"
+        },
+        {
+          "role": "Le ministre délégué auprès de la ministre de l'économie de la pêche maritime, du développement rural et des eaux et forêts, chargée et des finances, chargé du budget, de la pêche maritime",
+          "name": "ZAKIA DRIOUICH",
+          "type": "contreseing"
+        }
+      ],
+      "signatories_flat": [
+        "FOUZI LEKJAA",
+        "ZAKIA DRIOUICH"
+      ],
+      "content": "Arrêté conjoint du ministre délégué auprès de la ministre de\nl'économie et des finances, chargé du budget  et de la\nsecrétaire d'Etat auprès du ministre de l'agriculture, de\nla pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime n°497-26 du\n22 ramadan 1447 (12 mars 2026) autorisant la société\n« LA PERLE AQUACULTURE Sarl » pour la création\net l'exploitation d'une ferme aquacole dénommée « La\nPerle Aquaculture » et portant publication de l'extrait de\nla convention y afférente\nLE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE\nL'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,\nLA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE\nL'AGRICULTURE, DE LA PÊCHE MARITIME, DU\nDÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,\nCHARGÉE DE LA PÊCHE MARITIME,\nVu le dahir portant loi n°1-73-255 du 27 chaoual 1393\n(23 novembre 1973) formant règlement sur la pêche maritime,\ntel que modifié et complété, notamment ses articles 28 et 28-1 ;\nVu le décret n°2-08-562 du 13 hija 1429 (12 décembre\n2008) fixant les conditions et les modalités de délivrance et\nde renouvellement des autorisations d'établissement de pêche\nmaritime, tel que modifié et complété, notamment ses articles\n7, 7 bis et 9 ;\nVu l'arrêté de la ministre de l'économie et des finances\nn°3200-21 du 28 rabii I 1443 (4 novembre 2021) portant\ndélégation d'attributions au ministre délégué auprès de\nla ministre de l'économie et des finances, chargé du budget ;\nVu l'arrêté du ministre de l'agriculture, de la pêche\nmaritime, du développement rural et des eaux et forêts\nn°2561-24 du 25 rabii II 1446 (29 octobre 2024) portant délégation\nd'attributions à la secrétaire d'Etat auprès du ministre de\nl'agriculture, de la pêche maritime, du développement rural\net des eaux et forêts, chargée de la pêche maritime ;\nVu l'arrêté du ministre de l'agriculture et de la pêche\nmaritime n°1643-10 du 11 joumada II 1431 (26 mai 2010) relatif\nà la demande d'autorisation de création et d'exploitation\nd'établissement de pêche maritime et fixant le modèle\nde convention de concession y afférent, tel que modifié\net complété, notamment son article 3 ;\nVu l'arrêté conjoint du ministre de l'économie et des\nfinances et du ministre de l'agriculture et de la pêche maritime\nn°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant\nles montants et les modalités de paiement de la redevance\nannuelle due au titre des conventions de concession de ferme\naquacole, tel que modifié et complété ;\nConsidérant la convention de création et d'exploitation\nde ferme aquacole n° 2024/DOE/527 signée le 28 hija 1446\n(25 juin 2025) entre la société «LA PERLE AQUACULTURE\nSarl» et la secrétaire d'Etat auprès du ministre de l'agriculture,\nde la pêche maritime, du développement rural et des eaux\net forêts, chargée de la pêche maritime et approuvée par le\nministre délégué auprès de la ministre de l'économie et des\nfinances, chargé du budget,\nARRÊTENT :\n\nLa société «LA PERLE\nAQUACULTURE Sarl», immatriculée au registre de\ncommerce de Dakhla sous le numéro 22783 est autorisée à créer\net exploiter, dans les conditions fixées par la convention de\ncréation et d'exploitation de ferme aquacole n° 2024/DOE/527,\nsignée le 28 hija 1446 (25 juin 2025) entre ladite société et\nla secrétaire d'Etat auprès du ministre de l'agriculture, de la\npêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime, une ferme aquacole dénommée\n«La Perle Aquaculture» pour l'élevage, en mer au large de\nCintra de l'huître creuse «Crassostrea gigas».\n\nLe registre tenu par la société «LA PERLE\nAQUACULTURE Sarl», en application des dispositions de\nl'article 28-1 du dahir portant loi n°1-73-255 du 27 chaoual\n1393 (23 novembre 1973) susvisé, répertorie, dans l'ordre\nchronologique, ventilé par espèce, les entrées et les sorties de\nl'huître creuse «Crassostrea gigas», élevée.\n\nL'extrait de la convention n° 2024/DOE/527\nmentionnée à l'article premier ci-dessus est annexé au présent\narrêté conjoint.\n\nLe présent arrêté conjoint sera publié au\nBulletin officiel.\nRabat, le 22 ramadan 1447 (12 mars 2026).\nLa secrétaire d'Etat auprès\ndu ministre de l'agriculture,\nLe ministre délégué auprès\nde la ministre de l'économie\nde la pêche maritime,\ndu développement rural\net des eaux et forêts, chargée\net des finances,\nchargé du budget,\nde la pêche maritime,\nFOUZI LEKJAA.\nZAKIA DRIOUICH.\n\nAnnexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget\net de la Secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts,\nchargée de la pêche maritime n°497-26 du 22 ramadan 1447 (12 mars 2026) autorisant la société\n«LA PERLE AQUACULTURE Sarl» pour la création et l'exploitation d'une ferme aquacole dénommée\n«La Perle Aquaculture» et portant publication de l'extrait de la convention y afférente",
+      "domain": {
+        "label": "Environnement",
+        "confidence": 0.707,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -5400,7 +5711,31 @@
       "article_ids": [
         "art_299_26_1",
         "art_299_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 299-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la liste des diplômes reconnus équivalents au diplôme d'architecte de l'Ecole nationale d'architecture.",
+      "date_hijri": "16 chaabane 1447",
+      "date_gregorian": "2026-02-05",
+      "decree_date_hijri": "16 chaabane 1447",
+      "decree_date_gregorian": "2026-02-05",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "AZZEDDINE EL MIDAOUI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "AZZEDDINE EL MIDAOUI",
+      "content": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 299-26 du 16 chaabane 1447\n(5 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 20 novembre 2025,\n\nL'article premier de l'arrêté susvisé\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est\ncomplété comme suit :\n« Article premier. – La liste des diplômes reconnus\n« équivalents au diplôme d'architecte de l'Ecole nationale\n« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du\n« baccalauréat, série scientifique ou technique ou d'un diplôme\n« reconnu équivalent, est fixée ainsi qu'il suit :\n« – Master's degree field of study « architecture and\n« construction » programme subject area « architecture\n« and town planning », délivré en date du 31 mai 2023\n« par O.M.Beketov national University of urban economy\n« in Kharkiv - Ukraine, assorti du bachelor's degree feild\n« of study « architecture and construction » program\n« subject area « architecture and town planning »,\n« délivré en date du 30 juin 2021 par Kharkiv national\n« University of civil engineering and architecture -\n«  Ukraine et d'une attestation de validation du\n«  complément de formation, délivrée par l'Ecole\n« nationale d'architecture de Rabat. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 16 chaabane 1447 (5 février 2026).\nAZZEDDINE EL MIDAOUI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "domain": {
+        "label": "Urbain",
+        "confidence": 0.456,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -5414,7 +5749,31 @@
       "article_ids": [
         "art_352_26_1",
         "art_352_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 352-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la liste des diplômes reconnus équivalents au diplôme d'architecte de l'Ecole nationale d'architecture.",
+      "date_hijri": "23 chaabane 1447",
+      "date_gregorian": "2026-02-12",
+      "decree_date_hijri": "23 chaabane 1447",
+      "decree_date_gregorian": "2026-02-12",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "AZZEDDINE EL MIDAOUI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "AZZEDDINE EL MIDAOUI",
+      "content": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 352-26 du 23 chaabane 1447\n(12 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 20 novembre 2025,\n\nL'article premier de l'arrêté susvisé\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est\ncomplété comme suit :\n« Article premier. – La liste des diplômes reconnus\n« équivalents au diplôme d'architecte de l'Ecole nationale\n« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du\n« baccalauréat, série scientifique ou technique ou d'un diplôme\n« reconnu équivalent, est fixée ainsi qu'il suit :\n« – Master's degree field of study « architecture and\n« construction » programme subject area « architecture\n« and town planning », délivré en date du 31 mai 2023 par\n« O.M. Beketov national University of urban economy\n« in Kharkiv - Ukraine, assorti du bachelor's degree\n«  field of study « architecture and construction  »\n«  program subject area « architecture and town\n«  planning», délivré en date du 30 juin 2021 par\n« Kharkiv national University of civil engineering\n« and architecture - Ukraine et d'une attestation de\n« validation du complément de formation, délivrée\n« par l'Ecole nationale d'architecture de Rabat. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 23 chaabane 1447 (12 février 2026).\nAZZEDDINE EL MIDAOUI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7497 du 18 chaoual 1447 (6 avril 2026).",
+      "domain": {
+        "label": "Urbain",
+        "confidence": 0.472,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -5428,7 +5787,31 @@
       "article_ids": [
         "art_353_26_1",
         "art_353_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 353-26",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation complétant l'arrêté n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la liste des diplômes reconnus équivalents au diplôme d'architecte de l'Ecole nationale d'architecture.",
+      "date_hijri": "23 chaabane 1447",
+      "date_gregorian": "2026-02-12",
+      "decree_date_hijri": "23 chaabane 1447",
+      "decree_date_gregorian": "2026-02-12",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "AZZEDDINE EL MIDAOUI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "AZZEDDINE EL MIDAOUI",
+      "content": "Arrêté du ministre de l'enseignement supérieur, de la recherche\nscientifique et de l'innovation n° 353-26 du 23 chaabane 1447\n(12 février 2026) complétant l'arrêté n°  2797-95 du\n20 joumada II 1416 (14 novembre 1995) fixant la liste des\ndiplômes reconnus équivalents au diplôme d'architecte de\nl'Ecole nationale d'architecture.\nLE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA\nRECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,\nVu l'arrêté du ministre de l'enseignement supérieur,\nde la formation des cadres et de la recherche scientifique\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la\nliste des diplômes reconnus équivalents au diplôme d'architecte\nde l'Ecole nationale d'architecture, tel qu'il a été complété ;\nVu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)\nrelatif aux attributions du ministre de l'enseignement supérieur,\nde la recherche scientifique et de l'innovation ;\nSur proposition de la ministre de l'aménagement\ndu territoire national, de l'urbanisme, de l'habitat et de la\npolitique de la ville ;\nAprès avis du conseil national de l'Ordre national des\narchitectes ;\nAprès avis de la commission sectorielle des sciences,\ntechniques, ingénierie et architecture du 20 novembre 2025,\n\nL'article premier de l'arrêté susvisé\nn° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est\ncomplété comme suit :\n« Article premier. – La liste des diplômes reconnus\n« équivalents au diplôme d'architecte de l'Ecole nationale\n« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du\n« baccalauréat, série scientifique ou technique ou d'un diplôme\n« reconnu équivalent, est fixée ainsi qu'il suit :\n« – Master's degree program subject area «architecture\n«  and construction» programme subject area\n« «architecture and town planning», délivré en date\n« du 27 septembre 2023 par O.M. Beketov national\n« University of urban economy in Kharkiv - Ukraine,\n« assorti du bachelor's degree feild of study «architecture\n« and construction» program subject area «architecture\n« and town planning», délivré en date du 30 juin 2021\n« par Kharkiv national University of civil engineering\n« and architecture - Ukraine et d'une attestation de\n« validation du complément de formation, délivrée par\n« l'Ecole nationale d'architecture de Rabat. »\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 23 chaabane 1447 (12 février 2026).\nAZZEDDINE EL MIDAOUI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7497 du 18 chaoual 1447 (6 avril 2026).",
+      "domain": {
+        "label": "Urbain",
+        "confidence": 0.468,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -5444,7 +5827,31 @@
         "art_593_26_1",
         "art_593_26_2",
         "art_593_26_3"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 593-26",
+      "title": "Arrêté de la ministre de la transition énergétique et du développement durable ordonnant une enquête de commodo et incommodo dans la commune de Jbilate, Caïdat de Jbilate, cercle de Sidi Bou Othmane, province de Rhamna, sur l'établissement d'un (01) dépôt mixte d'explosifs permanent du type enterré.",
+      "date_hijri": "20 ramadan 1447",
+      "date_gregorian": "2026-03-10",
+      "decree_date_hijri": "20 ramadan 1447",
+      "decree_date_gregorian": "2026-03-10",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "LEILA BENALI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "LEILA BENALI",
+      "content": "Arrêté de la ministre de la transition énergétique et du\ndéveloppement durable n° 593-26 du 20 ramadan 1447\n(10 mars 2026) ordonnant une enquête de commodo et\nincommodo dans la commune de Jbilate, Caïdat de Jbilate,\ncercle de Sidi Bou Othmane, province de Rhamna, sur\nl'établissement d'un (01) dépôt mixte d'explosifs permanent\ndu type enterré.\nLA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU\nDÉVELOPPEMENT DURABLE,\nVu le dahir du 17 safar 1332 (14 janvier 1914) réglementant\nl'importation, la circulation et la vente des explosifs au Maroc\net fixant les conditions d'installation des dépôts, tel qu'il a été\nmodifié et complété ;\nVu l'arrêté viziriel du 24 joumada I 1373 (30 janvier 1954)\nfixant certaines modalités d'application du dahir du 17 safar\n1332 (14 janvier 1914) précité ;\nVu l'arrêté du directeur de la production industrielle et\ndes mines du 3 joumada I 1374 (29 décembre 1954) réglementant\nles conditions techniques d'emmagasinage des explosifs,\ndétonateurs et artifices de mise à feu d'explosifs, tel qu'il a été\nmodifié et complété par l'arrêté du ministre de l'industrie, du\ncommerce, de l'énergie et des mines n° 167-01 du 21 chaoual\n1421 (16 janvier 2001) ;\nVu la demande, du 18 septembre 2025, présentée par la\nCompagnie Africaine des Explosifs (CADEX) dont le siège\nsocial est à Casablanca, lot. La Colline-imm. « Les Quatre\nTemps », porte A - 5ème étage - Sidi Maârouf - 20190, à l'effet\nd'être autorisée à établir un (01) dépôt mixte d'explosifs\npermanent du type enterré, situé dans la Commune de Jbilate,\nCaïdat de Jbilate, cercle de Sidi Bou Othmane, province de\nRhamna ;\nVu les plans annexés à cette demande,\n\nUne enquête de commodo et\nincommodo, dans la Commune de Jbilate, Caïdat de Jbilate,\ncercle de Sidi Bou Othmane, province de Rhamna, d'une\ndurée d'un mois, est ouverte du 15 avril au 14 mai 2026, sur la\ndemande présentée par la Compagnie Africaine Des Explosifs\n(CADEX), à l'effet d'être autorisée à établir un (01) dépôt mixte\nd'explosifs permanent et du type enterré de capacité égale à\n30.000 kilogrammes d'explosifs de la classe I ou d'une quantité\néquivalente d'une autre classe.\n\nCet arrêté reste affiché, pendant le délai d'un\nmois à partir de la date fixée pour l'ouverture de l'enquête, au\nsiège de la Caïdat de Jbilate, chargée de l'enquête.\nCette Caïdat doit, en outre, en assurer sa publication à\ntrois reprises et à huit jours d'intervalle dans les divers marchés\nsitués dans un rayon de 5 kilomètres autour du lieu de cette\ninstallation.\nLes intéressés peuvent, pendant la durée de l'enquête,\nconsulter les plans et déposer leurs réclamations sur le registre\nouvert, à cet effet, au siège de la Caïdat de Jbilate.\n\nLe présent arrêté est publié au Bulletin officiel\net notifié à la Compagnie Africaine des Explosifs (CADEX).\nRabat, le 20 ramadan 1447 (10 mars 2026).\nLEILA BENALI.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7498 du 21 chaoual 1447 (9 avril 2026).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.554,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -5462,7 +5869,31 @@
         "art_542_26_2",
         "art_542_26_3",
         "art_542_26_4"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 542-26",
+      "title": "Arrêté du ministre de l'industrie et du commerce relatif à l'extension de l'agrément de la société Analysis and Control Laboratory (ACLAB) pour l'évaluation de la conformité des produits industriels.",
+      "date_hijri": "21 ramadan 1447",
+      "date_gregorian": "2026-03-11",
+      "decree_date_hijri": "21 ramadan 1447",
+      "decree_date_gregorian": "2026-03-11",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "RYAD MEZZOUR",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "RYAD MEZZOUR",
+      "content": "Arrêté du ministre de l'industrie et du commerce n°542-26 du\n21 ramadan 1447 (11 mars 2026) relatif à l'extension de\nl'agrément de la société Analysis and Control Laboratory\n(ACLAB) pour l'évaluation de la conformité des produits\nindustriels.\nLE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,\nVu la loi n° 24-09 relative à la sécurité des produits et\ndes services et complétant le dahir du 9 ramadan 1331 (12 août\n1913) formant code des obligations et des contrats, promulguée\npar le dahir n°1-11-140 du 16 ramadan 1432 (17 août 2011)\nnotamment ses articles 21 et 22 ;\nVu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris\npour l'application du titre premier de la loi n° 24-09 relative à\nla sécurité des produits et des services et complétant le dahir\ndu 9 ramadan 1331 (12 août 1913) formant code des obligations\net des contrats, notamment ses article 4 et 5 ;\nVu l'arrêté du ministre de l'industrie, du commerce,\nde l'investissement et de l'économie numérique, n° 3873-13\ndu 22 safar 1435 (26 décembre 2013) relatif à l'agrément des\norganismes d'évaluation de la conformité, tel que modifié,\nnotamment ses articles 7, 8, 10 et 11 ;\nVu l'arrêté du ministre de l'industrie, du commerce\net de l'économie verte et numérique n° 2253-21 du 26 hija 1442\n(6 août 2021) relatif à l'octroi de l'agrément de la société\nAnalysis and Control Laboratory (ACLAB) pour l'évaluation\nde la conformité des produits industriels ;\nVu l'arrêté du ministre de l'industrie et du commerce\nn° 1532-22 du 1er kaada 1443 (1er juin 2022) relatif à l'extension\nde l'agrément de la société Analysis and Control Laboratory\n(ACLAB) pour l'évaluation de la conformité des produits\nindustriels ;\nVu l'arrêté du ministre de l'industrie et du commerce\nn° 1175-23 du 17 chaoual 1444 (8 mai 2023) relatif à l'extension\nde l'agrément de la société Analysis and Control Laboratory\n(ACLAB) pour l'évaluation de la conformité des produits\nindustriels ;\nVu l'arrêté du ministre de l'industrie et du commerce\nn° 3192-24 du 18 joumada II 1446 (20 décembre 2024) relatif\nà l'extension de l'agrément de la société Analysis and Control\nLaboratory (ACLAB) pour l'évaluation de la conformité des\nproduits industriels,\n\nL'agrément de la société Analysis\nand Control Laboratory (ACLAB), numéro de patente\n31590749, numéro du registre du commerce 24015, est étendu\npour effectuer les évaluations de la conformité des «Tabac\nmuassel », « Cigarettes électroniques », «E-liquide » et\n« Sachets de nicotine », et ce pour la durée de validité restante\nde l'agrément initial.\n\nLedit agrément est octroyé pour les prestations\nexercées dans le site « Analysis And Control Laboratory\n(ACLAB) » sis au « Lot 182, zone industrielle, Mohammedia ».\n\nLe numéro d'identification de l'organisme est :\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 21 ramadan 1447 (11 mars 2026).\nRYAD MEZZOUR.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.576,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -5476,7 +5907,31 @@
       "article_ids": [
         "art_648_26_1",
         "art_648_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 648-26",
+      "title": "Arrêté de la ministre de l'économie et des finances portant agrément de la société de bourse « Attijari Intermédiation » en qualité de membre négociateur sur le marché à terme d'instruments financiers.",
+      "date_hijri": "13 chaoual 1447",
+      "date_gregorian": "2026-04-01",
+      "decree_date_hijri": "13 chaoual 1447",
+      "decree_date_gregorian": "2026-04-01",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "NADIA FETTAH",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "NADIA FETTAH",
+      "content": "Arrêté de la ministre de l'économie et des finances n° 648-26 du\n13 chaoual 1447 (1er avril 2026) portant agrément de la\nsociété de bourse « Attijari Intermédiation » en qualité de\nmembre négociateur sur le marché à terme d'instruments\nfinanciers.\nLA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,\nVu la loi n° 42-12 relative au marché à terme d'instruments\nfinanciers, promulguée par le dahir n° 1-14-96 du 20 rejeb 1435\n(20 mai 2014), notamment ses articles 55 et 59 ;\nAprès avis de l'instance de coordination du marché à\nterme,\n\nEst octroyé un agrément en qualité\nde membre négociateur sur le marché à terme d'instruments\nfinanciers à la société de bourse « Attijari Intermédiation »\npour l'exercice de l'activité de négociation d'instruments\nfinanciers à terme.\n\nLe présent arrêté est publié au Bulletin officiel.\nRabat, le 13 chaoual 1447 (1er avril 2026).\nNADIA FETTAH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7497 du 18 chaoual 1447 (6 avril 2026).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.689,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "ARRETE",
@@ -5490,30 +5945,95 @@
       "article_ids": [
         "art_649_26_1",
         "art_649_26_2"
-      ]
+      ],
+      "type": "ARRETE",
+      "reference_label": "arrêté n° 649-26",
+      "title": "Arrêté de la ministre de l'économie et des finances portant agrément de la société de bourse « Upline Securities » en qualité de membre négociateur sur le marché à terme d'instruments financiers.",
+      "date_hijri": "13 chaoual 1447",
+      "date_gregorian": "2026-04-01",
+      "decree_date_hijri": "13 chaoual 1447",
+      "decree_date_gregorian": "2026-04-01",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "NADIA FETTAH",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "NADIA FETTAH",
+      "content": "Arrêté de la ministre de l'économie et des finances n° 649-26\ndu 13 chaoual 1447 (1er avril 2026) portant agrément de\nla société de bourse « Upline Securities » en qualité de\nmembre négociateur sur le marché à terme d'instruments\nfinanciers.\nLA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,\nVu la loi n° 42-12 relative au marché à terme d'instruments\nfinanciers, promulguée par le dahir n° 1-14-96 du 20 rejeb 1435\n(20 mai 2014), notamment ses articles 55 et 59 ;\nAprès avis de l'instance de coordination du marché à\nterme,\n\nEst octroyé un agrément en qualité\nde membre négociateur sur le marché à terme d'instruments\nfinanciers à la société de bourse « Upline Securities » pour\nl'exercice de l'activité de négociation d'instruments financiers\nà terme.\n\nLe présent arrêté est publié au Bulletin officiel.\nRabat, le 13 chaoual 1447 (1er avril 2026).\nNADIA FETTAH.\nLe texte en langue arabe a été publié dans l'édition générale du\n« Bulletin officiel » n° 7497 du 18 chaoual 1447 (6 avril 2026).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.684,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
       "instrument_type": "DECISION",
-      "reference": null,
+      "reference": "162",
       "article_indices": [
         65,
         66
       ],
       "n_articles": 2,
-      "instrument_id": "instr_18",
+      "instrument_id": "instr_162",
       "article_ids": [
-        "art_18_1",
-        "art_18_2"
-      ]
+        "art_162_1",
+        "art_162_2"
+      ],
+      "type": "DECISION",
+      "reference_label": "décision n° 162",
+      "title": "Décision du Wali de Bank Al-Maghrib portant prorogation du délai de liquidation de la société « SOGEFINANCEMENT ». LE WALI DE BANK AL-MAGHRIB,",
+      "date_hijri": "19 ramadan 1447",
+      "date_gregorian": "2026-03-09",
+      "decree_date_hijri": "19 ramadan 1447",
+      "decree_date_gregorian": "2026-03-09",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [
+        {
+          "role": null,
+          "name": "ABDELLATIF JOUAHRI",
+          "type": "issuer"
+        }
+      ],
+      "signatory": "ABDELLATIF JOUAHRI",
+      "content": "Décision du Wali de Bank Al-Maghrib n° 162 du 19 ramadan\n1447 (9 mars 2026) portant prorogation du délai de\nliquidation de la société « SOGEFINANCEMENT ».\nLE WALI DE BANK AL-MAGHRIB,\nVu la loi n° 103-12 relative aux établissements de crédit et\norganismes assimilés, promulguée par le dahir n° 1-14-193 du\n1er rabii I 1436 (24 décembre 2014), notamment ses articles 144\net 146 ;\nVu la décision du Wali de Bank Al-Maghrib n° 56 du\n27 chaoual 1437 (1er août 2016) portant retrait d'agrément\nà la société « Sogefinancement » en qualité de société de\nfinancement ;\nVu la décision du Wali de Bank Al-Maghrib n° 99\ndu 3 rabii I 1441 (1er novembre 2019) prorogeant le délai de\nliquidation de la société « SOGEFINANCEMENT » ;\nVu la décision du Wali de Bank Al-Maghrib n° 118 du\n27 rabii I 1444 (24 octobre 2022) portant prorogation du délai\nde liquidation de la Société « SOGEFINANCEMENT » ;\nVu que le délai de liquidation de la société\n« SOGEFINANCEMENT » expirera le 19 mars 2026, sans\nque les opérations de liquidation en soient clôturées ;\nVu la demande de prorogation formulée par la société\n« SOGEFINANCEMENT » en date du 27 février 2026,\nDÉCIDE :\n\nEst prorogé pour une\ndurée d'un an (1) le délai de liquidation de la société\n« SOGEFINANCEMENT » prévu par la décision du Wali\nde Bank Al-Maghrib n° 118 susvisée.\n\nLa présente décision est publiée au Bulletin\nofficiel.\nRabat, le 19 ramadan 1447 (9 mars 2026).\nABDELLATIF JOUAHRI.",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.656,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     },
     {
-      "instrument_type": "DECISION",
+      "instrument_type": "AVIS",
       "reference": null,
       "article_indices": [],
       "n_articles": 0,
       "instrument_id": "instr_19",
-      "article_ids": []
+      "article_ids": [],
+      "type": "AVIS",
+      "title": "AVIS ET COMMUNICATIONS Agrément de prestataire de services de confiance conformément aux dispositions de la loi n°43-20 relative aux services de confiance pour les transactions électroniques Par décision n°l/PSCo/2026 du 22 ramadan 1447 (12 mars 2026) de la direction générale de la sécurité des systèmes d'information (DGSSI) relevant de l'Administration de la défense nationale, agissant en sa qualité d'autorité nationale des services de confiance pour les transactions électroniques, la société « Barid Al-Maghrib », dont le siège social est sis Avenue Moulay Ismail, Hassan, Rabat, a été agréée pour une période de trente-six (36) mois, en qualité de prestataire de services de confiance et ce, pour le service suivant : – Horodatage électronique qualifié. Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "date_hijri": "22 ramadan 1447",
+      "date_gregorian": "2026-03-12",
+      "decree_date_hijri": "22 ramadan 1447",
+      "decree_date_gregorian": "2026-03-12",
+      "bo_date_publication": "2026-04-16",
+      "signatories": [],
+      "content": "AVIS ET COMMUNICATIONS\nAgrément de prestataire de services de confiance conformément aux dispositions\nde la loi n°43-20 relative aux services  de confiance pour les transactions électroniques\nPar décision n°l/PSCo/2026 du 22 ramadan 1447 (12 mars 2026) de la direction générale de la sécurité des systèmes\nd'information (DGSSI) relevant de l'Administration de la défense nationale, agissant en sa qualité d'autorité nationale des\nservices de confiance pour les transactions électroniques, la société « Barid Al-Maghrib », dont le siège social est sis Avenue\nMoulay Ismail, Hassan, Rabat, a été agréée pour une période de trente-six (36) mois, en qualité de prestataire de services de\nconfiance et ce, pour le service suivant :\n– Horodatage électronique qualifié.\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7499 du 25 chaoual 1447 (13 avril 2026).",
+      "domain": {
+        "label": "Fiscal",
+        "confidence": 0.532,
+        "method": "fine_tuned_model",
+        "model_id": "camembert-legal-domain-v1",
+        "fallback_used": false
+      }
     }
   ],
-  "n_instruments": 19
+  "n_instruments": 19,
+  "bo_date_publication": "2026-04-16"
 }

@@ -1897,5 +1897,9 @@
   "decrees": [],
   "n_articles": 0,
   "articles": [],
-  "total_pdf_pages": 32
+  "total_pdf_pages": 32,
+  "bo_date_publication": null,
+  "unlinked_tables": [],
+  "n_unlinked_tables": 0,
+  "n_total_tables": 0
 }

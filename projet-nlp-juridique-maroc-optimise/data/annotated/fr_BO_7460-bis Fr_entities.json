@@ -2245,5 +2245,1013 @@
   "decrees": [],
   "n_articles": 0,
   "articles": [],
-  "total_pdf_pages": 183
+  "total_pdf_pages": 183,
+  "bo_date_publication": "2025-11-27",
+  "unlinked_tables": [
+    {
+      "page_number": 1,
+      "bbox": [
+        223.7284,
+        229.5871999999999,
+        427.8228,
+        388.01629999999994
+      ],
+      "n_rows": 3,
+      "n_cols": 3,
+      "rows": [
+        [
+          "TARIFS D’ABONNEMENT",
+          "",
+          ""
+        ],
+        [
+          "AU MAROC\n{\n6 mois 1 an",
+          "",
+          "A L’ETRANGER"
+        ],
+        [
+          "250 DH\n150 DH\n150 DH\n250 DH\n250 DH",
+          "400 DH\n200 DH\n200 DH\n300 DH\n300 DH",
+          "A destination de l’étranger,\npar voies ordinaire, aérienne\nou de la poste rapide interna‑\ntionale, les tarifs prévus ci‑\ncontre sont majorés des frais\nd’envoi, tels qu’ils sont fixés\npar la réglementation postale\nen vigueur."
+        ]
+      ]
+    },
+    {
+      "page_number": 18,
+      "bbox": [
+        -14.173213099999998,
+        49.982114206966685,
+        609.4487869,
+        852.0075085031999
+      ],
+      "n_rows": 2,
+      "n_cols": 2,
+      "rows": [
+        [
+          "",
+          "2990 BULLETIN OFFICIEL Nº 7460 bis – 6 joumada II 1447 (27-11-2025)\nPartie I\nSITUATION ECONOMIQUE, SOCIALE ET"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "bbox": [
+        243.36429500000003,
+        148.1972936,
+        545.97597,
+        229.86457819999993
+      ],
+      "n_rows": 1,
+      "n_cols": 2,
+      "rows": [
+        [
+          "100,0\n90,0\n80,0\n70,0\n60,0 78,4 76,0 76,9 75,9 75,1 75,0\n50,0\n40,0\n30,0\n20,0\n10,0 21,6 24,0 23,1 24,1 24,9 25,0\n0,0\n2019 2020 2021 2022 2023 2024\nPart dette extérieure Part dette intérieure",
+          "30\n25\n20\n15\n10\n5\n0"
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "bbox": [
+        264.75097,
+        153.3593912,
+        273.42296999999996,
+        215.3711950571428
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "78,4"
+        ],
+        [
+          "21,6"
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "bbox": [
+        284.74746999999996,
+        153.3593912,
+        295.58897,
+        215.3711950571428
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "76,0"
+        ],
+        [
+          "24,0"
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "bbox": [
+        308.69497,
+        153.3593912,
+        317.56097,
+        215.3711950571428
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "76,9"
+        ],
+        [
+          "23,1"
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "bbox": [
+        330.66597,
+        153.3593912,
+        339.53297,
+        215.3711950571428
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "75,9"
+        ],
+        [
+          "24,1"
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "bbox": [
+        352.83197,
+        153.3593912,
+        361.50397,
+        215.3711950571428
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "75,1"
+        ],
+        [
+          "24,9"
+        ]
+      ]
+    },
+    {
+      "page_number": 26,
+      "bbox": [
+        374.80297,
+        153.3593912,
+        383.66796999999997,
+        215.3711950571428
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "75,0"
+        ],
+        [
+          "25,0"
+        ]
+      ]
+    },
+    {
+      "page_number": 41,
+      "bbox": [
+        -587.74,
+        -13.232268299999987,
+        1211.5517522,
+        88.76099999999997
+      ],
+      "n_rows": 3,
+      "n_cols": 4,
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Nº 7460 bis – 6 joumada II 1447 (27-11-2025) BULLETIN OFFICIEL 3013",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 42,
+      "bbox": [
+        89.008,
+        722.1551666666666,
+        543.686,
+        745.158
+      ],
+      "n_rows": 2,
+      "n_cols": 3,
+      "rows": [
+        [
+          "",
+          "DIbéidcl. a",
+          "ration du porte-parole du gouvernement lors du point de presse du Conseil de gouvernement le 20 février 2025.\nw.mapnews.ma/fr/actualites/politique/amo-plus-de-247-millions-de-b%C3%A9n%C3%A9ficiaires-depuis-son-lancement-ministre\nAvis d’auto-saisine – Généralisation de l’AMO : une avancée sociale à consolider, des défis à relever, novembre 2024."
+        ],
+        [
+          "https://ww\n99 - CESE,",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 60,
+      "bbox": [
+        91.86597,
+        97.03862173200002,
+        545.40897,
+        743.64781593
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "Encadré 2 : tendances de la criminalité en 2024\nLa Direction Générale de la Sûreté Nationale (DGSN) a consolidé en 2024 son approche\nstratégique en matière de lutte contre la criminalité, dans un contexte marqué par une\nstabilisation globale des indicateurs criminels et une amélioration notable de l’efficacité des\ninterventions sécuritaires.\nLe nombre d’affaires criminelles traitées a atteint 755 541 cas, en légère hausse par rapport\nà 2023. Cette progression s’accompagne d’un recul significatif des crimes violents, qui ne\nreprésentent plus que 7 % des affaires enregistrées. Cette évolution traduit les effets positifs\nde la stratégie nationale de lutte contre la criminalité 2022-2026, axée sur le renforcement du\nrenseignement criminel, l’extension des brigades spécialisées et la modernisation des outils\nd’enquête scientifique.\nLe taux d’élucidation des infractions a atteint 95 %, un niveau record qui illustre la capacité des\nservices de sûreté à mieux identifier et poursuivre les auteurs d’infractions. Cette performance\nrésulte notamment du développement des laboratoires de police scientifique et technique, et\nde la généralisation de l’usage de la preuve scientifique dans les enquêtes pénales.\nLa criminalité liée aux stupéfiants demeure un défi central, avec 92 346 affaires enregistrées en\n2024. Toutefois, une baisse de 7 % par rapport à l’année précédente est observée, portée par\nle renforcement du contrôle aux frontières et la diversification des dispositifs opérationnels.\nDerrière cette évolution globale se profile toutefois l’émergence de formes spécifiques de\ntrafic, à l’instar de la drogue dite « L’Boufa », dont les quantités saisies ont augmenté de 58 %,\nen dépit d’une diminution de 47 % des affaires enregistrées et de 52 % des individus impliqués.\nCe phénomène soulève de nouvelles préoccupations en matière de consommation chez\nles jeunes et appelle à des réponses préventives ciblées. La cybercriminalité, quant à elle\nconnaît une expansion rapide, avec une augmentation de 40 % du nombre de cas traités.\nL’activation de la plateforme « E-Blagh » en juin 2024 marque une étape importante dans\nl’implication des citoyens dans la lutte contre les menaces numériques."
+        ],
+        [
+          "Le phénomène de la migration illégale demeure une préoccupation majeure. En 2024, 123\nréseaux criminels impliqués dans l’organisation de la migration illégale et le trafic d’êtres\nhumains ont été démantelés, et 32 449 candidats à la migration ont été interceptés, dont\n9 250 ressortissants étrangers. Cette dynamique traduit à la fois l’intensification des flux\nmigratoires et l’évolution des modes opératoires criminels, marquée notamment par l’usage\ncroissant des réseaux sociaux pour inciter à la migration collective.\nEn matière de criminalité financière et de blanchiment d’argent, la DGSN a enregistré\nune hausse de 27 % du nombre d’affaires traitées. Cette dynamique est révélatrice de la\ncomplexification des infractions économiques, nécessitant un renforcement continu des\ncapacités d’investigation financière et de coopération interinstitutionnelle.\nEnfin, le volet de la sécurité routière demeure préoccupant, avec une hausse de 14 %\ndes accidents corporels en milieu urbain. Cette évolution souligne la nécessité d'une\nintensification des politiques de prévention et de contrôle du trafic, au-delà des dispositifs\nrépressifs déjà déployés."
+        ]
+      ]
+    },
+    {
+      "page_number": 79,
+      "bbox": [
+        212.82400049999998,
+        138.007256492,
+        246.5150005,
+        316.82055424519996
+      ],
+      "n_rows": 6,
+      "n_cols": 1,
+      "rows": [
+        [
+          "6,73"
+        ],
+        [
+          "5,87"
+        ],
+        [
+          "5,66"
+        ],
+        [
+          "8,51"
+        ],
+        [
+          "19,58"
+        ],
+        [
+          "35,49"
+        ]
+      ]
+    },
+    {
+      "page_number": 79,
+      "bbox": [
+        297.0550005,
+        138.007256492,
+        330.7460005,
+        316.82055424519996
+      ],
+      "n_rows": 7,
+      "n_cols": 1,
+      "rows": [
+        [
+          "4,76"
+        ],
+        [
+          "5,10"
+        ],
+        [
+          "6,59"
+        ],
+        [
+          "6,72"
+        ],
+        [
+          ""
+        ],
+        [
+          "21,58"
+        ],
+        [
+          "29,73"
+        ]
+      ]
+    },
+    {
+      "page_number": 103,
+      "bbox": [
+        -610.6068975000001,
+        66.23393827289999,
+        608.2911025,
+        853.2594979878
+      ],
+      "n_rows": 2,
+      "n_cols": 3,
+      "rows": [
+        [
+          "",
+          "",
+          "Partie II\nFocus\nIntégration socio-économiques des personnes âgées (PA) au Maroc :"
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 105,
+      "bbox": [
+        100.74600049999998,
+        388.615421365,
+        310.6080005,
+        490.86208542354996
+      ],
+      "n_rows": 2,
+      "n_cols": 2,
+      "rows": [
+        [
+          "Indépendants\n9%\n8% salariés\n23% 60%\nfonctionnaires\nemployés non\nrémunérés",
+          ""
+        ],
+        [
+          "",
+          "Indépendants\nsalariés\nfonctionnaires\nemployés non\nrémunérés"
+        ]
+      ]
+    },
+    {
+      "page_number": 105,
+      "bbox": [
+        326.9330005,
+        400.77617873199995,
+        537.9640005,
+        502.39656330099996
+      ],
+      "n_rows": 2,
+      "n_cols": 2,
+      "rows": [
+        [
+          "agriculture,\n6%\nforêt et pêche\n6% services\n46%\nbâtiments et\n42%\ntravaux publics\nindustrie et\nartisanat",
+          ""
+        ],
+        [
+          "",
+          "agriculture,\nforêt et pêche\nservices\nbâtiments et\ntravaux publics\nindustrie et\nartisanat"
+        ]
+      ]
+    },
+    {
+      "page_number": 106,
+      "bbox": [
+        246.19997,
+        386.59040735199994,
+        422.19997,
+        445.7238136774
+      ],
+      "n_rows": 9,
+      "n_cols": 10,
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "16%",
+          "",
+          ""
+        ],
+        [
+          "",
+          "12% 9%\n4% 3%",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 119,
+      "bbox": [
+        91.86600049999998,
+        91.537656836,
+        545.4090005,
+        561.3147097789999
+      ],
+      "n_rows": 7,
+      "n_cols": 1,
+      "rows": [
+        [
+          "Encadré 8 : Visites de terrain des centres de protection des personnes âgées réalisées par\nle CESE"
+        ],
+        [
+          "Dans le cadre de ses travaux, le CESE a mené trois visites de terrain afin d’observer de près\nl’état des lieux au sein des établissements de protection sociale des personnes âgées. Deux\nde ces visites ont été effectuées dans des établissements publics situés à Bouknadel et à Hay\nNahda (Rabat), gérés par des associations œuvrant dans le domaine de la protection sociale.\nCes déplacements ont permis aux membres du CESE de constater la nature des missions\naccomplies au quotidien par les équipes en place, mais aussi d’échanger directement avec\nles acteurs locaux sur les nombreux obstacles auxquels ils sont confrontés."
+        ],
+        [
+          "Les témoignages recueillis ont mis en lumière deux défis majeurs, une pénurie en ressources\nhumaines qualifiées – notamment en personnel médical, paramédical et psycho-social – et\nla faiblesse des moyens financiers. Ces contraintes compromettent à la fois la qualité de\nl’accompagnement proposé et la capacité des établissements à répondre à une demande\ncroissante. À cela s’ajoute une problématique récurrente signalée par les gestionnaires à\nsavoir le placement, souvent en urgence de personnes qui ne relèvent pas de la catégorie\ndes personnes âgées (sans-abri, enfants abandonnés et malades mentaux), à la demande\ndes autorités judiciaires ou administratives. Ces situations perturbent le fonctionnement des\nétablissements, engendrent parfois des violences entre résidents voire des risques sanitaires."
+        ],
+        [
+          ""
+        ],
+        [
+          "La troisième visite, menée à la maison de retraite du Souissi à Rabat, a offert un éclairage\ncomplémentaire sur un modèle privé de prise en charge. Cet établissement, de statut privé,\npropose à ses résidents une gamme étendue de services : soins de santé, activités de loisirs\net des dispositifs favorisant les liens intergénérationnels. La structure abrite également une\ncrèche et organise régulièrement des rencontres entre les pensionnaires et des élèves issus\nde divers établissements scolaires de la ville, illustrant ainsi la portée d’approches intégratives\nqui renforcent le lien social et contribuent à réduire leur isolement."
+        ],
+        [
+          ""
+        ],
+        [
+          "La présence de listes d’attente tant dans les centres de protection sociale que dans la\nmaison de retraite privée de Souissi témoigne d’une demande largement supérieure à\nl’offre disponible. Cette situation souligne l’urgence d’élargir la couverture territoriale de ces\nstructures tout en augmentant leur capacité d’accueil."
+        ]
+      ]
+    },
+    {
+      "page_number": 134,
+      "bbox": [
+        92.01980571428575,
+        541.1690934999999,
+        545.4099699999998,
+        743.7255190000001
+      ],
+      "n_rows": 6,
+      "n_cols": 2,
+      "rows": [
+        [
+          "Nom et prénom",
+          "Catégories"
+        ],
+        [
+          "Abdelmaksoud Rachdi",
+          "Catégorie des experts"
+        ],
+        [
+          "Khalil Bensami",
+          "Catégorie des syndicats"
+        ],
+        [
+          "Abdellah Deguig",
+          "Catégorie des organisations et\nassociations professionnelles"
+        ],
+        [
+          "Karima Mkika",
+          "Catégorie des organisations et associations\nœuvrant dans les domaines de l’économie\nsociale et de l’activité associative"
+        ],
+        [
+          "Otmane Gair",
+          "Catégorie des membres es qualité"
+        ]
+      ]
+    },
+    {
+      "page_number": 135,
+      "bbox": [
+        91.86604999999999,
+        145.46891183333332,
+        545.41,
+        497.602
+      ],
+      "n_rows": 8,
+      "n_cols": 2,
+      "rows": [
+        [
+          "Nom et prénom",
+          "Commissions permanentes"
+        ],
+        [
+          "Moncef Ziani",
+          "Commission permanente chargée des affaires\néconomiques et des projets stratégiques"
+        ],
+        [
+          "Najat Simou",
+          "Commission permanente chargée des affaires\nde l’emploi et des relations professionnelles"
+        ],
+        [
+          "Jaouad Chouaib",
+          "Commission permanente chargée des affaires\nsociales et de la solidarité"
+        ],
+        [
+          "Mohammed Benkaddour",
+          "Commission permanente chargée des affaires\nde l’environnement et du développement\ndurable"
+        ],
+        [
+          "Ahmed Abbadi",
+          "Commission permanente chargée des affaires\nde la société du savoir et de l’information"
+        ],
+        [
+          "Lahcen Oulhaj",
+          "Commission permanente chargée de\nl’analyse de la conjoncture économique,\nsociale et environnementale"
+        ],
+        [
+          "Mohamed Abdessadek Essaidi",
+          "Commission permanente chargée des\naffaires de la régionalisation avancée et du\ndéveloppement rural et territorial"
+        ]
+      ]
+    },
+    {
+      "page_number": 135,
+      "bbox": [
+        -503.25576808571424,
+        541.1693905,
+        -49.86560380000003,
+        743.7254695000001
+      ],
+      "n_rows": 6,
+      "n_cols": 2,
+      "rows": [
+        [
+          "Nom et prénom",
+          "Catégories"
+        ],
+        [
+          "Abdelmaksoud Rachdi",
+          "Catégorie des experts"
+        ],
+        [
+          "Khalil Bensami",
+          "Catégorie des syndicats"
+        ],
+        [
+          "Abdellah Deguig",
+          "Catégorie des organisations et\nassociations professionnelles"
+        ],
+        [
+          "Karima Mkika",
+          "Catégorie des organisations et associations\nœuvrant dans les domaines de l’économie\nsociale et de l’activité associative"
+        ],
+        [
+          "Otmane Gair",
+          "Catégorie des membres es qualité"
+        ]
+      ]
+    },
+    {
+      "page_number": 136,
+      "bbox": [
+        92.46326470588235,
+        95.2011,
+        544.9091999999998,
+        719.7130499999998
+      ],
+      "n_rows": 8,
+      "n_cols": 5,
+      "rows": [
+        [
+          "Commission",
+          "Président",
+          "Rapporteur",
+          "Vice-\nprésident",
+          "Vice-\nrapporteur"
+        ],
+        [
+          "Commission permanente\nchargée des affaires\néconomiques et des\nprojets stratégiques",
+          "Moncef\nZiani",
+          "Ali\nGhannam",
+          "Tarik Aguizoul",
+          "Abdelkarim\nFoutat"
+        ],
+        [
+          "Commission permanente\nchargée des affaires de\nl’emploi et des relations\nprofessionnelles",
+          "Najat Simou",
+          "Mohamed\nMostaghfir",
+          "Bouchta\nBoukhlafa",
+          "Ahmed\nAbbouh"
+        ],
+        [
+          "Commission permanente\nchargée des affaires\nsociales et de la solidarité",
+          "Jaouad\nChouaib",
+          "Mohammed\nDahmani",
+          "Abderrahmane\nKandila",
+          "Mohamed\nBensaghir"
+        ],
+        [
+          "Commission permanente\nchargée des affaires de\nl’environnement et du\ndéveloppement durable",
+          "Mohamed\nBenkaddour",
+          "Abderrahim\nLaabaid",
+          "Brahim\nZidouh",
+          "Nour – eddine\nChahbouni"
+        ],
+        [
+          "Commission permanente\nchargée des affaires\nde la société du savoir\net de l’information",
+          "Ahmed\nAbbadi",
+          "Latifa\nBenwakrim",
+          "Lahcen\nHansali",
+          "Mustapha\nKhlafa"
+        ],
+        [
+          "Commission permanente\nchargée de l’analyse\nde la conjoncture\néconomique, sociale et\nenvironnementale",
+          "Lahcen\nOulhaj",
+          "Abd el\nmaksoud\nRachdi",
+          "Driss Belfadla",
+          "Ahmed baba\nAabbane"
+        ],
+        [
+          "Commission permanente\nchargée de la\nrégionalisation avancée\net développement\nrural et territorial",
+          "Mohamed\nAbdessadek\nEssaidi",
+          "Mina\nRouchati",
+          "Mohamed\nDahmani",
+          "Abderrahmane\nKandila"
+        ]
+      ]
+    },
+    {
+      "page_number": 137,
+      "bbox": [
+        91.866,
+        612.451,
+        545.409,
+        749.191
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "Encadré 10 : le projet de la station de dessalement de Casablanca"
+        ],
+        [
+          "Le projet de la station de dessalement de Casablanca offre un exemple concret de\nl’application de l’approche nexus Eau-Énergie-Alimentation-Écosystèmes (WEFE), mettant en\névidence les compromis nécessaires entre ces quatre dimensions pour garantir une gestion\ndurable et intégrée des ressources. Ce projet permet de répondre simultanément à des\nenjeux critiques tout en illustrant les choix complexes entre ces différents secteurs. Sur le\nplan de l’eau, la station contribue à la satisfaction d’une demande croissante en eau dans\nun contexte de stress hydrique, particulièrement aggravé par un déficit pluviométrique."
+        ]
+      ]
+    },
+    {
+      "page_number": 138,
+      "bbox": [
+        92.58356666666667,
+        91.8660000000001,
+        545.409,
+        347.008
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "Elle assure un approvisionnement en eau sécurisé pour une population de 7,5 millions\nd’habitants. Concernant l’énergie, la station se distingue par son fonctionnement entièrement\nalimenté par des énergies renouvelables (ENR), un choix stratégique visant à réduire son\nempreinte carbone tout en optimisant l’efficacité énergétique du processus de dessalement,\ntraditionnellement énergivore. Cette intégration des ENR permet ainsi d’alléger l’impact\nenvironnemental de la station tout en assurant un approvisionnement stable en énergie. Du\ncôté de l’alimentation, 50 millions de m³ d’eau dessalée seront alloués pour l’irrigation de\n5.000 hectares de terres agricoles, renforçant la sécurité alimentaire régionale en soutenant\nla productivité des exploitations agricoles. En parallèle, cette allocation contribue à réduire la\npression sur les ressources en eau conventionnelles destinées à l’agriculture, une approche\npermettant de mieux gérer l’utilisation de l’eau dans un contexte de rareté."
+        ],
+        [
+          "Enfin, la dimension écosystémique du projet est soigneusement intégrée par l’utilisation\nde technologies de dessalement de dernière génération, telles que l’osmose inverse, et par\nune gestion automatisée des processus de dessalement. Cela permet de limiter les impacts\nenvironnementaux, en particulier en contrôlant les rejets salins et les sous-produits du\ntraitement des boues."
+        ]
+      ]
+    },
+    {
+      "page_number": 143,
+      "bbox": [
+        91.866,
+        641.433,
+        545.409,
+        777.512
+      ],
+      "n_rows": 3,
+      "n_cols": 1,
+      "rows": [
+        [
+          "Le nombre d’interactions a atteint, 4797 dont 1139 répondants à la consultation lancée sur la\nplateforme digitale « ouchariko » et 15 commentaires sur les réseaux sociaux. Les principaux\nrésultats font ressortir que :"
+        ],
+        [
+          "§ Environ 61% des répondants ont déjà exercé un travail à distance. Le travail à temps partiel,\nle travail indépendant en ligne et le travail via des plateformes numériques sont également\ntrès présents, chacun ayant été expérimenté par environ 56 % des participants."
+        ],
+        [
+          "§ La flexibilité des horaires est le premier motif évoqué pour choisir ces formes d’emploi\n(environ 32%), suivi par la poursuite d’études ou de formations (29%)."
+        ]
+      ]
+    },
+    {
+      "page_number": 144,
+      "bbox": [
+        92.40417500000001,
+        86.90500000000009,
+        545.409,
+        288.85
+      ],
+      "n_rows": 3,
+      "n_cols": 1,
+      "rows": [
+        [
+          "§ La conciliation entre vie professionnelle et obligations familiales est également un facteur\nimportant : environ 25% des répondants ont opté pour ces formes d’emploi afin de mieux\ngérer l’éducation des enfants, tandis que 18% et 8% ont mentionné respectivement la prise\nen charge de personnes en situation de handicap ou de personnes âgées."
+        ],
+        [
+          "§ 16% des participants ont choisi ces modes d’emploi en raison d’un manque de perspectives\ndans l’emploi traditionnel."
+        ],
+        [
+          "§ S’agissant de l’acceptabilité de ces formes d’emploi, une majorité large, près de 70% des\nrépondants, se déclare prête à les envisager. Le travail à distance reste le plus attractif,\navec plus de 72% de personnes ouvertes à cette option. Le travail indépendant en ligne\net le travail à temps partiel recueillent aussi un fort intérêt. En revanche, le travail via les\nplateformes suscite un intérêt plus modéré, notamment dans les services de transport de\npassagers et de livraison de commandes."
+        ]
+      ]
+    },
+    {
+      "page_number": 155,
+      "bbox": [
+        91.866,
+        401.1185,
+        545.409,
+        738.004
+      ],
+      "n_rows": 5,
+      "n_cols": 3,
+      "rows": [
+        [
+          "",
+          "Le nombre d’interactions a atteint, 1.866.206 dont 806 répondants à la consultation lancée\nsur la plateforme digitale « ouchariko » et 137 commentaires sur les réseaux sociaux. Les\nprincipaux résultats font ressortir que :",
+          ""
+        ],
+        [
+          "",
+          "• Concernant la compréhension de l’intelligence artificielle, une majorité des participant.\ne. s se considère bien informée : environ un quart (25,3%) se juge très bien informé,\ntandis que près de la moitié (46,5%) s’estime modérément informée.",
+          ""
+        ],
+        [
+          "",
+          "• En termes d’application quotidienne de l’IA, les réseaux sociaux se distinguent nettement,\navec 75,4% des mentions, suivis par l’e-commerce à 50,6%. Le secteur de la santé,\névoqué par seulement 31% des participants, révèle une perception d’une adoption plus\nrestreinte de l’IA. Par ailleurs, 36% des participant. e. s ont également identifié d’autres\ndomaines d’utilisation de l’IA : L’éducation, l’enseignement et la recherche, le secteur\ndes technologies de l’information, l’industrie, l’ingénierie, et le marketing/commerce.",
+          ""
+        ],
+        [
+          "",
+          "• La majorité des participant. e. s perçoit un fort potentiel dans l’IA pour améliorer le\nquotidien, avec 54,13% estimant ce potentiel très prometteur.",
+          ""
+        ],
+        [
+          "",
+          "• Les participant. e. s à la consultation du CESE sur les réseaux sociaux ont fait preuve\nd’un degré variable de compréhension de l’IA. Certains participants montrent une\nperception nuancée et équilibrée qui inscrit l’IA dans la continuité des autres évolutions\ntechnologiques qui a ses avantages mais aussi ses inconvénients. Pour d’autres, l’IA\nrappelle l’internet à ses débuts. Cependant, certains participants manquent de clarté\nsur ce qu’est l’intelligence artificielle.",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 166,
+      "bbox": [
+        92.94232,
+        267.033332,
+        545.40897,
+        557.380037
+      ],
+      "n_rows": 3,
+      "n_cols": 3,
+      "rows": [
+        [
+          "",
+          "La consultation a suscité un total de 55 935 interactions, dont 1 298 réponses au\nquestionnaire, avec une participation plus marquée en milieu rural, atteignant 57%. Cela\ntémoigne de l’intérêt considérable que porte la population rurale à ce sujet, en plus des\nnombreux commentaires recueillis sur les réseaux sociaux. Il a également été constaté\nque la participation des jeunes demeure faible (environ 5% pour la tranche d’âge 15-24 ans,\net moins de 10% pour celle des 25-34 ans), ce qui laisse entrevoir une problématique de\ndurabilité et de transmission de l’agriculture familiale aux générations futures. Ce constat\ninvite aussi à s’interroger sur le degré d’intérêt que ce modèle agricole suscite chez les\njeunes.",
+          ""
+        ],
+        [
+          "",
+          "Les principaux résultats font ressortir que :",
+          ""
+        ],
+        [
+          "",
+          "Concernant les principaux défis auxquels fait face la petite et la moyenne agriculture\nfamiliale, les résultats révèlent un faible niveau d’encadrement et de conseil agricoles,\nidentifié par 27% des répondants comme le principal obstacle. Vient ensuite une\nproblématique tout aussi déterminante : la forte exposition de ce modèle aux aléas\nclimatiques, évoquée par 20% des répondants. Suivent les difficultés d’ordre organisationnel\n(16%) ainsi que les contraintes liées à l’accès au financement (14,5%). Par ailleurs, une\nproportion plus restreinte de répondants a évoqué une protection sociale dite faible, ainsi\nqu’un morcellement excessif des terres agricoles.",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 167,
+      "bbox": [
+        -502.3332538,
+        267.033332,
+        -49.86660380000001,
+        557.380037
+      ],
+      "n_rows": 3,
+      "n_cols": 3,
+      "rows": [
+        [
+          "",
+          "La consultation a suscité un total de 55 935 interactions, dont 1 298 réponses au\nquestionnaire, avec une participation plus marquée en milieu rural, atteignant 57%. Cela\ntémoigne de l’intérêt considérable que porte la population rurale à ce sujet, en plus des\nnombreux commentaires recueillis sur les réseaux sociaux. Il a également été constaté\nque la participation des jeunes demeure faible (environ 5% pour la tranche d’âge 15-24 ans,\net moins de 10% pour celle des 25-34 ans), ce qui laisse entrevoir une problématique de\ndurabilité et de transmission de l’agriculture familiale aux générations futures. Ce constat\ninvite aussi à s’interroger sur le degré d’intérêt que ce modèle agricole suscite chez les\njeunes.",
+          ""
+        ],
+        [
+          "",
+          "Les principaux résultats font ressortir que :",
+          ""
+        ],
+        [
+          "",
+          "Concernant les principaux défis auxquels fait face la petite et la moyenne agriculture\nfamiliale, les résultats révèlent un faible niveau d’encadrement et de conseil agricoles,\nidentifié par 27% des répondants comme le principal obstacle. Vient ensuite une\nproblématique tout aussi déterminante : la forte exposition de ce modèle aux aléas\nclimatiques, évoquée par 20% des répondants. Suivent les difficultés d’ordre organisationnel\n(16%) ainsi que les contraintes liées à l’accès au financement (14,5%). Par ailleurs, une\nproportion plus restreinte de répondants a évoqué une protection sociale dite faible, ainsi\nqu’un morcellement excessif des terres agricoles.",
+          ""
+        ]
+      ]
+    },
+    {
+      "page_number": 173,
+      "bbox": [
+        92.36605,
+        89.31919999999997,
+        545.9092,
+        716.4564
+      ],
+      "n_rows": 2,
+      "n_cols": 1,
+      "rows": [
+        [
+          "Thèmes des auto-saisines au titre de l’année 2025"
+        ],
+        [
+          "La poursuite des sujets au titre de l’année 2024\n1. Saisine sur les défis des TPE au Maroc : la réalisation de cet avis est confiée à la\ncommission permanente chargée des affaires économiques et des projets stratégiques ;\n2. Saisine sur la contribution de la recherche scientifique à l’innovation, au développement\net au renforcement de la compétitivité de l’économie nationale : la réalisation de\ncet avis est confiée à la commission permanente chargée de la société du savoir et de\nl’information ;\n3. Auto-saisine sur la formation continue : la réalisation de cet avis est confiée à la\ncommission permanente chargée de l’emploi et des relations professionnelles ;\n4. Auto-saisine sur l'économie du soin : « reconnaitre et organiser l’économie du soin\nà autrui au Maroc : enjeux et perspectives » : la réalisation de cet avis est confiée à la\ncommission permanente chargée des affaires sociales et de la solidarité ;\n5. Auto-saisine sur les pertes et gaspillages alimentaires au Maroc : la réalisation de\ncet avis est confiée à la commission permanente chargée de l’environnement et du\ndéveloppement durable ;\n6. Auto-saisine sur le transport dans le monde rural : la réalisation de cet avis est confiée\nà la commission permanente chargée de la régionalisation avancée, du développement\nrural et territorial.\nLancement de nouveaux sujets au titre de l’année 2025\n1. L’impact du mécanisme d’ajustement carbone aux frontières de l’UE au Maroc :\nla réalisation de cet avis est confiée à la commission permanente chargée des affaires\néconomiques et des projets stratégiques ;\n2. Souveraineté alimentaire et développement du secteur de l’industrie agroalimentaire :\nla réalisation de cet avis est confiée à la commission permanente chargée des affaires\néconomiques et des projets stratégiques ;\n3. Travail des enfants : causes, impacts et propositions pour éradiquer ce phénomène : la\nréalisation de cet avis est confiée à la commission permanente chargée de l’emploi et des\nrelations professionnelles ;\n4. Comportements civiques dans l'espace et les lieux publics : la réalisation de cet avis est\nconfiée à la commission permanente chargée des affaires sociales et de la solidarité ;\n5. Biodiversité au Maroc : enjeux, risques et opportunités pour un développement\ndurable : la réalisation de cet avis est confiée à la commission permanente chargée de\nl’environnement et du développement durable ;\n6. Carrières scientifiques et techniques des femmes au Maroc : la réalisation de cet avis est\nconfiée à la commission permanente chargée de la société du savoir et de l’information ;"
+        ]
+      ]
+    },
+    {
+      "page_number": 177,
+      "bbox": [
+        91.86596999999999,
+        189.10203350018998,
+        545.4089700000002,
+        711.3542620418
+      ],
+      "n_rows": 13,
+      "n_cols": 2,
+      "rows": [
+        [
+          "Institutionnels",
+          " Ministère de l’économie et des finances"
+        ],
+        [
+          "",
+          " Ministère de la solidarité, de l’insertion sociale et de la famille"
+        ],
+        [
+          "",
+          " Ministère de la santé et de la protection sociale"
+        ],
+        [
+          "",
+          " La coordination nationale de l’initiative nationale\nde développement humain (INDH)"
+        ],
+        [
+          "",
+          " Haut Commissariat au Plan (HCP)"
+        ],
+        [
+          "",
+          " Observatoire national du développement humain (ONDH)"
+        ],
+        [
+          "Organisation\nprofessionnelles",
+          " Fédération Marocaine de l’assurance"
+        ],
+        [
+          "",
+          " Groupement professionnel des banques Marocaines"
+        ],
+        [
+          "Caisses de retraites",
+          " Caisse Marocaine des retraites (CMR)\n Caisse interprofessionnelle Marocaine de retraite (CIMR)\n Régime collectif d’allocation de retraite (RCAR)"
+        ],
+        [
+          "Organisations\ninternationales",
+          " Représentation du fonds des nations unies\npour la population au Maroc (UNFPA)"
+        ],
+        [
+          "Société civile",
+          " Association islamique de bienfaisance de Kenitra\n Association des œuvres sociales de la maison\npour personnes âgées à EL Jadida\n Centre social pour personnes âgées\nFondation Mohamed V à Hay Nahda\n Association Française d’Entraide et de Bienveillance"
+        ],
+        [
+          "Experte",
+          " Professeur Mouna Maamar, Unité de Gériatrie Aigue,\ncentre hospitalier universitaire CHU Ibn Sina"
+        ],
+        [
+          "Visites de terrain",
+          " Centre social pour personnes âgées\nFondation Mohamed V à Hay Nahda\n Maison de retraite du Souissi\n Etablissement de protection sociale des\npersonnes âgées Bouknadel"
+        ]
+      ]
+    },
+    {
+      "page_number": 180,
+      "bbox": [
+        88.934597722995,
+        557.1808363815999,
+        553.06058354599,
+        710.2966447816
+      ],
+      "n_rows": 1,
+      "n_cols": 2,
+      "rows": [
+        [
+          "Autres 1%\nL’absence d’un accompagnement adapté ou de dispositifs de soutien dédiés 10%\nLes stéréotypes et préjugés liés à l’âge 15%\nLes problèmes de santé ou de mobilité limitant leur autonomie 24%\nL’isolement social et le repli relationnel 17%\nLe manque d’opportunités correspondant aux compétences et à l’expérience des personnes âgées 23%\nLa précarité économique (faiblesse ou absence de pension de retraite) 10%\n0 100 200 300 400 500 600 700 800",
+          ""
+        ]
+      ]
+    }
+  ],
+  "n_unlinked_tables": 33,
+  "n_total_tables": 216
 }

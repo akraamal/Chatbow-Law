@@ -801,6 +801,8 @@
   ],
   "n_articles": 0,
   "articles": [],
+  "total_pdf_pages": 68,
+  "bo_date_publication": null,
   "unlinked_tables": [
     {
       "page_number": 1,
@@ -1949,6 +1951,5 @@
     }
   ],
   "n_unlinked_tables": 26,
-  "n_total_tables": 26,
-  "total_pdf_pages": 68
+  "n_total_tables": 26
 }
