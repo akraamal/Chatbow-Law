@@ -206,6 +206,8 @@ def _split_oversized_article(article, max_chars=MAX_ARTICLE_CHARS):
 
 # --- Français ---
 # Couvre "ART. 2. –", "Article 2 :", "ARTICLE PREMIER –", "art. 544-1.–", etc.
+# Variante OCR "ART, 2. –" (virgule au lieu du point après ART — observée
+# sur BO_6718/6758/6804/6822) : le `[.,]?` tolère les deux.
 # The trailing (?![\dA-Za-z]) rejects false matches like "article 214-III-A"
 # where the hyphen is part of a CGI subsection reference, not an article
 # separator.  Matches that begin mid-sentence ("l'article ...") are also
@@ -214,7 +216,7 @@ def _split_oversized_article(article, max_chars=MAX_ARTICLE_CHARS):
 # with no trailing punctuation.  The segment_into_articles_fr function filters
 # out mid-sentence matches (preceded by a non-newline character).
 ARTICLE_PATTERN_FR = re.compile(
-    r"(ART(?:ICLE)?\.?\s*(?:PREMIER|1er|UNIQUE|\d+(?:-\d+)?)\s*\.?\s*[-–.:—]?(?![\dA-Za-z\u00C0-\u024F]))",
+    r"(ART(?:ICLE)?[.,]?\s*(?:PREMIER|1er|UNIQUE|\d+(?:-\d+)?)\s*\.?\s*[-–.:—]?(?![\dA-Za-z\u00C0-\u024F]))",
     re.IGNORECASE,
 )
 

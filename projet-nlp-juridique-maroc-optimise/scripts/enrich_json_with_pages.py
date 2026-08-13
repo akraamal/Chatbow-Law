@@ -924,6 +924,15 @@ _SIGNATORY_LINE_RE = re.compile(
     r")[.,]\s*$"
 )
 
+# Variante OCR sans ponctuation finale : une ligne tout MAJUSCULES de 2-3
+# mots (ex. « MLY HAFID ELALAMY » après « Le ministre de l'industrie, »).
+# Uniquement acceptée comme nom si un segment de rôle vient d'être amorcé
+# (le point final est la seule barrière fiable contre les titres de tableaux
+# en capitales — annexes, pages « TEXTES PARTICULIERS »…).
+_PERIODLESS_NAME_RE = re.compile(
+    r"^\s*([A-ZÀ-ÖØ-Þ][A-ZÀ-ÖØ-Þ'\u2019\-\s]{3,})$"
+)
+
 # Lignes MAJUSCULES qui ne sont PAS des noms de signataires (rôles en
 # capitales dans le préambule ou la zone de signature).
 _NAME_BLOCKED_PREFIXES = (
@@ -931,6 +940,8 @@ _NAME_BLOCKED_PREFIXES = (
     "PRESIDENT DU GOUVERNEMENT", "PRÉSIDENT", "PRESIDENT", "MINISTRE",
     "POUR CONTRESEING", "L'INTÉRIMAIRE", "L'INTERIMAIRE",
     "SECRÉTAIRE GÉNÉRAL", "SECRETAIRE GENERAL", "SECRÉTAIRE", "SECRETAIRE",
+    "TEXTES", "ANNEXE", "RECAPITULATIF", "DECLARATION", "CAMPAGNE",
+    "LATITUDE", "LONGITUDE", "SOCIETE SEMENCIERE", "LIEU DE", "EN STOCK",
 )
 
 # Édition arabe : « االمضاء : عزيز اخنوش. » (signature : nom).
@@ -1263,6 +1274,20 @@ def _parse_signature_blocks(zone: str, is_ar: bool,
             name = m.group(1).strip() if m else None
         elif _SIGNATORY_LINE_RE.match(s) and not up.startswith(_NAME_BLOCKED_PREFIXES):
             name = _SIGNATORY_LINE_RE.match(s).group(1).strip()
+        elif (not up.startswith(_NAME_BLOCKED_PREFIXES)
+              and current_segment
+              and _ROLE_START_RE.match(current_segment[0].strip())):
+            # Nom OCR sans point final (2-3 mots, pas de sigle 2 lettres) —
+            # uniquement en tête d'un segment de rôle en cours (ex. BO_6788
+            # « Le ministre de l'industrie, …\nMLY HAFID ELALAMY »).
+            m_p = _PERIODLESS_NAME_RE.match(s)
+            if m_p:
+                frag = m_p.group(1).strip()
+                toks = frag.split()
+                if (2 <= len(toks) <= 3
+                        and all(len(n) >= 3 for n in toks)
+                        and any(len(t) >= 5 for t in toks)):
+                    name = frag
 
         if name:
             # Premier nom SANS rôle qui le précède ni marqueur de

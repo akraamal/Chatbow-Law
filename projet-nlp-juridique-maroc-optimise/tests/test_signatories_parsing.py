@@ -171,6 +171,52 @@ def test_parallel_columns_fifo():
     ]
 
 
+def test_periodless_name_after_role_start():
+    """Nom OCR sans point final (BO_6788 décret 2-18-780) : « MLY HAFID
+    ELALAMY » sans « . » après la continuation du rôle de l'industrie —
+    reconnu comme nom (2-3 mots MAJUSCULES) et non absorbé par le rôle."""
+    zone = (
+        "SAAD DINE EL OTMANI.\n"
+        "Pour contreseing :\n"
+        "Le ministre de l'industrie,\n"
+        "de l'investissement,\n"
+        "du commerce et de l'économie\n"
+        "numérique,\n"
+        "MLY HAFID ELALAMY\n"
+        "Le ministre de l'économie\n"
+        "et des finances,\n"
+        "MOHAMED BENCHAABOUN.\n"
+    )
+    got = _blocks(zone, False, "Chef du Gouvernement")
+    assert got == [
+        {"role": "Chef du Gouvernement", "name": "SAAD DINE EL OTMANI",
+         "type": "issuer"},
+        {"role": "Le ministre de l'industrie, de l'investissement, du "
+                 "commerce et de l'économie numérique",
+         "name": "MLY HAFID ELALAMY", "type": "contreseing"},
+        {"role": "Le ministre de l'économie et des finances",
+         "name": "MOHAMED BENCHAABOUN", "type": "contreseing"},
+    ]
+
+
+def test_periodless_table_header_rejected():
+    """Les lignes MAJUSCULES d'annexe/tableaux/OCR ne deviennent PAS des
+    noms : titre à 1 mot (« ANNEXE I »), sigle court (« RME TNT »), titre
+    de page (« TEXTES PAR ») ou en-tête long (« RECAPITULATIF DES
+    BULLETINS DE LOTS DE SEMENCES ») même après un amorçage de rôle."""
+    zone = (
+        "Le ministre de l'industrie,\n"
+        "ANNEXE I\n"
+        "RME TNT\n"
+        "TEXTES PAR\n"
+        "RECAPITULATIF DES BULLETINS DE LOTS DE SEMENCES\n"
+        "MOHAMED BENCHAABOUN.\n"
+    )
+    got = _blocks(zone, False, "Chef du Gouvernement")
+    names = [b["name"] for b in got]
+    assert names == ["MOHAMED BENCHAABOUN"]
+
+
 def test_arabic_edition():
     """Édition arabe : « المضاء : nom » (signature) et « وقعه بالعطف : »
     (contreseing) — le nom est porté par la ligne المضاء, pas la ligne
