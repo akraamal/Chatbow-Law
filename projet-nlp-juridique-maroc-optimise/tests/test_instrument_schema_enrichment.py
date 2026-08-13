@@ -62,16 +62,18 @@ def test_bo7510_matches_reference_derivable_fields():
                 f"{iid}.{pipe_key} = {cur.get(pipe_key)!r} "
                 f"!= référence {expected.get(ref_key)!r}"
             )
-        # Signatory (singulier) ou signatories (pluriel) cohérents avec la
-        # référence.
+        # Signatory (singulier) ou signatories_flat (liste plate des noms)
+        # cohérents avec la référence. La référence manuelle ne fige pas
+        # les rôles structurés — ceux-ci sont couverts par le jeu doré
+        # (tests/signatories_golden_set.py + test_signatories_parsing.py).
         if expected.get("signatory"):
             assert cur.get("signatory") == expected["signatory"], (
                 f"{iid}.signatory = {cur.get('signatory')!r} "
                 f"!= référence {expected['signatory']!r}"
             )
         if expected.get("signatories"):
-            assert cur.get("signatories") == expected["signatories"], (
-                f"{iid}.signatories = {cur.get('signatories')!r} "
+            assert cur.get("signatories_flat") == expected["signatories"], (
+                f"{iid}.signatories_flat = {cur.get('signatories_flat')!r} "
                 f"!= référence {expected['signatories']!r}"
             )
         assert cur.get("title"), f"{iid} title vide"

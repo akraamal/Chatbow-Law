@@ -908,7 +908,67 @@ _MONTHS_FR_ISO = {
     "octobre": 10, "novembre": 11, "décembre": 12, "decembre": 12,
 }
 
-_SIGNATORY_LINE_RE = re.compile(r"^\s*([A-ZÀ-ÖØ-Þ][A-ZÀ-ÖØ-Þ'\-\s]{2,})\.\s*$")
+# Ligne de nom de signataire, deux formes :
+#   - MAJUSCULES : « SAAD DINE EL OTMANI. » (éditions récentes) ;
+#   - Title-case  : « Driss Jettou. » (éditions anciennes, 2000-2010) —
+#     tous les mots doivent être en capitales initiales (les rôles
+#     contiennent toujours des articles/prépositions en minuscules :
+#     « Le ministre de l'économie et des finances, ») et la ligne doit
+#     se terminer par un point/virgule (la note finale « Le texte en
+#     langue arabe a été publié dans l'édition générale du » est coupée
+#     en fin de ligne SANS ponctuation).
+_SIGNATORY_LINE_RE = re.compile(
+    r"^\s*("
+    r"[A-ZÀ-ÖØ-Þ][A-ZÀ-ÖØ-Þ'\u2019\-\s]{2,}"           # tout MAJUSCULES
+    r"|[A-ZÀ-ÖØ-Þ][a-zà-ÿ'\u2019\-]+(?:\s+[A-ZÀ-ÖØ-Þ][a-zà-ÿ'\u2019\-]+){1,7}"  # Title-case
+    r")[.,]\s*$"
+)
+
+# Lignes MAJUSCULES qui ne sont PAS des noms de signataires (rôles en
+# capitales dans le préambule ou la zone de signature).
+_NAME_BLOCKED_PREFIXES = (
+    "CHEF DU GOUVERNEMENT", "PREMIER MINISTRE", "PRÉSIDENT DU GOUVERNEMENT",
+    "PRESIDENT DU GOUVERNEMENT", "PRÉSIDENT", "PRESIDENT", "MINISTRE",
+    "POUR CONTRESEING", "L'INTÉRIMAIRE", "L'INTERIMAIRE",
+    "SECRÉTAIRE GÉNÉRAL", "SECRETAIRE GENERAL", "SECRÉTAIRE", "SECRETAIRE",
+)
+
+# Édition arabe : « االمضاء : عزيز اخنوش. » (signature : nom).
+_AR_NAME_RE = re.compile(r"^\s*ا?المضاء\s*[::]\s*(.+?)\s*[.,]?\s*$")
+
+# Marqueurs de la zone de signature.
+_FAIT_A_RE = re.compile(
+    r"Fait\s+[àa]\s+Rabat|(?:^|\n)\s*Rabat,\s*le\b|حرر\s*بالرباط",
+    re.IGNORECASE,
+)
+_CONTRESEING_RE = re.compile(r"^pour\s+contreseing\s*[,:]?\s*$", re.IGNORECASE)
+_AR_CONTRESEING_RE = re.compile(r"^وقعه\s*بالعطف\s*[,:]?\s*$")
+_DELEGATION_RE = re.compile(
+    r"^pour\s+le\s+(chef\s+du\s+gouvernement|premier\s+ministre|"
+    r"pr[ée]sident(?:\s+du\s+gouvernement)?)"
+    r"[^,]{0,40}?(?:par\s+d[ée]l[ée]gation)\s*[,:]?\s*$",
+    re.IGNORECASE,
+)
+_INTERIM_RE = re.compile(r"^l['\u2019]\s*int[ée]rimaire\s*[,:]?\s*$", re.IGNORECASE)
+_DASH_SEP_RE = re.compile(r"^\s*[\-–—]{2,}\s*$")
+_FR_TRAILING_NOTE_RE = re.compile(r"^le\s+texte\s+en\s+langue\s+\w+", re.IGNORECASE)
+_AR_PAGE_JUNK_RE = re.compile(r"الجريدة الرسمية|نصوص\s+عامة")
+# Séparateurs purs (lignes de points/tirets vides de sens)
+_PURE_SEPARATOR_RE = re.compile(r"^[\s.,،:;+\-=–—|/\\\"'«»“”()\[\]©#*_]+$")
+
+_ISSUER_ROLE_RE = re.compile(
+    r"\b(?:LE|LA)\s+(CHEF\s+DU\s+GOUVERNEMENT|PREMIER\s+MINISTRE|"
+    r"PR[ÉE]SIDENT(?:\s+DU\s+GOUVERNEMENT)?)\b",
+    re.IGNORECASE,
+)
+_ISSUER_ROLE_MAP = {
+    "chef du gouvernement": "Chef du Gouvernement",
+    "premier ministre": "Premier Ministre",
+    "président du gouvernement": "Président du Gouvernement",
+    "president du gouvernement": "Président du Gouvernement",
+    "président": "Président",
+    "president": "Président",
+}
 
 
 def _fr_date_to_iso(text: str) -> str | None:
@@ -998,31 +1058,361 @@ def _instrument_dates(preamble: str, reference: str | None,
     return None, None
 
 
-def _instrument_signatories(articles: list[dict]) -> list[str]:
+# Début d'un fragment de rôle (« Le ministre de l'économie… »,
+# « La secrétaire d'Etat auprès… ») — sert à découper les blocs de rôle
+# des signatures en colonnes parallèles aplaties par l'OCR.
+_ROLE_START_RE = re.compile(
+    r"^(?:Le|La|L['\u2019])\s*"
+    r"(?:ministre|secréta|chef|pr[ée]sident|directeur|pr[ée]fet|"
+    r"gouverneur|d[ée]l[ée]gu|secrétaire)\b",
+    re.IGNORECASE,
+)
+# Longueur maximale d'un rôle « nom absent » jugé crédible (au-delà, le
+# fragment est du bruit d'annexe/saut de page et non un rôle tronqué).
+_MAX_ROLE_CHARS = 160
+_MAX_ROLE_LINES = 8
+
+
+def _issuer_role_from_preamble(preamble: str) -> str | None:
+    """Rôle de l'émetteur (signataire principal) déduit du préambule :
+    « LE CHEF DU GOUVERNEMENT, », « LE PREMIER MINISTRE, »…"""
+    m = _ISSUER_ROLE_RE.search(preamble or "")
+    if not m:
+        return None
+    return _ISSUER_ROLE_MAP.get(m.group(1).lower())
+
+
+def _issuer_role_from_text(text: str) -> str | None:
     """
-    Noms des signataires : lignes en MAJUSCULES terminées par un point
-    dans la zone de signature (fin du texte du dernier article de
-    l'instrument), typiquement après « Rabat, le … ».
-    Ex. « NADIA FETTAH. » ou « FOUZI LEKJAA. » + « ZAKIA DRIOUICH. ».
+    Repli : la ligne d'énonciation « LE CHEF DU GOUVERNEMENT, » en tête de
+    ligne, cherchée dans le texte des articles quand le préambule stocké
+    est tronqué/entrelacé (ex. BO_7496 instr_2_26_143). Ancré en début de
+    ligne et sans drapeau IGNORECASE pour ne pas capturer une référence
+    croisée « …du chef du gouvernement… » dans une clause « Vu ».
     """
-    # Parcourt les articles du plus récent au plus ancien et garde le
-    # premier article qui contient une signature (la signature n'est pas
-    # toujours dans le TOUT dernier article — ex. l'annexe le suit).
+    for m in re.finditer(
+        r"(?:^|\n)[ \t]*(LE CHEF DU GOUVERNEMENT|LE PREMIER MINISTRE)"
+        r"(?:[ \t]*,)?",
+        text or "",
+    ):
+        return _ISSUER_ROLE_MAP.get(m.group(1).lower())
+    return None
+
+
+def _clean_role_lines(lines: list[str]) -> str | None:
+    """Aplati les lignes d'un bloc de rôle en une chaîne unique lisible."""
+    if not lines:
+        return None
+    text = " ".join(lines)
+    text = re.sub(r"\s+", " ", text).strip(" ,،:;–—-")
+    return text or None
+
+
+def _segment_complete(seg: list[str]) -> bool:
+    """Un bloc de rôle est COMPLET si sa dernière ligne se termine par une
+    virgule ou un point (le rôle s'arrête au bord de la colonne) — sinon il
+    est en attente de continuation (« ...chargée » sans virgule)."""
+    last = next((ln for ln in reversed(seg) if ln.strip()), "")
+    return bool(re.search(r"[.,،]\s*$", last))
+
+
+def _signature_zone(article_texts: list[str], zone_limit_chars: int = 2500,
+                    ) -> tuple[str, bool]:
+    """
+    Zone de signature = texte après la dernière formule de clôture
+    (« Fait à Rabat, le … » / « حرر بالرباط في … ») dans le texte combiné
+    des derniers articles de l'instrument.
+
+    Renvoie (zone, is_arabic).  La zone est coupée dès qu'un séparateur
+    (« ——— »), une note finale (« Le texte en langue arabe a été publié… »)
+    ou du bruit de page arabe (« الجريدة الرسمية… ») apparaît.
+    """
+    tail = "\n".join(t for t in article_texts if t and t.strip())
+    # Ratio de caractères arabes (> 30 %) — un caractère isolé dans une
+    # ligne de bruit (ex. « © #«ل " 34600606 ») ne doit PAS basculer la
+    # zone en mode arabe.
+    arabic = sum(1 for ch in tail if "\u0600" <= ch <= "\u06FF")
+    is_ar = arabic / max(len(tail), 1) > 0.30
+    matches = list(_FAIT_A_RE.finditer(tail))
+    if not matches:
+        return "", is_ar
+    zone = tail[matches[-1].end():][:zone_limit_chars]
+    lines = []
+    for line in zone.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if _DASH_SEP_RE.match(s):
+            break
+        if _FR_TRAILING_NOTE_RE.match(s):
+            break
+        if is_ar and _AR_PAGE_JUNK_RE.search(s):
+            break
+        lines.append(line)
+
+    # Retire les lignes résiduelles de la formule de clôture (le « le 5 hija
+    # 1440 (7 août 2019). » séparé du « Fait à Rabat, » sur la ligne
+    # précédente, ou le « في 4 ذي القعدة 1447 … » arabe) : tant que la ligne
+    # ne ressemble ni à un nom ni à un rôle ni à un marqueur, c'est un reste.
+    start = 0
+    while start < len(lines):
+        s = lines[start].strip()
+        up = s.upper()
+        is_name = bool(
+            _AR_NAME_RE.match(s) if is_ar
+            else (_SIGNATORY_LINE_RE.match(s) and not up.startswith(_NAME_BLOCKED_PREFIXES))
+        )
+        if is_name or _ROLE_START_RE.match(s) or _CONTRESEING_RE.match(s) \
+           or _DELEGATION_RE.match(s) or _INTERIM_RE.match(s) \
+           or (is_ar and _AR_CONTRESEING_RE.match(s)):
+            break
+        start += 1
+    lines = lines[start:]
+
+    return "\n".join(lines), is_ar
+
+
+def _parse_signature_blocks(zone: str, is_ar: bool,
+                            issuer_role: str | None) -> list[dict]:
+    """
+    Transforme la zone de signature en liste structurée de signataires :
+        [{"role": "Chef du Gouvernement", "name": "SAAD DINE EL OTMANI",
+          "type": "issuer"},
+         {"role": "Ministre de l'économie et des finances",
+          "name": "MOHAMED BENCHAABOUN", "type": "contreseing"}]
+
+    Cas couverts :
+      - émetteur + N contreseings (« Pour contreseing : » / « وقعه بالعطف : ») ;
+      - décrets à signature unique (aucun contreseing) ;
+      - signature par délégation (« Pour le Chef du Gouvernement et par
+        délégation, ») ou intérim (« L'intérimaire, ») — type dédié ;
+      - nom illisible/absent : le rôle est conservé, ``name`` vaut None ;
+      - bloc de signature coupé par un saut de page/colonne (la zone est
+        reconstituée sur le texte des derniers articles).
+    """
+    signatories: list[dict] = []
+    role_segments: list[list[str]] = []
+    current_segment: list[str] = []
+    block_type: str | None = None
+    found_issuer = False
+    # Colonnes de signature de hauteurs différentes (BO_7510 arrêté conjoint
+    # 181-26) : une continuation de rôle intercalée après un bloc COMPLET
+    # signale que les noms (alignés en bas, ordre x) arrivent dans l'ordre
+    # INVERSE des blocs de rôle (ordonnés par y).
+    interleaved = False
+
+    def close_segment() -> None:
+        nonlocal current_segment
+        if current_segment:
+            role_segments.append(current_segment)
+            current_segment = []
+
+    def flush_unclaimed() -> None:
+        """Émet les segments de rôle restés sans nom (nom illisible) s'ils
+        ressemblent à un vrai rôle (court ET commençant par un mot de rôle,
+        ou texte arabe). Un fragment long (annexe, note de bas de page) ou
+        un fragment ne ressemblant pas à un rôle (ex. « La liste des
+        diplômes et des certificats... » d'une annexe) n'en est pas un."""
+        nonlocal role_segments
+        for seg in role_segments:
+            role = _clean_role_lines(seg)
+            if not role or len(role) > _MAX_ROLE_CHARS or len(seg) > _MAX_ROLE_LINES:
+                continue
+            first = next((ln.strip() for ln in seg if ln.strip()), "")
+            if not (_ROLE_START_RE.match(first)
+                    or re.search(r"[\u0600-\u06FF]", role)):
+                continue
+            signatories.append({
+                "role": role,
+                "name": None,
+                "type": block_type or "contreseing",
+            })
+        role_segments = []
+
+    for line in zone.splitlines():
+        s = line.strip()
+        if not s or _PURE_SEPARATOR_RE.match(s):
+            continue
+
+        up = s.upper()
+        if _CONTRESEING_RE.match(s) or (is_ar and _AR_CONTRESEING_RE.match(s)):
+            flush_unclaimed()
+            block_type = "contreseing"
+            continue
+
+        m_del = _DELEGATION_RE.match(s)
+        if m_del:
+            flush_unclaimed()
+            block_type = "delegated"
+            role_segments = []
+            current_segment = [_clean_role_lines([s]) or s]
+            continue
+
+        if _INTERIM_RE.match(s):
+            flush_unclaimed()
+            block_type = "interim"
+            role_segments = []
+            current_segment = [_clean_role_lines([s]) or s]
+            continue
+
+        # Ligne de nom : édition arabe « االمضاء : nom », édition française
+        # ligne MAJUSCULES terminée par un point/virgule.
+        name = None
+        if is_ar:
+            m = _AR_NAME_RE.match(s)
+            name = m.group(1).strip() if m else None
+        elif _SIGNATORY_LINE_RE.match(s) and not up.startswith(_NAME_BLOCKED_PREFIXES):
+            name = _SIGNATORY_LINE_RE.match(s).group(1).strip()
+
+        if name:
+            # Premier nom SANS rôle qui le précède ni marqueur de
+            # contreseing → l'émetteur (le « Chef du Gouvernement » des
+            # décrets, le signataire unique d'un arrêté). S'il y a déjà des
+            # fragments de rôle (colonnes parallèles), c'est un co-signataire.
+            if (not found_issuer and block_type is None
+                    and not role_segments and not current_segment):
+                signatories.append({
+                    "role": issuer_role,
+                    "name": name,
+                    "type": "issuer",
+                })
+                found_issuer = True
+                block_type = "contreseing"
+            else:
+                # Premier segment de rôle non réclamé (FIFO) — gère aussi
+                # les colonnes parallèles dont les rôles précèdent tous les
+                # noms (ex. arrêté conjoint 181-26). En mode interleaved
+                # (colonnes de hauteurs différentes), les noms arrivent en
+                # ordre inversé : appariement LIFO.
+                close_segment()
+                if role_segments:
+                    seg = role_segments.pop() if interleaved \
+                        else role_segments.pop(0)
+                else:
+                    seg = []
+                signatories.append({
+                    "role": _clean_role_lines(seg),
+                    "name": name,
+                    "type": block_type or "contreseing",
+                })
+            continue
+
+        # Fragment de rôle — un nouveau segment démarre à une ligne
+        # « Le ministre… » / « La secrétaire… ».
+        if _ROLE_START_RE.match(s):
+            close_segment()
+            current_segment.append(s)
+            continue
+
+        # Ligne de continuation (ni nom, ni marqueur, ni début de rôle) :
+        # appartient au segment INCOMPLET le plus récent si le segment
+        # courant est déjà complet (ex. « de la pêche maritime, » de
+        # l'arrêté 181-26, repris après le bloc du ministre délégué).
+        if current_segment and _segment_complete(current_segment):
+            for seg in reversed(role_segments):
+                if not _segment_complete(seg):
+                    seg.append(s)
+                    interleaved = True
+                    break
+            else:
+                current_segment.append(s)
+        else:
+            current_segment.append(s)
+
+    close_segment()
+    flush_unclaimed()
+    return signatories
+
+
+def _instrument_signatories(articles: list[dict], preamble: str = "") -> list[dict]:
+    """
+    Signataires structurés de l'instrument (rôle + nom + type), extraits de
+    la zone de signature reconstituée sur les derniers articles (le bloc peut
+    chevaucher un saut de page/colonne).
+    """
+    tail_texts: list[str] = []
     for art in reversed(articles):
         text = art.get("text", "") or ""
         if not text.strip():
             continue
-        tail = text[-800:]
-        lines = tail.splitlines()
-        names: list[str] = []
-        for line in reversed(lines):
-            m = _SIGNATORY_LINE_RE.match(line)
-            if m:
-                names.append(m.group(1).strip())
-        if names:
-            names.reverse()
-            return names
-    return []
+        tail_texts.append(text)
+        # La formule de clôture trouvée : les articles suivants (plus tôt
+        # dans le document) n'apportent rien à la zone de signature.
+        if _FAIT_A_RE.search(text):
+            break
+
+    zone, is_ar = _signature_zone(list(reversed(tail_texts)))
+    if not zone.strip():
+        return []
+    if is_ar:
+        issuer_role = "رئيس الحكومة"
+    else:
+        issuer_role = _issuer_role_from_preamble(preamble)
+        if issuer_role is None:
+            # Préambule tronqué : chercher la ligne d'énonciation dans le
+            # texte des articles (avant la zone de signature).
+            for art in articles:
+                issuer_role = _issuer_role_from_text(art.get("text", "") or "")
+                if issuer_role:
+                    break
+    return _parse_signature_blocks(zone, is_ar, issuer_role)
+
+
+def _is_noise_line(line: str) -> bool:
+    """
+    Détecte les lignes de bruit héritées des fusions de colonnes OCR
+    (ex. « © #«ل " 34600606 ») : pas de mot, juste symboles/chiffres isolés.
+
+    Une ligne est du bruit si le ratio de lettres (latin + arabe) sur les
+    caractères non-espaces est < 30 % ET qu'elle est courte (< 60 caractères).
+    Les lignes de texte légitimes (français, arabe, tableaux) gardent un
+    ratio de lettres élevé.
+    """
+    non_ws = re.sub(r"\s", "", line)
+    if not non_ws:
+        return True
+    letters = sum(1 for ch in non_ws if ch.isalpha())
+    return letters / len(non_ws) < 0.30 and len(non_ws) < 60
+
+
+def _build_instrument_content(preamble: str, article_texts: list[str]) -> str:
+    """
+    Contenu complet de l'instrument : préambule + texte de tous les
+    articles (dans l'ordre), lignes de bruit retirées.
+
+    Le texte de l'article priorise ``text_clean`` (qui inclut la
+    linéarisation des tableaux extraits) quand il existe, sinon ``text``.
+    """
+    parts: list[str] = []
+    if preamble and preamble.strip():
+        clean_preamble = "\n".join(
+            ln for ln in preamble.splitlines()
+            if not _is_noise_line(ln)
+        ).strip()
+        if clean_preamble:
+            parts.append(clean_preamble)
+    for text in article_texts:
+        if not text or not text.strip():
+            continue
+        clean_lines = [
+            line for line in text.splitlines()
+            if not _is_noise_line(line)
+        ]
+        parts.append("\n".join(clean_lines).strip())
+    return "\n\n".join(parts).strip()
+
+
+def _instrument_content(
+    preamble: str,
+    instrument_articles: list[dict],
+) -> str:
+    """Assemble le contenu de l'instrument depuis son préambule et ses
+    articles (priorité à ``text_clean`` pour les tableaux)."""
+    texts = []
+    for art in instrument_articles:
+        text = art.get("text_clean") or art.get("text") or ""
+        texts.append(text)
+    return _build_instrument_content(preamble, texts)
 
 
 def _instrument_domain(text: str, lang: str = "fr") -> dict | None:
@@ -1055,12 +1445,15 @@ def _enrich_instrument_schema(
     instruments: list[dict],
     articles: list[dict],
     lang: str = "fr",
+    bo_date_publication: str | None = None,
+    classify_domain: bool = True,
 ) -> list[dict]:
     """
     Enrichit chaque instrument avec les champs du schéma optimal v2
     (docs/reference/schema_optimal_v2_reel.json) :
       type, reference_label, title, date_hijri, date_gregorian,
-      signatory/signatories, domain.
+      signatory/signatories, domain, content, decree_date_hijri,
+      decree_date_gregorian, bo_date_publication.
     Ajouts rétrocompatibles : les champs existants (instrument_type,
     reference, article_indices, article_ids) sont conservés tels quels.
     """
@@ -1068,6 +1461,10 @@ def _enrich_instrument_schema(
         instr_type = instr.get("instrument_type", "")
         ref = instr.get("reference")
         preamble = instr.get("_preamble", "") or ""
+        idxs = instr.get("article_indices", [])
+        instrument_articles = [
+            articles[i] for i in idxs if 0 <= i < len(articles)
+        ]
 
         instr["type"] = instr_type
         if ref:
@@ -1083,32 +1480,71 @@ def _enrich_instrument_schema(
         hijri, greg = _instrument_dates(
             preamble,
             ref,
-            article_texts=[articles[i].get("text", "") or ""
-                           for i in instr.get("article_indices", [])],
+            article_texts=[a.get("text", "") or "" for a in instrument_articles],
         )
         if hijri:
             instr["date_hijri"] = hijri
         if greg:
             instr["date_gregorian"] = greg
+        # Dates explicites de l'instrument (décret) : sa propre date de
+        # signature ET la date de parution du bulletin qui le publie —
+        # chaque décret porte les deux dates sans remonter au document.
+        instr["decree_date_hijri"] = instr.get("date_hijri")
+        instr["decree_date_gregorian"] = instr.get("date_gregorian")
+        instr["bo_date_publication"] = bo_date_publication
 
-        idxs = instr.get("article_indices", [])
-        signatories = _instrument_signatories(
-            [articles[i] for i in idxs if 0 <= i < len(articles)]
-        )
-        if len(signatories) == 1:
-            instr["signatory"] = signatories[0]
-        elif len(signatories) > 1:
-            instr["signatories"] = signatories
+        signatories = _instrument_signatories(instrument_articles, preamble)
+        instr["signatories"] = signatories
+        # Alias rétrocompatibles (noms plats) pour les anciens consommateurs.
+        names = [b.get("name") for b in signatories if b.get("name")]
+        if len(names) == 1:
+            instr["signatory"] = names[0]
+        elif len(names) > 1:
+            instr["signatories_flat"] = names
+
+        instr["content"] = _instrument_content(preamble, instrument_articles)
 
         domain_text = " ".join(
-            [preamble] + [articles[i].get("text", "") for i in idxs if 0 <= i < len(articles)]
+            [preamble] + [a.get("text", "") for a in instrument_articles]
         ).strip()
-        if domain_text:
+        if classify_domain and domain_text:
             domain = _instrument_domain(domain_text, lang)
             if domain:
                 instr["domain"] = domain
 
     return instruments
+
+
+# ── PDF lookup ────────────────────────────────────────────────────────────
+
+# Suffixe de hash des stems re-traités (ex. 'BO_6804_Fr_692ac82f').
+_HASH_SUFFIX_RE = re.compile(r"_[0-9a-f]{6,}$")
+
+
+def _pdf_candidates(stem: str, pdf_base: Path) -> list[Path]:
+    """
+    Candidats de PDF pour un stem donné, par ordre de probabilité :
+      - stem exact (fichier PDF hashé, ex. BO_7492_Fr_af81ac29.pdf) ;
+      - stem sans suffixe de hash (BO_6804_Fr_692ac82f → BO_6804_Fr.pdf) ;
+      - stem sans _Fr/_Ar (BO_6804_Fr.pdf → BO_6804.pdf) ;
+    puis les mêmes variantes sous les sous-dossiers ar/ et fr/.
+    """
+    base = _HASH_SUFFIX_RE.sub("", stem)
+    stripped = base.replace("_Fr", "").replace("_Ar", "")
+    names = [stem, base, stripped]
+    candidates: list[Path] = []
+    for sub in ("ar", "fr", ""):
+        for name in names:
+            candidates.append(pdf_base / sub / f"{name}.pdf")
+    return candidates
+
+
+def _find_pdf(stem: str, pdf_base: Path) -> str | None:
+    """Premier candidat de PDF existant, ou None."""
+    for c in _pdf_candidates(stem, pdf_base):
+        if c.exists():
+            return str(c)
+    return None
 
 
 # ── Main ─────────────────────────────────────────────────────────────────
@@ -1118,6 +1554,7 @@ def enrich_json(
     pdf_dir: Path | None = None,
     backfill_pages: bool = True,
     detect_instruments: bool = True,
+    classify_domain: bool = True,
 ) -> Path:
     """
     Load a JSON file, enrich it with page numbers and/or instrument
@@ -1133,26 +1570,7 @@ def enrich_json(
     # source looks like: data/processed/fr/BO_7492_Fr.txt
     stem = Path(data.get("source", json_path.stem)).stem
     pdf_base = pdf_dir or Path("data/raw")
-
-    # Try candidates in order of likelihood
-    candidates = [
-        pdf_base / f"{stem}.pdf",               # BO_7492_Fr.pdf
-        pdf_base / f"{stem.replace('_Fr', '')}.pdf",   # BO_7492.pdf
-        pdf_base / f"{stem.replace('_Ar', '')}.pdf",   # BO_7492.pdf (ar)
-        pdf_base / f"{stem.replace('_entities', '')}.pdf",
-    ]
-    # Also search subdirectories (ar/, fr/)
-    for sub in ("ar", "fr", ""):
-        candidates.append(pdf_base / sub / f"{stem}.pdf")
-        stripped = stem.replace("_Fr", "").replace("_Ar", "")
-        if stripped != stem:
-            candidates.append(pdf_base / sub / f"{stripped}.pdf")
-
-    pdf_path = None
-    for c in candidates:
-        if c.exists():
-            pdf_path = str(c)
-            break
+    pdf_path = _find_pdf(stem, pdf_base)
 
     if pdf_path and backfill_pages:
         print(f"  Backfilling page numbers from {pdf_path} ...")
@@ -1171,13 +1589,22 @@ def enrich_json(
             decrees=data.get("decrees"),
         )
         instruments = _enrich_instrument_schema(
-            instruments, data["articles"], lang=data.get("lang", "fr")
+            instruments,
+            data["articles"],
+            lang=data.get("lang", "fr"),
+            bo_date_publication=data.get("date_publication"),
+            classify_domain=classify_domain,
         )
         for instr in instruments:
             instr.pop("_preamble", None)  # internal field, not for output
         data["instruments"] = instruments
         data["n_instruments"] = len(instruments)
         print(f"    {len(instruments)} instruments detected")
+
+    # Alias sans ambiguïté de la date de parution du bulletin (le document
+    # porte aussi les dates propres de chaque décret, voir decree_date_*).
+    if "date_publication" in data:
+        data["bo_date_publication"] = data.get("date_publication")
 
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
@@ -1429,15 +1856,7 @@ def enrich_json_with_tables(
 
     stem = Path(data.get("source", json_path.stem)).stem
     pdf_base = pdf_dir or Path("data/raw")
-    candidates = [pdf_base / f"{stem}.pdf", pdf_base / f"{stem.replace('_Fr', '')}.pdf"]
-    for sub in ("ar", "fr", ""):
-        candidates.append(pdf_base / sub / f"{stem}.pdf")
-        candidates.append(pdf_base / sub / f"{stem.replace('_Fr', '').replace('_Ar', '')}.pdf")
-    pdf_path = None
-    for c in candidates:
-        if c.exists():
-            pdf_path = str(c)
-            break
+    pdf_path = _find_pdf(stem, pdf_base)
     if not pdf_path:
         print(f"  PDF introuvable pour {json_path.name}, extraction des tableaux ignorée")
         return json_path
@@ -1580,6 +1999,7 @@ def process_all(
     backfill_pages: bool = True,
     detect_instruments: bool = True,
     extract_tables: bool = False,
+    classify_domain: bool = True,
 ):
     """Process a single file or all JSON files in a directory."""
     fn = enrich_json_with_tables if extract_tables else enrich_json
@@ -1589,12 +2009,14 @@ def process_all(
                 f, pdf_dir=pdf_dir,
                 backfill_pages=backfill_pages,
                 detect_instruments=detect_instruments,
+                classify_domain=classify_domain,
             )
     else:
         fn(path, pdf_dir=pdf_dir) if extract_tables else enrich_json(
             path, pdf_dir=pdf_dir,
             backfill_pages=backfill_pages,
             detect_instruments=detect_instruments,
+            classify_domain=classify_domain,
         )
 
 
@@ -1611,23 +2033,28 @@ def main():
                         help="Skip page-number backfill")
     parser.add_argument("--skip-instruments", action="store_true",
                         help="Skip instrument detection")
+    parser.add_argument("--skip-domain", action="store_true",
+                        help="Skip domain classification (faster; no domain field)")
     parser.add_argument("--tables", action="store_true",
                         help="Extract and link tables to articles (Priority 3)")
     args = parser.parse_args()
 
     path = Path(args.path)
     pdf_dir = Path(args.pdf_dir) if args.pdf_dir else None
+    classify_domain = not args.skip_domain
 
     if args.tables:
         process_all(path, pdf_dir=pdf_dir, extract_tables=True)
     elif args.all and path.is_dir():
         process_all(path, pdf_dir=pdf_dir,
                     backfill_pages=not args.skip_pages,
-                    detect_instruments=not args.skip_instruments)
+                    detect_instruments=not args.skip_instruments,
+                    classify_domain=classify_domain)
     else:
         enrich_json(path, pdf_dir=pdf_dir,
                     backfill_pages=not args.skip_pages,
-                    detect_instruments=not args.skip_instruments)
+                    detect_instruments=not args.skip_instruments,
+                    classify_domain=classify_domain)
 
 
 if __name__ == "__main__":

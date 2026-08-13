@@ -9,11 +9,17 @@ Exemple d'en-tête réel (FR) :
     "28 chaoual 1447 (16 avril 2026)"
 """
 import re
+import warnings
 from datetime import datetime
 
 # --- Patterns FRANÇAIS ---
-# "N° 7500", "N°7500", "n° 7500"
-BO_NUMBER_PATTERN_FR = r"[Nn]°\s*(\d+(?:[-–]bis)?)"
+# "N° 7500", "N°7500", "n° 7500", "NO 4804" (l'OCR confond °, O et o),
+# "N° 7460 bis" (édition bis/ter — le suffixe est volontairement capturé)
+BO_NUMBER_PATTERN_FR = r"[Nn]\s*[°ºoO]\s*(\d{3,5}(?:\s*[-–]?\s*(?:bis|ter))?)"
+
+# Numéro du BO extrait du nom de fichier : "BO_6804_Fr_abc123",
+# "BO_7460-bis Fr" (doc_id / stem du fichier)
+BO_NUMBER_FILENAME_PATTERN = r"BO_(\d{3,5})(?:\s*[-–]?\s*(?:bis|ter))?"
 
 # Date grégorienne entre parenthèses : "(16 avril 2026)", "(1er janvier 2026)"
 GREGORIAN_DATE_PATTERN_FR = (
@@ -51,12 +57,96 @@ GREGORIAN_DATE_PATTERN_AR = (
     r"\s*(\d{4})\)"
 )
 
+# Partie numérique d'un numéro de BO (supprime un suffixe bis/ter éventuel)
+_BO_NUM_ONLY_RE = re.compile(r"^(\d{3,5})")
+
+
+def _bo_num_only(value: str) -> str | None:
+    """Partie numérique de '6804', '7460 bis', '7460-bis' → '7460'."""
+    m = _BO_NUM_ONLY_RE.match((value or "").strip())
+    return m.group(1) if m else None
+
 
 def extract_bo_number(text: str, window: int = 500, lang: str = "fr") -> str | None:
     """Cherche le numéro du BO dans les `window` premiers caractères (en-tête)."""
     pattern = BO_NUMBER_PATTERN_AR if lang == "ar" else BO_NUMBER_PATTERN_FR
     m = re.search(pattern, text[:window])
     return m.group(1) if m else None
+
+
+def extract_bo_number_from_filename(doc_id: str) -> str | None:
+    """
+    Numéro du BO déduit du nom de fichier (doc_id, ex. 'BO_6804_Fr_1a2b3c').
+
+    Retourne le numéro AVEC le suffixe bis/ter éventuel ('7460 bis'),
+    ou None si le nom ne suit pas le format BO_<numéro>_<lang>_<hash>.
+    """
+    if not doc_id:
+        return None
+    m = re.search(BO_NUMBER_FILENAME_PATTERN, doc_id)
+    return m.group(1).strip() if m else None
+
+
+def extract_bo_number_cross_validated(
+    text: str,
+    doc_id: str | None = None,
+    window: int = 500,
+    lang: str = "fr",
+) -> dict:
+    """
+    Numéro du BO validé par deux sources indépendantes :
+
+    1. le nom de fichier (doc_id, ex. 'BO_6804_Fr_1a2b3c') ;
+    2. l'en-tête du document (les `window` premiers caractères du texte,
+       ex. 'N° 6804' / 'NO 4804' / 'عدد 7506').
+
+    Retourne un dict :
+        bo_number            — valeur retenue (nom de fichier en priorité)
+        bo_number_source     — 'filename' | 'header' | 'filename+header'
+        bo_number_confidence — 'high' (les deux sources concordent),
+                               'low' (une seule source disponible),
+                               'mismatch' (les deux diffèrent — signaler)
+        bo_number_header     — valeur lue dans l'en-tête (None si absente)
+
+    Un désaccord est signalé (warnings.warn) et la valeur du nom de fichier
+    est retenue : un mismatch indique un nom de fichier incorrect, un
+    en-tête mal OCR-isé, ou une édition bis/ter dont le suffixe est porté
+    par une seule des deux sources.
+    """
+    filename_num = extract_bo_number_from_filename(doc_id)
+    header_raw = extract_bo_number(text, window=window, lang=lang)
+    header_num = _bo_num_only(header_raw) if header_raw else None
+    filename_num_only = _bo_num_only(filename_num) if filename_num else None
+
+    result = {
+        "bo_number": None,
+        "bo_number_source": None,
+        "bo_number_confidence": None,
+        "bo_number_header": header_raw,
+    }
+
+    if filename_num and header_num:
+        if filename_num_only == header_num:
+            result.update(bo_number=filename_num,
+                          bo_number_source="filename+header",
+                          bo_number_confidence="high")
+        else:
+            warnings.warn(
+                f"bo_number mismatch: filename '{filename_num}' "
+                f"vs header '{header_raw}' (doc_id={doc_id!r})"
+            )
+            result.update(bo_number=filename_num,
+                          bo_number_source="filename",
+                          bo_number_confidence="mismatch")
+    elif filename_num:
+        result.update(bo_number=filename_num,
+                      bo_number_source="filename",
+                      bo_number_confidence="low")
+    elif header_raw:
+        result.update(bo_number=header_raw,
+                      bo_number_source="header",
+                      bo_number_confidence="low")
+    return result
 
 
 def extract_publication_date(text: str, window: int = 500, lang: str = "fr") -> str | None:
@@ -87,11 +177,16 @@ def extract_edition_label(text: str, window: int = 500, lang: str = "fr") -> str
 
 
 def extract_document_metadata(text: str, doc_id: str, lang: str = "fr") -> dict:
-    """Point d'entrée : regroupe les trois extractions ci-dessus dans un dict."""
+    """Point d'entrée : regroupe les extractions ci-dessus dans un dict.
+
+    ``bo_number`` est désormais validé par recoupement nom-de-fichier /
+    en-tête (voir extract_bo_number_cross_validated) : les champs
+    bo_number_source et bo_number_confidence documentent la fiabilité.
+    """
     return {
         "doc_id": doc_id,
         "lang": lang,
-        "bo_number": extract_bo_number(text, lang=lang),
+        **extract_bo_number_cross_validated(text, doc_id=doc_id, lang=lang),
         "date_publication": extract_publication_date(text, lang=lang),
         "edition_label": extract_edition_label(text, lang=lang),
     }
