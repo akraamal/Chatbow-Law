@@ -1,48 +1,10 @@
 # Bulletin Officiel 6718
 **Source :** `data\processed\fr\BO_6718_Fr.txt`
-**Langue :** fr
-**Nombre d'articles :** 72
+**Langue :** ar
+**Nombre d'articles :** 75
 
 ## Préambule
 
-Hydrocarbures . - Concession d'exploitation
-de gaz naturel.
-décret n° 2-18-692 du 22 moharrem 1440
-(2 octobre 2018) accordant à l'Office national
-des hydrocarbures et des mines et à la société
-« SDX Energy Morocco (UK) Limited » la
-concession d'exploitation de gaz naturel dite
-« Sidi Al Harati Ouest»... 1753
-Reconnaissance de l'indication géographique
-et homologation du cahier des charges
-y afférent :
-+ « Huile d'Olive d'Amizmiz ».
-Arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des
-eaux et forêts n°1801-18 du 26 ramadan 1439
-(11 juin 2018) portant reconnaissance de
-l'indication géographique « Huile d'Olive
-d'Amizmiz » et homologation du cahier des
-charges y afférent. 1754
-+ « Huile d'Olive Dir Béni Mellal ».
-Arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des
-eaux et forêts n°1813-18 du 26 ramadan 1439
-(11 juin 2018) portant reconnaissance de
-l'indication géographique « Huile d'Olive Dir
-Béni Mellal » et homologation du cahier des
-charges y afférent. 1755
-+ « Piment Fort Zenatya ».
-Arrêté du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des
-eaux et forêts n°1814-18 du 27 ramadan 1439
-(12 juin 2018) portant reconnaissance de
-l'indication géographique « Piment Fort
-Zenatya » et homologation du cahier des charges
-y afférent. ss 1756
-N° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1725
-Go
-TEXTES GE]
 Dabhir n° 1-18-78 du 23 kaada 1439 (6 août 2018) portant
 promulgation de la loi n° 27-18 portant approbation
 du décret-loi n° 2-18-117 du 6 joumada IT 1439
@@ -76,19 +38,6 @@ du 6 joumada II 1439 (23 février 2018)
 automatique d'informations à des fins fiscales
 
 ## Décrets
-
-### décret
-
-décret n° 2-18-692 du 22 moharrem 1440
-(2 octobre 2018) accordant à l'Office national
-des hydrocarbures et des mines et à la société
-« SDX Energy Morocco (UK) Limited » la
-concession d'exploitation de gaz naturel dite
-« Sidi Al Harati Ouest»... 1753
-Reconnaissance de l'indication géographique
-et homologation du cahier des charges
-y afférent :
-+ « Huile d'Olive d'Amizmiz ».
 
 ### Arrêté
 
@@ -539,7 +488,7 @@ désignés « navires de commerce ».
 
 *Citations :*
 
-- `l'article 54` → décret n° 2-18-692 [✓]
+- `l'article 54` → loi n° 27-18 [✓]
 
 *Dates :* 28 joumada II 1337, 31 mars 1919
 
@@ -562,7 +511,7 @@ marchande.
 *Citations :*
 
 - `articles 55
-et 167` → décret n° 2-18-692 [✓]
+et 167` → loi n° 27-18 [✓]
 
 *Dates :* 28 joumada II 1337, 31 mars 1919, 8 safar 1440
 
@@ -1086,6 +1035,8 @@ Le ministre de l'équipement,
 du transport, de la logistique
 et de l'eau,
 ABDELKADER AMARA.
+1730 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)
+N° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1731
 1732 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)
 EE pm rpm may
 mme
@@ -1118,9 +1069,10 @@ Brevet d'officier mécanicien de 2% classe
 de la marine marchande
 oo
 
-*Entités :* `22 moharrem 1440` (DATE_HIJRI), `2 octobre 2018` (DATE_GREGORIAN), `8 safar 1440` (DATE_HIJRI), `décret n° 2-17-788` (DECRET), `25 février 1961` (DATE_GREGORIAN), `décret n° 2-60-389` (DECRET), `9 ramadan 1380` (DATE_HIJRI)
+*Entités :* `22 moharrem 1440` (DATE_HIJRI), `2 octobre 2018` (DATE_GREGORIAN), `8 safar 1440` (DATE_HIJRI), `décret n° 2-17-788` (DECRET), `25 février 1961` (DATE_GREGORIAN), `décret
+n° 2-60-389` (DECRET), `9 ramadan 1380` (DATE_HIJRI)
 
-*Dates :* 22 moharrem 1440, 2 octobre 2018, 8 safar 1440, 25 février 1961, 9 ramadan 1380, 25 février 1961, 9 ramadan 1380, 25 février 1961
+*Dates :* 22 moharrem 1440, 2 octobre 2018, 8 safar 1440, 8 safar 1440, 8 safar 1440, 25 février 1961, 9 ramadan 1380, 25 février 1961, 9 ramadan 1380, 25 février 1961
 
 
 ## Article ANNEXE
@@ -1499,6 +1451,7 @@ Rurale maladie de
 bayoud
 N° POINT X
 x *% *%
+1740 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)
 N° 6718 - 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL VAT
 Modèle du laissez-passer des vitro-plants, des
 palmiers dattiers des zones protég
@@ -1572,14 +1525,15 @@ AÏ au pal Ggie 9 pal (3)
 fficiel » n° 6716 du 1° safar 1440 (11 octobre 2018).
 1742 BULLETIN OFFICIEL | N° 6718 — 8 safar 1440 (18-10-2018)
 
-*Entités :* `8 safar 1440` (DATE_HIJRI), `arrêté du ministre de` (ARRETE), `3 ramadan 1436` (DATE_HIJRI), `20 juin 2015` (DATE_GREGORIAN), `11 octobre 2018` (DATE_GREGORIAN), `arrêté` (ARRETE)
+*Entités :* `8 safar 1440` (DATE_HIJRI), `arrêté du ministre de` (ARRETE), `3 ramadan 1436` (DATE_HIJRI), `20 juin 2015` (DATE_GREGORIAN), `11 octobre 2018` (DATE_GREGORIAN), `ministre de
+l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
 *Personnes :* Ja Ji, anuill ML sie
 
 *Organisations :* Office National de Sécurité Sanitaire, Alimentaires
 Service de la Protection des Végétaux
 
-*Dates :* 8 safar 1440, 3 ramadan 1436, 20 juin 2015, 11 octobre 2018, 8 safar 1440
+*Dates :* 8 safar 1440, 8 safar 1440, 3 ramadan 1436, 20 juin 2015, 11 octobre 2018, 8 safar 1440
 
 
 ## Article PREMIER
@@ -1725,7 +1679,8 @@ AZIZ AKHANNOUCH.
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 6716 du 1° safar 1440 (11 octobre 2018).
 
-*Entités :* `arrêté n° 563-17 du 25 kaada 1438` (ARRETE), `18 août 2017` (DATE_GREGORIAN), `larrêté du ministre de Pagriculture` (ARRETE), `25 kaada 1438` (DATE_HIJRI), `arrêté` (ARRETE), `20 kaada 1439` (DATE_HIJRI), `3 août 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6716` (BULLETIN_OFFICIEL), `11 octobre 2018` (DATE_GREGORIAN)
+*Entités :* `arrêté n° 563-17 du
+25 kaada 1438` (ARRETE), `18 août 2017` (DATE_GREGORIAN), `larrêté du ministre de Pagriculture` (ARRETE), `25 kaada 1438` (DATE_HIJRI), `arrêté` (ARRETE), `20 kaada 1439` (DATE_HIJRI), `3 août 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6716` (BULLETIN_OFFICIEL), `11 octobre 2018` (DATE_GREGORIAN)
 
 *Organisations :* Fédération Interprofessionnelle
 Marocaine du sucre, Fédération Interprofessionnelle, Fédération Interprofessionnelle
@@ -1743,11 +1698,17 @@ caractéristiques de la marque de conformité et de la marque
 de refus à apposer sur les instruments de mesure appartenant
 à une catégorie réglementée, lors des opérations de vérification
 périodique durant les années 2018 et 2019.
-ART, 2.- La marque de vérification périodique à apposer
-sur les instruments acceptés est un poinçon portant l'empreinte
-de la lettre «F ».
 
 *Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART, 2.-*
+
+La marque de vérification périodique à apposer
+sur les instruments acceptés est un poinçon portant l'empreinte
+de la lettre «F ».
 
 
 ## Article 3
@@ -1786,7 +1747,7 @@ jointe au présent arrêté.
 Les prix des médicaments figurant à l'annexe de l'arrêté visé ci-dessus n° 787-14, tel qu'il a été modifié et complété par
 les arrêtés subséquents, sont révisés à la baisse, tel qu'indiqué à l'annexe n° 3 au présent arrêté.
 
-*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `arrêté n° 787-14` (ARRETE)
+*Entités :* `arrêté` (ARRETE), `arrêtés` (ARRETE), `787-14` (ARRETE)
 
 
 ## Article 2
@@ -2382,7 +2343,8 @@ naturel dite « Sidi Al Harati Ouest » est accordée à l'Office
 national des hydrocarbures et des mines et à la société « SDX
 Energy Morocco (UK) Limited ».
 
-*Entités :* `société « SDX Energy Morocco (UK) Limited »` (ORG)
+*Entités :* `société « SDX
+Energy Morocco (UK) Limited »` (ORG)
 
 *Organisations :* Office
 national des hydrocarbures et des mines
@@ -2614,7 +2576,7 @@ ressortent bien du cadre sur lequel ils sont imprimés et pour
 qu'on puisse les distinguer nettement de lPensemble des autres
 indications et dessins.
 
-*Entités :* `décret n°2-14-268` (DECRET), `décret n°2-08-403` (DECRET)
+*Entités :* `décret n°2-14-268` (DECRET), `2-08-403` (DECRET)
 
 *Citations :*
 
@@ -2826,7 +2788,7 @@ ressortent bien du cadre sur lequel ils sont imprimés et pour
 qu'on puisse les distinguer nettement de l'ensemble des autres
 indications et dessins.
 
-*Entités :* `décret n°2-14-268` (DECRET), `décret n°2-08-403` (DECRET)
+*Entités :* `décret n°2-14-268` (DECRET), `2-08-403` (DECRET)
 
 *Citations :*
 
@@ -2858,18 +2820,32 @@ géographique « Piment Fort Zenatya », demandée par la
 « Coopérative Agricole Zenata » pour le piment obtenu dans
 les conditions fixées par le cahier des charges homologué et
 annexé à l'original du présent arrêté.
-ART, 2. Seul peut bénéficier de l'indication géographique
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART, 2.*
+
+Seul peut bénéficier de l'indication géographique
 «Piment Fort Zenatya », le piment produit exclusivement dans
 les conditions fixées par le cahier des charges homologué
 et mentionné à l'article premier ci-dessus.
-ART, 3. - L'aire géographique couverte par l'indication
+
+
+## Article 3
+
+*ART, 3. -*
+
+L'aire géographique couverte par l'indication
 géographique « Piment Fort Zenatya », comprend trois (3)
 communes, appartenant à la préfecture de Mohammedia
 et sont comme suit : Echallalat, Sidi Moussa El Majdoub et
 Sidi Moussa Ben Ali.
 N° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1757
 
-*Entités :* `arrêté` (ARRETE), `8 safar 1440` (DATE_HIJRI)
+*Entités :* `8 safar 1440` (DATE_HIJRI)
 
 *Dates :* 8 safar 1440
 
@@ -2971,7 +2947,7 @@ ressortent bien du cadre sur lequel ils sont imprimés et pour
 qu'on puisse les distinguer nettement de l'ensemble des autres
 indications et dessins.
 
-*Entités :* `décret n°2-08-403` (DECRET)
+*Entités :* `2-08-403` (DECRET)
 
 
 ## Article 8
@@ -2992,20 +2968,6 @@ AZ1IZ AKHANNOUCE.
 ## Entités du préambule
 
 
-- `décret n° 2-18-692` → DECRET
-- `22 moharrem 1440` → DATE_HIJRI
-- `2 octobre 2018` → DATE_GREGORIAN
-- `société « SDX Energy Morocco (UK) Limited »` → ORG
-- `ministre de l'agriculture` → MINISTERE
-- `26 ramadan 1439` → DATE_HIJRI
-- `11 juin 2018` → DATE_GREGORIAN
-- `ministre de l'agriculture` → MINISTERE
-- `26 ramadan 1439` → DATE_HIJRI
-- `11 juin 2018` → DATE_GREGORIAN
-- `ministre de l'agriculture` → MINISTERE
-- `27 ramadan 1439` → DATE_HIJRI
-- `12 juin 2018` → DATE_GREGORIAN
-- `8 safar 1440` → DATE_HIJRI
 - `23 kaada 1439` → DATE_HIJRI
 - `6 août 2018` → DATE_GREGORIAN
 - `loi n° 27-18` → LOI

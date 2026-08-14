@@ -1,241 +1,10 @@
-# Bulletin Officiel None
+# Bulletin Officiel 6804
 **Source :** `data\processed\fr\BO_6804_Fr.txt`
-**Langue :** fr
-**Nombre d'articles :** 55
+**Langue :** ar
+**Nombre d'articles :** 56
 
 ## Préambule
 
-Equivalences de diplômes.
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur et de
-larecherche scientifique, chargé de l'enseignement
-supérieur et de la recherche scientifique
-n° 1688-19 du 23 ramadan 1440 (29 mai 2019)
-complétant l'arrêté n° 2340-03 du 23 chaoual 1424
-(18 décembre 2003) fixant la liste des diplômes
-reconnus équivalents au diplôme de spécialité
-médicale en neurologie...
-Pages
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 1873-19 du 9 chaoual 1440
-(13 juin 2019) complétant l'arrêté n° 2075-09 du
-11 chaabane 1430 (3 août 2009) fixant la liste
-des diplômes reconnus équivalents au diplôme
-de spécialité médicale en endocrinologie et
-maladies métaboliques... ss... 1825
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement
-supérieur et de la recherche scientifique,
-chargé de l'enseignement supérieur et
-de la recherche scientifique n° 1877-19
-du 9 chaoual 1440 (13 juin 2019) complétant
-l'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004)
-fixant la liste des diplômes reconnus
-équivalents au diplôme de spécialité médicale
-en radiologie... ss...
-la liste des diplômes reconnus équivalents au
-diplôme de spécialité médicale en oto-rhino-
-laryngologie..… […texte non modifié…]  ss
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 1879-19 du 9 chaoual 1440
-(13 juin 2019) complétant l'arrêté n° 346-04
-du 4 moharrem 1425 (25 février 2004) fixant
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur et de
-larecherche scientifique, chargé de l'enseignement
-supérieur et de la recherche scientifique
-n° 1880-19 du 9 chaoual 1440 (13 juin 2019)
-complétant l'arrêté n° 743-09 du 26 rabüi I 1430
-(24 mars 2009) fixant la liste des diplômes
-reconnus équivalents au diplôme de spécialité
-médicale en biologie médicale (ou analyses
-biologiques médicales)... 1827
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 1882-19 du 9 chaoual 1440
-(13 juin 2019) complétant l'arrêté n° 753-06
-du 27 rabii I 1427 (26 avril 2006) fixant la liste
-des diplômes reconnus équivalents au diplôme
-de spécialité médicale en néphrologie. 1827
-N° 6804 — 13 hia 1440 (15-8-2019) , BULLETIN OFFICIEL 1819
-Pages
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement
-supérieur et de la recherche scientifique,
-chargé de l'enseignement supérieur et
-de la recherche scientifique n° 1884-19
-du 9 chaoual 1440 (13 juin 2019) complétant
-l'arrêté n° 570-04 du 15 safar 1425 (6 avril 2004)
-fixant la liste des diplômes reconnus
-équivalents au diplôme de spécialité médicale
-en dermatologie. ss 1828
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 1885-19 du 9 chaoual 1440
-(13 juin 2019) complétant l'arrêté n° 666-03 du
-7 rejeb 1424 (4 septembre 2003) fixant la liste
-des diplômes reconnus équivalents au diplôme
-de spécialité médicale en urologie..… […texte non modifié…] ….……….
-la liste des diplômes reconnus équivalents au
-diplôme de spécialité médicale en traumatologie-
-orthopédie […texte non modifié…]  ss
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 1886-19 du 9 chaoual 1440
-(13 juin 2019) complétant l'arrêté n° 1482-04
-du 24 joumada IT 1425 (11 août 2004) fixant
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement
-supérieur et de la recherche scientifique,
-chargé de l'enseignement supérieur et
-de la recherche scientifique n° 1888-19
-du 9 chaoual 1440 (13 juin 2019) complétant
-l'arrêté n° 173-18 du 23 rejeb 1439 (10 avril 2018)
-fixant la liste des diplômes reconnus équivalents
-au diplôme de spécialité médicale en chirurgie
-vasculaire périphérique. 1829
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 1889-19 du 9 chaoual 1440
-(13 juin 2019) complétant l'arrêté n° 753-06
-du 27 rabii I 1427 (26 avril 2006) fixant la liste
-des diplômes reconnus équivalents au diplôme
-de spécialité médicale en néphrologie. 1830
-D
-Pages
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 1890-19 du 9 chaoual 1440
-(13 juin 2019) complétant l'arrêté n° 950-04
-du 6 rabii II 1425 (26 mai 2004) fixant la
-liste des diplômes reconnus équivalents au
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur et de
-larecherche scientifique, chargé de l'enseignement
-supérieur et de la recherche scientifique
-n° 1891-19 du 9 chaoual 1440 (13 juin 2019)
-complétant l'arrêté n° 2871-06 du 8 hija 1427
-(29 décembre 2006) fixant la liste des diplômes
-reconnus équivalents au diplôme de spécialité
-médicale en médecine interne... 1831
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement
-supérieur et de la recherche scientifique,
-chargé de l'enseignement supérieur et
-de la recherche scientifique n° 1895-19
-du 9 chaoual 1440 (13 juin 2019) complétant
-l'arrêté n° 572-04 du 15 safar 1425 (6 avril 2004)
-fixant la liste des diplômes reconnus équivalents
-au diplôme de spécialité médicale en radiologie. 1831
-diplôme de spécialité médicale en gynécologie-
-ObSHÉITIQUE.
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur et de
-larecherche scientifique, chargé de l'enseignement
-supérieur et de la recherche scientifique
-n° 1899-19 du 9 chaoual 1440 (13 juin 2019)
-complétant l'arrêté n° 1482-04 du
-24 joumada II 1425 (11 août 2004) fixant la liste
-des diplômes reconnus équivalents au diplôme
-de spécialité médicale en traumatologie-
-orthopédie […texte non modifié…]  ss 1832
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 2003-19 du 13 chaoual 1440
-(17 juin 2019) complétant l'arrêté n° 405-14 du
-7 rabii II 1435 (7 février 2014) fixant la liste
-des diplômes reconnus équivalents au diplôme
-de spécialité médicale en médecine du travail. 1832
-1890 BULLETIN OFFICIEL N° 6804 — 13 hija 1440 (15-8-2019)
-a
-Pages
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur
-et de la recherche scientifique, chargé de
-l'enseignement supérieur et de la recherche
-scientifique n° 2004-19 du 13 chaoual 1440
-(17 juin 2019) complétant l'arrêté n° 173-18
-du 23 rejeb 1439 (10 avril 2018) fixant la liste
-des diplômes reconnus équivalents au diplôme
-Agréments :
-+ Société « SOFAC ».
-Décision du Wali de Bank Al-Maghrib n° 95 du
-12 kaada 1440 (15 juillet 2019) portant nouvel
-agrément de la société de financement d'achats
-à crédit « SOFAC » en qualité de société de
-financement... 1833
-+ Société « Orange Money Maroc ».
-de spécialité médicale en chirurgie vasculaire
-périphérique... ss
-Décision du Wali de Bank Al-Maghrib n° 94 du
-24 chaoual 1440 (28 juin 2019) portant agrément
-de la société « Orange Money Maroc » en
-qualité d'établissement de paiement...
-+ Société « DIGIFT ».
-Décision du Wali de Bank Al-Maghrib n° 95
-du 6 kaada 1440 (9 juillet 2019) portant
-agrément de la société « DIGIFTI » en qualité
-d'établissement de paiement. 1834
-D
-Pages
-e Société « MT Cash ».
-Décision du Wali de Bank Al-Maghrib n° 96
-du 7 kaada 1440 (10 juillet 2019) portant
-agrément de la société « MT Cash » en qualité
-d'établissement de paiement. 1835
-CONSEIL SUPERIEUR DE LA
-COMMUNICATION AUDIOVISUELLE
-Décision du CSCA n° 39-19 du 10 ramadan 1440
-(16 mai 2019)...
-Décision du CSCA n° 41-19 du 10 chaoual 1440
-(14 juin 2019)... 1837
-Décision du CSCA n° 42-19 du 10 chaoual 1440
-(14 juin 2019)...
-Décision du CSCA n° 43-19 du 10 chaoual 1440
-(14 juin 2019),
-Décision du CSCA n° 44-19 du 17 ramadan 1440
-(23 mai 2019) Re
-Décision du CSCA n° 48-19 du 10 chaoual 1440
-(14 juin 2019),
-Décision du CSCA n° 49-19 du 10 chaoual 1440
-(14 juin 2019).
-NO £RN4 _ 13 hia 1440 (15-8-2019) BULLETIN OFFICIEL 1821
-TEXTES Gi]
 décret n° 2-19-592 du 20 kaada 1440 (23 juillet 2019)
 approuvant la convention de prêt conclue le 6 avril 2019
 entre le gouvernement du Royaume du Maroc et la Banque
@@ -257,19 +26,26 @@ DÉCRÈTE :
 
 ## Décrets
 
-### Arrêté
+### décret
 
-Arrêté du secrétaire d'Etat auprès du ministre
-de l'éducation nationale, de la formation
-professionnelle, de l'enseignement supérieur et de
-larecherche scientifique, chargé de l'enseignement
-supérieur et de la recherche scientifique
-n° 1688-19 du 23 ramadan 1440 (29 mai 2019)
-complétant l'arrêté n° 2340-03 du 23 chaoual 1424
-(18 décembre 2003) fixant la liste des diplômes
-reconnus équivalents au diplôme de spécialité
-médicale en neurologie...
-Pages
+décret n° 2-19-592 du 20 kaada 1440 (23 juillet 2019)
+approuvant la convention de prêt conclue le 6 avril 2019
+entre le gouvernement du Royaume du Maroc et la Banque
+islamique de développement, portant sur un montant de
+quatre millions de dollars des Etats-Unis d'Amérique
+(4.000.000 SUS), consenti par ladite Banque au Royaume
+du Maroc, en vue de la participation au financement du
+projet de développement rural inclusif dans la région de
+Tanger Tétouan Al-Hoceima.
+LE CHEF DU GOUVERNEMENT,
+Vu la loi de finances n° 80-18 pour l'année budgétaire
+2019, promulguée par le dahir n° 1-18-104 du 12 rabii II 1440
+(20 décembre 2018), notamment son article 51 ;
+Vu le paragraphe Ï de l'article 41 de la loi de finances
+pour l'année 1982 n° 26-81 promulguée par le dahir n° 1-81-425
+du 5 rabii I 1402 (1° janvier 1982) ;
+Sur proposition du ministre de l'économie et des finances,
+DÉCRÈTE :
 
 ### décret
 
@@ -2083,7 +1859,7 @@ et des finances,
 MOHAMED BENCHAABOUN.
 EE ———
 
-*Entités :* `décret n°2-99-1044` (DECRET), `13 hija 1420` (DATE_HIJRI), `20 mars 2000` (DATE_GREGORIAN), `5 hija 1440` (DATE_HIJRI), `7 août 2019` (DATE_GREGORIAN), `loi n°18-97 relative au micro-crédit, promulguée` (LOI)
+*Entités :* `décret n°2-99-1044` (DECRET), `13 hija 1420` (DATE_HIJRI), `20 mars 2000` (DATE_GREGORIAN), `5 hija 1440` (DATE_HIJRI), `7 août 2019` (DATE_GREGORIAN), `18-97` (LOI)
 
 *Citations :*
 
@@ -2105,7 +1881,7 @@ organismes prévus à l'article 2 du décret susvisé n° 2-94-734
 conformément aux décisions du conseil d'administration.
 ©
 
-*Entités :* `décret n°2-94-734` (DECRET), `décret n° 2-94-734` (DECRET)
+*Entités :* `2-94-734` (DECRET), `2-94-734` (DECRET)
 
 *Citations :*
 
@@ -2249,7 +2025,8 @@ Le texte en langue arabe a été publié dans l'édition générale du
 EEE mm
 a ————_—_———
 
-*Entités :* `arrêté susvisé n° 563-17 du 25 kaada 1438` (ARRETE), `18 août 2017` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `25 kaada 1438` (DATE_HIJRI), `arrêté` (ARRETE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6802 du 6 hija 1440 (8 août 2019)` (BULLETIN_OFFICIEL)
+*Entités :* `arrêté susvisé n° 563-17 du
+25 kaada 1438` (ARRETE), `18 août 2017` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `25 kaada 1438` (DATE_HIJRI), `arrêté` (ARRETE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6802 du 6 hija 1440 (8 août 2019)` (BULLETIN_OFFICIEL)
 
 *Organisations :* Fédération interprofessionnelle marocaine
 de sucre, Fédération interprofessionnelle de la filière | n° 168 du 14/03/2018
@@ -2283,7 +2060,8 @@ allumage par compression (moteurs
 diesel ou semi-diesel).
 8408.10.10.00
 
-*Entités :* `arrêté du ministre` (ARRETE), `arrêté n° 1308-94 du 7 kaada 1414` (ARRETE)
+*Entités :* `arrêté du ministre` (ARRETE), `1308-94` (ARRETE), `arrêté du ministre
+du commerce extérieur` (ARRETE)
 
 
 ## Article 2
@@ -2316,7 +2094,9 @@ modifié comme suit :
 « et aux modalités de décomposition du solde des dettes
 « fournisseurs dans les transactions commerciales. »
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `3 kaada 1433` (DATE_HIJRI), `20 septembre 2012` (DATE_GREGORIAN)
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `3 kaada 1433` (DATE_HIJRI), `20 septembre 2012` (DATE_GREGORIAN), `arrêté conjoint
+du ministre de` (ARRETE), `arrêté conjoint
+du ministre de l'économie et` (ARRETE)
 
 *Dates :* 3 kaada 1433, 20 septembre 2012, 3 kaada 1433, 20 septembre 2012
 
@@ -2337,7 +2117,7 @@ technologies précité n° 3030-12 sont modifiées comme suit :
 «— trois points de pourcentage à compter de 31 décembre 2020 ;
 «—quatre points de pourcentage à compter du 1* janvier 2021. »
 
-*Entités :* `ministre de l'économie et des finances` (MINISTERE), `31 décembre 2020` (DATE_GREGORIAN), `arrêté conjoint du ministre de` (ARRETE), `décret n° 2-12-170` (DECRET), `arrêté conjoint du ministre de l'économie et` (ARRETE)
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `31 décembre 2020` (DATE_GREGORIAN), `arrêté conjoint du ministre de` (ARRETE), `2-12-170` (DECRET), `arrêté conjoint du ministre de l'économie et` (ARRETE)
 
 *Dates :* 31 décembre 2020
 
@@ -2384,7 +2164,8 @@ PACE TTL TEE LISE CEE TESTS TEE SEC ES SET EETE EEE E EEE TETE EEE SET STEEL EEE
 « de Rabat - le 14 janvier 2019. »
 A
 
-*Entités :* `arrêté susvisé n° 2340-03 du 23 chaoual 1424` (ARRETE), `18 décembre 2003` (DATE_GREGORIAN), `14 janvier 2019` (DATE_GREGORIAN), `Parrêté n° 2340-03 du 23 chaoual 1424` (ARRETE), `23 chaoual 1424` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 2340-03 du 23 chaoual 1424` (ARRETE), `18 décembre 2003` (DATE_GREGORIAN), `14 janvier 2019` (DATE_GREGORIAN), `2340-03` (ARRETE), `23 chaoual 1424` (DATE_HIJRI)
 
 *Dates :* 18 décembre 2003, 14 janvier 2019
 
@@ -2428,7 +2209,8 @@ PRET PETITE TETE TELE TETE LEEEECELEECEEECEL EEE ELEEEEEEEEEEELEEEEEEEEEEES ELLE
 « médecine et de pharmacie de Casablanca - le 4 janvier
 « 2019, »
 
-*Entités :* `arrêté susvisé n° 2075-09 du 11 chaabane 1430` (ARRETE), `3 août 2009` (DATE_GREGORIAN), `13 hija 1440` (DATE_HIJRI), `13 mars 2016` (DATE_GREGORIAN), `9 novembre 2017` (DATE_GREGORIAN), `29 décembre 2017` (DATE_GREGORIAN), `28 décembre 2018` (DATE_GREGORIAN), `arrêté n° 2075-09 du 11 chaabane 1430` (ARRETE), `11 chaabane 1430` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 2075-09 du 11 chaabane 1430` (ARRETE), `3 août 2009` (DATE_GREGORIAN), `13 hija 1440` (DATE_HIJRI), `13 mars 2016` (DATE_GREGORIAN), `9 novembre 2017` (DATE_GREGORIAN), `29 décembre 2017` (DATE_GREGORIAN), `28 décembre 2018` (DATE_GREGORIAN), `2075-09` (ARRETE), `11 chaabane 1430` (DATE_HIJRI)
 
 *Personnes :* Ibn Rochd de Casablanca
 
@@ -2470,7 +2252,8 @@ APPRIS TETE ET I TITI TITLE CEE TT EE ELEECLEE EE EEE EEE LELEELEELEEEEELEEEEELE
 « Faculté de médecine et de pharmacie de Marrakech -
 « le 25 mars 2019. »
 
-*Entités :* `arrêté susvisé n° 572-04 du 15 safar 1425` (ARRETE), `6 avril 2004` (DATE_GREGORIAN), `18 avril 2018` (DATE_GREGORIAN), `25 mars 2019` (DATE_GREGORIAN), `arrêté n° 572-04 du 15 safar 1425` (ARRETE), `15 safar 1425` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 572-04 du 15 safar 1425` (ARRETE), `6 avril 2004` (DATE_GREGORIAN), `18 avril 2018` (DATE_GREGORIAN), `25 mars 2019` (DATE_GREGORIAN), `572-04` (ARRETE), `15 safar 1425` (DATE_HIJRI)
 
 *Dates :* 6 avril 2004, 18 avril 2018, 25 mars 2019
 
@@ -2504,7 +2287,8 @@ PRET PPET SIT CIE TETE IT EEE CEE EESE ELLES EEE EEE CEE ELELEELEEEEETEEEELEEEEE
 «délivré par l'Université de Reims Champagne Ardenne -
 « France - le 30 octobre 1993. »
 
-*Entités :* `arrêté susvisé n° 346-04 du 4 moharrem 1425` (ARRETE), `25 février 2004` (DATE_GREGORIAN), `30 octobre 1993` (DATE_GREGORIAN), `arrêté n° 346-04 du 4 moharrem 1425` (ARRETE), `4 moharrem 1425` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 346-04 du 4 moharrem 1425` (ARRETE), `25 février 2004` (DATE_GREGORIAN), `30 octobre 1993` (DATE_GREGORIAN), `346-04` (ARRETE), `4 moharrem 1425` (DATE_HIJRI)
 
 *Dates :* 25 février 2004, 30 octobre 1993
 
@@ -2539,7 +2323,8 @@ PRET ETES TETE TERRE TTIII ET EE CE EEE EEECECELE EEE ECEEEEEEELEELELEELELEEEEEZ
 « délivré par l'Université de Bordeaux - France - le
 « 4 janvier 2018. »
 
-*Entités :* `arrêté susvisé n° 743-09` (ARRETE), `26 rabii I 1430` (DATE_HIJRI), `24 mars 2009` (DATE_GREGORIAN), `4 janvier 2018` (DATE_GREGORIAN), `arrêté n° 743-09` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 743-09` (ARRETE), `26 rabii I 1430` (DATE_HIJRI), `24 mars 2009` (DATE_GREGORIAN), `4 janvier 2018` (DATE_GREGORIAN), `743-09` (ARRETE)
 
 *Dates :* 26 rabii I 1430, 24 mars 2009, 4 janvier 2018
 
@@ -2581,7 +2366,8 @@ PRIT TE EE TE EC ELEC ETES ET EE CEE EEE ET LEE EE EEE LEELEEEEEELELES ELLES
 « de Casablanca, validé par la Faculté de médecine et
 « de pharmacie de Casablanca - le 18 mars 2019. »
 
-*Entités :* `arrêté susvisé n° 753-06` (ARRETE), `27 rabii I 1427` (DATE_HIJRI), `26 avril 2006` (DATE_GREGORIAN), `18 janvier 2016` (DATE_GREGORIAN), `18 mars 2019` (DATE_GREGORIAN), `arrêté n° 753-06` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 753-06` (ARRETE), `27 rabii I 1427` (DATE_HIJRI), `26 avril 2006` (DATE_GREGORIAN), `18 janvier 2016` (DATE_GREGORIAN), `18 mars 2019` (DATE_GREGORIAN), `753-06` (ARRETE)
 
 *Personnes :* Ibn Rochd de Casablanca
 
@@ -2621,7 +2407,8 @@ PRPPR PTT RETIRE TT EEE TITI TITI TEST EEE EEE CE EEEEE EEE EE EEECEEEELEEEEEEEE
 « Faculté de médecine et de pharmacie de Casablanca -
 «le 12 mars 2019. »
 
-*Entités :* `arrêté susvisé n° 570-04 du 15 safar 1425` (ARRETE), `6 avril 2004` (DATE_GREGORIAN), `13 février 2018` (DATE_GREGORIAN), `12 mars 2019` (DATE_GREGORIAN), `arrêté n° 570-04 du 15 safar 1425` (ARRETE), `15 safar 1425` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 570-04 du 15 safar 1425` (ARRETE), `6 avril 2004` (DATE_GREGORIAN), `13 février 2018` (DATE_GREGORIAN), `12 mars 2019` (DATE_GREGORIAN), `570-04` (ARRETE), `15 safar 1425` (DATE_HIJRI)
 
 *Dates :* 6 avril 2004, 13 février 2018, 12 mars 2019
 
@@ -2660,7 +2447,8 @@ PNR ETES ETES EIRE LILI TITI LEE LEE CECELEEEEPELELEEELELELLEEEEEEERELLESEEEE EE
 « délivrée par la Faculté de médecine et de pharmacie
 « de Fès - le 4 mars 2019. »
 
-*Entités :* `arrêté susvisé n° 666-03 du 7 rejeb 1424` (ARRETE), `4 septembre 2003` (DATE_GREGORIAN), `30 juillet 2018` (DATE_GREGORIAN), `4 mars 2019` (DATE_GREGORIAN), `arrêté n° 666-03 du 7 rejeb 1424` (ARRETE), `7 rejeb 1424` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 666-03 du 7 rejeb 1424` (ARRETE), `4 septembre 2003` (DATE_GREGORIAN), `30 juillet 2018` (DATE_GREGORIAN), `4 mars 2019` (DATE_GREGORIAN), `666-03` (ARRETE), `7 rejeb 1424` (DATE_HIJRI)
 
 *Organisations :* LEE LEE
 
@@ -2701,7 +2489,8 @@ ANNEE TETE TI TEE ET EE TETE LITE CIEL EEE EEE LE EEEEELEEEEEEEEEEEEEEEEEELEEEEE
 « 18 février 2019, validé par la Faculté de médecine et de
 « pharmacie de Marrakech - le 21 février 2019. »
 
-*Entités :* `arrêté susvisé n° 1482-04` (ARRETE), `24 joumada II 1425` (DATE_HIJRI), `11 août 2004` (DATE_GREGORIAN), `5 août 2015` (DATE_GREGORIAN), `19 février 2018` (DATE_GREGORIAN), `18 février 2019` (DATE_GREGORIAN), `21 février 2019` (DATE_GREGORIAN), `arrêté n° 1482-04` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 1482-04` (ARRETE), `24 joumada II 1425` (DATE_HIJRI), `11 août 2004` (DATE_GREGORIAN), `5 août 2015` (DATE_GREGORIAN), `19 février 2018` (DATE_GREGORIAN), `18 février 2019` (DATE_GREGORIAN), `21 février 2019` (DATE_GREGORIAN), `1482-04` (ARRETE)
 
 *Dates :* 24 joumada II 1425, 11 août 2004, 5 août 2015, 19 février 2018, 18 février 2019, 21 février 2019
 
@@ -2742,7 +2531,8 @@ CPEPEEEECE ETES EST EC CE EE TETE ES CEE EEE LEE LES STE ET LE EE EE EEE EEE EE 
 «par la Faculté de médecine et de pharmacie de Fès - le
 « 26 février 2019. »
 
-*Entités :* `arrêté susvisé n° 173-18 du 23 rejeb 1439` (ARRETE), `10 avril 2018` (DATE_GREGORIAN), `1 juillet 2016` (DATE_GREGORIAN), `13 février 2017` (DATE_GREGORIAN), `26 février 2019` (DATE_GREGORIAN), `arrêté n° 173-18 du 23 rejeb 1439` (ARRETE), `23 rejeb 1439` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 173-18 du 23 rejeb 1439` (ARRETE), `10 avril 2018` (DATE_GREGORIAN), `1 juillet 2016` (DATE_GREGORIAN), `13 février 2017` (DATE_GREGORIAN), `26 février 2019` (DATE_GREGORIAN), `173-18` (ARRETE), `23 rejeb 1439` (DATE_HIJRI)
 
 *Dates :* 10 avril 2018, 1 juillet 2016, 13 février 2017, 26 février 2019
 
@@ -2780,7 +2570,8 @@ PPS TT TITI TETE TETE IT TETE TEE LEE EEE EE EE ECECEEEE EE EECELELEEEEELELEEEEL
 « délivrée par la Faculté de médecine et de pharmacie
 « de Casablanca - le 2 avril 2019. »
 
-*Entités :* `arrêté susvisé n° 753-06` (ARRETE), `27 rabii I 1427` (DATE_HIJRI), `26 avril 2006` (DATE_GREGORIAN), `28 février 2018` (DATE_GREGORIAN), `2 avril 2019` (DATE_GREGORIAN), `arrêté n° 753-06` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 753-06` (ARRETE), `27 rabii I 1427` (DATE_HIJRI), `26 avril 2006` (DATE_GREGORIAN), `28 février 2018` (DATE_GREGORIAN), `2 avril 2019` (DATE_GREGORIAN), `753-06` (ARRETE)
 
 *Dates :* 27 rabii I 1427, 26 avril 2006, 28 février 2018, 2 avril 2019
 
@@ -2810,7 +2601,8 @@ suit :
 « obstétrique, est fixée ainsi qu'il suit :
 APPRIS TITI TITI TE ITT EEE EEE TEE EE ECEEELEEEEEEEEELEEEELEEEEELEEEEEEELEEEEELSLSSS RES
 
-*Entités :* `arrêté susvisé n° 950-04` (ARRETE), `6 rabii II 1425` (DATE_HIJRI), `26 mai 2004` (DATE_GREGORIAN), `arrêté n° 950-04` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 950-04` (ARRETE), `6 rabii II 1425` (DATE_HIJRI), `26 mai 2004` (DATE_GREGORIAN), `950-04` (ARRETE)
 
 *Dates :* 6 rabii II 1425, 26 mai 2004
 
@@ -2848,7 +2640,8 @@ DNS E TEE T TEL IT TETE LEE EEE CEECCELEE EC EEEEEECEEEEEEEEEEEEEEEEEEEEELLEEEEE
 « médecine et de pharmacie de Casablanca - le 26 mars
 « 2019. »
 
-*Entités :* `arrêté susvisé n° 2871-06 du 8 hija 1427` (ARRETE), `29 décembre 2006` (DATE_GREGORIAN), `arrêté n° 2871-06 du 8 hija 1427` (ARRETE), `8 hija 1427` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 2871-06 du 8 hija 1427` (ARRETE), `29 décembre 2006` (DATE_GREGORIAN), `2871-06` (ARRETE), `8 hija 1427` (DATE_HIJRI)
 
 *Dates :* 29 décembre 2006
 
@@ -2885,13 +2678,24 @@ DPLLETE TEE ECESILEELCEETEEETE EEE ECEELEET ELEC EEE TETE EEE EEE TEE EEE EEETEE
 «assorti d'une attestation d'évaluation des connaissances
 «et des compétences délivrée par la Faculté de médecine
 «et de pharmacie de Casablanca - le 21 mars 2019. »
-ART, 2. - Le présent arrêté sera publié au Bulletin officiel.
+
+*Entités :* `arrêté susvisé
+n° 572-04 du 15 safar 1425` (ARRETE), `6 avril 2004` (DATE_GREGORIAN), `6 novembre 2000` (DATE_GREGORIAN), `21 mars 2019` (DATE_GREGORIAN), `572-04` (ARRETE), `15 safar 1425` (DATE_HIJRI)
+
+*Dates :* 6 avril 2004, 6 novembre 2000, 21 mars 2019
+
+
+## Article 2
+
+*ART, 2. -*
+
+Le présent arrêté sera publié au Bulletin officiel.
 Rabat, le 9 chaoual 1440 (13 juin 2019).
 KHALID SAMADI.
 
-*Entités :* `arrêté susvisé n° 572-04 du 15 safar 1425` (ARRETE), `6 avril 2004` (DATE_GREGORIAN), `6 novembre 2000` (DATE_GREGORIAN), `21 mars 2019` (DATE_GREGORIAN), `arrêté` (ARRETE), `9 chaoual 1440` (DATE_HIJRI), `13 juin 2019` (DATE_GREGORIAN), `Parrêté n° 572-04 du 15 safar 1425` (ARRETE), `15 safar 1425` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `9 chaoual 1440` (DATE_HIJRI), `13 juin 2019` (DATE_GREGORIAN)
 
-*Dates :* 6 avril 2004, 6 novembre 2000, 21 mars 2019, 9 chaoual 1440, 13 juin 2019
+*Dates :* 9 chaoual 1440, 13 juin 2019
 
 
 ## Article PREMIER
@@ -2913,7 +2717,8 @@ PPPPPPPE RIRE E SET EEE CEE EEE EEE CEE EL EELELEEEEEEEEEELEEEEEEEESELESSSSSRSSS
 « la Faculté de médecine et de pharmacie de Rabat - le
 « 15 janvier 2019. »
 
-*Entités :* `arrêté susvisé n° 1482-04` (ARRETE), `24 joumada II 1425` (DATE_HIJRI), `11 août 2004` (DATE_GREGORIAN), `6 janvier 2016` (DATE_GREGORIAN), `15 janvier 2019` (DATE_GREGORIAN), `arrêté n° 1482-04` (ARRETE)
+*Entités :* `arrêté susvisé
+n° 1482-04` (ARRETE), `24 joumada II 1425` (DATE_HIJRI), `11 août 2004` (DATE_GREGORIAN), `6 janvier 2016` (DATE_GREGORIAN), `15 janvier 2019` (DATE_GREGORIAN), `1482-04` (ARRETE)
 
 *Personnes :* Landesarztekammer Hessen - Allemagne
 
@@ -2950,7 +2755,8 @@ PETTIL III TETE CITE EEE EEE EE EEE EEE EEE ELLE LEE LEE EELEE EEE EE ELLES EEEE
 « publique de l'Université Libre de Bruxelles - Belgique -
 «en l'année académique 2014/2015. »
 
-*Entités :* `arrêté susvisé n° 405-14` (ARRETE), `7 rabii II 1435` (DATE_HIJRI), `7 février 2014` (DATE_GREGORIAN)
+*Entités :* `arrêté susvisé
+n° 405-14` (ARRETE), `7 rabii II 1435` (DATE_HIJRI), `7 février 2014` (DATE_GREGORIAN)
 
 *Dates :* 7 rabii II 1435, 7 février 2014
 
@@ -2991,7 +2797,8 @@ ANNEE TERRESTRE TT RTE II ETES TELE EEE E ET CEE EEE EEEEEEEEEEELEEEEEEEEEEEEEEE
 «la Faculté de médecine et de pharmacie de Rabat - le
 «3 avril 2019. »
 
-*Entités :* `arrêté susvisé n° 173-18 du 23 rejeb 1439` (ARRETE), `10 avril 2018` (DATE_GREGORIAN), `14 juillet 2011` (DATE_GREGORIAN), `3 avril 2019` (DATE_GREGORIAN), `arrêté n° 173-18 du 23 rejeb 1439` (ARRETE), `23 rejeb 1439` (DATE_HIJRI)
+*Entités :* `arrêté susvisé
+n° 173-18 du 23 rejeb 1439` (ARRETE), `10 avril 2018` (DATE_GREGORIAN), `14 juillet 2011` (DATE_GREGORIAN), `3 avril 2019` (DATE_GREGORIAN), `173-18` (ARRETE), `23 rejeb 1439` (DATE_HIJRI)
 
 *Dates :* 10 avril 2018, 14 juillet 2011, 3 avril 2019
 
@@ -3049,7 +2856,8 @@ qualité d'établissement de paiement pour offrir la prestation
 des services de paiement prévus aux paragraphes 2, 3 et4 du |)
 de l'article 16 de la loi n° 103-12 susvisée.
 
-*Entités :* `société « Orange Money Maroc »` (ORG), `loi n° 103-12` (LOI), `loi n° 103-12 relative aux établissements de crédit` (LOI)
+*Entités :* `société
+« Orange Money Maroc »` (ORG), `loi n° 103-12` (LOI), `103-12` (LOI)
 
 *Citations :*
 
@@ -3083,7 +2891,8 @@ de paiement pour offrir la prestation des services de paiement
 prévus aux paragraphes 2, 3 et 4 du 1) de l'article 16 de la loi
 n° 103-12 susvisée.
 
-*Entités :* `société « DIGIFI »` (ORG), `loi n° 103-12` (LOI), `loi n° 103-12 relative aux établissements de crédit et` (LOI)
+*Entités :* `société « DIGIFI »` (ORG), `loi
+n° 103-12` (LOI), `103-12` (LOI)
 
 *Citations :*
 
@@ -3118,7 +2927,7 @@ Riad, en qualité d'établissement de paiement pour offrir la
 prestation des services de paiement prévus aux paragraphes
 2, 3 et 4 du 1) de l'article 16 de la loi n° 103-12 susvisée.
 
-*Entités :* `société « MT Cash »` (ORG), `loi n° 103-12` (LOI), `loi n° 103-12 relative aux établissements de crédit et` (LOI)
+*Entités :* `société « MT Cash »` (ORG), `loi n° 103-12` (LOI), `103-12` (LOI)
 
 *Citations :*
 
@@ -3146,126 +2955,6 @@ CONSEIL SUPERIEUR DE LA CON
 ## Entités du préambule
 
 
-- `Arrêté` → ARRETE
-- `23 ramadan 1440` → DATE_HIJRI
-- `29 mai 2019` → DATE_GREGORIAN
-- `arrêté n° 2340-03 du 23 chaoual 1424` → ARRETE
-- `18 décembre 2003` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 2075-09 du 11 chaabane 1430` → ARRETE
-- `3 août 2009` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 572-04 du 15 safar 1425` → ARRETE
-- `6 avril 2004` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 346-04 du 4 moharrem 1425` → ARRETE
-- `25 février 2004` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 743-09` → ARRETE
-- `24 mars 2009` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 753-06` → ARRETE
-- `27 rabii I 1427` → DATE_HIJRI
-- `26 avril 2006` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 570-04 du 15 safar 1425` → ARRETE
-- `6 avril 2004` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 666-03 du 7 rejeb 1424` → ARRETE
-- `4 septembre 2003` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 1482-04` → ARRETE
-- `11 août 2004` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 173-18 du 23 rejeb 1439` → ARRETE
-- `10 avril 2018` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 753-06` → ARRETE
-- `27 rabii I 1427` → DATE_HIJRI
-- `26 avril 2006` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 950-04` → ARRETE
-- `6 rabii II 1425` → DATE_HIJRI
-- `26 mai 2004` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 2871-06 du 8 hija 1427` → ARRETE
-- `29 décembre 2006` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 572-04 du 15 safar 1425` → ARRETE
-- `6 avril 2004` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `9 chaoual 1440` → DATE_HIJRI
-- `13 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 1482-04` → ARRETE
-- `24 joumada II 1425` → DATE_HIJRI
-- `11 août 2004` → DATE_GREGORIAN
-- `Arrêté` → ARRETE
-- `13 chaoual 1440` → DATE_HIJRI
-- `17 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 405-14` → ARRETE
-- `7 rabii II 1435` → DATE_HIJRI
-- `7 février 2014` → DATE_GREGORIAN
-- `13 hija 1440` → DATE_HIJRI
-- `Arrêté` → ARRETE
-- `13 chaoual 1440` → DATE_HIJRI
-- `17 juin 2019` → DATE_GREGORIAN
-- `arrêté n° 173-18 du 23 rejeb 1439` → ARRETE
-- `10 avril 2018` → DATE_GREGORIAN
-- `Société « SOFAC »` → ORG
-- `12 kaada 1440` → DATE_HIJRI
-- `15 juillet 2019` → DATE_GREGORIAN
-- `Société « Orange Money Maroc »` → ORG
-- `24 chaoual 1440` → DATE_HIJRI
-- `28 juin 2019` → DATE_GREGORIAN
-- `société « Orange Money Maroc »` → ORG
-- `Société « DIGIFT »` → ORG
-- `6 kaada 1440` → DATE_HIJRI
-- `9 juillet 2019` → DATE_GREGORIAN
-- `société « DIGIFTI »` → ORG
-- `Société « MT Cash »` → ORG
-- `7 kaada 1440` → DATE_HIJRI
-- `10 juillet 2019` → DATE_GREGORIAN
-- `société « MT Cash »` → ORG
-- `10 ramadan 1440` → DATE_HIJRI
-- `16 mai 2019` → DATE_GREGORIAN
-- `10 chaoual 1440` → DATE_HIJRI
-- `14 juin 2019` → DATE_GREGORIAN
-- `10 chaoual 1440` → DATE_HIJRI
-- `14 juin 2019` → DATE_GREGORIAN
-- `10 chaoual 1440` → DATE_HIJRI
-- `14 juin 2019` → DATE_GREGORIAN
-- `17 ramadan 1440` → DATE_HIJRI
-- `23 mai 2019` → DATE_GREGORIAN
-- `10 chaoual 1440` → DATE_HIJRI
-- `14 juin 2019` → DATE_GREGORIAN
-- `10 chaoual 1440` → DATE_HIJRI
-- `14 juin 2019` → DATE_GREGORIAN
 - `décret n° 2-19-592` → DECRET
 - `20 kaada 1440` → DATE_HIJRI
 - `23 juillet 2019` → DATE_GREGORIAN

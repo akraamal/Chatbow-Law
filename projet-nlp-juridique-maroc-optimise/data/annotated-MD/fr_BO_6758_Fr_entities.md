@@ -1,7 +1,7 @@
 # Bulletin Officiel 6758
 **Source :** `data\processed\fr\BO_6758_Fr.txt`
-**Langue :** fr
-**Nombre d'articles :** 72
+**Langue :** ar
+**Nombre d'articles :** 76
 
 ## Préambule
 
@@ -3508,15 +3508,23 @@ la protection des obtentions végétales.
 Sont désignés dans le tableau annexé au présent arrêté, l'espèce, le numéro et la date du dépôt,
 la dénomination de la variété, le nom et l'adresse de l'obtenteur, le nom et l'adresse du déposant, la nouveauté
 de la variété et la durée de la protection.
-ART, 3. - conformément aux dispositions de l'article 19 de la loi susvisée n° 9-94 sur la protection des
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 3
+
+*ART, 3. -*
+
+conformément aux dispositions de l'article 19 de la loi susvisée n° 9-94 sur la protection des
 obtentions végétales, la durée de la protection mentionnée dans le tableau indiqué à l'article premier ci-dessus,
 débute à compter de la date de délivrance du certificat d'obtention végétale correspondant.
 
-*Entités :* `arrêté` (ARRETE), `9-94` (LOI)
+*Entités :* `9-94` (LOI)
 
 *Citations :*
 
-- `l'article 19` → arrêté [✓]
+- `l'article 19` → loi n° 9-94 [✓]
 
 
 ## Article 4
@@ -4107,7 +4115,23 @@ auprès de l'Agence nationale pour le développement de
 l'aquaculture, au plus tard six (6) mois avant la date d'expiration
 de l'autorisation en cours de validité, conformément aux
 dispositions de l'article 3 de l'arrêté n° 1643-10 susvisé.
-ART, 3. - Le registre prévu à l'article 28-1 du dahir
+
+*Entités :* `décret n° 2-08-562` (DECRET), `arrêté conjoint` (ARRETE), `arrêté n° 1643-10` (ARRETE)
+
+*Citations :*
+
+- `l'article 7` → arrêté conjoint [✓]
+- `l'article 3` → arrêté n° 1643-10 [✓]
+
+*Organisations :* Agence nationale pour le développement de
+l'aquaculture
+
+
+## Article 3
+
+*ART, 3. -*
+
+Le registre prévu à l'article 28-1 du dahir
 portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)
 susvisé, tenu par la société « MEDITERRANEAN
 AQUAFARM SA », doit répertorier, dans l'ordre chronologique,
@@ -4115,18 +4139,13 @@ ventilé par espèce, les entrées et les sorties du bar ou loup
 (Dicentrarchus labrax), de la dorade royale {Sparus aurata),
 du maigre (argyrosomus regius) élevés.
 
-*Entités :* `décret n° 2-08-562` (DECRET), `arrêté conjoint` (ARRETE), `arrêté n° 1643-10` (ARRETE), `dahir
+*Entités :* `dahir
 portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « MEDITERRANEAN
 AQUAFARM SA »` (ORG)
 
 *Citations :*
 
-- `l'article 7` → arrêté conjoint [✓]
-- `l'article 3` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
 - `l'article 28-1` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
-
-*Organisations :* Agence nationale pour le développement de
-l'aquaculture
 
 
 ## Article 4
@@ -4138,7 +4157,19 @@ mentionnée à l'article premier ci-dessus, qui conformément
 aux dispositions de l'article 9 du décret précité n° 2-08-562
 reprend les principales dispositions contenues dans ladite
 convention, est annexé au présent arrêté conjoint.
-ART, 5. - Le présent arrêté conjoint sera publié au
+
+*Entités :* `arrêté conjoint` (ARRETE), `2-08-562` (DECRET)
+
+*Citations :*
+
+- `l'article 9` → arrêté conjoint [✓]
+
+
+## Article 5
+
+*ART, 5. -*
+
+Le présent arrêté conjoint sera publié au
 Bulletin officiel.
 Rabat, le 26 rabii 11 1440 (3 janvier 2019).
 Le ministre de l'agriculture,
@@ -4148,11 +4179,7 @@ et des euux et forêts, et des finances,
 AZIZ AKHANNOUCH. MOHAMED BENCHAABOUN.
 496 BULLETIN OFFICIEL N° 6758 — 29 joumada II 1440 (7-3-2019)
 
-*Entités :* `arrêté conjoint` (ARRETE), `3 janvier 2019` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `29 joumada II 1440` (DATE_HIJRI), `2-08-562` (DECRET)
-
-*Citations :*
-
-- `l'article 9` → arrêté conjoint [✓]
+*Entités :* `arrêté conjoint` (ARRETE), `3 janvier 2019` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `29 joumada II 1440` (DATE_HIJRI)
 
 *Personnes :* MOHAMED BENCHAABOUN
 
@@ -4513,17 +4540,25 @@ qualité d'établissement de paiement à la société « Barid Cash »,
 sise à Casablanca, n° 202, Boulevard Brahim Roudani, pour
 exercer les activités prévues au paragraphe 1) de l'article 16 de
 la loi n° 103-12 susvisée.
-ART, 2. - La présente décision est publiée au Bulletin
+
+*Entités :* `société « Barid Cash »` (ORG), `loi n° 103-12` (LOI), `103-12` (LOI)
+
+*Citations :*
+
+- `l'article 16` → loi n° 103-12 [✓]
+
+
+## Article 2
+
+*ART, 2. -*
+
+La présente décision est publiée au Bulletin
 officiel.
 Rabat, le 23 rabii [1 1440 (31 décembre 2018).
 ABDELLATIF JOUAHRI.
 N° 6758 — 29 joumada II 1440 (7-3-2019) BULLETIN OFFICIEL 501
 
-*Entités :* `société « Barid Cash »` (ORG), `loi n° 103-12` (LOI), `31 décembre 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI), `103-12` (LOI)
-
-*Citations :*
-
-- `l'article 16` → loi n° 103-12 [✓]
+*Entités :* `31 décembre 2018` (DATE_GREGORIAN), `29 joumada II 1440` (DATE_HIJRI)
 
 *Dates :* 31 décembre 2018, 29 joumada II 1440
 

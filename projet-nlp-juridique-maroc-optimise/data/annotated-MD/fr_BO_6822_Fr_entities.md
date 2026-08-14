@@ -1,95 +1,10 @@
 # Bulletin Officiel 6822
 **Source :** `data\processed\fr\BO_6822_Fr.txt`
-**Langue :** fr
-**Nombre d'articles :** 71
+**Langue :** ar
+**Nombre d'articles :** 74
 
 ## Préambule
 
-Création et exploitation de fermes aquacoles.
-Arrêté conjoint du ministre. de l'agriculture, de
-la pêche maritime, du développement
-rural et des eaux et forêts et du ministre
-de l'économie et des finances n° 1582-19
-du 8 ramadan 1440 (14 mai 2019)
-autorisant la société « AQUACULTURE
-EDADDI SARL AU » pour la création et
-l'exploitation d'une ferme aquacole dénommée
-« Aguaculture Edaddi » et portant publication
-de l'extrait de la convention y afférente. 2075
-Arrêté conjoint du ministre de l'agriculture, de
-la pêche maritime, du développement
-rural et des eaux et forêts et du ministre
-de l'économie et des finances n° 1831-19
-du 7 chaoual 1440 (11 juin 2019) autorisant
-la société « DOMAINE AIN AGHBAL
-SARL S.A » pour la création et l'exploitation
-d'une ferme aquacole dénommée « Domaine
-Ain Aghbal Cintra » et portant publication
-de l'extrait de la convention y afférente. 2077
-Arrêté conjoint du ministre de l'agriculture, de
-la pêche maritime, du développement
-rural et des eaux et forêts et du ministre
-de l'économie et des finances n° 1832-19
-du 7 chaoual 1440 (II juin 2019) autorisant la
-société « DAKHLA MAR sarl AU » pour la
-création et l'exploitation d'une ferme aquacole
-dénommée« Dakhla Mar » et portant publication
-de l'extrait de la convention y afférente. 2084
-Arrêté conjoint du ministre de l'agriculture, de la
-pêche maritime, du développement rural et
-des eaux et forêts et du ministre de l'économie
-et des finances n° 1833-19 du 7 chaoual 1440
-(11 juin 2019) autorisant la société « CULTU-
-ALGUE sarl AU » pour la création et
-l'exploitation d'une ferme aquacole dénommée
-« Cultu-Algue » et portant publication de
-Snesvesesssessss
-l'extrait de la convention y afférente
-Pages
-Arrêté conjoint du ministre de l'agriculture, de la pêche
-maritime, du développement rural et des eaux et
-forêts et du ministre de l'économie et des finances
-n° 1834-19 du 7 chaoual 1440 (II juin 2019)
-autorisant la société « NAIÏITELHAJ GROUPE
-INTERNATIONAL sarl AU » pour la
-création et l'exploitation d'une ferme aquacole
-dénommée « Naïtelhaj Groupe International » et
-portant publication de l'extrait de la convention
-Arrêté conjoint du ministre de l'agriculture, de la
-pêche maritime, du développement rural et
-des eaux et forêts et du ministre de l'économie
-et des finances n° 1835-19 du 7 chaoual 1440
-(11 juin 2019) autorisant la société « ESPACE
-AQUACULTURE 2 sarl » pour la création et
-l'exploitation d'une ferme aquacole dénommée
-« Espace Aquaculture 2 » et portant publication
-de l'extrait de la convention y afférente. 2090
-y afférente 2088
-Arrêté conjoint du ministre de l'agriculture, de la
-pêche maritime, du développement rural et
-des eaux et forêts et du ministre de l'économie
-et des finances n° 1836-19 du 7 chaoual 1440
-(11 juin 2019) autorisant la société «SRAIDI
-MAR sarl» pour la création et l'exploitation
-d'une ferme aquacole dénommée « Sraïdi Mar
-Arrêté conjoint du ministre de l'agriculture, de la
-pêche maritime, du développement rural et
-des eaux et forêts et du ministre de l'économie
-et des finances n° 1837-19 du 7 chaoual 1440
-(11 juin 2019) autorisant la société « OSTRA
-SUL sarl » pour la création et l'exploitation
-d'une ferme aquacole dénommée « Ostra
-Sul » et portant publication de l'extrait de la
-convention y afférente. 2094
-Ancien Argoub » et portant publication de
-l'extrait de la convention y afférente..… […texte non modifié…] ……
-AVIS ET COMMUNICATIONS
-Avis du Conseil économique, Socialet Environnemental
-sur la sous-traitance et les relations de travail :
-Pour la promotion du travail décent et de la
-durabilité nn nssssseseessersanereresnesensssesssssne
-N° 6822 — 18 safar 1441 (17-10-2019) BULLETIN OFFICIEL 2067
-TEXTES G
 décret n° 2-18-722 du 1° safar 1441 (30 septembre 2019)
 relatif aux plans d'aménagement et de gestion des pêcheries
 LE CHEF DU GOUVERNEMENT,
@@ -103,18 +18,18 @@ DÉCRÈTE :
 
 ## Décrets
 
-### Arrêté
+### décret
 
-Arrêté conjoint du ministre. de l'agriculture, de
-la pêche maritime, du développement
-rural et des eaux et forêts et du ministre
-de l'économie et des finances n° 1582-19
-du 8 ramadan 1440 (14 mai 2019)
-autorisant la société « AQUACULTURE
-EDADDI SARL AU » pour la création et
-l'exploitation d'une ferme aquacole dénommée
-« Aguaculture Edaddi » et portant publication
-de l'extrait de la convention y afférente. 2075
+décret n° 2-18-722 du 1° safar 1441 (30 septembre 2019)
+relatif aux plans d'aménagement et de gestion des pêcheries
+LE CHEF DU GOUVERNEMENT,
+Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393
+(23 novembre 1973) formant règlement sur la pêche maritime,
+tel qu'il a été modifié et complété et notamment son article 5-2 ;
+Après consultation des chambres des pêches maritimes ;
+Après examen par le Conseil du gouvernement, réuni le
+12 moharrem 1441 (12 septembre 2019),
+DÉCRÈTE :
 
 ### décret
 
@@ -187,6 +102,165 @@ pplication de la loi n° 19-94
 terrains de propriété privée,
 et à l'est par la nouvelle ville
 lécret et par les coordonnées
+2072 BULLETIN OFFICIEL N° 6822 — 18 safar 1441 (17-10-2019)
+Liste des coo!
+ES D 1 EE 7
+Er ET armée | 56288497 |
+671 55 | so2866.48 |
+ET 7séen7a | 562874.12 |
+ACCES 66 | 56286024 |
+TS LI 7666241 | 56288854 |
+CE 47668266 | S62875.63
+Cr (7556830 | 56286806
+[ET 475518.59 | 56266543 |
+CS Cf 47548536 | 56281104 |
+[5 | 7522086 | Sezsss.61 |
+EE TC 27S 11268 | 56290123 |
+5e DT a7sn3.22 | 5625602 |
+[20 TT 476000.23 | 56282489
+ESS | 562807.60
+| __22.. | 47502419 | 56278499 |
+DS | 4700620 | 662726.85 |
+24 (47500218 | 56260675 |
+TS | 27483595 | Sesrs8er |
+[25 | 47401120 | 56271297.
+Le TT 47288185 | 56270210 |
+[TS | 47488701 | 56270551 |
+To 47480868 | 56272540 |
+Cr 27278410 | 56272875 |
+ef 1n6 | 56772655 |
+TS Ÿ a 7a6a 00 | 56272655
+CE rase ts | S6e272 55 |
+CE TC 4er 82 | 56271987 |
+[36 | 47462277 | s562718.97 |
+LE | 47427901 | 56271486 |
+[39 | 47426081 | 56270682 |
+Ca 47417884 | 56271640 |
+2 7721 | S62808 23 |
+[45 TC 47416832 | S6206a.57 |
+[x TT Ta t6S6S | 56704253 |
+CET 474107 10 | 56288188
+Ce T8 | se2ssse7
+[48 | 47410820 | sé20s0ss |
+[49 (47410864 | 5ezoe1.7s |
+[SO [7420116 | 56266643 |
+[TS LT 47426274 | 56207202 |
+CET 47420260 | 562073.83 |
+[ES | 474201,60 | 56207481 |
+[ST 27419864 | 56297542 |
+[EST 2719862 | 562876 77
+LÉ 47418786 | 562078.72 |
+LTÉE (47419040 | 56208845
+[TES] 47420060 | 56280277 |
+60] 47419749 | 56301060 |
+Ei — | 7ar0ses | sesu1s.77
+Le TT 47410574 | 563017.55
+[EST 47410225 | 56301887 |
+[ET 47410183 | 6034.54 |
+TES | 47418006 | 563040.87 |
+[6] 47419077 | Sés04647 |
+[EE (27410640 | 56322710 |
+DÉS 47420855 | 563418 |
+[TE] 37442621 | sessioe7 |
+C1 67446260 | Sésst2 ns |
+[TEL 272802 24 | ses e7 |
+[TRI 47452178 | 56380562 |
+ERA 47448853 | 56307840 |
+[TRE | 47426224 | Sesos6 54 |
+ER raE 12 sens se
+ss rase | Hésosses |
+CRE 4748 TS | 56401726
+CRI 47451320 | 6418087 |
+[92 27451320 | 6121092
+LR 47456529 | 564280 77
+TTC 058 | 64268 75 |
+[s srasioss f soisss se
+mn 664225.47
+02 474883.08 | 56430856 |
+[T0 TT 47824600 | 56433726 |
+D M ENG NZ EN
+-données de la zone franche d'exportation
+de Tanger Automotive City
+475490,88 564273.96 TT Zi TT 47556755 T7 56129201 |
+[215 |" 475660.12 |
+[_561202.30 |
+[216 | 47583147 | 56083501 |
+28} 475781.89 | 56060489 |
+[TT 219 | 475763,96 [7 56079022
+[220 | 475751.12 | 56081153 |
+[7 221 7 | 475728.28 | 56060428 |
+[222 1 275718.40 | 560789.50 |
+[224 __ŸT 47570075 [7 56077626 |
+226 7] 475645.089 | 56080249 }
+[228 | 47559608 | 56080655 |
+[229 | 475669.79 | 56080408 |
+[230 | 47555422 | S6080266 |
+231) 476508.77 | 56678887 |
+[TT 232 476480.06 | 560766.55 |
+[235 [47548162 | 56076841 |
+[234147546228 | 56076718 |
+[2357 | 475427.79 7 | 56077273 |
+FT 23577 | 47540446 | 56076692 |
+[258 | 27534349 [ 56076089 |
+ET 23977 | 47529859 |" 56076151 |
+[TT 240] 275263.75 [7 56076736 |
+[241 | 47623815 | 56076766 |
+CL T243 77] 475153.58 | 56090400 |
+CT 244 TT 475191.44777 56098269 |
+[345] 475030.89 | 56094622 |
+[2467] 474945.68 | "56100588 |
+[249 47501158 | 5613286 |
+250 | 47502484 | 56143310 |
+[251 |__|] 47503299 T 56140761 |
+[252 UT 47519229 71 561488.09 |
+[TT 253 7 | 475285.89 | 56136022 |
+[254 7 | 47539281 | 55134516 |
+CT 2557 | 47541419 717 56134213, |
+[255] 276508.42 | 56132885 |
+[TT 257 TT 47562007 | 56137142 |
+[25877 | 47569895 | 56143877 |
+[259 | 47666814 | 66169735 |
+[26177] 475697.26 7 | 66190078 |
+[2637 | 47569584 | 56241368 |
+LEA 1 475694.90 7 [7 562507.51 |
+[116 | 475660.08 | 564199.68 |
+TT 120 | _475786.52 | 564108.41 |
+[122 UT 475880.05 | 564069.58 |
+[1237 | 475818.98 | 563686.09 |
+[128 7 | 47588645 | 563732,68 |
+[130 ___ | 475905.29 Î 563691.30 |
+[___ 131 | 47589978 | 563677.02 |
+[7 132 | 47589999 | 56365218 |
+[134 | 47590270 |  563486.90 |
+[__ 138 | 476498.33 | 563157.51 |
+[ __139 | 47654420 |  563053.60
+|” _ 140 | 47657326 | 56299556 |
+[7 143 ____ | 476561.50 | 56221215 |
+[145 | 476660,25 | 56160828 |
+[146 __ | 476866.77 | 56160008 |
+TT 148 ___| 476856.25 | 56158641 |
+[149 7 | 476853.77 | 561580.40 |
+[150 ___ | 47685271 | 561576.69 |
+[T7 7152 | 47685151 |  561562.71 |
+[TT 15377 | 47685276 | 561555.54 |
+[154 ___| 47685390 | 56155162
+[155 | 476856.17 | 56154618 |
+[77 157 |__| _476862.52 | 56153663 |
+|___ 159 ___| 47687455 | 561518.97 |
+[7160 __ | 476675,56 | 56127165 |
+[7163 | 47688865 | 561047.44 |
+[TT188 77 À  476901.64 | 560788.13 |
+[171 ___| 476889,57 | 56073212 |
+[____180 | 47683791 | 560654.28 |
+| ____184 7 | 47680116 | 56062694 |
+[___186 ___| 47678193 | 560617.08 |
+(189 ___| 47675123 |  6560606.22 |
+[____190 7 | 476740.09 | 560603.59 !
+[___201 | 47660664 ] 56062165 |
+[____202 | 47659625 | 56062734 |
+206 476473.60
+[77208 | 476402,16 | 561119.21 |
+[ __209 | 476350.23 | 56105161 |
 N° 6822 — 18 safar 1441 (17-10-2019) = BULLETIN OFFICIEL 2073
 
 ### décret
@@ -1835,10 +1909,12 @@ délimitées géographiquement dans lesquelles s'exercent la pêche,
 la capture ou le ramassage d'une ou de plusieurs espèces
 halieutiques.
 
+*Entités :* `1-73-255` (DAHIR)
+
 *Citations :*
 
 - `l'article
-5-2` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
+5-2` → décret n° 2-18-722 [✓]
 
 
 ## Article 2
@@ -1907,10 +1983,12 @@ lis tiennent compte également de l'approche
 écosystémique de pêche, du développement durable et des
 problématiques liées aux changements climatiques.
 
+*Entités :* `1-73-255` (DAHIR)
+
 *Citations :*
 
 - `l'article
-5-2` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
+5-2` → décret n° 2-18-722 [✓]
 
 
 ## Article 4
@@ -2023,7 +2101,7 @@ délivrées et/ou les conventions de création et d'exploitation des
 
 *Citations :*
 
-- `l'article 5` → Arrêté conjoint du ministre [✓]
+- `l'article 5` → décret n° 2-18-722 [✓]
 
 
 ## Article 8
@@ -2119,7 +2197,7 @@ preuve de la réception, les bénéficiaires desdits quotas.
 
 *Citations :*
 
-- `l'article 13` → Arrêté conjoint du ministre [✓]
+- `l'article 13` → décret n° 2-18-722 [✓]
 
 
 ## Article 13
@@ -2342,7 +2420,8 @@ n° 2-18-1009 précité sont abrogées et remplacées comme suit :
 « l'article 287 de la même loi, l'autorité gouvernementale
 « chargée des finances. »
 
-*Entités :* `décret n° 2-18-1009` (DECRET), `loi n° 17-99` (LOI)
+*Entités :* `décret
+n° 2-18-1009` (DECRET), `17-99` (LOI)
 
 *Citations :*
 
@@ -2470,7 +2549,17 @@ VI:
 + Réseau de fibres numériques symbolisant la
 transformation digitale ;
 + Stylisation de terres arables et de rayons solaires.
-ART, 3. - Le ministre de l'économie et des finances est
+
+*Personnes :* Mohammed VI, Mohammed VI, Mohammed VI
+
+*Organisations :* Institut d'émission «ll élu», Institut d'émission « BANK AL-
+
+
+## Article 3
+
+*ART, 3. -*
+
+Le ministre de l'économie et des finances est
 chargé de l'exécution du présent décret qui sera publié au
 Bulletin officiel.
 Fait à Rabat, le 1° safar 1441 (30 septembre 2019).
@@ -2485,10 +2574,6 @@ N° 6822 — 18 safar 1441 (17-10-2019) BULLETIN OFFICIEL 2075
 TEXTES PAR
 
 *Entités :* `ministre de l'économie et des finances` (MINISTERE), `30 septembre 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6819 du 8 safar 1441 (7 octobre 2019)` (BULLETIN_OFFICIEL), `18 safar 1441` (DATE_HIJRI)
-
-*Personnes :* Mohammed VI, Mohammed VI, Mohammed VI
-
-*Organisations :* Institut d'émission «ll élu», Institut d'émission « BANK AL-
 
 *Dates :* 30 septembre 2019, 18 safar 1441
 
@@ -2509,7 +2594,8 @@ pour l'élevage des espèces halieutiques suivantes :
 — J'huftre creuse « Crassostrea gigas » ;
 — la palourde « Ruditapes decussatus ».
 
-*Entités :* `société « AQUACULTURE EDADDI SARL AU »` (ORG), `2 rabii II 1440` (DATE_HIJRI), `10 décembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `société « AQUACULTURE
+EDADDI SARL AU »` (ORG), `2 rabii II 1440` (DATE_HIJRI), `10 décembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
 *Dates :* 2 rabii II 1440, 10 décembre 2018
 
@@ -2550,15 +2636,24 @@ tenu par la société « AQUACULTURE EDADDI SARL AU »,
 doit répertorier, dans l'ordre chronologique, ventilé par espèce, les
 entrées et les sorties de l'huître creuse « Crassostrea gigas » et
 de la palourde « Ruditapes decussatus » élevées.
-ART, 4. — L'extrait de la convention n° 2018/DOE/061
-mentionnée à l'article premier ci-dessus est annexé au présent
-arrêté conjoint.
 
-*Entités :* `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « AQUACULTURE EDADDI SARL AU »` (ORG), `arrêté conjoint` (ARRETE)
+*Entités :* `dahir portant
+loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « AQUACULTURE EDADDI SARL AU »` (ORG)
 
 *Citations :*
 
 - `l'article 28-1` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
+
+
+## Article 4
+
+*ART, 4. —*
+
+L'extrait de la convention n° 2018/DOE/061
+mentionnée à l'article premier ci-dessus est annexé au présent
+arrêté conjoint.
+
+*Entités :* `arrêté conjoint` (ARRETE)
 
 
 ## Article 5
@@ -2626,7 +2721,8 @@ Montant de la redevance due : droit fixe : vingt (20) dirhams par an.
 droit variable : 1/1000 de la valeur des espèces vendues.
 N° 6822 — 18 safar 1441 (17-10-2019) BULLETIN OFFICIEL 2077
 
-*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `8 ramadan 1440` (DATE_HIJRI), `14 mai 2019` (DATE_GREGORIAN), `société « AQUACULTURE EDADDI sarl AU »` (ORG), `2 rabii II 1440` (DATE_HIJRI), `10 décembre 2018` (DATE_GREGORIAN), `décret n° 2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `Société «AQUACULTURE EDADDI sarl AU»` (ORG), `loi n° 28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI)
+*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `8 ramadan 1440` (DATE_HIJRI), `14 mai 2019` (DATE_GREGORIAN), `société « AQUACULTURE EDADDI sarl AU »` (ORG), `2 rabii II 1440` (DATE_HIJRI), `10 décembre 2018` (DATE_GREGORIAN), `décret n° 2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `Société «AQUACULTURE EDADDI sarl AU»` (ORG), `loi
+n° 28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI)
 
 *Organisations :* Société, Institut national de recherche halieutique
 
@@ -2654,7 +2750,8 @@ mer, des espèces halieutiques suivantes :
 — la coquille Saint Jacques « Pecten maximus » ;
 — lalgue « Gracilaria Gracilis ».
 
-*Entités :* `société « DOMAINE AIN AGHBAL S.A »` (ORG), `8 janvier 2019` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `société « DOMAINE AIN
+AGHBAL S.A »` (ORG), `8 janvier 2019` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
 *Dates :* 8 janvier 2019
 
@@ -2698,15 +2795,24 @@ Galloprovincialis » et « Perna Perna » , de l'huître creuse
 « Crassostrea Gigas », de la palourde « Ruditaps Decussatus »,
 de la coquille Saint Jacques « Pecten Maximus » élevées ainsi
 que l'algue « Gracilaria Gracilis » cultivée.
-ART, 4. — L'extrait de la convention n° 2018/DOE/003
-mentionnée à l'article premier ci-dessus est annexé au présent
-arrêté conjoint.
 
-*Entités :* `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « DOMAINE AIN AGHBAL $.A »` (ORG), `arrêté conjoint` (ARRETE)
+*Entités :* `dahir
+portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « DOMAINE AIN AGHBAL $.A »` (ORG)
 
 *Citations :*
 
 - `l'article 28-1` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
+
+
+## Article 4
+
+*ART, 4. —*
+
+L'extrait de la convention n° 2018/DOE/003
+mentionnée à l'article premier ci-dessus est annexé au présent
+arrêté conjoint.
+
+*Entités :* `arrêté conjoint` (ARRETE)
 
 
 ## Article 5
@@ -2768,6 +2874,181 @@ B1
 Parcelle 6 23°4'40.6045" N 16°11'11.0706"W | |
 Css ame | rent sosw |
 me ni
+N° 6822 — 18 safar 1441 (17-10-2019) BULLETIN OFFICIEL 2079
+Parcelle 8
+B4
+Parcelle 11
+Parcelle 12 |
+B3
+| _m |
+m1 |
+Parcelle 13 ——
+EUR
+pi
+Parcelle 14 | mm |
+B2
+Parcelle 16 | |
+B4
+LB
+Parcelle 17 |__B |
+[_B
+Parcelle 15
+23°5'8.2651" N 16°11'8.0970" W
+3°5'13.6500" N
+3°443,2545" N
+3°4'37.8696" N
+304'39,6930" N
+3°4145.0779" N
+3°4:51.3584" N
+304145.9739" N
+3°447,7973" N 16°10'51.1763" W
+3°4'53.1818" N 16°1047.2343" W
+304'56.8866" N
+34151.5021" N
+304'53.3255" N
+304'58,7104" N
+3°5:9.0913" N |
+3°53.7068" N 16°110.8203"W ||
+35'5,5302" N
+°5'10.9151" N
+°4'54.0973" N 16°10'48.6970" W
+°4'48.7128" N 16°10'52.6390" W
+°4150,5362" N
+04'55.9207" N
+°4'56.9759" N
+°4158,7093" N
+3°514.1838" N
+°459.2576" N 16°11"29.3219"W
+°4153.8727" N 16°1133.2635" W
+°455.6961" N 16°11"36.1738" W
+510810" N
+°515,0957" N
+459.7108" N
+°51.5342"N |  16°11'13.0240"W
+4"54.2050" N
+448.8201"N | 16°1124.1876" W
+450.6435"N | 16°11°27.0978" W
+4'56.0284" N
+455.4592" N 16°116.5742" W
+450.0743"N | 16°11'10.5162" W
+451.8977" N 16°1113.4261" W
+4'57.2826" N 16°11'9.4844" W
+2080 | BULLETIN OFFICIEL N° 6822 — 18 safar 1441 (17-10-2019)
+[|
+Parcelle 18
+[__Bs
+Parcelle 20
+Parcelle 21
+Parcelle 22 | _æ |
+__m |
+EE
+Parcelle 23 __m |
+| |
+| _m |
+Parcelle 24 | B |
+|__|
+__B1 |
+Parcelle 25 | B
+__8 |
+|__|
+|__|
+Parcelle 26 __B
+| _# |
+Parcelle 27
+16°1110.5504" W
+16°11'14.4920" W
+16°11'17.4023" W
+23°5'9.6612" N 16°1113.4606" W
+>3°441.9970" N 16°11'16.4285" W
+)3°4"36.6121" N 16°11'20.3698" W
+23°5'7.8378" N
+23°5'2.4529" N
+23°54.2763" N
+1304138.4355" N 16°1123.2800" W
+23°443.8204" N 16°11'19.3384" W
+,324149.9854" N
+13°4144.6005" N 16°111.7772" W
+,3°446.4239" N
+,304151.8088" N 16°11'0.7454" W
+»3°4144.7319" N 16°1120. 7949" W
+,324139.3470" N
+1324411704" N
+3°446.5553" N
+23°50.8282" N
+30455,4434" N
+304157.2671" N
+23°52,6516" N
+3°5"17.3072" N
+3°5"11.9227" N 16°11'13.9376" W
+395"13.7458" N
+3°5'19.1306" N
+3°4158.0894" N
+304'52.7045" N
+304'54,5282" N 16°10'46.2490" W
+304159,9128" N
+3°4140.4652" N
+3°435.0803" N
+3°436.9037" N
+3°4'42.2886" N
+305'10.5763" N
+30551914" N
+3°517.0148" N
+3°5"12.3997" N
+3°5'5.9888" N
+305'0.6040" N 16°11'28.3366" W
+3°52.4270" N
+3°517.8119" N
+3°447.4740" N
+304"42.0892" N
+N° 6822 — 18 safar 1441 (17-10-2019) BULLETIN OFFICIEL | 2081
+Parcelle 28
+Parcelle 30 | B
+Parcelle 31
+Parcelle 33
+Parcelle 36 ns
+Parcelle 37 =
+23°443.9122" N
+23°449.2974" N
+23°4'58.1941" N
+23°452.8092" N
+23°454.6326"N | 16°1117.7925" W
+23°50.0175" N
+23°53.6748" N
+23°4158.2899" N
+23°50.1133" N
+23°55.4982"N |  16°11°22.6021"W
+23°510.9362" N
+23°4'55.5514" N
+23°4'57.3748" N
+23°5'2.7596" N
+23°459.6219" N |
+23°4'54.2370" N 16°11"1.3747" W
+23°4156.0604" N
+23°5'1.4453" N
+23°456.9438" N
+23°4'51.5590" N
+23°4'53,3820" N
+23°4'58.7669" N
+23°58.7234" N
+23°5'3.3385" N
+23°5'5,1619" N
+23°5110.5468" N
+23°451.4632"N | 16°11'15.8680" W
+230446.0783" N
+23°4147.9014" N
+23°4'53.2866" N 16°11'18.7782" W
+23°5'1.9925" N 16°1133.6887" W
+23°4'56.6072" N 16°11'37.6300" W
+)3°4'58.4306" N 16°11'40.5402" W
+23538155" N
+1304'50.2126" N
+304 44.8277" N
+30446.6507" N
+3°4'52.0360" N
+30448.7283" N
+3°443.3434" N
+3°4145,1668" N
+3°4"50.5517" N
 2082 BULLETIN OFFICIEL N° 6822 — 18 safar 1441 (17-10-2019)
 16°10'56.2987" W
 RME TTENTTITIS
@@ -2821,12 +3102,13 @@ conformément à la loi n°28-00 relative à la gestion des déchets et à leur
 -droit variable : 1/1000 de la valeur des espèces vendues.
 2084 BULLETIN OFFICIEL N° 6822 — 18 safar 1441 (17-10-2019)
 
-*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `société « DOMAINE AIN AGHBAL S.A »` (ORG), `8 janvier 2019` (DATE_GREGORIAN), `société « DOMAINE AIN AGHBAL S.A»` (ORG), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `Société «(DOMAINE AIN AGHBAL S.A»` (ORG), `18 safar 1441` (DATE_HIJRI), `loi n°28-00 relative à la gestion des déchets et à leur` (LOI), `décret n° 2-08-562` (DECRET)
+*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `société « DOMAINE AIN AGHBAL S.A »` (ORG), `8 janvier 2019` (DATE_GREGORIAN), `société
+« DOMAINE AIN AGHBAL S.A»` (ORG), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `Société «(DOMAINE AIN AGHBAL S.A»` (ORG), `18 safar 1441` (DATE_HIJRI), `loi n°28-00 relative à la gestion des déchets et à leur` (LOI), `2-08-562` (DECRET)
 
 *Organisations :* Société «, Institut national de recherche
 “halieutique, Lalla Meryem
 
-*Dates :* 7 chaoual 1440, 11 juin 2019, 8 janvier 2019, 12 décembre 2008, 18 safar 1441, 18 safar 1441, 18 safar 1441
+*Dates :* 7 chaoual 1440, 11 juin 2019, 8 janvier 2019, 12 décembre 2008, 18 safar 1441, 18 safar 1441, 18 safar 1441, 18 safar 1441, 18 safar 1441, 18 safar 1441
 
 
 ## Article PREMIER
@@ -2843,7 +3125,9 @@ l'agriculture, de la pêche maritime, du développement rural
 et des eaux et forêts, une ferme aquacole dénommée « Dakhla
 Mar » pour l'élevage de l'huître creuse « Crassostrea gigas ».
 
-*Entités :* `société «DAKHLA MAR sarl AU »` (ORG), `16 rabii I 1440` (DATE_HIJRI), `24 décembre 2018` (DATE_GREGORIAN)
+*Entités :* `société «DAKHLA MAR sarl
+AU »` (ORG), `16 rabii I 1440` (DATE_HIJRI), `24 décembre 2018` (DATE_GREGORIAN), `ministre de
+l'agriculture` (MINISTERE)
 
 *Dates :* 16 rabii I 1440, 24 décembre 2018
 
@@ -2884,7 +3168,7 @@ par la société « DAKHLA MAR SARL AU », doit répertorier,
 dans l'ordre chronologique, ventilé par espèce, les entrées et les
 sorties de l'huître creuse « Crassostrea gigas » élevée.
 
-*Entités :* `27 chaoual 1393` (DATE_HIJRI), `23 novembre 1973` (DATE_GREGORIAN), `société « DAKHLA MAR SARL AU »` (ORG), `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR)
+*Entités :* `27 chaoual 1393` (DATE_HIJRI), `23 novembre 1973` (DATE_GREGORIAN), `société « DAKHLA MAR SARL AU »` (ORG), `1-73-255` (DAHIR)
 
 *Citations :*
 
@@ -2965,7 +3249,8 @@ droit fixe : vingt (20) dirhams par an.
 droit variable : 1/1000 de la valeur des espèces vendues.
 2086 BULLETIN OFFICIEL N° 6822 — 18 safar 1441 (17-10-2019)
 
-*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `société « DAKHLA MAR sarl AU »` (ORG), `16 rabii II 1440` (DATE_HIJRI), `24 décembre 2018` (DATE_GREGORIAN), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `loi n° 28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI), `décret n° 2-08-562` (DECRET)
+*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `société « DAKHLA MAR sarl AU »` (ORG), `16 rabii II 1440` (DATE_HIJRI), `24 décembre 2018` (DATE_GREGORIAN), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `loi
+n° 28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI), `2-08-562` (DECRET)
 
 *Organisations :* Société, Institut national de recherche halieutique
 
@@ -2986,7 +3271,9 @@ l'agriculture, de la pêche maritime, du développement rural
 et des eaux et forêts, une ferme aquacole dénommée « Cultu-
 Algue » pour la culture de l'algue « Gracilaria Gracilis ».
 
-*Entités :* `société « CULTU-ALGUE sarl AU »` (ORG), `18 décembre 2018` (DATE_GREGORIAN)
+*Entités :* `société « CULTU-ALGUE
+sarl AU »` (ORG), `18 décembre 2018` (DATE_GREGORIAN), `ministre de
+l'agriculture` (MINISTERE)
 
 *Dates :* 18 décembre 2018
 
@@ -3027,7 +3314,8 @@ susvisé, tenu par la société « CULTU-ALGUE sarl AU », doit
 répertorier, dans l'ordre chronologique, ventilé par espèce, les
 entrées et les sorties de l'algue « Gracilaria Gracilis » cultivée.
 
-*Entités :* `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « CULTU-ALGUE sarl AU »` (ORG)
+*Entités :* `dahir
+portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « CULTU-ALGUE sarl AU »` (ORG)
 
 *Citations :*
 
@@ -3108,7 +3396,9 @@ droit fixe : vingt (20) dirhams par an.
 droit variable : 1/1000 de la valeur des espèces vendues.
 2088 BULLETIN OFFICIEL N° 6822 — 18 safar 1441 (17-10-2019)
 
-*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `société « CULTU-ALGUE sarl AU»` (ORG), `18 décembre 2018` (DATE_GREGORIAN), `société « CULTU-ALGUE sarl AU »` (ORG), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `loi n° 28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI), `décret n° 2-08-562` (DECRET)
+*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `société
+« CULTU-ALGUE sarl AU»` (ORG), `18 décembre 2018` (DATE_GREGORIAN), `société « CULTU-ALGUE sarl AU »` (ORG), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `loi
+n° 28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI), `2-08-562` (DECRET)
 
 *Organisations :* Société, Institut national de recherche halieutique
 
@@ -3132,7 +3422,8 @@ pour l'élevage des espèces halieutiques suivantes :
 — L'huître creuse « Crassostrea Gigas » ;
 — La palourde « Ruditapes decussatus »
 
-*Entités :* `société « NAITELHAJ GROUPE INTERNATIONAL sarl AU »` (ORG), `26 rabii I 1440` (DATE_HIJRI), `4 décembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `société « NAITELHAJ
+GROUPE INTERNATIONAL sarl AU »` (ORG), `26 rabii I 1440` (DATE_HIJRI), `4 décembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
 *Dates :* 26 rabii I 1440, 4 décembre 2018
 
@@ -3176,7 +3467,10 @@ chronologique, ventilé par espèce, les entrées et les sorties
 de l'huître creuse « Crassostrea Gigas » et de la palourde
 « Ruditapes Decussatus » élevées.
 
-*Entités :* `dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « NAITELHAJ GROUPE INTERNATIONAL sarl AU »` (ORG)
+*Entités :* `dahir
+portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre
+1973)` (DAHIR), `société « NAITELHAJ GROUPE
+INTERNATIONAL sarl AU »` (ORG)
 
 *Citations :*
 
@@ -3276,7 +3570,8 @@ n°28-00 relative à la gestion des déchets et à leur élimination.
 - droit variable : 1/1000 de la valeur des espèces vendues.
 2090 BULLETIN OFFICIEL N° 6822 — 18 safar 1441 (17-10-2019)
 
-*Entités :* `arrêté conjoint du ministre de l'a` (ARRETE), `26 rabii I 1440` (DATE_HIJRI), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `12 décembre 2008` (DATE_GREGORIAN), `Société «NAITELHAJ GROUPE INTERNATIONAL sarl AU »` (ORG), `loi n°28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI), `décret n°2-08-562` (DECRET)
+*Entités :* `arrêté conjoint du ministre de l'a` (ARRETE), `26 rabii I 1440` (DATE_HIJRI), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `12 décembre 2008` (DATE_GREGORIAN), `Société «NAITELHAJ GROUPE INTERNATIONAL sarl AU »` (ORG), `loi
+n°28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI), `2-08-562` (DECRET)
 
 *Organisations :* Société, Institut national de recherche halieutique, Hay Moulay Rachid Bloc F
 
@@ -3298,7 +3593,8 @@ développement rural et des eaux et forêts, une ferme aquacole
 dénommée « Espace Aquaculture 2 » pour l'élevage de l'huître
 creuse « Crassostrea gigas ».
 
-*Entités :* `société « ESPACE AQUACULTURE 2 sarl »` (ORG), `28 rabii I 1440` (DATE_HIJRI), `5 décembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+*Entités :* `société « ESPACE
+AQUACULTURE 2 sarl »` (ORG), `28 rabii I 1440` (DATE_HIJRI), `5 décembre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
 
 *Dates :* 28 rabii I 1440, 5 décembre 2018
 
@@ -3340,7 +3636,9 @@ sarl», doit répertorier, dans l'ordre chronologique, ventilé par
 espèce, les entrées et les sorties de l'huître creuse « Crassostrea
 gigas » élevée.
 
-*Entités :* `dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « ESPACE AQUACULTURE 2 sarl»` (ORG)
+*Entités :* `dahir
+portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « ESPACE AQUACULTURE 2
+sarl»` (ORG)
 
 *Citations :*
 
@@ -3421,7 +3719,8 @@ n°28-00 relative à la gestion des déchets et à leur élimination.
 -droit variable : 1/1000 de la valeur des espèces vendues.
 2092 BULLETIN OFFICIEL N° 6822 — 18 safar 1441 (17-10-2019)
 
-*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `société « ESPACE AQUACULTURE 2 sarl »` (ORG), `28 rabii I 1440` (DATE_HIJRI), `5 décembre 2018` (DATE_GREGORIAN), `société « ESPACE AQUACULTURE 2 sar l»` (ORG), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `Société «ESPACE AQUACULTURE 2 sarl»` (ORG), `loi n°28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI)
+*Entités :* `ministre de l'agriculture` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE), `7 chaoual 1440` (DATE_HIJRI), `11 juin 2019` (DATE_GREGORIAN), `société « ESPACE AQUACULTURE 2 sarl »` (ORG), `28 rabii I 1440` (DATE_HIJRI), `5 décembre 2018` (DATE_GREGORIAN), `société « ESPACE AQUACULTURE 2 sar l»` (ORG), `décret n°2-08-562` (DECRET), `12 décembre 2008` (DATE_GREGORIAN), `Société «ESPACE AQUACULTURE 2 sarl»` (ORG), `loi
+n°28-00 relative à la gestion des déchets et à leur élimination` (LOI), `18 safar 1441` (DATE_HIJRI)
 
 *Organisations :* Société «ESPACE, Institut national de recherche halieutique
 
@@ -3443,7 +3742,9 @@ des eaux et forêts, une ferme aquacole dénommée « Sraidi Mar
 Ancien Argoub » pour l'élevage de l'huître creuse « Crassostrea
 gigas » .
 
-*Entités :* `28 rabii I 1440` (DATE_HIJRI), `5 décembre 2018` (DATE_GREGORIAN)
+*Entités :* `28 rabii I
+1440` (DATE_HIJRI), `5 décembre 2018` (DATE_GREGORIAN), `ministre de
+l'agriculture` (MINISTERE)
 
 *Dates :* 28 rabii I 1440, 5 décembre 2018
 
@@ -3486,7 +3787,8 @@ répertorier, dans l'ordre chronologique, ventilé par espèce,
 les entrées et les sorties de l'huître creuse « Crassostrea gigas »
 élevée.
 
-*Entités :* `dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « SRAIDI MAR sarl»` (ORG)
+*Entités :* `dahir
+portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « SRAIDI MAR sarl»` (ORG)
 
 *Citations :*
 
@@ -3588,7 +3890,8 @@ l'agriculture, de la pêche maritime, du développement rural
 et des eaux et forêts, une ferme aquacole dénommée « Ostra
 Sul » pour l'élevage de l'huître creuse « Crassostrea gigas ».
 
-*Entités :* `société « OSTRA SUL sarl»` (ORG), `27 décembre 2018` (DATE_GREGORIAN)
+*Entités :* `société « OSTRA SUL sarl»` (ORG), `27 décembre 2018` (DATE_GREGORIAN), `ministre de
+l'agriculture` (MINISTERE)
 
 *Dates :* 27 décembre 2018
 
@@ -3631,7 +3934,9 @@ répertorier, dans l'ordre chronologique, ventilé par espèce, les
 entrées et les sorties de l'huître creuse « Crassostrea gigas »
 élevée.
 
-*Entités :* `dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973)` (DAHIR), `société « OSTRA SUL sarl»` (ORG)
+*Entités :* `dahir
+portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre
+1973)` (DAHIR), `société « OSTRA SUL sarl»` (ORG)
 
 *Citations :*
 
@@ -3723,40 +4028,9 @@ Montant de la redevance due:
 ## Entités du préambule
 
 
-- `Arrêté conjoint du ministre` → ARRETE
-- `8 ramadan 1440` → DATE_HIJRI
-- `14 mai 2019` → DATE_GREGORIAN
-- `société « AQUACULTURE EDADDI SARL AU »` → ORG
-- `ministre de l'agriculture` → MINISTERE
-- `7 chaoual 1440` → DATE_HIJRI
-- `11 juin 2019` → DATE_GREGORIAN
-- `société « DOMAINE AIN AGHBAL SARL S.A »` → ORG
-- `ministre de l'agriculture` → MINISTERE
-- `7 chaoual 1440` → DATE_HIJRI
-- `société « DAKHLA MAR sarl AU »` → ORG
-- `ministre de l'agriculture` → MINISTERE
-- `7 chaoual 1440` → DATE_HIJRI
-- `11 juin 2019` → DATE_GREGORIAN
-- `société « CULTU- ALGUE sarl AU »` → ORG
-- `ministre de l'agriculture` → MINISTERE
-- `ministre de l'économie et des finances` → MINISTERE
-- `7 chaoual 1440` → DATE_HIJRI
-- `société « NAIÏITELHAJ GROUPE INTERNATIONAL sarl AU »` → ORG
-- `ministre de l'agriculture` → MINISTERE
-- `7 chaoual 1440` → DATE_HIJRI
-- `11 juin 2019` → DATE_GREGORIAN
-- `société « ESPACE AQUACULTURE 2 sarl »` → ORG
-- `ministre de l'agriculture` → MINISTERE
-- `7 chaoual 1440` → DATE_HIJRI
-- `11 juin 2019` → DATE_GREGORIAN
-- `société «SRAIDI MAR sarl»` → ORG
-- `ministre de l'agriculture` → MINISTERE
-- `7 chaoual 1440` → DATE_HIJRI
-- `11 juin 2019` → DATE_GREGORIAN
-- `société « OSTRA SUL sarl »` → ORG
-- `18 safar 1441` → DATE_HIJRI
 - `décret n° 2-18-722` → DECRET
 - `30 septembre 2019` → DATE_GREGORIAN
-- `dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973)` → DAHIR
+- `dahir portant loi n° 1-73-255 du 27 chaoual 1393
+(23 novembre 1973)` → DAHIR
 - `12 moharrem 1441` → DATE_HIJRI
 - `12 septembre 2019` → DATE_GREGORIAN
