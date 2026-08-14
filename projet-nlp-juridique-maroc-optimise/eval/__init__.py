@@ -1,0 +1,1 @@
+"""Retrieval evaluation harness (Phase 1 baseline + Phase 2 hybrid)."""
