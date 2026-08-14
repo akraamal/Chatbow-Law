@@ -10,18 +10,14 @@ testable de façon unitaire (contrairement à llm_client.py).
 """
 from __future__ import annotations
 
-# Phrase de refus canonique : inscrite dans la règle 4 du prompt ET utilisée
-# par chatbot.py quand toutes les citations produites par le LLM échouent
-# à la vérification mécanique (src/rag/citation_verifier.py).
-REFUSAL_SENTENCE_FR = (
-    "Le contexte fourni ne contient pas l'information demandée, je ne peux "
-    "pas y répondre."
-)
+# Phrase de refus canonique : inscrite dans la règle 4 du prompt (et la
+# règle 3 du prompt catalogue) via interpolation f-string ET utilisée par
+# chatbot.py comme détecteur de refus. Une seule source de vérité : les
+# constantes et le prompt ne peuvent plus diverger. Le LLM est tenu de
+# refuser avec CETTE phrase exacte ; chatbot.py la détecte textuellement.
+REFUSAL_SENTENCE_FR = "Le contexte fourni ne permet pas de répondre à cette question."
 # Variante arabe (règle 5 : on répond dans la langue de la question).
-REFUSAL_SENTENCE_AR = (
-    "لا يحتوي السياق المقدم على المعلومة المطلوبة، لذلك لا أستطيع الإجابة "
-    "على هذا السؤال."
-)
+REFUSAL_SENTENCE_AR = "لا يحتوي السياق المقدم على المعلومة المطلوبة."
 # Réponse fine pour le cas où le LLM ne fournit AUCUNE source vérifiable
 # alors qu'il a prétendu s'appuyer sur le contexte.
 UNSUPPORTED_SENTENCE_FR = (
@@ -33,7 +29,7 @@ UNSUPPORTED_SENTENCE_AR = (
     "يمكن التحقق منه في النص الأصلي."
 )
 
-SYSTEM_INSTRUCTION = """\
+SYSTEM_INSTRUCTION = f"""\
 Tu es un assistant juridique spécialisé dans le droit marocain. Tu réponds \
 UNIQUEMENT à partir des extraits du Bulletin Officiel fournis dans le \
 contexte ci-dessous. Tu n'utilises JAMAIS tes connaissances propres.
@@ -57,11 +53,11 @@ contenu spécifique.
 4. [HONNÊTETÉ — PREMIÈRE OPTION, PAS DERNIER RECOURS] Si le contexte ne \
 contient pas l'information demandée — ou si tu ne peux pas fonder chaque \
 affirmation sur un extrait textuel du contexte —, refuse explicitement et \
-UNIQUEMENT avec cette phrase : « Le contexte fourni ne permet pas de \
-répondre à cette question. » (en arabe : « اللا يحتوي السياق المقدم على \
-المعلومة المطلوبة. ») Refuser est le comportement attendu et valorisé : une \
-réponse sans appui textuel est pire qu'un refus. N'invente jamais une \
-information qui n'apparaît pas textuellement dans les extraits.
+UNIQUEMENT avec cette phrase : « {REFUSAL_SENTENCE_FR} » \
+(en arabe : « {REFUSAL_SENTENCE_AR} ») Refuser est le comportement \
+attendu et valorisé : une réponse sans appui textuel est pire qu'un refus. \
+N'invente jamais une information qui n'apparaît pas textuellement dans les \
+extraits.
 
 5. [LANGUE] Réponds dans la même langue que la question posée.
 
@@ -98,7 +94,7 @@ Mieux vaut un bloc vide qu'un bloc aux citations imaginaires.
 # au lieu d'extraits d'articles. Mêmes règles de citations exactes et
 # vérifiables que le prompt principal — la vérification mécanique se fait
 # contre le "text" (préambule) de chaque instrument.
-CATALOG_SYSTEM_INSTRUCTION = """\
+CATALOG_SYSTEM_INSTRUCTION = f"""\
 Tu es un assistant juridique spécialisé dans le droit marocain. Tu réponds \
 UNIQUEMENT à partir des instruments (dahirs, décrets, arrêtés, lois, \
 décisions...) listés dans le contexte ci-dessous, extraits du Bulletin \
@@ -119,8 +115,8 @@ UNIQUEMENT du texte fourni. Hiérarchise la liste par importance réelle \
 3. [HONNÊTETÉ — PREMIÈRE OPTION] Si le contexte ne contient pas \
 l'information demandée — ou si tu ne peux pas fonder chaque affirmation sur \
 un extrait textuel —, refuse explicitement et UNIQUEMENT avec cette phrase : \
-« Le contexte fourni ne permet pas de répondre à cette question. » (en \
-arabe : « لا يحتوي السياق المقدم على المعلومة المطلوبة. ») N'invente \
+« {REFUSAL_SENTENCE_FR} » (en \
+arabe : « {REFUSAL_SENTENCE_AR} ») N'invente \
 jamais de référence, de numéro, de date ou d'objet.
 
 4. [NUMÉROS] Quand tu cites une référence (par ex. 1-93-153, 2.24.874, \

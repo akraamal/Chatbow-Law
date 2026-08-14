@@ -285,23 +285,49 @@ class LegalRAGChatbot:
         # 2. Vérifier mécaniquement chaque citation contre la source réelle
         verified_citations, citation_stats = verify_citations(cited_spans, results)
 
-        # 3. Garde-fou anti-hallucination « verrou à la sortie » : avec un
-        #    seuil de retrieval bas (DEFAULT_SCORE_THRESHOLD = 0.75), la
-        #    réponse n'est conservée QUE si elle est adossée à au moins une
-        #    citation VÉRIFIÉE mécaniquement. Une réponse de fond sans aucune
-        #    citation vérifiée est remplacée par un refus explicite — sauf si
-        #    le LLM a lui-même refusé avec la phrase canonique (déjà sûre).
+        # 3a. Garde-fou « le LLM a refusé, point final » : la RÈGLE 4 du
+        #     prompt demande au LLM d'utiliser cette phrase EXACTE quand il
+        #     refuse, et de laisser le bloc [[CITATIONS]] vide. En pratique
+        #     un modèle (notamment via le fallback citant de
+        #     generate_with_citation_guarantee) peut refuser dans le texte
+        #     ET quand même citer un passage du contexte peu pertinent qui
+        #     se vérifie mécaniquement par coïncidence (voir eval/e2e :
+        #     unans_001/003/004, citations 100% « vérifiées » sur des
+        #     questions sans réponse dans le corpus). La vérification
+        #     mécanique prouve qu'un extrait EXISTE dans le contexte, pas
+        #     qu'il est PERTINENT pour la question — ce contrôle doit donc
+        #     s'exécuter AVANT, et indépendamment, du contrôle « citations
+        #     vides » ci-dessous.
+        refusal_phrase = REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR
+        if refusal_phrase in clean_answer:
+            return {
+                "answer": refusal_phrase,
+                "sources": [],
+                "citations": [],
+                "citation_stats": {
+                    "claimed": citation_stats.get("claimed", 0),
+                    "verified": 0,
+                    "failed": citation_stats.get("claimed", 0),
+                },
+                "query_used": search_query,
+            }
+
+        # 3b. Garde-fou anti-hallucination « verrou à la sortie » : avec un
+        #     seuil de retrieval bas (DEFAULT_SCORE_THRESHOLD = 0.75), la
+        #     réponse n'est conservée QUE si elle est adossée à au moins une
+        #     citation VÉRIFIÉE mécaniquement. Une réponse de fond sans
+        #     aucune citation vérifiée est remplacée par un refus explicite.
+        #     (Inutile de re-tester la phrase canonique ici : 3a l'a déjà
+        #     interceptée, donc elle ne peut plus être présente.)
         if clean_answer.strip() and not verified_citations:
-            refusal = REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR
-            if refusal not in clean_answer:
-                unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
-                return {
-                    "answer": unsupported,
-                    "sources": [],
-                    "citations": [],
-                    "citation_stats": citation_stats,
-                    "query_used": search_query,
-                }
+            unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
+            return {
+                "answer": unsupported,
+                "sources": [],
+                "citations": [],
+                "citation_stats": citation_stats,
+                "query_used": search_query,
+            }
 
         return {
             "answer": clean_answer,
