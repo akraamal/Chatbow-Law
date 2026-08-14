@@ -77,6 +77,26 @@ def run_query(
 
     top_score = results[0]["score"] if results else None
 
+    # Scores cosinus bruts (échelle du seuil de chatbot.py) : le top du
+    # classement, et le meilleur chunk du doc attendu (tous articles /
+    # article exact) — pour vérifier que le filtre de contexte de
+    # chatbot.py (cosine_score >= 0.75) ne rejette pas un hit attendu.
+    top_cosine = results[0].get("cosine_score") if results else None
+    expected_max_cosine = None
+    expected_max_cosine_art = None
+    if expected_doc:
+        cos = [r.get("cosine_score") for r in results
+               if r["doc_id"] == expected_doc and r.get("cosine_score") is not None]
+        if cos:
+            expected_max_cosine = max(cos)
+        if expected_art is not None:
+            cos_art = [r.get("cosine_score") for r in results
+                       if r["doc_id"] == expected_doc
+                       and r.get("article_number") == expected_art
+                       and r.get("cosine_score") is not None]
+            if cos_art:
+                expected_max_cosine_art = max(cos_art)
+
     return {
         "id": entry["id"],
         "type": entry.get("type", "unknown"),
@@ -86,6 +106,9 @@ def run_query(
         "doc_rank": doc_rank,
         "doc_art_rank": doc_art_rank,
         "top_score": top_score,
+        "top_cosine": top_cosine,
+        "expected_max_cosine": expected_max_cosine,
+        "expected_max_cosine_art": expected_max_cosine_art,
         "top_hit_doc_id": results[0]["doc_id"] if results else None,
         "n_results": len(results),
     }

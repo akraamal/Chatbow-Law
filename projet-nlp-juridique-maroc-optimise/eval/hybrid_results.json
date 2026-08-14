@@ -51,6 +51,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9043758511543274,
+      "expected_max_cosine": 0.9043758511543274,
+      "expected_max_cosine_art": 0.9043758511543274,
       "top_hit_doc_id": "BO_7488-bis_Fr",
       "n_results": 10
     },
@@ -63,6 +66,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032522,
+      "top_cosine": 0.9010100364685059,
+      "expected_max_cosine": 0.9010100364685059,
+      "expected_max_cosine_art": 0.9010100364685059,
       "top_hit_doc_id": "BO_6718_Fr",
       "n_results": 10
     },
@@ -75,6 +81,9 @@
       "doc_rank": 1,
       "doc_art_rank": 3,
       "top_score": 0.032002,
+      "top_cosine": 0.8377596139907837,
+      "expected_max_cosine": 0.8659497499465942,
+      "expected_max_cosine_art": 0.8659497499465942,
       "top_hit_doc_id": "BO_7488-bis_Fr",
       "n_results": 10
     },
@@ -87,6 +96,9 @@
       "doc_rank": 1,
       "doc_art_rank": 3,
       "top_score": 0.032018,
+      "top_cosine": 0.8667069673538208,
+      "expected_max_cosine": 0.895632803440094,
+      "expected_max_cosine_art": 0.895632803440094,
       "top_hit_doc_id": "BO_7506_Fr",
       "n_results": 10
     },
@@ -99,6 +111,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032018,
+      "top_cosine": 0.9017874002456665,
+      "expected_max_cosine": 0.9017874002456665,
+      "expected_max_cosine_art": 0.9017874002456665,
       "top_hit_doc_id": "BO_7470_Fr",
       "n_results": 10
     },
@@ -111,6 +126,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8848777413368225,
+      "expected_max_cosine": 0.8848777413368225,
+      "expected_max_cosine_art": 0.8848777413368225,
       "top_hit_doc_id": "BO_7488-bis_Fr",
       "n_results": 10
     },
@@ -123,6 +141,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032522,
+      "top_cosine": 0.9076446294784546,
+      "expected_max_cosine": 0.9076446294784546,
+      "expected_max_cosine_art": 0.9076446294784546,
       "top_hit_doc_id": "BO_7522_Fr",
       "n_results": 10
     },
@@ -135,6 +156,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9056360721588135,
+      "expected_max_cosine": 0.9056360721588135,
+      "expected_max_cosine_art": 0.9056360721588135,
       "top_hit_doc_id": "BO_6788_Fr_clean",
       "n_results": 10
     },
@@ -147,6 +171,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.031319,
+      "top_cosine": 0.9078073501586914,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7470_Fr",
       "n_results": 10
     },
@@ -159,6 +186,9 @@
       "doc_rank": 1,
       "doc_art_rank": 7,
       "top_score": 0.032522,
+      "top_cosine": 0.857811689376831,
+      "expected_max_cosine": 0.857811689376831,
+      "expected_max_cosine_art": 0.8310099840164185,
       "top_hit_doc_id": "BO_7470_Fr",
       "n_results": 10
     },
@@ -171,6 +201,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.916985034942627,
+      "expected_max_cosine": 0.916985034942627,
+      "expected_max_cosine_art": 0.916985034942627,
       "top_hit_doc_id": "BO_6718_Fr",
       "n_results": 10
     },
@@ -183,6 +216,9 @@
       "doc_rank": 1,
       "doc_art_rank": null,
       "top_score": 0.031514,
+      "top_cosine": 0.8694041967391968,
+      "expected_max_cosine": 0.8702467679977417,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_6822_Fr",
       "n_results": 10
     },
@@ -195,6 +231,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9250999689102173,
+      "expected_max_cosine": 0.9250999689102173,
+      "expected_max_cosine_art": 0.9250999689102173,
       "top_hit_doc_id": "BO_7412_Ar",
       "n_results": 10
     },
@@ -207,6 +246,9 @@
       "doc_rank": 1,
       "doc_art_rank": 2,
       "top_score": 0.032522,
+      "top_cosine": 0.8664740920066833,
+      "expected_max_cosine": 0.8664740920066833,
+      "expected_max_cosine_art": 0.8495094180107117,
       "top_hit_doc_id": "BO_7412_Ar",
       "n_results": 10
     },
@@ -219,6 +261,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.881611704826355,
+      "expected_max_cosine": 0.881611704826355,
+      "expected_max_cosine_art": 0.881611704826355,
       "top_hit_doc_id": "BO_7412_Ar",
       "n_results": 10
     },
@@ -231,6 +276,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.031054,
+      "top_cosine": 0.8629235625267029,
+      "expected_max_cosine": 0.8629235625267029,
+      "expected_max_cosine_art": 0.8629235625267029,
       "top_hit_doc_id": "BO_7506_Ar",
       "n_results": 10
     },
@@ -243,6 +291,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032002,
+      "top_cosine": 0.8262372612953186,
+      "expected_max_cosine": 0.8262372612953186,
+      "expected_max_cosine_art": 0.8262372612953186,
       "top_hit_doc_id": "BO_7505_Ar",
       "n_results": 10
     },
@@ -255,6 +306,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.023141,
+      "top_cosine": 0.838001012802124,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7470_Fr",
       "n_results": 10
     },
@@ -267,6 +321,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.028958,
+      "top_cosine": 0.7998695969581604,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7415_Ar",
       "n_results": 10
     },
@@ -279,6 +336,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.031754,
+      "top_cosine": 0.8289520740509033,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_6718_Fr",
       "n_results": 10
     },
@@ -291,6 +351,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.026014,
+      "top_cosine": 0.8131971955299377,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_6804_Fr",
       "n_results": 10
     },
@@ -303,6 +366,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.016393,
+      "top_cosine": 0.8201340436935425,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7517_Ar",
       "n_results": 10
     },
@@ -315,6 +381,9 @@
       "doc_rank": 1,
       "doc_art_rank": null,
       "top_score": 0.032787,
+      "top_cosine": 0.8996906280517578,
+      "expected_max_cosine": 0.8996906280517578,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_6718_Fr",
       "n_results": 10
     },
@@ -327,6 +396,9 @@
       "doc_rank": 2,
       "doc_art_rank": 2,
       "top_score": 0.031054,
+      "top_cosine": 0.9111305475234985,
+      "expected_max_cosine": 0.9125263094902039,
+      "expected_max_cosine_art": 0.9125263094902039,
       "top_hit_doc_id": "BO_7132_Fr",
       "n_results": 10
     },
@@ -339,6 +411,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.866430938243866,
+      "expected_max_cosine": 0.866430938243866,
+      "expected_max_cosine_art": 0.866430938243866,
       "top_hit_doc_id": "BO_6804_Fr",
       "n_results": 10
     },
@@ -351,6 +426,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9215575456619263,
+      "expected_max_cosine": 0.9215575456619263,
+      "expected_max_cosine_art": 0.9215575456619263,
       "top_hit_doc_id": "BO_6804_Fr",
       "n_results": 10
     },
@@ -363,6 +441,9 @@
       "doc_rank": 1,
       "doc_art_rank": 2,
       "top_score": 0.032018,
+      "top_cosine": 0.8710145950317383,
+      "expected_max_cosine": 0.8710145950317383,
+      "expected_max_cosine_art": 0.8615507483482361,
       "top_hit_doc_id": "BO_7522_Fr",
       "n_results": 10
     },
@@ -375,6 +456,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032522,
+      "top_cosine": 0.929187536239624,
+      "expected_max_cosine": 0.929187536239624,
+      "expected_max_cosine_art": 0.929187536239624,
       "top_hit_doc_id": "BO_7506_Fr",
       "n_results": 10
     },
@@ -387,6 +471,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9062983989715576,
+      "expected_max_cosine": 0.9062983989715576,
+      "expected_max_cosine_art": 0.9062983989715576,
       "top_hit_doc_id": "BO_7506_Fr",
       "n_results": 10
     },
@@ -399,6 +486,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9356280565261841,
+      "expected_max_cosine": 0.9356280565261841,
+      "expected_max_cosine_art": 0.9356280565261841,
       "top_hit_doc_id": "BO_7496_Fr",
       "n_results": 10
     },
@@ -411,6 +501,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8767359256744385,
+      "expected_max_cosine": 0.8767359256744385,
+      "expected_max_cosine_art": 0.8767359256744385,
       "top_hit_doc_id": "BO_7470_Fr",
       "n_results": 10
     },
@@ -423,6 +516,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8981891870498657,
+      "expected_max_cosine": 0.8981891870498657,
+      "expected_max_cosine_art": 0.8981891870498657,
       "top_hit_doc_id": "BO_7132_Fr",
       "n_results": 10
     },
@@ -435,6 +531,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.030622,
+      "top_cosine": 0.8437575101852417,
+      "expected_max_cosine": 0.8459982872009277,
+      "expected_max_cosine_art": 0.8459982872009277,
       "top_hit_doc_id": "BO_7384_Ar",
       "n_results": 10
     },
@@ -447,6 +546,9 @@
       "doc_rank": 1,
       "doc_art_rank": 7,
       "top_score": 0.032522,
+      "top_cosine": 0.9030295610427856,
+      "expected_max_cosine": 0.9030307531356812,
+      "expected_max_cosine_art": 0.9030307531356812,
       "top_hit_doc_id": "BO_7384_Ar",
       "n_results": 10
     },
@@ -459,6 +561,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.899029552936554,
+      "expected_max_cosine": 0.899029552936554,
+      "expected_max_cosine_art": 0.899029552936554,
       "top_hit_doc_id": "BO_7415_Ar",
       "n_results": 10
     },
@@ -471,6 +576,9 @@
       "doc_rank": 3,
       "doc_art_rank": 3,
       "top_score": 0.028382,
+      "top_cosine": 0.8188906311988831,
+      "expected_max_cosine": 0.8370998501777649,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7430_Ar_07a2cf18",
       "n_results": 10
     },
@@ -483,6 +591,9 @@
       "doc_rank": 3,
       "doc_art_rank": null,
       "top_score": 0.032266,
+      "top_cosine": 0.8582531809806824,
+      "expected_max_cosine": 0.8457144498825073,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7360_Ar",
       "n_results": 10
     },
@@ -495,6 +606,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032266,
+      "top_cosine": 0.8596408367156982,
+      "expected_max_cosine": 0.8596408367156982,
+      "expected_max_cosine_art": 0.8596408367156982,
       "top_hit_doc_id": "BO_7412_Ar",
       "n_results": 10
     },
@@ -507,6 +621,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.846932053565979,
+      "expected_max_cosine": 0.846932053565979,
+      "expected_max_cosine_art": 0.846932053565979,
       "top_hit_doc_id": "BO_7511_Ar",
       "n_results": 10
     },
@@ -519,6 +636,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8557015657424927,
+      "expected_max_cosine": 0.8557015657424927,
+      "expected_max_cosine_art": 0.8557015657424927,
       "top_hit_doc_id": "BO_7517_Ar",
       "n_results": 10
     },
@@ -531,6 +651,9 @@
       "doc_rank": 3,
       "doc_art_rank": 5,
       "top_score": 0.029387,
+      "top_cosine": 0.8191863298416138,
+      "expected_max_cosine": 0.8187837600708008,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7430_Ar",
       "n_results": 10
     },
@@ -543,6 +666,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032522,
+      "top_cosine": 0.9113364219665527,
+      "expected_max_cosine": 0.9113364219665527,
+      "expected_max_cosine_art": 0.9113364219665527,
       "top_hit_doc_id": "BO_7408_Ar",
       "n_results": 10
     },
@@ -555,6 +681,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8707761168479919,
+      "expected_max_cosine": 0.8707761168479919,
+      "expected_max_cosine_art": 0.8707761168479919,
       "top_hit_doc_id": "BO_6804_Fr",
       "n_results": 10
     },
@@ -567,6 +696,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032522,
+      "top_cosine": 0.8835519552230835,
+      "expected_max_cosine": 0.8893687725067139,
+      "expected_max_cosine_art": 0.8835519552230835,
       "top_hit_doc_id": "BO_7480_Fr",
       "n_results": 10
     },
@@ -579,6 +711,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032522,
+      "top_cosine": 0.8697947263717651,
+      "expected_max_cosine": 0.8697947263717651,
+      "expected_max_cosine_art": 0.8697947263717651,
       "top_hit_doc_id": "BO_7506_Fr",
       "n_results": 10
     },
@@ -591,6 +726,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.031498,
+      "top_cosine": 0.835585355758667,
+      "expected_max_cosine": 0.840268611907959,
+      "expected_max_cosine_art": 0.835585355758667,
       "top_hit_doc_id": "BO_7522_Fr",
       "n_results": 10
     },
@@ -603,6 +741,9 @@
       "doc_rank": 1,
       "doc_art_rank": null,
       "top_score": 0.032002,
+      "top_cosine": 0.8833202123641968,
+      "expected_max_cosine": 0.8833353519439697,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7488-bis_Fr",
       "n_results": 10
     },
@@ -615,6 +756,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8958309888839722,
+      "expected_max_cosine": 0.8958309888839722,
+      "expected_max_cosine_art": 0.8958309888839722,
       "top_hit_doc_id": "BO_7488-bis_Fr",
       "n_results": 10
     },
@@ -627,6 +771,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9070714712142944,
+      "expected_max_cosine": 0.9070714712142944,
+      "expected_max_cosine_art": 0.9070714712142944,
       "top_hit_doc_id": "BO_7132_Fr",
       "n_results": 10
     },
@@ -639,6 +786,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.883515477180481,
+      "expected_max_cosine": 0.883515477180481,
+      "expected_max_cosine_art": 0.883515477180481,
       "top_hit_doc_id": "BO_7492_Fr",
       "n_results": 10
     },
@@ -651,6 +801,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8855466842651367,
+      "expected_max_cosine": 0.8855466842651367,
+      "expected_max_cosine_art": 0.8855466842651367,
       "top_hit_doc_id": "BO_7350_Ar",
       "n_results": 10
     },
@@ -663,6 +816,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8702772259712219,
+      "expected_max_cosine": 0.8702772259712219,
+      "expected_max_cosine_art": 0.8702772259712219,
       "top_hit_doc_id": "BO_7360_Ar",
       "n_results": 10
     },
@@ -675,6 +831,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8734052181243896,
+      "expected_max_cosine": 0.8734052181243896,
+      "expected_max_cosine_art": 0.8734052181243896,
       "top_hit_doc_id": "BO_7386_Ar",
       "n_results": 10
     },
@@ -687,6 +846,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8600692749023438,
+      "expected_max_cosine": 0.8600692749023438,
+      "expected_max_cosine_art": 0.8600692749023438,
       "top_hit_doc_id": "BO_7408_Ar",
       "n_results": 10
     },
@@ -699,6 +861,9 @@
       "doc_rank": 2,
       "doc_art_rank": 2,
       "top_score": 0.031281,
+      "top_cosine": 0.8135347366333008,
+      "expected_max_cosine": 0.8242985606193542,
+      "expected_max_cosine_art": 0.8086726069450378,
       "top_hit_doc_id": "BO_7505_Ar",
       "n_results": 10
     },
@@ -711,6 +876,9 @@
       "doc_rank": 4,
       "doc_art_rank": 4,
       "top_score": 0.029572,
+      "top_cosine": 0.8480829000473022,
+      "expected_max_cosine": 0.8489653468132019,
+      "expected_max_cosine_art": 0.8489653468132019,
       "top_hit_doc_id": "BO_7386_Ar",
       "n_results": 10
     },
@@ -723,6 +891,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8610941171646118,
+      "expected_max_cosine": 0.8610941171646118,
+      "expected_max_cosine_art": 0.8610941171646118,
       "top_hit_doc_id": "BO_7511_Ar",
       "n_results": 10
     },
@@ -735,6 +906,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.8953152894973755,
+      "expected_max_cosine": 0.8953152894973755,
+      "expected_max_cosine_art": 0.8953152894973755,
       "top_hit_doc_id": "BO_7515_Ar",
       "n_results": 10
     },
@@ -747,6 +921,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.02895,
+      "top_cosine": 0.8390411138534546,
+      "expected_max_cosine": 0.8390411138534546,
+      "expected_max_cosine_art": 0.8390411138534546,
       "top_hit_doc_id": "BO_7510_Fr",
       "n_results": 10
     },
@@ -759,6 +936,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032522,
+      "top_cosine": 0.8509660959243774,
+      "expected_max_cosine": 0.8509660959243774,
+      "expected_max_cosine_art": 0.8509660959243774,
       "top_hit_doc_id": "BO_6758_Fr",
       "n_results": 10
     },
@@ -771,6 +951,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032522,
+      "top_cosine": 0.8494902849197388,
+      "expected_max_cosine": 0.8494902849197388,
+      "expected_max_cosine_art": 0.8494902849197388,
       "top_hit_doc_id": "BO_6788_Fr",
       "n_results": 10
     },
@@ -783,6 +966,9 @@
       "doc_rank": 3,
       "doc_art_rank": 3,
       "top_score": 0.032018,
+      "top_cosine": 0.9108952283859253,
+      "expected_max_cosine": 0.9051280617713928,
+      "expected_max_cosine_art": 0.9051280617713928,
       "top_hit_doc_id": "BO_7492_Fr",
       "n_results": 10
     },
@@ -795,6 +981,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9005743265151978,
+      "expected_max_cosine": 0.9005743265151978,
+      "expected_max_cosine_art": 0.9005743265151978,
       "top_hit_doc_id": "BO_7488-bis_Fr",
       "n_results": 10
     },
@@ -807,6 +996,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9381401538848877,
+      "expected_max_cosine": 0.9381401538848877,
+      "expected_max_cosine_art": 0.9381401538848877,
       "top_hit_doc_id": "BO_7492_Fr",
       "n_results": 10
     },
@@ -819,6 +1011,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9365854263305664,
+      "expected_max_cosine": 0.9365854263305664,
+      "expected_max_cosine_art": 0.9365854263305664,
       "top_hit_doc_id": "BO_7506_Fr",
       "n_results": 10
     },
@@ -831,6 +1026,9 @@
       "doc_rank": 3,
       "doc_art_rank": null,
       "top_score": 0.031099,
+      "top_cosine": 0.851251482963562,
+      "expected_max_cosine": 0.8643072843551636,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_6788_Fr_clean",
       "n_results": 10
     },
@@ -843,6 +1041,9 @@
       "doc_rank": 1,
       "doc_art_rank": null,
       "top_score": 0.032018,
+      "top_cosine": 0.837915301322937,
+      "expected_max_cosine": 0.837915301322937,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7506_Ar",
       "n_results": 10
     },
@@ -855,6 +1056,9 @@
       "doc_rank": 2,
       "doc_art_rank": 2,
       "top_score": 0.032787,
+      "top_cosine": 0.8631856441497803,
+      "expected_max_cosine": 0.8587257862091064,
+      "expected_max_cosine_art": 0.8587257862091064,
       "top_hit_doc_id": "BO_7506_Ar",
       "n_results": 10
     },
@@ -867,6 +1071,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.032787,
+      "top_cosine": 0.9038415551185608,
+      "expected_max_cosine": 0.9038415551185608,
+      "expected_max_cosine_art": 0.9038415551185608,
       "top_hit_doc_id": "BO_7505_Ar",
       "n_results": 10
     },
@@ -879,6 +1086,9 @@
       "doc_rank": 1,
       "doc_art_rank": 1,
       "top_score": 0.03101,
+      "top_cosine": 0.8338270783424377,
+      "expected_max_cosine": 0.8338270783424377,
+      "expected_max_cosine_art": 0.8338270783424377,
       "top_hit_doc_id": "BO_7517_Ar",
       "n_results": 10
     },
@@ -891,6 +1101,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.029083,
+      "top_cosine": 0.8346703052520752,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7506_Fr",
       "n_results": 10
     },
@@ -903,6 +1116,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.028021,
+      "top_cosine": 0.8289156556129456,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_6758_Fr",
       "n_results": 10
     },
@@ -915,6 +1131,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.031545,
+      "top_cosine": 0.8469892740249634,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_6788_Fr",
       "n_results": 10
     },
@@ -927,6 +1146,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.029911,
+      "top_cosine": 0.8353185057640076,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7496_Fr",
       "n_results": 10
     },
@@ -939,6 +1161,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.032266,
+      "top_cosine": 0.8095206618309021,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7515_Ar",
       "n_results": 10
     },
@@ -951,6 +1176,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.032266,
+      "top_cosine": 0.8195012807846069,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7517_Ar",
       "n_results": 10
     },
@@ -963,6 +1191,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.030798,
+      "top_cosine": 0.8227954506874084,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7408_Ar",
       "n_results": 10
     },
@@ -975,6 +1206,9 @@
       "doc_rank": null,
       "doc_art_rank": null,
       "top_score": 0.028442,
+      "top_cosine": 0.8085665702819824,
+      "expected_max_cosine": null,
+      "expected_max_cosine_art": null,
       "top_hit_doc_id": "BO_7506_Ar",
       "n_results": 10
     }

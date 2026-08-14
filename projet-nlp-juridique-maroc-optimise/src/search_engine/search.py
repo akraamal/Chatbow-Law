@@ -12,6 +12,17 @@ les identifiants précis — numéros de loi, références de décret, numéros
 d'article ("loi n° 18-97", "2.23.919", "787-14") — que l'embedding dense
 dilue souvent ; le dense, lui, couvre la paraphrase sémantique que le
 lexical rate. Passer hybrid=False restaure le comportement dense seul.
+
+Chaque résultat porte DEUX scores, à ne pas confondre :
+  - "score"        : score RRF fusionné (hybride) — sert uniquement au
+                     classement / affichage. Échelle ~0.01-0.03, dérivée
+                     des rangs, sans signification de distance sémantique.
+  - "cosine_score" : similarité cosinus brute du passage dense (None si
+                     le chunk n'a été trouvé que par BM25, sans signal
+                     dense). C'est la seule échelle calibrée (cf.
+                     src/rag/chatbot.py DEFAULT_SCORE_THRESHOLD) : tout
+                     filtrage par seuil doit lire cosine_score, jamais
+                     score.
 """
 from __future__ import annotations
 
@@ -136,9 +147,16 @@ class SemanticSearchEngine:
         rrf_k: int = 60,
     ) -> list[dict]:
         """
-        Renvoie les top_k articles les plus proches de `query`, chacun
-        avec son score (similarité cosinus si hybrid=False, score RRF
-        sinon).
+        Renvoie les top_k articles les plus proches de `query`. Chaque
+        résultat porte :
+          - "score"        : RRF fusionné (hybride) ou cosinus (dense pur),
+                             pour le classement / l'affichage ;
+          - "cosine_score" : similarité cosinus brute, ou None si le chunk
+                             n'a été trouvé que par BM25 (jamais présent
+                             dans le pool dense). À utiliser pour tout
+                             filtrage par seuil — jamais "score" dont
+                             l'échelle RRF (~0.01-0.03) n'est pas une
+                             distance sémantique.
 
         hybrid : fusionne FAISS + BM25 par RRF (défaut). hybrid=False
         restaure la recherche dense pure d'origine.
@@ -156,18 +174,23 @@ class SemanticSearchEngine:
             raw_k = top_k * 5 if lang else top_k
             ranked = self._faiss_ranked(query_vector, raw_k, lang)
             return [
-                {**self.metadata[idx], "score": score}
+                {**self.metadata[idx], "score": score, "cosine_score": score}
                 for idx, score in ranked[:top_k]
             ]
 
+        faiss_ranked = self._faiss_ranked(query_vector, faiss_k, lang)
+        # idx -> cosinus brut : conservé à travers la fusion RRF pour que
+        # le filtrage par seuil (chatbot.py) reste sur l'échelle cosinus.
+        dense_cosine_by_idx = dict(faiss_ranked)
         fused = self._rrf_fuse(
-            [
-                [idx for idx, _ in self._faiss_ranked(query_vector, faiss_k, lang)],
-                self._bm25_ranked(query, bm25_k, lang),
-            ],
+            [[idx for idx, _ in faiss_ranked], self._bm25_ranked(query, bm25_k, lang)],
             rrf_k,
         )
         return [
-            {**self.metadata[idx], "score": round(score, 6)}
+            {
+                **self.metadata[idx],
+                "score": round(score, 6),
+                "cosine_score": dense_cosine_by_idx.get(idx),
+            }
             for idx, score in fused[:top_k]
         ]

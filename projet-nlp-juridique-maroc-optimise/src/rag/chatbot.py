@@ -240,10 +240,25 @@ class LegalRAGChatbot:
 
         results = self.search_engine.search(search_query, top_k=top_k or self.top_k, lang=lang)
 
-        # Garde-fou anti-hallucination : appliqué à TOUS les résultats, pas
+        # Filtre de QUALITÉ du contexte : appliqué à TOUS les résultats, pas
         # seulement au premier — un hit sous le seuil n'a pas sa place dans
         # le contexte du prompt.
-        results = [r for r in results if r["score"] >= self.score_threshold]
+        #
+        # IMPORTANT : on filtre sur cosine_score, PAS sur score. Depuis le
+        # passage à la recherche hybride (FAISS+BM25 fusionnés par RRF),
+        # "score" est un score RRF (échelle ~0.01-0.03, dérivé des rangs,
+        # non comparable à un cosinus) utilisé uniquement pour le classement
+        # des résultats. Le filtre de qualité du contexte doit rester sur la
+        # similarité cosinus brute, seule échelle pour laquelle
+        # self.score_threshold (0.75) a été calibré. Un hit trouvé
+        # uniquement par BM25 (jamais présent dans le pool dense) a
+        # cosine_score=None : on le rejette aussi, faute de signal de
+        # similarité pour le juger. Le vrai garde-fou anti-hallucination
+        # reste le vérificateur de citations en aval (cf. answer()).
+        results = [
+            r for r in results
+            if r.get("cosine_score") is not None and r["cosine_score"] >= self.score_threshold
+        ]
 
         if not results:
             no_result = NO_RESULT_MESSAGE_AR if lang == "ar" else NO_RESULT_MESSAGE
