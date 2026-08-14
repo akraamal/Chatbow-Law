@@ -1,0 +1,305 @@
+{
+  "summary": {
+    "n_queries": 22,
+    "n_answerable": 17,
+    "n_unanswerable": 5,
+    "doc_level": {
+      "recall@1": 0.824,
+      "recall@3": 0.941,
+      "recall@5": 0.941,
+      "recall@10": 0.941
+    },
+    "doc_article_level": {
+      "recall@1": 0.647,
+      "recall@3": 0.765,
+      "recall@5": 0.765,
+      "recall@10": 0.882
+    },
+    "mrr_doc_level": 0.873,
+    "mrr_doc_article_level": 0.713,
+    "unanswerable_top_score_mean": 0.83,
+    "unanswerable_top_score_max": 0.849,
+    "by_type": {
+      "exact_reference": {
+        "n": 6,
+        "recall@5_doc": 0.833,
+        "recall@5_doc_art": 0.667
+      },
+      "semantic": {
+        "n": 11,
+        "recall@5_doc": 1.0,
+        "recall@5_doc_art": 0.818
+      },
+      "unanswerable": {
+        "n": 5,
+        "top_score_mean": 0.83
+      }
+    }
+  },
+  "rows": [
+    {
+      "id": "fr_001",
+      "type": "semantic",
+      "lang": "fr",
+      "query": "Les Habous publics garantissent-ils une diminution du nombre d'arbres dans un contrat ?",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.9043758511543274,
+      "top_hit_doc_id": "BO_7488-bis_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_002",
+      "type": "semantic",
+      "lang": "fr",
+      "query": "Quelle est l'aire géographique couverte par l'indication géographique Huile d'Olive Dir Béni Mellal ?",
+      "expected_doc_id": "BO_6718_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.9010100364685059,
+      "top_hit_doc_id": "BO_6718_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_003",
+      "type": "semantic",
+      "lang": "fr",
+      "query": "Quel est le rôle du trésorier au sein d'une association ?",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.8659497499465942,
+      "top_hit_doc_id": "BO_7488-bis_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_004",
+      "type": "semantic",
+      "lang": "fr",
+      "query": "Quel est le délai pour déposer une demande de renouvellement d'un contrat d'amodiation ?",
+      "expected_doc_id": "BO_7506_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.895632803440094,
+      "top_hit_doc_id": "BO_7506_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_005",
+      "type": "exact_reference",
+      "lang": "fr",
+      "query": "Quel est le montant du prêt garanti par le Maroc auprès de la Banque européenne d'investissement (BEI) en novembre 2025 ?",
+      "expected_doc_id": "BO_7470_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.9017874002456665,
+      "top_hit_doc_id": "BO_7470_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_006",
+      "type": "exact_reference",
+      "lang": "fr",
+      "query": "Quel arrêté concernant les Habous et les affaires islamiques a été modifié pour les établissements d'enseignement traditionnel ?",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.8848777413368225,
+      "top_hit_doc_id": "BO_7488-bis_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_007",
+      "type": "semantic",
+      "lang": "fr",
+      "query": "Quel serment prête l'attaché de justice avant de commencer son stage dans les tribunaux ?",
+      "expected_doc_id": "BO_7522_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.9076446294784546,
+      "top_hit_doc_id": "BO_7522_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_008",
+      "type": "exact_reference",
+      "lang": "fr",
+      "query": "Quel est le montant de l'accord de prêt n° 8954-MA conclu avec la Banque internationale pour la reconstruction et le développement ?",
+      "expected_doc_id": "BO_6788_Fr_clean",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.9056360721588135,
+      "top_hit_doc_id": "BO_6788_Fr_clean",
+      "n_results": 10
+    },
+    {
+      "id": "fr_009",
+      "type": "exact_reference",
+      "lang": "fr",
+      "query": "Quel arrêté fixe la liste des diplômes reconnus équivalents au diplôme d'architecte de l'École nationale d'architecture ?",
+      "expected_doc_id": "BO_7500_Fr_c8492a64",
+      "doc_rank": null,
+      "doc_art_rank": null,
+      "top_score": 0.9078073501586914,
+      "top_hit_doc_id": "BO_7470_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_010",
+      "type": "semantic",
+      "lang": "fr",
+      "query": "Qui a signé le décret relatif au prêt de la BEI et qui en a assuré le contreseing ?",
+      "expected_doc_id": "BO_7470_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": null,
+      "top_score": 0.857811689376831,
+      "top_hit_doc_id": "BO_7470_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_011",
+      "type": "semantic",
+      "lang": "fr",
+      "query": "Quelles sont les mentions obligatoires d'étiquetage pour le Piment Fort Zenatya bénéficiant de l'indication géographique ?",
+      "expected_doc_id": "BO_6718_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.916985034942627,
+      "top_hit_doc_id": "BO_6718_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "fr_012",
+      "type": "exact_reference",
+      "lang": "fr",
+      "query": "Quelle convention de ferme aquacole porte le numéro 2018/DOE/003 ?",
+      "expected_doc_id": "BO_6822_Fr",
+      "doc_rank": 1,
+      "doc_art_rank": 7,
+      "top_score": 0.8702467679977417,
+      "top_hit_doc_id": "BO_6822_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "ar_001",
+      "type": "semantic",
+      "lang": "ar",
+      "query": "هل يجوز للمفوض القضائي أن يشغل كاتبًا محلفًا بمكتبه؟",
+      "expected_doc_id": "BO_7412_Ar",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.9250999689102173,
+      "top_hit_doc_id": "BO_7412_Ar",
+      "n_results": 10
+    },
+    {
+      "id": "ar_002",
+      "type": "semantic",
+      "lang": "ar",
+      "query": "من يعين المفوض القضائي المتمرن الناجح في امتحان نهاية التمرين؟",
+      "expected_doc_id": "BO_7412_Ar",
+      "doc_rank": 1,
+      "doc_art_rank": 7,
+      "top_score": 0.8664740920066833,
+      "top_hit_doc_id": "BO_7412_Ar",
+      "n_results": 10
+    },
+    {
+      "id": "ar_003",
+      "type": "semantic",
+      "lang": "ar",
+      "query": "ماذا يحدث للإجراءات الجارية في مكتب مفوض قضائي في حالة وفاته؟",
+      "expected_doc_id": "BO_7412_Ar",
+      "doc_rank": 1,
+      "doc_art_rank": 1,
+      "top_score": 0.881611704826355,
+      "top_hit_doc_id": "BO_7412_Ar",
+      "n_results": 10
+    },
+    {
+      "id": "ar_004",
+      "type": "semantic",
+      "lang": "ar",
+      "query": "ما هي مهام المجلس العلمي داخل المعهد؟",
+      "expected_doc_id": "BO_7506_Ar",
+      "doc_rank": 2,
+      "doc_art_rank": 2,
+      "top_score": 0.864905059337616,
+      "top_hit_doc_id": "BO_7515_Ar",
+      "n_results": 10
+    },
+    {
+      "id": "ar_005",
+      "type": "exact_reference",
+      "lang": "ar",
+      "query": "ما هي شروط منح المنح الدراسية المحددة في المرسوم رقم 2.18.512؟",
+      "expected_doc_id": "BO_7505_Ar",
+      "doc_rank": 3,
+      "doc_art_rank": 3,
+      "top_score": 0.8271094560623169,
+      "top_hit_doc_id": "BO_7511_Ar",
+      "n_results": 10
+    },
+    {
+      "id": "unans_001",
+      "type": "unanswerable",
+      "lang": "fr",
+      "query": "Quelles sont les dispositions du décret n° 9.99.999 relatif à la régulation des crypto-monnaies au Maroc ?",
+      "expected_doc_id": null,
+      "doc_rank": null,
+      "doc_art_rank": null,
+      "top_score": 0.849401593208313,
+      "top_hit_doc_id": "BO_7470_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "unans_002",
+      "type": "unanswerable",
+      "lang": "ar",
+      "query": "ما هي شروط الحصول على رخصة استغلال منجم للذهب في جبال الأطلس؟",
+      "expected_doc_id": null,
+      "doc_rank": null,
+      "doc_art_rank": null,
+      "top_score": 0.8167997598648071,
+      "top_hit_doc_id": "BO_7415_Ar",
+      "n_results": 10
+    },
+    {
+      "id": "unans_003",
+      "type": "unanswerable",
+      "lang": "fr",
+      "query": "Quelles sont les conditions de visa pour les citoyens marocains voyageant au Japon ?",
+      "expected_doc_id": null,
+      "doc_rank": null,
+      "doc_art_rank": null,
+      "top_score": 0.8397502899169922,
+      "top_hit_doc_id": "BO_7488-bis_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "unans_004",
+      "type": "unanswerable",
+      "lang": "fr",
+      "query": "Quel est le taux de TVA applicable aux produits de luxe importés en 2030 ?",
+      "expected_doc_id": null,
+      "doc_rank": null,
+      "doc_art_rank": null,
+      "top_score": 0.8222134709358215,
+      "top_hit_doc_id": "BO_7470_Fr",
+      "n_results": 10
+    },
+    {
+      "id": "unans_005",
+      "type": "unanswerable",
+      "lang": "ar",
+      "query": "ما هي إجراءات الطلاق بالتراضي وفق مدونة الأسرة الجديدة لسنة 2027؟",
+      "expected_doc_id": null,
+      "doc_rank": null,
+      "doc_art_rank": null,
+      "top_score": 0.8201340436935425,
+      "top_hit_doc_id": "BO_7517_Ar",
+      "n_results": 10
+    }
+  ]
+}
