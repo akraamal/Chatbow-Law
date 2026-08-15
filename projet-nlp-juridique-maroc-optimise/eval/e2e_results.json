@@ -8,11 +8,10 @@
     },
     "answerable": {
       "n": 65,
-      "answered_rate": 0.015,
+      "answered_rate": 0.031,
       "citation_doc_match_rate": 1.0,
       "mean_citation_precision": 1.0,
       "unexpectedly_refused": [
-        "fr_001",
         "fr_002",
         "fr_003",
         "fr_004",
@@ -90,13 +89,12 @@
         },
         "semantic": {
           "n": 27,
-          "answered_rate": 0.037,
+          "answered_rate": 0.074,
           "citation_doc_match_rate": 1.0
         }
       }
     },
     "errors": [
-      "fr_001",
       "fr_002",
       "fr_003",
       "fr_004",
@@ -182,15 +180,17 @@
       "lang": "fr",
       "query": "Les Habous publics garantissent-ils une diminution du nombre d'arbres dans un contrat ?",
       "expected_doc_id": "BO_7488-bis_Fr",
-      "refused": true,
-      "answer_text": "",
-      "cited_doc_ids": [],
-      "citation_doc_match": false,
-      "claimed": 0,
-      "verified": 0,
-      "citation_precision": null,
-      "elapsed_s": 7.41,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99580, Requested 2298. Please try again in 27m2.592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "refused": false,
+      "answer_text": "Non, les Habous publics ne garantissent aucune diminution du nombre d'arbres, leur genre, ou qualité ainsi que leurs vices cachés [Source 1].",
+      "cited_doc_ids": [
+        "BO_7488-bis_Fr"
+      ],
+      "citation_doc_match": true,
+      "claimed": 1,
+      "verified": 1,
+      "citation_precision": 1.0,
+      "elapsed_s": 2.64,
+      "error": null
     },
     {
       "id": "fr_002",
@@ -205,8 +205,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.37,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99570, Requested 2672. Please try again in 32m17.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.39,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99379, Requested 1735. Please try again in 16m2.496s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_003",
@@ -221,8 +221,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.32,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99561, Requested 2454. Please try again in 29m0.96s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.35,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99369, Requested 2454. Please try again in 26m15.072s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_004",
@@ -237,8 +237,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.34,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99551, Requested 2468. Please try again in 29m4.416s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.38,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99359, Requested 1531. Please try again in 12m48.96s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_005",
@@ -253,8 +253,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 7.25,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99540, Requested 2573. Please try again in 30m25.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.38,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99350, Requested 2573. Please try again in 27m41.472s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_006",
@@ -269,8 +269,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 7.73,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99529, Requested 2659. Please try again in 31m30.432s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.4,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99340, Requested 1722. Please try again in 15m17.568s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_007",
@@ -285,8 +285,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.34,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99519, Requested 2574. Please try again in 30m8.352s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.37,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99330, Requested 1637. Please try again in 13m55.488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_008",
@@ -301,8 +301,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.38,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99510, Requested 2452. Please try again in 28m15.168s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.39,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99320, Requested 1515. Please try again in 12m1.44s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_009",
@@ -317,8 +317,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.28,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99500, Requested 4640. Please try again in 59m36.96s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.27,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99311, Requested 3703. Please try again in 43m24.096s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_010",
@@ -333,8 +333,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.34,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99490, Requested 2587. Please try again in 29m54.528s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.37,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99301, Requested 1650. Please try again in 13m41.664s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_011",
@@ -349,8 +349,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.34,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99481, Requested 3090. Please try again in 37m1.344s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.4,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99291, Requested 2153. Please try again in 20m47.616s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_012",
@@ -365,8 +365,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.34,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99471, Requested 2531. Please try again in 28m49.728s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.35,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99282, Requested 1594. Please try again in 12m36.864s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "ar_001",
@@ -381,8 +381,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.34,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99461, Requested 2577. Please try again in 29m20.832s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.35,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99272, Requested 2577. Please try again in 26m37.536s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "ar_002",
@@ -397,8 +397,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.33,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99452, Requested 2331. Please try again in 25m40.512s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.36,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99262, Requested 1394. Please try again in 9m26.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "ar_003",
@@ -413,8 +413,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.33,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99442, Requested 3053. Please try again in 35m55.679999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.36,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99253, Requested 3053. Please try again in 33m12.384s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "ar_004",
@@ -429,8 +429,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.32,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99432, Requested 2622. Please try again in 29m34.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.37,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99243, Requested 2622. Please try again in 26m51.36s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "ar_005",
@@ -445,8 +445,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.22,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99423, Requested 5060. Please try again in 1h4m33.312s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.23,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99233, Requested 4123. Please try again in 48m19.584s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "unans_001",
@@ -461,8 +461,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.25,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99413, Requested 4590. Please try again in 57m38.592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.24,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99224, Requested 4590. Please try again in 54m55.296s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "unans_002",
@@ -478,7 +478,7 @@
       "verified": 0,
       "citation_precision": null,
       "elapsed_s": 6.34,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99404, Requested 2218. Please try again in 23m21.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99214, Requested 1281. Please try again in 7m7.68s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "unans_003",
@@ -493,8 +493,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.37,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99394, Requested 3009. Please try again in 34m36.192s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.36,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99205, Requested 3009. Please try again in 31m52.896s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "unans_004",
@@ -509,8 +509,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.37,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99384, Requested 2369. Please try again in 25m14.592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.36,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99195, Requested 1432. Please try again in 9m1.728s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "unans_005",
@@ -526,7 +526,7 @@
       "verified": 0,
       "citation_precision": null,
       "elapsed_s": 6.36,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99374, Requested 2431. Please try again in 25m59.52s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99185, Requested 2431. Please try again in 23m16.224s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_ext_01",
@@ -541,8 +541,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.36,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99365, Requested 2972. Please try again in 33m39.168s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.4,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99175, Requested 2035. Please try again in 17m25.44s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_ext_02",
@@ -557,8 +557,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.43,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99355, Requested 2868. Please try again in 32m0.672s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.46,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99166, Requested 2868. Please try again in 29m17.376s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_ext_03",
@@ -573,8 +573,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.39,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99345, Requested 2846. Please try again in 31m33.024s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.41,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99156, Requested 1909. Please try again in 15m20.16s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_ext_04",
@@ -589,8 +589,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.44,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99335, Requested 2829. Please try again in 31m9.696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.43,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99146, Requested 1892. Please try again in 14m56.832s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_ext_05",
@@ -606,7 +606,7 @@
       "verified": 0,
       "citation_precision": null,
       "elapsed_s": 6.38,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99326, Requested 2605. Please try again in 27m48.384s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99136, Requested 1668. Please try again in 11m34.656s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_ext_06",
@@ -621,8 +621,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.39,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99316, Requested 2364. Please try again in 24m11.52s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.42,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99127, Requested 2364. Please try again in 21m28.224s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_ext_07",
@@ -637,8 +637,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.23,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99307, Requested 4552. Please try again in 55m34.176s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 6.25,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99117, Requested 4552. Please try again in 52m50.016s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "fr_ext_08",

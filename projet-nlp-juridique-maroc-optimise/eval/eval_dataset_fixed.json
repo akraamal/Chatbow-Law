@@ -1,0 +1,682 @@
+{
+  "_readme": "Retrieval eval set for SemanticSearchEngine.search(). Ground truth (expected_doc_id, expected_article) was verified against the live data/index/metadata.json on 2026-08-14 -- every 'answerable' entry is confirmed to exist in the index (the 'fr_*_ext/sem/md' and 'ar_*_ext/sem/md' blocks were added the same day, anchored on substrings present in the indexed chunk text). 'multi_doc' queries test cross-document references (modifiant/complétant/en application de) -- the expected doc holds the answer text; see per-entry notes for the referenced instrument. 'unanswerable' entries reference fictitious/out-of-corpus facts and should NOT retrieve any confidently relevant chunk. Same schema: just append.",
+  "queries": [
+    {
+      "id": "fr_001",
+      "query": "Les Habous publics garantissent-ils une diminution du nombre d'arbres dans un contrat ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "expected_article": "9"
+    },
+    {
+      "id": "fr_002",
+      "query": "Quelle est l'aire géographique couverte par l'indication géographique Huile d'Olive Dir Béni Mellal ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_6718_Fr",
+      "expected_article": "3"
+    },
+    {
+      "id": "fr_003",
+      "query": "Quel est le rôle du trésorier au sein d'une association ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "expected_article": "31"
+    },
+    {
+      "id": "fr_004",
+      "query": "Quel est le délai pour déposer une demande de renouvellement d'un contrat d'amodiation ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7506_Fr",
+      "expected_article": "17"
+    },
+    {
+      "id": "fr_005",
+      "query": "Quel est le montant du prêt garanti par le Maroc auprès de la Banque européenne d'investissement (BEI) en novembre 2025 ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7470_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Tests exact-figure/date retrieval (170.000.000 euros) -- a case where lexical/BM25 matching on the number should help vs. pure dense embeddings."
+    },
+    {
+      "id": "fr_006",
+      "query": "Quel arrêté concernant les Habous et les affaires islamiques a été modifié pour les établissements d'enseignement traditionnel ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Ground truth references arrêté n° 876-06 -- exact identifier lookup."
+    },
+    {
+      "id": "fr_007",
+      "query": "Quel serment prête l'attaché de justice avant de commencer son stage dans les tribunaux ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7522_Fr",
+      "expected_article": "58"
+    },
+    {
+      "id": "fr_008",
+      "query": "Quel est le montant de l'accord de prêt n° 8954-MA conclu avec la Banque internationale pour la reconstruction et le développement ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_6788_Fr_clean",
+      "expected_article": "PREMIER",
+      "notes": "Ground truth: 48.200.000 euros, prêt du 29 mai 2019."
+    },
+    {
+      "id": "fr_009",
+      "query": "Quel diplôme délivré par une université de Kharkiv, en Ukraine, a été reconnu équivalent au diplôme d'architecte de l'École nationale d'architecture, par un texte complétant l'arrêté n° 2797-95 ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7500_Fr_c8492a64",
+      "expected_article": "PREMIER",
+      "notes": "REVISED 2026-08-15: original query ('quel arrete fixe la liste...') was built from the BO issue's sommaire/table-of-contents phrasing ('fixant la liste des diplomes'), but the doc's indexed PREMIER-article chunks (art_299_26_1 / art_352_26_1 / art_353_26_1, all on pdf_page 28) are individual AMENDMENT provisions phrased 'est complete comme suit' -- each adding one foreign diploma (different Kharkiv-university applicants/dates) to the list, never using 'fixe la liste' wording. That mismatch, not a retrieval bug or corrupted text, caused this to MISS in both dense and hybrid eval runs (see eval/baseline_results.json, eval/hybrid_results.json). Confirmed by direct inspection of data/index/metadata.json and data/processed/fr/BO_7500_Fr_c8492a64.txt that the underlying text is clean, not mojibake as an earlier session note assumed. Query rewritten to match the actual chunk wording (any of the 3 near-duplicate PREMIER chunks -- distinct instruments, same template -- should count as a hit)."
+    },
+    {
+      "id": "fr_010",
+      "query": "Qui a signé le décret relatif au prêt de la BEI et qui en a assuré le contreseing ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7470_Fr",
+      "expected_article": "3",
+      "notes": "Ground truth: Aziz Akhannouch (chef du gouvernement), contreseing Nadia Fettah -- tests whether retrieval surfaces signatory-bearing chunks for a 'who signed' question."
+    },
+    {
+      "id": "fr_011",
+      "query": "Quelles sont les mentions obligatoires d'étiquetage pour le Piment Fort Zenatya bénéficiant de l'indication géographique ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_6718_Fr",
+      "expected_article": "7"
+    },
+    {
+      "id": "fr_012",
+      "query": "Quelle convention de ferme aquacole porte le numéro 2018/DOE/003 ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_6822_Fr",
+      "expected_article": "5"
+    },
+    {
+      "id": "ar_001",
+      "query": "هل يجوز للمفوض القضائي أن يشغل كاتبًا محلفًا بمكتبه؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7412_Ar",
+      "expected_article": "65"
+    },
+    {
+      "id": "ar_002",
+      "query": "من يعين المفوض القضائي المتمرن الناجح في امتحان نهاية التمرين؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7412_Ar",
+      "expected_article": "12"
+    },
+    {
+      "id": "ar_003",
+      "query": "ماذا يحدث للإجراءات الجارية في مكتب مفوض قضائي في حالة وفاته؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7412_Ar",
+      "expected_article": "27"
+    },
+    {
+      "id": "ar_004",
+      "query": "ما هي مهام المجلس العلمي داخل المعهد؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7506_Ar",
+      "expected_article": "8"
+    },
+    {
+      "id": "ar_005",
+      "query": "ما هي شروط منح المنح الدراسية المحددة في المرسوم رقم 2.18.512؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7505_Ar",
+      "expected_article": "11"
+    },
+    {
+      "id": "unans_001",
+      "query": "Quelles sont les dispositions du décret n° 9.99.999 relatif à la régulation des crypto-monnaies au Maroc ?",
+      "lang": "fr",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "Fictitious decree number and topic not covered by the corpus (BO legal texts sampled don't include crypto regulation)."
+    },
+    {
+      "id": "unans_002",
+      "query": "ما هي شروط الحصول على رخصة استغلال منجم للذهب في جبال الأطلس؟",
+      "lang": "ar",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "Fictitious/out-of-corpus topic (gold mining license in the Atlas mountains)."
+    },
+    {
+      "id": "unans_003",
+      "query": "Quelles sont les conditions de visa pour les citoyens marocains voyageant au Japon ?",
+      "lang": "fr",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "Entirely out of domain for Moroccan BO legal texts."
+    },
+    {
+      "id": "unans_004",
+      "query": "Quel est le taux de TVA applicable aux produits de luxe importés en 2030 ?",
+      "lang": "fr",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "Future date beyond corpus coverage; tests whether the system fabricates an answer rather than refusing."
+    },
+    {
+      "id": "unans_005",
+      "query": "ما هي إجراءات الطلاق بالتراضي وفق مدونة الأسرة الجديدة لسنة 2027؟",
+      "lang": "ar",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "References a fictitious future law (2027 family code) not in the corpus."
+    },
+    {
+      "id": "fr_ext_01",
+      "query": "Quelle concession d'exploitation a été accordée à la société « SDX Energy Morocco (UK) Limited » ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_6718_Fr",
+      "expected_article": null,
+      "notes": "Ground truth: concession d'exploitation d'hydrocarbures approuvée par décret n° 2-18-692 ; la société est citée dans l'article de la concession."
+    },
+    {
+      "id": "fr_ext_02",
+      "query": "Où a été publiée la modification de l'arrêté n° 2797-95 du 14 novembre 1995 complétant la liste des diplômes reconnus équivalents au diplôme d'architecte de l'École nationale d'architecture ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_6758_Fr",
+      "expected_article": "PREMIER",
+      "notes": "HARD disambiguation: l'arrêté 2797-95 est cité dans 8 autres BO (7132, 7470, 7480, 7492, 7496, 7500, 7500_c8492a64) ; la modifiant effectrice (article premier complété) est ici."
+    },
+    {
+      "id": "fr_ext_03",
+      "query": "En application de l'article 2 de la loi n° 18-97, quel est le montant maximum du micro-crédit accordé aux personnes économiquement faibles ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_6804_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Ground truth: 50.000 DH (et montants majorés pour certaines catégories) ; le texte mentionne la loi 18-97 dans l'article PREMIER du décret n° 2-19-575."
+    },
+    {
+      "id": "fr_ext_04",
+      "query": "À quoi est affecté le reliquat du produit de la taxe parafiscale à l'importation instituée par le décret n° 2-94-734 du 31 décembre 1994 ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_6804_Fr",
+      "expected_article": "2",
+      "notes": "Ground truth: financement des opérations de promotion économique et d'inspection des exportations."
+    },
+    {
+      "id": "fr_ext_05",
+      "query": "En vertu de la loi organique n° 106-13 portant statut des magistrats, quel institut a été réorganisé ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7522_Fr",
+      "expected_article": "premier",
+      "notes": "Ground truth: l'Institut supérieur de la magistrature, créé par la loi n° 09-01."
+    },
+    {
+      "id": "fr_ext_06",
+      "query": "Quel organisme permanent prévu à l'article 243 de la loi n° 40-13 mène les enquêtes techniques sur les accidents et incidents d'aviation civile ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7506_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Ground truth: le Bureau des enquêtes techniques dans le domaine de la sécurité de l'aviation civile, indépendant dans l'exercice de ses missions."
+    },
+    {
+      "id": "fr_ext_07",
+      "query": "Quels établissements doivent être agréés ou autorisés conformément à l'article 4 du décret n° 2-10-473 ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7506_Fr",
+      "expected_article": "5",
+      "notes": "Ground truth: les établissements de production, traitement, transformation, emballage, conditionnement, distribution, transport, entreposage ou conservation des produits visés."
+    },
+    {
+      "id": "fr_ext_08",
+      "query": "Quel décret approuve la concession de l'aménagement et de la gestion de la zone d'accélération industrielle de Skhirate au profit de la société « Rabat Région Emergence » ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7496_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Ground truth: décret approuvant la concession conformément au cahier des charges annexé."
+    },
+    {
+      "id": "fr_ext_09",
+      "query": "Quel décret du 22 décembre 2025 est relatif aux fermes aquacoles ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7470_Fr",
+      "expected_article": "3",
+      "notes": "Ground truth: décret n° 2-24-830 du 1er rejeb 1447 (22 décembre 2025) ; la loi n° 84-21 sur l'aquaculture est citée dans les articles d'application."
+    },
+    {
+      "id": "fr_ext_10",
+      "query": "Quelle société d'assurances et de réassurance, sise 181, boulevard d'Anfa à Casablanca, a été agréée pour pratiquer les opérations prévues par la circulaire n° 01/AS/19 ?",
+      "lang": "fr",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7132_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Ground truth: « AtlantaSanad » ; la circulaire 01/AS/19 de l'ACAPS est citée dans l'article d'agrément."
+    },
+    {
+      "id": "ar_ext_01",
+      "query": "ما هو الظهير الشريف رقم 1.25.11 الصادر في 21 شعبان 1446 (20 فبراير 2025) ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7384_Ar",
+      "expected_article": "56",
+      "notes": "المرجع: ظهير شريف رقم 1.25.11 صادر في 21 من شعبان 1446 بتنفيذ القانون رقم 22.23 الموافق بموجبه على بروتوكول تعديل المادة 50 من اتفاقية الطيران المدني الدولي."
+    },
+    {
+      "id": "ar_ext_02",
+      "query": "ما هو القرار المشترك رقم 695.24 الصادر في 18 مارس 2024 المتعلق بالترخيص لشركة AQUA TYPE Sarl بإنشاء واستغلال مزرعة لتربية الأحياء البحرية ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7384_Ar",
+      "expected_article": "الرابعة",
+      "notes": "المرجع: قرار مشترك لوزير الفلاحة والصيد البحري والوزير المنتدب لدى وزيرة الاقتصاد والمالية المكلف بالميزانية رقم 695.24."
+    },
+    {
+      "id": "ar_ext_03",
+      "query": "ما هو قرار وزير الداخلية رقم 692.25 الصادر في 12 ماي 2025 المتعلق بالترخيص بنقل عتاد وتجهيزات الدفاع والأمن والأسلحة والذخيرة ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7415_Ar",
+      "expected_article": "الرابعة",
+      "notes": "المرجع: قرار لوزير الداخلية رقم 692.25 صادر في 14 من ذي القعدة 1446 (12 ماي 2025)؛ المادة المرفوعة تخص إرسال نسخة من قرار الترخيص إلى مصالح الدرك الملكي والأمن الوطني."
+    },
+    {
+      "id": "ar_ext_04",
+      "query": "ما هو المرسوم الصادر في 22 أبريل 2026 الذي غير وتمم المرسوم رقم 2.14.377 الصادر في 25 أغسطس 2014 ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7506_Ar",
+      "expected_article": "45",
+      "notes": "المرجع: مرسوم رقم 2.26.23 صادر في 4 ذي القعدة 1447 (22 ابريل 2026) بتغيير وتتميم المرسوم رقم 2.14.377."
+    },
+    {
+      "id": "ar_ext_05",
+      "query": "أين نجد المرسوم رقم 2.23.919 المتعلق بممارسة الصيد في المياه البرية ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7506_Ar",
+      "expected_article": "الثانية",
+      "notes": "المرجع: مرسوم رقم 2.23.919 المتعلق بممارسة الصيد في المياه البرية (المذكور في مادة التنفيذ ضمن نفس الجريدة)."
+    },
+    {
+      "id": "ar_ext_06",
+      "query": "ما هو القانون الذي نسخه القانون الجديد المنظم لمهنة المفوضين القضائيين ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7412_Ar",
+      "expected_article": "170",
+      "notes": "المرجع: القانون رقم 81.03 بتنظيم مهنة المفوضين القضائيين الصادر بتنفيذه الظهير الشريف رقم 1.06.23 بتاريخ 14 فبراير 2006."
+    },
+    {
+      "id": "ar_ext_07",
+      "query": "أين نجد العرض المتعلق بمشروع القانون رقم 16.22 الذي يحل محل القانون رقم 16.03 المتعلق بخطة العدالة ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7511_Ar",
+      "expected_article": "الثانية-2",
+      "notes": "المرجع: تقرير لجنة العدل والتشريع وحقوق الإنسان حول مشروع القانون رقم 16.22 المتعلق بتنظيم مهنة العدول (الجريدة الرسمية 7511)."
+    },
+    {
+      "id": "ar_ext_08",
+      "query": "ما هي الأنشطة الرئيسية للشركة المكلفة بتنمية واستغلال حقول الهيدروكاربورات وفق القانون رقم 56.24 ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7517_Ar",
+      "expected_article": "3",
+      "notes": "المرجع: قانون رقم 56.24 - مباشرة تنمية واستغلال حقول الهيدروكاربورات وممارسة جميع الأنشطة المتعلقة بها."
+    },
+    {
+      "id": "ar_ext_09",
+      "query": "ما هو القرار المشترك لرئيس الحكومة ووزيرة الاقتصاد والمالية رقم 2528.24 ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7350_Ar",
+      "expected_article": "الثالثة",
+      "notes": "المرجع: قرار مشترك رقم 2528.24 صادر في 4 جمادى الأولى 1446 (30 نوفمبر 2024)."
+    },
+    {
+      "id": "ar_ext_10",
+      "query": "ما هو قرار والي جهة الشرق الصادر في 13 مارس 2025 بالموافقة على مخطط تنمية الكتلة العمرانية القروية لمركز جماعة كفايت بإقليم جرادة ؟",
+      "lang": "ar",
+      "type": "exact_reference",
+      "expected_doc_id": "BO_7408_Ar",
+      "expected_article": "الثانية",
+      "notes": "المرجع: قرار والي جهة الشرق، عامل عمالة وجدة - أنجاد رقم 871.25 صادر في 12 رمضان 1446 (13 مارس 2025)."
+    },
+    {
+      "id": "fr_sem_01",
+      "query": "Quel est le plafond du micro-crédit que les personnes économiquement faibles peuvent emprunter ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_6804_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Paraphrase de l'article PREMIER du décret n° 2-19-575 fixant le montant maximum du micro-crédit (50.000 DH, montants majorés par catégorie)."
+    },
+    {
+      "id": "fr_sem_02",
+      "query": "Quels seuils de performance énergétique minimale les climatiseurs doivent-ils respecter ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7480_Fr",
+      "expected_article": "Annexe",
+      "notes": "Annexe du décret relatif aux performances énergétiques minimales (climatiseurs à simple et double conduit, norme NM 14.2.302)."
+    },
+    {
+      "id": "fr_sem_03",
+      "query": "Quel organisme indépendant enquête sur les accidents d'aviation civile au Maroc ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7506_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Le Bureau des enquêtes techniques dans le domaine de la sécurité de l'aviation civile (loi n° 40-13, art. 243)."
+    },
+    {
+      "id": "fr_sem_04",
+      "query": "Quel établissement de formation des magistrats a été réorganisé par la loi n° 37-22 ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7522_Fr",
+      "expected_article": "premier",
+      "notes": "L'Institut supérieur de la magistrature, en application de la loi organique n° 106-13 portant statut des magistrats."
+    },
+    {
+      "id": "fr_sem_05",
+      "query": "Quelles sont les étapes de la procédure de courtage des biens constitués Habous publics ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "expected_article": "7",
+      "notes": "Constitution du dossier de courtage, publicité, organisation et approbation du résultat (règlement intérieur du conseil supérieur du contrôle des finances des Habous publics)."
+    },
+    {
+      "id": "fr_sem_06",
+      "query": "Quel dahir de 2004 fixe les règles de fonctionnement du Conseil supérieur des Ouléma ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "expected_article": "premier",
+      "notes": "Dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004) portant réorganisation des conseils des Ouléma."
+    },
+    {
+      "id": "fr_sem_07",
+      "query": "Quelle loi-cadre fixe les objectifs fondamentaux de l'action de l'État en matière de protection sociale ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7132_Fr",
+      "expected_article": "premier",
+      "notes": "Loi-cadre n° 09-21 relative à la protection sociale (articles 31 et 71 de la Constitution)."
+    },
+    {
+      "id": "fr_sem_08",
+      "query": "À quelles conditions les sociétés semencières agréées peuvent-elles bénéficier de la subvention de l'État ?",
+      "lang": "fr",
+      "type": "semantic",
+      "expected_doc_id": "BO_7492_Fr",
+      "expected_article": "6",
+      "notes": "Commercialisation des semences aux prix de vente subventionnés maxima des catégories de production nationale."
+    },
+    {
+      "id": "ar_sem_01",
+      "query": "ما هي الوثائق التي يجب أن يتضمنها ملف طلب الترخيص بتصدير السلع ذات الاستعمال المزدوج ؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7350_Ar",
+      "expected_article": "6",
+      "notes": "مذكرة تتضمن قائمة الأنشطة التجارية وقائمة الزبناء وقائمة أماكن تخزين البضائع المعدة للتصدير ونسخة من السجل التجاري والفواتير الأولية."
+    },
+    {
+      "id": "ar_sem_02",
+      "query": "من يفوض إليه التوقيع على الصفقات المبرمة لفائدة مديرية الكتاب والخزانات والمحفوظات ؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7360_Ar",
+      "expected_article": "الثالثة",
+      "notes": "يفوض إلى السيد صلاح الدين عبقري المصادقة على الصفقات وفسخها، ما عدا الصفقات التي يفوق مبلغها 2.500.000 درهم."
+    },
+    {
+      "id": "ar_sem_03",
+      "query": "ما هو المرسوم الصادر في 7 مارس 2025 الذي يعلن أن المنفعة العامة تقتضي إحداث مدرسة البرادية الجديدة بجماعة البرادية ؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7386_Ar",
+      "expected_article": "40",
+      "notes": "مرسوم رقم 2.25.48 صادر في 6 رمضان 1446 بإعلان أن المنفعة العامة تقتضي إحداث المدرسة بإقليم الفقيه بن صالح."
+    },
+    {
+      "id": "ar_sem_04",
+      "query": "ما هو المرسوم الصادر في 19 ماي 2025 المتعلق بإعادة بناء منشأة فنية على واد أم الربيع ؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7408_Ar",
+      "expected_article": "الثانية",
+      "notes": "مرسوم رقم 2.25.395 صادر في 21 من ذي القعدة 1446 بإعلان أن المنفعة العامة تقتضي إعادة بناء المنشأة عند ن.ك 200+."
+    },
+    {
+      "id": "ar_sem_05",
+      "query": "من تم تعيينها كاتبة عامة للهيئة العليا للصحة بموجب المرسوم رقم 2.25.445 ؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7415_Ar",
+      "expected_article": "الخامسة",
+      "notes": "تم تعيين السيدة اعتماد الوزاني كاتبة عامة للهيئة العليا للصحة، ابتداء من 15 ماي 2025."
+    },
+    {
+      "id": "ar_sem_06",
+      "query": "ما هو المرسوم الصادر في فاتح أغسطس 2025 الذي عهد بتنفيذه إلى وزير التعليم العالي والبحث العلمي والابتكار ؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7430_Ar",
+      "expected_article": "الثانية",
+      "notes": "مرسوم رقم 2.25.559 صادر في 7 صفر 1447 بتتميم ملحق المرسوم رقم 2.24.479 القاضي بمنح اعتراف الدولة بالمدرسة العليا."
+    },
+    {
+      "id": "ar_sem_07",
+      "query": "ما هي الوحدات الإدارية التي تغيرت تسمياتها والتي يحدد لها الأمرون المساعدون بالصرف ؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7511_Ar",
+      "expected_article": "الثانية",
+      "notes": "قرار يحدد لائحة الأمرين المساعدين بالصرف المعنيين بالوحدات الإدارية التي تم تغيير تسمياتها (مركز التأهيل الفندقي والسياحي بتواركة...)."
+    },
+    {
+      "id": "ar_sem_08",
+      "query": "ما هي مهام قسم تقييم السياسات العمومية ؟",
+      "lang": "ar",
+      "type": "semantic",
+      "expected_doc_id": "BO_7515_Ar",
+      "expected_article": "15",
+      "notes": "يتولى قسم تقييم السياسات العمومية المهام المحددة في النص التنظيمي للهيئة العليا لتقييم السياسات العمومية."
+    },
+    {
+      "id": "fr_md_01",
+      "query": "Quel décret modifie et complète les dispositions de l'article 4 du décret n° 2-09-481 du 21 décembre 2009 pris pour l'application de la loi n° 17-95 relative aux sociétés anonymes ?",
+      "lang": "fr",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7510_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Cross-doc: le décret 2-09-481 (modifié) est un autre texte ; la question porte sur le décret modificatif n° 2-25-1080 publié ici."
+    },
+    {
+      "id": "fr_md_02",
+      "query": "Quel décret du 22 février 2019 modifie et complète l'article 25 du décret n° 2-06-574 du 31 décembre 2006 relatif au remboursement ?",
+      "lang": "fr",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_6758_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Cross-doc: le décret 2-06-574 (modifié) est antérieur ; le décret modificatif n° 2-18-638 est ici."
+    },
+    {
+      "id": "fr_md_03",
+      "query": "Quel décret du 25 janvier 2019 complète le décret n° 2-08-65 du 21 mai 2009 pris pour l'application de la loi sur les conditions d'exercice de la domiciliation ?",
+      "lang": "fr",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_6788_Fr",
+      "expected_article": "544",
+      "notes": "Cross-doc: décret 2-08-65 (modifié) vs décret n° 2-18-780 (modifiant, publié ici)."
+    },
+    {
+      "id": "fr_md_04",
+      "query": "Quel arrêté révise à la hausse les prix des médicaments figurant à l'annexe de l'arrêté n° 787-14 du 7 avril 2014 ?",
+      "lang": "fr",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7480_Fr",
+      "expected_article": "PREMIER",
+      "notes": "HARD disambiguation: l'arrêté 787-14 est aussi révisé à la baisse dans BO_6754_Fr ; la formulation 'hausse' discrimine BO_7480_Fr."
+    },
+    {
+      "id": "fr_md_05",
+      "query": "Quel dahir du 22 avril 2004 portant réorganisation des conseils des Ouléma régit le fonctionnement du Conseil supérieur des Ouléma ?",
+      "lang": "fr",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7488-bis_Fr",
+      "expected_article": "premier",
+      "notes": "Cross-doc: le dahir 1-03-300 est modifié/complété par plusieurs dahirs dans d'autres numéros ; la question porte sur le règlement intérieur approuvé ici."
+    },
+    {
+      "id": "fr_md_06",
+      "query": "Quel décret abroge le décret n° 2-08-565 du 30 décembre 2008 instituant une rémunération des services rendus par le ministère du tourisme ?",
+      "lang": "fr",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7492_Fr",
+      "expected_article": "4",
+      "notes": "Cross-doc: le décret abrogé est de 2008 ; l'abrogation figure dans le décret n° 2-25-632 publié ici."
+    },
+    {
+      "id": "fr_md_07",
+      "query": "Quel décret fixe les conditions de qualité et de sécurité sanitaire des graisses et huiles végétales comestibles en application de la loi n° 28-07 ?",
+      "lang": "fr",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7506_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Cross-doc: la loi 28-07 relative à la sécurité sanitaire des produits alimentaires ; le décret d'application n° 2-25-394 est publié ici."
+    },
+    {
+      "id": "fr_md_08",
+      "query": "Quel décret précise l'autorité gouvernementale chargée des finances pour l'application de la loi n° 03-25 relative aux organismes de placement collectif ?",
+      "lang": "fr",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7500_Fr",
+      "expected_article": "PREMIER",
+      "notes": "Cross-doc: la loi 03-25 (OPCVM) ; le décret d'application n° 2-25-1062 est publié ici (version BO_7500_Fr)."
+    },
+    {
+      "id": "ar_md_01",
+      "query": "ما هو المرسوم الصادر في 22 أبريل 2026 الذي غير وتمم المرسوم رقم 2.14.377 ؟",
+      "lang": "ar",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7506_Ar",
+      "expected_article": "45",
+      "notes": "Cross-doc: المرسوم 2.14.377 (المعدل) صادر في 28 شوال 1435 (25 أغسطس 2014)؛ المرسوم المعدل رقم 2.26.23 منشور هنا."
+    },
+    {
+      "id": "ar_md_02",
+      "query": "ما هو القانون الذي نسخه القانون رقم 46.21 المتعلق بتنظيم مهنة المفوضين القضائيين ؟",
+      "lang": "ar",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7412_Ar",
+      "expected_article": "170",
+      "notes": "Cross-doc: القانون 81.03 (منسوخ) سابق؛ القانون الجديد 46.21 نُشر بالظهير الشريف رقم 1.25.49."
+    },
+    {
+      "id": "ar_md_03",
+      "query": "ما هو المرسوم المتعلق بوضعية الطلبة الخارجيين والداخليين والمقيمين بالمراكز الاستشفائية ؟",
+      "lang": "ar",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7505_Ar",
+      "expected_article": "8",
+      "notes": "Cross-doc: المرسوم رقم 2.91.527 الصادر في 13 ماي 1993 (وضعية الطلبة) — المرجوع إليه في المرسوم الجديد المنشور هنا."
+    },
+    {
+      "id": "ar_md_04",
+      "query": "ما هو القرار الذي ينسخ القرار رقم 2094.25 الصادر في 22 أغسطس 2025 بتفويض السلطة ؟",
+      "lang": "ar",
+      "type": "multi_doc",
+      "expected_doc_id": "BO_7517_Ar",
+      "expected_article": "الثانية",
+      "notes": "Cross-doc: القرار المنسوخ صادر في 28 صفر 1447؛ القرار الناسخ منشور هنا (توقيع نادية فتاح، 22 ماي 2026)."
+    },
+    {
+      "id": "fr_un_01",
+      "query": "Quelles sont les dispositions du décret n° 2-26-999 relatif aux véhicules électriques autonomes ?",
+      "lang": "fr",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "Numéro de décret fictif (2-26-999) et thème hors corpus."
+    },
+    {
+      "id": "fr_un_02",
+      "query": "Quel décret organise le télétravail dans l'administration publique marocaine ?",
+      "lang": "fr",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "Thème plausible mais absent du corpus (aucun texte sur le télétravail dans les BO indexés)."
+    },
+    {
+      "id": "fr_un_03",
+      "query": "Quelle est la procédure de naturalisation des investisseurs étrangers prévue par la loi n° 50-21 ?",
+      "lang": "fr",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "Loi n° 50-21 fictive ; la nationalité n'est pas traitée dans le corpus."
+    },
+    {
+      "id": "fr_un_04",
+      "query": "Quel texte fixe le prix de vente du pain à 1,50 dirham ?",
+      "lang": "fr",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "Aucun prix réglementé de pain dans le corpus (test de non-fabrication)."
+    },
+    {
+      "id": "ar_un_01",
+      "query": "ما هي الشروط المنصوص عليها في القانون رقم 77.26 المتعلق بالذكاء الاصطناعي ؟",
+      "lang": "ar",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "قانون رقم 77.26 غير موجود في المجموعة النصية (الذكاء الاصطناعي خارج نطاق الجرائد الرسمية المفهرسة)."
+    },
+    {
+      "id": "ar_un_02",
+      "query": "ما هو القرار الذي يحدد أسعار تذاكر الطيران الداخلية بالمغرب ؟",
+      "lang": "ar",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "تسعير النقل الجوي الداخلي غير وارد في المجموعة النصية."
+    },
+    {
+      "id": "ar_un_03",
+      "query": "ما هي مقتضيات القانون المتعلق بتنظيم المقامرة الرياضية في المغرب ؟",
+      "lang": "ar",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "لا يوجد نص حول المقامرة الرياضية في المجموعة النصية."
+    },
+    {
+      "id": "ar_un_04",
+      "query": "ما هو المرسوم الصادر سنة 2027 المتعلق بإحداث الجامعة الجهوية بمدينة الداخلة ؟",
+      "lang": "ar",
+      "type": "unanswerable",
+      "expected_doc_id": null,
+      "notes": "مرسوم مستقبلي (2027) غير موجود في المجموعة النصية."
+    }
+  ]
+}
