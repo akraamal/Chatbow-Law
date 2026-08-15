@@ -70,12 +70,12 @@
     },
     {
       "id": "fr_009",
-      "query": "Quel arrêté fixe la liste des diplômes reconnus équivalents au diplôme d'architecte de l'École nationale d'architecture ?",
+      "query": "Quel diplôme délivré par une université de Kharkiv, en Ukraine, a été reconnu équivalent au diplôme d'architecte de l'École nationale d'architecture, par un texte complétant l'arrêté n° 2797-95 ?",
       "lang": "fr",
       "type": "exact_reference",
       "expected_doc_id": "BO_7500_Fr_c8492a64",
       "expected_article": "PREMIER",
-      "notes": "Ground truth references arrêté n° 2797-95."
+      "notes": "REVISED 2026-08-15: original query ('quel arrete fixe la liste...') was built from the BO issue's sommaire/table-of-contents phrasing ('fixant la liste des diplomes'), but the doc's indexed PREMIER-article chunks (art_299_26_1 / art_352_26_1 / art_353_26_1, all on pdf_page 28) are individual AMENDMENT provisions phrased 'est complete comme suit' -- each adding one foreign diploma (different Kharkiv-university applicants/dates) to the list, never using 'fixe la liste' wording. That mismatch, not a retrieval bug or corrupted text, caused this to MISS in both dense and hybrid eval runs (see eval/baseline_results.json, eval/hybrid_results.json). Confirmed by direct inspection of data/index/metadata.json and data/processed/fr/BO_7500_Fr_c8492a64.txt that the underlying text is clean, not mojibake as an earlier session note assumed. Query rewritten to match the actual chunk wording (any of the 3 near-duplicate PREMIER chunks -- distinct instruments, same template -- should count as a hit)."
     },
     {
       "id": "fr_010",
