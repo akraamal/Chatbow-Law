@@ -186,6 +186,24 @@ def main():
     parser.add_argument("--limit", type=int, default=None, help="Only run the first N matching queries (smoke test)")
     parser.add_argument("--save", type=str, default=None)
     parser.add_argument("--eval-set", type=str, default=str(EVAL_SET_PATH))
+    parser.add_argument(
+        "--delay", type=float, default=2.0,
+        help="Seconds to sleep between queries, to stay under the Groq rate "
+             "limit instead of relying on retries alone (default: 2.0). "
+             "Each query can trigger 2 LLM calls (citation-guarantee "
+             "fallback), so this is per-query, not per-call.",
+    )
+    parser.add_argument(
+        "--resume", action="store_true",
+        help="If --save points to an existing results file, load it first "
+             "and skip any query id already completed WITHOUT error (rows "
+             "that errored last time -- rate-limit, etc. -- ARE re-run, "
+             "since an error row is not a result). Merges new rows in and "
+             "rewrites the file incrementally after every query, so a hard "
+             "rate-limit wall partway through never loses progress already "
+             "made -- re-run the identical command later and it picks up "
+             "where it left off.",
+    )
     args = parser.parse_args()
 
     entries = load_eval_set(Path(args.eval_set))
@@ -200,23 +218,60 @@ def main():
         print("No queries matched the given filters.")
         return
 
-    from src.rag.chatbot import LegalRAGChatbot
+    existing_rows: list[dict] = []
+    done_ids: set[str] = set()
+    if args.resume and args.save and Path(args.save).exists():
+        prior = json.loads(Path(args.save).read_text(encoding="utf-8"))
+        existing_rows = prior.get("rows", [])
+        done_ids = {r["id"] for r in existing_rows if not r.get("error")}
+        errored = {r["id"] for r in existing_rows if r.get("error")}
+        print(f"--resume: {len(done_ids)} queries completed cleanly in "
+              f"{args.save}, {len(errored)} errored will be re-run.")
 
-    print(f"Loading LegalRAGChatbot (index + LLM client)...")
-    bot = LegalRAGChatbot()
-    print(f"Running {len(entries)} end-to-end queries (this calls the real LLM -- may take a while)...\n")
+    entries = [e for e in entries if e["id"] not in done_ids]
+    if not entries:
+        print("Nothing left to run -- all matching queries already completed.")
+        rows = existing_rows
+    else:
+        from src.rag.chatbot import LegalRAGChatbot
 
-    rows = []
-    for i, e in enumerate(entries, start=1):
-        r = run_query(bot, e)
-        rows.append(r)
-        tag = "REFUSED" if r["refused"] else "ANSWERED"
-        extra = ""
-        if r["expected_doc_id"] is not None and not r["refused"]:
-            extra = " [doc match]" if r["citation_doc_match"] else " [NO DOC MATCH]"
-        if r["error"]:
-            extra += f" ERROR: {r['error']}"
-        print(f"  [{i}/{len(entries)}] {r['id']:>10} -> {tag}{extra} ({r['elapsed_s']}s)")
+        print(f"Loading LegalRAGChatbot (index + LLM client)...")
+        bot = LegalRAGChatbot()
+        print(f"Running {len(entries)} end-to-end queries "
+              f"(delay={args.delay}s between queries, this may take a while)...\n")
+
+        rows = list(existing_rows)
+        rows_by_id = {r["id"]: j for j, r in enumerate(rows)}
+        for i, e in enumerate(entries, start=1):
+            r = run_query(bot, e)
+            # Remplace la ligne existante du même id (re-run d'une requête
+            # qui avait échoué) au lieu d'empiler un doublon.
+            j = rows_by_id.get(r["id"])
+            if j is None:
+                rows_by_id[r["id"]] = len(rows)
+                rows.append(r)
+            else:
+                rows[j] = r
+            tag = "REFUSED" if r["refused"] else "ANSWERED"
+            extra = ""
+            if r["expected_doc_id"] is not None and not r["refused"]:
+                extra = " [doc match]" if r["citation_doc_match"] else " [NO DOC MATCH]"
+            if r["error"]:
+                extra += f" ERROR: {r['error']}"
+            print(f"  [{i}/{len(entries)}] {r['id']:>10} -> {tag}{extra} ({r['elapsed_s']}s)")
+
+            # Write incrementally after every query, not just at the end --
+            # so a hard rate-limit wall (e.g. a daily quota, which retries
+            # can't fix) loses at most one query's worth of work, not the
+            # whole remaining batch.
+            if args.save:
+                Path(args.save).write_text(
+                    json.dumps({"summary": summarize(rows), "rows": rows}, indent=2, ensure_ascii=False),
+                    encoding="utf-8",
+                )
+
+            if args.delay and i < len(entries):
+                time.sleep(args.delay)
 
     summary = summarize(rows)
     print("\n" + "=" * 60)

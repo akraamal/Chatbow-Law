@@ -70,7 +70,17 @@ class LLMClient:
         self.temperature = temperature
         self.max_output_tokens = max_output_tokens
         self._api_key = api_key
-        self._client = Groq(api_key=api_key, timeout=REQUEST_TIMEOUT_SECONDS)
+        # max_retries=5 (SDK default is 2) : la logique de retry interne du
+        # SDK respecte déjà l'en-tête Retry-After sur les 429 (cf.
+        # groq/_base_client.py _parse_retry_after_header/_should_retry) --
+        # augmenter ce budget lui permet d'attendre réellement une fenêtre
+        # de rate-limit au lieu d'épuiser ses retries en quelques secondes
+        # et de retomber sur le backoff manuel plus grossier de generate().
+        self._client = Groq(
+            api_key=api_key,
+            timeout=REQUEST_TIMEOUT_SECONDS,
+            max_retries=5,
+        )
 
     def generate(self, system_instruction: str, user_prompt: str) -> str:
         from groq import APIConnectionError, APIStatusError, RateLimitError
