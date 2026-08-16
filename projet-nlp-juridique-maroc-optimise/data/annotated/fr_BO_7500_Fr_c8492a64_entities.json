@@ -6381,7 +6381,12 @@
           "type": "issuer"
         },
         {
-          "role": "Le ministre de l'industrie FATIM EZZAHRA et du commerce",
+          "role": "Le ministre de l'industrie",
+          "name": "FATIM EZZAHRA",
+          "type": "contreseing"
+        },
+        {
+          "role": "et du commerce",
           "name": "RYAD MEZZOUR",
           "type": "contreseing"
         },
@@ -6393,6 +6398,7 @@
       ],
       "signatories_flat": [
         "ABDERRAHIM TAIBI",
+        "FATIM EZZAHRA",
         "RYAD MEZZOUR",
         "EL MANSOURI"
       ],

@@ -651,10 +651,10 @@ def _chat_answer(data: dict, question: str) -> str:
         if "instrument" in q or "décret" in q or "dahir" in q or "loi" in q or "arrêté" in q:
             exact = _find_instrument_by_reference(data, q)
             if exact:
-                return (f"L'instrument **{exact.get('instrument_type','?')} "
+                return (f"L'instrument **{exact.get('instrument_type') or '?'} "
                         f"{exact.get('reference','')}** contient **{exact.get('n_articles','?')} articles**.")
             return f"Ce document contient **{n_instrs} instruments** : " + \
-                   ", ".join(f"{i.get('instrument_type','?')} {i.get('reference','')}" for i in data.get("instruments", []))
+                   ", ".join(f"{i.get('instrument_type') or '?'} {i.get('reference','')}" for i in data.get("instruments", []))
         if "article" in q or "section" in q:
             return f"Ce document contient **{n_arts} articles** au total."
         if "entité" in q or "entite" in q or "entity" in q:
@@ -678,7 +678,7 @@ def _chat_answer(data: dict, question: str) -> str:
                 a = data["articles"][i]
                 txt = (a.get("text") or "").strip()[:220]
                 previews.append(f"**Article {a.get('number','?')}** — {txt}…")
-        head = (f"**{exact.get('instrument_type','?')} {exact.get('reference','')}** — "
+        head = (f"**{exact.get('instrument_type') or '?'} {exact.get('reference','')}** — "
                 f"**{exact.get('n_articles','?')} articles**, BO n°{bo}.")
         return head + ("\n\n" + "\n\n".join(previews) if previews else "")
 
@@ -705,7 +705,7 @@ def _chat_answer(data: dict, question: str) -> str:
         lines = []
         for i, instr in enumerate(matched[:8], 1):
             ref = instr.get("reference", "")
-            typ = instr.get("instrument_type", "?")
+            typ = instr.get("instrument_type") or "?"
             na = instr.get("n_articles", 0)
             lines.append(f"**{i}.** {typ} {ref} — {na} articles")
         if len(matched) > 8:

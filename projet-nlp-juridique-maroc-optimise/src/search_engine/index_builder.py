@@ -58,8 +58,9 @@ def _normalize_article(art: dict) -> dict:
         # enrich_json_with_pages --tables). Conservé dans l'index : le LLM
         # voit et cite le contenu des tableaux à partir de lui.
         "text_clean": art.get("text_clean", ""),
-        # Enriched fields (may be empty)
-        "instrument_type": art.get("instrument_type", ""),
+        # Enriched fields (may be empty; instrument_type can be None for
+        # content with no legal-instrument keyword, e.g. CESE annexes)
+        "instrument_type": art.get("instrument_type") or "",
         "reference": art.get("reference", ""),
         "pdf_page": art.get("pdf_page"),
         "printed_page": art.get("printed_page"),

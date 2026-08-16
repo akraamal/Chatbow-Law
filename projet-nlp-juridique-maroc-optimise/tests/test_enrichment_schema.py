@@ -35,7 +35,9 @@ OPTIONAL_ARTICLE_FIELDS = {
 }
 
 REQUIRED_INSTRUMENT_FIELDS = {
-    "instrument_type": str,
+    # None = contenu sans mot-clé d'instrument (ex. annexes de consultation
+    # du CESE) — légitime depuis le fix 2026-08 du fallback 'DECRET'.
+    "instrument_type": (str, type(None)),
     "reference": (str, type(None)),
     "instrument_id": str,
     # Les instruments produisent `article_indices` (indices dans l'array

@@ -83,7 +83,7 @@ def test_enrichment_smoke():
 
     instruments = _group_into_instruments(fake_articles, preamble_text="")
     assert len(instruments) == 2, f"Expected 2 instruments, got {len(instruments)}"
-    assert instruments[0]["instrument_type"] in ("DECRET", "ARRETE", "ARRETE_CONJOINT", "DAHIR"), \
+    assert instruments[0]["instrument_type"] in ("DECRET", "ARRETE", "ARRETE_CONJOINT", "DAHIR", None), \
         f"Unexpected type: {instruments[0]['instrument_type']}"
     assert len(instruments[0]["article_indices"]) == 3
     assert len(instruments[1]["article_indices"]) == 2

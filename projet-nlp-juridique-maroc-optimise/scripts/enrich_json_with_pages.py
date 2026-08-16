@@ -329,6 +329,16 @@ def _classify_instrument_type(articles: list[dict], preamble_context: str = "") 
     """
     preamble_upper = preamble_context.upper()
 
+    # Annexe de consultation / pièce non-juridique (ex. annexes CESE en
+    # queue des BO : listes de membres, acteurs auditionnés, sondages
+    # « Ouchariko », benchmarks) : le préambule commence par « Annexe ».
+    # Ce n'est pas un instrument — retourner None (type inconnu) SANS
+    # scanner les mots-clés du corps, qui produisent des faux positifs
+    # (« économie circulaire » → CIRCULAIRE, « coordonner » → DECRET via
+    # l'ordonnancement, « décision » dans un texte de consultation, …).
+    if preamble_context.lstrip().lower().startswith("annexe"):
+        return None
+
     # Édition arabe : le type figure en tête du préambule/titre (قرار/
     # مرسوم/قانون/ظهير…) — pas d'équivalent AR des clauses « Vu » FR.
     _AR_TYPE_MAP = {
@@ -486,7 +496,14 @@ def _classify_instrument_type(articles: list[dict], preamble_context: str = "") 
         return "CIRCULAIRE"
     if "DECISION" in text_upper or "DÉCISION" in text_upper:
         return "DECISION"
-    return "DECRET"  # fallback
+    # Aucun mot-clé d'instrument trouvé (préambule + premier article) :
+    # ce n'est PAS un décret — les annexes de consultation du CESE
+    # (« Annexe n° 1 : Liste des membres… »), sondages et autres contenus
+    # non-juridiques atterrissaient ici et étaient étiquetés DECRET à tort
+    # (audit 2026-08 : 13/71 « décrets » FR étaient des annexes CESE).
+    # Retourner None = « type inconnu » : les consommateurs aval qui
+    # n'acceptent pas None normalisent vers une chaîne vide.
+    return None
 
 
 def _extract_reference(text: str, instr_type: str) -> str | None:
@@ -691,8 +708,8 @@ def _mergeable_refs(prev: dict, curr: dict) -> bool:
     """
     prev_ref = prev.get("reference")
     curr_ref = curr.get("reference")
-    prev_type = prev.get("instrument_type", "")
-    curr_type = curr.get("instrument_type", "")
+    prev_type = prev.get("instrument_type") or ""
+    curr_type = curr.get("instrument_type") or ""
 
     # Same reference
     if prev_ref and prev_ref == curr_ref:

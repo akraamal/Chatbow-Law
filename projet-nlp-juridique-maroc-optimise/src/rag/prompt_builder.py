@@ -262,8 +262,9 @@ def format_context(
     blocks = []
     seen_doc_ids: set[str] = set()
     for i, article in enumerate(articles, start=1):
-        # Enriched fields
-        instr_type = article.get("instrument_type", "")
+        # Enriched fields (instrument_type may be None — content without a
+        # legal-instrument keyword, e.g. CESE annexes; normalize to "")
+        instr_type = article.get("instrument_type") or ""
         ref = article.get("reference", "")
         pdf_page = article.get("pdf_page")
         printed_page = article.get("printed_page")

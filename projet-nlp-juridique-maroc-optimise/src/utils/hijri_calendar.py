@@ -52,9 +52,15 @@ _MONTHS_HIJRI_FR: dict[str, int] = {
     "moharrem": 1, "mouharram": 1, "muharram": 1,
     "safar": 2,
     "rabi'i": 3, "rabii i": 3, "rabia i": 3, "rabi I": 3,
+    "rabi' 1": 3, "rabii 1": 3, "rabia 1": 3, "rabi 1": 3,
     "rabi' ii": 4, "rabii ii": 4, "rabia ii": 4, "rabi II": 4,
-    "joumada i": 5, "jomada i": 5, "jumada i": 5,
-    "joumada ii": 6, "jomada ii": 6, "jumada ii": 6,
+    "rabi' 2": 4, "rabii 2": 4, "rabia 2": 4, "rabi 2": 4,
+    "rabi' 11": 4, "rabii 11": 4, "rabia 11": 4, "rabi 11": 4,
+    "joumada i": 5, "jomada i": 5, "jumada i": 5, "jourmada i": 5,
+    "joumada 1": 5, "jomada 1": 5, "jumada 1": 5, "jourmada 1": 5,
+    "joumada ii": 6, "jomada ii": 6, "jumada ii": 6, "jourmada ii": 6,
+    "joumada 2": 6, "jomada 2": 6, "jumada 2": 6, "jourmada 2": 6,
+    "joumada 11": 6, "jomada 11": 6, "jumada 11": 6, "jourmada it": 6,
     "rejeb": 7, "rajab": 7,
     "chaabane": 8, "chabane": 8, "chaabane": 8,
     "ramadan": 9, "ramadane": 9, "ramadan": 9,
@@ -81,13 +87,16 @@ _MONTHS_HIJRI_AR: dict[str, int] = {
 
 def parse_hijri_date_fr(text: str) -> tuple[int, int, int] | None:
     """
-    Parse « 20 kaada 1440 », « 1er chaabane 1447 » → (1440, 11, 20).
-    Le jour peut être suivi de «er » (1er).  Retourne None si non parsable.
+    Parse « 20 kaada 1440 », « 1er chaabane 1447 », « 17 joumada 1 1440 »
+    → (1440, 11, 20) / (1440, 5, 17).  Le jour peut être suivi de «er »
+    (1er) ; les mois à deux parties acceptent aussi le chiffre (« joumada
+    1 » = « joumada i », « rabii 2 » = « rabii ii »).  Retourne None si
+    non parsable.
     """
     import re
 
     m = re.search(
-        r"\b(\d{1,2})(?:er)?\s+([A-Za-zÀ-ÿ'\- ]+?)\s+(\d{3,4})\b",
+        r"\b(\d{1,2})(?:er)?\s+([A-Za-zÀ-ÿ'0-9\- ]+?)\s+(\d{3,4})\b",
         text.strip(),
     )
     if not m:

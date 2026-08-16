@@ -21,6 +21,9 @@ from pathlib import Path
 ANNOTATED_DIR = Path("data/annotated")
 
 VALID_TYPES = {"DECRET", "ARRETE", "ARRETE_CONJOINT", "DAHIR", "CIRCULAIRE", "DECISION", "LOI", "AVIS"}
+# None = contenu sans mot-clé d'instrument (annexes CESE, sondages…),
+# légitime depuis le fix 2026-08 du fallback 'DECRET'.
+VALID_TYPES.add(None)
 
 
 def validate_instruments(path: Path) -> list[str]:
