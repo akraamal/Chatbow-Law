@@ -62,7 +62,11 @@ def load_eval_set(path: Path = EVAL_SET_PATH) -> list[dict]:
 def _looks_like_refusal(result: dict, lang: str) -> bool:
     """Structural refusal check, not just string match -- covers both the
     pre-LLM NO_RESULT_MESSAGE path and the post-LLM unsupported/refusal
-    sentence paths in chatbot.answer()."""
+    sentence paths in chatbot.answer().
+
+    Les constantes canoniques sont vérifiées dans les DEUX langues (FR+AR) :
+    le chatbot est bilingue et peut légitimement refuser dans l'autre langue
+    que celle de la requête (ex. unans_001, requête FR refusée en AR)."""
     from src.rag.chatbot import NO_RESULT_MESSAGE, NO_RESULT_MESSAGE_AR
     from src.rag.prompt_builder import (
         REFUSAL_SENTENCE_FR, REFUSAL_SENTENCE_AR,
@@ -71,9 +75,9 @@ def _looks_like_refusal(result: dict, lang: str) -> bool:
 
     answer = result.get("answer", "")
     canonical = (
-        NO_RESULT_MESSAGE_AR if lang == "ar" else NO_RESULT_MESSAGE,
-        REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR,
-        UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR,
+        NO_RESULT_MESSAGE_AR, NO_RESULT_MESSAGE,
+        REFUSAL_SENTENCE_AR, REFUSAL_SENTENCE_FR,
+        UNSUPPORTED_SENTENCE_AR, UNSUPPORTED_SENTENCE_FR,
     )
     if any(c in answer for c in canonical if c):
         return True

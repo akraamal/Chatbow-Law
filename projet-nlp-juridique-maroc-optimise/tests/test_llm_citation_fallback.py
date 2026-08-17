@@ -4,7 +4,7 @@ test_llm_citation_fallback.py
 Tests de generate_with_citation_guarantee : le modèle par défaut doit émettre
 un bloc [[CITATIONS]] vérifiable. Si le modèle configuré (ex. un "reasoning"
 comme qwen/qwen3.6-27b) n'émet jamais ce bloc, on régénère une fois avec
-CITATION_CAPABLE_MODEL (llama-3.3-70b-versatile) — sans double appel inutile
+CITATION_CAPABLE_MODEL (groq/compound-mini) — sans double appel inutile
 quand le modèle est déjà citant.
 
 Usage :

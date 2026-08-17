@@ -15,14 +15,17 @@ from __future__ import annotations
 import os
 import time
 
-DEFAULT_MODEL_NAME = "llama-3.3-70b-versatile"
+# Modèle par défaut : groq/compound-mini — rapide, émet de façon fiable le
+# bloc [[CITATIONS]] vérifiable par le chatbot (vérifié le 17/08/2026 sur
+# l'API Groq ; l'ancien défaut llama-3.3-70b-versatile a été retiré par Groq).
+DEFAULT_MODEL_NAME = "groq/compound-mini"
 
 # Modèle capable d'émettre le bloc [[CITATIONS]] vérifiable par le chatbot.
 # Attention : ne PAS mettre ici un modèle "reasoning" (ex. qwen/qwen3.6-27b)
 # — il consomme les tokens sur une chaîne de pensée visible et n'émet JAMAIS
 # de bloc [[CITATIONS]], ce qui rendrait aveugle le garde-fou anti-
 # hallucination (le chatbot ne pourrait jamais vérifier ce que dit le LLM).
-CITATION_CAPABLE_MODEL = "llama-3.3-70b-versatile"
+CITATION_CAPABLE_MODEL = "groq/compound-mini"
 
 DEFAULT_TEMPERATURE = 0.2
 DEFAULT_MAX_OUTPUT_TOKENS = 1024
@@ -132,7 +135,7 @@ class LLMClient:
         hallucination du chatbot devient aveugle et aucune citation ne peut
         être contrôlée mécaniquement. Si la première génération ne contient
         pas de bloc [[CITATIONS]], on réessaie une fois avec
-        CITATION_CAPABLE_MODEL (llama-3.3-70b-versatile) — qui remplit le
+        CITATION_CAPABLE_MODEL (groq/compound-mini) — qui remplit le
         format. Le modèle citant est utilisé directement quand c'est déjà
         celui configuré (pas de double appel).
         """
