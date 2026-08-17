@@ -913,9 +913,12 @@ _TYPE_LABELS = {
 
 # Dates "du 20 kaada 1447 (8 mai 2026)" — hijri puis grégorienne entre
 # parenthèses, typiquement juste après le numéro propre de l'instrument.
+# Le mois hégirien peut porter un qualificatif numérique/romain (« rabii
+# II », « joumada 1 ») — calqué sur hijri_pat/greg_pat de _instrument_dates
+# pour ne pas re-dériver de la tier-1 (préambule non ancré).
 _INSTR_DATE_RE = re.compile(
-    r"\bdu\s+(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{3,4})\s*\(\s*"
-    r"(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{4})\s*\)",
+    r"\bdu\s+(\d{1,2}(?:er)?\s+[\wà-ÿ]+(?:\s+[IVXLCT\d]+)?\s+\d{3,4})"
+    r"\s*\(\s*(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s*\d{4})\s*\)",
     re.IGNORECASE,
 )
 

@@ -68,17 +68,24 @@ Vu le décret n° 2-01-2324 du 27 hija 1422 (12 mars 2002) pris pour l'applicati
 protection des obtentions végétales, tel qu'il a été modifié, notamment ses articles 2 et 8 ;
 Après avis du Comité consultatif de la protection des obtentions végétales,
 
-### Décision
+### Arrêté
 
-Décision du directeur de l'Institut marocain de normalisation n° 557-26
-du 21 ramadan 1447 (11 mars 2026) portant homologation de normes marocaines
-LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION,
-Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée
-par le dahir n° 1.10.15 du 26 safar 1431 (11 février 2010), notamment ses articles 11, 15 et 32 ;
-Vu la résolution du Conseil d'Administration de l'Institut marocain de normalisation (IMANOR) N°10
-tenue, le 19 safar 1435 (23 décembre 2013), qui a délégué au Directeur de l'IMANOR le pouvoir de prononcer
-l'homologation des normes marocaines et la certification de la conformité auxdites nomes,
-DÉCIDE :
+Arrêté conjoint du ministre de l'industrie et du commerce et
+de la ministre de l'aménagement du territoire national,
+de l'urbanisme, de l'habitat et de la politique de la ville
+n° 302-26 du 17 chaabane 1447 (6 février 2026) rendant
+d'application obligatoire une norme marocaine.
+LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,
+LA MINISTRE DE L'AMÉNAGEMENT DU TERRITOIRE
+NATIONAL, DE L'URBANISME, DE L'HABITAT ET DE
+LA POLITIQUE DE LA VILLE,
+Vu la loi n° 12-06 relative à la normalisation, à la
+certification et à l'accréditation, promulguée par le dahir
+n°1-10-15 du 26 Safar 1431 (11 février 2010), notamment son
+article 33 ;
+Vu la décision du directeur de l'Institut marocain
+de normalisation n° 1440-23 du 10 kaada 1444 (30 mai 2023),
+portant homologation de normes marocaines,
 
 ### Arrêté
 
@@ -149,6 +156,7 @@ n° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
 les montants et les modalités de paiement de la redevance
 annuelle due au titre des conventions de concession de ferme
 aquacole, tel que modifié et complété ;
+*
 Considérant la convention de création et d'exploitation
 de ferme aquacole n° 2023/DOE/505 signée le 19 ramadan 1446
 (20 mars 2025) entre la société « MEJILLONS LABOUIRDA
@@ -207,6 +215,7 @@ n° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
 les montants et les modalités de paiement de la redevance
 annuelle due au titre des conventions de concession de ferme
 aquacole, tel que modifié et complété ;
+*
 Considérant la convention de création et d'exploitation
 de ferme aquacole n° 2024/DOE/521 signée le 16 ramadan 1446
 (17 mar.s 2025) entre la société « WEST LEOCEANIC Sarl
@@ -265,6 +274,7 @@ n°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant les
 montants et les modalités de paiement de la redevance annuelle
 due au titre des conventions de concession de ferme aquacole,
 tel que modifié et complété ;
+*
 Considérant la convention de création et d'exploitation
 de ferme aquacole n° 2024/DOE/524, signée le 12 ramadan
 1446 (13 mars 2025) entre la société «PRO AQUACULTURE
@@ -331,6 +341,7 @@ l'agriculture, de la pêche maritime, du développement rural
 et des eaux et forêts, chargée de la pêche maritime et approuvée
 par le ministre délégué auprès de la ministre de l'économie et
 des finances, chargé du budget,
+*
 ARRÊTENT :
 
 ### Arrêté
@@ -381,6 +392,7 @@ n°3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
 les montants et les modalités de paiement de la redevance
 annuelle due au titre des conventions de concession de ferme
 aquacole, tel que modifié et complété ;
+*
 Considérant la convention de création et d'exploitation
 de ferme aquacole n° 2024/DOE/527 signée le 28 hija 1446
 (25 juin 2025) entre la société «LA PERLE AQUACULTURE
@@ -847,84 +859,6 @@ AHMED EL BOUARI.
 
 *ARTICLE PREMIER. –*
 
-La norme marocaine - NM
-ISO 13006 : Carreaux et dalles céramiques : Définitions,
-de la ministre de l'aménagement du territoire national,
-de l'urbanisme, de l'habitat et de la politique de la ville
-classifications, caractéristiques et marquages - est rendue
-obligatoire, à partir de la date de la publication du présent
-arrêté au « Bulletin officiel ».
-n° 302-26 du 17 chaabane 1447 (6 février 2026) rendant
-d'application obligatoire une norme marocaine.
-
-*Entités :* `arrêté` (ARRETE), `17 chaabane 1447` (DATE_HIJRI), `6 février 2026` (DATE_GREGORIAN)
-
-*Dates :* 17 chaabane 1447, 6 février 2026
-
-
-## Article 2
-
-*ART. 2. –*
-
-Est abrogé l'arrêté conjoint du ministre de
-l'industrie, du commerce et des télécommunications et du
-ministre délégué auprès du Premier ministre, chargé de
-l'habitat et de l'urbanisme n° 426-04 du 25 safar 1425 (16 avril
-2004) rendant d'application obligatoire une norme marocaine.
-LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,
-LA MINISTRE DE L'AMÉNAGEMENT DU TERRITOIRE
-
-*Entités :* `arrêté conjoint du ministre de` (ARRETE), `25 safar 1425` (DATE_HIJRI), `16 avril
-2004` (DATE_GREGORIAN), `MINISTRE DE L'INDUSTRIE ET DU COMMERCE` (MINISTERE)
-
-*Dates :* 25 safar 1425, 16 avril 2004
-
-
-## Article 3
-
-*ART. 3. –*
-
-La norme marocaine NM ISO 13006 visée
-ci-dessus est tenue à la disposition des intéressés à l'Institut
-Marocain de Normalisation.
-NATIONAL, DE L'URBANISME, DE L'HABITAT ET DE
-LA POLITIQUE DE LA VILLE,
-Vu la loi n° 12-06 relative à la normalisation, à la
-
-*Entités :* `loi n° 12-06 relative à la normalisation, à la` (LOI)
-
-*Organisations :* Institut
-Marocain de Normalisation
-
-
-## Article 4
-
-*ART. 4. –*
-
-Le présent arrêté sera publié au Bulletin officiel.
-certification et à l'accréditation, promulguée par le dahir
-Rabat, le 17 chaabane 1447 (6 février 2026).
-n°1-10-15 du 26 Safar 1431 (11 février 2010), notamment son
-La ministre de l'aménagement
-article 33 ;
-du territoire national,
-de l'urbanisme, de l'habitat
-Vu la décision du directeur de l'Institut marocain
-et de la politique de la ville,
-de normalisation n° 1440-23 du 10 kaada 1444 (30 mai 2023),
-portant homologation de normes marocaines,
-
-*Entités :* `arrêté` (ARRETE), `17 chaabane 1447` (DATE_HIJRI), `6 février 2026` (DATE_GREGORIAN), `26 Safar 1431` (DATE_HIJRI), `11 février 2010` (DATE_GREGORIAN), `10 kaada 1444` (DATE_HIJRI), `30 mai 2023` (DATE_GREGORIAN)
-
-*Organisations :* Institut marocain
-
-*Dates :* 17 chaabane 1447, 6 février 2026, 26 Safar 1431, 11 février 2010, 10 kaada 1444, 30 mai 2023
-
-
-## Article PREMIER
-
-*ARTICLE PREMIER. –*
-
 Sont homologuées comme normes marocaines, les normes dont les références
 sont présentées en annexe de la présente décision.
 
@@ -944,18 +878,72 @@ l'Institut marocain de normalisation (IMANOR).
 *ART. 3. –*
 
 La présente décision sera publiée au Bulletin officiel.
-Rabat, le 21 ramadan 1447 (11 mars 2026).
-ABDERRAHIM TAIBI.
 *
+ARRÊTENT :
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+La norme marocaine - NM
+ISO 13006 : Carreaux et dalles céramiques : Définitions,
+classifications, caractéristiques et marquages - est rendue
+obligatoire, à partir de la date de la publication du présent
+arrêté au « Bulletin officiel ».
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Est abrogé l'arrêté conjoint du ministre de
+l'industrie, du commerce et des télécommunications et du
+ministre délégué auprès du Premier ministre, chargé de
+l'habitat et de l'urbanisme n° 426-04 du 25 safar 1425 (16 avril
+2004) rendant d'application obligatoire une norme marocaine.
+
+*Entités :* `arrêté conjoint du ministre de` (ARRETE), `25 safar 1425` (DATE_HIJRI), `16 avril
+2004` (DATE_GREGORIAN)
+
+*Dates :* 25 safar 1425, 16 avril 2004
+
+
+## Article 3
+
+*ART. 3. –*
+
+La norme marocaine NM ISO 13006 visée
+ci-dessus est tenue à la disposition des intéressés à l'Institut
+Marocain de Normalisation.
+
+*Organisations :* Institut
+Marocain de Normalisation
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 17 chaabane 1447 (6 février 2026).
+La ministre de l'aménagement
+du territoire national,
+de l'urbanisme, de l'habitat
 Le ministre de l'industrie
+et de la politique de la ville,
 FATIM EZZAHRA
 et du commerce,
 RYAD MEZZOUR.
 EL MANSOURI.
+Rabat, le 21 ramadan 1447 (11 mars 2026).
+ABDERRAHIM TAIBI.
 
-*Entités :* `21 ramadan 1447` (DATE_HIJRI), `11 mars 2026` (DATE_GREGORIAN)
+*Entités :* `arrêté` (ARRETE), `17 chaabane 1447` (DATE_HIJRI), `6 février 2026` (DATE_GREGORIAN), `21 ramadan 1447` (DATE_HIJRI), `11 mars 2026` (DATE_GREGORIAN)
 
-*Dates :* 21 ramadan 1447, 11 mars 2026
+*Dates :* 17 chaabane 1447, 6 février 2026, 21 ramadan 1447, 11 mars 2026
 
 
 ## Article PREMIER
@@ -1079,7 +1067,6 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
-*
 
 *Entités :* `arrêté conjoint` (ARRETE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
@@ -1181,7 +1168,6 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
-*
 
 *Entités :* `arrêté conjoint` (ARRETE), `6 chaabane 1447` (DATE_HIJRI), `26 janvier 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
@@ -1277,7 +1263,6 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
-*
 
 *Entités :* `arrêté conjoint` (ARRETE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
@@ -1385,7 +1370,6 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
-*
 
 *Entités :* `arrêté conjoint` (ARRETE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 
@@ -1483,7 +1467,6 @@ chargé du budget,
 de la pêche maritime,
 FOUZI LEKJAA.
 ZAKIA DRIOUICH.
-*
 
 *Entités :* `arrêté conjoint` (ARRETE), `22 ramadan 1447` (DATE_HIJRI), `12 mars 2026` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 

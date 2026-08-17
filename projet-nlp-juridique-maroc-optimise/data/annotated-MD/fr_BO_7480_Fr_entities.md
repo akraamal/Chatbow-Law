@@ -543,21 +543,21 @@ DÉCIDE :
 ### Arrêté
 
 Arrêté du ministre de l'industrie et du commerce n° 2111-24
-– « Site Tanger » : 77, lot Wouroud Adnane 90000 -
 du 27 moharrem 1446 (2 août 2024) relatif au maintien
 de la validité et à l'extension de l'agrément du Centre
 technique des matériaux de construction (CETEMCO)
 pour l'évaluation de la conformité des produits industriels.
-Tanger maroc» pour les « carreaux et dalles céramiques ».
-
-### Arrêté
-
-Arrêté du ministre de l'industrie et du commerce n° 2981-25
-du 5 rejeb 1447 (26 décembre 2025) relatif au maintien
-de la validité de l'agrément de l'organisme d'évaluation
-de la conformité « Bureau Veritas » pour l'évaluation
-de la conformité des produits industriels déclarés pour
-l'importation.
+LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,
+Vu la loi n° 24-09 relative à la sécurité des produits
+et des services et complétant le dahir du 9 ramadan 1331
+(12 août 1913) formant code des obligations et des contrats,
+promulguée par le dahir n° 1-11-140 du 16 ramadan 1432
+(17 août 2011), notamment ses articles 21 et 22 ;
+Vu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris
+pour l'application du titre premier de la loi n° 24-09 relative à
+la sécurité des produits et des services et complétant le dahir
+du 9 ramadan 1331 (12 août 1913) formant code des obligations
+et des contrats, notamment ses articles 4 et 5 ;
 Vu l'arrêté du ministre de l'industrie, du commerce,
 de l'investissement et de l'économie numérique n° 3873-13
 du 22 safar 1435 (26 décembre 2013) relatif à l'agrément des
@@ -568,12 +568,43 @@ du commerce et de l'économie numérique n° 2468-19 du
 21 kaada 1440 (24 juillet 2019) relatif à l'octroi de l'agrément du
 Centre technique des matériaux de construction (CETEMCO)
 pour l'évaluation de la conformité des produits industriels,
+
+### Arrêté
+
+Arrêté du ministre de l'industrie et du commerce n° 2981-25
+du 5 rejeb 1447 (26 décembre 2025) relatif au maintien
+de la validité de l'agrément de l'organisme d'évaluation
+de la conformité « Bureau Veritas » pour l'évaluation
+de la conformité des produits industriels déclarés pour
+l'importation.
 LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,
 Vu la loi n° 24-09 relative à la sécurité des produits
 et des services et complétant le dahir du 9 ramadan 1331
 (12 août 1913) formant code des obligations et des contrats,
 promulguée par le dahir n° 1-11-140 du 16 ramadan 1432
 (17 août 2011), notamment ses articles 21 et 22 ;
+Vu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris
+pour l'application du titre premier de la loi n° 24-09 relative à
+la sécurité des produits et des services et complétant le dahir
+du 9 ramadan 1331 (12 août 1913) formant code des obligations
+et des contrats, notamment ses articles 4 et 5 ;
+Vu l'arrêté du ministre de l'industrie, du commerce,
+de l'investissement et de l'économie numérique n° 3873-13
+du 22 safar 1435 (26 décembre 2013) relatif à l'agrément des
+organismes d'évaluation de la conformité, tel qu'il a été
+modifié ;
+Vu l'arrêté du ministre de l'industrie, du commerce,
+de l'économie verte et numérique n° 4147-19 du 28 rabii II
+1441 (25 décembre 2019) relatif à l'octroi de l'agrément de
+l'organisme d'évaluation de la conformité « Bureau Veritas »
+pour l'évaluation de la conformité des produits industriels
+déclarés pour l'importation ;
+Vu l'arrêté du ministre de l'industrie, de l'investissement,
+du commerce et de l'économie numérique n° 91-25 du 9 rejeb
+1446 (10 janvier 2025) relatif au maintien de la validité de
+l'agrément de l'organisme d'évaluation de la conformité
+« Bureau Veritas » pour l'évaluation de la conformité des
+produits industriels déclarés pour l'importation,
 
 ### Arrêté
 
@@ -3029,6 +3060,7 @@ Les exigences relatives à l'étiquetage
 énergétique des appareils mentionnés dans le deuxième article
 ci-dessus entreront en vigueur 6 (six) mois à partir de la date
 de publication de cet arrêté conjoint au « Bulletin officiel ».
+*
 
 *Entités :* `arrêté conjoint` (ARRETE)
 
@@ -3076,7 +3108,6 @@ développement durable,
 et du commerce,
 RYAD MEZZOUR.
 LEILA BENALI.
-*
 
 *Entités :* `arrêté conjoint` (ARRETE), `29 kaada 1445` (DATE_HIJRI), `7 juin 2024` (DATE_GREGORIAN)
 
@@ -4367,46 +4398,6 @@ ABDERRAHIM TAIBI.
 *Dates :* 5 rejeb 1447, 26 décembre 2025
 
 
-## Article 4
-
-*ART. 4. –*
-
-Le numéro d'identification de l'organisme est
-« MA012 ».
-
-
-## Article 5
-
-*ART. 5. –*
-
-Le présent arrêté sera publié au Bulletin officiel.
-Rabat, le 27 moharrem 1446 (2 août 2024).
-LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,
-RYAD MEZZOUR.
-Vu la loi n° 24-09 relative à la sécurité des produits
-et des services et complétant le dahir du 9 ramadan 1331
-(12 août 1913) formant code des obligations et des contrats,
-promulguée par le dahir n° 1-11-140 du 16 ramadan 1432
-(17 août 2011), notamment ses articles 21 et 22 ;
-Le texte en langue arabe a été publié dans l'édition générale du
-« Bulletin officiel » n° 7331 du 28 safar 1446 (2 septembre 2024).
-Vu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris
-pour l'application du titre premier de la loi n° 24-09 relative à
-la sécurité des produits et des services et complétant le dahir
-du 9 ramadan 1331 (12 août 1913) formant code des obligations
-et des contrats, notamment ses articles 4 et 5 ;
-
-*Entités :* `arrêté` (ARRETE), `27 moharrem 1446` (DATE_HIJRI), `2 août 2024` (DATE_GREGORIAN), `MINISTRE DE L'INDUSTRIE ET DU COMMERCE` (MINISTERE), `loi n° 24-09 relative à la sécurité des produits` (LOI), `9 ramadan 1331` (DATE_HIJRI), `12 août 1913` (DATE_GREGORIAN), `dahir n° 1-11-140 du 16 ramadan 1432
-(17 août 2011)` (DAHIR), `Bulletin officiel » n° 7331 du 28 safar 1446 (2 septembre 2024)` (BULLETIN_OFFICIEL), `décret n° 2-12-502` (DECRET), `2 rejeb 1434` (DATE_HIJRI), `13 mai 2013` (DATE_GREGORIAN), `loi n° 24-09 relative à` (LOI)
-
-*Citations :*
-
-- `articles 21 et 22` → loi n° 24-09 relative à [✓]
-- `articles 4 et 5` → loi n° 24-09 relative à [✓]
-
-*Dates :* 27 moharrem 1446, 2 août 2024, 9 ramadan 1331, 12 août 1913, 2 rejeb 1434, 13 mai 2013, 9 ramadan 1331, 12 août 1913
-
-
 ## Article PREMIER
 
 *ARTICLE PREMIER.  –*
@@ -4416,20 +4407,8 @@ Centre technique des matériaux de construction (CETEMCO),
 numéro de patente 37982878 est maintenue pour une durée de
 5 ans à compter de la date de publication du présent arrêté au
 « Bulletin officiel ».
-Vu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris
-pour l'application du titre premier de la loi n° 24-09 relative à
-la sécurité des produits et des services et complétant le dahir
-du 9 ramadan 1331 (12 août 1913) formant code des obligations
-et des contrats, notamment ses articles 4 et 5 ;
 
-*Entités :* `arrêté` (ARRETE), `décret n° 2-12-502` (DECRET), `2 rejeb 1434` (DATE_HIJRI), `13 mai 2013` (DATE_GREGORIAN), `loi n° 24-09 relative à` (LOI), `9 ramadan 1331` (DATE_HIJRI), `12 août 1913` (DATE_GREGORIAN), `loi n° 24-09 relative à
-la sécurité des produits` (LOI)
-
-*Citations :*
-
-- `articles 4 et 5` → loi n° 24-09 relative à [✓]
-
-*Dates :* 2 rejeb 1434, 13 mai 2013, 9 ramadan 1331, 12 août 1913
+*Entités :* `arrêté` (ARRETE)
 
 
 ## Article 2
@@ -4439,28 +4418,12 @@ la sécurité des produits` (LOI)
 Ledit agrément est étendu pour effectuer les
 évaluations de la conformité des « Liants hydrauliques »,
 « Béton », « Feuilles d'étanchéité », « Produits de peintures,
-Vu l'arrêté du ministre de l'industrie, du commerce,
-de l'investissement et de l'économie numérique n° 3873-13
-du 22 safar 1435 (26 décembre 2013) relatif à l'agrément des
-organismes d'évaluation de la conformité, tel qu'il a été
-modifié ;
 de vernis et d'enduits de peinture », « Articles et ustensiles
 culinaires », « Vaisselles et articles de cuisson en verre, en
 céramique et en vitrocéramique  », «  Carreaux et dalles
 céramiques » et « Appareils sanitaires en céramique » pour la
 durée de validité de l'agrément mentionnée à l'article premier
 ci-dessus.
-Vu l'arrêté du ministre de l'industrie, du commerce,
-de l'économie verte et numérique n° 4147-19 du 28 rabii II
-1441 (25 décembre 2019) relatif à l'octroi de l'agrément de
-l'organisme d'évaluation de la conformité « Bureau Veritas »
-pour l'évaluation de la conformité des produits industriels
-déclarés pour l'importation ;
-
-*Entités :* `arrêté du ministre de l'industrie` (ARRETE), `22 safar 1435` (DATE_HIJRI), `26 décembre 2013` (DATE_GREGORIAN), `28 rabii II
-1441` (DATE_HIJRI), `25 décembre 2019` (DATE_GREGORIAN)
-
-*Dates :* 22 safar 1435, 26 décembre 2013, 28 rabii II 1441, 25 décembre 2019
 
 
 ## Article 3
@@ -4478,17 +4441,33 @@ culinaires », « Vaisselles et articles de cuisson en verre,
 en céramique et en vitrocéramique  », «  Carreaux
 et dalles céramiques » et « Appareils sanitaires en
 céramique ».
-Vu l'arrêté du ministre de l'industrie, de l'investissement,
-du commerce et de l'économie numérique n° 91-25 du 9 rejeb
-1446 (10 janvier 2025) relatif au maintien de la validité de
-l'agrément de l'organisme d'évaluation de la conformité
-« Bureau Veritas » pour l'évaluation de la conformité des
-produits industriels déclarés pour l'importation,
+– « Site Tanger » : 77, lot Wouroud Adnane 90000 -
+Tanger maroc» pour les « carreaux et dalles céramiques ».
 
-*Entités :* `arrêté du ministre de l'industrie` (ARRETE), `9 rejeb
-1446` (DATE_HIJRI), `10 janvier 2025` (DATE_GREGORIAN)
+*Personnes :* Wouroud Adnane
 
-*Dates :* 9 rejeb 1446, 10 janvier 2025
+
+## Article 4
+
+*ART. 4. –*
+
+Le numéro d'identification de l'organisme est
+« MA012 ».
+
+
+## Article 5
+
+*ART. 5. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 27 moharrem 1446 (2 août 2024).
+RYAD MEZZOUR.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7331 du 28 safar 1446 (2 septembre 2024).
+
+*Entités :* `arrêté` (ARRETE), `27 moharrem 1446` (DATE_HIJRI), `2 août 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7331 du 28 safar 1446 (2 septembre 2024)` (BULLETIN_OFFICIEL)
+
+*Dates :* 27 moharrem 1446, 2 août 2024
 
 
 ## Article PREMIER

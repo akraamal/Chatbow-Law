@@ -372,29 +372,6 @@ détail de certaines des marchandises avant leur arrivée
 au bureau de douane et fixant le délai de dépôt des
 déclarations en détail.
 LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
-Vu le code des douanes ainsi que des impôts indirects
-relevant de l'administration des douanes et impôts indirects,
-approuvé par le dahir portant loi n° 1-77-339 du 25 chaoual
-1397 (9 octobre 1977), notamment son article 66-2° et 66- 3° ;
-Vu l'arrêté du ministre des finances n° 1318-77 du 17 kaada
-1397 (31 octobre 1977) autorisant le dépôt des déclarations en
-détail de certaines des marchandises avant leur arrivée au
-bureau de douane et fixant le délai de dépôt des déclarations
-en détail ;
-Vu l'arrêté du ministre des finances n°  1790-91 du
-19 joumada II 1412 (26 décembre 1991) relatif au dépôt des
-déclarations sommaires par procédés informatiques ;
-Vu l'arrêté du ministre des finances et des investissements
-extérieurs n° 2444-96 du 21 rejeb 1417 (3 décembre 1996) fixant
-les conditions de rectification des déclarations sommaires ;
-Vu l'arrêté du ministre des finances et de la privatisation
-n°  1035-03 du 26 rabii I 1424 (28 mai 2003) relatif à la
-déclaration  sommaire des marchandises importées par la voie
-maritime, aérienne ou à l'entrée dans les magasins et aires de
-dédouanement ainsi que les documents pouvant y être joints ;
-Vu l'arrêté du ministre de l'économie et des finances
-n° 3414-12 du 15 kaada 1433 (2 octobre 2012) fixant le délai de
-dépôt de la déclaration sommaire,
 Rabat, le 3 kaada 1443 (3 juin 2022).
 NADIA FETTAH.
 
@@ -460,23 +437,11 @@ DÉCIDE :
 ### Arrêté
 
 Arrêté du ministre de l'économie, des finances et de la réforme
-Vu la décision du Conseil de l'Autorité de contrôle des
-assurances et de la prévoyance sociale n° P/EA/5.20 du 18 rabii I
-1442 (4 novembre 2020) portant octroi d'agrément à l'entreprise
-d'assurances et de réassurance « COFACE MAROC » ;
 de l'administration n° 846-21 du 10 chaabane 1442
 (24 mars 2021) abrogeant les arrêtés portant agrément
 de certaines entreprises d'assurances et de réassurance.
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/6.20 du
-18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément
-à l'entreprise d'assurances « Mutuelle Attamine Chaabi » ;
 LE MINISTRE DE L'ÉCONOMIE, DES FINANCES ET DE
 LA RÉFORME DE L'ADMINISTRATION,
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/7.20 du
-18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
-l'entreprise de réassurance « MAMDA Ré » ;
 Vu la loi n° 17-99 portant code des assurances promulguée
 par le dahir n° 1-02-238 du 25 rejeb 1423 (3 octobre 2002), telle
 qu'elle a été modifiée et complétée, notamment son article 161 ;
@@ -484,89 +449,101 @@ Vu la loi n° 64-12 portant création de l'Autorité de
 contrôle des assurances et de la prévoyance sociale promulguée
 par le dahir n° 1-14-10 du 4 joumada l 1435 (6 mars 2014),
 notamment son article 15 ;
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/8.20 du
-18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
-l'entreprise d'assurances et de réassurance « Maroc Assistance
-Internationale » ;
 Vu l'arrêté du ministre de l'économie et des finances
 n° 2178-11 du 19 chaabane 1432 (21 juillet 2011) autorisant
 l'entreprise d'assurances et de réassurance « lssaaf Mondial
 Assistance  » à continuer son activité sous la nouvelle
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/9.20 du
-18 rabii l 1442 (4 novembre 2020) portant octroi d'agrément à
-l'entreprise d'assurances et de réassurance « Marocaine-Vie » ;
 dénomination sociale « ISSAF ASSISTANCE » ;
 Vu l'arrêté du ministre de l'économie et des finances
 n° 14-14 du 1er rabii I 1435 (3 janvier 2014) autorisant l'entreprise
 d'assurances et de réassurance « CNIA Saada Assurance » à
 continuer son activité sous la nouvelle dénomination sociale
 « SAHAM ASSURANCE » ;
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/10.20 du
-18 rabii l 1442 (4 novembre 2020) portant octroi d'agrément
-à l'entreprise d'assurances «  Mutuelle d'Assurances des
-Transporteurs Unis » ;
 Vu l'arrêté du ministre de l'économie et des finances
 n° 723-14 du 11 joumada I 1435 (13 mars 2014) autorisant
 l'entreprise d'assurances et de réassurance «  ISSAF
 ASSISTANCE » à continuer son activité sous la nouvelle
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/11.20 du
-18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
-l'entreprise de réassurance « Société centrale de réassurance » ;
 dénomination sociale « SAHAM ASSISTANCE » ;
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/12.20 du
-18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément
-à l'entreprise d'assurances et de réassurance « Euler Hermes
-Acmar » ;
 Vu la décision du président de l'Autorité de contrôle des
 assurances et de la prévoyance sociale n° P/EA/1.16 du 14 hija
 1437 (21 septembre 2016) autorisant à l'entreprise d'assurances et
 de réassurance « Royale marocaine d'assurances-Al Wataniya »
 à continuer son activité sous la nouvelle dénomination
 « Royale marocaine d'assurances » ;
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/13.20 du
-18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément
-à l'entreprise d'assurances et de réassurance « WAFA IMA
-ASSISTANCE » ;
 Vu la décision du président de l'Autorité de contrôle
 des assurances et de la prévoyance sociale n° P/EA/1.20 du
 3 safar 1442 (21 septembre 2020 ) approuvant le transfert total
 du portefeuille, avec ses droits et obligations, de l'entreprise
 d'assurances et de réassurance «  Sanad » à l'entreprise
 d'assurances et de réassurance « Atlanta » ;
+Vu la décision du président de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/2.20 du
+3 safar 1442 (21 septembre 2020) portant retrait d'agrément de
+l'entreprise d'assurances et de réassurance « Sanad » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/3.20 du
+18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
+l'entreprise d'assurances et de réassurance « Atlanta Sanad » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/4.20 du
+18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
+l'entreprise d'assurances et de réassurance « Axa assurance
+Maroc » ;
+Vu la décision du Conseil de l'Autorité de contrôle des
+assurances et de la prévoyance sociale n° P/EA/5.20 du 18 rabii I
+1442 (4 novembre 2020) portant octroi d'agrément à l'entreprise
+d'assurances et de réassurance « COFACE MAROC » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/6.20 du
+18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément
+à l'entreprise d'assurances « Mutuelle Attamine Chaabi » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/7.20 du
+18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
+l'entreprise de réassurance « MAMDA Ré » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/8.20 du
+18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
+l'entreprise d'assurances et de réassurance « Maroc Assistance
+Internationale » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/9.20 du
+18 rabii l 1442 (4 novembre 2020) portant octroi d'agrément à
+l'entreprise d'assurances et de réassurance « Marocaine-Vie » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/10.20 du
+18 rabii l 1442 (4 novembre 2020) portant octroi d'agrément
+à l'entreprise d'assurances «  Mutuelle d'Assurances des
+Transporteurs Unis » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/11.20 du
+18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
+l'entreprise de réassurance « Société centrale de réassurance » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/12.20 du
+18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément
+à l'entreprise d'assurances et de réassurance « Euler Hermes
+Acmar » ;
+Vu la décision du Conseil de l'Autorité de contrôle
+des assurances et de la prévoyance sociale n° P/EA/13.20 du
+18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément
+à l'entreprise d'assurances et de réassurance « WAFA IMA
+ASSISTANCE » ;
 Vu la décision du Conseil de l'Autorité de contrôle
 des assurances et de la prévoyance sociale n° P/EA/14.20 du
 18 rabii I 1442 (4 novembre 2020) portant agrément de
 l'entreprise d'assurances et de réassurance «SAHAM
 ASSISTANCE» ;
-Vu la décision du président de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/2.20 du
-3 safar 1442 (21 septembre 2020) portant retrait d'agrément de
-l'entreprise d'assurances et de réassurance « Sanad » ;
 Vu la décision du Conseil de l'Autorité de contrôle
 des assurances et de la prévoyance sociale n° P/EA/16.20 du
 18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
 l'entreprise d'assurances et de réassurance « Mutuelle agricole
 marocaine d'assurances » ;
 Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/3.20 du
-18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
-l'entreprise d'assurances et de réassurance « Atlanta Sanad » ;
-Vu la décision du Conseil de l'Autorité de contrôle
 des assurances et de la prévoyance sociale n° P/EA/17.20 du
 18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément
 à l'entreprise d'assurances « Mutuelle centrale marocaine
 d'assurances » ;
-Vu la décision du Conseil de l'Autorité de contrôle
-des assurances et de la prévoyance sociale n° P/EA/4.20 du
-18 rabii I 1442 (4 novembre 2020) portant octroi d'agrément à
-l'entreprise d'assurances et de réassurance « Axa assurance
-Maroc » ;
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 Vu la décision du Conseil de l'Autorité de contrôle
 des assurances et de la prévoyance sociale n° P/EA/18.20 du
@@ -2630,26 +2607,43 @@ sont modifiés comme suit :
 « 1397 (31 octobre 1977) relatif au dépôt des déclarations
 « en détail des marchandises avant leur arrivée au bureau de
 « douane et fixant le délai de dépôt des déclarations en détail. »
+Vu le code des douanes ainsi que des impôts indirects
+relevant de l'administration des douanes et impôts indirects,
+approuvé par le dahir portant loi n° 1-77-339 du 25 chaoual
+1397 (9 octobre 1977), notamment son article 66-2° et 66- 3° ;
 «  Article premier.  –  La déclaration en détail des
 « marchandises peut être déposée avant l'arrivée au bureau
 « des douanes desdites marchandises à condition qu'elles soient
 « prises en charge dans une déclaration sommaire déposée
 « conformément aux dispositions réglementaires en vigueur.
+Vu l'arrêté du ministre des finances n° 1318-77 du 17 kaada
+1397 (31 octobre 1977) autorisant le dépôt des déclarations en
+détail de certaines des marchandises avant leur arrivée au
+bureau de douane et fixant le délai de dépôt des déclarations
+en détail ;
 « Article 2. – Sous réserve des dispositions de l'article 2 bis
 « quarante-cinq jours, calculé à compter de la date d'arrivée
 « des marchandises au bureau de douane.
+Vu l'arrêté du ministre des finances n°  1790-91 du
+19 joumada II 1412 (26 décembre 1991) relatif au dépôt des
+déclarations sommaires par procédés informatiques ;
 « Sont compris dans ce délai, le jour de l'arrivée de la
 « marchandise au bureau de douane et le jour de l'échéance.
 « Les jours fériés  […texte non modifié…]  une journée entière. »
+Vu l'arrêté du ministre des finances et des investissements
+extérieurs n° 2444-96 du 21 rejeb 1417 (3 décembre 1996) fixant
+les conditions de rectification des déclarations sommaires ;
 
-*Entités :* `arrêté du ministre des` (ARRETE), `17 kaada 1397` (DATE_HIJRI), `31 octobre 1977` (DATE_GREGORIAN), `Arrêté du ministre des finances n° 1318-77 du 17 kaada` (ARRETE), `Arrêté` (ARRETE), `1318-77` (ARRETE)
+*Entités :* `arrêté du ministre des` (ARRETE), `17 kaada 1397` (DATE_HIJRI), `31 octobre 1977` (DATE_GREGORIAN), `Arrêté du ministre des finances n° 1318-77 du 17 kaada` (ARRETE), `dahir portant loi n° 1-77-339 du 25 chaoual
+1397 (9 octobre 1977)` (DAHIR), `arrêté du ministre des finances n°  1790-91 du` (ARRETE), `19 joumada II 1412` (DATE_HIJRI), `26 décembre 1991` (DATE_GREGORIAN), `arrêté du ministre des finances et des investissements` (ARRETE), `21 rejeb 1417` (DATE_HIJRI), `3 décembre 1996` (DATE_GREGORIAN), `Arrêté` (ARRETE), `arrêté du ministre des finances n° 1318-77 du 17 kaada
+1397` (ARRETE)
 
 *Citations :*
 
 - `l'article 2` → Arrêté du ministre des finances n° 1318-77 du 17 kaada [✓]
-- `l'article 2` → Arrêté du ministre des finances n° 1318-77 du 17 kaada [✓]
+- `l'article 2` → arrêté du ministre des finances n° 1790-91 du [✓]
 
-*Dates :* 17 kaada 1397, 31 octobre 1977, 31 octobre 1977
+*Dates :* 17 kaada 1397, 31 octobre 1977, 31 octobre 1977, 31 octobre 1977, 19 joumada II 1412, 26 décembre 1991, 21 rejeb 1417, 3 décembre 1996
 
 
 ## Article 2
@@ -2660,15 +2654,23 @@ Le directeur général de l'administration des
 douanes et impôts indirects est chargé de l'exécution du présent
 arrêté qui prendra effet à compter de la date de sa publication
 au Bulletin officiel.
+Vu l'arrêté du ministre des finances et de la privatisation
+n°  1035-03 du 26 rabii I 1424 (28 mai 2003) relatif à la
+déclaration  sommaire des marchandises importées par la voie
+maritime, aérienne ou à l'entrée dans les magasins et aires de
+dédouanement ainsi que les documents pouvant y être joints ;
 Rabat, le 20 kaada 1443 (20 juin 2022).
 NADIA FETTAH.
+Vu l'arrêté du ministre de l'économie et des finances
+n° 3414-12 du 15 kaada 1433 (2 octobre 2012) fixant le délai de
+dépôt de la déclaration sommaire,
 Le texte en langue arabe a été publié dans l'édition générale du
 « Bulletin officiel » n° 7120  du 27 moharrem 1444 (25 août 2022).
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 
-*Entités :* `arrêté` (ARRETE), `20 kaada 1443` (DATE_HIJRI), `20 juin 2022` (DATE_GREGORIAN), `Bulletin officiel » n° 7120  du 27 moharrem 1444 (25 août 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
+*Entités :* `arrêté` (ARRETE), `arrêté du ministre des finances et de la privatisation` (ARRETE), `26 rabii I 1424` (DATE_HIJRI), `28 mai 2003` (DATE_GREGORIAN), `20 kaada 1443` (DATE_HIJRI), `20 juin 2022` (DATE_GREGORIAN), `ministre de l'économie et des finances` (MINISTERE), `15 kaada 1433` (DATE_HIJRI), `2 octobre 2012` (DATE_GREGORIAN), `Bulletin officiel » n° 7120  du 27 moharrem 1444 (25 août 2022)` (BULLETIN_OFFICIEL), `9 rabii I 1444` (DATE_HIJRI)
 
-*Dates :* 20 kaada 1443, 20 juin 2022, 9 rabii I 1444
+*Dates :* 26 rabii I 1424, 28 mai 2003, 20 kaada 1443, 20 juin 2022, 15 kaada 1433, 2 octobre 2012, 9 rabii I 1444
 
 
 ## Article PREMIER
@@ -3037,6 +3039,7 @@ stockage prévue par l'article 4 ci-dessus sont déterminées pour
 chaque société semencière agréée sur la base du prorata des
 ventes en semences céréalières certifiées réparties entre les
 différentes sociétés au cours de la campagne agricole antérieure
+*
 à la campagne concernée (du 1er septembre au 31 janvier), et ce
 dans les limites d'un stock global de 220.000 Qx. Cette répartition
 est arrêtée annuellement par la direction du développement des
@@ -3102,7 +3105,6 @@ chargé du budget,
 et des eaux et forêts,
 MOHAMMED SADIKI.
 FOUZI LEKJAA.
-*
 Nº 7132 – 9 rabii I 1444 (6-10-2022)
 2022)octroyant une subvention à la commercialisation des semences céréalières certifiées de production nationale et d'importation
 (G3, G4, R1 et R2) et des semences de Génération Ultérieure à la deuxième reproduction  GUR2 ainsi que la prime au stockage au

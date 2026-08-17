@@ -21,7 +21,11 @@ import fitz
 # détectés comme stalés via leur sidecar .meta.json
 # (pipeline.stamp_interim_provenance) et la régénération des JSON est
 # refusée tant que l'ingestion n'a pas été relancée.
-EXTRACTOR_VERSION = "5"
+# v6 : correctif f6c72df (détection de gouttière masquée par les séparateurs/
+# signatures de bas de page) — le correctif data/interim de BO_7480 et 4
+# autres BO générés avant 2026-08-05T13:13:45 n'avait pas incrémenté la
+# version, laissant ces fichiers silencieusement stalés.
+EXTRACTOR_VERSION = "6"
 
 
 # ======================================================================

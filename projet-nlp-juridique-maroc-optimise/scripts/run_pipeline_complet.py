@@ -203,7 +203,16 @@ def _extract_bo_metadata_from_interim(pdf_stem: str, interim_files: list[Path]) 
             continue
         text = f.read_text(encoding="utf-8", errors="replace")
         text = _CTRL.sub("", text)
-        for lang in ("ar", "fr"):
+        # Pass de langue dans l'ordre du dossier d'abord : sur un texte
+        # français, le pass "ar" rend un bo_number issu du SEUL nom de
+        # fichier (confidence low, date_publication None) qui court-
+        # circuite le pass "fr" (filename+header, confidence high, date
+        # de publication renseignée).  L'inverse reste possible quand
+        # l'en-tête d'un _Ar est routé vers interim/fr/ — le pass "fr"
+        # échoue alors et on retombe sur "ar".
+        folder_lang = f.parent.name if f.parent.name in ("fr", "ar") else None
+        order = ("fr", "ar") if folder_lang == "fr" else ("ar", "fr")
+        for lang in order:
             meta = extract_document_metadata(text, doc_id=pdf_stem, lang=lang)
             if meta.get("bo_number"):
                 return meta
@@ -470,6 +479,10 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
     result = {
         "source": str(processed_file), "lang": lang,
         **metadata,
+        # metadata peut contenir "lang" (ex. pass "ar" court-circuité par
+        # _extract_bo_metadata_from_interim sur un texte français) — la
+        # langue du pipeline (dossier processed/) doit TOUJOURS gagner.
+        "lang": lang,
         "preamble_text": preamble,
         "preamble_entities": [
             a for a in (
