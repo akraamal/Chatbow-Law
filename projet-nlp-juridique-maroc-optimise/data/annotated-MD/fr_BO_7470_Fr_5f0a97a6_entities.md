@@ -1,0 +1,5981 @@
+# Bulletin Officiel 7470
+**Source :** `data\processed\fr\BO_7470_Fr_5f0a97a6.txt`
+**Langue :** fr
+**Nombre d'articles :** 103
+
+## Préambule
+
+décret n° 2-25-964 du 20 joumada II 1447 (11 décembre 2025)
+approuvant le contrat conclu le 7 novembre 2025
+entre le Royaume du Maroc et la Banque européenne
+d'investissement (BEI), pour la garantie du prêt
+d'un montant de cent soixante-dix millions d'euros
+(170.000.000 euros), consenti par ladite banque à l'Office
+national de l'électricité et de l'eau potable (ONEE),
+pour le financement du projet « Transmission Energie
+Renouvelable ».
+LE CHEF DU GOUVERNEMENT,
+Vu la loi de finances pour l'année 1982 n°  26-81
+promulguée par le dahir n°  1-81-425 du 5 rabii I 1402
+(1er janvier 1982), notamment son article 41, paragraphe I ;
+Sur proposition de la ministre de l'économie et des finances,
+DÉCRÈTE :
+
+## Décrets
+
+### décret
+
+décret n° 2-25-964 du 20 joumada II 1447 (11 décembre 2025)
+approuvant le contrat conclu le 7 novembre 2025
+entre le Royaume du Maroc et la Banque européenne
+d'investissement (BEI), pour la garantie du prêt
+d'un montant de cent soixante-dix millions d'euros
+(170.000.000 euros), consenti par ladite banque à l'Office
+national de l'électricité et de l'eau potable (ONEE),
+pour le financement du projet « Transmission Energie
+Renouvelable ».
+LE CHEF DU GOUVERNEMENT,
+Vu la loi de finances pour l'année 1982 n°  26-81
+promulguée par le dahir n°  1-81-425 du 5 rabii I 1402
+(1er janvier 1982), notamment son article 41, paragraphe I ;
+Sur proposition de la ministre de l'économie et des finances,
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-25-965 du 20 joumada II 1447 (11 décembre 2025)
+approuvant le contrat conclu le 7 novembre 2025
+entre le Royaume du Maroc et la Banque européenne
+d'investissement (BEI), pour la garantie du prêt d'un
+montant de soixante-dix millions d'euros (70.000.000
+euros), consenti par ladite banque à l'Office national de
+l'électricité et de l'eau potable (ONEE), pour le financement
+du projet «Production d'eau potable III (AEP3).
+LE CHEF DU GOUVERNEMENT,
+Vu la loi de finances pour l'année 1982 n°  26-81
+promulguée par le dahir n° 1-81-425 du 5 rabii I 1402 (1er janvier
+1982), notamment son article 41, paragraphe I ;
+Sur proposition de la ministre de l'économie et des finances,
+DÉCRÈTE :
+ARTICLE PREMIER. – Est approuvé, tel qu'il est annexé
+à l'original du présent décret, le contrat conclu le 7 novembre
+2025 entre le Royaume du Maroc et la Banque européenne
+d'investissement (BEI), pour la garantie du prêt d'un montant
+de soixante-dix millions d'euros (70.000.000 euros), consenti
+par ladite banque à l'Office national de l'électricité et de l'eau
+potable (ONEE), pour le financement du projet «Production
+d'eau potable III (AEP3).
+ART. 2. – La ministre de l'économie et des finances est
+chargée de l'exécution du présent décret qui sera publié au
+Bulletin officiel.
+Fait à Rabat, le 20 joumada II 1447 (11 décembre 2025).
+AZIZ AKHANNOUCH.
+Pour contreseing :
+La ministre de l'économie
+et des finances,
+NADIA FETTAH.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025).
+
+### décret
+
+décret n°2-25-968 du 20 joumada II 1447 (11 décembre 2025)
+approuvant la décision de Bank Al-Maghrib relative à la
+mise en circulation de pièces de monnaie de 1000 dirhams
+en or et de 250 dirhams en argent commémorant la
+35ème édition de la Coupe d'Afrique des Nations-Maroc 2025.
+LE CHEF DU GOUVERNEMENT,
+Vu les articles 5, 25, 54, 55, 57 et 58 de la loi n°40-17
+portant statut de Bank Al-Maghrib, promulguée par le dahir
+n°1-19-82 du 17 chaoual 1440 (21 juin 2019) ;
+Vu l'article premier du décret n° 2-19-1095 du 3 chaoual
+1441 (26 mai 2020), pris pour l'application de la loi n°40-17
+portant statut de Bank Al-Maghrib ;
+Vu les délibérations du Conseil de Bank Al-Maghrib,
+du 30 rabii I 1447 (23 septembre 2025), décidant la mise en
+circulation de pièces de monnaie de 1000 dirhams en or et de
+250 dirhams en argent commémorant la 35ème édition de la
+Coupe d'Afrique des Nations - Maroc 2025 ;
+Et sur proposition de la ministre de l'économie et des
+finances,
+DÉCRÈTE :
+
+### décret
+
+décret n°2-25-966 du 2 rejeb 1447 (23 décembre 2025)
+approuvant le retrait de la circulation de billets de
+ banque.
+LE CHEF DU GOUVERNEMENT,
+Vu la loi n° 40-17 portant statut de Bank Al-Maghrib,
+promulguée par le dahir n° 1-19-82 du 17 chaoual 1440 (21 juin
+2019) notamment ses articles 25 et 61 ;
+Vu le décret n° 2-19-1095 du 3 chaoual 1441 (26 mai 2020),
+pris pour l'application de la loi n° 40-17 portant statut de Bank
+Al-Maghrib notamment son article premier ;
+Vu les délibérations du Conseil de Bank Al-Maghrib, en
+date du 30 rabii 1 1447 (23 septembre 2025), décidant le retrait
+de billets de banque ;
+Et sur proposition de la ministre de l'économie et des
+finances,
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-24-830 du 1er rejeb 1447 (22 décembre
+2025) relatif aux fermes aquacoles
+LE CHEF DU GOUVERNEMENT,
+Vu la loi n° 84-21 relative à l'aquaculture marine,
+promulguée par le dahir n°1-22-81 du 18 joumada I 1444
+(13 décembre 2022) ;
+Vu la loi n°52-09 portant création de l'Agence nationale
+pour le développement de l'aquaculture, promulguée par le
+dahir n° 1-10-201 du 14 rabii I 1432 (18 février 2011), telle que
+modifiée et complétée, notamment ses articles 2,3 et 3 bis ;
+Vu la loi n°48-95 portant création de l'institut national
+de recherche halieutique, promulguée par le dahir n° 1-96-98
+du 12 rabii I 1417 (29 juillet 1996) ;
+Après avis de l'Agence nationale pour le développement
+de l'aquaculture ;
+Après avis du Conseil national de l'aquaculture marine,
+réuni le 28 rabii I 1446 (2 octobre 2024) ;
+Après délibération en Conseil du gouvernement, réuni
+le 28 joumada I 1447 (20 novembre 2025),
+DÉCRÈTE :
+Chapitre premier
+De l'appel à manifestation d'intérêt (AMI)
+
+### Arrêté
+
+Arrêté de la ministre de l'économie et des finances n° 2412-25
+du 21 rabii II 1447 (14 octobre 2025) fixant les règles
+prudentielles relatives aux placements financiers du Fonds
+Hassan II pour le développement économique et social.
+LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu la loi n° 36-01 portant création du Fonds Hassan II
+pour le développement économique et social promulguée
+par le dahir n° 1-02-02 du 15 kaada 1422 (29 janvier 2002),
+notamment son article 2 (b) ;
+Vu le décret n° 2-02-93 du 27 hija 1422 (12 mars 2002)
+pris en application de la loi n° 36-01 portant création du
+Fonds Hassan II pour le développement économique et social,
+notamment son article 3,
+
+### Arrêté
+
+Arrêté conjoint de la ministre de l'économie et des finances
+et du ministre de l'industrie et du commerce n° 2481-25
+du 29 rabii II 1447 (22 octobre 2025) fixant la liste des
+services liés aux activités autorisées à s'implanter dans la
+Zone d'accélération industrielle Betoya.
+LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+ET LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE,
+Vu la loi n° 19-94 relative aux zones d'accélération
+industrielle promulguée par le dahir n° 1-95-1 du 24 chaabane
+1415 (26 janvier 1995), telle qu'elle a été modifiée, notamment
+ses articles 2 et 3 ;
+Vu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre
+1995) pris pour l'application de la loi n° 19-94 relative aux zones
+d'accélération industrielle, notamment son article 2 ;
+Vu le décret n° 2-09-684 du 30 rabii I 1431 (17 mars 2010)
+portant création de la zone d'accélération industrielle Betoya,
+tel qu'il a été modifié et complété notamment son article 4 ;
+Sur proposition de la commission nationale des zones
+d'accélération industrielle,
+ARRÊTENT :
+
+### Arrêté
+
+Arrêté de la ministre de l'économie et des finances n° 2889-25
+du 19 joumada II 1447 (10 décembre 2025) modifiant et
+complétant l'arrêté du ministre délégué auprès du premier
+ministre, chargé des affaires économiques et générales
+n° 1964-06 du 20 rejeb 1427 (15 août 2006) fixant les prix
+et les marges commerciales maxima du sucre raffiné à tous
+les échelons de la commercialisation.
+LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu la loi de finances n°55-23 pour l'année budgétaire
+2024 promulguée par le dahir n° l-23-91 du 30 joumada I 1445
+(14 décembre 2023) ;
+Vu le décret n° 2-14-652 du 8 safar 1436 (1er décembre
+2014) pris pour l'application de la loi n° 104-12 sur la liberté
+des prix et de la concurrence tel qu'il a été modifié et complété,
+et notamment son article 3 ;
+Vu le décret n° 2-21-829 du 14 rabii I 1443 (21 octobre
+2021) relatif aux attributions de la ministre de l'économie et
+des finances ;
+Vu l'arrêté du ministre délégué auprès du chef
+du gouvernement chargé des affaires générales et de la
+gouvernance n°1899-15 du 13 chaabane 1436 (1er juin 2015)
+fixant la liste des biens, produits et services dont les prix sont
+réglementés, tel que complété ;
+Vu l'arrêté du ministre délégué auprès du premier ministre,
+chargé des affaires économiques et générales n° 1964-06
+du 20 rejeb 1427 (15 août 2006) fixant les prix et les marges
+commerciales maxima du sucre raffiné à tous les échelons de la
+commercialisation tel qu'il a été modifié et complété ;
+Après avis de la commission interministérielle des prix,
+
+### Arrêté
+
+Arrêté de la ministre de l'économie et des finances n° 2927-25
+du 27 joumada II 1447 (18 décembre 2025) modifiant et
+complétant l'arrêté du ministre délégué auprès du Chef
+du gouvernement, chargé des affaires générales et de la
+gouvernance n° 771-13 du 18 rabii II 1434 (1er mars 2013)
+relatif à l'homologation des prix de vente au public des
+tabacs manufacturés.
+LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu le décret n° 2-03-199 du 20 rabii I 1424 (22 mai 2003)
+pris pour l'application de la loi n° 46-02 relative au régime des
+tabacs bruts et des tabacs manufacturés, tel qu'il a été modifié
+et complété par le décret n° 2-17-642 ;
+Vu le décret n° 2-21-829 du 14 rabii I 1443 (21 octobre
+2021) relatif aux attributions de la ministre de l'économie et
+des finances ;
+Vu l'arrêté du ministre délégué auprès du Chef
+du gouvernement, chargé des affaires générales et de la
+gouvernance n° 771-13 du 18 rabii II 1434 (1er mars 2013)
+relatif à l'homologation des prix de vente au public des tabacs
+manufacturés, tel qu'il a été modifié et complété ;
+Après avis de la commission chargée de l'homologation
+des prix des produits de tabac manufacturé,
+
+### Arrêté
+
+Arrêté conjoint du ministre délégué auprès de la ministre de
+l'économie et des finances, chargé du budget et de la
+secrétaire d'Etat auprès du ministre de l'agriculture,
+de la pêche maritime, du développement rural et des
+eaux et forêts, chargée de la pêche maritime n° 2861-25
+du 25 joumada II 1447 (16 décembre 2025) autorisant la
+société « BRAIKA AQUACULTURE Sarl AU » pour la
+création et l'exploitation d'une ferme aquacole dénommée
+« Braika Aquaculture Tiniguir » et portant publication de
+l'extrait de la convention y afférente.
+LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE
+L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
+LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE
+L'AGRICULTURE, DE LA PÊCHE MARITIME, DU
+DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS,
+CHARGÉE DE LA PÊCHE MARITIME,
+Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393
+(23 novembre 1973) formant règlement sur la pêche maritime,
+tel que modifié et complété, notamment ses articles 28 et 28-1 ;
+Vu le décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)
+fixant les conditions et les modalités de délivrance
+et de renouvellement des autorisations d'établissement
+de pêche maritime, tel que modifié et complété, notamment
+ses articles 7, 7 bis et 9 ;
+Vu l'arrêté de la ministre de l'économie et des finances
+n° 3200-21 du 28 rabii I 1443 (4 novembre 2021) portant
+délégation d'attributions au ministre délégué auprès de la
+ministre de l'économie et des finances, chargé du budget ;
+Vu l'arrêté du ministre de l'agriculture, de la pêche
+maritime, du développement rural et des eaux et forêts n° 2561-24
+du 25 rabii II 1446 (29 octobre 2024) portant délégation
+d'attributions à la secrétaire d'Etat auprès du ministre de
+l'agriculture, de la pêche maritime, du développement rural
+et des eaux et forêts, chargée de la pêche maritime ;
+Vu l'arrêté du ministre de l'agriculture et de la pêche
+maritime n° 1643-10 du 11 joumada II 1431 (26 mai 2010) relatif
+à la demande d'autorisation de création et d'exploitation
+d'établissement de pêche maritime et fixant le modèle de
+convention de concession y afférent, tel que modifié et
+complété, notamment son article 3 ;
+Vu l'arrêté conjoint du ministre de l'économie et des
+finances et du ministre de l'agriculture et de la pêche maritime
+n° 3151-13 du 7 moharrem 1435 (11 novembre 2013) fixant
+les montants et les modalités de paiement de la redevance
+annuelle due au titre des conventions de concession de ferme
+aquacole, tel que modifié et complété ;
+*
+*    *
+Considérant la convention de création et d'exploitation
+de ferme aquacole n° 2025/DOE/550 signée le 6 joumada I 1447
+(29 octobre 2025) entre la société « BRAIKA AQUACULTURE
+Sarl AU  » et la secrétaire d'Etat auprès du ministre de
+l'agriculture, de la pêche maritime, du développement rural
+et des eaux et forêts, chargée de la pêche maritime et approuvée
+par le ministre délégué auprès de la ministre de l'économie et
+des finances, chargé du budget,
+ARRÊTENT :
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2776-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2777-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2778-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2779-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2780-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2781-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2782-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2783-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté du ministre de l'enseignement supérieur, de la recherche
+scientifique et de l'innovation n° 2784-25 du 7 joumada II 1447
+(28 novembre 2025) complétant l'arrêté n° 2797-95 du
+20 joumada II 1416 (14 novembre 1995) fixant la liste des
+diplômes reconnus équivalents au diplôme d'architecte de
+l'Ecole nationale d'architecture.
+LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA
+RECHERCHE SCIENTIFIQUE ET DE L'INNOVATION,
+Vu l'arrêté du ministre de l'enseignement supérieur,
+de la formation des cadres et de la recherche scientifique
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la
+liste des diplômes reconnus équivalents au diplôme d'architecte
+de l'Ecole nationale d'architecture, tel qu'il a été complété ;
+Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)
+relatif aux attributions du ministre de l'enseignement supérieur,
+de la recherche scientifique et de l'innovation ;
+Sur proposition de la ministre de l'aménagement
+du territoire national, de l'urbanisme, de l'habitat et de la
+politique de la ville ;
+Après avis du conseil national de l'Ordre national des
+architectes ;
+Après avis de la commission sectorielle des sciences,
+techniques, ingénierie et architecture du 30 septembre 2025,
+
+### Arrêté
+
+Arrêté de la ministre de l'économie et des finances n° 2849-25
+du 12 joumada II 1447 (3 décembre 2025) portant
+agrément de la banque « Attijariwafa Bank » en qualité de
+membre négociateur-compensateur sur le marché à terme
+d'instruments financiers.
+LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu la loi n° 42-12 relative au marché à terme d'instruments
+financiers promulguée par le dahir n° 1-14-96 du 20 rejeb 1435
+(20 mai 2014), notamment ses articles 57 et 59 ;
+Après avis de l'Instance de coordination du marché à
+terme,
+
+### Arrêté
+
+Arrêté de la ministre de l'économie et des finances n° 2850-25
+du 12 joumada II 1447 (3 décembre 2025) portant
+agrément de la banque « CDG Capital » en qualité de
+membre négociateur-compensateur sur le marché à terme
+d'instruments financiers.
+LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu la loi n° 42-12 relative au marché à terme d'instruments
+financiers promulguée par le dahir n° 1-14-96 du 20 rejeb 1435
+(20 mai 2014), notamment ses articles 57 et 59 ;
+Après avis de l'Instance de coordination du marché à
+terme,
+
+### Arrêté
+
+Arrêté de la ministre de l'économie et des finances n° 2851-25
+du 12 joumada II 1447 (3 décembre 2025) portant
+agrément de la banque « Bank of Africa » en qualité de
+membre négociateur-compensateur sur le marché à terme
+d'instruments financiers.
+LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu la loi n° 42-12 relative au marché à terme d'instruments
+financiers promulguée par le dahir n° 1-14-96 du 20 rejeb 1435
+(20 mai 2014), notamment ses articles 57 et 59 ;
+Après avis de l'Instance de coordination du marché à
+terme,
+
+### Avis
+
+Avis
+du Conseil économique, social et environnemental
+1 Annexe 1 : Liste des membres de la commission temporaire chargée des affaires économiques et projets stratégiques.
+2 Annexe 2 : Liste des acteurs auditionnés.
+3 Annexe 3 : Résultats de la consultation citoyenne lancée sur la plateforme Ouchariko et sur les réseaux sociaux.
+Introduction
+Les petites et très petites entreprises (PE et TPE) jouent un rôle fondamental dans les économies
+contemporaines. Représentant la majorité du tissu entrepreneurial, elles constituent un vecteur
+essentiel de création d'emplois, d'innovation et de développement territorial. Leur flexibilité et leur
+ancrage local leur confèrent une capacité d'adaptation aux évolutions des marchés et aux exigences des
+consommateurs.
+Au Maroc, elles représentent 98,4% du tissu national des entreprises de personnes morales4, malgré
+leur taille relativement réduite, et contribuent de manière significative à la création de richesse et
+d'emplois.
+Sa Majesté le Roi Mohammed VI a accordé une attention particulière à ce chantier de développement,
+insistant à plusieurs reprises, sur la nécessité de faciliter l'accès de ces entreprises aux mécanismes de
+financement, de simplifier les procédures d'octroi de crédits et d'inciter les acteurs publics et privés –
+notamment le secteur bancaire – à encourager et soutenir l'initiative entrepreneuriale, avec une
+attention particulière pour les jeunes5.
+conformément aux Hautes Orientations Royales et aux objectifs du Nouveau Modèle de
+Développement (NMD), les pouvoirs publics ont intensifié leurs efforts ces dernières années, avec le
+lancement de programmes de soutien, d'accompagnement et de financement, ainsi qu'avec la mise en
+œuvre de réformes institutionnelles majeures, telles que l'adoption de la nouvelle Charte de
+l'investissement et la création du Fonds Mohammed VI pour l'investissement.
+Nonobstant ces initiatives louables, et bien qu'il soit encore prématuré de mesurer pleinement les effets
+des mesures les plus récentes, les résultats observés sur le terrain demeurent en deçà des attentes, en
+particulier pour les structures les plus petites. Ces efforts ne suffisent pas encore à transformer
+l'écosystème entrepreneurial marocain en un tissu de micro, TPE et PE moderne, résilient, à fort
+potentiel de croissance et évoluant dans un environnement structuré et propice.
+Ces entreprises continuent de faire face à des contraintes multiples, tant structurelles que
+conjoncturelles, liées aussi bien à leur organisation interne qu'à l'environnement dans lequel elles
+opèrent, limitant ainsi leur capacité à se moderniser, à croître et à résister aux chocs. L'augmentation
+continue des défaillances d'entreprises au cours des dernières années illustre clairement cette
+vulnérabilité. Ce phénomène touche particulièrement les structures les plus petites et les plus jeunes,
+révélant la difficulté pour les micro, petites et très petites entreprises de survivre et d'évoluer vers des
+tailles plus grandes et unités plus performantes.
+Sur saisine de la Chambre des Conseillers, le CESE a élaboré la présente étude, qui analyse les défis
+limitant la croissance et la modernisation des Micro, TPE et PE, et identifie les limites des programmes
+et mesures existants. Elle propose également des pistes de recommandations visant à renforcer
+l'intégration de ces entreprises dans des écosystèmes dynamiques et inclusifs, alignés sur les stratégies
+sectorielles nationales et la régionalisation avancée, afin de les positionner comme des acteurs-clés du
+développement économique et social du pays.
+4 OMTPME, rapport annuel édition 2024, https://omtpme.ma/wp-content/uploads/2024/12/Rapport-Annuel-2024.-V23.12.pdf
+5 Discours de Sa Majesté le Roi Mohammed VI à l'occasion de l'ouverture de la première session de la quatrième année législative de la dixième
+législature, le vendredi 11 octobre 2019.
+Cette étude ne traite pas des entreprises informelles, sujet déjà abordé dans des études précédentes
+du CESE6. Elle se concentre sur les problématiques transversales, en incluant l'ensemble des secteurs
+formels. Le Conseil reste néanmoins conscient de certaines spécificités sectorielles qui pourraient faire
+l'objet de travaux complémentaires.
+I.
+Les micro, très petites et petites entreprises au Maroc : définition, poids économique et
+hétérogénéité du tissu entrepreneurial
+1. Les micro/TPE/PE : l'absence d'une définition unique au Maroc
+Au Maroc, il n'existe pas de définition officielle unifiée des micro/TPE/PE à l'échelle nationale. Plusieurs
+institutions officielles adoptent des critères diversifiés pour classifier les entreprises, en fonction de
+leurs objectifs spécifiques. Ces critères reposent généralement sur des indicateurs tels que le chiffre
+d'affaires, le nombre de salariés, ou encore le volume de crédits contractés. A cela s'ajoutent des
+divergences dans le périmètre couvert, notamment l'inclusion ou l'exclusion des personnes physiques
+et du secteur informel.
+Dans le cadre de son enquête de 2019 sur les entreprises, le HCP s'appuie sur une classification
+combinant deux critères : l'effectif et le chiffre d'affaires. Ainsi :
+•
+les très petites et moyennes entreprises (TPME) sont celles dont le chiffre d'affaires est inférieur
+à 75 millions de DH et l'effectif inférieur à 200 salariés.
+•
+les très petites entreprises (TPE) se caractérisent par un chiffre d'affaires inférieur à 3 millions
+de DH et un effectif inférieur à 10 salariés.
+•
+les grandes entreprises (GE) dépassent soit un chiffre d'affaires de 75 millions de DH, soit 200
+salariés.
+Selon les données de l'enquête 20197, les TPE représentent 64 % du tissu entrepreneurial formel
+marocain, contre 29 % pour les PME et 7 % pour les grandes entreprises.
+L'Observatoire marocain de la très petite et moyenne entreprise (OMTPME) propose une segmentation
+plus détaillée, basée sur le chiffre d'affaires. Il distingue ainsi quatre catégories : les microentreprises (0
+à 3 MDH), les petites et très petites entreprises (3 à 50 MDH), les moyennes entreprises (50 à 175 MDH)
+et les grandes entreprises (plus de 175 MDH)8. De son côté, Bank Al-Maghrib affine cette classification
+en y intégrant, en complément du critère du chiffre d'affaires, le niveau d'engagement bancaire des
+établissements de crédit vis-à-vis de l'entreprise9.
+La Banque mondiale, à travers son « Enterprise Survey »10, retient quant à elle un critère unique basé
+sur l'effectif salarié : petites entreprises (5 à 19 employés), moyennes (20 à 99) et grandes (100 et plus),
+excluant les entreprises de moins de 5 salariés, souvent informelles. Le ministère de l'inclusion
+économique, de la petite entreprise, de l'emploi et des compétences, à travers son programme "Ana
+Moukawil"11, cible les entreprises réalisant un chiffre d'affaires inférieur à 10 MDH.
+6 CESE, Avis « Une approche intégrée pour résorber l'économie informelle au Maroc », 2021.
+7 Haut-Commissariat au Plan (HCP), Enquête nationale auprès des entreprises – Premiers résultats, 2019.
+8 OMTPME, rapport annuel édition 2024, https://omtpme.ma/wp-content/uploads/2024/12/Rapport-Annuel-2024.-V23.12.pdf
+9 Bank Al-Maghrib, Circulaire n° 8/G/2010 relative aux exigences en fonds propres pour la couverture des risques de crédit, de marché et
+opérationnels selon les approches internes aux établissements de crédit.
+10 Banque mondiale, Enterprise Survey Maroc 2023, www.enterprisesurveys.org
+11 Lancé par l'ANAPEC en 2023, ce programme contribue activement à la promotion de l'entrepreneuriat et au renforcement des très petites
+entreprises (TPE).
+Cette multiplicité de définitions rend difficile le ciblage des micro/TPE/PE et peut limiter la portée des
+dispositifs qui leur sont destinés. Le CESE n'a pas pour vocation de proposer une nouvelle définition,
+mais adopte une lecture croisée des classifications existantes. Pour cette étude, il s'appuie
+principalement sur la typologie de l'OMTPME, appliquée aux entreprises morales, tout en complétant
+les analyses avec des données d'autres sources institutionnelles (HCP, BM, BAD, MEF12) pour tenir
+compte des entreprises de personnes physiques.
+2. Les micro/TPE/PE : une composante majeure du tissu entrepreneurial au rôle social
+significatif mais à la performance économique limitée
+D'après les données les plus récentes publiées par l'Observatoire marocain de la très petite et moyenne
+entreprise (OMTPME) pour l'année 202313, les microentreprises dominent largement le tissu des
+entreprises de personnes morales, représentant une part de 86,7 %, avec un chiffre d'affaires annuel
+ne dépassant pas 3 millions de dirhams (MDH). En élargissant la définition pour inclure les très petites
+entreprises, dont le chiffre d'affaires atteint jusqu'à 10 millions de dirhams (MDH), cette proportion
+passe à 94 %, et atteint même 98,4% lorsque le seuil du chiffre d'affaires est porté à 50 MDH.
+Ces chiffres illustrent le poids prépondérant des microentreprises, TPE et PE dans le tissu
+entrepreneurial marocain, qui comptait près de 349 000 entreprises de personnes morales actives en
+2023, selon l'OMTPME14.
+Ces données n'intègrent pas toutefois les entreprises de personnes physiques. Celles-ci étaient
+estimées, au 30 septembre 2024, à environ 1,3 million d'unités, toutes tailles confondues, selon le
+baromètre de l'OMPIC15. L'information disponible sur les seules entreprises de personnes physiques
+actives, et plus encore sur leur répartition par taille, reste lacunaire. Des statistiques existent néanmoins
+pour certains sous-ensembles, notamment les auto-entrepreneurs, dont le nombre d'actifs avoisinait
+440 916 en 202416.
+Au-delà de leur poids quantitatif, les micros, petites et très petites entreprises occupent une place
+déterminante sur le plan de l'emploi. En 2023, elles concentraient 56 % des postes déclarés dans le
+secteur privé formel, d'après les données de la CNSS17. Cette contribution souligne leur rôle en tant que
+levier d'inclusion sociale, particulièrement pour les jeunes et les travailleurs non qualifiés, qui accèdent
+le plus souvent au marché du travail à travers de petites structures entrepreneuriales ou dans le cadre
+de l'auto-entrepreneuriat, faute de perspectives suffisantes dans le salariat.
+12 BAD & Ministère de l'Économie et des Finances, « Profil entrepreneurial du Maroc », 2023.
+13 OMTPME, rapport annuel édition 2024, https://omtpme.ma/wp-content/uploads/2024/12/Rapport-Annuel-2024.-V23.12.pdf
+14 Idem.
+15 Chiffres arrêtés à juin 2024.
+http://barometre.directinfo.ma/QvAJAXZfc/opendoc.htm?document=PORTAIL%20DECISIONNEL%2FPORTAIL_DECISIONNEL.qvw&Sheet=Doc
+ument\SH01&vDashboardView=6&anonymous=true
+16 Direction Générale des Impôts – rapport d'activité 2024, p.77 https://www.tax.gov.ma/wps/wcm/connect/acbdaef9-1c9d-4a9c-8f6e-
+1523a07af63f/Rapport+d%27activit%C3%A9+2024.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-acbdaef9-1c9d-4a9c-8f6e-
+1523a07af63f-ptUXGpB
+17 OMTPME, rapport annuel édition 2024, https://omtpme.ma/wp-content/uploads/2024/12/Rapport-Annuel-2024.-V23.12.pdf
+Répartition des entreprises personnes morales
+Répartition du nombre d'emplois déclarés par
+par catégorie, en 2023
+catégorie d'entreprises, en 2023
+Source :  OMTPME
+En revanche, cette importante contribution à l'emploi ne se traduit pas proportionnellement dans la
+création de valeur ajoutée. Les micro/TPE/PE de personnes morales ne génèrent en effet que 20,1 % de
+la valeur ajoutée produite par l'ensemble des entreprises de personnes morales, contre 12,4 % pour les
+moyennes entreprises et 67,6 % pour les grandes entreprises, qui ne représentent toutefois que 0,5 %
+du nombre total d'entreprises actives18. En l'absence de données exhaustives sur les micro/TPE/PE de
+personnes physiques, les éléments disponibles permettent de considérer que leur contribution à la
+valeur ajoutée reste également limitée, compte tenu de leur forte concentration dans des secteurs à
+faible valeur ajoutée (petit commerce, artisanat, services de proximité, BTP, etc.).
+Le décalage observé entre leur poids dans l'emploi et leur contribution à la valeur ajoutée traduit une
+productivité relativement faible. Cette faible productivité peut s'expliquer par plusieurs contraintes
+structurelles, notamment l'accès restreint au financement, la faible intensité technologique et des
+insuffisances en capital humain. À cet égard, les données de 2023 montrent que, malgré leur
+prépondérance, les micro/TPE/PE n'ont mobilisé que 29,3 % du volume total de crédits bancaires,
+contre 59,1 % pour les grandes entreprises19.
+En ce qui concerne les startups, leur nombre reste relativement limité au Maroc, avoisinant 2 000
+entités20. Parmi celles-ci, seule une faible proportion correspond à des structures présentant un fort
+potentiel de croissance (scalables21). Leur investissement réduit dans les secteurs de la deep-tech22,
+combiné à des obstacles internes et à un environnement entrepreneurial encore peu favorable, freine
+leur développement et leur internationalisation. Néanmoins, de nombreux startuppers marocains
+parviennent à s'imposer dès que l'écosystème entrepreneurial est propice à leur développement,
+comme en témoigne leur présence importante au niveau de la French Tech 23.
+Enfin, l'entrepreneuriat féminin constitue un levier encore sous-exploité pour le développement des
+micro/TPE/PE. Bien que la participation des femmes entrepreneures à l'économie marocaine soit en
+progression, elle reste limitée et confrontée à des obstacles structurels, notamment l'accès au
+financement, le manque de réseaux professionnels et des contraintes socio-culturelles. Ces freins
+restreignent leur capacité à croître et à moderniser leurs entreprises, malgré un potentiel important24.
+18 DGI, rapport d'activité 2024.
+19 OMTPME, rapport annuel édition 2024, https://omtpme.ma/wp-content/uploads/2024/12/Rapport-Annuel-2024.-V23.12.pdf
+20 Données Tamwilcom, ainsi que CDG Invest et Startup Station, Présentation sur l'écosystème des startups lors de la séance d'audition du
+vendredi 29 novembre 2024.
+21 Scalabilité désigne la capacité d'une entreprise à croître rapidement sans que ses coûts augmentent de manière proportionnelle.
+22 Il s'agit du cas de jeunes entreprises développant des techniques considérées comme fortement novatrices ou de rupture.
+23 CDG Invest et Startup Station, Présentation sur l'écosystème des startups lors de la séance d'audition du vendredi 29 novembre 2024.
+24 Annexe 4, encadré 2 : Entrepreneuriat féminin au Maroc : une progression fragile et un potentiel à libérer.
+3. Les micro/TPE/PE : un écosystème très hétérogène nécessitant une approche différenciée
+Pour analyser rigoureusement les micro/TPE/PE et proposer des recommandations adaptées à chaque
+type d'entreprise, il est nécessaire de les regrouper en sous-catégories relativement homogènes. Cette
+démarche permet de mieux comprendre les spécificités de chaque groupe et d'identifier les leviers de
+développement appropriés. Sur la base de la structure du tissu entrepreneurial marocain et des
+données issues de rapports et d'études internationales, trois grandes catégories ont été retenues :
+-
+Microentreprises et unités de subsistance : cette catégorie comprend principalement des
+entrepreneurs individuels, artisans, petits commerçants, auto-entrepreneurs ainsi que des
+microstructures sous forme de personnes morales, réalisant un chiffre d'affaires inférieur à 3
+millions de dirhams. Ces unités, souvent créées par nécessité faute d'alternatives salariales, opèrent
+à l'échelle locale et mobilisent peu de main-d'œuvre. Bien que certaines bénéficient d'une expertise
+technique, la plupart ne possèdent pas les compétences managériales nécessaires à leur croissance
+et développement. Malgré leur faible productivité et leur vulnérabilité, ces unités jouent un rôle
+social essentiel en assurant un revenu de subsistance à une part importante de la population.
+-
+TPE et PE classiques (hors startups) : cette catégorie regroupe des unités de personnes physiques
+ou morales formelles, avec un chiffre d'affaires annuel compris entre 3 et 50 millions de dirhams.
+Ces entreprises connaissent une croissance modérée et portent sur des projets généralement moins
+risqués que les startups, tout en restant plus résilientes que les unités de subsistance. Certaines
+peuvent enregistrer des taux de croissance élevés grâce à leur positionnement sur des marchés à
+forte demande, offrant ainsi des perspectives d'évolution vers des entreprises de type « gazelle »25.
+-
+Startups : cette catégorie inclut les entreprises innovantes récemment créées, généralement âgées
+de moins de cinq ans. Elles présentent un fort potentiel de croissance, et certaines pourraient
+évoluer en « licornes » si elles bénéficient d'un environnement et d'un soutien adaptés. Les startups
+adoptent des modèles d'affaires expérimentaux encore en phase de stabilisation et un mode de
+gestion souvent non hiérarchique, où les fondateurs assument plusieurs fonctions stratégiques.
+Elles se caractérisent par des équipes hautement qualifiées, une forte appétence au risque et des
+ambitions transformatrices importantes.
+En complément de la différenciation par type d'entreprise, cette étude introduit un second critère
+d'analyse : la nature des prérequis essentiels à la croissance et à la modernisation des micro/TPE/PE.
+Ces prérequis se déclinent en trois niveaux :
+-
+Caractéristiques intrinsèques de l'entrepreneur : ce niveau regroupe les compétences, ressources
+et attributs personnels de l'entrepreneur, tels que le niveau d'éducation, l'expérience, le genre ou
+le capital relationnel (réseaux et connexions). Ces facteurs conditionnent sa motivation à croître, à
+moderniser son activité ou à passer de l'informalité à la formalité, tout en influençant la qualité de
+gestion et la capacité à identifier des opportunités d'affaires.
+-
+Capacités internes de l'entreprise : ce niveau inclut les ressources et compétences internes
+permettant à l'entreprise de traduire sa volonté de développement en résultats concrets. Il
+comprend la disponibilité des ressources financières, le niveau de qualification du capital humain,
+les capacités d'innovation, la qualité de l'organisation et l'existence d'une stratégie de croissance et
+de modernisation à moyen et long terme.
+25 La notion d' « entreprise gazelle », introduite par l'économiste David Birch, désigne une jeune entreprise à forte croissance — généralement
+supérieure à 20 % par an sur plusieurs années — et est couramment utilisée dans la littérature économique et académique pour qualifier les
+entreprises les plus dynamiques en matière de création de valeur et d'emploi.
+-
+Environnement externe de l'entreprise : ce niveau englobe les facteurs externes susceptibles
+d'influencer la croissance et la modernisation. Un environnement favorable, offrant des
+opportunités et un soutien institutionnel adéquat, peut stimuler le développement, tandis qu'un
+cadre marqué par des obstacles et des dysfonctionnements — tels que la corruption, les lourdeurs
+administratives, la pression fiscale ou les délais de paiement — peut limiter le potentiel de
+croissance et la capacité à se moderniser.
+Globalement, la croissance et la modernisation d'une entreprise nécessitent la satisfaction des
+différents niveaux de prérequis décrits précédemment. L'absence de l'un de ces ensembles de prérequis
+entrave le développement de l'entreprise et génère des risques économiques et sociaux significatifs
+pour le pays. La matrice ci-après illustre ces risques selon la disponibilité des prérequis internes et
+externes :
+Tableau : Typologie des principaux risques selon la disponibilité des prérequis internes et externes de
+la croissance et de la modernisation de l'entreprise
+II.
+Les défis de croissance et de modernisation des micro/TPE/PE au Maroc
+1. Une faible dynamique de croissance et de modernisation des micro/TPE/PE marocaines
+L'analyse de la démographie des entreprises au Maroc, en particulier des microentreprises, TPE
+et PE, met en évidence une capacité restreinte à survivre, à croître et à se moderniser. La
+majorité de ces structures n'évolue pas vers des tailles supérieures.
+La survie de ces entreprises constitue le préalable indispensable à toute réflexion sur leur
+croissance. En 2024, Inforisk a recensé 15 658 défaillances d'entreprises de personnes morales,
+dont 99,3% concernent des TPE et plus de la moitié ont moins de cinq ans26. Ces chiffres
+mettent en évidence la fragilité structurelle des petites entreprises, qui sont souvent les
+premières touchées par les chocs conjoncturels en raison de leur capacité limitée à absorber
+les perturbations économiques.
+26 Le terme de défaillance utilisé par INFORISK désigne le cas des entreprises ayant officiellement ouvert des procédures de sauvegarde,
+redressement ou de liquidation judiciaire, en plus des entreprises radiées.
+Les projections d'Allianz Research pour 2025 indiquent une augmentation des défaillances,
+pouvant atteindre 16 000 entreprises de personnes morales. En l'absence de données
+officielles, il est probable que ce phénomène soit encore plus marqué parmi les entreprises de
+personnes physiques, qui regroupent un grand nombre de microstructures particulièrement
+vulnérables. À cette vulnérabilité structurelle s'ajoute la complexité des procédures de
+liquidation et de dissolution. Le processus demeure long, coûteux et dissuasif, incitant de
+nombreux entrepreneurs à laisser leurs entreprises inactives plutôt que d'engager une
+liquidation formelle. Ce phénomène se traduit par l'écart important entre le taux d'inactivité
+des entreprises (7,3 %) et le taux officiel de radiation (1,2 %)27. Cette situation notamment
+résulte du faible nombre de magistrats spécialisés dans le traitement des entreprises en
+difficulté, de la rareté de professionnels qualifiés en restructuration amiable, ainsi que des
+délais et des incertitudes inhérents aux procédures judiciaires. Elle limite la réallocation efficace
+des ressources économiques vers des projets plus viables et productifs28.
+Dans ce contexte, certaines entreprises se réorientent vers l'informel pour assurer leur survie.
+Entre 2022 et 2023, le nombre annuel moyen d'entreprises de moins de 50 salariés sortantes
+de la CNSS (30 100) a dépassé celui des nouvelles entreprises affiliées dans la même catégorie
+(29 000), traduisant une érosion progressive de la formalisation dans ce segment.
+Évolution des entreprises affiliées à la CNSS :
+nouvelles inscriptions et sorties (moins de 50 salariés)
+Source : CNSS, OMTPME
+Pour celles qui parviennent à survivre, le défi majeur reste leur capacité à croître et à se
+moderniser. L'analyse de la matrice de transition entre les différentes tailles d'entreprises sur
+la période 2017-202229  met en évidence une forte inertie dans le processus de croissance. En
+effet, 99,8 % des microentreprises ont conservé leur taille après cinq ans, et seulement 0,2 %
+sont devenues des TPE ou PE. À peine 0,4 % des TPE ont évolué vers une PE, et 0,4 % des PE se
+sont développées vers des entreprises de taille moyenne sur la même période.
+Cette difficulté à croître s'accompagne d'un risque significatif de régression : 4,7 % des TPE sont
+redevenues des microentreprises, tandis que 3,5 % des PE ont été reclassées comme TPE ou
+microentreprises. Ce risque se renforce en période de crise majeure, comme cela a été observé
+durant la pandémie de Covid-19 : en 2020, 33 % des TPE de 2019 ont été reclassées comme
+microentreprises, et 26 % des PE sont devenues des TPE ou microentreprises. Ces transitions
+27 Banque Mondiale-OMTPME, Libérer le potentiel du secteur privé marocain, p.14.
+28 Banque Mondiale-OMTPME, Libérer le potentiel du secteur privé marocain, Encadré 3.2 – Réglementation et procédures de sortie
+d'entreprise au Maroc.
+29 Calculée sur la base des données de l'OMTPME sur la période 2017 - 2022.
+confirment la vulnérabilité et la fragilité structurelle des microentreprises, TPE et PE face aux
+chocs économiques.
+Matrice de transition30 entre différentes tailles d'entreprises personnes morales au Maroc- 2017 -
+2022 (parts en %)31
+A
+Micro
+TPE
+PE
+ME
+GE
+De
+Micro
+99.8
+0.13
+0.05
+TPE
+4.7
+94.9
+0.4
+0.0
+PE
+2.6
+0.9
+96.1
+0.4
+0.0
+ME
+0.24
+1.8
+95.7
+0.5
+GE
+0.2
+1.2
+97.0
+Source : OMTPME
+La modernisation des entreprises peut être appréhendée à travers le mode de management et
+sa qualité, ainsi que par le niveau de transformation digitale, bien que les données disponibles
+restent limitées.
+Malgré une accélération de l'intégration des outils numériques depuis la crise Covid-19, les
+entreprises marocaines n'ont pas encore pleinement adopté ce virage32, notamment pour les
+transactions et paiements en ligne, le référencement numérique et d'autres fonctions digitales
+essentielles. Le dernier rapport de l'OCDE sur le Maroc33 souligne que la transformation digitale
+dans le secteur des entreprises marocaines demeure limitée comparée aux pays de l'OCDE ou
+à la moyenne des pays à revenu intermédiaire.
+Cette situation n'est pas uniforme à l'échelle nationale. Certains secteurs, tels que les services
+financiers, les industries électriques et électroniques, chimiques et agroalimentaires, sont
+davantage engagés dans l'adoption des technologies digitales. La taille de l'entreprise constitue
+également un facteur déterminant : les PME et les grandes entreprises affichent généralement
+un niveau plus avancé de transformation numérique34.
+La qualité du management constitue un autre indicateur-clé de modernisation. L'enquête de la
+Banque mondiale (2023) montre que l'indice de performance des pratiques managériales pour
+les entreprises marocaines, notamment les micro/TPE/PE, s'établit à 32 points, nettement
+30 La matrice de transition est un outil statistique permettant de mesurer, sur une période donnée, les mouvements d'entreprises entre
+différentes catégories de taille. Elle met en évidence les changements de classe en fonction du chiffre d'affaires, selon les seuils définis par
+l'OMTPME, et permet ainsi d'apprécier la dynamique de croissance ou de régression des entreprises.
+31 Seules la première et deuxième cases contiguës par rapport à une taille d'entreprise donnée sont rapportées, vu qu'elles représentent les
+transitions les plus probables.
+32 OCDE, « Études économiques de l'OCDE : Maroc 2024 », p 106.
+https://www.oecd.org/content/dam/oecd/fr/publications/reports/2024/09/oecd-economic-surveys-morocco-2024_d4786047/1aad09d0-
+fr.pdf
+33Idem.
+34 Selon l'enquête conjointe Devoteam Africa et l'Association des Utilisateurs des Systèmes d'Information au Maroc (AUSIM), État des lieux et
+maturité digitale au Maroc – Enquête sur la maturité et les besoins en acculturation digitale, septembre 2021, 82 % des PME et grandes
+entreprises interrogées ont entamé une démarche de transformation digitale, et plus de la moitié ont déjà déployé plusieurs fonctions
+numériques : https://ausimaroc.com/wp-content/uploads/2021/11/FINAL_Maturite-digital-au-Maroc_Work-In-Progress_03-11.pdf.
+inférieur à la moyenne des pays à revenu intermédiaire (49 points), révélant un retard
+important en matière de pratiques managériales35.
+Enfin, le faible niveau d'innovation dans les processus internes limite également la
+modernisation des entreprises, particulièrement des micro/TPE/PE (seules 5,8 % des petites
+entreprises ont introduit des améliorations significatives dans leurs processus de travail)36.
+2. Un ensemble d'obstacles entravent la croissance et la modernisation des micro/TPE/PE
+La croissance et la modernisation des microentreprises, TPE et PE au Maroc sont limitées par
+un ensemble de contraintes persistantes qui se manifestent à deux niveaux :
+-
+Interne, lié aux caractéristiques de l'entrepreneur, aux capacités et au fonctionnement
+interne de l'entreprise.
+-
+Externe, relatif à l'environnement dans lequel évolue l'entreprise, comprenant l'accès
+au financement, au foncier, au capital humain et aux services d'accompagnement.
+Les contraintes internes :
+Les limitations internes concernent principalement les compétences de l'entrepreneur, les
+capacités de gestion et d'organisation de l'entreprise ainsi que l'accès aux ressources
+nécessaires à son développement.
+Les compétences intrinsèques de l'entrepreneur
+La croissance et la modernisation des microentreprises, des unités de subsistance et des TPE
+classiques sont limitées par le manque de compétences intrinsèques des entrepreneurs. Ces
+structures sont souvent dirigées par des entrepreneurs « par nécessité », dont l'objectif
+principal est de maintenir la survie de l'entreprise, sans stratégie claire de développement ni
+vision à long terme37. Dans le cas des PE classiques, ces mêmes limitations restreignent la
+capacité à explorer de nouveaux marchés, notamment à l'international. Selon la Banque
+mondiale38, seulement 13,7 % des micro/TPE/PE exportent directement au moins 10 % de leur
+production, ce qui entrave non seulement leur expansion mais aussi leur aptitude à innover et
+à adopter de nouvelles technologies, notamment digitales.
+Le niveau d'éducation du dirigeant constitue un facteur déterminant dans cette dynamique.
+Moins de 15 % des entrepreneurs marocains possèdent un diplôme universitaire ou une
+formation professionnelle, tandis que plus de 20 % n'ont jamais fréquenté l'école39. Un faible
+niveau d'éducation favorise l'entrepreneuriat par nécessité et les activités de subsistance40,
+tout en réduisant la productivité, ce qui limite la capacité de croissance et de modernisation
+des entreprises. Il convient toutefois de souligner qu'un niveau d'éducation élevé ne garantit
+pas automatiquement un engagement entrepreneurial à fort potentiel, puisque les individus
+35 Ces critères englobent plusieurs aspects : planification et objectifs, suivi de la performance, gestion des ressources humaines, communication
+et coordination, innovation et adaptation.
+36 Données de la world Bank Enterprise Survey 2023, www.enterprisesurveys.org
+37 BAD & Ministère de l'Économie et des Finances, « Profil entrepreneurial du Maroc », 2023, p.8.
+38 Données de la world Bank Enterprise Survey 2023, www.enterprisesurveys.org
+39 Idem.
+40 Idem.
+mieux instruits privilégient souvent le salariat, conscients des risques élevés liés à l'activité
+entrepreneuriale et des contraintes de l'environnement national des affaires.
+Les capacités de l'entreprise en termes d'accès aux ressources et aux facteurs de production
+Au-delà des compétences de l'entrepreneur, la capacité des micro/TPE/PE à croître et se
+moderniser est limitée par un ensemble de contraintes internes. Ces obstacles affectent tant
+la structuration interne que l'accès aux ressources nécessaires pour soutenir le développement
+et l'innovation de l'entreprise. Les principaux freins identifiés sont les suivants :
+La qualité de la gestion et organisation interne
+Les Micro, TPE et PE au Maroc souffrent d'un déficit en matière de gestion et d'organisation,
+qui limite fortement leur croissance et leur modernisation. Les données de la Banque
+mondiale41 indiquent que les performances managériales des entreprises marocaines se
+situent en deçà de la moyenne de la région MENA et de celle observée dans les pays à revenu
+comparable. Ce déficit est en partie attribuable à la prédominance du modèle entrepreneurial
+familial, qui influence profondément les modes de gouvernance. Les entreprises familiales se
+caractérisent souvent par une faible formalisation des processus décisionnels, une
+centralisation excessive du pouvoir et une préparation limitée de la relève42. Ces éléments
+limitent leur adaptabilité face aux évolutions du marché et augmentent les risques de rupture
+lors des transitions générationnelles, compromettant à terme leur croissance et, dans certains
+cas, leur pérennité. Les startups, bien que porteuses d'un fort potentiel d'innovation, sont
+confrontées à des contraintes similaires en matière de compétences entrepreneuriales et
+managériales. Le manque d'expérience des fondateurs (en termes de compétences
+entrepreneuriale et managériale) réduit leur capacité à élaborer une vision stratégique de long
+terme, à développer un modèle économique évolutif (scalable), à recruter et gérer des talents-
+clés ainsi qu'à s'insérer durablement dans un écosystème concurrentiel et complexe. Cette
+faiblesse est accentuée par la rareté d'experts et de mentors qualifiés, dont l'accompagnement
+demeure peu mobilisé et insuffisamment valorisé dans le cadre des dispositifs publics
+existants43.
+L'accès aux ressources financières
+Les pouvoirs publics ont mis en place plusieurs instruments financiers destinés à soutenir les
+entreprises de petite taille, toutes catégories confondues. Ces initiatives ont permis
+d'enregistrer des progrès significatifs, bien qu'encore insuffisants, en matière d'accès au
+financement. À titre d'exemple, le programme INTELAKA a accordé près de 8,7 milliards de
+dirhams à fin août 202444. Par ailleurs, les exigences en matière de garanties ont fortement
+diminué, passant de 166 % du total des crédits distribués en 2013 à 69 % en 2023, selon les
+données de Bank Al-Maghrib. De même, la part des crédits alloués aux TPME atteint désormais
+30 %, dépassant les niveaux observés dans plusieurs pays comparables en développement45.
+41 Idem
+42 CESE, Avis « Promouvoir le transfert de compétences en milieu professionnel », 2022.
+43 CDG Invest et Startup Station, Présentation sur l'écosystème des startups lors de la séance d'audition du vendredi 29 novembre 2024.
+44 Bank Al-Maghrib (BAM), séance d'audition avec le Conseil économique, social et environnemental, le vendredi 18 octobre 2024.
+45 Idem.
+Cependant, malgré ces avancées, le manque de ressources financières et les difficultés d'accès
+au financement constituent toujours un obstacle majeur à la croissance et à la modernisation
+des micro, très petites et petites entreprises. Selon l'étude conjointe de la Banque africaine de
+développement et du ministère de l'Économie et des Finances, Profil entrepreneurial du Maroc
+(2023), près de 90 % des entrepreneurs établis identifient l'accès au financement comme un
+facteur central limitant leur développement46.
+Pour les microentreprises et unités de subsistance (artisans, commerçants, auto-
+entrepreneurs), ces contraintes sont particulièrement marquées, malgré les dispositifs publics
+existants47. Une part significative de ces acteurs évite de solliciter les établissements bancaires,
+par autocensure, en raison de la perception selon laquelle leurs profils ou leurs projets ne
+répondraient pas aux critères requis pour l'octroi d'un crédit. Ainsi, seulement 5 % des
+entrepreneurs de subsistance ont eu recours à un crédit bancaire48.
+Les jeunes micro/TPE/PE rencontrent des obstacles encore plus importants. Les données de
+l'OMTPME montrent que 73 % de l'encours total des crédits sont accordés à des entreprises de
+plus de dix ans. Malgré la garantie de l'État dans le cadre de programmes comme INTELAKA, de
+nombreuses demandes sont rejetées, avec un taux de refus de 40 % en 202349. Ces rejets
+s'expliquent principalement par la faible qualité des projets, l'investissement dans des secteurs
+saturés, les incidents de paiement des demandeurs et le manque d'expertise pour des projets
+techniquement complexes50.
+Le financement constitue également un enjeu majeur pour les startups, déterminant leur
+développement et leur capacité à croître à l'échelle régionale et internationale. Bien que des
+initiatives telles que le programme Innov Invest et l'émergence de fonds de capital-risque aient
+permis de mobiliser des ressources, le Startup Ecosystem Report 202451 met en évidence une
+forte concentration des financements autour de quelques acteurs et un déficit marqué de
+capitaux aux stades de croissance (Série A et B). Ce « gap »52 de financement limite l'accès de
+nombreuses startups prometteuses aux ressources nécessaires pour se développer, les
+contraignant souvent à rechercher des investisseurs étrangers, avec le risque de délocalisation
+partielle de la valeur créée. Les auditions menées par le CESE ont confirmé que la qualité limitée
+du deal-flow53 – peu de startups étant suffisamment matures et à fort potentiel – constitue un
+facteur aggravant54. S'y s'ajoutent des difficultés spécifiques liées aux tickets intermédiaires55
+46 Ministère de l'Économie et des Finances et la BAD, « Profil entrepreneurial du Maroc », 2023, p. 17.
+47 Union générale des entreprises et professions (UGEP) et Syndicat national du commerce et des professions (SNCP), Présentation lors de la
+séance d'audition du vendredi 23 août 2024.
+48 Ministère de l'Économie et des Finances et la BAD, « Profil entrepreneurial du Maroc », 2023, p. 17.
+49 Point de presse du Wali de Bank Al-Maghrib du 19 mars 2024 et audition de BAM et GPBM.
+50 CGEM, GPBM et BAM, Présentation lors des séances d'audition, respectivement le vendredi 27 septembre 2024 et vendredi 18 octobre
+2024.
+51 Université Mohammed VI Polytechnique (UM6P), The 2024 Morocco Startup Ecosystem Report, 2024. Disponible sur :
+https://startupreport.ma/magazines/069bb623-b9fb-4f43-95b5-060b5e2971ea
+52 Le « gap post-seed » désigne le déficit de financements disponibles pour les startups au-delà du stade d'amorçage (pré-seed/seed),
+notamment lors des tours de levée de fonds en série A et B. Ce manque de capitaux intermédiaires constitue un obstacle majeur, car il empêche
+les jeunes entreprises innovantes, même prometteuses, de passer à l'échelle (scaling up) et de se consolider sur les marchés régionaux et
+internationaux.
+53 Le deal flow désigne le flux d'opportunités d'investissement présenté aux investisseurs (fonds de capital-risque, business angels). Il reflète
+la quantité mais surtout la qualité des projets d'entreprises susceptibles de recevoir un financement.
+54 CDG Invest, Présentation sur l'écosystème des startups lors de la séance d'audition, vendredi 29 novembre 2024.
+55 L'expression tickets intermédiaires désigne des montants d'investissement situés entre les petits financements d'amorçage et les grandes
+levées de fonds, destinés à soutenir les startups en phase de croissance.
+et aux levées de fonds en phase d'expansion. Le cadre réglementaire évolue néanmoins
+progressivement, avec la mise en place de dispositifs relatifs au crowdfunding56 et d'incitations
+pour les Business Angels, bien que leur impact demeure pour l'instant limité57.
+L'accès au foncier
+Pour les microentreprises et les entrepreneurs de subsistance, les coûts fonciers élevés limitent
+le développement de leur activité. Ce constat avait déjà été mis en évidence dans l'avis du CESE
+sur l'économie informelle au Maroc (2021)58, et des études récentes montrent que ces
+difficultés augmentent de 70 % la probabilité de rester entrepreneur individuel et de 40 % celle
+de maintenir une taille de microentreprise59.
+Pour les TPE et PE, l'accès aux zones industrielles reste limité60, en raison de prix élevés et de
+l'absence de solutions locatives adaptées. Quant aux startups, elles sont confrontées au
+manque de locaux et d'espaces de coworking adaptés, concentrés principalement dans
+quelques grandes villes, au détriment du reste du territoire national.
+Le manque de capital humain qualifié
+La disponibilité du capital humain qualifié : un autre obstacle majeur à la croissance et à la
+modernisation des Micro, TPE et PE réside dans le déficit de capital humain qualifié et la faible
+capacité de ces entreprises à attirer et retenir des profils adaptés61. Cette contrainte s'explique
+par le fait que la majorité de ces unités opèrent dans des activités à faible productivité et à
+faible valeur ajoutée, limitant leur capacité à proposer des rémunérations compétitives et, par
+conséquent, leur attractivité sur le marché du travail62.
+Pour les startups, recruter et retenir des talents qualifiés reste un défi majeur. Les ressources
+financières limitées restreignent leur capacité à offrir des rémunérations attractives, les plaçant
+en concurrence défavorable face aux grandes entreprises ou aux opportunités à l'étranger.
+Cette situation est particulièrement marquée dans les secteurs technologiques, où la demande
+pour des profils spécialisés est élevée et où la concurrence pour attirer les talents, y compris
+au niveau international, est intense.
+L'accompagnement non-financier demeure insuffisant
+L'accompagnement non-financier constitue un levier essentiel pour la survie et le
+développement des microentreprises, TPE et PE, notamment dans la phase post-création,
+comme l'ont souligné les acteurs auditionnés. Il renforce les capacités organisationnelles et
+managériales des entreprises tout en facilitant leur accès au financement, en améliorant leur
+crédibilité auprès des partenaires financiers.
+56 Loi n° 15-18 relative au financement collaboratif, promulguée par le Dahir n° 1-21-24 du 22 février 2021 (Bulletin officiel n° 7014 du 19 août
+2021).
+57 Annexe 4, encadré 3 : Défis et opportunités du financement des startups au Maroc.
+58 CESE, Avis « Une approche intégrée pour résorber l'économie informelle au Maroc », 2021.
+59BAD & Ministère de l'Économie et des Finances, « Profil entrepreneurial du Maroc », 2023.
+60 Union générale des entreprises et professions (UGEP) et Syndicat national du commerce et des professions (SNCP), Présentation lors de la
+séance d'audition du, vendredi 23 août 2024.
+61 Enquête de la Banque mondiale sur le tissu entrepreneurial marocain (2023).
+62 Ministère de l'Économie et des Finances et la BAD, « Profil entrepreneurial du Maroc », 2023.
+L'accès à ces services reste cependant très limité. Au Maroc, entre 70 % et 100 % des
+entrepreneurs exprimant un besoin d'accompagnement n'y ont pas accès, selon les régions63.
+Lorsqu'ils sont disponibles, ces services se cantonnent souvent à des actions basiques
+(l'information, l'appui administratif ou la sensibilisation), tandis que les prestations à forte
+valeur ajoutée – formation technique et managériale, conseil stratégique, mentorat
+personnalisé, réseautage et veille de marché – demeurent rares, malgré leur rôle déterminant
+dans la montée en gamme des entreprises.
+Les besoins varient selon le profil des structures (unités de subsistance, TPE classiques,
+startups), soulignant la nécessité de développer une offre diversifiée, professionnalisée et
+adaptée aux spécificités territoriales.
+La transformation digitale
+La modernisation et le développement à plus grande échelle des Micro, TPE et PE sont
+également freinés par une adoption limitée des technologies digitales. Au-delà d'une
+sensibilisation insuffisante des entrepreneurs aux avantages de ces outils, le coût élevé de
+certaines solutions, comme le paiement par terminal électronique (TPE), constitue un obstacle
+notable64.
+Les contraintes externes :
+Outre les freins internes, les différentes catégories de Micro, TPE et PE sont confrontées à des
+obstacles externes, souvent transversaux, liés principalement à l'environnement des affaires.
+Les pouvoirs publics ont certes déployé des efforts importants pour améliorer ce climat,
+notamment avec l'adoption de la nouvelle charte d'investissement. Cependant, les effets de
+ces mesures sur la croissance et la modernisation des entreprises, en particulier des Micro, TPE
+et PE, restent limités.
+Parmi les facteurs externes qui freinent le développement du tissu entrepreneurial national, il
+y a lieu de citer :
+L'étroitesse du marché
+Les estimations disponibles indiquent que les problèmes d'accès au marché réduisent de 30 %
+les chances des entrepreneurs individuels de croître vers une taille supérieure65. Trois
+principales faiblesses de l'environnement externe de l'entreprise peuvent expliquer cette
+situation :
+1. Un accès limité à la commande publique : le nouveau cadre réglementaire66 relatif aux
+marchés publics a consacré 30 % du montant des marchés prévisionnels annuels aux TPME.
+Toutefois, ce quota regroupe des profils très variés, allant des auto-entrepreneurs et petites
+coopératives aux moyennes entreprises, ce qui engendre une concurrence déséquilibrée.
+Les plus petites structures peinent à rivaliser avec les entreprises de taille moyenne, ce qui
+63 BAD & Ministère de l'Économie et des Finances, « Profil entrepreneurial du Maroc », 2023.
+64 Union générale des entreprises et professions (UGEP) et Syndicat national du commerce et des professions (SNCP), Présentation lors de la
+séance d'audition avec le Conseil économique, social et environnemental, vendredi 23 août 2024.
+65 BAD & Ministère de l'Économie et des Finances, « Profil entrepreneurial du Maroc », 2023.
+66 décret n° 2-22-431 relatif aux marchés publics, entré en vigueur en septembre 2023, notamment son article 148.
+explique leur faible taux de participation et, parfois, un comportement d'auto-censure.
+Selon l'enquête nationale sur la corruption de l'INPLLC (2023), seulement 8 % des TPE et 4 %
+des microentreprises sondées ont soumissionné à des appels d'offres publics au cours des
+24 derniers mois67, contre 22 % pour les grandes entreprises et 19 % pour les moyennes.
+2. Des relations limitées avec les grands donneurs d'ordre : les Micro, TPE et PE entretiennent
+des relations limitées avec les grandes entreprises, tant privées que publiques68. Cette
+tendance se confirme également, selon le rapport de l'OCDE sur le Maroc (2024), qui indique
+que les multinationales implantées au Maroc devraient renforcer leur intégration avec le
+tissu des petites entreprises locales. Cette situation restreint les opportunités de
+modernisation et de croissance pour les petites structures, malgré la mise en place de
+dispositifs récents visant à favoriser les rapprochements, tels que le forum « Ana Moukawil
+Links » développé par l'ANAPEC69.
+3. Une faible propension à l'internationalisation : les TPE/PE classiques et les startups
+marocaines restent majoritairement concentrées sur le marché local, limité en taille et en
+opportunités. Leur intégration dans les chaînes de valeur globale est entravée par plusieurs
+facteurs, notamment le manque de services d'appui à l'internationalisation, l'absence
+d'orientation vers les niches les plus dynamiques, les coûts élevés de participation à des
+événements internationaux (foires technologiques, compétitions de projets pour les
+startups), ainsi que la difficulté à se conformer aux normes et standards internationaux. Par
+ailleurs, la nouvelle Charte de l'investissement consacre au niveau de son article 21,
+l'engagement de l'État à établir un mécanisme spécifique visant à favoriser la présence
+internationale des entreprises marocaines, sans se limiter aux grandes entreprises. La Charte
+stipule que les modalités de mise en œuvre de ce régime spécifique seront fixées par voie
+réglementaire70.
+Un système fiscal encore peu motivant
+Le système fiscal marocain a fait l'objet de plusieurs réformes depuis 2021, visant à moderniser
+le cadre fiscal des entreprises71. Certaines de ces mesures affectent particulièrement les TPE et
+PE classiques :
+-  L'augmentation progressive de l'impôt sur les sociétés (IS) : la loi de finances 2023 a instauré
+une réforme graduelle visant la convergence vers un taux unifié de 20 % pour les entreprises
+dont le bénéfice net fiscal est inférieur à 100 millions de dirhams à l'horizon 2026. Cette
+évolution a entraîné une hausse du taux d'imposition pour certaines petites entreprises,
+constituant un fardeau supplémentaire pour des structures déjà fragiles.
+- Des modifications ayant touché le régime fiscal relatif aux auto-entrepreneurs : bien que le
+statut d'auto-entrepreneur institué par la loi n° 114-13 de 2015 reste en vigueur, certaines
+dispositions introduites par la loi de finances de 2023 ont eu pour effet d'accentuer les
+67 Instance nationale de la probité, de la prévention et de la lutte contre la corruption (INPPLC), Présentation sur le thème « Les défis des
+TPE/PE au Maroc : la croissance, la modernisation et le développement » lors de la séance d'audition du vendredi 25 octobre 2024.
+68 Confédération générale des entreprises du Maroc (CGEM), Présentation lors de la séance d'audition du vendredi 27 septembre 2024.
+69 https://anapec.ma/information-entrepreneuriat/anamoukawil-links/
+70 Article 21 de la loi-cadre n° 03-22 formant Charte de l'investissement, promulguée par le Dahir n° 1-22-76 du 15 décembre 2022 (Bulletin
+officiel n° 7154 du 19 décembre 2022).
+71 Loi-cadre n° 69-19 portant réforme fiscale, promulguée par Dahir n° 1-21-86 du 26 juillet 2021(Bulletin officiel n° 7010 du 05 août 2021).
+contraintes fiscales et administratives pesant sur cette catégorie d'entreprises. La principale
+mesure concerne l'imposition, par retenue à la source au taux libératoire de 30 %, de l'excédent
+du chiffre d'affaires annuel dépassant 80 000 dirhams réalisé par les prestataires de services
+avec un même client. Ces ajustements s'ajoutent aux limites structurelles existantes, telles que
+le plafond de chiffre d'affaires et l'impossibilité de recruter des salariés, et représentent des
+obstacles significatifs au développement des auto-entrepreneurs ainsi qu'à leur maintien dans
+le secteur formel.
+Le ralentissement de la croissance de l'effectif des auto-entrepreneurs, qui est passé de +27 %
+en 2021 à +2 % en 2024, illustre cette tendance72. Par ailleurs, les études d'impact des mesures
+fiscales réalisées se concentrent principalement sur les recettes publiques, avec une prise en
+compte limitée des effets socio-économiques pour les entreprises et leur survie, ainsi que leur
+probabilité de basculement vers l'informel.
+Certaines mesures fiscales peuvent également produire un effet paradoxal : la crainte
+d'atteindre un palier fiscal supérieur incite certaines entreprises à rester petites73. La défiance
+envers l'administration fiscale persiste, notamment en matière de contrôles et d'interprétation
+des textes. Selon le rapport Enterprise Survey (2023) de la Banque mondiale, les procédures de
+l'administration fiscale constituent le cinquième frein au développement des entreprises de
+petites tailles74.
+L'environnement des affaires
+Le développement des Micro, TPE et PE reste fortement conditionné par la qualité de
+l'environnement des affaires. Malgré les efforts déployés pour améliorer le climat
+entrepreneurial, plusieurs obstacles structurels continuent de limiter la croissance et la
+modernisation des petites entreprises.
+Concurrence déloyale et distorsions du marché
+La survie et le développement des Micro, TPE et PE formelles sont fortement affectés par des
+pratiques qui faussent le jeu de la concurrence. La concurrence des entreprises informelles est
+particulièrement problématique : elle réduit les marges des petites structures, limite leur
+capacité d'investissement et restreint leur aptitude à innover ou à moderniser leurs activités.
+Selon la Banque mondiale75, cette concurrence constitue le principal obstacle auquel sont
+confrontées ces entreprises.
+Corruption et faible transparence
+La corruption continue de peser lourdement sur l'environnement des affaires, affectant
+particulièrement les TPE et PE. Depuis 2018, le classement du Maroc en matière de perception
+de la corruption s'est détérioré76 malgré les réformes réglementaires et institutionnelles mises
+en œuvre. Près de 68 % des entreprises sondées considèrent la corruption comme répandue
+72 DGI – Rapport d'activité 2024.
+73 Union générale des entreprises et professions (UGEP) et Syndicat national du commerce et des professions (SNCP), Présentation lors de la
+séance d'audition avec le Conseil économique, social et environnemental, vendredi 23 août 2024.
+74 Banque mondiale, Enterprise Survey Maroc 2023  www.enterprisesurveys.org
+75 Idem.
+76 Transparency (2024) et audition de l'Instance Nationale de Probité, de Prévention et de Lutte contre la Corruption (INPPLC).
+ou très répandue77, notamment dans l'octroi de licences, d'agréments et de marchés publics,
+alors que seulement 6 % des entreprises concernées portent plainte78. Les micro/TPE/PE
+marocaines apparaissent deux fois plus exposées à la corruption que leurs homologues de pays
+comparables, selon la Banque mondiale79. La Trace Bribery Matrix 2023 confirme cette
+tendance en signalant un recul du Maroc, notamment sur l'application des lois et la capacité
+de contrôle par la société civile80. Cependant, bien que la digitalisation et les mesures de
+prévention constituent des avancées importantes dans la lutte contre la corruption, leur
+efficacité restera limitée sans l'appui d'un système de sanctions rigoureux, effectif et couvrant
+l'ensemble des formes de corruption prévues à l'article 36 de la Constitution. Une telle
+approche est indispensable pour restaurer la confiance des opérateurs économiques et
+renforcer l'impact des réformes en cours.
+Délais de paiement
+Les délais de paiement représentent une contrainte majeure pour les microentreprises, TPE et
+PE, car ils fragilisent leur trésorerie et menacent leur pérennité. En 2022, ils atteignaient en
+moyenne 137 jours, selon le Rapport 2024 de l'Observatoire des délais de paiement. La réforme
+entrée en vigueur en juin 202381 a fixé un délai légal assorti de sanctions financières, mais son
+effet reste limité. Dans la pratique, certaines méthodes perdurent : les délais sont souvent
+calculés à partir de la constatation du service fait ou de l'acceptation de la facture, décisions
+fréquemment laissées à l'arbitraire. Ces pratiques affaiblissent l'efficacité de la réforme et
+touchent particulièrement les petites entreprises impliquées dans les marchés publics.
+La question de la simplification des procédures administratives
+La simplification des démarches administratives demeure une priorité. D'importants progrès
+ont été réalisés grâce à la digitalisation des services publics, notamment en 2023 avec la
+simplification de 22 procédures liées à l'investissement, réduisant de 45 % le volume de
+documents exigés des investisseurs82.
+Néanmoins, certains obstacles persistent. La digitalisation reste partielle, avec des disparités
+entre administrations et un déploiement encore limité des services transactionnels et proactifs.
+Selon la Cour des comptes83, seuls 23 % des services sont entièrement dématérialisés, tandis
+qu'un quart des administrations continue d'imposer des procédures excessives, sans encore se
+conformer pleinement aux engagements de la loi 55.19 portant sur la simplification des
+démarches administratives. L'absence d'interopérabilité effective entre les plateformes ainsi
+que le retard dans la mise en œuvre de certains décrets84, notamment ceux relatifs aux
+77 Instance nationale de la probité, de la prévention et de la lutte contre la corruption (INPPLC), Présentation sur le thème « Les défis des
+TPE/PE au Maroc : la croissance, la modernisation et le développement » lors de la séance d'audition avec le Conseil économique, social et
+environnemental, vendredi 25 octobre 2024.
+78 Enquête de l'instance nationale de la probité, de la prévention et de la lutte contre la corruption (INPPLC), présentée lors de la séance
+d'audition avec le Conseil économique, social et environnemental, vendredi 25 octobre 2024.
+79 Banque mondiale, Enterprise Survey Maroc 2023, p12 www.enterprisesurveys.org.
+80 https://matrixbrowser.traceinternational.org/
+81 Loi n° 69-21 relative aux délais de paiement, entrée en vigueur à partir du 1ᵉʳ juillet 2023 (BO du 15 juin 2023) et Note circulaire n° 734 :
+instauration d'un délai légal de 60 jours, plafonné contractuellement à 120 jours, assorti de sanctions financières en cas de retard (octobre
+2023).
+82 Éléments issus de la réponse du Ministre délégué auprès du Chef du Gouvernement chargé de l'Investissement, de la convergence et de
+l'évaluation des politiques publiques, à une question sur « l'amélioration du climat des affaires » posée lors de la séance de questions orales à
+la Chambre des représentants le lundi 18 décembre 2023.
+83 Principaux axes du rapport annuel de la Cour des comptes au titre de 2023 – 2024. P.53-56.
+84 Ibid.
+indicateurs de performance, à la gouvernance du portail national « Idarati » et à la
+mutualisation des documents administratifs entre services, restreignent l'impact attendu de
+ces réformes sur l'environnement entrepreneurial85.
+Par ailleurs, si des progrès ont été réalisés au sein des Centres Régionaux d'Investissement
+(CRI), la plupart continuent, selon les acteurs auditionnés86, de fonctionner principalement
+comme des entités centralisées, plutôt que comme de véritables guichets uniques assurant un
+accompagnement complet des entrepreneurs tout au long de leur parcours.
+La régulation
+Les acteurs auditionnés87 soulignent que le cadre juridique actuel peine à suivre le rythme
+soutenu des évolutions technologiques et des besoins des jeunes entreprises, en particulier des
+startups. Si certains textes intègrent des dispositions importantes, leur impact demeure limité
+sur le terrain. À titre d'exemple, le décret88 relatif aux marchés publics, prévoit un accès
+privilégié pour les jeunes entreprises innovantes dans le cadre des quotas réservés aux TPE,
+PME, coopératives et auto-entrepreneurs. Toutefois, cette disposition reste insuffisamment
+mise en œuvre, et les mécanismes prévus pour les « marchés innovants » (article 4) ou les «
+offres spontanées » (article 13) sont rarement mobilisés, limitant ainsi l'accès effectif des
+startups et petites structures à la commande publique.
+Par ailleurs, l'écart entre l'innovation et la régulation se fait également sentir dans d'autres
+domaines émergents. Les applications de transport opérant via des plateformes numériques
+évoluent encore dans un vide juridique, exposant à la fois les utilisateurs et les conducteurs à
+des risques juridiques et sociaux. De même, le projet de loi encadrant l'usage des
+cryptomonnaies, en préparation depuis 2022, tarde à être adopté, ce qui affaiblit la
+compétitivité des entreprises marocaines face à des acteurs internationaux bénéficiant de
+cadres réglementaires plus clairs et plus stables89.
+L'organisation des professions
+Le manque d'organisation dans certaines professions constitue un frein à la modernisation des
+unités de subsistance. L'absence de référentiels encadrant l'accès et l'exercice de ces métiers,
+déjà soulignée dans l'avis du CESE sur le secteur informel90, limite la professionnalisation et les
+efforts de structuration. Par ailleurs, l'absence d'un système généralisé de valorisation des
+acquis de l'expérience professionnelle (VAEP) réduit les possibilités pour de nombreux artisans
+et professionnels d'accéder à des formations adaptées, malgré leur expérience. Les initiatives
+pilotes de VAEP, développées dans des secteurs tels que le textile, le BTP ou le tourisme, ont
+permis d'obtenir certaines certifications, sans toutefois garantir l'accès à des formations
+qualifiantes. Bien que le département ministériel en charge de l'inclusion économique ait
+engagé un élargissement de ces dispositifs avec l'Office de la Formation Professionnelle et de
+la Promotion du Travail (OFPPT) et les branches professionnelles, leur généralisation reste
+85 Annexe 4, encadré 4 –La digitalisation des services publics au Maroc.
+86 Séance d'audition des CRI, en date du vendredi 29 novembre 2024.
+87 CDG Invest et Startup Station, Présentation sur l'écosystème des startups lors de la séance d'audition du vendredi 29 novembre 2024.
+88 décret n° 2-22-431 relatif aux marchés publics, entré en vigueur en septembre 2023.
+89 CDG Invest, Startup Station, le Centre marocain pour l'innovation et l'entrepreneuriat social (MCISE) et Maroc Entreprendre, Présentation
+sur l'écosystème des startups lors des séances d'audition, respectivement le vendredi 22 novembre 2024 et vendredi 29 novembre 2024.
+90 CESE, Avis « Une approche intégrée pour résorber l'économie informelle au Maroc », 2021.
+conditionnée à l'adoption des textes d'application de la loi n° 60-17 relatifs à l'organisation de
+la formation continue.
+La recherche, l'innovation et le transfert technologique
+Les liens entre les Micro, TPE et PE, en particulier les startups, et les universités restent encore
+limités, en raison d'un cadre peu incitatif à la recherche partenariale.
+Le système national ne dispose pas, à ce jour, de dispositifs de cofinancement structurés et
+systématisés entre les universités et les entreprises, ni de mécanismes fiscaux incitatifs
+spécifiques. De surcroît, les dispositifs d'appui à l'innovation, en particulier ceux destinés aux
+startups et clusters, peinent encore à produire les résultats attendus, notamment en matière
+de valorisation technologique, d'innovation brevetée et de soutien à l'émergence d'entreprises
+innovantes. Le faible investissement dans la R&D, qui représente seulement 0,8% du PIB91,
+limite également l'innovation et la capacité des startups marocaines à se positionner sur des
+marchés à forte valeur ajoutée.
+Cet état de fait entrave le développement d'un écosystème national pleinement opérationnel
+et en capacité de transformer la recherche en innovation et en création de richesse par une
+montée en gamme dans les chaînes de valeur.
+Consultation citoyenne sur la plateforme du CESE « ouchariko.ma »
+III.Une multiplicité de dispositifs de soutien aux micro/TPE/PE, pour un impact encore trop limité
+Conscients des contraintes internes et externes limitant le développement des Micro, TPE et
+PE, les pouvoirs publics ont déployé un ensemble de programmes visant à les accompagner et
+à lever ces obstacles, chaque acteur intervenant selon son domaine de compétence. Ces
+initiatives
+couvrent
+plusieurs
+dimensions,
+notamment
+l'accès
+au
+financement,
+l'accompagnement technique et managérial, ainsi que la formalisation des entreprises. Malgré
+l'ampleur de ces interventions, leur impact reste limité en raison principalement de problèmes
+de coordination, de couverture et d'adéquation avec les besoins réels des bénéficiaires.
+1. Les programmes et acteurs de soutien aux micro/TPE/PE
+Principaux programmes publics et mesures engagées en faveur des micro/TPE/PE au Maroc
+Le Maroc a déployé un ensemble de programmes publics destinés à soutenir le développement
+des Micro, TPE et PE. Ces initiatives visent à lever plusieurs freins structurels qui entravent leur
+croissance, en particulier l'accès au financement, l'accompagnement et la formalisation.
+91 Haut-Commissariat au Plan, Troisième rapport du Royaume du Maroc sur la mise en œuvre de l'Agenda 2063 : Bilan de la première décennie
+(2014-2023) – Agenda 2063 : Tableau de bord national, données 2021, disponible sur : https://www.hcp.ma/file/238736/
+Des dispositifs tels qu'INTELAKA ou encore le programme FORSA ont contribué à améliorer
+l'accès au financement et à encourager l'entrepreneuriat92. En parallèle, d'autres programmes
+ciblent le renforcement des capacités des porteurs de projets et des petites entreprises, chacun
+selon une approche spécifique93. À titre d'illustration :
+-
+INMAA, usine modèle dédiée aux PME industrielles, mise sur le Lean Manufacturing
+pour optimiser la performance ;
+-
+Ana Moukawil accompagne les unités informelles, les TPE et les auto-entrepreneurs
+dans leur formalisation et leur gestion, principalement à travers des services en ligne ;
+-
+NAWAT soutient les TPE et auto-entrepreneurs en matière de montage de projets et
+d'encadrement technique.
+Cependant, plusieurs limites continuent d'entraver l'efficacité de ces dispositifs. La
+fragmentation des structures concernées et la priorité donnée à la création plutôt qu'au suivi
+post-création réduisent leur impact. De plus, l'accès au financement demeure inégal, en raison
+de critères d'éligibilité restrictifs et d'un taux de rejet élevé des dossiers94, en particulier pour
+les auto-entrepreneurs, les artisans et les microentreprises.
+Par ailleurs, la diffusion limitée de l'information sur ces dispositifs constitue un obstacle
+supplémentaire. De nombreux entrepreneurs, notamment les micro/TPE/PE et auto-
+entrepreneurs, ne connaissent pas suffisamment les programmes disponibles ou ignorent les
+démarches pour y accéder, ce qui réduit l'efficacité de certaines initiatives95. Une
+communication mieux structurée, adaptée aux besoins des bénéficiaires et proactive,
+permettrait d'en améliorer la visibilité et l'accès.
+Les régions, un levier essentiel pour le soutien aux TPE
+Les auditions des conseils régionaux et de leur association ainsi que la visite de terrain menée
+par le CESE à Tanger-Tétouan-Al Hoceïma, ont mis en évidence le rôle central des régions dans
+la structuration et le renforcement du tissu économique local. En vertu de la loi organique
+n° 111-14, les régions disposent de compétences spécifiques pour promouvoir le
+développement économique, notamment à travers la création d'infrastructures locales, le
+soutien aux initiatives entrepreneuriales et la mobilisation de ressources pour renforcer
+l'attractivité régionale.
+Ces initiatives se traduisent concrètement dans les Plans de Développement Régionaux (PDR),
+qui intègrent la mise en place d'agropoles, de zones industrielles, de technoparks ainsi que des
+dispositifs financiers et des programmes de formation et d'accompagnement ciblés. Par
+exemple, la région Rabat-Salé-Kénitra a développé des incubateurs numériques pour soutenir
+92 Annexe 4 – Matrice des principaux programmes publics de soutien au financement des micro/TPE/PE au Maroc.
+93 Annexe 4 – Matrice de quelques programmes d'accompagnement pour le renforcement des capacités des entreprises et porteurs de projets
+au Maroc.
+94 Groupement professionnel des banques du Maroc (GPBM) et Bank Al-Maghrib (BAM), séance d'audition avec le Conseil économique, social
+et environnemental, le vendredi 18 octobre 2024.
+95 Union générale des entreprises et professions (UGEP) et Syndicat national du commerce et des professions (SNCP), Présentation lors de la
+séance d'audition avec le Conseil économique, social et environnemental, vendredi 23 août 2024.
+les startups innovantes. De même, plusieurs Conseils régionaux ont mis en place des fonds
+régionaux d'investissement pour faciliter l'accès des TPE au financement et au foncier.
+Ces actions témoignent de la volonté des régions de bâtir un écosystème entrepreneurial
+structuré et inclusif, adapté aux spécificités locales. Cependant, elles sont souvent menées de
+manière indépendante, chaque région avançant selon ses priorités et ses moyens. La plupart
+des initiatives étant encore en phase de déploiement ou d'ajustement, il est prématuré
+d'évaluer pleinement leur impact. Une meilleure coordination entre les régions et le partage
+des retours d'expérience pourraient renforcer leur efficacité et accroître leur contribution au
+développement des TPE à l'échelle nationale.
+Le rôle des chambres de commerce, d'industrie et de services (CCIS) dans le soutien aux
+micro/TPE/PE
+Les CCIS occupent une place stratégique dans l'écosystème économique marocain, en
+complément des initiatives publiques et régionales. En tant qu'institutions de proximité, elles
+contribuent activement au soutien des micro/TPE/PE à travers plusieurs missions-clés96. Elles
+interviennent d'abord comme intermédiaires pour résoudre les problèmes rencontrés par les
+entreprises avec les administrations, telles que la CNSS, la Direction Générale des Impôts (DGI)
+ou encore les collectivités territoriales. Leur capacité à dialoguer directement avec ces
+institutions facilite les procédures, règle les litiges et prévient les blocages administratifs
+susceptibles d'entraver l'activité des petites structures.
+Les CCIS jouent également un rôle de coordination entre les entreprises et les différents acteurs
+institutionnels, incluant le gouvernement, la SNTL, les CRI et d'autres partenaires stratégiques.
+Par ailleurs, les CCIS apportent un soutien direct à la création et au développement des
+entreprises. Elles proposent des services variés tels que l'accompagnement à la formalisation,
+l'assistance juridique et des conseils en gestion et en financement. Ces actions structurent le
+tissu économique local et encouragent l'entrepreneuriat. Un exemple concret est celui des
+Centres de Gestion de Comptabilité Agréée (CECOGEC), qui prennent en charge la comptabilité
+des entreprises réalisant un chiffre d'affaires inférieur ou égal à 2 millions de dirhams, avec des
+coûts compris entre 800 et 3 000 dirhams. Les adhérents bénéficient également d'un
+abattement fiscal de 15 % sur la base imposable de leurs revenus professionnels97.
+Les CCIS jouent enfin un rôle important dans la formation professionnelle et l'encadrement des
+entrepreneurs. Elles proposent des programmes ciblés, reconnus par l'État, pour renforcer les
+compétences techniques et managériales, comme les formations offertes en commerce,
+marketing et comptabilité par l'Institut de Commerce et de Rabat (ICOGER). Elles soutiennent
+également les associations locales dans leurs actions d'accompagnement, consolidant ainsi
+l'écosystème entrepreneurial.
+Malgré leur contribution significative, les CCIS doivent relever plusieurs défis pour renforcer
+leur impact. Parmi ceux-ci figurent la coordination parfois insuffisante avec d'autres institutions
+(CRI, régions) et le manque de ressources humaines et financières nécessaires pour un
+96 Chambre de Commerce, d'Industrie et de Services de Rabat-Salé-Kénitra (CCIS-RSK), Présentation lors de la séance d'audition avec le Conseil
+économique, social et environnemental, vendredi 24 janvier 2025.
+97 Idem.
+accompagnement optimal des micro/TPE/PE. Une meilleure articulation entre les CCIS, les
+régions et les autres institutions publiques pourrait maximiser l'efficacité de ces actions. Par
+ailleurs, les CCIS estiment qu'elles devraient être davantage impliquées en amont dans
+l'élaboration des politiques économiques et sociales affectant le tissu des micro/TPE/PE.
+2. Quatre insuffisances liées à la gouvernance érodent l'efficacité et l'efficience des
+programmes publics en cours en faveur des micro/TPE/PE
+Une échelle de déploiement limitée
+La couverture des programmes reste limitée et ne répond suffisamment pas à l'ampleur des
+besoins. Les dispositifs les plus performants n'atteignent qu'une fraction des micro/TPE/PE :
+-
+FORSA a financé 10 000 projets lors de sa première édition et 11 200 lors de la
+deuxième98.
+-
+ISTITMAR n'a soutenu que 887 projets entre 2019 et 202299.
+-
+Les initiatives d'accompagnement technique (MOWAKABA, NAWAT, Tatwir Croissance
+Verte, INMAA) ont touché 5 055 TPME sur la même période100.
+-
+INTELAKA, malgré sa plus large portée, n'a bénéficié qu'à 32 000 entrepreneurs
+jusqu'en août 2024101.
+Ces chiffres demeurent largement insuffisants face à la demande réelle : pour
+l'accompagnement, 1,7 million d'entrepreneurs établis et 2,7 millions d'entrepreneurs
+potentiels ; pour le financement, 2,3 millions d'entrepreneurs établis et 4 millions
+d'entrepreneurs potentiels102..
+Ce déficit d'échelle s'explique en partie par les ressources humaines et financières limitées des
+structures d'appui et d'accompagnement. Par exemple, l'ANAPEC, dans le cadre du programme
+ANA MOUKAWIL, fait face à un effectif insuffisant, ce qui restreint sa capacité à répondre à la
+demande croissante de services103.
+Une évaluation insuffisante des mesures
+L'impact des mesures mises en place par les pouvoirs publics en faveur des micro/TPE/PE, ou
+plus largement pour l'amélioration de l'environnement des affaires, dépend en grande partie
+de l'existence d'une culture d'évaluation continue des programmes, en particulier en mode In-
+Itinéré104. Sans ce suivi, il devient difficile d'anticiper les effets réels des décisions sur la viabilité
+et le développement des petites entreprises.
+À titre d'illustration, les récentes restrictions fiscales sur le régime de l'autoentrepreneur ont
+été introduites sans étude préalable de leurs conséquences sur la survie, la croissance ou le
+retour vers l'informel, mettant en lumière l'importance d'un suivi rigoureux.
+98 https://www.forsa.ma/
+99 Maroc PME, « Rapports d'activité 2022 ».
+100 Maroc PME, « Rapports d'activité 2020, 2021 et 2022 ».
+101 Audition BAM.
+102 BAD & Ministère de l'Économie et des Finances, « Profil entrepreneurial du Maroc », 2023.
+103 Audition BAM et GPBM / Audition ANAPEC.
+104 L'évaluation in itinéré désigne une évaluation conduite en cours de mise en œuvre d'un programme, afin de permettre des ajustements en
+temps réel, contrairement à une évaluation ex post réalisée uniquement à la fin du cycle.
+Par ailleurs, l'efficacité des dispositifs d'appui repose sur une certaine cohérence et
+convergence entre les initiatives. Pendant plusieurs années, l'accent a surtout été mis sur le
+financement des micro/TPE/PE, au détriment de l'accompagnement. Cette approche a limité
+les résultats : des taux de rejet élevés lors des demandes de financement et un faible recours
+des très petites entreprises au crédit bancaire, parfois par autocensure.
+Enfin, l'efficacité est impactée par la confusion souvent exprimée par les entrepreneurs à cause
+de la multiplicité des programmes d'appui existants et le caractère éparse des institutions qui
+les gèrent.
+Une représentativité insuffisante des micro/TPE/PE
+Malgré les efforts récents, les artisans, commerçants, auto-entrepreneurs et microentreprises
+restent peu représentés dans les instances de dialogue et de concertation entre le
+gouvernement et le secteur privé, selon certains acteurs auditionnés105. Cette sous-
+représentation constitue un obstacle significatif à la survie et au développement de ces unités.
+Elle limite également leur capacité à faire valoir leurs préoccupations et à influencer les
+décisions politiques qui les concernent, ce qui peut affecter leur confiance dans les réformes et
+leur adhésion aux initiatives publiques.
+Une communication limitée sur les mesures engagées
+La communication autour des nombreuses mesures destinées à soutenir la croissance et la
+modernisation des micro/TPE/PE reste insuffisante. Ce point a été souligné à plusieurs reprises
+lors des auditions menées par le CESE, notamment avec le secteur financier, l'administration
+fiscale, la CGEM et les CRI. Ce déficit d'information réduit la portée et l'efficacité des initiatives
+publiques, limitant leur impact sur les micro/TPE/PE.
+À ces limites s'ajoute la fragmentation des structures de soutien et l'insuffisance de
+coordination entre les différents dispositifs. La présence de multiples acteurs publics et privés
+intervenant sur un même champ, sans articulation claire ni cadre fédérateur, entraîne des
+chevauchements et une dispersion des efforts, ce qui réduit l'efficacité globale des politiques
+en faveur des Micro, TPE et PE.
+IV.Promouvoir la croissance et la modernisation des micro/TPE/PE en agissant sur leurs capacités
+internes et leur environnement externe
+Les analyses précédentes ont mis en évidence des contraintes structurelles majeures qui
+limitent le développement des micro/TPE/PE, malgré la multiplicité des dispositifs de soutien
+mis en œuvre par les pouvoirs publics. Ces constats soulignent la nécessité d'adopter une
+approche intégrée, alliant le renforcement des capacités internes des entreprises et
+l'amélioration de leur environnement externe, afin de renforcer leur résilience et d'accroître
+leur contribution à l'économie nationale.
+Dans ce cadre, il est essentiel de positionner les micro/TPE/PE comme des acteurs-clés du
+développement économique et social du pays, en renforçant leur contribution à la création de
+richesse, à l'emploi et à l'innovation, proportionnellement à leur poids dans la démographie
+entrepreneuriale nationale. Ce rôle renforcé suppose leur intégration dans des écosystèmes
+105 Union générale des entreprises et professions (UGEP) et Syndicat national du commerce et des professions (SNCP), Présentation lors de la
+séance d'audition avec le Conseil économique, social et environnemental, vendredi 23 août 2024.
+dynamiques et inclusifs, alignés sur les stratégies sectorielles nationales et celle de la
+régionalisation avancée.
+Cela implique de doter les micro/TPE/PE des ressources et capacités nécessaires à leur
+modernisation et leur croissance, ainsi que de leur préparer un environnement favorable et
+inclusif offrant des opportunités de développement diversifiées, un accès fluide à des marchés
+plus larges et un climat des affaires assaini de toutes les entraves pouvant dissuader l'acte
+d'investir ou éroder davantage la confiance de cette catégorie d'entreprise.
+Pour ce faire, le CESE propose un ensemble de recommandations structurées autour de trois
+axes principaux, accompagnés d'un axe transversal de gouvernance traitant des conditions
+nécessaires à la réussite des actions suggérées.
+Axe I. Renforcer la gouvernance, le pilotage et l'efficacité des politiques en faveur des
+micro/TPE/PE
+Gouvernance et suivi des politiques
+- Confier à une instance nationale indépendante la mission de suivi et d'évaluation des
+politiques en faveur des micro/TPE/PE et ce, en veillant à une coordination effective avec les
+CRI, les CCIS et les différents acteurs territoriaux impliqués. Le suivi et l'évaluation devraient
+être appliqués, selon des méthodes rigoureuses, tout au long du processus de mise en œuvre
+des mesures et politiques, en mode in itinéré, afin de suivre leurs répercussions et de les
+ajuster si nécessaire.
+Cadre réglementaire et dispositifs d'appui intégré
+- Établir une définition officielle et unifiée des microentreprises, TPE et PE au niveau national.
+- Regrouper l'ensemble des dispositifs de soutien aux micro/TPE/PE au sein d'un cadre
+réglementaire unique, en accélérant notamment l'élaboration du Small Business Act. Cette
+démarche favorisera une meilleure cohérence dans le fonctionnement des différents
+mécanismes d'appui et de financement. Dans le même sens, il serait opportun d'envisager la
+création d'un Startup Act en tant que cadre intégré regroupant un ensemble de textes
+réglementaires flexibles et adaptés aux startups, ainsi que les diverses mesures incitatives
+dédiées au développement et la croissance de ce type d'entreprise.
+Déploiement et territorialisation des politiques
+- Veiller à ce que les mesures adoptées ou programmées soient déployées à une échelle
+suffisamment large pour répondre à la demande considérable émanant des micro/TPE/PE.
+- Renforcer la qualité et l'efficacité des programmes existants avant toute extension.
+- Assurer un déploiement territorial adapté des mesures, en tenant compte des spécificités de
+chaque territoire et en renforçant l'implication des régions et des collectivités territoriales. Cela
+nécessite une coordination étroite avec les acteurs de proximité, tels que les Centres Régionaux
+d'Investissement (CRI), les Chambres de Commerce, d'Industrie et de Services (CCIS) et les
+organisations de la société civile. Cette approche s'inscrit dans la continuité des initiatives
+récentes, notamment le nouveau dispositif de primes à l'investissement de la Charte de
+l'investissement, qui module les aides selon la localisation des projets (zones A et B).
+- S'appuyer sur une cartographie nationale des besoins régionaux pour assurer cohérence et
+efficacité des dispositifs publics d'appui à l'investissement, à l'emploi et à l'entrepreneuriat.
+- Renforcer les ressources humaines et financières des CCIS et adapter leur cadre
+réglementaire et opérationnel, notamment par un statut de personnel approprié, afin
+d'améliorer la diversité et la qualité de leurs prestations d'accompagnement des
+micro/TPE/PE. Il serait également pertinent d'accroître leur participation en amont aux
+processus d'élaboration des textes et lois relatifs au développement économique régional et
+au soutien des micro/TPE/PE, tout en favorisant des mécanismes de collaboration structurés
+entre les CCIS, les régions, les CRI, les collectivités territoriales, les associations
+professionnelles et la société civile.
+Communication et représentativité
+- Améliorer la communication sur les réformes en faveur des micro/TPE/PE via une stratégie
+multicanale et multilingue, afin de garantir que les mesures soient effectivement connues et
+comprises par leurs bénéficiaires.
+- Renforcer la représentativité des acteurs des micro/TPE/PE au sein des instances de dialogue
+avec les pouvoirs publics et dans les dispositifs d'évaluation des politiques publiques.
+Axe II. Développer les compétences entrepreneuriales et managériales des chefs de
+micro/TPE/PE via des programmes de capacitation adaptés
+A court terme : renforcer les compétences existantes
+- Élargir la couverture et la capacité des programmes de sensibilisation et de formation
+existants, tout en améliorant la qualité des prestations, afin de renforcer les compétences des
+chefs d'entreprise.
+- Former les dirigeants :
+✓ dans des domaines de base pour les unités de subsistance et les TPE/PE classiques, tels
+que la comptabilité, la fiscalité, la gestion simplifiée des stocks et la familiarisation avec
+le digital.
+✓ dans des domaines spécifiques pour les startups, notamment le management des
+talents, l'innovation, la préparation aux levées de fonds et la rédaction de pitch decks106.
+- Mobiliser un large réseau d'associations d'entrepreneurs pour dispenser ces formations et
+veiller à ce que les subventions accordées aux experts et formateurs soient attractives,
+garantissant ainsi un rendement élevé et une implication optimale. Les prestations devront
+respecter des normes de qualité strictes.
+A long terme : préparer les jeunes à l'entrepreneuriat
+- Intégrer le développement des compétences entrepreneuriales et managériales tout au long
+des cursus scolaires et de la formation professionnelle.
+- Prévoir des stages d'immersion en entreprise dès que l'âge des élèves le permet, afin de
+favoriser une exposition concrète au monde de l'entrepreneuriat.
+106 Le pitch deck est une présentation synthétique utilisée par les startups pour convaincre des investisseurs potentiels de la pertinence de leur
+projet, de son modèle économique et de ses perspectives de croissance.
+Axe III. Doter la micro/TPE/PE des capacités nécessaires à sa croissance et développement en
+facilitant davantage son accès aux ressources et facteurs de production
+1. Renforcer l'accès au financement :
+✓ Adapter davantage les mécanismes de garantie publics aux spécificités des segments et
+produits encore insuffisamment couverts, en particulier ceux destinés aux artisans et
+commerçants de proximité.
+✓ Renforcer l'offre de microfinance au profit des activités génératrices de revenu (AGR)
+en particulier dans les zones rurales peu ou pas encore desservies, tout en réduisant
+significativement leurs coûts via un renforcement du système de garanties publiques y
+afférent.
+Pour les TPE/PE classiques :
+✓ Alléger les conditions de chiffre d'affaires pour accéder au produit de financement par
+dette subordonnée107 du Fonds Mohammed VI pour l'investissement, en élargissant
+l'éligibilité aux TPE avec un chiffre d'affaires compris entre 3 et 10 millions de dirhams
+(MDH), contre un seuil minimum actuel de 10 millions de dirhams (MDH).
+✓ Prévoir des mécanismes de soutien financier dédiés aux TPE/PE classiques ayant des
+projets de croissance (diversification de produits, de marchés ou montée en gamme)
+ainsi qu'à leur modernisation.
+✓ Engager des concertations entre TAMWILCOM et les régions afin de mettre en place
+des formules de financement customisées et adaptées aux spécificités sectorielles du
+tissu des micro/TPE/PE de chaque région.
+✓ Renforcer le positionnement des associations de microcrédit sur le segment de la méso-
+finance (financement des TPE) et ce, via :
+• l'accélération de la mise en œuvre de la loi n° 50-20 relative à la microfinance,
+permettant de transformer le statut juridique de ces associations et d'élargir la gamme
+de services proposés aux TPE (dépôts, crédit, conseil, transferts de fonds,
+microassurance). Cette évolution contribuerait à améliorer leur rentabilité, à réduire
+leur dépendance au refinancement coûteux auprès des banques et, in fine, à alléger
+les charges appliquées à leur clientèle.
+• le renforcement des ressources du Fonds de garantie pour la microfinance afin
+de pérenniser la baisse du taux d'intérêt appliqué par ces associations depuis 2019.
+107 Ce produit proposé par le Fonds Mohammed VI et nommé CapAccess est offert de manière conjointe avec un crédit bancaire normal, dit
+sénior, suivant un ratio de 2/3 de dette senior bancaire, octroyé par la banque, et 1/3 de dette subordonnée. La dette séniore bancaire et la
+dette junior forment ensemble le crédit conjoint. La dette subordonnée dont le remboursement est subordonné à celui du crédit bancaire
+normal, est proposée sur une durée plus étendue que la dette bancaire classique mais à des taux incitatifs par rapport à son caractère
+subordonné et sa maturité.
+• l'adaptation de la fiscalité applicable aux opérateurs de la microfinance et de la
+méso-finance, compte tenu de leurs coûts d'exploitation et de refinancement plus
+élevés que ceux des banques, ainsi que du risque accru lié à leur activité, afin d'éviter
+une répercussion sur les TPE.
+✓ Développer davantage le recours aux sources de financement alternatives, notamment
+le crowdfunding dans ses volets de prise de participation et de prêts en faveur des
+projets de croissance des micro/TPE/PE, en agissant sur plusieurs leviers :
+• accélérer la création de plateformes de crowdfunding agréées, conformément à
+la loi n° 15-18, afin de stimuler la concurrence et de diversifier l'offre de financement
+pour les micro/TPE/PE.
+• renforcer la confiance et la sécurité autour de ces plateformes à travers la mise
+en place de mécanismes stricts de détection des fraudes, le renforcement de la
+cybersécurité et la protection des données personnelles.
+• instituer des audits réguliers et favoriser un dialogue continu entre régulateurs,
+plateformes et investisseurs.
+• accroître la communication et la diffusion des bonnes pratiques et expériences
+réussies dans le domaine du crowdfunding.
+Pour les Startups :
+✓ Renforcer l'offre de financement des startups aux stades d'accélération, de croissance
+et d'internationalisation (levées de fonds pré-série A et série A et B), afin de soutenir
+leur développement et leur passage à l'échelle.
+2. Résorber les obstacles entravant l'accès au foncier et aux espaces de travail
+Pour les TPE/PE classiques :
+Pour les Startups :
+3. Améliorer la qualité et la couverture de l'offre d'accompagnement non-financier
+Recommandations transverses :
+Recommandations spécifiques :
+Pour les TPE/PE classiques :
+3.2. Renforcer la productivité et les capacités technologiques et d'innovation des entreprises :
+Pour les TPE/PE classiques et Startups :
+3.3. Réduire les coûts de production et d'approvisionnement supportés par les entreprises
+Axe IV. Promouvoir un environnement externe sain et porteur d'opportunités pour la
+micro/TPE/PE
+1. Fournir aux entreprises les informations et appuis nécessaires pour élargir leurs marchés et
+mieux s'intégrer aux chaînes de valeur (essentiellement TPE/PE classiques et Startups)
+108 Loi n° 60-17 relative à l'organisation de la formation continue, promulguée par le Dahir n° 1-18-94 du 5 octobre 2018 (Bulletin officiel n°
+6774 du 2 mai 2019).
+2. Améliorer l'offre et la qualification de la force de travail disponible sur le marché
+3. Assainir l'environnement des affaires
+3.1. Résorber les lourdeurs administratives
+109 Les Suppliers Development Programs sont des dispositifs d'accompagnement mis en place dans plusieurs pays émergents pour renforcer
+les capacités des petites entreprises et leur permettre de devenir des fournisseurs compétitifs des grandes entreprises nationales et
+internationales. À titre d'exemple, la Turquie a lancé le programme Turquality, centré sur la compétitivité et l'internationalisation des PME ;
+l'Afrique du Sud, le Mexique, le Chili, l'Uruguay, la Malaisie et l'Arabie Saoudite ont adopté des programmes similaires visant la mise à niveau
+technologique, la certification qualité et l'accès à de nouveaux marchés.
+110 Le business match-making désigne l'utilisation de plateformes numériques permettant de mettre en relation des entreprises autour de
+leurs besoins et offres respectifs (clients, produits, fournisseurs), afin de faciliter le réseautage, les partenariats commerciaux et l'accès à de
+nouveaux marchés.
+111 Le concept d'Open Innovation, développé par Startup Station, renvoie à une démarche de collaboration entre grandes entreprises et
+startups, reposant sur le partage d'expertises, de technologies et de ressources, afin de stimuler l'innovation et d'accélérer la mise sur le
+marché de solutions nouvelles.
+3.2. Renforcer la lutte contre la corruption en synchronisant les actions de prévention et
+de sanction pour rétablir la confiance des entrepreneurs et investisseurs
+3.3. Assurer l'effectivité du mécanisme de régulation des retards de paiement
+112 L'objectif d'unifier le parcours de l'investisseur a été mis en avant lors de l'intervention du ministre délégué auprès du Chef
+du gouvernement, chargé de l'Investissement, de la Convergence et de l'Évaluation des politiques publiques, le 9 décembre
+2024, lors de la séance consacrée à la deuxième lecture du projet de loi n°22.24 modifiant et complétant la loi n°47.18 portant
+réforme des centres régionaux d'investissement (CRI) et création des commissions régionales unifiées d'investissement (CRUI), à
+la chambre des représentants.
+113 Inspiré de la législation Polonaise introduite en 2020, qui prévoit un mécanisme fiscal spécifique pour lutter contre les
+retards de paiement. Celui-ci oblige les entreprises à augmenter leur base imposable lorsqu'elles règlent leurs factures au-delà
+d'un délai légal (90 jours) et permet aux fournisseurs de réduire leur base imposable d'un montant équivalent en cas de non-
+paiement. Ce dispositif vise à inciter les clients à respecter les délais tout en protégeant la trésorerie des petites entreprises.
+https://kpmg.com/pl/en/home/insights/2020/02/tax-alert-the-act-amending-certain-regulations-in-order-to-limit-payment-
+backlogs-entered-into-force-on-1-january-2020.html
+3.4. Lutter contre la concurrence déloyale de l'informel structuré
+4. Mettre en place une fiscalité adaptée favorisant le développement de ces entreprises sans
+entraver leurs opportunités de croissance
+5. Améliorer l'accès à la commande publique
+*
+*   *
+114 Il s'agit de la loi-cadre n° 69-19 portant réforme fiscale, promulguée par le Dahir n° 1-21-86 du 26 juillet 2021 (Bulletin officiel n° 7010 du 5
+août 2021).
+Annexes
+
+### Annexe
+
+Annexe 1 : Liste des membres de la commission
+* * *
+
+### Annexe
+
+Annexe 2 : Liste des organismes auditionnés115
+115 Le classement est effectué selon la date d'audition
+* * *
+
+### Annexe
+
+Annexe 3 : Résultats de la consultation citoyenne
+Au total, 1 501 réponses au sondage en question ont été recueillies.
+Profils des participant(e)s :
+L'analyse du profil des participants par sexe montre que 69,3 % sont des hommes et 30,7 % des
+femmes. En termes d'âge, les 35-44 ans sont les plus représentés (46,6 %), suivis des 45-59 ans
+(31,1 %), des 25-34 ans (13,4 %), des 15-24 ans (6 %) et des 60 ans et plus (3 %). Ces résultats
+indiquent que les intentions entrepreneuriales se concentrent principalement chez les adultes
+en milieu de carrière, et qu'elles tendent à diminuer au fur et à mesure que nous nous
+déplaçons vers les catégories les plus jeunes et les plus âgées.
+Graphique 1. Répartition des participants
+Graphique 2. Répartition des participants
+selon le genre (en %)
+selon l'âge (en %)
+En ce qui concerne le lieu de résidence, la majorité des répondants vit en milieu rural (56,7 %
+contre 43,3 % en milieu urbain). Cela souligne de plus grandes attentes d'inclusion économique
+dans les territoires ruraux, où les programmes de soutien restent encore peu visibles ou peu
+adaptés.
+Graphique 3. Répartition des participants selon le milieu de résidence (en %)
+En ce qui concerne l'occupation, les fonctionnaires (agents et cadres) représentent 29 % des
+répondants, suivis des salariés du privé (22,3 %), des porteurs de TPE/PE (8,2 %), des étudiants
+(7,6 %), des diplômés ou non sans emploi (11,2 %) et d'autres catégories professionnelles
+(21,6 %). Les réponses libres viennent compléter ces données en faisant apparaître des
+situations socio-professionnelles particulières, telles que les auto-entrepreneurs en cours de
+formalisation (
+), les organisateurs d'événements, les imprimeurs, les
+cuisiniers, les étudiants-entrepreneurs ou encore des personnes actives sans statut reconnu.
+Graphique 4. Répartition des participants selon l'occupation (en %)
+Au niveau régional, les réponses proviennent majoritairement de Casablanca-Settat (14,6 %),
+Rabat-Salé-Kénitra (14,3 %), Béni Mellal-Khénifra (13,6 %), l'Oriental (12,9 %) et Marrakech-Safi
+(12,9 %). En revanche, les régions du Sud, comme Guelmim, Laâyoune et Dakhla, sont très peu
+représentées.
+Graphique 5. Répartition des réponses selon la région (en %)
+Perception générale de l'entrepreneuriat à petite échelle
+Les résultats de la consultation montrent que l'attractivité de l'entrepreneuriat à petite échelle est
+perçue de manière relativement modérée. Parmi les 1 501 participants à cette question, 17,9 % jugent
+ce modèle très attractif, tandis que 62,8 % le considèrent attractif dans une certaine mesure. À l'inverse,
+17,2 % estiment qu'il ne l'est « pas vraiment » et 2,1 % « pas du tout ».
+Motivations à la création d'une TPE/PE
+Les motivations à créer une TPE ou PE sont avant tout liées à des besoins concrets :
+•
+32 % ont cité le désir d'indépendance vis-à-vis de l'employeur ;
+•
+30 % ont indiqué vouloir faire face à une situation de chômage ;
+•
+30 % ont mentionné le besoin de flexibilité pour concilier vie professionnelle et responsabilités
+familiales.
+D'autres raisons avancées sont : l'absence de perspectives d'évolution dans le salariat (22 %), la volonté
+de saisir des opportunités d'affaires (19 %), l'amélioration d'un revenu insuffisant (17 %) et la poursuite
+d'une tradition familiale (8 %).
+Ces résultats montrent que l'entrepreneuriat à petite échelle est largement motivé par la nécessité
+plutôt que par l'innovation ou un projet stratégique d'investissement.
+Connaissance et évaluation des programmes publics d'appui
+Les résultats révèlent que, malgré l'existence de nombreux programmes publics, l'information reste
+difficile d'accès et peu claire pour les bénéficiaires potentiels. L'écart important entre connaissance
+partielle et connaissance totale souligne le besoin d'améliorer la lisibilité et la diffusion de ces dispositifs.
+Ainsi, le niveau de connaissance des participants par rapport aux programmes d'appui destinés aux
+TPE/PE varie entre une connaissance « partielle » (72%) et nulle (20%), au moment où la proportion de
+ceux ayant fait part d'une connaissance parfaite de ces programmes ne dépasse pas 8%.
+Parmi les participants connaissant ces programmes une connaissance partielle ou parfaite :
+•
+20,1 % les jugent « très satisfaisants » ;
+•
+49,2 % « satisfaisants » ;
+•
+11,7 % « moyennement satisfaisants » ;
+•
+7,4 % « peu satisfaisants » ;
+•
+11,6 % déclarent ne jamais en avoir bénéficié.
+Obstacles à la croissance et à la modernisation des TPE/PE
+Il existe différents obstacles qui freinent la croissance et à la modernisation des TPE et PE :
+•
+la concurrence des grandes entreprises (31 %) ;
+•
+le manque de formation et de compétences adaptées (28,7 %) ;
+•
+la difficulté d'accès aux marchés (23,3 %) ;
+•
+la complexité des démarches administratives (22,2 %) ;
+•
+le manque d'accès au financement (22 %).
+D'autres obstacles cités incluent : le manque de soutien et de conseils adaptés (18,3 %), la charge
+fiscale élevée (13,7 %), les problèmes de gestion interne (9,2 %).
+Ces résultats montrent que certains enjeux jugés prioritaires par les participant(e)s sont avant tout liés
+à des facteurs structurels : formation, accompagnement, gouvernance et accès aux marchés, tandis que
+d'autres aspects, comme la fiscalité, sont perçus comme moins déterminants.
+Perceptions des chefs de TPE/PE sur la croissance
+Les réponses recueillies montrent que si une majorité des chefs de TPE/PE (52%) souhaite développer
+son entreprise, une part importante reste prudente dans la mesure où 44% ne pensent pas à
+entreprendre ce processus et 5% n'ont encore pris aucune décision par rapport à l'augmentation de la
+taille de l'entreprise.
+I. Analyse des commentaires des participant(e)s sur les réseaux sociaux
+Les pages du CESE au niveau des réseaux sociaux (Facebook, Instagram et LinkedIn) ont enregistré les
+commentaires et réactions d'un certain nombre de porteurs de projets et chefs de TPE/PE qui ont
+partagé les difficultés auxquelles ils font face. Les informations recueillies permettent de dégager les 4
+principaux axes ci-après :
+1. Diagnostic de l'environnement entrepreneurial
+Les verbatims révèlent une défiance généralisée envers l'environnement des affaires :
+•
+Corruption, clientélisme et opacité des dispositifs d'appui :
+ «
+  و
+الزبونية
+  و
+المحسوبية
+ هي
+السبب
+الرئيسي
+فالفشل
+ديال
+المقااولت
+الصغر ى
+ »
+«
+التأسيس
+لمشروعية
+الرشو ة
+ و
+المحسوبية
+كآلي ة
+إلنجاز
+المشاريع
+ »
+•
+Inégalité d'accès aux marchés publics :
+« Les marchés publics (accès / concurrence / transparence / imposition) sont verrouillés »
+•
+Mainmise des grandes entreprises sur les secteurs clés :
+ «
+الشركات
+الكبرى
+للسو ق
+ »
+« Il est impossible de rivaliser avec les grandes entreprises qui raflent tous les appels d'offres »
+2. Obstacles persistants à la croissance et à la modernisation
+Les verbatims soulignent des difficultés récurrentes :
+•
+Financement : une entrave majeure.
+ «
+الدعم
+ أو
+التمويل
+كيفما
+ كان
+نوعه
+ »
+« Une fois le crédit obtenu, blocage de la banque pour débloquer l'argent »
+•
+Lourdeur administrative :
+ «
+المساطر
+إالدارية
+والحصول
+ على
+التموايلت
+الضرورية
+ضروري
+ »
+« La bureaucratie décourage même les plus motivés »
+•
+Manque d'accompagnement et dysfonctionnement des dispositifs :
+ «
+المواكب ة
+يحتاجون
+ إل ى
+مواكبة
+ »
+«
+ ف ي
+برنامج
+فرصة،
+ تم
+تمويل
+مشاريع
+الرياكلم
+ و
+أقص ى
+أصحاب
+المشاريع
+الجادة
+»
+• Faiblesse des compétences entrepreneuriales :
+ «
+التكوين
+إالدار ي
+وغياب
+الكفاءات
+ »
+«
+التحد ي
+ هو قلة
+الخبرة
+وضع ف
+التكوين
+فالمقااول ت
+ »
+3. Appels à une réforme systémique
+Plusieurs verbatims mettent en avant des solutions ou réformes :
+•
+Renforcer la coordination institutionnelle :
+ «
+تكامل
+وتظافر
+جهو د
+التكوين
+المهني،
+وزارة
+الداخلية،
+التجارة
+والصناعة،
+الجمارك،
+الوزارة
+أالولى،
+ووزار ة
+ »
+• Soutien à l'innovation et aux technologies :
+« Il faut inculquer la culture de l'IA et des technologies dans nos systèmes éducatifs »
+•
+Accompagnement à long terme :
+  «
+اعتماد
+وسيل ة
+تمكن
+المستخدم
+ ذو
+خبرة
+لخلق
+شركة
+ مع
+مواكب ة
+لسنة
+ حتى
+ يحس
+بنفس ه
+قادر ا
+ على
+االستمرار
+ »
+4. Besoin de confiance, de crédibilité et de participation réelle
+Les verbatims montrent un sentiment d'exclusion et de scepticisme :
+•
+Scepticisme vis-à-vis des consultations :
+  «
+المقاب ل
+ اللي
+غاد ي
+تعطيو
+ لنا ؟
+الفابور
+ ما بقاش
+مسلك
+ »
+«
+استشار ة
+العموم
+تبدو
+وكأنها
+تقو ل
+ لنا : ه ا نحن
+نهتم
+بالمقااولت
+الصغيرة
+ »
+«
+المقاول
+يحتاج
+فق ط
+ إلى
+التمويل
+واالنخراط
+الحقيقي
+للدولة
+إلنعا ش
+العجلة
+االقتصادية
+ »
+* * *
+
+### Annexe
+
+Annexe 4 : Encadrés et tableaux :
+116 Développé par Toyota Motor Corporation et adapté dans le monde entier depuis les années 80, le Lean Manufacturing est une méthode
+d'optimisation qui vise à réduire le temps nécessaire à la production en entreprise en éliminant le gaspillage et tous les efforts et tâches qui
+n'ajoutent pas de la valeur. En général, les processus industriels doivent nécessiter moins d'espace, moins d'efforts, moins de temps et moins
+de capital, tout en réduisant les défauts.
+117 Audition de l'ANAPEC et du ministère de l'inclusion économique et de la TPE.
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7467 du 1er rejeb 1447 (22 décembre 2025).
+Etude du Conseil économique, social et environnemental
+Contribution de la recherche scientifique à l'innovation, au développement et au renforcement de la
+compétitivité de l'économie nationale
+Urgence d'une stratégie nationale coordonnée et intégrée
+« Comme vous le savez, le progrès des nations et des peuples se mesure de nos jours à
+l'aune de l'efficacité de leurs systèmes d'enseignement supérieur et de recherche
+scientifique. Il est jugé en fonction du rayonnement de leurs universités, institutions
+scientifiques et autres centres du savoir.
+….
+Si le rôle des universités est essentiel dans le secteur académique, il n'en est pas moins
+important dans le domaine de la recherche scientifique, que Nous estimons être le
+meilleur gage pour l'avenir des générations futures. En effet, le savoir et la recherche
+scientifique sont le moyen indiqué pour permettre à l'individu arabe de remplir le rôle de
+premier plan qui lui incombe dans le progrès de son pays et le développement de ses
+richesses, et d'apporter une contribution digne de lui à l'édification de la civilisation
+humaine. »
+Extrait du Message de SM le Roi au 45ème congrès de l'Union des Universités arabes
+(Fès 20 mars 2012)
+« …  Lorsqu'un grand nombre de jeunes, notamment parmi les hauts diplômés des
+branches scientifiques et techniques, pensent émigrer, ils ne sont pas uniquement
+motivés par les incitations alléchantes de la vie à l'étranger. Ils envisagent cette
+éventualité aussi parce qu'ils manquent dans leur propre pays d'un climat et de
+conditions favorables à la vie active, à la promotion professionnelle, à l'innovation et à
+la recherche scientifique. »
+Extrait du Discours de SM le Roi à la Nation à l'occasion du 65ème anniversaire de la
+Révolution du Roi et du Peuple (20 août 2018)
+1 Annexe 1 : Liste des membres de la commission chargée de la société du savoir et de l'informatoin
+2 Annexe 2 : Liste des insttiutions et acteurs auditionnés
+Synthèse
+Le Maroc a enregistré des avancées signifciatives dans la structuration de son système national de
+recherche et d'innovation, avec un réseau d'acteurs publics et privés de plus en plus diversiféi, une
+progression du nombre de chercheurs et doctorants et une densifciation de la productoin scientifique
+indexée, qui demeure, néanmoins, bien en-deçà des standards internationaux.
+Ces efofrts se traduisent par des résultats et impacts palpables dès lors que les prérequis de
+convergence, de fniancement et de cadre partenarial adéquat sont valablement réunis, démontrant
+ainsi, la pleine capacité de notre pays à metrte la recherche au service d'une innovation porteuse de
+croissance et de développement. À titre d'illustration, dans le domaine de la santé, des médicaments
+stratégiques, notamment des antbiiotiques innovants et des traitements génériques à coût réduit, ont
+été mis au point et commercialisés.
+Dans le domaine des industries extractives, des procédés innovants ont été développés pour valoriser
+des gisements de ressources minérales considérés jusqu'alors comme non-exploitables. Des techniques
+de transformation des résidus miniers en produits commercialisables ont été également développées et
+brevetées, en particulier dans le stockage d'énergie par batetries lithium-ion. Cetet dynamique concerne
+également d'autres secteurs émergents tels que les technologies de pointe, avec le développement de
+drones à usage civil et militaire.
+En dépit des progrès réalisés, un ensemble de contraintes grèvent le développement d'un écosystème
+national pleinement opérationnel et en capacité de transformer la recherche en innovation et en
+création de richesse par une montée en gamme dans les chaines de valeur. Il s'agit notamment des
+facteurs suivants :
+- Un ffiinancement structurellement faible de la recherche. La dépense intérieure brute en R&D se limite
+à 0,75 % du PIB (2016), loin de la moyenne mondiale (2,68 %) et européenne (2,24 %). De plus, le
+fniancement repose majoritairement sur des ressources publiques, la contribution du secteur privé
+n'excédant pas 30%.
+- Une mise en œuvre inabouttiie du disposittfii insttiituttiionnel et juridique de la recherche et de l'innovattiion.
+Des dispositions-clés de la loi n° 01.00, telles que la possibilité pour les universités de créer des
+structures de valorisation sous forme de filiales, ne sont toujours pas opérationnalisées.
+- Des mécanismes d'incitattiion à la recherche partenariale et à l'innovattiion entrepreneuriale peu
+développés. Le système national ne dispose pas, à ce jour, de dispositifs de cofniancement structurés
+et systématisés entre les universités et les entreprises, ni de mécanismes fiscaux incitatifs spécifqiues.
+De surcroît, les dispositifs d'appui à l'innovatoin, en particulier ceux destinés aux startups et clusters,
+peinent encore à produire les résultats atetndus, notamment en matière de valorisation
+technologique, d'innovation brevetée et de soutien à l'émergence d'entreprises innovantes.
+- Une coordinattiion encore insufffifisante entre les acteurs publics, académiques et privés. Le Conseil
+national de la recherche scientfiqiue, institué en 2021, ne joue pas encore pleinement le rôle de
+pilotage stratégique qui lui est dévolu, en raison de l'absence d'une stratégie nationale uniféie et d'une
+efefctivité encore limitée du cadre juridique en vigueur.
+- Des collaborattiions entre recherche et industrie encore ponctuelles et trop fragmentées. Bien que
+prometetuses dans certains secteurs stratégiques (pharmaceutique, digital, agroalimentaire, énergies
+renouvelables, drones), les initiatives demeurent isolées et partant insuffisantes pour structurer un
+écosystème national d'innovation performant et transformationnel.
+Partant de ce constat partagé par les différentes parties prenantes, le CESE souligne l'urgence d'élaborer
+et de metrtte en œuvre une stratégie nattiionale de recherche scienttffiiiique, de développement et
+d'innovattiion coordonnée, intégrée et pleinement alignée sur les priorités du pays. Dans ce sens, le CESE
+a formulé un ensemble de recommandations, dont il est permis de citer :
+- Accélérer la refonte en cours de la loi n°01.00 portant sur la réorganisation de l'enseignement
+supérieur et de la recherche scientifique et adopter ses textes d'application afni de renforcer
+l'autonomie des universités aux plans administratif, fniancier, pédagogique et scientifique.
+- Assurer un ffiinancement durable et renforcé de la recherche, avec une cible proposée de 3 % du PIB
+d'ici 2030, tout en exhortant le secteur privé à accroître ses investsisements dans ce domaine.
+- Etablir un cadre spéciffqiiue pour les chercheurs à temps plein, y compris les doctorants et les post-
+doctorants. Ce cadre devrait compléter le statut existant des enseignants-chercheurs, en défniissant
+des mécanismes d'incitatoin à la recherche à temps plein et de rétributoin au profti des chercheurs les
+plus productifs.
+- Renforcer les capacités insttiituttoiinnelles et opérattiionnelles du Conseil nattiional de la recherche
+scienttffiiiique pour qu'il puisse valablement jouer son rôle de suivi de la stratégie nationale de recherche
+et d'innovatoin et de coordination entre les diféfrentes parties prenantes intéressées, publiques et
+privées.
+- Renforcer la valorisattiion de la recherche et de l'innovattiion entrepreneuriale en consolidant les
+missions dévolues aux universités en matière d'entrepreneuriat, de création de fliiales et de
+partenariats avec les entreprises ; et en promouvant, en parallèle, le développement de structures
+autonomes de type consortium public-privé, à l'image de MAScIR, en mesure de transformer les
+résultats de la recherche en solutions innovantes commercialisables.
+- Renforcer l'implicattiion des régions dans le développement de la recherche scienttiiffiique appliquée, au-
+delà de la seule mise à disposition d'infrastructures, en soutenant la création de structures régionales
+de transfert technologique chargées de valoriser les résultats de la recherche, d'accompagner la
+protection de la propriété intellectuelle, de soutenir l'incubation de startups issues de la recherche et
+de favoriser, en collaboration avec le secteur privé, la maturation des projets innovants.
+Introducttiion
+La capacité d'un pays à produire, valoriser et appliquer les savoirs scientifiques constitue un
+levier fondamental de souveraineté, de résilience et de compétitviité économique.
+L'importance stratégique de la recherche scientifique et de l'innovation dans le développement
+économique, social et durable ne fait plus débat, notamment dans un contexte mondial marqué
+par l'accélération des mutations technologiques, l'intensification de la compétitoin économique
+et l'émergence de défis globaux majeurs, qu'il s'agisse de transition écologique, énergétique ou
+numérique.
+A cet égard, plusieurs études et documents de référence3 élaborés par des institutoins
+nationales ont mis en évidence les enjeux liés à la recherche scientifique et à l'innovation dans
+la dynamique de développement de notre pays et ont souligné la nécessité de mettre en place
+un écosystème national de recherche performant, interconnecté avec le tissu économique et
+en phase avec les besoins de la société. La capacité de l'économie nationale à produire
+davantage de valeur ajoutée et de postes d'emploi de qualité repose sur « une montée en
+gamme de la production nationale, en s'appuyant sur la recherche et sur l'innovation grâce à
+des ponts entre le secteur industriel et le système de recherche scientifique »4.
+Le système de recherche scientifique national repose aujourd'hui sur un réseau
+d'établissements universitaires et établissements d'enseignement supérieur ne relevant pas des
+universités répartis sur l'ensemble du territoire et dotés de diverses structures de recherche5.
+Ce réseau, en pleine expansion, couvre un large éventail de disciplines, telles que l'agronomie,
+la sociologie, la géologie ou encore l'archéologie, qui ont pu produire, grâce à des compétences
+nationales, des résultats et découvertes scientifiques avancés. Par ailleurs, plusieurs
+programmes de recherche et développement, menés par des centres de recherche et des
+acteurs économiques, privés ou publics, se sont distingués dans des domaines stratégiques tels
+que les mines, l'énergie, le digital, l'agroalimentaire et la pharmaceutqiue.
+Malgré les avancées enregistrées dans le domaine de la recherche scientifique au Maroc, le
+couplage entre les activités de recherche et d'innovation et les secteurs économiques demeure
+peu développé. Les passerelles entre le monde académique et le tissu productif, notamment
+industriel, sont limitées et se heurtent à de multpiles obstacles d'ordre organisationnel,
+administratif et financier. Ces freins comprometetnt aussi bien l'émergence de l'entrepreneuriat
+au sein des établissements de recherche, en particulier publics, que l'implication du secteur
+privé dans les activités de recherche, y compris dans des domaines à fort potentiel innovant tels
+que les technologies de l'information, l'intelligence artificielle ou les sciences biomédicales.
+Conscient de ces enjeux, le Maroc a adopté, à travers la loi-cadre n° 51-17 relative au système
+d'éducatoin, de formatoin et de recherche scientifique, un cadre national intégré – à la fois
+institutoinnel et sectoriel – destiné à renforcer la coordination entre les diféfrents acteurs de la
+recherche scientifique, technique et de l'innovation. Cetet loi entend encourager également la
+3 CESE, focus rapport annuel au ttire de l'année 2014 « la recherche scientfiique et l'innovatoin comme moteur de développement socio-
+économique » ; Académie Hassan II des sciences et techniques « une politqiue scientfiique, technologique et d'innovatoin pour accompagner le
+développement du Maroc », 2019 ; CESE, « pour une politique d'innovatoin qui libère les énergies au service d'un nouveau modèle
+industriel », 2020 ; CSEFRS, « La recherche scientfiique et technologique au Maroc », 2021.
+4 CSMD, le nouveau modèle de développement. Rapport général, Rabat, P. 43, 2021.
+5 https://www.enssup.gov.ma/en/acteurs-de-la-recherche.
+mise en place de partenariats public-privé productifs, en particulier dans le domaine de la
+recherche appliquée.
+Dans cetet perspective, les stratégies et plans successifs, élaborés avant et après la
+promulgation de cetet loi-cadre6, ont introduit des mesures visant à lever les contraintes qui
+freinent le développement de la recherche et de l'innovation. L'objectif est d'en faire un levier
+central du progrès technologique, de la compétitivité économique et du développement global
+du pays.
+Sur saisine de la Chambre des Conseillers, le CESE a élaboré le présent avis en tant que
+contribution substantielle à la réflexion collective et institutionnelle, visant à promouvoir la
+recherche et l'innovation comme facteurs durables et essentiels de croissance et de
+développement pour notre pays. Dans cette phase, le Conseil propose des pistes d'action
+prioritaires susceptibles de favoriser une articulation efficace entre la recherche scientifique,
+technique et l'innovation, d'une part, et le tissu productif, d'autre part, dans le cadre d'un
+système national coordonné, fondé sur l'inclusivité, la complémentarité et les échanges entre
+la communauté scientifique et le tissu entrepreneurial.
+Le renforcement de cetet synergie entre la recherche et l'économie, appuyé par un
+investissement stratégique et soutenu dans le développement scientifique et technologique,
+constitue un levier déterminant pour permettre à notre pays de dépasser le piège des pays à
+revenu intermédiaire7 et partant de concrétiser l'essor économique ambitionné.
+I. La recherche, le développement et l'innovattoiin au Maroc : facteur déterminant
+pour le renforcement de la compéttttiiviiité, mais encore insufffifisamment mobilisé
+au service du développement
+La compétitviité d'un pays ne se mesure pas uniquement à sa capacité de production, mais
+également à sa faculté de se distinguer sur les marchés internationaux, tout en assurant
+l'amélioration du bien-être de sa population. Dans cetet perspective, la recherche scientifique
+et l'innovation constituent pour le Maroc deux piliers essentiels, tant pour relever les défis liés
+à la compétitviité que pour inscrire son économie dans une dynamique de montée en gamme.
+Le Nouveau modèle de développement (NMD) souligne d'ailleurs la nécessité d'ériger la
+recherche, le développement et l'innovation au rang des priorités de développement de notre
+pays8.
+Le Maroc, malgré les efofrts consentis, fait manifestement face aujourd'hui à un découplage
+entre la croissance économique et l'évolutoin de sa productivité. Selon la Banque mondiale,
+cetet dissociation représente un risque majeur de stagnation dans la catégorie des pays à
+revenu intermédiaire. Pour dépasser ce seuil, il devient impératif d'adopter une stratégie
+6 Les plans d'actoin sectoriels annuels et pluriannuels depuis 2006 / la Stratégie natoinale de recherche scientfiique à l'horizon 2025 / le Plan
+stratégique pour l'enseignement supérieur et la recherche scientfiique 2017-2030 / le Plan d'accélératoin de la transformatoin de l'écosystème
+de l'enseignement supérieur, de la recherche scientfiique et de l'innovatoin PACTE-ESRI 2023...
+7 La Banque mondiale répartti les économies du monde en quatre groupes : faible revenu, revenu intermédiaire de la tranche inférieure, revenu
+intermédiaire de la tranche supérieure et revenu élevé. Le Maroc est classé comme un pays à revenu intermédiaire inférieur. Le « piège du
+revenu intermédiaire » (Middle-Income Trap) survient lorsque des économies, après avoir atetint un niveau de revenu moyen grâce à des
+stratégies de croissance basées sur des investsisements et une main-d'œuvre moins chère et abondante, stagnent et peinent à progresser vers
+un statut de pays à revenu élevé. World Bank. 2024. World Development Report 2024: The Middle-Income Trap.
+8 CSMD, Le nouveau modèle de développement. Rapport général, 2021 (page 46).
+articulée autour de trois leviers : l'investissement, l'infusion des connaissances et l'innovation9.
+Cetet approche dite des « 3i », préconisée par la Banque mondiale, constitue une voie
+prometetuse pour renforcer la compétitviité du pays, soutenir sa montée en gamme et
+transformer durablement son économie. En s'appuyant sur la recherche et l'innovation, le
+Maroc peut ainsi ambitionner un développement plus soutenu, plus inclusif et plus résilient.
+Dans cetet optique, la mise en place d'une dynamique économique fondée sur le savoir,
+l'innovation et la compétitviité requiert l'établissement de liens solides et durables entre les
+milieux de la recherche et les acteurs économiques. Ce rapprochement est essentiel pour
+assurer la transformation des connaissances scientifiques et des résultats de la recherche en
+solutions concrètes et en innovations à fort potentiel de valorisation, qu'il s'agisse de produits,
+de services ou de procédés à haute valeur ajoutée.
+Pour y parvenir, les pouvoirs publics ont un rôle central à jouer. Il leur revient de créer un
+environnement propice à l'émergence de synergies entre les diféfrentes composantes du
+système national de recherche scientifique et d'innovation. Les politqiues publiques ne peuvent
+se limiter au seul soutein de la recherche académique : elles doivent également promouvoir et
+accompagner activement les partenariats avec le secteur privé10.  Cela implique sur la mise en
+place de mécanismes incitatifs, de dispositfis performants de transfert technologique, ainsi que
+de programmes facilitant les échanges entre chercheurs et entreprises.
+1. Un système natoinal de recherche scientfiqiue, de développement et
+d'innovatoin en cours de mise en place
+1.1 L'évolution des structures de recherche et des mécanismes de gouvernance et de
+coordinatoin
+Le Maroc a entrepris des efofrts importants pour développer son système de recherche
+scientifique11, à travers une diversité d'initaitives menées au fil du temps, bien que leur mise en
+œuvre ait parfois manqué de continuité. Les activités de recherche scientifique s'appuient sur
+une pluralité d'établissements et de structures universitaires (au nombre de 142) et non-
+universitaires publiques (au nombre de 33) et sur les instituts publics de recherche (au nombre
+de 19)12. Au-delà des universités publiques et des institutoins d'enseignement supérieur non-
+relevant des universités, le paysage universitaire marocain se distingue par la présence d'autres
+établissements13, comprenant les universités privées, les universités créées en partenariat
+public-privé (PPP) ainsi que l'Université Al Akhawayn et l'Université Al Quaraouiyine.
+9 World Bank. 2024. World Development Report 2024: The Middle-Income Trap.
+10 Audition de M. Armand Hatchuel, 11 juillet 2024.
+11 La recherche scientfiique désigne généralement les actviités de productoin de connaissances, de techniques, d'œuvres intellectuelles et de
+dispositfis économiques et sociaux qui sont soumises à des principes de rigueur méthodologique, d'intégrité, de publicatoin et de contrôle par
+les pairs. Elle s'exerce au sein d'insttiutoins diverses, qu'elles soient publiques ou privées. Selon les objectfis de la recherche, on distnigue entre
+recherche (curiosity based) et recherche (topic driven).
+12 https://www.enssup.gov.ma/en/acteurs-de-la-recherche
+13 Audition du CNRST, 20 février 2025.
+Au sein des universités publiques, le système de recherche se structure autour d'une diversité
+de niveaux et d'entités, telles que les équipes de recherche14, les laboratoires15, les centres
+d'études et de recherche16, ainsi que les réseaux interuniversitaires17 et les centres d'études
+doctorales (CEDOC)18. Ces dispositfis visent à optimiser la répartitoin des ressources, à organiser
+les activités scientifiques et à promouvoir la collaboration entre chercheurs.
+En dépit de cetet structuration en marche, l'impact global de la recherche scientifique reste
+encore bien en-deçà des atetntes. La valorisation des résultats, en particulier, demeure un
+maillon à consolider19. L'orientation des travaux de recherche reste largement centrée sur des
+objectifs académiques, avec une articulation encore limitée aux besoins concrets des secteurs
+économiques et productfis. Cetet situation limite le potentiel de la recherche à produire une
+valeur ajoutée substantielle au service du développement national.
+Sur le plan institutoinnel, la gouvernance de la recherche scientifique s'est progressivement
+organisée autour d'un ensemble de mécanismes. La Commission nationale de coordination de
+l'enseignement supérieur joue un rôle de promotion de la recherche scientifique20. Le Comité
+permanent interministériel de la recherche scientifique, de l'innovation et du développement
+technologique (CPIRSIDT) avait pour sa part, la mission de proposer les orientations stratégiques
+dans ces domaines21. Il a été remplacé, en vertu de la loi-cadre n° 51-17, par le Conseil national
+de la recherche scientifique. Ce dernier est chargé du suivi de la stratégie nationale de
+recherche, technique et d'innovation et de coordination entre les diféfrents acteurs publics et
+privés intervenant dans ce champ.
+1.2 Les potentailités du capital humain de la recherche scientfiique
+Les enseignants-chercheurs
+Le capital humain constitue un pilier fondamental du système de recherche scientifique au
+Maroc et plusieurs indicateurs témoignent des efofrts entrepris pour le renforcer. Le nombre
+d'enseignants-chercheurs dans les universités publiques, qui forment le noyau du système
+national de recherche scientifique, a ainsi connu une progression notable. Au titre de l'année
+14 Les équipes de recherche représentent l'unité de base dans la structuratoin des actviités scientfiiques au sein des universités. Composées
+d'au moins trois enseignants-chercheurs, ces équipes se concentrent sur des thématqiues précises, généralement en lien avec des priorités
+natoinales ou régionales. Elles travaillent sur des projets spécifiques, souvent en collaboratoin avec des doctorants.
+15 Les laboratoires de recherche regroupent au moins trois équipes de recherche et consttiuent une enttié plus large. Ces laboratoires disposent
+généralement d'équipements scientfiqiues spécialisés et servent de lieux de convergence pour les chercheurs, doctorants, et collaborateurs
+externes.
+16 Les centres d'études et de recherche regroupent plusieurs laboratoires et/ou équipes, et leur objectfi est de fédérer les efforts autour de
+thématqiues stratégiques. Ces centres sont souvent associés à des programmes de recherche d'envergure natoinale ou internatoinale et
+servent de plateformes pour la mise en œuvre de projets interdisciplinaires.
+17 Les réseaux interuniversitaires de recherche visent à favoriser la coopératoin entre plusieurs établissements d'enseignement supérieur. Ils
+permetetnt de mutualiser les ressources humaines et matérielles, d'harmoniser les efofrts de recherche, et de créer des synergies autour de
+thématqiues communes.
+18 Le Centre d'Études Doctorales (CEDoc) est l'enttié responsable de la gestoin administratvie des doctorants, ainsi que de l'organisatoin et de
+l'administratoin de leur formatoin au sein de l'université.
+19 CSEFRS, La recherche scientfiique et technologique au Maroc, 2021.
+20 Artcile 81 de la loi 01-00 portant organisatoin de l'enseignement supérieur et décret n° 2-01-2330 du 22 rabii 11423 (4 juin 2002) fixant la
+compositoin et le fonctoinnement de la commission natoinale de coordinatoin de l'enseignement supérieur ainsi que les modalités de
+désignatoin de ses membres.
+   2.15.87   10   1436 )31  2015(          21
+universitaire 2023-2024, le nombre d'enseignants-chercheurs s'élevait à 23 29322, contre
+14 202 s'agissant de 2014-2015, avec 71 % d'entre eux dans les universités publiques, 9% dans
+les établissements publics non universitaires et 20 % dans l'enseignement supérieur privé23.
+Schéma élaboré par le CESE sur la base des données communiquées par le ministère de
+l'Enseignement Supérieur, de la Recherche Scientfiqiue et de l'Innovation24
+Cetet dynamique se heurte à une double contrainte. D'une part, il existe une pression croissante
+pour répondre à l'exigence de massification25 de l'enseignement supérieur, afin d'élargir l'accès
+à l'éducation à un plus grand nombre d'étudiants. D'un autre côté et concrètement, il est
+impératif de développer une recherche scientifique de qualité, capable de soutenir l'innovation
+et de renforcer la compétitviité du pays. Dans ce contexte, les enseignants-chercheurs se
+retrouvent face à une double injonction : concilier entre responsabilités pédagogiques voire
+administratives et recherches de haut niveau, essentielles pour toute innovation scientifique et
+technologique. Au total, il est constaté que peu d'enseignants-chercheurs sont impliqués
+pleinement dans des activités de recherche scientifique26.
+En parallèle, le système de recherche est confronté au défi lié à la structure de la pyramide des
+âges des enseignants-chercheurs. Cetet tendance consttiue un facteur de fragilité pour la
+pérennité du système de recherche scientifique. Selon les données de 2023-2024, la pyramide
+des âges révèle que 34 % des enseignants-chercheurs ont plus de 55 ans27, ce qui souligne
+l'urgence d'adopter une politqiue de recrutement ciblée et soutenue pour renouveler cetet
+population et garantir ainsi la continuité et la croissance du système de recherche à long terme.
+22 Les enseignants-chercheurs sont répartsi sur les principales disciplines comme suit : 40% sciences et techniques, 19% sciences juridiques,
+économiques et sociales, 17% santé, 13% lettres et arts. Source : réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche
+Scientfiique et de l'Innovatoin, 17 décembre 2024.
+23 Réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche Scientfiique et de l'Innovatoin, 17 décembre 2024.
+24 Ibid.
+25 Le taux d'encadrement pédagogique est de 67 étudiants par enseignant dans le secteur public en 2023-2024, pour les établissements à accès
+ouvert ce taux atetint en moyenne 104 étudiants par enseignant : avec des facultés qui dépassent même 400 étudiants par enseignant, source :
+Evolution des Statsitqiues Universitaires, Directoin des Stratégies et des Systèmes d'Informatoin, ministère de l'Enseignement Supérieur, de la
+Recherche Scientfiique et de l'Innovatoin, P. 98 à P.112.
+26 « Il existe au sein de l'université marocaine une netet dissymétrie entre une minorité d'enseignants-chercheurs très productvie et une
+majorité qui produit occasionnellement voire pas du tout » source : CSEFRS, La recherche scientfiqiue et technologique au Maroc, 2021, P.54.
+27 Chifrfe calculé à partri des données reçues par le Ministère de l'enseignement supérieur, de la recherche scientfiique et de l'innovatoin, 17
+décembre 2024.
+Une autre faiblesse patente du système réside dans l'absence d'un statut distinct pour les
+chercheurs, qui ne sont pas enseignants. Il s'ensuit un manque de reconnaissance et un impact
+très limité des activités de recherche dans la progression de carrière des enseignants-
+chercheurs. De plus, les activités de recherche ne s'inscrivent pas parmi les missions obligatoires
+des enseignants, ce qui limite l'engagement des chercheurs dans ce domaine essentiel.
+les doctorants
+Les doctorants représentent une ressource stratégique pour le développement de la recherche
+scientifique au Maroc, et un vivier durable de compétences de la société scientifique nationale.
+Ces dernières années, le nombre de doctorants a connu une forte augmentation, passant de
+25.705 en 2014-2015 à 43.970 en 2023-202428.
+Malgré l'accroissement de la base des inscriptoins, le taux d'achèvement des thèses demeure
+relativement faible. Au titre de l'année universitaire 2022-2023, seules 4 391 thèses29 ont ainsi
+été soutenues. Cetet situation pourrait être notamment liée à l'absence d'un cadre
+règlementaire et contractuel clairement défini pour cetet catégorie spécifique, en plus des
+conditoins financières qui restreignent la capacité des doctorants à se consacrer pleinement à
+leurs projets de recherche.
+Il est permis de souligner, certaines évolutoins récentes. Afin d'inciter les doctorants, le
+département de tutelle a lancé un programme de bourses, attribuant 7 000 dirhams par mois
+dans des spécialités scientifiques et domaines prioritaires. En 2024, près de 1 000 doctorants
+moniteurs ont bénéficié de cetet mesure, qui a amélioré leur situation économique et leur a
+permis de mieux se focaliser sur leurs recherches. L'augmentation des inscriptions en cycle
+doctoral, notamment en provenance de l'enseignement supérieur privé, avec 1 142 nouveaux
+inscrits en 2023-202430 (contre aucun inscrit en 2018-2019), témoigne d'un intérêt croissant
+pour les formations doctorales et d'une plus grande diversité des profils dans le système
+doctoral.
+le personnel d'appui et d'accompagnement aux acttiivités de la recherche scienttiiffiique
+Cetet catégorie de personnel, comprenant des ingénieurs, techniciens et personnels
+administratif et financier31, est essentielle à la gestion et à la mise en œuvre des projets
+scientifiques notamment au niveau de la maintenance des infrastructures et de
+l'accompagnement logistique et le bon déroulement des recherches.
+Un manque patent de personnel dans ces domaines engendre une surcharge de travail pour les
+chercheurs, ralentissant ainsi l'avancement des projets et nuit, in fine à la performance globale
+du système de recherche au Maroc. De plus, le manque de personnel administratif et financier
+limite la capacité à répondre aux appels à projets financés, notamment internationaux, et
+entrave tout suivi rigoureux de la mise en œuvre desdits projets.
+28 Réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche Scientfiique et de l'Innovatoin, 17 décembre 2024.
+29 Ibid.
+30 Ibid.
+31 CSEFRS, La recherche scientfiique et technologique au Maroc, 2021.
+1.3 Une productoin scientfiique et d'innovatoin qui connait une amélioration
+significatvie
+La production scientifique marocaine indexée a manifestement connu une croissance
+quantitatvie significative. Le nombre de publications indexées dans Scopus est ainsi passé de 3
+966 en 2013 à 14 961 en 2023, soit une multpilication par 3,7732. De même, les publications
+référencées dans Web of Science ont presque triplé, passant de 3 148 en 2013 à 9 078 en
+202333. Malgré cetet dynamique encourageante, la progression de la production de la
+recherche scientifique au Maroc reste néanmoins bien inférieure à celle observée dans des pays
+émergents tels que la Malaisie ou le Brésil34.
+À l'inverse, le nombre moyen d'articles publiés par enseignant-chercheur de seulement 0,37
+article par an35 en 2017, met en évidence un déf imajeur en termes de rendement scientifique,
+en comparaison avec les standards internationaux36.
+2 Des défi persistants entravent le passage de la recherche au développement
+2.1 Le cadre juridique de la recherche et de l'innovation : une mise en œuvre
+inachevée
+Le développement d'un environnement favorable à la recherche et à l'innovation au Maroc doit
+nécessairement s'appuyer sur l'instauratoin d'un cadre juridique clair, cohérent et
+rigoureusement appliqué. Dans ce contexte, la loi n° 01.00 relative à l'organisation de
+l'enseignement supérieur a constitué une étape majeure. Elle a renforcé le rôle de la recherche
+scientifique en la positionnant comme une mission fondamentale et structurante de
+l'enseignement supérieur, au même titre que la formation37. Plusieurs articles de cetet loi
+consacrent cetet place centrale, notamment en définissant les missions des établissements
+(articles 5 et 6), en régissant la création et le fonctionnement des structures de recherche
+(articles 21 à 24) ainsi que les établissements d'enseignement supérieur non-affiliés aux
+universités (article 25).
+Toutefois, plusieurs de ces dispositions juridiques, déterminantes pour le système de recherche
+scientifique, demeurent encore inappliquées. C'est notamment le cas de l'article 7, qui habilite
+les universités à « prendre des participations dans des entreprises publiques et privées » et à «
+créer des sociétés filiales visant la productoin, la valorisation et la commercialisation de biens
+ou services dans les domaines économique, scientifique, technologique et culturel ». L'absence
+de mesures procédurales précises pour en assurer l'opérationnalisation limite, à ce jour,
+l'efefctivité de cetet dispositoin.
+Par ailleurs, bien que des initaitives ponctuelles aient été lancées au fil des années — à travers
+notamment des programmes compétitfis de financement de projets tels que les appels à
+32 Audition du CNRST, 20 février 2025.
+33 Ibid.
+34 Entre 1998 et 2017 : la productoin scientfiique marocaine a enregistré une augmentatoin de 412% à comparer à la Malaisie (+2518%) ou
+au Brésil (526%) pour la même période : source CSEFRS, La recherche scientfiique et technologique au Maroc, 2021.
+37 CSEFRS, La recherche scientfiique et technologique au Maroc. Analyse évaluatvie, 2022. i
+33 Ibid. i
+33 Ibid.
+projets38, ainsi que des programmes thématiques ciblés (sécurité routèire, plantes médicinales
+et aromatiques, phosphates) — et malgré la publication de certains arrêtés ministériels
+consacrant la reconnaissance des structures de recherche39, ces mesures et initaitives restent
+limitées et peu impactantes.
+C'est dans cetet optique que la refonte de la loi 01-00 en cours de préparation par le ministère
+de l'enseignement supérieur, de la recherche scientifique et de l'innovation40, ambitionne
+compléter et consolider le cadre juridique régissant l'enseignement supérieur et la recherche
+scientifique au Maroc conformément à la loi-cadre n° 51.17.
+2.2 Processus de transformation en cours, en quête d'une vision commune et
+fédératrice
+Face aux défis que rencontre le système de recherche scientifique au Maroc, le ministère de
+l'enseignement supérieur, de la recherche scientifique et de l'innovation, a lancé, en 2022, le
+Plan national d'accélération de la transformation de l'écosystème de l'enseignement supérieur,
+de la Recherche Scientifique et de l'Innovation, baptisé « Pacte ESRI 2030 ». Ce plan vise à
+transformer l'écosystème universitaire marocain pour en faire un levier stratégique au service
+du développement national, en cohérence avec les priorités définies par le NMD.
+Le Pacte ESRI 2030 prévoit ainsi un ensemble de projets stratégiques destinés à renforcer la
+recherche scientifique et l'innovation. Parmi les principales mesures envisagées :
+•
+la mise en place d'un cycle doctoral et postdoctoral conforme aux standards
+internationaux ;
+•
+l'adoption de référentiels actualisés pour l'accréditation et la labellisation des
+laboratoires, et l'harmonisation des activités de recherche à travers une nomenclature
+nationale, couplée à une rationalisation des mécanismes de financement;
+•
+la création d'instituts de recherche d'excellence axés sur les priorités nationales ;
+•
+le déploiement de programmes de valorisation visant à favoriser le transfert des
+résultats de recherche vers le secteur productfi, notamment par la mise en place
+d'unités mixtes de recherche, de développement et d'innovation associant universités
+et entreprises.
+En matèire de gouvernance institutoinnelle, le plan entend consolider l'autonomie des
+universités, optimiser la gestion de leurs ressources et instaurer une gouvernance plus
+performante, responsable et transparente. Sur le plan financier, il prévoit la redynamisation du
+Fonds national pour la science, la recherche scientifique, le développement technologique et
+l'innovation (FNSRSDT), à travers un élargissement de sa base de financement.
+38 PARS et PROTARS (I, II et III)
+39 Arrêté du ministre délégué auprès du ministre de l'enseignement supérieur, de la formatoin des cadres et de la recherche scientfiique,
+chargé de la recherche scientfiique n° 1756.03 du 25 rejeb 1424 (22 septembre 2003) fixant les modalités d'électoin des représentants élus
+du conseil d'administratoin du centre natoinal pour la recherche scientfiqiue et technique ; Arrêté du ministre de l'éducatoin natoinale, de
+l'enseignement supérieur, de la formatoin des cadres et de la recherche scientfiique n° 1371-07 du 22 Ramadane 1429 (23 septembre 2008)
+approuvant le cahier des normes pédagogiques natoinales du cycle de Doctorat.
+              63.21        40
+La dimension territoriale constitue également un axe fort du Pacte, avec la généralisation des
+Cités d'innovation pour encourager l'émergence de vallées régionales d'innovation, et la
+création d'un fonds national de soutein à l'innovation assorti de déclinaisons régionales.
+Le Pacte ESRI 2030 préconise, en outre de structurer ces mesures à travers l'élaboration de deux
+stratégies nationales en matière de :
+•
+recherche scientifique et le développement technologique, avec des déclinaisons
+régionales adaptées ;
+•
+innovation, en coordination étroite avec les autres départements ministériels
+concernés.
+Toutefois, il a été permis de noter que l'approche sous-tendant le Pacte ESRI 2030 semble ne
+pas converger avec les prérogatives de la loi-cadre n° 51-17 qui préconise l'élaboration d'une
+stratégie unifiée intégrant de manière cohérente la recherche scientifique, le développement
+technologique et l'innovation (article 16). De surcroît, la multpilication des initaitives
+stratégiques menées en parallèle — telles que « Maroc Innovation», « Maroc Numeric 2013,
+puis Maroc Digital 2020 et 2030 » ou encore les diféfrents programmes portés par le CNRST —
+s'opère sans articulation claire, ni mécanisme de convergence dédié, ce qui est de nature à
+fragmenter l'action publique et à obérer l'efficacité globale du système.
+2.3
+Un manque de coordinatoin et de convergence entre les acteurs de la recherche
+et de l'innovatoin
+Le ministère de l'enseignement supérieur, de la recherche scientifique et de l'innovation
+(MESRI) assure la planifciation, le pilotage et la supervision des stratégies nationales en matière
+de recherche, tout en encadrant les universités et leurs activités scientifiques. Pour leur part,
+d'autres départements ministériels conduisent des actions de recherche dans des domaines
+sectoriels spécifiques, en s'appuyant sur des établissements dédiés ou associant recherche et
+enseignement supérieur41.
+La coordination et la complémentarité entre les diféfrents acteurs42 (qu'il s'agisse du ministère
+de l'enseignement supérieur, de la recherche scientifique et de l'innovation, des autres
+départements gouvernementaux, des opérateurs privés ou des porteurs de projets innovants)
+demeurent très limitées.
+À noter que certains instituts thématiques, à l'instar de l'Institut de recherche en énergie solaire
+et énergies nouvelles (IRESEN), font face à des difficultés liées à la pérennité de leur ressources
+financières43, restreignant de ce fait leur capacité à s'adapter rapidement aux évolutoins du
+secteur. D'autres, tels que l'Institut National de la Recherche Agronomique (INRA) 44, souffrent
+41 L'Insttiut natoinal de la recherche agronomique (INRA) et , l'Insttiut natoinal de recherche halieutique (INRH) pour l'agriculture et la pêche,
+l'Ecole Hassania des Travaux publics (EHTP) pour le génie civil, l'Insttiut Pasteur pour la santé, ou encore l'Insttiut supérieur de commerce et
+d'administratoin des entreprises (ISCAE) pour le commerce et l'industrie, etc.
+ :          2017-422030
+https://www.enssup.gov.ma/storage/Plan%20strat%C3%A9gique%20du%20D%C3%A9partement%20de%20l'Enseignement%20Sup%C3%A9ri
+eur%20et%20de%20la%20Recherche%20Scientfiique%202017-2030.pdf
+43 L'IRESEN est fniancé essenteillement via le Fonds de Développement Énergétqiue (FDE), qui est un Compte d'Afefctatoin Spéciale, qui fait
+face à des enjeux de pérennisatoin : source auditoin de l'IRESEN, 05 décembre 2024. Les recetets du Fonds de développement énergétqiue
+(FDE), sont consttiuées essenteillement des soldes reportés des années précédentes, s'élèvent à 826,26 MDH en 2023 contre 1.216,33 MDH
+en 2021 : source Projet de Loi de Finances pour l'année budgétaire 2025- Rapport Sur Les Comptes Spéciaux Du Trésor.
+44 l'INRA, que nous avons auditoinné, fait face à un manque d'agilité administratvie du fait du contrôle fniancier a priori ainsi qu'à une baisse
+importante de son personnel (passant de 1791 à 582 en 19 ans)
+d'un manque patent de ressources humaines qualifiées, limitant ainsi leurs impacts escomptés
+dans des domaines aussi stratégiques que l'agriculture et les sciences de la terre.
+Dans ce paysage morcelé, et en vertu de la loi cadre n° 51-17, le Conseil national de la recherche
+scientifique a été institué, pour jouer un rôle structurant en matière de coordination entre les
+parties prenantes publiques et privées. Son rôle est de coordonner les efofrts de recherche et
+d'innovation en impliquant les principaux acteurs institutoinnels45, les régions et la CGEM. Une
+commission technique permanente est également créée en son sein, présidée par l'autorité
+gouvernementale chargée de l'enseignement supérieur et de la recherche scientifique46.
+Toutefois, les prérogatives qui lui sont conférées paraissent bien limitées. Aussi, le Conseil n'est
+ni mandaté pour identifier les priorités nationales de recherche, ni pour proposer des
+orientations stratégiques ou assurer la coordination efefctive des politqiues mises en œuvre.
+Cetet restriction afafiblit son rôle et impact dans la construction d'une gouvernance stratégique
+cohérente et ambitieuse. Par ailleurs, depuis la création en 2021, il est à signaler qu'une seule
+réunion a été tenue47.
+2.4 Un manque de couplage entre les chercheurs et les acteurs économiques
+Le couplage entre universités et entreprises est organisé selon les niveaux de maturité
+technologique (TRL)48. Les universités interviennent principalement aux premiers stades,
+caractérisés par une maturité technologique faible, où l'accent est mis sur l'exploration des
+connaissances fondamentales49 et l'élaboration de preuves de concept. Les entreprises
+prennent ensuite le relais dans les phases avancées, correspondant à des TRL élevés, qui
+englobent le prototypage, l'industrialisation et la commercialisation. Il est à noter que de
+nombreux projets rencontrent des difficultés dans la zone critqiue des TRL intermédiaires, où
+les innovations peinent à se concrétiser en raison d'un manque de financement ou d'un
+accompagnement insuffisant. C'est précisément à ce niveau que l'intervention publique s'avère
+cruciale : en soutenant cetet phase charnière par le biais de centres de recherche sectoriels, de
+programmes de doctorats en entreprise ou de structures d'incubation, elle permet de sécuriser
+la transition de la séquence recherche vers la séquence marché.
+Dans ce contexte, un ensemble d'initaitives ont vu le jour pour renforcer le lien entre recherche
+et innovation. Lancé dans le cadre de la stratégie « Maroc Innovation », le programme national
+45 Il s'agit des département chargés des Droits de l'Homme ; de l'Intérieur ; des Afafires étrangères, de la Coopératoin africaine et des Marocains
+résidant à l'étranger ; de la Justcie ; des Habous et des Afafires islamiques ; de l'Économie, des Finances et de la Réforme de l'administratoin ;
+de l'Agriculture, de la Pêche maritmie, du Développement rural, des Eaux et Forêts ; de l'Éducatoin natoinale, de la Formatoin professionnelle ;
+de l'Enseignement supérieur, de la Recherche scientfiique et de l'Innovatoin ; de la Santé ; de l'Industrie et du Commerce, de l'Économie verte
+et numérique ; de l'Équipement, du Transport, de la Logistqiue et de l'Eau ; de l'Aménagement du territoire natoinal, de l'Urbanisme, de
+l'Habitat et de la Politqiue de la ville ; du Tourisme, de l'Artsianat, du Transport aérien et de l'Économie sociale et solidaire ; de l'Énergie, des
+Mines et de l'Environnement ; de l'Emploi et de l'Insertoin professionnelle ; de la Culture, de la Jeunesse et du Sport ; de l'Administratoin de la
+Défense natoinale, Le Haut Commissariat au Plan, Le Haut Commissariat aux Eaux et Forêts et à la Lutet contre la Désertficiatoin, Associatoin
+des Régions du Maroc.
+46 Les membres de la commission technique incluent : trois présidents d'université (dont un lié à l'État par conventoin et le président de
+l'Université Al Quaraouiyine), représentants de centres de recherche et d'acteurs dans les diféfrents secteurs (INRA, INRH, CNRST, ANEAQ, ADD,
+CNESTEN, IRESEN,..), Groupe OCP, la Fondatoin MAScIR et l'Associatoin marocaine pour la recherche et le développement et quatre experts
+marocains reconnus pour leur expertsie scientfiique et leur contribution à la recherche et à l'innovatoin.
+47 décret n° 2.20.468 du 20 juillet 2021, BO n° 7011.
+48 Les TRL (Technology Readiness Levels) sont une échelle utilisée pour évaluer le degré de maturité d'une technologie, allant de la recherche
+fondamentale (TRL 1) à la validatoin complète (TRL 9) : source https://www.cea.fr/multimedia/documents/infographies/defsi-du-cea-
+infographie-echelle-trl.pdf
+49 La distnictoin classique entre recherche fondamentale (exploratoin théorique sans applicatoin directe) et recherche appliquée (résolutoin de
+problèmes concrets) reste utlie, mais leurs frontèires sont poreuses. Source : Quentni Plantec, Pascal Le Masson, Benoit Weil, « Science et
+industrie : à l'aune du double impact »,Presses des Mines Paris 2024.
+des Cités de l'Innovation50 vise à créer des plateformes technologiques intégrées autour des
+universités. Piloté conjointement par le ministère de l'industrie et du commerce, le ministère
+en charge de la Recherche scientifique et la CGEM, ce programme met en connexion des centres
+de R&D, des incubateurs, des entreprises innovantes et des structures de valorisation de la
+recherche. Six cités ont été créées à Marrakech, Fès, Rabat, Setatt, Souss-Massa et Oujda51,
+pour un budget global de 262 millions de dirhams. Comme illustration, la Cité de l'innovatoin
+d'Agadir abrite à ce jour une dizaine de startups52. Il demeure, des acteurs auditoinnés
+soulignent que l'impact de ces cités reste limité, principalement en raison de l'absence d'un
+cadre normatif clair, à même d'assurer leur gouvernance, leur fonctionnement et leur
+intégration harmonieuse dans les écosystèmes régionaux.
+En outre, l'appel à projets « Tech Transfert », lancé en 2021 avec un financement de 60 millions
+de dirhams, visait à encourager le transfert des résultats de la recherche vers le secteur
+productif. Bien que 11 projets aient été soutenus53, cetet dynamique n'a pas été reconduite
+même si elle représente un levier prometetur pour renforcer les synergies entre universités et
+entreprises.
+Cetet insuffisance notoire constatée en matière de collaboration scientifique se reflète
+également dans les données disponibles : en 2023, seules 6,84 % des publications scientifiques
+marocaines indexées dans Scopus mentionnaient l'implication explicite d'entreprises. Par
+ailleurs, seuls 75 projets ont été réalisés par les universités en partenariat avec des
+entreprises54  la même année. La participation des entreprises marocaines aux projets du
+programme européen « Horizon Europe » reste quant à elle modeste, à hauteur de 5,5 %, bien
+en-deçà de la moyenne des pays partenaires (11,7 %)55.
+Quant à la valorisation des brevets émanant des universités, si leur nombre a netetment
+progressé — passant de 38 en 2011 à 156 en 202356, représentant près de 58 % des brevets
+d'origine marocaine — leur exploitation efefctive en partenariat avec les entreprises demeure
+encore largement insuffisante57.
+Au-delà de cetet dimension technologique, l'investissement dans la recherche et le savoir ne
+doit pas se limiter aux domaines scientifiques générant naturellement des inventions et
+technologies industrialisables et commercialisables. Il convient également d'intégrer les
+avancées et méthodologies issues des sciences humaines et sociales (SHS) 58. Ces disciplines
+ofrfent des outlis précieux pour comprendre les comportements humains, décrypter les
+dynamiques sociales et affiner les processus décisionnels. Elles jouent un rôle-clé, par exemple,
+dans l'analyse des parcours et des comportements des clients59, apportant un éclairage
+50 L'objectfi d'une cité d'innovatoin est d'ofrfir une infrastructure d'accueil et un cadre technologique favorable par les universités pour les
+projets de R&D et les jeunes porteurs de projets innovants.
+51 Réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche Scientfiique et de l'Innovatoin, 17 décembre 2024.
+52 https://www.mcinet.gov.ma/fr/actualites/sm-le-roi-inaugure-la-cite-de-linnovatoin-souss-massa-une-concretsiatoin-de-la
+53 Audition du CNRST, 20 février 2025.
+54 Ibid.
+55 Ibid.
+56 Ibid.
+57 En 2021, l'Université Ibn Tofail a franchi une étape importante en cédant un brevet à une société privée, : une première à l'échelle natoinale,
+source : https://www.maroc.ma/fr/actualites/luniversite-ibn-tofail-cede-un-brevet-dinventoin-une-societe-privee-une-premiere-au-maroc
+58 « Politiques publiques et recherche en sciences humaines et sociale » https://calenda.org/912755
+59 Audition de M. Berrada Sounni Amine, membre du CESE et Directeur Général d'Aiguebelle, 31 octobre 2024.
+stratégique aux entreprises. Des méthodologies comme le design thinking ou l'agilité sont
+désormais largement mobilisées pour concevoir des produits et services innovants, en intégrant
+les besoins et atetntes des utilisateurs finaux dès les premières étapes de conception.
+2.5 Un financement national de la recherche limité et principalement axé sur la
+dépense publique
+Les données disponibles ne permettent pas encore d'avoir une estimation précise et complète
+de la dépense intérieure brute en recherche et développement (DIRD). Le chifrfe fréquemment
+avancé, soit 0,75 % du PIB consacré à la recherche scientifique, repose principalement sur des
+estimations approximatives, sans qu'une enquête rigoureuse ne vienne en confirmer la
+fiabilité60. Cetet estimation est notamment issue des travaux de l'Académie Hassan II des
+sciences et techniques, qui pour l'année 201661 évaluait la DIRD à 7,9 milliards de dirhams.
+Cetet estmiation de dépense demeure netetment inférieure aux objectifs énoncés dans la vision
+stratégique 2015-2030, qui fixe pour objectif d'atetindre un taux de 1,5 % du PIB en 2025, puis
+2 % en 2030. En 2019, le CESE recommandait pour sa part, de viser une dépense annuelle en
+recherche et développement, publique et privée, équivalente à 3 % du PIB à horizon dix ans,
+avec un palier intermédiaire à 1,5 % après cinq ans62. À titre de comparaison, la DIRD mondiale
+s'élevait à 2,68 %63 du PIB en 2022, tandis que celle de l'Union européenne avoisinait 2,24 %64.
+L'État demeure le principal acteur du financement de la recherche. Les crédits alloués au
+programme de recherche scientifique et d'innovatoin (hors masse salariale) par le département
+en charge de la recherche scientifique ont connu une progression signifciative, passant de 197
+millions de dirhams en 2021 à 513 millions en 202465. Le Fonds national pour la recherche
+scientifique et le développement technologique (FNRSDT), essentiellement alimenté par la
+contributoin des opérateurs de télécommunications66, joue un rôle-clé dans le financement des
+projets de recherche. Ce fonds enregistre une tendance baissière du total de ses recetets : 484
+millions de dirhams en 2023 contre 611 en 202067.  L'impact de ce fonds pourrait être renforcé
+en élargissant son assietet de financement à d'autres secteurs afin de mieux répondre aux
+besoins massifs et diversifiés de la recherche.
+60 Audition de l'Associatoin R&D Maroc, 12 décembre 2024.
+61 Académie Hassan II des sciences et techniques, Une politqiue scientfiique, technologique et d'innovatoin pour accompagner le développement
+du Maroc, 2019 (page 28).
+62 Le Nouveau Modèle de Développement du Maroc, contributoin du Conseil économique, Social et Environnemental, 2019, P.85.
+63 https://donnees.banquemondiale.org/indicateur/GB.XPD.RSDV.GD.ZS
+64 https://donnees.banquemondiale.org/indicateur/GB.XPD.RSDV.GD.ZS?locatoins=EU
+65 Réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche Scientfiique et de l'Innovatoin, 17 décembre 2024.
+66 Il est à souligné que selon les termes de l'artcile 10 de la loi 24.94 relatvie à la poste et aux télécommunicatoins, la contribution des exploitants
+de réseaux publics de télécommunicatoins est destniée à financer la recherche en matèire de télécommunicatoins.
+67 Réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche Scientfiique et de l'Innovatoin, 17 décembre 2024.
+68 Avis du CESE « Pour une politqiue d'innovatoin qui libère les énergies au service d'un nouveau modèle industriel », 2020.
+Par ailleurs, la coopération internationale représente une source de financement significative.
+Les programmes européens ont ainsi permis de mobiliser environ 235 millions de dirhams pour
+des projets spécifiques72. La complexité des procédures d'accès et d'utilisation de ces
+financements constitue toutefois un obstacle majeur. Environ 45 % des projets renoncent à
+recevoir et à gérer la part de financement qui leur était allouée73, entraînant ainsi un manque
+à gagner estimé à 6,8 millions d'euros74.
+La contributoin du secteur privé reste quant à elle bien limitée. En 2016, l'Académie Hassan II
+des sciences et techniques estimait que le secteur privé ne représentait qu'environ 30 % de la
+DIRD75.
+2.6 Une complexité des procédures administratives et financières pour la réalisation
+des projets de recherche scientfiique
+L'université, eu égard à sa vocation académique et scientifique, nécessite des mécanismes
+adaptés pour garantir l'efficacité de ses missions. Cependant, les acteurs auditoinnés estiment
+que les procédures en vigueur impacteraient la dynamique et la qualité de la recherche et de
+l'innovation.
+Il s'agit en particulier, du contrôle financier a priori auquel sont soumis les établissements de
+recherche qui ralentirait le rythme d'exécution des projets scientifiques. En témoigne
+notamment, l'exécution budgétaire globale des universités publiques qui demeure à des
+niveaux très faibles, avec des taux d'engagement ne dépassant pas 30 %, en particulier pour les
+69 Programme De Développement Régional de La Région Rabat-Salé-Kénitra 2022-2027, octobre 2023.
+70 Programme De Développement Régional 2022-2027 de La Région Casablanca-Setatt, Visé Par l'autorité Gouvernementale Chargée De
+L'intérieur, Juillet 2023.
+71 Synthèse du PDR 2022-2027, région Marrakech-Safi, 2024
+72 Réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche Scientfiique et de l'Innovatoin, 17 décembre 2024.
+73 A ttire de comparaison : seuls 11,34 % des projets de partenariats européens en Tunisie (7,89 % en Turquie) renoncent à recevoir et à gérer
+la part de fniancement qui leur était allouée : Réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche Scientfiique et de
+l'Innovatoin, 17 décembre 2024.
+74 Ibid.
+75 Académie Hassan II des sciences et techniques, Une politqiue scientfiique, technologique et d'innovatoin pour accompagner le développement
+du Maroc, 2019, P.28.
+investissements liés aux équipements scientifiques76. D'autres exemples ont été évoqués lors
+des auditoins pour corroborer ce constat, notamment le retard de plusieurs années dans la
+création du Centre national de ressources génétiques relevant de l'INRA, malgré l'importance
+scientifique et stratégique avérée de cetet structure77.
+De plus, les universités sont contraintes par un corpus de règles et de procédures d'organisation
+qui limitent la flexibilité nécessaire à une gestion efficace des ressources. Cetet rigidité se traduit
+notamment par des dispositfis inadaptés, comme le plafonnement des rémunérations des
+chercheurs, doctorants et post-doctorants impliqués dans des projets financés par les
+ressources propres des établissements78. Il est permis de signaler, dans le même sens,
+l'inadéquation des grilles indemnitaires réservées aux techniciens, maillon essentiel dans le
+dispositfi de la recherche.
+2.7 Des évaluations non-systématsiées qui ne prennent pas en compte valablement
+l'impact socio-économique de la recherche
+Des évaluations non-systématisées qui ne prennent pas en compte valablement l'impact socio-
+économique de la recherche La loi 01-00 relative à l'organisation de l'enseignement supérieur
+prévoit des dispositfis d'évaluation à la fois internes et externes. Elle instaure notamment un
+système d'auto-évaluation auquel sont soumis les établissements publics et privés
+d'enseignement supérieur (article 78). Si la pratique de l'évaluation dans les universités a connu
+certains progrès, notamment grâce aux partenariats internationaux et aux processus
+d'accréditation ou de ré-accréditation de leurs structures de recherche, cetet évaluation
+demeure cantonnée aux projets de recherche stricto sensu sans pour autant appréhender la
+performance de l'institution dans son ensemble79.
+L'évaluation de la recherche scientifique, a été consacrée par les dispositoins des articles 53 à
+56 de la loi-cadre 51-17. L'objectif est de proposer les mesures nécessaires à l'amélioration en
+continu de la performance dans le sens d'atetindre efficacement les cibles de résultat
+escomptées. Le législateur a confié à l'autorité gouvernementale en charge de la recherche
+scientifique la responsabilité de l'évaluation interne, tandis que le Conseil Supérieur de
+l'Éducation, de la Formation et de la Recherche Scientifique est chargé de l'évaluation externe
+(article 54).
+Dans ce contexte, la recherche scientifique au Maroc fait l'objet d'évaluatoins ponctuelles, ce
+qui s'écarte des principes énoncés dans la loi-cadre qui recommandent une méthodologie
+d'évaluation périodique et régulière couvrant toutes les composantes et tous les niveaux du
+système (article 4). Cetet situation contraste également avec la pratique internationale, où
+l'évaluation des institutions de recherche s'efefctue de manière systématique et régulière,
+souvent tous les cinq ans80. Ce caractère manifestement ponctuel ne permet pas d'instaurer un
+véritable processus d'amélioration continue, ni de suivre durablement l'évolutoin des
+performances des établissements.
+76 Audition du Ministère d'économie et des Finances, 14 novembre 2024.
+77 Audition de l'INRA, 12 décembre 2024.
+78 Décision conjointe N°5 du 14 janvier 2016, entre le département ministériel chargé de la recherche scientfiique et le département ministériel
+chargé des fniances, relatvie à la gestoin des ressources propres des établissements publics d'enseignement supérieur et de recherche
+scientfiique et technique.
+79 CSEFRS, La recherche scientfiique et technologique au Maroc, 2021.
+80 Par exemple, le cycle d'évaluatoin du Haut Conseil de l'Évaluatoin de la Recherche et de l'Enseignement Supérieur français (Hcéres) est
+quinquennal, source : https://www.hceres.fr/fr/les-campagnes-devaluatoin
+De plus, l'évaluatoin des projets de recherche prend encore trop peu en compte leur impact
+socio-économique, ce qui limite la valorisation réelle des résultats au-delà d'un cadre purement
+académique. Cetet situation reflète un manque d'implication des acteurs privés dans
+l'évaluation et la valorisation des résultats de la recherche, ce qui restreint les opportunités
+d'ouverture sur le tissu entrepreneurial, et par conséquent, le potentiel de transfert
+technologique et d'innovation.
+II.
+Les entreprises en tant que moteur et catalyseur de la recherche, du
+développement et de l'innovattoiin : un engagement inégal et des expériences
+contrastées
+Le tissu entrepreneurial occupe une place centrale dans le renforcement de la compétitviité
+économique nationale. La montée en gamme au sein des chaînes de valeur ne saurait reposer
+uniquement sur l'amélioration des ressources humaines et matérielles des entreprises, mais
+aussi sur leur capacité à intégrer et valoriser les connaissances (techniques, sociales ou
+managériales) au sein des organisations et de la société dans son ensemble.
+Ainsi, les entreprises sont appelées à s'engager aux côtés des acteurs publics pour dynamiser
+l'investissement en innovation, soutenir les initaitives innovantes, et accompagner, tant
+financièrement que techniquement, les porteurs de projets notamment, dans les technologies
+et les secteurs d'avenir. Cet accompagnement vise à transformer les résultats de la recherche
+en richesse et en valeur ajoutée. Selon l'OCDE, une augmentation de 1 % des investissements
+en R&D par les entreprises pourrait générer une hausse de 0,13 % en termes de productivité81.
+L'impact réel de la recherche et développement dépend également de la capacité à établir des
+passerelles efficaces entre la production de connaissances et les besoins économiques concrets.
+Des études récentes montrent que les bons couplages entre université et industrie, permettent
+à la fois de créer de la valeur économique et d'obtenir des résultats scientifiques d'excellent
+niveau académique82. Ce qui permettrait de créer un « cercle vertueux » entre les diféfrents
+acteurs : une recherche scientifique orientée vers des objectifs concrets, une innovation
+générant une forte valeur industrielle et commerciale, une économie compétitvie, et un impact
+tangible sur le développement socio-économique.
+Pour que le tissu entrepreneurial puisse pleinement s'investir dans cetet dynamique
+d'innovation aux côtés des acteurs publics et de la communauté scientifique, il est
+indispensable de créer un environnement favorable à la créativité, à l'expérimentation et à la
+prise de risque. Cela suppose également l'instauration d'un cadre incitatif qui valorise les
+résultats de la recherche et de l'innovation, soutient les startups et accompagne les risques
+inhérents à l'investissement innovant.
+81 Guellec, D. and B. van Potetlsberghe de la Potetrie (2001), “R&D and Productviity Growth: Panel Data Analysis of 16 OECD Countries”, OECD
+Science, Technology and Industry Working Papers, P.4.
+82 Quentni Plantec, Pascal Le Masson, Benoit Weil, « Science et industrie : à l'aune du double impact », Presses des Mines Paris 2024, P.179.
+1 L'innovatoin marocaine : des success stories dans des secteurs stratégiques
+Plusieurs success stories dans le domaine de la recherche, développement et innovation
+incarnent le lien productif entre l'université et l'entreprise ainsi que la synergie entre chercheurs
+et acteurs économiques dans les secteurs public et privé. Ces initaitives concernent des secteurs
+bénéficiant d'une importance stratégique parmi les priorités nationales :
+-
+le secteur pharmaceuttqiiue : le laboratoire MAScIR a établi des partenariats avec des
+entreprises pharmaceutiques telles que SOTHEMA et LAPROPHAN, pour développer des
+solutions innovantes telles que des kits de diagnostic pour le suivi de la leucémie83, des
+nano anticorps issus de camélidés84 pour des applications médicales et cosmétiques.
+MAScIR a également travaillé via sa filiale Moldiag sur la production à large échelle du
+kit de diagnostic Covid-1985 ainsi que sur des tests diagnostiques pour des maladies
+cancéreuses86 et infectieuses87. Parmi les autres réalisations marquantes d'autres
+acteurs, l'antibiotqiue OLIPEN88, conçu pour lutetr contre la résistance aux antbiiotqiues,
+et le médicament générique de Sofosbuvir (SSB 400), proposé à un prix abordable89 pour
+le traitement de l'hépatite C par la société PHARMA 5, témoignent de la capacité
+d'innovation dans ce secteur. Un médicament antiépileptique à base de cannabidiol
+(CBD) complète cetet paletet de réalisations.
+-
+les disposittfiis médicaux : plusieurs équipes de recherche marocaines, notamment celles
+de l'UM6P90, IRESEN91 et l'UM6SS en collaboration avec COSUMAR92, ont développé des
+prototypes de respirateurs.
+-
+Le secteur minier : l'OCP, via son centre de recherche CERPHOS (désormais intégré à
+l'UM6P), a mis au point un procédé de lavage-flotattion qui permet de rendre
+économiquement exploitables 33 % des phosphates marocains jusque-là jugés non-
+viables93. De son côté, MANAGEM94, grâce à son département R&D, valorise les rejets
+miniers de soufre et de fer en acide sulfurique et oxyde de fer, transformant ainsi des
+déchets en produits commercialisables. L'entreprise a également breveté une batetrie
+innovante de type lithium-ion, marquant une avancée importante dans la recherche sur
+les technologies de stockage de l'énergie.
+-
+le secteur digital : Des entreprises marocaines innovent également dans le domaine de
+la technologie, avec des acteurs comme HPS95 et S2M96, qui se distinguent dans le
+domaine de la monétique, et Dataprotect97, qui se spécialise dans la cybersécurité. ABA
+83 https://www.sothema.com/recherche-et-developpement/
+84 https://www.mascir.com/laprophan-et-la-fondatoin-mascir-signent-une-joint-venture-pour-le-developpement-de-solutions-dans-la-
+technologie-biomedicale/
+85 https://www.mascir.com/mascir-lance-la-productoin-a-grande-echelle-du-test-pcr-covid-19-100-marocain/
+86 https://www.moldiag.ma/moldiag-lance-le-premier-test-de-diagnostci-moleculaire-du-cancer-du-sein-100-marocain-developpe-par-
+mascir/
+87 https://um6p.ma/fr/premier-kit-mpox-100-marocain-distribue-dans-plusieurs-pays-dafrique
+88 Ce produit est le fruit de partenariat entre le Professeur Adnane Remmal et le laboratoire Sothema, source :
+https://www.sothema.com/recherche-et-developpement/
+89 https://www.pharma5.ma/enjeux-de-sante/hepatties/
+90 https://um6p.ma/fr/innovatoin-um6p-nafas-premier-respirateur-de-reanimatoin-et-de-soins-intensifs
+91 Audition de l'IRESEN, 05 décembre 2024
+92 https://www.cosumar.co.ma/actualites/sircos-un-respirateur-intelligent-artfiiciel-100-marocain/
+93 https://fr.euronews.com/green/2022/11/21/groupe-ocp-preserver-les-ressources-en-phosphate-pour-les-generatoins-futures
+94 https://www.managemgroup.com/qui-sommes-nous/nos-expertsies-services/recherche-developpement
+95 Hightech Payment Systems, une multniatoinale basée au Maroc spécialisée dans les solutoins de paiement électronique.
+96 Société maghrébine de monétqiue est spécialisée dans l'éditoin et l'intégratoin de solutions monétqiues,
+97 DATAPROTECT est une entreprise marocaine spécialisée en cybersécurité
+Technology98 est également un exemple dans le secteur de l'e-santé. Ces initaitives
+montrent l'engagement du Maroc dans la digitalisation des services et la création de
+solutions numériques avancées.
+-
+le secteur agroalimentaire : des entreprises marocaines ont pu mettre au point des
+produits innovants répondant aux atetntes des consommateurs. A titre d'exemple,
+Aiguebelle, société pionnière dans son domaine fondée en 1868, a déployé des
+technologies de production de pointe99 et a lancé diverses gammes de produits adaptés
+au marché local et à l'export100. Un autre exemple est celui de COPAG101 qui a pu
+introduire de nouveaux produits sur le marché102 (lait végétal, produits laitiers sans
+lactose, etc…).
+Ces succès illustrent bien l'impact de la recherche et de l'innovation dans l'économie
+marocaine103. Cependant, pour maximiser ces réussites, des initaitives qu'elles soient publiques
+ou privées sont nécessaires. A cet égard, le programme « Tatwir R&D et Innovation »104 lancé
+en 2023 et financé par le Fonds de soutein à l'innovation (FSI), vise à stimuler la R&D et
+l'innovation au sein des entreprises marocaines. Ce programme a soutenu 108 projets, avec un
+investissement total de 615 MDH, dont 264 MDH provenant du FSI, représentant 43 % du
+financement105. Ce programme présente une ofrfe intégrée couvrant l'ensemble des étapes de
+la R&D : acquisition/dépôt de brevets, validation de prototypes et industrialisation pendant la
+phase pilote106.
+2 Un faible investsisement entrepreneurial dans la recherche et l'innovatoin
+En 2019, seulement 6 % des entreprises marocaines ont engagé des activités de recherche et
+développement (R&D), selon les données HCP107. Cependant, cetet proportion varie
+considérablement selon la taille des entreprises et leur orientation vers l'exportation. En effet,
+seulement 3 % des très petites entreprises (TPE) sont impliquées dans la R&D, tandis que 26 %
+des grandes entreprises (GE) y participent. Pour les entreprises exportatrices, ce chifrfe atetint
+29 %108.
+Une enquête menée, en 2023, par la Banque mondiale109 révèle que 13 % des entreprises ont
+consacré des ressources à la R&D au cours du dernier exercice fiscal. Toutefois, seulement 6,8
+% ont réussi à introduire une innovation de process au cours des trois dernières années110, ce
+qui reflète une appétence trop limitée pour l'innovation ainsi qu'un faible niveau
+d'investissement en recherche et développement. Les TPME, qui constituent l'épine dorsale du
+tissu productif national, sont confrontées à une problématique patente de manque de
+ressources et ne peuvent pas s'investir pleinement dans la R&D. En outre, l'absence
+98 ABA Technology est un groupe industriel et technologique marocain intervenant dans le domaine IoT (internet of Things).
+99 https://www.mcinet.gov.ma/fr/actualites/la-compagnie-cherifienne-de-chocolaterie-aiguebelle-renforce-sa-strategie-made-morocco
+100 Audition de M. Berrada Sounni Amine, membre du CESE et Président directeur général d'Aigueblle, 31 octobre 2024.
+101  Copag est une coopératvie agricole marocaine.
+102 https://www.lebrief.ma/copag-au-siam-2025-innovatoin-locale-et-integratoin-industrielle-au-service-des-consommateurs-100096887/
+103 S'agissant du secteur de la Chimie, une visite du CESE en collaboratoin avec la CGEM à l'unité R&D de la société Colorado le 04 mars 2025 ,
+a permis de constater la mise au point de plusieurs produits innovants, notamment une peinture ant-iCovid-19
+104 Ce programme a été lancé par le ministère de l'industrie et Commerce avec le soutien du ministère de l'économie et des fniances. Sa
+réalisatoin est confiée à Maroc PME en partenariat avec la CGEM.
+105 Présentatoin par le ministère de l'industrie et commerce au ttire du projet de loi de finance 2025, novembre 2024.
+106 https://marocpme.gov.ma/tatwir_rd_et_innovatoin/
+107 Enquête natoinale auprès des entreprises, HCP, 2019.
+108 Les entreprises enquêtées sont de l'ordre de 2101 unités, source : Enquête natoinale auprès des entreprises, HCP, 2019.
+109 Le nombre d'entreprises enquêtées est de 598, source : Enterprise Surveys www.enterprisesurveys.org The World Bank. Morocco 2023.
+110 https://www.enterprisesurveys.org/en/data/exploreeconomies/2023/morocco#1
+d'infrastructures mutualisées, telles que les centres de R&D partagés, obère leur capacité à
+collaborer et partant à innover efficacement111.
+Face à ces défis, certains pays ont mis en place des dispositfis soutenant les TPME dans leurs
+efofrts d'innovation. Les « chèques innovation » (innovation vouchers), par exemple, sont des
+subventions publiques variant entre 5.000 et 20.000 euros112, destinées à aider les TPME à
+accéder à des services externes d'innovation, tels que le conseil ou le transfert technologique.
+À l'inverse, les entreprises étrangères au Maroc bénéficient souvent de ressources plus
+substantielles pour investir dans la R&D. En effet, une proportion plus large de ces entreprises
+conconssacrent des ressources à la recherche et au développement en comparaison avec leurs
+homologues marocaines, avec un taux de 25% contre seulement 11 %113 pour les entreprises
+nationales. Les IDE alloués à la R&D représentent environ 2,5 % du total de ces investissements
+au Maroc, un pourcentage supérieur à celui observé dans de nombreux autres pays de la région,
+bien que toujours inférieur à des pays comme le Portugal ou le Costa Rica, où cetet part atetint
+environ 5 %114. Il est également notable que des centres de R&D ont récemment été ouverts
+dans des secteurs stratégiques tels que l'automobile115 et les technologies de l'information et
+de la communication116, ce qui témoigne d'un intérêt croissant pour l'innovation au Maroc.
+Une faiblesse du nombre de brevets résidents émanant des entreprises
+Les entreprises marocaines se distinguent par leur performance remarquable dans le dépôt de
+designs industriels, plaçant ainsi le pays en tête du classement mondial selon le sous-indice
+correspondant du global Innovation Index 2024117. Par ailleurs, en matière de marques
+déposées, le Maroc occupe une position notable en 30ᵉ place au niveau mondial, selon le même
+indice118.
+Cependant, en matière de brevets, les chifrfes demeurent en deçà des ambitions de la
+compétitviité économique de notre pays : seulement 37 brevets déposés par des entreprises
+marocaines en 2022, représentant à peine 15 % du total de 243 brevets enregistrés. À titre de
+comparaison, entreprises turques capitalisent plus de 5 000 brevets par an119. Ce faible taux de
+dépôt freine la montée en gamme de l'économie nationale, un retard qui se reflète clairement
+dans le classement « atlas of economic complexity » 120 (2022) de l'université de Harvard, où le
+Maroc se classe 87ᵉ sur 145 pays, loin derrière d'autres économies émergentes, comme la
+Turquie, classée 42ᵉ.
+111 Audition CGEM et des fédératoins sectorielles, 24 octobre 2024.
+112 https://stpi.oecd.org/stpi/interactvie-dashboards/policy-instruments/Innovatoin_vouchers
+113 https://www.enterprisesurveys.org/en/data/exploreeconomies/2023/morocco#innovatoin-and-technology
+114 « Revue de qualités de IDE en Tunisie » OCDE 2024, P.52.
+115 Le Centre Technique des Industries des Equipements pour Véhicules 2.0 « CETIEV 2.0 » a été lancé en 2021 par le Ministère de l'Industrie,
+du Commerce , Stellantsi et le Centre Technique des Industries des Equipements pour Véhicules (CETIEV), source :
+https://www.mcinet.gov.ma/fr/actualites/inauguratoin-du-centre-technique-des-industries-des-equipements-pour-vehicules-20-ceteiv
+116 Oracle a ouvert, en 2024, un centre de R&D à Casablanca, axé sur le développement de solutions cloud et d'IA, (source :
+https://www.oracle.com/fr/news/announcement/oracle-increases-research-and-development-investments-in-morocco-2024-05-09/). De
+même, Nokia a ouvert, en 2024, un centre d'innovatoin régional (EMEA) à Salé équipé de technologies digital de pointe (source :
+https://www.nokia.com/about-us/news/releases/2024/10/22/nokia-opens-regional-innovatoin-center-in-morocco-to-serve-emea-
+customers/)
+117 https://www.wipo.int/web-publicatoins/global-innovatoin-index-2024/en/gii-2024-results.html
+118 Global Innovatoin Index 2024 Unlocking the Promise of Social Entrepreneurship 17th Editoin, WIPO.
+119 Recueil des notes thématqiues, des paris et projets du Nouveau Modèle de Développement, annexe 2, avril 2021.
+120 https://atlas.cid.harvard.edu/rankings
+Le Maroc a également reculé de 15 places dans le sous-index « business sophistication »121 du
+global innovation index entre 2011 et 2024, ce qui dénote de la marge de progrès dans plusieurs
+domaines cruciaux pour l'innovation.
+Le faible taux de dépôt de brevets résidents peut, en partie, s'expliquer par un manque
+considérable et le caractère inadapté d'accompagnement juridique, en particulier dans les
+secteurs des technologies de rupture. De ce fait, certaines startups préfèrent déposer leurs
+brevets à l'étranger, afni de bénéficier d'un environnement juridique plus adapté à leurs
+besoins122.
+Un cadre juridique et ffiinancier peu adapté à l'innovattiion
+4.1 Le manque de cadre juridique et de dispositfis de financement adaptés pour
+l'accompagnement des startups
+Les pouvoirs publics, en partenariat avec le secteur privé, ont déployé plusieurs programmes et
+initaitives visant à soutenir les startups au Maroc. Parmi ces mesures, une plateforme dédiée a
+été créée pour accompagner ces jeunes entreprises, ainsi que le label « jeune entreprise
+innovante », qui facilite les opérations de change sur les services importés123. Par ailleurs, le
+lancement du programme « Tatwir-startup » 124 cible spécifiquement les startups industrielles,
+tandis que d'autres visent à présenter une ofrfe complète pour l'émergence d'un écosystème
+de startups, notamment dans le domaine digital125.
+Cependant, malgré leur portée positive, ces initaitives restent insuffisantes en termes d'impact
+au regard des spécifciités et des besoins du tissu entrepreneurial marocain, qui nécessite des
+mesures plus adaptées. En effet, l'absence d'un cadre juridique spécifique et le manque
+d'instruments financiers adaptés constituent des obstacles majeurs à l'essor des startups. À ce
+titre, le Maroc accuse un retard par rapport à certains pays de la région, comme la Tunisie, qui
+a adopté dès 2018 un « startup act » intégrant une simplification administrative, des incitations
+fiscales et un accès facilité au financement126.
+Dans ce contexte, la stratégie « Maroc Digital 2030 » 127 accorde une importance stratégique
+aux startups visant à développer cetet catégorie d'entreprises et ce en metatnt en place une «
+startup policy ». Celle-ci prévoit des dispositfis de financement couvrant l'ensemble du cycle de
+vie des jeunes entreprises, un accompagnement ciblé dans des secteurs porteurs tels que
+l'intelligence artificielle, la fintech et l'edtech, ainsi que la construction d'un écosystème local à
+rayonnement international, capable de faire émerger des « gazelles » et des « licornes »128.
+Malgré ces avancées, le volume global des financements alloués aux startups au Maroc
+demeure modeste comparé aux leaders africains que sont l'Afrique du Sud, le Nigeria, l'Égypte
+121 Le sous-index « Business Sophistciatoin » du Global Innovatoin Index est composé des piliers suivants : Travailleurs du savoir, Liens en matèire
+d'innovatoin, Absorptoin de connaissances. Source : The Global Innovatoin Index (GII) Conceptual Framework.
+122 Audition de Nucleon Security, 17 octobre 2024.
+123 https://www.add.gov.ma/label-jeune-entreprise-innovante
+124 https://www.mcinet.gov.ma/fr/actualites/lancement-du-programme-dappui-aux-startups-industrielles-tatwir-startup-0
+125 Conventoin-cadre de partenariat signée entre le ministère de la Transition numérique et de la réforme de l'Administratoin (MTNRA) et la
+Caisse de dépôt et de gestoin (CDG) du 26 décembre 2023, source : https://www.mapexpress.ma/actualite/économie-et-finance/signature-
+dune-conventoin-cadre-laccompagnement-financement-startups-marocaines/
+126 https://startup.gov.tn/fr/startup_act/discover
+127 Annoncée le 25 septembre 2024.
+128 https://www.mmsp.gov.ma/sites/default/files/2024-09/PlaquetetInsttiutionnel_18092024_Fra.pdf
+ou le Kenya129. Les mécanismes de financement, tels que le capital-risque, sont globalement
+insuffisants et ne couvrent pas toutes les étapes d'évolutoin des entreprises130. Cetet
+concentration de financement sur les phases initiales laisse peu de place aux startups plus
+matures, limitant ainsi leur potentiel de développement à long terme.
+4.2 Les marchés publics et l'efefctviité des achats innovants
+Le système des marchés publics présente encore131, des défis majeurs pour l'intégration des
+achats innovants, limitant ainsi les opportunités pour soutenir les entreprises innovantes. Bien
+que la version 2023 du décret relatif aux marchés publics132 ait introduit des mesures favorisant
+l'innovation, comme la notion de « prestations innovantes »133, le « dialogue compétitif »134 et
+l'« offre spontanée »135, l'adoption effective de ces outils reste insuffisante, faute de
+sensibilisation et de formation adéquates pour les acteurs concernés. Il s'avère crucial de
+renforcer l'adoption de ces mesures pour que les marchés publics deviennent un véritable
+levier de soutien à l'innovation et au développement de l'écosystème entrepreneurial
+marocain.
+4.3 Des leviers incitatfis insufsfiants pour stimuler la recherche partenariale
+L'absence d'incitattiions ffiiscales à la recherche et à l'innovattoiin
+Le développement de la recherche et de l'innovation partenariale au Maroc reste limité, en
+grande partie en raison de l'absence de mécanismes incitatifs favorisant le couplage entre les
+entreprises et les institutions de recherche. À l'échelle internationale, de nombreux pays ont
+mis en place des dispositfis fiscaux pour encourager l'investissement privé dans la recherche et
+le développement136 . C'est notamment le cas de la France, avec des instruments tels que le
+crédit d'impôt recherche (CIR) et le crédit d'impôt innovation (CII) 137, qui constituent des leviers
+puissants pour stimuler l'engagement des entreprises dans l'efofrt de recherche.
+Ce type de dispositfi fsical présente plusieurs avantages : une mise en œuvre rapide, un cadre
+confidentiel qui protège les projets, des modalités de contrôle allégées, ainsi qu'une grande
+flexibilité pour les entreprises. Il permet de mobiliser davantage d'investissement privé en R&D,
+en particulier de la part des PME et des startups, sans contraintes liées aux appels à projets.
+Pour notre pays, l'introduction d'une telle mesure constituerait un levier stratégique pour
+renforcer l'attractivité et la compétitivité de l'économie nationale138. Elle encouragerait les
+entreprises à s'ouvrir davantage à leur écosystème académique et scientifique, et à inscrire
+l'innovation au cœur de leurs activités.
+129 https://thebigdeal.substack.com/
+130 Avis CESE « Quels usages et quelles perspectvies de développement de l'intelligence artfiicielle au Maroc ? », 2024
+131 Atelier avec AUSIM, DSF Analytcis, Nucleon Security : le 17 octobre 2024
+132 décret n° 2-22-431 relatfi aux marches publics du 15 chaabane 1444 (8 mars 2023)
+133 Les prestatoins qui ont pour objet la recherche et le développement, concernant de nouveaux procédés ou l'amélioratoin de procédés déjà
+existants pour les travaux, les services ou les fournitures : source artcile 4 du décret
+134 Le dialogue compéttifi est la procédure par laquelle le maître d'ouvrage engage un dialogue avec les candidats admis à y participer en vue
+de déterminer ou de développer des solutions de nature à répondre à ses besoins: source artcile 12 du décret
+135 Tout entrepreneur, fournisseur ou prestataire de services peut, à son initaitvie, proposer au maître d'ouvrage tout projet, idée ou opératoin
+présentant des fonctoinnalités nouvelles, des services nouveaux ou des innovatoins techniques et répondant à un besoin potentiel que le
+maître d'ouvrage n'aurait pas identfiié au préalable : source artcile 13 du décret
+136 https://www.oecd.org/fr/topics/sub-issues/rd-tax-incentvies.html
+137 Les grandes entreprises, un acteur majeur de la recherche pour la France et ses territoires, Enquête auprès des entreprises de l'Afep - Edition
+138 Au Maroc, la Provision pour Recherche et Développement (PRD), qui permetatit aux entreprises de fniancer leurs actviités de R&D exonérées
+de taxes, a été supprimé en 2009
+Un manque de bourses partenariales pour le ffiinancement des doctorants
+Par ailleurs, il convient de souligner que le Maroc ne s'est pas encore doté de dispositfis de
+financement mixte public-privé pour les doctorants, à l'image des conventoins industrielles de
+formation par la recherche (CIFRE)139 mises en œuvre dans certains pays européens. Ces
+programmes favorisent une immersion des doctorants dans les milieux professionnels tout en
+poursuivant leurs travaux de recherche, créant ainsi des passerelles entre les laboratoires
+universitaires et les entreprises, contribuant ainsi à une meilleure articulation entre recherche
+et besoins socio-économiques.
+De plus, les financements directs alloués aux laboratoires de recherche, tout comme les
+dispositfis de valorisation et de rémunération des chercheurs, restent insuffisants pour impulser
+une véritable dynamique de recherche appliquée 140. Certes, l'État propose une bourse dans le
+cadre du programme « doctorant moniteur », avec une rémunération mensuelle de 7.000
+dirhams141. Toutefois, ce dispositfi demeure strictement ancré dans le milieu académique et ne
+favorise pas une véritable articulation avec le monde économique, le doctorant n'étant pas
+simultanément intégré dans une entreprise.
+Conscient de ces limites, le ministère chargé de la recherche scientifique142 travaille
+actuellement sur la créatoin d'un nouveau dispositfi de financement plus structuré, destiné à
+favoriser le cofinancement des thèses entre les secteurs public et privé. Le modèle envisagé
+prévoit une répartitoin des contributoins comme suit : 3 500 dirhams du département
+ministériel en charge de la recherche scientifique, 3.500 dirhams du département ministériel
+en charge de de l'Industrie et 3.000 dirhams de l'entreprise partenaire. Ce dispositfi, qui devrait
+être lancé prochainement, pourrait constituer une avancée significative vers une meilleure
+intégration de la recherche académique dans le tissu économique national.
+les clusters : des objecttfiis ambittiieux mais des réalisattiions limitées
+Les clusters143, lancés dans le cadre de la stratégie « Maroc Innovation », devraient constituer
+des lieux d'interface propices à la l'interaction et la collaboration entre le tissu productif et le
+milieu académique en encourageant les entreprises, les universités et les centres de recherche
+au travail en partenariat dans des thématiques stratégiques.
+Plusieurs clusters sectoriels visant à structurer ces synergies autour de domaines prioritaires
+tels que l'aéronautqiue, l'agro-industrie ou encore les énergies renouvelables ont été créés144.
+Dans la continuité de la dynamique de création de clusters initéie par « Maroc Innovation », le
+département en charge de l'Industrie et du Commerce lance de manière régulière des appels à
+projets afin d'identifier les clusters les plus porteurs – existants ou en projet – en vue de
+139 Le mécanisme CIFRE, actuellement en vigueur, géré par le CNRST peut profiter uniquement aux doctorants marocains recrutés dans le cadre
+d'un partenariat entre une entreprise établies sur le territoire français (non pas une entreprise natoinale), un laboratoire de recherche
+académique français et un laboratoire de recherche académique marocain.
+140 Il serait pertnient de s'inspirer d'initiatvies internatoinales telles que l'initiatvie jordanienne "Docteur pour Chaque Usine" (Faculty for Factory
+- FFF), source : https://sites.ju.edu.jo/ar/fff/ENHome.aspx?
+141 D'autres bourses existent comme celles attribuées par l'UM6P ou la Fondatoin pour la Recherche, le Développement et l'Innovation en
+Sciences et Ingénierie (FRDISI)
+142 Réponse écrite du ministère de l'Enseignement Supérieur, de la Recherche Scientfiique et de l'Innovatoin, 17 décembre 2024.
+143 Un cluster est une associatoin à but non lucratfi dont les membres sont les entreprises, les centres de recherches ou de formatoin et les
+insttiutions, opérant dans les secteurs industriels et technologiques, dotés d'une stratégie commune de développement et dont l'objet
+statutaire est de stmiuler l'émergence de projets collaboratfis innovants. Les clusters ont été lancés depuis 2011.
+144 Parmi les exemples, on trouve : Cluster Maroc Numeric, Green Energy Park, Morocco Microelectronics Cluster, Green H2 Maroc (hydrogène
+vert) CE3M (Cluster Électronique, Mécatronique et Mécanique), etc.
+bénéficier d'un soutien public145. Il y a cependant lieu de signaler que les réalisations de ces
+clusters demeurent généralement en deçà des ambitions déclarées à leurs créations en
+particulier en matière de dépôt de brevets et de création de startups146.
+III.
+L'urgence de metttre en place une stratégie nattoiinale coordonnée et
+intégrée de recherche, développement et innovattoiin
+L'ambition de faire de la recherche scientifique, en synergie avec les activités de développement
+et d'innovation, un levier essentiel de la compétitviité économique, de la montée en gamme
+des secteurs productifs et de l'accélération de la transition vers le nouveau modèle de
+développement, suppose la mobilisation de l'ensemble des parties prenantes, en particulier
+celui des acteurs du secteur privé. Il s'agit de renforcer leur implication dans la production, la
+valorisation et l'appropriation des connaissances scientifiques et technologiques, afin de
+favoriser la convergence des efofrts, la complémentarité des rôles, la mutualisation des
+ressources et une meilleure articulation entre les programmes et projets de recherche, qu'ils
+soient d'initaitive académique ou entrepreneuriale.
+Le Conseil économique, social et environnemental considère que la concrétisation de cette
+ambition doit reposer sur deux piliers stratégiques complémentaires :
+1. La mise en place d'un système nattiional de recherche scienttiiffqiiue et d'innovattoiin à
+ancrage régional, centré autour des universités et des instituts de recherche, reposant
+sur une gouvernance renforcée, un cadre juridique adapté et une gestion optmiisée des
+ressources humaines. L'objectif est de renforcer la performance et la productivité
+scientifiques et technologiques, tout en assurant une meilleure valorisation des
+résultats de la recherche.
+2. Le renforcement du couplage entre les besoins de l'économie et des territoires et les
+acttiivités et structures de recherche, à travers le développement des pôles régionaux
+d'excellence, la promotion d'une nouvelle génératoin de clusters technologiques et
+industriels, et une intégratoin territoriale plus cohérente et efefctive des dispositfis de
+recherche.
+Dans ce contexte, le Conseil économique, social et environnemental (CESE) souligne l'urgence
+d'élaborer et de mettre en œuvre une stratégie nationale de recherche scientifique, de
+développement et d'innovation (RDI) cohérente, intégrée et pleinement alignée sur les priorités
+du pays en matière de développement économique, social et environnemental.
+Le CESE propose un ensemble de recommandations, dont certaines, identifiées comme
+prioritaires en raison de leur impact immédiat (« Quick Wins »), sont appelées à constituer un
+socle pour engager le déploiement efefctif de la future stratégie nationale.
+145 On peut citer les appels à projets « soutien à la dynamique des clusters » pour les années suivantes : 2019, 2020,2023, 2024 : site du
+département en charge de l'Industrie et du Commerce.
+146 A. El Waatmani et M. Makhtari, « Déterminants et mesures de la performance des clusters : un aperçu sur le modèle marocain »,
+Moroccan Journal of Entrepreneurship, Innovation and Management, Vol. 3, n° 2, 2018, pp. 77-89.
+Axe 1 : les « Quick Wins » pour accélérer la dynamique de la recherche scientfiique et
+de l'innovatoin
+1. Accélérer la révision de la loi 01.00 relative à l'organisation de l'enseignement
+supérieur, et l'adoption de ses textes d'application :
+-
+Mettre en place un système de contrôle financier adapté, garantissant une
+autonomie renforcée des universités sur les plans administratif, financier,
+pédagogique et scientifique. Ce système devrait prévoir des mécanismes de gestion
+flexibles, adaptés aux particularités des activités de recherche et d'innovation, afin
+de mieux répondre à leurs besoins spécifiques.
+-
+Instituer des contrats pluriannuels entre l'État, les universités et les conseils
+régionaux, assortis d'objectifs clairs et mesurables (ex. : production scientifique,
+dépôts de brevets, contribution au développement territorial, etc.).
+-
+Activer pleinement les missions dévolues aux établissements universitaires en
+matière d'entrepreneuriat, de création de filiales et de commercialisation des
+résultats de leurs activités, notamment par des incitations fiscales encourageant la
+constitution de sociétés mixtes entre universités et entreprises.
+-
+Élaborer une « charte éthique de la recherche », définissant les principes, les valeurs
+et les obligations qui encadrent les activités scientifiques au sein des établissements
+d'enseignement
+supérieur
+(intégrité
+scientifique,
+propriété
+intellectuelle,
+protection des données personnelles, partage des connaissances, etc.).
+2. Dynamiser les principaux établissements publics de recherche, tels que l'INRA,
+l'IRESEN, l'Institut Pasteur et l'INRH, et les doter des moyens humains et matériels et
+des équipements techniques et technologiques leur permettant d'accompagner
+efficacement et effectivement les priorités stratégiques nationales (eau, santé,
+agriculture, énergies renouvelables, changement climatique, etc.).
+3. Mettre en place des mesures simplifiées, tant au niveau organisationnel que
+procédural, afin de faciliter et d'encourager les investissements des entreprises privées
+et publiques dans la recherche et le développement, notamment en attribuant des
+bourses destinées aux doctorants147.
+4. Inciter les enseignants-chercheurs, le personnel technique, ainsi que les doctorants
+et les post-doctorants à s'impliquer activement dans les projets de recherche et
+d'innovation financés par des partenaires externes (secteur privé, coopération
+internationale, etc.) en révisant la décision conjointe correspondante148 et en instaurant
+des rémunérations compétitives et alignées sur la réalité du marché, afin d'atrtier et de
+retenir les talents scientifiques nationaux et internationaux.
+147 A l'instar du programme CIFRE (Conventoins Industrielles de Formatoin par la Recherche) actuellement mis en place par le CNRST au profit
+de doctorants marocains exerçant dans des entreprises françaises.
+148 Décision conjointe N°5 du 14 janvier 2016, entre le département ministériel chargé de la recherche scientfiique et le département ministériel
+chargé des fniances, relatvie à la gestoin des ressources propres des établissements publics d'enseignement supérieur et de recherche
+scientfiique et technique.
+Axe 2 : Réformer et consolider la gouvernance et le fonctoinnement du système de
+recherche scientfiique et innovation
+1. Opttiimiser la gouvernance et le suivi de la recherche scienttiiffiique et de l'innovattiion :
+- Assurer un financement durable et renforcé de la recherche, visant un objectif de 3
+% du PIB d'ici 2030149, tout en exhortant le secteur privé à accroître ses investissements
+dans ce domaine.
+- Renforcer les capacités institutoinnelles et opérationnelles du Conseil natoinal de la
+recherche scientifique afni de lui permettre d'assurer pleinement ses missions : assurer
+le suivi de la stratégie nationale de la recherche et d'innovation, œuvrer à une meilleure
+coordination entre les diféfrents acteurs publics et privés et contribuer à éclairer les
+priorités
+nationales
+et
+les
+d'orientations
+stratégiques
+en
+matière
+de
+recherche et d'innovation.
+- Revoir le cadre juridique régissant le Centre national de la recherche scientifique et
+technique (CNRST), afni d'élargir ses missions au domaine de l'innovation, en
+complément de ses attributions actuelles centrées sur la recherche académique. Cetet
+évolutoin implique le développement de partenariats structurés avec les entreprises, en
+vue de concevoir et de cofinancer des programmes orientés vers des besoins industriels
+ciblés, favorisant ainsi le transfert de technologies, la valorisation des résultats de la
+recherche et la montée en gamme du tissu productif national.
+- Clarifier et préciser les atrtibutoins ainsi que les champs d'intervention des diféfrents
+mécanismes institutoinnels chargés de l'autoévaluation, de l'évaluation interne ou de
+l'évaluation externe des activités de recherche et d'innovation, aussi bien dans les
+établissements universitaires que non universitaires. L'objectif est d'assurer une
+meilleure coordination entre ces instances, d'éviter les chevauchements de
+compétences et de garantir des évaluations cohérentes, intégrées, efficaces et de façon
+régulière.
+- Mettre en place un observatoire national de la recherche scientifique et de
+l'innovation, ratatché au Conseil National de la Recherche Scientifique, après la révision
+du cadre réglementaire de ce dernier. Cet observatoire sera chargé de suivre la mise en
+œuvre des programmes et projets stratégiques de recherche et d'innovation, tout en
+élaborant un tableau de bord pour mesurer les indicateurs clés de la recherche
+scientifique et de l'innovation, conformément aux standards internationaux en
+vigueur150.
+2. Renforcer le capital humain de la recherche scienttiiffiique :
+-
+Former une nouvelle génération de chercheurs (enseignants-chercheurs et doctorants)
+dans les diféfrentes disciplines scientifiques pour préparer la relève et favoriser le
+transfert de compétences intergénérationnel ;
+-
+Encourager la mobilité des chercheurs entre les secteurs public et privé, facilitant ainsi
+la circulation des savoirs et l'échange d'expertise en recherche et innovatoin ;
+149 Le Nouveau Modèle de Développement du Maroc, contribution du Conseil économique, Social et
+Environnemental, 2019 (page 85).
+150 Notamment le manuel d'Oslo, Cf. OCDE/Eurostat (2018), Manuel d'Oslo 2018 : Lignes directrices pour le recueil,
+la communication et l'utilisation des données sur l'innovation, 4ème édition, Mesurer les activités scientifiques,
+technologiques et d'innovation, Éditions OCDE, Paris.
+-
+Etablir un cadre spécifique pour les chercheurs à temps plein, y compris les doctorants
+et les postdoctorants. Ce cadre spécifique devrait compléter le statut existant des
+enseignants-chercheurs, en définissant des mécanismes d'incitation à la recherche à
+temps plein et de récompense des chercheurs les plus productfis ;
+-
+Renforcer les capacités des encadrants de thèses universitaires par la formation
+continue, l'échange interuniversitaire et l'ouverture internationale ;
+-
+Encourager l'adoption de parcours obligatoires de mobilité des chercheurs marocains à
+l'étranger et améliorer les conditoins d'accueil des chercheurs internationaux au Maroc
+(doctorants, post-doctorants, chercheurs associés et chercheurs visiteurs) ;
+-
+Adapter le cadre réglementaire pour faciliter la mobilité des chercheurs, enseignants et
+experts marocains du Monde (MDM), en mettant en place des dispositifs souples leur
+permettant de contribuer activement à la recherche et à l'innovation au Maroc :
+encadrement de recherches doctorales, contribution à l'insertion des universités
+marocaines dans les réseaux internationaux et publications conjointes avec leurs
+homologues étrangères ;
+-
+Renforcer les capacités des établissements de recherche en ressources humaines
+d'appui et d'accompagnement aux activités de recherche scientifique et d'innovation,
+en particulier les ingénieurs et les techniciens.
+3. Mieux structurer les acttviiités de la recherche scienttiiffiique et améliorer la cohérence et
+la collaborattiion entre ses structures :
+-
+Aligner les programmes de recherche universitaire sur les priorités nationales, les
+besoins du tissu économique et les spécifciités territoriales, afin de renforcer leur utilité,
+optimiser l'allocation des ressources et maximiser leur impact sur le développement
+local et national.
+-
+Organiser les activités de la recherche scientifique de façon plus intégrée et
+collaborative, en favorisant des structures multdiisciplinaires et en mutualisant les
+ressources et les dispositfis de soutien, afin d'en améliorer la cohérence et l'efficacité.
+4. Reconnaître les sciences humaines et sociales (SHS) comme un pilier essenttiiel de la
+recherche et de l'innovattiion, en leur allouant des ressources ffiinancières et
+insttiituttoiinnelles adaptées :
+-
+Créer ou renforcer des pôles de recherche en sciences humaines et sociales (SHS) au
+sein d'institutoins telles que le CNRST, l'Académie Hassan II, les écoles d'ingénieurs et
+les facultés des sciences, afin de promouvoir l'approche interdisciplinaire, d'éclairer les
+enjeux humains, sociaux et éthiques liées à la recherche et à l'innovation, et d'intégrer
+pleinement les SHS dans l'élaboration, la mise en œuvre et l'évaluation des politqiues
+publiques.
+-
+Répartir plus équitablement les financements de recherche entre les diféfrentes
+disciplines y compris les SHS, afin de leur faciliter l'accès aux ressources financières au
+même titre que les autres disciplines académiques.
+Axe 3 : Encourager l'investsisement du secteur privé dans la recherche scientfiique et
+créer les conditions favorables au couplage efcfiace entre les milieux académiques
+et économique
+5. Renforcer l'innovattiion et la valorisattiion des résultats de la recherche au proffiit des
+écosystèmes économiques régionaux :
+6.
+-
+Créer des structures de transfert technologique régionales pour valoriser les inventions,
+accompagner la protection de la propriété intellectuelle, soutenir l'incubation de
+startups issues de la recherche et favoriser la maturation des projets technologiques,
+afin de faciliter la commercialisation des innovations et renforcer la collaboration entre
+le monde académique et le secteur privé.
+-
+Renforcer l'efficacité des clusters et des cités d'innovation, après évaluation de leurs
+réalisations, et, le cas échéant, créer une nouvelle génération de ces structures, à même
+de répondre aux besoins de compétitivité économique et de développement territorial.
+Ces structures, grâce à l'appui des collectivités territoriales, des universités et des
+fédérations sectorielles, devraient stimuler la recherche et l'innovation, favoriser
+l'adoption des nouvelles technologies dans les écosystèmes locaux, et faciliter leur
+difufsion progressive au sein des entreprises et des acteurs économiques.
+-
+Développer la contribution des régions dans les projets de recherche scientifique
+appliquée dans le cadre de leurs compétences partagées avec l'État et ne pas limiter
+cetet contributoin à la mise à dispositoin des infrastructures, en vue de soutenir le
+développement économique des territoires, renforcer leur attractivité et améliorer leur
+compétitviité. Cetet dynamique permettrait également de mobiliser de nouvelles
+sources de financements au service de la recherche et de l'innovation à l'échelle
+territoriale.
+-
+Promouvoir le modèle de consortium public-privé en soutenant la création de structures
+autonomes et indépendantes pour mener des recherches susceptibles de déboucher
+sur la création d'entreprises destinées à produire et commercialiser des solutions
+innovantes, à l'instar de l'exemple de MAScIR.
+-
+Augmenter la contribution du secteur privé au financement de la recherche et de
+l'innovation en introduisant des dispositifs financiers spécifiques, telles que celle
+imposée aux opérateurs de télécoms (0,25 % de leur chifrfe d'afafires), tout en
+encourageant des mécanismes de financement alternatifs, tels que la RSE et les
+contributoins dans le cadre du mécénat.
+7. Metttre en place des mesures incitattiives en faveur de la R&D&I privée :
+-
+Renforcer et pérenniser les initaitives de subvention de la recherche et d'innovation
+existantes à l'instar de « Tatwir » et prévoir des mécanismes d'accompagnement pour
+faciliter l'accès des entreprises à ces dispositifs.
+-
+Encourager la massificatoin de la recherche et innovation au profit des TPME à travers
+la mise en place de mécanismes tels que le « chèque innovation ».
+-
+Instaurer un crédit impôt-recherche et innovation pour encourager les investissements
+en R&D, tant pour les entreprises locales que pour les IDE.
+-
+Renforcer les dispositfis de protection de la propriété intellectuelle en consolidant le
+rôle de l'OMPIC dans la veille, la protection et la difufsion des brevets.
+-
+Adopter, au sein des universités et des institutoins de recherche scientifique, un code
+de conduite et d'éthique de la recherche, en concertation avec les instances
+représentatvies des enseignants-chercheurs. Ce code devra définir les principes, valeurs
+et règles déontologiques encadrant l'exercice des activités de recherche, notamment
+l'intégrité et la probité scientifique, l'impartialité académique, la protection de la
+propriété intellectuelle, la reconnaissance des contributoins, le partage des
+connaissances scientifiques et techniques, l'égalité, l'équité et le mérite dans la sélection
+et la valorisation des projets et travaux des doctorants, ainsi que la transparence dans
+les mécanismes de financement.
+-
+Mettre en place un cadre incitatif pour attirer les investissements directs étrangers dans
+les domaines de la recherche, du développement et de l'innovation, et encourager les
+grands acteurs internationaux à implanter une partie de leurs activités dans ces
+domaines au Maroc.
+8. Renforcer le souttiien à l'innovattiion et aux startups :
+-
+Établir un cadre législatif spécifique pour les startups, incluant un statut simplifié pour
+leur création et liquidation, ainsi que des incitations fiscales atrtactives pour les
+investisseurs, tels que les business angels et les capital-risqueurs ;
+-
+Accroître le volume des financements destinés aux startups et entreprises innovantes
+et diversifier ces financements pour soutenir le capital-risque, les subventions et les
+fonds d'amorçage. Le Fonds Mohammed VI notamment à travers les « fonds Startups »
+pourrait servir de plateforme à cet effet ;
+-
+Utiliser la commande publique comme levier de financement pour les startups, en
+allouant des contrats et des appels d'ofrfes spécifiquement destinés à l'innovation, à
+tous les niveaux (national, régional et local), afin de favoriser leur développement et leur
+croissance ;
+-
+Inciter les grandes entreprises à consacrer une partie de leurs achats aux startups, afni
+de favoriser la collaboration et le développement des produits et services innovants.
+9. Renforcer l'implicattiion de la société dans son ensemble dans la dynamique de
+recherche et d'innovattiion
+-
+Promouvoir une culture de l'innovation et de la pensée scientifique dès le plus jeune
+âge, en intégrant ces dimensions dans les programmes éducatifs à tous les niveaux, en
+organisant des initaitives et événements valorisant l'innovation au sein de la société, et
+en développant, à l'échelle territoriale, des espaces dédiés aux sciences pour détecter
+les talents, accueillir les idées créatives et en assurer la valorisation.
+*
+* *
+Annexes
+Annexe1 : Liste des membres de la Commission permanente chargée de la société
+du savoir et de l'informatoin
+* * *
+Annexe2 : Liste des insttiutions et acteurs auditoinnés151
+151 L'ordre des insttiutoins et des acteurs auditionnés, classés par catégorie, suit la chronologie des auditions.
+
+
+---
+
+## Articles
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est approuvé, tel qu'il est annexé
+à l'original du présent décret, le contrat conclu le 7 novembre
+2025 entre le Royaume du Maroc et la Banque européenne
+d'investissement (BEI), pour la garantie du prêt d'un montant
+de cent soixante-dix millions d'euros (170.000.000 euros),
+consenti par ladite banque à l'Office national de l'électricité
+et de l'eau potable (ONEE), pour le financement du projet
+« Transmission Energie Renouvelable ».
+
+*Entités :* `7 novembre
+2025` (DATE_GREGORIAN), `soixante-dix millions d'euros` (MONEY)
+
+*Organisations :* Banque européenne
+d'investissement, Office national de l'électricité
+et de l'eau potable
+
+*Dates :* 7 novembre 2025
+
+
+## Article 2
+
+*ART. 2. –*
+
+La ministre de l'économie et des finances est
+chargée de l'exécution du présent décret qui sera publié au
+Bulletin officiel.
+Fait à Rabat, le 20 joumada II 1447 (11 décembre 2025).
+AZIZ AKHANNOUCH.
+Pour contreseing :
+La ministre de l'économie
+et des finances,
+NADIA FETTAH.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025).
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `20 joumada II 1447` (DATE_HIJRI), `11 décembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Dates :* 20 joumada II 1447, 11 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Est approuvée la décision du
+Conseil de Bank Al-Maghrib relative à la mise en circulation
+d'un billet de banque de 100 dirhams commémorant la
+35ème édition de la Coupe d'Afrique des Nations - Maroc 2025.
+
+*Organisations :* Conseil de Bank Al-Maghrib
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le billet de banque commémoratif a cours
+légal et présente les caractéristiques suivantes  :
+Caractéristiques techniques
+– Format : 144 mm x 70 mm ;
+– Filigrane : Portrait de Sa Majesté le Roi Mohammed VI
+et le nombre 100 ;
+– Fil de sécurité à fenêtres : A changement de couleur
+avec effet dynamique des inscriptions 100 et « DH »
+en alternance et de l'étoile à cinq branches, en plus du
+nombre 100 démétallisé.
+Caractéristiques artistiques
+– Thématique : L'organisation par le Maroc de la
+35ème  édition de la Coupe d'Afrique des Nations ;
+– Couleurs dominantes : Gris et jaune.
+Recto  :
+– Partie supérieure  :
+• Dénomination de l'institut d'émission »   «
+• La valeur faciale d'émission  : «مائة درهم»
+– Au centre :
+• Portrait de Sa Majesté le Roi Mohammed VI ;
+• Armoiries du Royaume ;
+• Ornement d'arabesques marocaines et le nombre 100
+stylé ;
+• Stylisation du nouveau Complexe Sportif Prince Moulay
+Abdellah de Rabat ;
+• Stylisation d'un ballon de football imprimé en encre
+spéciale à couleur changeante du magenta au vert ;
+– En bas :
+• Le nombre 100 dont une partie est imprimée sur le recto
+et une partie sur le verso. Une fois le billet examiné face
+à la lumière, les éléments incomplets du nombre 100
+se superposent de manière parfaite pour constituer la
+totalité du motif ;
+• Le nombre 100 imprimé en encre spéciale à changement
+de couleur or - vert.
+Verso  :
+• Dénomination de l'institut d'émission en lettres Tifinagh
+et françaises  :
+« «ⵍⴱⴰⵏⴽ ⵏ ⵍⵎⵖⵔⵉⴱ» , « BANK AL-MAGHRIB »
+• Valeur faciale 100 DH ;
+• Stylisation de la vue intérieure du nouveau Complexe
+Sportif Prince Moulay Abdellah de Rabat ;
+• Stylisation de silhouettes de joueurs en action avec un
+ballon ;
+• Ballon orné de la carte de l'Afrique au milieu d'un
+ensemble d'étoiles dynamiques évoquant la célébration.
+Centre du billet  :
+• Mixture de motifs africains et d'arabesques marocaines ;
+• Des micro-textes imprimés sur plusieurs zones du billet
+visibles à l'aide d'une loupe.
+
+*Entités :* `BANK AL-MAGHRIB` (ORG)
+
+*Personnes :* Mohammed VI, Armoiries du Royaume
+
+
+## Article 3
+
+*ART. 3. –*
+
+La ministre de l'économie et des finances est
+chargée de l'exécution du présent décret qui sera publié au
+Bulletin officiel.
+Fait à Rabat, le 20 joumada II 1447 (11 décembre 2025).
+AZIZ AKHANNOUCH.
+Pour contreseing :
+La ministre de l'économie
+et des finances,
+NADIA FETTAH.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7467 du 1er rejeb 1447 (22 décembre 2025).
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `20 joumada II 1447` (DATE_HIJRI), `11 décembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7467` (BULLETIN_OFFICIEL), `1er rejeb 1447` (DATE_HIJRI), `22 décembre 2025` (DATE_GREGORIAN)
+
+*Dates :* 20 joumada II 1447, 11 décembre 2025, 1er rejeb 1447, 22 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Est approuvée la décision du
+Conseil de Bank Al-Maghrib relative à la mise en circulation
+de pièces de monnaie de 1000 dirhams en or et de 250 dirhams
+en argent commémorant la 35ème édition de la Coupe d'Afrique
+des Nations-Maroc 2025.
+
+*Organisations :* Conseil de Bank Al-Maghrib
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les pièces de monnaie commémoratives ont
+cours légal et présentent les caractéristiques suivantes  :
+– La pièce de monnaie commémorative en or  :
+– Alliage : Or 916,7 millièmes ;
+– Poids : 39,94 grammes ;
+– Diamètre : 38,61 millimètres ;
+– Tranche : Cannelée ;
+– Frappe : Proof.
+Avers :
+– Au centre  : Effgiie de Sa Majesté le Roi Mohammed VI
+avec de part et d'autre les inscriptions suivantes en
+lettres arabes et Tifinagh :
+« ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ-مالملكة مالغربية »
+– En bas  : l'inscription «محمد السادس» entourée des
+millésimes  : 2025-1447
+Revers  :
+– Au centre :
+• Représentation artistique du nouveau Complexe Sportif
+Prince Moulay Abdellah de Rabat, surmontée de rayons
+festifs ainsi que de la carte de l'Afrique.
+• L'inscription suivante :
+« Morocco 2025 مالغرب »
+– En bas  : La valeur faciale en chiffres et en lettres arabes :
+«ألف 1000 درهم»
+La pièce de monnaie commémorative en argent :
+– Alliage : Argent : 925 millièmes ;
+Cuivre  : 75 millièmes ;
+– Poids : 28,28 grammes ;
+– Diamètre : 38,61 millimètres ;
+– Tranche : Cannelée ;
+– Frappe : Proof.
+Avers :
+– Au centre  : Effgiie de Sa Majesté Le Roi Mohammed VI
+avec de part et d'autre les inscriptions suivantes en
+lettres arabes et Tifinagh :
+« ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ-مالملكة مالغربية »
+– En bas  : l'inscription «محمد السادس» entourée des
+millésimes  : 2025-1447
+Revers :
+– Au centre :
+• Représentation artistique du nouveau Complexe sportif
+Prince Moulay Abdellah de Rabat, surmontée de rayons
+festifs ainsi que de la carte de l'Afrique.
+«مالغرب
+• L'inscription suivante : « Morocco 2025
+– En bas : La valeur faciale en chiffres et en lettres arabes  :
+«250 مائتان وخمسون درهما»
+
+*Personnes :* Mohammed VI, Effgiie de Sa Majesté, Mohammed VI, Prince Moulay Abdellah de Rabat
+
+
+## Article 3
+
+*ART. 3. –*
+
+La ministre de l'économie et des finances est
+chargée de l'exécution du présent décret qui sera publié au
+Bulletin officiel.
+Fait à Rabat, le 20 joumada II 1447 (11 décembre 2025).
+AZIZ AKHANNOUCH.
+Pour contreseing :
+La ministre de l'économie
+et des finances,
+NADIA FETTAH.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7467 du 1er rejeb 1447 (22 décembre 2025).
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `20 joumada II 1447` (DATE_HIJRI), `11 décembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7467` (BULLETIN_OFFICIEL), `1er rejeb 1447` (DATE_HIJRI), `22 décembre 2025` (DATE_GREGORIAN)
+
+*Dates :* 20 joumada II 1447, 11 décembre 2025, 1er rejeb 1447, 22 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Est approuvé le retrait de la
+circulation des billets de banque suivants dont le cours légal
+et le pouvoir libératoire cesseront à partir du 1er janvier 2026 :
+– les billets de banque de 10, 50, 100 et 200 dirhams
+mis en circulation en vertu du décret n° 2-87-368 du
+28 ramadan 1407 (27 mai 1987) ;
+– les billets de banque de 10 dirhams mis en circulation
+en vertu du décret 2-90-876 du 8 joumada I 1411
+(27 novembre 1990) ;
+– les billets de banque de 20 dirhams mis en circulation en
+vertu du décret 2-96-473 du 23 safar 1417 (10 juillet 1996).
+
+*Entités :* `1er janvier 2026` (DATE_GREGORIAN), `décret n° 2-87-368` (DECRET), `28 ramadan 1407` (DATE_HIJRI), `27 mai 1987` (DATE_GREGORIAN), `décret 2-90-876` (DECRET), `8 joumada I 1411` (DATE_HIJRI), `27 novembre 1990` (DATE_GREGORIAN), `décret 2-96-473` (DECRET), `23 safar 1417` (DATE_HIJRI), `10 juillet 1996` (DATE_GREGORIAN)
+
+*Dates :* 1er janvier 2026, 28 ramadan 1407, 27 mai 1987, 8 joumada I 1411, 27 novembre 1990, 23 safar 1417, 10 juillet 1996
+
+
+## Article 2
+
+*ART.  2.  –*
+
+L'échange des billets de banque retirés
+se poursuivra, librement et sans limitation, après la date
+susmentionnée auprès des guichets des établissements
+bancaires et de Bank Al-Maghrib jusqu'au 31 décembre 2030.
+
+*Entités :* `31 décembre 2030` (DATE_GREGORIAN)
+
+*Dates :* 31 décembre 2030
+
+
+## Article 3
+
+*ART. 3. –*
+
+La ministre de l'économie et des finances est
+chargée de l'exécution du présent décret qui sera publié au
+Bulletin officiel.
+Fait à Rabat, le 2 rejeb 1447 (23 décembre 2025).
+AZIZ AKHANNOUCH.
+Pour contreseing :
+La ministre de l'économie
+et des finances,
+NADIA FETTAH.
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `2 rejeb 1447` (DATE_HIJRI), `23 décembre 2025` (DATE_GREGORIAN)
+
+*Dates :* 2 rejeb 1447, 23 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'appel à manifestation d'intérêt
+(AMI) prévu à l'article 23 de la loi susvisée n°84-21 est préparé
+et lancé par l'Agence nationale pour le développement de
+l'aquaculture, désignée ci-après l'Agence, sur décision de
+l'autorité gouvernementale chargée de la pêche maritime.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 23` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence nationale pour le développement de
+l'aquaculture, Agence
+
+
+## Article 2
+
+*ART. 2. –*
+
+L'AMI contient les éléments suivants :
+1 – Les références relatives à la loi précitée n°84-21,
+au présent décret et au décret portant approbation du plan
+aquacole couvrant la zone concernée par l'AMI, s'il existe,
+ainsi que toutes autres références règlementaires utiles ;
+2 – Les informations relatives aux espaces, objets de
+l'AMI, en particulier leurs coordonnées géographiques et les
+espèces à élever, cultiver ou conserver dans ces espaces ;
+3 – Les règles générales de participation à l'AMI ;
+4 –La liste des documents constituant le dossier
+administratif et technique déposé à l'appui de la demande de
+participation à l'AMI ;
+5 – Le lieu et la date limite de dépôt des demandes de
+participation à l'AMI ;
+6 – Les critères d'évaluation, de sélection et de classement
+des candidatures ;
+7 – Le formulaire de demande de participation à l'AMI ;
+8 – La date maximale de proclamation des résultats de
+l'AMI sur le site web de l'Agence.
+
+*Entités :* `84-21` (LOI)
+
+*Organisations :* Agence
+
+
+## Article 3
+
+*ART. 3. –*
+
+La demande de participation à l'AMI, établie
+sur le formulaire prévu au 7) de l'article 2 ci-dessus, est
+déposée, contre récépissé, auprès du service compétent de
+l'Agence, y compris par voie électronique.
+La demande doit être accompagnée d'un dossier
+contenant les documents dont la liste est fixée par arrêté de
+l'autorité gouvernementale chargée de la pêche maritime
+permettant de choisir les attributaires selon les critères fixées
+à l'article 23 de la loi précitée n°84-21.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 2` → arrêté [✓]
+- `l'article 23` → arrêté [✓]
+
+*Organisations :* Agence
+
+
+## Article 4
+
+*ART. 4. –*
+
+Dans un délai maximum de quinze (15) jours
+ouvrables à compter de la date limite prévue au 5) de l'article
+2 ci-dessus, les demandes accompagnées des dossiers y relatifs
+sont soumises à l'avis d'un comité technique dont les membres
+sont désignés et les modalités de fonctionnement sont fixées
+par décision de l'autorité gouvernementale chargée de la pêche
+maritime.
+Le comité technique compte, au moins, un représentant
+de l'autorité gouvernementale chargée de la pêche maritime,
+un représentant de l'Agence et un représentant de l'institut
+national de recherche halieutique (INRH).
+Le président dudit comité technique peut inviter à
+assister, à titre consultatif, aux réunions du comité, toute
+personne dont la participation lui paraît utile.
+Ledit comité technique procède à l'évaluation des
+dossiers déposés, conformément aux critères de choix prévus
+à l'article 23 de la loi précitée n°84-21 et établit un classement
+aux fins d'établir la liste des attributaires.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article
+2` → décret n° 2-24-830 [✓]
+- `l'article 23` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence, institut
+national de recherche halieutique
+
+
+## Article 5
+
+*ART. 5. –*
+
+La liste des attributaires et une liste d'attente,
+le cas échéant, sont approuvées par décision de l'autorité
+gouvernementale chargée de la pêche maritime.
+Les attributaires sont informés par l'Agence des résultats
+de l'AMI par tout moyen faisant preuve de la réception, y
+compris par voie électronique, dans un délai maximum de dix
+(10) jours ouvrables, à compter de la date de proclamation des
+résultats dudit appel sur le site de l'Agence.
+Chapitre II
+Des autorisations de fermes aquacoles
+
+*Organisations :* Agence des résultats
+de l'AMI, Agence
+
+
+## Article 6
+
+*ART. 6. –*
+
+La demande d'autorisation de ferme aquacole
+et le dossier l'accompagnant prévus à l'article 26 de la loi
+précitée n° 84-21, sont déposés, y compris par voie électronique,
+auprès du service compétent de l'Agence, contre récépissé.
+Ladite demande est établie selon le modèle disponible
+auprès des services de l'Agence et sur son site web.
+La liste des documents constituant le dossier
+accompagnant la demande est fixée par arrêté de l'autorité
+gouvernementale chargée de la pêche maritime.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 26` → arrêté [✓]
+
+*Organisations :* Agence
+
+
+## Article 7
+
+*ART. 7. –*
+
+Pour l'instruction du dossier de la demande
+d'autorisation de ferme aquacole, il est procédé comme suit :
+1) le service compétent de l'Agence s'assure de la
+faisabilité du projet, objet de la demande, conformément aux
+dispositions de l'article 26 de la loi précitée n° 84-21 ;
+2) si la faisabilité du projet est acceptée, le dossier de la
+demande est soumis à l'avis :
+a) de l'INRH qui dispose d'un délai maximum de quinze
+(15) jours pour donner son avis. Toutefois, dans le cas où une
+étude est nécessaire, ce délai est suspendu jusqu'à la remise
+du rapport final de l'étude ;
+b) de l'administration de la défense nationale lorsqu'il
+est prévu d'implanter la ferme aquacole, objet de la demande,
+totalement ou partiellement en mer ;
+c) toute autre administration ou collectivité territoriale
+concernée, compte tenu de la nature du projet ;
+3) en cas d'avis favorable de l'INRH, un accord de
+principe est délivré par l'Agence au demandeur, dans un
+délai maximum de soixante (60) jours, à compter de la date
+de dépôt de la demande, sous réserve de la suspension du
+délai prévu au a) du 2) ci-dessus. Cet accord de principe
+est délivré au demandeur pour lui permettre d'obtenir la
+décision d'acceptabilité environnementale et/ou l'autorisation
+d'occupation temporaire du domaine public, le cas échéant.
+L'accord de principe a une durée de validité de deux (2) ans à
+compter de la date de sa délivrance ;
+4) suite à la réception des documents visés au 3) ci-
+dessus, le dossier de la demande, accompagné d'une note
+établie par l'Agence, sont adressés par celle-ci à l'autorité
+gouvernementale chargée de la pêche maritime, aux fins de
+l'établissement de l'autorisation ;
+5) l'autorisation est transmise par l'Agence au demandeur
+par tout moyen faisant preuve de la réception, y compris par
+voie électronique, dans un délai maximum de trente (30) jours,
+à compter de la date de production du dernier document visé
+au 3) ci-dessus.
+Les demandes d'autorisations de fermes aquacoles
+déposées dans le cadre d'un AMI ne sont pas soumises, pour
+leur instruction, aux formalités prévues au 1) et au a) du 2)
+du présent article.
+L'administration de la défense nationale et les autres
+administrations et collectivités territoriales visées ci-dessus
+disposent d'un délai maximum de quinze (15) jours, à compter
+de la date de leur saisine, pour rendre leurs avis.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 26` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence
+
+
+## Article 8
+
+*ART. 8. –*
+
+La demande d'autorisation de ferme aquacole
+est rejetée dans les cas suivants :
+1. non faisabilité du projet, objet de la demande ;
+2. avis défavorable de l'INRH et/ou de l'Administration
+de la défense nationale ;
+3. non production des documents exigés, suite à l'accord
+de principe, avant l'expiration de sa durée de validité.
+Le rejet motivé de la demande d'autorisation est notifié
+par l'Agence au demandeur par tout moyen faisant preuve de la
+réception, y compris par voie électronique, dans l'un des deux
+délais prévus au 3) ou au 5) de l'article 7 ci-dessus, selon le cas.
+
+*Citations :*
+
+- `l'article 7` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence
+
+
+## Article 9
+
+*ART. 9. –*
+
+L'autorisation de ferme aquacole est établie
+selon le modèle fixé par arrêté de l'autorité gouvernementale
+chargée de la pêche maritime et publiée au «Bulletin officiel»,
+conformément aux dispositions de l'article 29 de la loi précitée
+n°84-21.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 29` → arrêté [✓]
+
+
+## Article 10
+
+*ART. 10. –*
+
+Pour l'application des dispositions de l'article 36
+de la loi précitée n° 84-21, la demande de prorogation du délai
+de démarrage des travaux d'installation de la ferme aquacole
+est établie selon le modèle disponible auprès des services de
+l'Agence et sur son site web. Cette demande est déposée, y
+compris par voie électronique, par le titulaire de l'autorisation
+de la ferme aquacole concernée, auprès du service compétent
+de l'Agence, contre récépissé.
+Cette demande, accompagnée, conformément aux
+dispositions dudit article 36, de tout document justifiant le
+motif de la prorogation demandée, doit être déposée six (6)
+mois, au moins, avant l'expiration de la 3ème année de validité
+de l'autorisation, sous peine de refus.
+En cas d'acceptation, la décision de prorogation, établie
+par l'autorité gouvernementale chargée de la pêche maritime,
+est adressée par l'Agence, au demandeur, par tout moyen
+faisant preuve de la réception, y compris par voie électronique,
+dans un délai maximum de trente (30) jours à compter de la
+date de réception de ladite demande.
+Tout refus de prorogation doit être motivé et notifié par
+l'Agence au demandeur, dans le délai sus indiqué.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 36` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence
+
+
+## Article 11
+
+*ART. 11. –*
+
+La demande de modification de l'autorisation
+de ferme aquacole prévue à l'article 31 de la loi précitée n°84-21
+est déposée, par le titulaire de l'autorisation concernée, contre
+récépissé, auprès du service compétent de l'Agence, y compris
+par voie électronique.
+Ladite demande, établie selon le modèle disponible
+auprès des services de l'Agence et sur son site web, est
+accompagnée, conformément aux dispositions dudit article 31,
+d'un dossier comprenant les documents dont la liste est fixée
+par arrêté de l'autorité gouvernementale chargée de la pêche
+maritime.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 31` → arrêté [✓]
+
+*Organisations :* Agence
+
+
+## Article 12
+
+*ART. 12. –*
+
+Pour l'instruction du dossier de la demande
+de modification, il est procédé comme suit :
+1) L'Agence s'assure de la faisabilité du projet de
+modification, objet de la demande ;
+2) Si la faisabilité du projet de modification est acceptée,
+l'Agence soumet le dossier de la demande à l'avis :
+a) de l'INRH, si nécessaire, qui dispose d'un délai
+maximum de quinze (15) jours pour donner son avis. Toutefois,
+dans le cas où une étude est nécessaire, ce délai est suspendu
+jusqu'à la remise du rapport final de l'étude ;
+b) de l'Administration de la défense nationale lorsque
+la modification demandée concerne les coordonnées
+géographiques d'une ferme aquacole implantée totalement
+ou partiellement en mer ;
+c) toute autre administration ou collectivité territoriale
+concernée, compte tenu de la nature de la modification
+demandée.
+3) en cas d'avis favorable de l'INRH, un accord de
+principe est délivré, si nécessaire, par l'Agence au demandeur,
+selon les modalités prévues à l'article 7 ci-dessus ;
+4) le dossier complet de la demande, accompagné d'une
+note établie par l'Agence sont adressés par celle-ci à l'autorité
+gouvernementale chargée de la pêche maritime, aux fins de
+l'établissement de la décision de modification de l'autorisation ;
+5) la décision de modification est transmise par l'Agence
+au demandeur par tout moyen faisant preuve de la réception,
+y compris par voie électronique, dans un délai maximum de :
+– soixante (60) jours, à compter de la date de dépôt de la
+demande, dans les cas ne nécessitant pas un accord de
+principe, sous réserve de la suspension du délai prévu
+au a) du 2) ci-dessus, le cas échéant ;
+– trente (30) jours, à compter de la date de production du
+dernier document visé au 3) de l'article 7 ci-dessus, dans
+les cas nécessitant l'accord de principe ;
+6) la décision de modification est publiée au
+«Bulletin officiel».
+La consultation de l'INRH visée au a) du 2) ci-dessus
+est obligatoire lorsque la demande de modification concerne
+les coordonnées géographiques de la ferme aquacole, ou
+les espèces cultivées, élevées et/ou conservées ainsi que les
+techniques d'élevage, de culture ou de conservation desdites
+espèces.
+L'administration de la défense nationale et les autres
+administrations et collectivités territoriales visées ci-dessus
+disposent d'un délai maximum de quinze (15) jours, à compter
+de la date de leur saisine, pour rendre leurs avis.
+
+*Citations :*
+
+- `l'article 7` → décret n° 2-24-830 [✓]
+- `l'article 7` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence, Agence
+au demandeur
+
+
+## Article 13
+
+*ART. 13. –*
+
+La modification de l'autorisation de ferme
+aquacole est refusée dans les cas suivants :
+1. non faisabilité du projet de modification, objet de la
+demande ;
+2. avis défavorable de l'INRH et/ou de l'Administration
+de la défense nationale ;
+3. non production des documents exigés, suite à l'accord
+de principe, avant l'expiration de sa durée de validité.
+Le refus motivé de modifciation est notiféi au demandeur
+par tout moyen faisant preuve de la réception, y compris par
+voie électronique, dans le même délai que celui prévu pour
+délivrer la décision de modification.
+
+
+## Article 14
+
+*ART.  14.  –*
+
+La demande de renouvellement de
+l'autorisation de ferme aquacole prévue à l'article 33 de la loi
+précitée n° 84-21 est établie selon le modèle disponible auprès
+des services de l'Agence et sur son site web.
+Cette demande est déposée et instruite selon les mêmes
+modalités que celles prévues aux articles 6 et 7 ci-dessus.
+En cas d'acceptation de renouvellement de l'autorisation
+de ferme aquacole, une décision de renouvellement est délivrée
+au demandeur selon les mêmes modalités que celles prévues
+à l'article 7 ci-dessus.
+La décision de renouvellement de l'autorisation est
+publiée au « Bulletin officiel ».
+Tout refus de renouvellement de l'autorisation doit
+être motivé et notifié au demandeur par tout moyen faisant
+preuve de la réception, y compris par voie électronique, dans
+le même délai que celui fixé pour l'octroi de la décision de
+renouvellement.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 33` → décret n° 2-24-830 [✓]
+- `articles 6 et 7` → décret n° 2-24-830 [✓]
+- `l'article 7` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence
+
+
+## Article 15
+
+*ART. 15. –*
+
+En application des dispositions de l'article 34
+de la loi précitée n°84-21, le contrôle des fermes aquacoles est
+effectué par les agents habilités par l'autorité gouvernementale
+chargée de la pêche maritime, visés à l'article 78 de ladite loi
+n° 84-21.
+Les visites de contrôle des fermes aquacoles, prévues
+audit article 34, sont effectuées par les agents précités, à
+l'initiative de l'autorité gouvernementale chargée de la pêche
+maritime ou suite à un rapport faisant état de non-conformités
+ou insuffisances qui lui est transmis par :
+– l'Agence, suite à une visite de suivi effectuée dans le
+cadre de sa mission de suivi de l'activité de l'aquaculture
+marine, conformément aux dispositions de la loi
+susvisée n° 52-09, ou par ;
+– l'INRH, suite à une visite de surveillance effectuée
+dans le cadre de ses missions de surveillance de la
+salubrité des produits de l'aquaculture dans leur milieu,
+conformément aux dispositions de l'article 2 de la loi
+susvisée n°48-95.
+
+*Entités :* `loi
+n° 84-21` (LOI), `84-21` (LOI), `52-09` (LOI), `48-95` (LOI)
+
+*Citations :*
+
+- `l'article 34` → loi n° 84-21 [✓]
+- `l'article 78` → loi n° 84-21 [✓]
+- `l'article 2` → loi n° 84-21 [✓]
+
+*Organisations :* Agence
+
+
+## Article 16
+
+*ART. 16. –*
+
+Le titulaire de l'autorisation de ferme aquacole
+suspendue, conformément aux dispositions de l'article 34 de la
+loi précitée n°84-21, qui estime avoir remédié, avant l'expiration
+de la durée du délai fixé dans la décision de suspension, aux
+non conformités ou insuffisances ayant entrainés celle-ci, peut
+demander la levée de la suspension de l'autorisation.
+Dans ce cas, une visite de la ferme aquacole concernée
+est effectuée dans un délai ne dépassant pas dix (10) jours
+ouvrables, à compter de la date de réception de ladite demande.
+Un rapport de la visite est établi par le ou les agents l'ayant
+effectuée.
+Au vu de ce rapport, la suspension de l'autorisation de
+ferme aquacole peut être levée par l'autorité gouvernementale
+chargée de la pêche maritime, s'il est constaté qu'il a été remédié
+aux non-conformités ou insuffisances constatées. Dans le cas
+contraire, la suspension de l'autorisation est maintenue.
+La levée de la suspension de l'autorisation ou le maintien
+de celle-ci est notiféi à l'intéressé par tout moyen faisant preuve
+de la réception, y compris par voie électronique, dans un délai
+ne dépassant pas dix (10) jours ouvrables à compter de la date
+de la visite susmentionnée.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 34` → décret n° 2-24-830 [✓]
+
+
+## Article 17
+
+*ART. 17. –*
+
+Il est mis fin à la suspension de l'autorisation
+de la ferme aquacole, si, à l'expiration du délai fixé dans la
+décision de suspension, il est constaté, au vu du rapport établi
+suite à une nouvelle visite de ladite ferme aquacole, qu'il a
+été remédié aux non-conformités ou insuffisances constatées.
+Dans le cas contraire, l'autorisation est retirée.
+La décision de la levée de la suspension et la décision
+du retrait motivée de l'autorisation de la ferme aquacole
+sont notifiées à l'intéressé par tout moyen faisant preuve de
+la réception, dans un délai ne dépassant pas dix (10) jours
+ouvrables, à compter de la date de la visite sus-indiquée, y
+compris par voie électronique.
+
+
+## Article 18
+
+*ART.  18.  –*
+
+Les retraits de l'autorisation de fermes
+aquacoles prévus aux articles 30, 35 et 37 de la loi précitée
+n°84-21 doivent être motivés et notifiés aux intéressés par
+tout moyen faisant preuve de la réception, y compris par voie
+électronique.
+Le délai prévu à l'article 34 de la loi précitée n°84-21,
+accordé à la personne dont l'autorisation de ferme aquacole
+est retirée, pour commercialiser ou transférer les espèces
+halieutiques détenues dans ladite ferme, est fixé dans la
+décision de retrait de l'autorisation.
+Ce délai ne peut être inférieur à un (1) mois ni supérieur
+à six (6) mois.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `articles 30, 35 et 37` → décret n° 2-24-830 [✓]
+- `l'article 34` → décret n° 2-24-830 [✓]
+
+
+## Article 19
+
+*ART. 19. –*
+
+Le registre national des autorisations de
+ferme aquacoles prévu à l'article 29 de la loi précitée n° 84-21
+est tenu et mis à jour par l'Agence, y compris sous format
+électronique.
+Ce registre comprend la liste des fermes aquacoles
+autorisées ainsi que les informations suivantes relatives à
+chaque ferme :
+1) la dénomination et l'identifiant de la ferme aquacole ;
+2) la date de publication au « Bulletin officiel » de
+l'autorisation y afférente, ainsi que les informations relatives
+à ladite autorisation, prévues à l'article 29 de la loi précitée
+n° 84-21 ;
+3) le mode d'élevage, de culture ou de conservation des
+espèces halieutiques ;
+4) la largeur de la zone de protection accordée à la ferme
+aquacole, le cas échéant ;
+5) le nombre, l'immatriculation et les caractéristiques
+des navires auxiliaires d'aquaculture marine attachés à ladite
+ferme aquacole, le cas échéant.
+Le registre peut être consulté sur le site web de l'Agence
+selon les modalités qu'elle fixe.
+Chapitre III
+Exploitation de la ferme aquacole
+Section première. – Zone de protection de La ferme aquacole
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 29` → décret n° 2-24-830 [✓]
+- `l'article 29` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence, Agence
+selon les modalités
+
+
+## Article 20
+
+*ART. 20. –*
+
+En application des dispositions de l'article 42
+de la loi précitée n°84-21, la largeur de la zone de protection
+autour d'une ferme aquacole est fixée dans l'autorisation de
+la ferme aquacole. Cette largeur ne peut être inférieure à 10
+mètres ni supérieure à 200 mètres autour des limites maritimes
+de la ferme aquacole.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 42` → décret n° 2-24-830 [✓]
+
+
+## Article 21
+
+*ART. 21. –*
+
+Les dispositifs de signalement de la zone de
+protection de la ferme aquacole prévus à l'article 42 de la loi
+précitée n°84-21 sont constitués de moyens de balisage en mer
+dont les spécifications techniques doivent être conformes à la
+réglementation en vigueur.
+Ces dispositifs doivent être entretenus et maintenus en
+état de fonctionnement par le titulaire de l'autorisation de la
+ferme aquacole concernée.
+Section 2. – Autorisation préalable d'introduction et de transfert
+des organismes marins
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 42` → décret n° 2-24-830 [✓]
+
+
+## Article 22
+
+*ART. 22. –*
+
+L'autorisation préalable d'introduction ou de
+transfert des organismes marins prévue à l'article 43 de la loi
+précitée n°84-21 est délivrée par l'autorité gouvernementale
+chargée de la pêche maritime au titulaire de l'autorisation de
+ferme aquacole qui en fait la demande.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 43` → décret n° 2-24-830 [✓]
+
+
+## Article 23
+
+*ART. 23. –*
+
+La demande de l'autorisation préalable visée à
+l'article 22 ci-dessus, établie selon le modèle disponible auprès
+des services de l'Agence et sur son site web, est déposée, y
+compris par voie électronique, contre récépissé, auprès du
+service compétent de ladite Agence.
+La demande est accompagnée d'un dossier contenant
+les documents dont la liste est fixée par arrêté de l'autorité
+gouvernementale chargée de la pêche maritime et permettant :
+– d'identifier le demandeur, la ou les fermes aquacoles
+concernées, le lieu d'introduction dans le milieu marin
+ainsi que le ou les organismes marins dont l'introduction
+ou le transfert est demandé ;
+– de vérifeir que les modalités de réalisation des opérations
+d'introduction ou de transfert des organismes marins,
+notamment les méthodes et les moyens de contrôle
+proposés sont conformes aux standards scientifiques
+et techniques applicables en la matière.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 22` → arrêté [✓]
+
+*Organisations :* Agence
+
+
+## Article 24
+
+*ART. 24. –*
+
+Le service compétent de l'Agence vérifie
+la complétude du dossier de la demande visé à l'article 23
+ci-dessus.
+Le dossier complet de la demande est soumis par
+l'Agence à l'avis de l'INRH et de l'Office National de Sécurité
+Sanitaire des Produits Alimentaires (ONSSA), qui disposent
+d'un délai de quinze (15) jours pour rendre leur avis. Toutefois,
+dans le cas où une étude est nécessaire, ce délai est suspendu
+jusqu'à la remise du rapport final de l'étude.
+En cas d'avis favorable de l'INRH et de l'ONSSA, le
+dossier de la demande, les avis de l'INRH et de l'ONSSA ainsi
+qu'une note établie par l'Agence sont adressés par celle-ci
+à l'autorité gouvernementale chargée de la pêche maritime,
+aux fins de l'établissement de l'autorisation préalable
+correspondante.
+Cette autorisation est transmise par l'Agence au
+demandeur, par tout moyen faisant preuve de la réception,
+y compris par voie électronique, dans un délai maximum
+de soixante (60) jours, à compter de la date de dépôt de la
+demande, sous réserve de la suspension du délai visé ci-dessus.
+En cas d'avis défavorable de l'INRH et/ou de l'ONSSA,
+la demande est rejetée.
+Le rejet motivé de la demande est notifié au demandeur
+par tout moyen faisant preuve de la réception, y compris par
+voie électronique, dans le même délai indiqué au quatrième
+alinéa ci-dessus.
+
+*Citations :*
+
+- `l'article 23` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence, Office National de Sécurité
+Sanitaire
+
+
+## Article 25
+
+*ART. 25. –*
+
+L'autorisation préalable d'introduction ou de
+transfert des organismes marins est établie selon le modèle
+correspondant fixé par arrêté de l'autorité gouvernementale
+chargée de la pêche maritime.
+Elle comporte, outre sa durée de validité, les mentions
+relatives à son titulaire et aux organismes marins concernés,
+leurs quantités, ainsi que, selon le cas, les mentions relatives
+aux fermes aquacoles et au milieu marin concernés.
+L'autorisation préalable a une durée de validité d'une
+année, à compter de la date de sa délivrance. Elle ne peut être
+utilisée que pour les organismes marins et les quantités qui y
+sont mentionnés.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 26
+
+*ART. 26. –*
+
+Tout lot d'organismes marins, devant être
+introduit dans une ferme aquacole ou dans le milieu marin
+ou transféré d'une ferme aquacole à une autre, doit être
+accompagné des documents sanitaires délivrés, à cet effet,
+conformément à la législation et la réglementation en vigueur.
+Le titulaire de l'autorisation préalable, visée à l'article 23
+ci-dessus, informe, par tout moyen faisant preuve de la
+réception, y compris par voie électronique, le service compétent
+du département de la pêche maritime et l'Agence de la date
+prévue pour l'introduction ou le transfert des organismes
+marins, au moins 48 heures avant ladite date.
+Section 3. – Autorisation de capture des alevins ou de naissains
+dans le milieu marin et autorisation de cueillette des boutures
+des végétaux marins
+
+*Citations :*
+
+- `l'article 23` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence de la date
+prévue
+
+
+## Article 27
+
+*ART. 27. –*
+
+Pour l'obtention de l'autorisation de capture,
+dans le milieu marin, des alevins ou des naissains et de
+l'autorisation de cueillette des boutures de végétaux marins,
+prévues à l'article 44 de la loi précitée n°84-21, le titulaire de
+l'autorisation de la ferme aquacole concernée doit déposer
+une demande, à cet effet, contre récépissé, y compris par voie
+électronique, auprès du service compétent de l'Agence.
+La demande est établie selon le modèle correspondant
+disponible auprès des services de l'Agence et sur son site Web.
+Elle est accompagnée d'un dossier constitué des documents
+dont la liste est fixée par arrêté de l'autorité gouvernementale
+chargée de la pêche maritime.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 44` → arrêté [✓]
+
+*Organisations :* Agence
+
+
+## Article 28
+
+*ART. 28. –*
+
+Pour l'instruction de la demande visée à
+l'article 27 ci-dessus, il est procédé comme suit :
+1) L'Agence procède à un examen de faisabilité de la
+capture ou de la cueillette demandée, en tenant compte des
+dispositions de l'arrêté prévu à l'article 29 ci-dessous ainsi que
+de la règlementation relative à la pêche maritime applicable
+dans le ou les lieux prévus pour la capture ou la cueillette ;
+2) Si la faisabilité de la capture ou de la cueillette est
+acceptée, la demande est soumise par l'Agence, à l'avis de
+l'INRH qui dispose d'un délai de dix (10) jours pour rendre
+son avis. Toutefois, dans le cas où une étude est nécessaire
+pour rendre cet avis, ce délai est suspendu jusqu'à la remise
+du rapport final de l'étude ;
+3) En cas d'avis favorable de l'INRH, le dossier de la
+demande, l'avis de l'INRH, ainsi qu'une note établie par
+l'Agence sont adressés à l'autorité gouvernementale chargée de
+la pêche maritime aux fins de l'établissement de l'autorisation
+correspondante ;
+4) L'autorisation est transmise par l'Agence au
+demandeur, par tout moyen faisant preuve de la réception,
+y compris par voie électronique, dans un délai maximum de
+soixante (60) jours à compter de la date de dépôt de la demande,
+sous réserve de la suspension du délai visée au 2) ci-dessus.
+En cas de non faisabilité de la capture ou de la cueillette
+ou en cas d'avis défavorable de l'INRH, la demande est rejetée.
+Le rejet motivé de la demande est notifié au demandeur
+par tout moyen faisant preuve de la réception, y compris par
+voie électronique, dans les mêmes délais que ceux prévus pour
+la délivrance de l'autorisation.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 27` → arrêté [✓]
+- `l'article 29` → arrêté [✓]
+
+*Organisations :* Agence
+
+
+## Article 29
+
+*ART. 29. –*
+
+La liste des espèces pouvant faire l'objet de
+capture d'alevins ou de naissains ou de cueillette de boutures
+est fixée par arrêté de l'autorité gouvernementale chargée de
+la pêche maritime, sur proposition de l'ANDA et après avis
+conforme de l'INRH.
+L'Agence nationale des eaux et forêts (ANEF) est
+consultée dans le cas où une ou plusieurs des espèces dont
+l'inscription est prévue dans la liste susindiquée sont classées
+dans l'une des catégories prévues à l'article 4 de la loi n°29-05
+relative à la protection des espèces de folre et de faune sauvage
+et au contrôle de leur commerce.
+Sont également fixées par ledit arrêté les conditions
+techniques de capture desdits alevins ou naissains ou de
+cueillette desdites boutures
+
+*Entités :* `arrêté` (ARRETE), `loi n°29-05
+relative à la protection des espèces de folre et de faune sauvage` (LOI)
+
+*Citations :*
+
+- `l'article 4` → arrêté [✓]
+
+*Organisations :* Agence nationale des eaux et forêts
+
+
+## Article 30
+
+*ART. 30. –*
+
+L'autorisation de capture des alevins ou des
+naissains et l'autorisation de cueillette des boutures de végétaux
+marins sont établies selon le modèle correspondant fixé par
+arrêté de l'autorité gouvernementale chargée de la pêche
+maritime et comportent, outre les mentions d'identifciation du
+demandeur et de la ferme aquacole concernée, les informations
+ci-après :
+1) la quantité, la taille et/ou le poids des spécimens de la
+ou des espèces dont la capture ou la cueillette dans le milieu
+marin est autorisée ;
+2) le ou les lieux prévus pour effectuer la capture ou la
+cueillette ;
+3) la ou les périodes de l'année durant laquelle ou
+lesquelles les opérations de capture ou de cueillette sont
+prévues ;
+4) les informations relatives au navire ou aux navires de
+pêche disposant d'une licence de pêche en cours de validité
+pour la ou les périodes et le ou les lieux mentionnés dans
+l'autorisation, en cas d'utilisation d'un navire de pêche ;
+5) la ou les méthodes de pêche et les engins ou instruments
+de pêche autorisés ;
+6) toute autre mention utile.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 31
+
+*ART. 31. –*
+
+L'autorisation de capture des alevins ou
+des naissains et l'autorisation de cueillette des boutures de
+végétaux marins ont une durée de validité d'une année, à
+compter de la date de leur délivrance.
+
+
+## Article 32
+
+*ART. 32. –*
+
+Tout lot d'alevins ou de naissains capturés doit,
+pour son introduction dans la ferme aquacole concernée, être
+accompagné des documents sanitaires délivrés conformément
+à la législation et la règlementation en vigueur.
+Section IV. – Récupération des espèces évadées
+
+
+## Article 33
+
+*ART. 33. –*
+
+En application des dispositions de l'article 45
+de la loi précitée n°84-21, le titulaire de l'autorisation de ferme
+aquacole doit immédiatement déclarer au service compétent
+du département de la pêche maritime et à l'Agence, par tout
+moyen faisant preuve de la réception, y compris par voie
+électronique, toute évasion d'espèces aquacoles élevées ou
+conservées dans sa ferme.
+La déclaration sus-indiquée est établie selon le modèle
+disponible auprès des services de l'Agence et sur son site web.
+Outre les mentions d'identification du titulaire de
+l'autorisation et de la ferme aquacole concernée, la déclaration
+comprend les informations relatives au lieu de l'évasion, aux
+espèces évadées, ainsi qu'une estimation de leur quantité avec
+l'indication de leur état sanitaire.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 45` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence
+
+
+## Article 34
+
+*ART.  34.  –*
+
+Le titulaire de l'autorisation de ferme
+aquacole peut effectuer la récupération des espèces évadées,
+objet de la déclaration, visée à l'article 33 ci-dessus dans
+les espaces occupés par les installations et équipements de
+la ferme aquacole et dans la zone de protection accordée à
+ladite ferme, par tout moyen approprié utilisé par le titulaire
+de l'autorisation de ferme aquacole ou sous sa responsabilité.
+
+*Citations :*
+
+- `l'article 33` → décret n° 2-24-830 [✓]
+
+
+## Article 35
+
+*ART. 35. –*
+
+Le titulaire de l'autorisation de la ferme
+aquacole concernée doit déclarer les espèces récupérées au
+service compétent du département de la pêche maritime et à
+l'Agence dans un délai n'excédant pas 24 heures, à compter
+de la date de leur récupération.
+En outre, un rapport relatant l'évènement et les mesures
+de récupération prises, ainsi que leur résultat doit être adressé
+par le titulaire de l'autorisation de ferme aquacole, au service
+compétent du département de la pêche maritime et à l'Agence
+dans un délai maximum de trente (30) jours à compter de
+la date de l'évasion. Ledit rapport est établi selon le modèle
+fourni par l'Agence et disponible sur son site web.
+Les informations relatives à l'évasion et à la récupération
+des espèces aquacoles, visées aux articles 33 et 34 ci-dessus
+doivent être reportées sur le registre prévu à l'article 52 de la
+loi précitée n°84-21.
+Chapitre IV
+Modalités d'exercice de certaines activités aquacoles
+Section première. – Autorisation d'activité de recherche scientifique
+aquacole et autorisation d'activité d'aquaculture expérimentale
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `articles 33 et 34` → décret n° 2-24-830 [✓]
+- `l'article 52` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence, Agence
+dans un délai maximum de trente
+
+
+## Article 36
+
+*ART. 36. –*
+
+La demande d'autorisation d'activité de
+recherche scientifique aquacole et la demande d'autorisation
+d'activité d'aquaculture expérimentale, prévues respectivement
+aux articles 63 et 66 de la loi précitée n° 84-21, sont établies
+selon le modèle correspondant disponible auprès des services
+de l'Agence et sur son site web.
+Lesdites demandes sont déposées, y compris par voie
+électronique, contre récépissé, auprès du service compétent de
+l'Agence, par l'établissement ou l'organisme visé à l'article 62 de
+la loi précitée n°84-21, en ce qui concerne l'activité de recherche
+scientifique aquacole, et par le titulaire de l'autorisation
+de ferme aquacole devant abriter l'activité d'aquaculture
+expérimentale, en ce qui concerne l'expérimentation.
+La liste des documents constituant les dossiers, prévus
+respectivement auxdits articles 63 et 66 de ladite loi n° 84-21
+accompagnant lesdites demandes est fixée par arrêté de
+l'autorité gouvernementale chargée de la pêche maritime.
+
+*Entités :* `loi n° 84-21` (LOI), `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `articles 63 et 66` → loi n° 84-21 [✓]
+- `l'article 62` → loi n° 84-21 [✓]
+- `articles 63 et 66` → loi n° 84-21 [✓]
+
+*Organisations :* Agence
+
+
+## Article 37
+
+*ART. 37. –*
+
+Le service compétent de l'Agence procède à
+l'examen de faisabilité du projet de recherche scientifique ou
+d'expérimentation, objet de la demande, conformément aux
+dispositions de l'article 63 ou de l'article 66 de la loi précitée
+n° 84-21, selon le cas.
+En cas de faisabilité du projet, l'Agence soumet le dossier
+de la demande à l'INRH qui dispose d'un délai de quinze
+(15) jours pour rendre son avis. Toutefois, dans le cas où une
+étude ou une visite de conformité est nécessaire, ce délai est
+suspendu jusqu'à la remise du rapport final de l'étude ou de
+la visite.
+En cas d'avis favorable de l'INRH, le dossier de la
+demande, l'avis de l'INRH ainsi qu'une note établie par
+l'Agence sont adressés par celle-ci à l'autorité gouvernementale
+chargée de la pêche maritime, aux fins de l'établissement de
+l'autorisation correspondante.
+L'autorisation est transmise par l'Agence au demandeur,
+par tout moyen faisant preuve de la réception, y compris par
+voie électronique, dans un délai maximum de soixante (60)
+jours, à compter de la date de dépôt de la demande, sous
+réserve de la suspension du délai sus indiqué.
+En cas de non faisabilité du projet ou en cas d'avis
+défavorable de l'INRH, la demande est rejetée.
+Tout rejet de la demande doit être motivé et notifié au
+demandeur par tout moyen faisant preuve de la réception, y
+compris par voie électronique, dans le même délai indiqué au
+quatrième alinéa ci-dessus.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 63` → décret n° 2-24-830 [✓]
+- `l'article 66` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence
+
+
+## Article 38
+
+*ART.  38.  –*
+
+L'autorisation d'activité de recherche
+scientifique aquacole et l'autorisation d'activité d'aquaculture
+expérimentale sont établies selon les modèles fixés par arrêté
+de l'autorité gouvernementale chargée de la pêche maritime.
+Outre sa durée de validité, chaque autorisation comporte
+les mentions et informations prévues respectivement aux
+articles 61 et 67 de la loi précitée n°84-21, selon le cas.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `articles 61 et 67` → arrêté [✓]
+
+
+## Article 39
+
+*ART.  39.  –*
+
+La demande de renouvellement de
+l'autorisation d'activité de recherche scientifique aquacole,
+prévue à l'article 64 de la loi précitée n°84-21, doit être déposée,
+sous peine de rejet, six (6) mois, au moins, avant l'expiration
+de sa durée de validité.
+La demande de renouvellement est déposée et instruite
+selon les mêmes modalités que celles prévues aux articles 36
+et 37 ci-dessus.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 64` → décret n° 2-24-830 [✓]
+- `articles 36
+et 37` → décret n° 2-24-830 [✓]
+
+
+## Article 40
+
+*ART. 40. –*
+
+La demande de prorogation de validité de
+l'autorisation d'activité d'aquaculture expérimentale, prévue à
+l'article 67 de la loi précitée n°84-21, est établie par le titulaire
+de l'autorisation concernée selon le modèle disponible auprès
+des services de l'Agence et sur son site web. Elle est déposée,
+y compris par voie électronique, contre récépissé, auprès du
+service compétent de l'Agence.
+Sous peine de rejet, cette demande doit être déposée,
+trois (3) mois, au moins, avant l'expiration de la durée de
+validité de l'autorisation concernée.
+La demande doit être accompagnée de tout document
+justifiant le motif de la prorogation demandée.
+En cas d'acceptation, la décision de prorogation, établie
+par l'autorité gouvernementale chargée de la pêche maritime,
+est adressée par l'Agence au demandeur, par tout moyen
+faisant preuve de la réception, y compris par voie électronique,
+dans un délai maximum de trente (30) jours, à compter de la
+date de dépôt de la demande.
+Tout refus de la prorogation doit être motivé et adressé
+au demandeur dans le même délai indiqué au quatrième alinéa
+ci-dessus.
+Section 2. – Autorisation d'activité d'aquaculture
+pour la formation
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 67` → décret n° 2-24-830 [✓]
+
+*Organisations :* Agence
+
+
+## Article 41
+
+*ART.  41.  –*
+
+L'autorisation pour l'exercice d'activité
+d'aquaculture pour la formation, visée à l'article 74 de la loi
+précitée n°84-21, est délivrée par l'autorité gouvernementale
+chargée de la pêche maritime, sur sa demande, au titulaire de
+l'autorisation de ferme aquacole devant abriter les activités de
+formation pratique.
+Le demandeur doit s'engager à respecter les clauses
+d'un cahier des charges, établi à cet effet, selon le modèle fixé
+par arrêté de l'autorité gouvernementale chargée de la pêche
+maritime.
+La demande sus indiquée, établie selon le modèle
+disponible auprès des services de l'Agence et sur son site web,
+est déposée, contre récépissé, y compris par voie électronique,
+auprès du service compétent de l'Agence.
+Cette demande est accompagnée d'un dossier
+comprenant, outre le cahier des charges sus indiqué, les
+documents dont la liste est fixée par arrêté de l'autorité
+gouvernementale chargée de la pêche maritime.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 74` → arrêté [✓]
+
+*Organisations :* Agence
+
+
+## Article 42
+
+*ART. 42. –*
+
+Le service compétent de l'Agence procède à
+un examen de la complétude du dossier de la demande.
+Pour se prononcer sur la demande, l'Agence peut
+effectuer une visite des installations de la ferme devant abriter
+les activités de formation pratique.
+Le dossier de la demande ainsi qu'une note établie par
+l'Agence sont adressés par celle-ci à l'autorité gouvernementale
+chargée de la pêche maritime aux fins de l'établissement de
+l'autorisation.
+L'autorisation est transmise par l'Agence au demandeur,
+par tout moyen faisant preuve de la réception, y compris par
+voie électronique, dans un délai maximum de soixante (60)
+jours, à compter de la date de dépôt de la demande.
+Tout rejet de la demande doit être motivé et notifié
+à l'intéressé par tout moyen faisant preuve de réception, y
+compris par voie électronique, dans le même délai indiqué
+ci-dessus.
+
+*Organisations :* Agence
+
+
+## Article 43
+
+*ART. 43. –*
+
+L'autorisation d'activités d'aquaculture pour
+la formation est établie selon le modèle fixé par arrêté de
+l'autorité gouvernementale chargée de la pêche maritime.
+Outre sa durée de validité, l'autorisation comporte les
+mentions et informations relatives à l'identité de son titulaire et
+de la ferme aquacole concernée, les caractéristiques générales
+de l'espace réservé aux activités de formation pratique ainsi
+que les moyens humains et matériels mis en place pour assurer
+la sécurité des personnes au cours de ladite formation pratique.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 44
+
+*ART. 44. –*
+
+S'il est constaté, suite à un contrôle effectué
+conformément aux dispositions de l'article 15 ci-dessus, qu'une
+ou plusieurs des conditions ayant permis la délivrance de
+l'autorisation pour l'exercice d'activité d'aquaculture pour la
+formation ne sont plus remplies, celle-ci est retirée.
+La décision du retrait motivée de l'autorisation est
+notifiée à l'intéressé par tout moyen faisant preuve de la
+réception, y compris par voie électronique.
+Chapitre V
+Dispositions diverses et finales
+
+*Citations :*
+
+- `l'article 15` → décret n° 2-24-830 [✓]
+
+
+## Article 45
+
+*ART. 45. –*
+
+En application des dispositions de l'article 78
+de la loi précitée n°84-21, les catégories des personnels de
+l'autorité gouvernementale chargée de la pêche maritime
+habilités à rechercher et constater les infractions aux
+dispositions de ladite loi et aux textes pris pour son application
+et dresser les procès-verbaux y afférent sont fixées par arrêté
+de cette autorité.
+Pour être habilités, lesdits agents doivent disposer de
+connaissances et de compétences dans les domaines traités par
+la loi précitée n°84-21 et les textes pris pour son application.
+A cet effet, ils doivent avoir suivi une formation dans les
+domaines de l'aquaculture marine et de la pêche maritime ainsi
+qu'en matière de procédure judiciaire et de verbalisation, selon
+le programme établi, à cet effet, par l'autorité gouvernementale
+chargée de la pêche maritime.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 78` → arrêté [✓]
+
+
+## Article 46
+
+*ART. 46. –*
+
+Dans l'exercice de leurs missions, les agents
+mentionnés à l'article 45 ci-dessus doivent être munis et porter
+de manière apparente, une carte professionnelle délivrée, à
+cet effet, par l'autorité gouvernementale chargée de la pêche
+maritime, permettant leur identification et celle du service
+auquel ils sont rattachés.
+La carte professionnelle sus indiquée est établie selon le
+modèle fixé par arrêté de l'autorité gouvernementale chargée
+de la pêche maritime.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 45` → arrêté [✓]
+
+
+## Article 47
+
+*ART. 47. –*
+
+La requête prévue à l'article 88 de la loi précitée
+n°84-21 est déposée contre récépissé, par le contrevenant,
+auprès de la délégation des pêches maritimes dans le ressort de
+laquelle l'infraction a été constatée, dans un délai maximum de
+sept (7) jours ouvrables, à compter de la date de l'établissement
+du procès-verbal d'infraction.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 88` → décret n° 2-24-830 [✓]
+
+
+## Article 48
+
+*ART. 48. –*
+
+Le montant de l'amende de transaction prévue
+à l'article 88 de la loi précitée n°84-21 est fixé par décision de
+l'autorité gouvernementale chargée de la pêche maritime.
+Cette décision qui mentionne également l'identité du
+contrevenant et la référence du procès-verbal de constatation
+de l'infraction est notifiée au contrevenant par l'autorité
+gouvernementale chargée de la pêche maritime dans le délai
+prévu audit article 88.
+
+*Entités :* `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 88` → décret n° 2-24-830 [✓]
+
+
+## Article 49
+
+*ART. 49. –*
+
+En application des dispositions de l'article 30
+de la loi précitée n° 84-21, l'accord autorisant la poursuite de
+l'exploitation d'une ferme aquacole par un tiers, y compris le
+titulaire d'une autre autorisation de ferme aquacole est délivré
+par l'autorité gouvernementale chargée de la pêche maritime.
+La demande d'accord, établie par le titulaire de
+l'autorisation concernée, selon le modèle disponible auprès
+des services de l'Agence et sur son site web, est déposée, y
+compris par voie électronique, contre récépissé, auprès du
+service compétent de ladite Agence.
+La demande est accompagnée d'un dossier contenant
+les documents dont la liste est fixée par arrêté de l'autorité
+gouvernementale chargée de la pêche maritime.
+Suite à l'instruction du dossier, l'Agence adresse le dossier
+complet de la demande ainsi qu'une note établie par celle-ci à
+l'autorité gouvernementale chargée de la pêche maritime, aux
+fins de l'établissement de l'accord correspondant.
+Cet accord est transmis par l'Agence au demandeur, par
+tout moyen faisant preuve de la réception, y compris par voie
+électronique, dans un délai maximum de soixante (60) jours
+à compter de la date de dépôt de la demande.
+Tout rejet de la demande doit être motivé et adressé à
+l'intéressé par tout moyen faisant preuve de la réception, y
+compris par voie électronique, dans le même délai sus indiqué.
+
+*Entités :* `arrêté` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 30` → arrêté [✓]
+
+*Organisations :* Agence
+
+
+## Article 50
+
+*ART. 50. –*
+
+Les espèces halieutiques vivantes doivent être
+transportées et étiquetées selon les modalités fixées par arrêté
+de l'autorité gouvernementale chargée de la pêche maritime et
+de l'autorité gouvernementale chargée de l'agriculture, compte
+tenu des dispositions de la législation et de la réglementation
+relative à la sécurité sanitaire des produits alimentaires.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 51
+
+*ART. 51. –*
+
+Sont fixés par arrêtés de l'autorité gouvernementale
+chargée de la pêche maritime :
+1 - les modalités de la déclaration de vacance de ferme
+aquacole prévue à l'article 38 de la loi précité n°84-21 ;
+2 - les modèles des demandes prévues au présent décret ;
+3 - le modèle du procès-verbal d'infraction prévu à
+l'article 81 de la loi précitée n°84-21 ;
+4 - les modalités d'établissement du procès-verbal de
+prélèvement d'échantillon prévu à l'article 82 de la loi précitée
+n°84-21 ;
+5 -  les modalités de destruction des produits de
+l'aquaculture marine saisis, prévue à l'article 84 de la loi
+précitée n°84-21 ;
+6 - les modalités de tenue et de mise à jour, par le
+titulaire de l'autorisation de ferme aquacole, du registre prévu
+à l'article 52 de la loi précitée n°84-21, ainsi que les modalités
+de sa consultation par les agents habilités visés à l'article 45
+ci-dessus, les agents relevant de l'Agence et les agents relevant
+de l'INRH.
+
+*Entités :* `arrêtés` (ARRETE), `84-21` (LOI)
+
+*Citations :*
+
+- `l'article 38` → arrêtés [✓]
+- `l'article 81` → arrêtés [✓]
+- `l'article 82` → arrêtés [✓]
+- `l'article 84` → arrêtés [✓]
+- `l'article 52` → arrêtés [✓]
+- `l'article 45` → arrêtés [✓]
+
+*Organisations :* Agence
+
+
+## Article 52
+
+*ART. 52. –*
+
+Le ministre de l'agriculture, de la pêche
+maritime, du développement rural et des eaux et forêts est
+chargé de l'exécution du présent décret qui sera publié au
+Bulletin officiel.
+Fait à Rabat, le 1er rejeb 1447 (22 décembre 2025).
+AZIZ AKHANNOUCH.
+Pour contreseing :
+Le ministre de l'agriculture,
+de la pêche maritime,
+du développement rural
+et des eaux et forêts,
+AHMED EL BOUARI.
+
+*Entités :* `ministre de l'agriculture` (MINISTERE), `1er rejeb 1447` (DATE_HIJRI), `22 décembre 2025` (DATE_GREGORIAN)
+
+*Personnes :* AHMED EL BOUARI
+
+*Dates :* 1er rejeb 1447, 22 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+En application des dispositions de
+l'article 2 (b) de la loi susvisée n°36-01, sont fixées comme suit
+les règles prudentielles relatives aux placements financiers du
+Fonds Hassan II pour le développement économique et social,
+désigné ci-dessous « Fonds » qui se constituent sous forme :
+1) d'au moins 70% des :
+a) bons de trésor ;
+b) obligations bénéfciiant de la garantie de l'Etat ou de la
+garantie de la société nationale de garantie et du financement
+de l'entreprise ;
+c) titres émis par les organismes de placement collectif
+en valeurs mobilières (OPCVM) dont les éléments d'actifs sont
+constitués de bons du Trésor ou d'obligations bénéficiant de
+la garantie de l'Etat ou de la garantie de la société nationale
+de garantie et du financement de l'entreprise ;
+d) titres émis par les organismes de placement collectif,
+y compris les certificats Sukuk émis par les fonds de
+placements collectifs en titrisation (FPCT) ou les titres émis
+par les organismes de placement collectif immobilier (OPCI),
+à condition que l'État soit l'initiateur de la constitution de
+l'organisme et que la détermination et la gestion des risques
+encourus par les placements dans ces titres soient similaires
+aux placements en bons du Trésor ou en obligations bénéfciiant
+de la garantie de l'État ou de la garantie de la société nationale
+de garantie et du financement de l'entreprise.
+Les opérations de pension et/ou de prêt de titres
+ne peuvent se réaliser que dans la limite de 10% de l'ensemble
+des titres prévus par le présent paragraphe.
+Les bons du Trésor ou les titres d'OPCVM dont l'objet
+de leur placement concerne des bons du Trésor, doivent
+constituer 35% de l'ensemble des placements prévus par le
+présent paragraphe.
+2) d'au plus de 30% :
+– des instruments financiers définis au paragraphe 1) de
+l'article 2 de la loi n° 44-12 relative à l'appel public à
+l'épargne et aux informations exigées des personnes
+morales et organismes faisant appel public à l'épargne ;
+– et de titres d'organismes de placement collectif
+immobilier (OPCI).
+
+*Entités :* `loi n° 44-12 relative à l'appel public à` (LOI), `36-01` (LOI)
+
+*Citations :*
+
+- `l'article 2` → loi n° 44-12 relative à l'appel public à [✓]
+- `l'article 2` → loi n° 44-12 relative à l'appel public à [✓]
+
+*Organisations :* Fonds Hassan II, Fonds
+
+
+## Article 2
+
+*ART. 2. –*
+
+A l'exception des fonds placés sous forme de
+bons du Trésor, des pourcentages maximums des placements
+financiers par émetteur ou groupe d'émetteurs peuvent être
+fixés par le directoire du Fonds.
+
+*Organisations :* Fonds
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les placements financiers et les opérations
+visés à l'article premier ci-dessus doivent tenir compte des
+engagements du Fonds et être suffisamment diversiféis pour lui
+permettre de se prémunir contre une concentration des risques.
+
+*Organisations :* Fonds
+
+
+## Article 4
+
+*ART. 4. –*
+
+Est abrogé l'arrêté du ministre de l'économie,
+des finances et de la réforme de l'administration n°2873-19 du
+22 safar 1441 (21 octobre 2019) fixant les règles prudentielles
+relatives aux placements financiers du Fonds Hassan II pour
+le développement économique et social.
+
+*Entités :* `arrêté du ministre de l'économie` (ARRETE), `22 safar 1441` (DATE_HIJRI), `21 octobre 2019` (DATE_GREGORIAN)
+
+*Organisations :* Fonds Hassan II
+
+*Dates :* 22 safar 1441, 21 octobre 2019
+
+
+## Article 5
+
+*ART.5. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 21 rabii II 1447 (14 octobre 2025).
+NADIA FETTAH.
+
+*Entités :* `arrêté` (ARRETE), `21 rabii II 1447` (DATE_HIJRI), `14 octobre 2025` (DATE_GREGORIAN)
+
+*Dates :* 21 rabii II 1447, 14 octobre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+La liste des services liés aux activités
+autorisées à s'implanter dans la zone d'accélération industrielle
+de Betoya prévue dans l'article 4 du décret n°2-09-684
+susvisé, est fixé comme suit :
+– Services de communication, de marketing, de
+certification et de promotion qui permettraient aux
+investisseurs installés dans la zone d'accélération
+industrielle d'améliorer leur capacité de pénétration
+des marchés ;
+– Services de maintenance et d'entretien des équipements
+des unités industrielles et des locaux ;
+– Services de recyclage et de valorisation des déchets
+produits par les acteurs ;
+– Services de peinture de surfaces, de coupe et de
+lamination dans la zone d'accélération industrielle ;
+– Entretien du site et de ses installations (espaces publics) ;
+–  Gestion des parkings (sous-terrain et surface) à
+l'intérieur de la zone d'accélération industrielle ;
+– Etablissements d'assistance technique et de formation,
+réservés exclusivement au personnel des entreprises
+installées à l'intérieur de la zone d'accélération
+industrielle ;
+– Centres d'exposition réservés aux biens d'équipement et
+produits des sociétés installées à l'intérieur de la zone
+d'accélération industrielle ;
+– Centres d'affaires fournissant des plateaux bureaux,
+des services de télécommunication, secrétariat,
+reprographie et salles de réunions à destination
+des sociétés en cours d'installation dans la zone
+d'accélération industrielle ;
+– Les activités de commerce de biens d'équipement,
+outillage, petit matériel, pièces de rechanges destinées
+aux unités industrielles de la zone ;
+– Services d'externalisation de fonctions administratives
+et financières pour les entreprises installées dans la zone
+d'accélération industrielle ;
+– Activités immobilières d'aménagement des lots
+industriels, de construction des locaux industriels et
+de plateaux bureaux pour les entreprises industrielles et
+de services sous toutes les formes de mise à disposition
+possibles (leasing, location, vente) ;
+– Services de conseil à l'agencement, à l'ameublement
+des plateaux bureaux, de déménagement et aide à
+l'installation ;
+– Services d'accompagnement des entreprises à la
+certification et à l'installation des systèmes de
+management de la qualité ;
+– Activités de logistique, de magasinage, d'entreposage
+et de stockage ;
+– Activités de pointage, de pesage et d'acheminement des
+marchandises ;
+– Ingénierie et bureaux d'études techniques ;
+–  Travaux d'aménagement des zones d'activités
+industrielles, logistiques et de stockage des produits
+énergiques ;
+– Travaux d'infrastructures et de superstructures
+portuaires ;
+– Travaux d'informatique, de bureautique et de tirage
+de plans ;
+– Laboratoires d'essais, de métrologie, de contrôle,
+d'analyses de matières premières de produits finis ou
+semi-finis utilisés ou produits par les unités installées
+dans la zone d'accélération industrielle ;
+– Services de sécurité du site : télésurveillance et
+vidéosurveillance dans la zone d'accélération
+industrielle, gardiennage et contrôle des entrées/sorties
+du site et des installations des entreprises ;
+– Services de gestion des infrastructures de secours ;
+– Services de restauration au profit du personnel des
+entreprises installées dans ladite zone ;
+– Services de manutention des marchandises et de
+transport du personnel des entreprises installées dans
+ladite zone ;
+– Service de médecine de travail ;
+– Service ambulancier sur zone ;
+– Services postaux ;
+– Services bancaires ;
+– Service de transport terrestre ;
+– Service de réparation et nettoyage de conteneurs ;
+– Service d'empotage/dépotage spécialisés (les marchandises
+réfrigérés, dangereux, vacs solides/liquides) ;
+– Assurances et courtiers maritimes ;
+– Centres privés de formation maritime-portuaire ;
+– Services de contrôle utilisant la plongée sous-marine ;
+– Activités de consignataire maritime ;
+– Services de manutention portuaire, de chargement et
+de déchargement des navires, y compris les opérations
+de transbordement ;
+– Services de stockage et d'entreposage des marchandises
+en zone portuaire, y compris les hydrocarbures et
+produits dangereux conformément à la réglementation
+en vigueur ;
+– Services aux navires : pilotage, remorquage, amarrage,
+soutage et avitaillement en carburant et en vivres,
+collecte, traitement, gestion et évacuation des déchets
+et résidus des navires ;
+– Services de réparation navale et d'entretien des
+embarcations ;
+– Services logistiques liés au transport maritime ;
+Plus généralement, tous les services liés aux navires et
+à la marchandise dans le port.
+
+*Entités :* `décret n°2-09-684` (DECRET), `2-09-684` (DECRET)
+
+*Citations :*
+
+- `l'article 4` → décret n°2-09-684 [✓]
+
+*Organisations :* Services de conseil, Service de médecine de travail, Service ambulancier sur zone, Service de transport terrestre, Service de réparation et nettoyage de conteneurs, Service d'empotage/dépotage spécialisés
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté conjoint sera publié au
+Bulletin officiel.
+Rabat, le 29 rabii II 1447 (22 octobre 2025).
+La ministre de l'économie
+Le ministre de l'industrie et
+et des finances,
+NADIA FETTAH.
+du commerce,
+RYAD MEZZOUR.
+
+*Entités :* `arrêté conjoint` (ARRETE), `29 rabii II 1447` (DATE_HIJRI), `22 octobre 2025` (DATE_GREGORIAN)
+
+*Dates :* 29 rabii II 1447, 22 octobre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté visé
+ci-dessus n° 1964-06 du 20 rejeb 1427 (15 août 2006) fixant
+les prix et les marges commerciales maxima du sucre raffiné
+à tous les échelons de la commercialisation est modifié et
+complété comme suit :
+« Article premier. – Les prix de vente maxima du sucre
+« raffiné sortie usine, sont fixés comme suit :
+(La suite sans modification.)
+ART. 2. – Le présent arrêté, qui prend effet à compter du
+1er janvier 2026, est publié au Bulletin officiel.
+Rabat, le 19 joumada II 1447 (10 décembre 2025).
+NADIA FETTAH.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `20 rejeb 1427` (DATE_HIJRI), `15 août 2006` (DATE_GREGORIAN), `1er janvier 2026` (DATE_GREGORIAN), `19 joumada II 1447` (DATE_HIJRI), `10 décembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Dates :* 20 rejeb 1427, 15 août 2006, 1er janvier 2026, 19 joumada II 1447, 10 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+A compter du 1er janvier 2026,
+les nouveaux prix de vente au public des produits de tabac
+manufacturé, figurant au tableau annexé à l'arrêté susvisé
+n° 771-13 du 18 rabii II 1434 (1er mars 2013), sont homologués
+conformément à l'annexe jointe au présent arrêté.
+
+*Entités :* `1er janvier 2026` (DATE_GREGORIAN), `arrêté susvisé
+n° 771-13` (ARRETE), `18 rabii II 1434` (DATE_HIJRI), `1er mars 2013` (DATE_GREGORIAN), `arrêté` (ARRETE)
+
+*Dates :* 1er janvier 2026, 18 rabii II 1434, 1er mars 2013
+
+
+## Article 2
+
+*Art. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 27 joumada II 1447 (18 décembre 2025).
+NADIA FETTAH.
+*
+*
+*
+
+*Entités :* `arrêté` (ARRETE), `27 joumada II 1447` (DATE_HIJRI), `18 décembre 2025` (DATE_GREGORIAN)
+
+*Dates :* 27 joumada II 1447, 18 décembre 2025
+
+
+## Article Annexe
+
+*Annexe n° 1*
+
+Annexe n° 1
+Liste des nouveaux prix de vente au public
+des produits de tabac manufacturé
+homologué à compter du 1er janvier 2026
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025).
+TEXTES PARTICULIERS
+
+*Entités :* `1er janvier 2026` (DATE_GREGORIAN), `Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Dates :* 1er janvier 2026
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+La société «  BRAIKA
+AQUACULTURE Sarl AU », immatriculée au registre de
+commerce de Dakhla sous le numéro 21515 est autorisée à créer
+et exploiter, dans les conditions fixées par la convention de
+création et d'exploitation de ferme aquacole n° 2025/DOE/550
+signée le 6 joumada I 1447 (29 octobre 2025) entre ladite société
+et la secrétaire d'Etat auprès du ministre de l'agriculture, de la
+pêche maritime, du développement rural et des eaux et forêts,
+chargée de la pêche maritime, une ferme aquacole dénommée
+« Braika Aquaculture Tiniguir » pour l'élevage, au niveau de
+la Baie de Dakhla, des espèces halieutiques suivantes  :
+– l'huître creuse « Crassostrea gigas » ;
+– la moule des espèces « Mytilus galloprovincialis » et
+« Perna perna ».
+
+*Entités :* `société «  BRAIKA
+AQUACULTURE Sarl AU »` (ORG), `6 joumada I 1447` (DATE_HIJRI), `29 octobre 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE)
+
+*Organisations :* BRAIKA, Braika Aquaculture
+
+*Dates :* 6 joumada I 1447, 29 octobre 2025
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le registre tenu par la société « BRAIKA
+AQUACULTURE Sarl AU » en application des dispositions
+de l'article 28-1 du dahir portant loi n° 1-73-255 du 27 chaoual
+1393 (23 novembre 1973) susvisé, répertorie, dans l'ordre
+chronologique, ventilées par espèce, les entrées et les sorties
+de l'huître creuse « Crassostrea gigas » et de la moule des
+espèces « Mytilus galloprovincialis » et « Perna perna » élevées.
+
+*Entités :* `société « BRAIKA
+AQUACULTURE Sarl AU »` (ORG), `dahir portant loi n° 1-73-255 du 27 chaoual
+1393 (23 novembre 1973)` (DAHIR)
+
+*Citations :*
+
+- `l'article 28-1` → dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) [✓]
+
+
+## Article 3
+
+*ART. 3. –*
+
+L'extrait de la convention n° 2025/DOE/550
+mentionnée à l'article premier ci-dessus est annexé au présent
+arrêté conjoint.
+
+*Entités :* `arrêté conjoint` (ARRETE), `arrêté` (ARRETE)
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté conjoint sera publié au
+Bulletin officiel.
+Rabat, le 25 joumada II 1447 (16 décembre 2025).
+La secrétaire d'Etat auprès
+du ministre de l'agriculture,
+Le ministre délégué auprès
+de la ministre de l'économie
+de la pêche maritime,
+du développement rural
+et des eaux et forêts, chargée
+et des finances,
+chargé du budget,
+de la pêche maritime,
+FOUZI LEKJAA.
+ZAKIA DRIOUICH.
+
+*Entités :* `arrêté conjoint` (ARRETE), `25 joumada II 1447` (DATE_HIJRI), `16 décembre 2025` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `arrêté` (ARRETE)
+
+*Dates :* 25 joumada II 1447, 16 décembre 2025
+
+
+## Article Annexe
+
+*Annexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget*
+
+Annexe à l'arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget
+et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts,
+chargée de la pêche maritime n° 2861-25 du 25 joumada II 1447 (16 décembre 2025) autorisant la société
+« BRAIKA AQUACULTURE Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée
+« Braika Aquaculture Tiniguir » et portant publication de l'extrait de la convention y afférente
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `ministre de l'agriculture` (MINISTERE), `25 joumada II 1447` (DATE_HIJRI), `16 décembre 2025` (DATE_GREGORIAN), `société
+« BRAIKA AQUACULTURE Sarl AU »` (ORG), `arrêté` (ARRETE)
+
+*Organisations :* Braika Aquaculture
+
+*Dates :* 25 joumada II 1447, 16 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« – Master's degree field of study « architecture and
+« construction » program subject area « architecture
+«  and town planning  » professional qualification
+« « architect », délivré en date du 31 mai 2022 par Kharkiv
+« national University of civil engineering and architecture -
+« Ukraine, assorti du bachelor degree, program subject
+« area « architecture and town planning » educational
+« program « architecture and town planning », délivré
+« en date du 30 juin 2020 par la même université et d'une
+« attestation de validation du complément de formation,
+«  délivrée par l'Ecole nationale d'architecture de
+« Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2022` (DATE_GREGORIAN), `30 juin 2020` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 31 mai 2022, 30 juin 2020
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« – Master's degree, field of study « architecture and
+« construction », programme subject area « architecture
+« and town planning », délivré en date du 31 décembre
+«  2024 par Lviv polytechnic national University -
+« Ukraine, assorti du bachelor's degree field of study
+« architecture and construction programme subject
+« area architecture and town planning, délivré en
+« date du 30 juin 2023 par la même université et d'une
+« attestation de validation du complément de formation,
+«  délivrée par l'Ecole nationale d'architecture de
+« Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `30 juin 2023` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Personnes :* Lviv polytechnic
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 30 juin 2023
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« – Master's degree field of study « architecture and
+« construction » programme subject area « architecture
+« and town planning », délivré en date du 7 juin 2024
+«  par Ukrainian State University of science and
+« technologies - Ukraine, assorti du bachelor's degree
+«  field of study «  architecture and construction  »
+« program subject area « architecture and town planning  »
+« professional qualification architect, délivré en date
+« du 30 juin 2022 par Prydniprovska State Academy of
+« civil engineering and architecture - Ukraine et d'une
+« attestation de validation du complément de formation,
+«  délivrée par l'Ecole nationale d'architecture de
+« Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `7 juin 2024` (DATE_GREGORIAN), `30 juin 2022` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Personnes :* Prydniprovska State Academy of
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 7 juin 2024, 30 juin 2022
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« – Master's degree, field of study « architecture and
+« construction », programme subject area « architecture
+« and town planning », délivré en date du 31 décembre 2022
+« par Lviv polytechnic national University - Ukraine,
+« assorti du bachelor's degree, feild of study construction,
+« délivré en date du 30 juin 2016 par la même université
+« et d'une attestation de validation du complément de
+« formation, délivrée par l'Ecole nationale d'architecture
+« de Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 décembre 2022` (DATE_GREGORIAN), `30 juin 2016` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Personnes :* Lviv polytechnic
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 31 décembre 2022, 30 juin 2016
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« – Master's degree field of study « architecture and
+« construction » program subject area « architecture
+«  and town planning  » professional qualification
+« « architect », délivré en date du 31 mai 2022 par
+« Kharkiv national University of civil engineering and
+« architecture - Ukraine, assorti du bachelor degree,
+« program subject area « architecture and town planning  »
+« educational program«  architecture and town planning »,
+« délivré en date du 30 juin 2020 par la même université
+« et d'une attestation de validation du complément de
+« formation, délivrée par l'Ecole nationale d'architecture
+« de Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2022` (DATE_GREGORIAN), `30 juin 2020` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 31 mai 2022, 30 juin 2020
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7468 du 4 rejeb 1447 (25 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« – Master of architecture, délivré en date du 4 juin 2021
+« par the Manchester Metropolitan University and the
+« University of Manchester, Royaume Uni, assorti d'une
+« attestation de validation du complément de formation,
+«  delivrée par l'Ecole nationale d'architecture de
+« Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `4 juin 2021` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 4 juin 2021
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« – Master's degree field of study « architecture and
+« construction » program subject area « architecture and
+« town planning » professional qualification architect,
+« délivré en date du 31 mai 2023 par Prydniprovska state
+« academy of civil engineering and architecture, Ukraine,
+« assorti du bachelor degree feild(s) of study architecture
+« and construction program subject area architecture
+« and town planning professional qualifciation architect,
+« délivré en date du 30 juin 2021 par la même académie
+« et d'une attestation de validation du complément de
+« formation, délivrée par l'Ecole nationale d'architecture
+« de Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2023` (DATE_GREGORIAN), `30 juin 2021` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 31 mai 2023, 30 juin 2021
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« – Qualification de master architecture, délivrée en date
+« du 9 juillet 2024 par l'Université d'Etat d'architecture
+« et de génie civil de Nijni Novgorod - Fédération de Russie,
+« assortie de la qualifciation de bachelor dans la spécialité
+« de « architecture », délivrée en date du 7 juillet 2022 par
+« la même université et d'une attestation de validation du
+«  complément de formation, délivrée par l'Ecole
+« nationale d'architecture de Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `9 juillet 2024` (DATE_GREGORIAN), `7 juillet 2022` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 9 juillet 2024, 7 juillet 2022
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+L'article premier de l'arrêté susvisé
+n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est
+complété comme suit :
+« Article premier. – La liste des diplômes reconnus
+« équivalents au diplôme d'architecte de l'Ecole nationale
+« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du
+« baccalauréat, série scientifique ou technique ou d'un diplôme
+« reconnu équivalent, est fixée ainsi qu'il suit :
+« –  Master's degree field of study « architecture and
+« construction » programme subject area « architecture
+« and town planning », délivré en date du 31 mai 2023 par
+« O.M Beketov national University of urban economy in
+« Kharkiv - Ukraine, assorti du bachelor's degree, field
+« of study « architecture and construction », program
+« subject area « architecture and town planning », délivré
+«  en date du 21 juillet 2021 par Kharkiv national
+« University of civil engineering and architecture -
+«  Ukraine et d'une attestation de validation du
+«  complément de formation, délivrée par l'Ecole
+« nationale d'architecture de Rabat. »
+
+*Entités :* `arrêté susvisé
+n° 2797-95` (ARRETE), `20 joumada II 1416` (DATE_HIJRI), `14 novembre 1995` (DATE_GREGORIAN), `loi n° 016-89` (LOI), `31 mai 2023` (DATE_GREGORIAN), `21 juillet 2021` (DATE_GREGORIAN), `2797-95` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → loi n° 016-89 [✓]
+
+*Dates :* 20 joumada II 1416, 14 novembre 1995, 31 mai 2023, 21 juillet 2021
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 7 joumada II 1447 (28 novembre 2025).
+AZZEDDINE EL MIDAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025).
+
+*Entités :* `arrêté` (ARRETE), `7 joumada II 1447` (DATE_HIJRI), `28 novembre 2025` (DATE_GREGORIAN), `Bulletin officiel » n° 7469 du 8 rejeb 1447 (29 décembre 2025)` (BULLETIN_OFFICIEL)
+
+*Personnes :* AZZEDDINE EL MIDAOUI
+
+*Dates :* 7 joumada II 1447, 28 novembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Est octroyé un agrément en qualité
+de membre négociateur-compensateur sur le marché à terme
+d'instruments financiers à la banque « Attijariwafa Bank »
+pour l'exercice de l'activité de négociation-compensation
+d'instruments financiers à terme.
+
+*Entités :* `banque « Attijariwafa Bank »` (ORG)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 12 joumada II 1447 (3 décembre 2025).
+NADIA FETTAH.
+
+*Entités :* `arrêté` (ARRETE), `12 joumada II 1447` (DATE_HIJRI), `3 décembre 2025` (DATE_GREGORIAN)
+
+*Dates :* 12 joumada II 1447, 3 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est octroyé un agrément en qualité
+de membre négociateur-compensateur sur le marché à terme
+d'instruments financiers à la banque « CDG Capital »
+pour l'exercice de l'activité de négociation-compensation
+d'instruments financiers à terme.
+
+*Entités :* `banque « CDG Capital »` (ORG)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 12 joumada II 1447 (3 décembre 2025).
+NADIA FETTAH.
+
+*Entités :* `arrêté` (ARRETE), `12 joumada II 1447` (DATE_HIJRI), `3 décembre 2025` (DATE_GREGORIAN)
+
+*Dates :* 12 joumada II 1447, 3 décembre 2025
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est octroyé un agrément en qualité
+de membre négociateur-compensateur sur le marché à terme
+d'instruments financiers à la banque « Bank of Africa »
+pour l'exercice de l'activité de négociation-compensation
+d'instruments financiers à terme.
+
+*Entités :* `banque « Bank of Africa »` (ORG)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 12 joumada II 1447 (3 décembre 2025).
+NADIA FETTAH.
+
+*Entités :* `arrêté` (ARRETE), `12 joumada II 1447` (DATE_HIJRI), `3 décembre 2025` (DATE_GREGORIAN)
+
+*Dates :* 12 joumada II 1447, 3 décembre 2025
+
+
+---
+
+## Entités du préambule
+
+
+- `décret n° 2-25-964` → DECRET
+- `20 joumada II 1447` → DATE_HIJRI
+- `11 décembre 2025` → DATE_GREGORIAN
+- `7 novembre 2025` → DATE_GREGORIAN
+- `soixante-dix millions d'euros` → MONEY
+- `5 rabii I 1402` → DATE_HIJRI
+- `1er janvier 1982` → DATE_GREGORIAN
+- `ministre de l'économie et des finances` → MINISTERE

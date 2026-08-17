@@ -1,0 +1,5908 @@
+[
+  {
+    "page_number": 1,
+    "bbox": [
+      223.7284,
+      229.5871999999999,
+      427.8228,
+      388.01629999999994
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "TARIFS D’ABONNEMENT",
+        "",
+        ""
+      ],
+      [
+        "AU MAROC\n{\n6 mois 1 an",
+        "",
+        "A L’ETRANGER"
+      ],
+      [
+        "250 DH\n150 DH\n150 DH\n250 DH\n250 DH",
+        "400 DH\n200 DH\n200 DH\n300 DH\n300 DH",
+        "A destination de l’étranger,\npar voies ordinaire, aérienne\nou de la poste rapide interna‑\ntionale, les tarifs prévus ci‑\ncontre sont majorés des frais\nd’envoi, tels qu’ils sont fixés\npar la réglementation postale\nen vigueur."
+      ]
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      24.469199999999997,
+      334.42494999999997,
+      285.25690000000003,
+      418.41695
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Producteur et/ou exportateur",
+        "Origine",
+        "Droit\nantidumping\ndéfinitif"
+      ],
+      [
+        "Groupe « Kandil steel »*",
+        "Egypte",
+        "60,40 %"
+      ],
+      [
+        "Autres producteurs et/ou exportateurs",
+        "Egypte",
+        "84,39 %"
+      ]
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      310.7687,
+      573.0473333333333,
+      571.0561,
+      713.7873999999999
+    ],
+    "n_rows": 4,
+    "n_cols": 2,
+    "rows": [
+      [
+        "DÉSIGNATION\nDES LABORATOIRES",
+        "TYPES\nD’ANALYSES"
+      ],
+      [
+        "– Laboratoire de l’Institut national de\nla recherche agronomique du milieu\nphysique Rabat-Guich.\n..........................................................",
+        "– Analyses des sols, des plantes\net des eaux.\n.................................................."
+      ],
+      [
+        "– Laboratoire « BCS LAB » sis à\nAit Melloul/Agadir.",
+        "– Analyses du sol, des plantes,\ndes eaux et des résidus."
+      ],
+      [
+        "– Laboratoire « ANOUAL LABS » sis\nà Casablanca.",
+        ".................................................."
+      ]
+    ]
+  },
+  {
+    "page_number": 17,
+    "bbox": [
+      310.7687,
+      126.01300000000003,
+      570.998,
+      250.55380000000002
+    ],
+    "n_rows": 7,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "35° 39'14,000'' N",
+        "7° 13'12.000'' W"
+      ],
+      [
+        "2",
+        "35° 39'14,000'' N",
+        "7° 04'8.000'' W"
+      ],
+      [
+        "3",
+        "34° 34'25,000'' N",
+        "7° 04'8.000'' W"
+      ],
+      [
+        "4",
+        "34° 34'25,000'' N",
+        "7° 09'5.000'' W"
+      ],
+      [
+        "5",
+        "34° 21'40,600'' N",
+        "7° 09'5.000'' W"
+      ],
+      [
+        "6",
+        "34° 21'40,600'' N",
+        "7° 13'12.000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      24.469400000000004,
+      306.95140000000004,
+      284.69880000000006,
+      426.6066
+    ],
+    "n_rows": 8,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "35° 37'31,000'' N",
+        "7° 21'16,000'' W"
+      ],
+      [
+        "2",
+        "35° 37'31,000'' N",
+        "7° 18'0,000'' W"
+      ],
+      [
+        "3",
+        "35° 39'14,000'' N",
+        "7° 18'0,000'' W"
+      ],
+      [
+        "4",
+        "35° 39'14,000'' N",
+        "7° 13'12,000'' W"
+      ],
+      [
+        "5",
+        "34° 21'40,600'' N",
+        "7° 13'12,000'' W"
+      ],
+      [
+        "6",
+        "34° 21'40,600'' N",
+        "7° 21'16,000'' W"
+      ],
+      [
+        "7",
+        "35° 36'13,000'' N",
+        "7° 21'16,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 18,
+    "bbox": [
+      310.7687,
+      474.8008,
+      570.998,
+      633.5073
+    ],
+    "n_rows": 9,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "35° 34'56,000'' N",
+        "7° 28'57,000'' W"
+      ],
+      [
+        "2",
+        "35° 34'56,000'' N",
+        "7° 24'31,000'' W"
+      ],
+      [
+        "3",
+        "35° 36'13,000'' N",
+        "7° 24'31,000'' W"
+      ],
+      [
+        "4",
+        "35° 36'13,000'' N",
+        "7° 21'16,000'' W"
+      ],
+      [
+        "5",
+        "34° 21'40,600'' N",
+        "7° 21'16,000'' W"
+      ],
+      [
+        "6",
+        "34° 21'40,600'' N",
+        "7° 30'35,000'' W"
+      ],
+      [
+        "7",
+        "35° 33'10,000'' N",
+        "7° 30'35,000'' W"
+      ],
+      [
+        "8",
+        "35° 33'10,000'' N",
+        "7° 28'57,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 19,
+    "bbox": [
+      24.469500000000004,
+      656.3624,
+      284.69880000000006,
+      776.0176
+    ],
+    "n_rows": 8,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "35° 31'0,000'' N",
+        "7° 39'22,000'' W"
+      ],
+      [
+        "2",
+        "35° 31'0,000'' N",
+        "7° 34'24,000'' W"
+      ],
+      [
+        "3",
+        "35° 33'10,000'' N",
+        "7° 34'24,000'' W"
+      ],
+      [
+        "4",
+        "35° 33'10,000'' N",
+        "7° 30'35,000'' W"
+      ],
+      [
+        "5",
+        "34° 21'40,600'' N",
+        "7° 30'35,000'' W"
+      ],
+      [
+        "6",
+        "34° 21'40,600'' N",
+        "7° 39'22,000'' W"
+      ],
+      [
+        "7",
+        "35° 29'1,000'' N",
+        "7° 39'22,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      24.469500000000004,
+      136.47069999999997,
+      284.69880000000006,
+      277.38570000000004
+    ],
+    "n_rows": 8,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "35° 27'3,000'' N",
+        "7° 50'0,000'' W"
+      ],
+      [
+        "2",
+        "35° 27'3,000'' N",
+        "7° 44'17,000'' W"
+      ],
+      [
+        "3",
+        "35° 29'1,000'' N",
+        "7° 44'17,000'' W"
+      ],
+      [
+        "4",
+        "35° 29'1,000'' N",
+        "7° 39'22,000'' W"
+      ],
+      [
+        "5",
+        "34° 21'40,600'' N",
+        "7° 39'22,000'' W"
+      ],
+      [
+        "6",
+        "34° 21'40,600'' N",
+        "7° 50'0,000'' W"
+      ],
+      [
+        "7",
+        "34° 52'22,800'' N",
+        "7° 50'0,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      310.7687,
+      510.3132,
+      570.998,
+      597.8536
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "34° 52'22,800'' N",
+        "8° 1'16,000'' W"
+      ],
+      [
+        "2",
+        "34° 52'22,800'' N",
+        "7° 50'0,000'' W"
+      ],
+      [
+        "3",
+        "33° 56'18,000'' N",
+        "7° 50'0,000'' W"
+      ],
+      [
+        "4",
+        "33° 56'18,000'' N",
+        "8° 1'16,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 21,
+    "bbox": [
+      24.4695,
+      687.8761,
+      284.6988,
+      775.4164999999999
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "34° 44'1,000'' N",
+        "8° 10'0,000'' W"
+      ],
+      [
+        "2",
+        "34° 44'1,000'' N",
+        "8° 1'16,000'' W"
+      ],
+      [
+        "3",
+        "33° 56'18,000'' N",
+        "8° 1'16,000'' W"
+      ],
+      [
+        "4",
+        "33° 56'18,000'' N",
+        "8° 10'0,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      24.4695,
+      197.96929999999998,
+      284.6988,
+      285.5096
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "34° 44'1,000'' N",
+        "8° 18'56,000'' W"
+      ],
+      [
+        "2",
+        "34° 44'1,000'' N",
+        "8° 10'0,000'' W"
+      ],
+      [
+        "3",
+        "33° 56'18,000'' N",
+        "8° 10'0,000'' W"
+      ],
+      [
+        "4",
+        "33° 56'18,000'' N",
+        "8° 18'56,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 22,
+    "bbox": [
+      310.7687,
+      483.63649999999996,
+      570.998,
+      608.0201
+    ],
+    "n_rows": 7,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "34° 24'25,000'' N",
+        "8° 39'26,000'' W"
+      ],
+      [
+        "2",
+        "34° 24'25,000'' N",
+        "8° 18'56,000'' W"
+      ],
+      [
+        "3",
+        "33° 56'18,000'' N",
+        "8° 18'56,000'' W"
+      ],
+      [
+        "4",
+        "33° 56'18,000'' N",
+        "8° 31'2,000'' W"
+      ],
+      [
+        "5",
+        "33° 45'11,000'' N",
+        "8° 31'2,000'' W"
+      ],
+      [
+        "6",
+        "33° 45'11,000'' N",
+        "8° 39'26,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 23,
+    "bbox": [
+      24.4695,
+      687.8761,
+      284.6988,
+      775.4164999999999
+    ],
+    "n_rows": 5,
+    "n_cols": 3,
+    "rows": [
+      [
+        "Points",
+        "Latitude",
+        "Longitude"
+      ],
+      [
+        "1",
+        "34° 13'56,000'' N",
+        "9° 0'24,000'' W"
+      ],
+      [
+        "2",
+        "34° 13'56,000'' N",
+        "8° 39'26,000'' W"
+      ],
+      [
+        "3",
+        "33° 45'11,000'' N",
+        "8° 39'26,000'' W"
+      ],
+      [
+        "4",
+        "33° 45'11,000'' N",
+        "9° 0'24,000'' W"
+      ]
+    ]
+  },
+  {
+    "page_number": 32,
+    "bbox": [
+      300.54425,
+      90.53573333333327,
+      385.66579999999993,
+      789.1990666666667
+    ],
+    "n_rows": 12,
+    "n_cols": 2,
+    "rows": [
+      [
+        ")HD(\necnavedeR )TH(",
+        "60,482\n2"
+      ],
+      [
+        "eriosivorp\nal\ned\nedoiréP\nnoisuffid",
+        "ua’uqsuj\n)sruoj\n6202.01.13\n6202.50.re1\n481\ntioS(\nuD"
+      ],
+      [
+        "edutitlA\n)m(",
+        "941"
+      ],
+      [
+        "ennetna'd\nruetuaH\n)m(",
+        "01"
+      ],
+      [
+        "noitasiraloP",
+        "V"
+      ],
+      [
+        "étivitceriD",
+        "DN"
+      ],
+      [
+        "syS",
+        "4"
+      ],
+      [
+        ")WBd(\nraP",
+        "42"
+      ],
+      [
+        "edutitaL",
+        "90\n25N53"
+      ],
+      [
+        "edutignoL",
+        "05\n03W50"
+      ],
+      [
+        "ecneuqérF\n)zhM(",
+        "0.001"
+      ],
+      [
+        "noitatS",
+        "deM\nregnaT"
+      ]
+    ]
+  },
+  {
+    "page_number": 35,
+    "bbox": [
+      99.3301,
+      370.9077,
+      488.6462,
+      781.1077
+    ],
+    "n_rows": 28,
+    "n_cols": 6,
+    "rows": [
+      [
+        "1",
+        "beIN SPORTS 1 EN",
+        "29",
+        "beIN SPORTS 2 FR",
+        "57",
+        "Food Network HD"
+      ],
+      [
+        "2",
+        "beIN SPORTS 2 EN",
+        "30",
+        "beIN SPORTS 3 FR",
+        "58",
+        "Travel Channel HD"
+      ],
+      [
+        "3",
+        "beIN SPORTS 3 EN",
+        "31",
+        "beIN Movies 1",
+        "59",
+        "Nat Geo Wild HD"
+      ],
+      [
+        "4",
+        "beIN SPORTS 1 PREMIUM",
+        "32",
+        "beIN Movies 2",
+        "60",
+        "Nat Geo HD"
+      ],
+      [
+        "5",
+        "beIN SPORTS 2 PREMIUM",
+        "33",
+        "beIN Movies 3",
+        "61",
+        "BBC Earth"
+      ],
+      [
+        "6",
+        "beIN SPORTS 3 PREMIUM",
+        "34",
+        "beIN Movies 4",
+        "62",
+        "MBC+ Drama HD"
+      ],
+      [
+        "7",
+        "beIN SPORTS 1",
+        "35",
+        "beIN Drama",
+        "63",
+        "MBC 5"
+      ],
+      [
+        "8",
+        "beIN SPORTS 2",
+        "36",
+        "beIN Series 1",
+        "64",
+        "MBC MAX"
+      ],
+      [
+        "9",
+        "beIN SPORTS 3",
+        "37",
+        "beIN Series 2",
+        "65",
+        "MBC Action"
+      ],
+      [
+        "10",
+        "beIN SPORTS 4",
+        "38",
+        "beIN Gourmet",
+        "66",
+        "MBC 4"
+      ],
+      [
+        "11",
+        "beIN SPORTS 5",
+        "39",
+        "DreamWorks HD",
+        "67",
+        "MBC 3"
+      ],
+      [
+        "12",
+        "beIN SPORTS 6",
+        "40",
+        "FOX HD",
+        "68",
+        "MBC 2"
+      ],
+      [
+        "13",
+        "beIN SPORTS 7",
+        "41",
+        "Fox Movies HD",
+        "69",
+        "MBC 1"
+      ],
+      [
+        "14",
+        "beIN Sport Max 1",
+        "42",
+        "Fox Action Movies HD",
+        "70",
+        "MBC Drama"
+      ],
+      [
+        "15",
+        "beIN Sport Max 2",
+        "43",
+        "Star Movies HD",
+        "71",
+        "MBC Bollywood"
+      ],
+      [
+        "16",
+        "beIN Sport Max 3",
+        "44",
+        "Star World HD",
+        "72",
+        "AL Arabiya"
+      ],
+      [
+        "17",
+        "beIN Sport Max 4",
+        "45",
+        "CNN HD",
+        "73",
+        "Asharq"
+      ],
+      [
+        "18",
+        "beIN Sport Max 5",
+        "46",
+        "Boomerang HD",
+        "74",
+        "Spacetoon"
+      ],
+      [
+        "19",
+        "beIN Sport Max 6",
+        "47",
+        "BeJunior",
+        "",
+        ""
+      ],
+      [
+        "20",
+        "beIN SPORTS NEWS",
+        "48",
+        "Jeem",
+        "",
+        ""
+      ],
+      [
+        "21",
+        "beIN SPORTS FTA",
+        "49",
+        "Baraem",
+        "",
+        ""
+      ],
+      [
+        "22",
+        "beIN SPORTS XTRA 1",
+        "50",
+        "Cbeebies HD",
+        "",
+        ""
+      ],
+      [
+        "23",
+        "beIN SPORTS XTRA 2",
+        "51",
+        "Baby TV HD",
+        "",
+        ""
+      ],
+      [
+        "24",
+        "beIN SPORTS AFC",
+        "52",
+        "Cartoon Network HD",
+        "",
+        ""
+      ],
+      [
+        "25",
+        "beIN SPORTS 1 AFC",
+        "53",
+        "Cartoon Network Hindi HD",
+        "",
+        ""
+      ],
+      [
+        "26",
+        "beIN SPORTS 2 AFC",
+        "54",
+        "Fatafeat HD",
+        "",
+        ""
+      ],
+      [
+        "27",
+        "beIN SPORTS 3 AFC",
+        "55",
+        "HGTV HD",
+        "",
+        ""
+      ],
+      [
+        "28",
+        "beIN SPORTS 1 FR",
+        "56",
+        "Discovery Channel",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 38,
+    "bbox": [
+      125.237,
+      330.16499999999996,
+      473.1970000000001,
+      759.365
+    ],
+    "n_rows": 28,
+    "n_cols": 6,
+    "rows": [
+      [
+        "1",
+        "beIN SPORTS 1 EN",
+        "29",
+        "beIN SPORTS 2 FR",
+        "57",
+        "Food Network HD"
+      ],
+      [
+        "2",
+        "beIN SPORTS 2 EN",
+        "30",
+        "beIN SPORTS 3 FR",
+        "58",
+        "Travel Channel HD"
+      ],
+      [
+        "3",
+        "beIN SPORTS 3 EN",
+        "31",
+        "beIN Movies 1",
+        "59",
+        "Nat Geo Wild HD"
+      ],
+      [
+        "4",
+        "beIN SPORTS 1 PREMIUM",
+        "32",
+        "beIN Movies 2",
+        "60",
+        "NAT Geo HD"
+      ],
+      [
+        "5",
+        "beIN SPORTS 2 PREMIUM",
+        "33",
+        "beIN Movies 3",
+        "61",
+        "BBC Earth"
+      ],
+      [
+        "6",
+        "beIN SPORTS 3 PREMIUM",
+        "34",
+        "beIN Movies 4",
+        "62",
+        "MBC 3"
+      ],
+      [
+        "7",
+        "beIN SPORTS 1",
+        "35",
+        "beIN Drama",
+        "63",
+        "MBC FM"
+      ],
+      [
+        "8",
+        "beIN SPORTS 2",
+        "36",
+        "beIN Series 1",
+        "64",
+        "MBC Persia"
+      ],
+      [
+        "9",
+        "beIN SPORTS 3",
+        "37",
+        "beIN Series 2",
+        "65",
+        "MBC Masr"
+      ],
+      [
+        "10",
+        "beIN SPORTS 4",
+        "38",
+        "beIN Gourmet",
+        "66",
+        "MBC Masr Drama"
+      ],
+      [
+        "11",
+        "beIN SPORTS 5",
+        "39",
+        "DreamWorks HD",
+        "67",
+        "MBC Iraq"
+      ],
+      [
+        "12",
+        "beIN SPORTS 6",
+        "40",
+        "FOX HD",
+        "68",
+        "MBC Plus Drama"
+      ],
+      [
+        "13",
+        "beIN SPORTS 7",
+        "41",
+        "Fox Movies HD",
+        "69",
+        "MBC Masr 2"
+      ],
+      [
+        "14",
+        "beIN Sport Max 1",
+        "42",
+        "Fox Action Movies HD",
+        "70",
+        "MBC 5"
+      ],
+      [
+        "15",
+        "beIN Sport Max 2",
+        "43",
+        "Star Movies HD",
+        "71",
+        "MBC 4"
+      ],
+      [
+        "16",
+        "beIN Sport Max 3",
+        "44",
+        "Star World HD",
+        "72",
+        "MBC Max"
+      ],
+      [
+        "17",
+        "beIN Sport Max 4",
+        "45",
+        "CNN HD",
+        "73",
+        "MBC Bollywood"
+      ],
+      [
+        "18",
+        "beIN Sport Max 5",
+        "46",
+        "Boomerang HD",
+        "74",
+        "MBC 2"
+      ],
+      [
+        "19",
+        "beIN Sport Max 6",
+        "47",
+        "beJunior",
+        "75",
+        "MBC Action"
+      ],
+      [
+        "20",
+        "beIN SPORTS NEWS",
+        "48",
+        "Jeem",
+        "76",
+        "Al Arabiya"
+      ],
+      [
+        "21",
+        "beIN SPORTS FTA",
+        "49",
+        "Baraem",
+        "77",
+        "MBC Drama"
+      ],
+      [
+        "22",
+        "beIN SPORTS XTRA 1",
+        "50",
+        "CBeebies HD",
+        "78",
+        "MBC 1"
+      ],
+      [
+        "23",
+        "beIN SPORTS XTRA 2",
+        "51",
+        "Baby TV HD",
+        "79",
+        "Al Arabiya Business"
+      ],
+      [
+        "24",
+        "beIN SPORTS AFC",
+        "52",
+        "Cartoon Network HD",
+        "",
+        ""
+      ],
+      [
+        "25",
+        "beIN SPORTS 1 AFC",
+        "53",
+        "Cartoon Network\nHindi HD",
+        "",
+        ""
+      ],
+      [
+        "26",
+        "beIN SPORTS 2 AFC",
+        "54",
+        "Fatafeat HD",
+        "",
+        ""
+      ],
+      [
+        "27",
+        "beIN SPORTS 3 AFC",
+        "55",
+        "HGTV HD",
+        "",
+        ""
+      ],
+      [
+        "28",
+        "beIN SPORTS 1 FR",
+        "56",
+        "Discovery Channel",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 46,
+    "bbox": [
+      71.0916654076923,
+      222.2552985644444,
+      524.2804731,
+      365.51539080000003
+    ],
+    "n_rows": 7,
+    "n_cols": 11,
+    "rows": [
+      [
+        "",
+        "",
+        "PPNNRRRR11 ((11999955--",
+        "",
+        "",
+        "PPNNRRRR22 ((22000055--",
+        "",
+        "",
+        "PPMMAATT ((22001111",
+        "",
+        "PPRRDDTTSS (( 22001177--\n22002233))"
+      ],
+      [
+        "",
+        "",
+        "22000055))",
+        "",
+        "",
+        "22001155))",
+        "",
+        "",
+        "22001155))",
+        "",
+        ""
+      ],
+      [
+        "Longueur (km)",
+        "11 240",
+        "",
+        "",
+        "15 560",
+        "",
+        "",
+        "2 360",
+        "",
+        "",
+        "30 000 km ( RC\net RNC)"
+      ],
+      [
+        "Coût (MMDH)",
+        "7,5",
+        "",
+        "",
+        "16,4",
+        "",
+        "",
+        "3",
+        "",
+        "",
+        "36"
+      ],
+      [
+        "Taux de\nréalisation",
+        "100%",
+        "",
+        "",
+        "98%13",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Rythme de\nréalisation",
+        "1 000 km/an",
+        "",
+        "",
+        "1 500 km/an",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Maitre\nd’Ouvrage",
+        "MEE",
+        "",
+        "",
+        "CFR/MEE",
+        "",
+        "",
+        "MEE et INDH",
+        "",
+        "",
+        "FDR - MEE"
+      ]
+    ]
+  },
+  {
+    "page_number": 47,
+    "bbox": [
+      -524.1839082923077,
+      222.25508723333326,
+      -70.9956006,
+      365.5153908
+    ],
+    "n_rows": 7,
+    "n_cols": 11,
+    "rows": [
+      [
+        "",
+        "",
+        "PPNNRRRR11 ((11999955--",
+        "",
+        "",
+        "PPNNRRRR22 ((22000055--",
+        "",
+        "",
+        "PPMMAATT ((22001111",
+        "",
+        "PPRRDDTTSS (( 22001177--\n22002233))"
+      ],
+      [
+        "",
+        "",
+        "22000055))",
+        "",
+        "",
+        "22001155))",
+        "",
+        "",
+        "22001155))",
+        "",
+        ""
+      ],
+      [
+        "Longueur (km)",
+        "11 240",
+        "",
+        "",
+        "15 560",
+        "",
+        "",
+        "2 360",
+        "",
+        "",
+        "30 000 km ( RC\net RNC)"
+      ],
+      [
+        "Coût (MMDH)",
+        "7,5",
+        "",
+        "",
+        "16,4",
+        "",
+        "",
+        "3",
+        "",
+        "",
+        "36"
+      ],
+      [
+        "Taux de\nréalisation",
+        "100%",
+        "",
+        "",
+        "98%13",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Rythme de\nréalisation",
+        "1 000 km/an",
+        "",
+        "",
+        "1 500 km/an",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Maitre\nd’Ouvrage",
+        "MEE",
+        "",
+        "",
+        "CFR/MEE",
+        "",
+        "",
+        "MEE et INDH",
+        "",
+        "",
+        "FDR - MEE"
+      ]
+    ]
+  },
+  {
+    "page_number": 48,
+    "bbox": [
+      69.38397310000002,
+      188.8309587,
+      525.9639731000002,
+      629.4056059
+    ],
+    "n_rows": 31,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé nn°°11:: NNiivveeaauuxx ddee rriissqquuee rroouutitieerr sseelloonn lleess ttyyppeess ddee rroouutteess (( 22002233))"
+      ],
+      [
+        "La qualité et la configuration des infrastructures routières influencent directement le niveau de"
+      ],
+      [
+        "sécurité des usagers. L’analyse présentée par l’Agence Nationale de la Sécurité Routière"
+      ],
+      [
+        "(NARSA), comparant les données de 2015 et de 2023 selon les catégories de routes, met en"
+      ],
+      [
+        "évidence des ddiissppaarriittééss mmaarrqquuééeess eenn mmaattiièèrree ddee rriissqquuee, en particulier sur les réseaux"
+      ],
+      [
+        "secondaires."
+      ],
+      [
+        "Ces écarts traduisent à la fois des différences de conception, d’entretien et de niveau"
+      ],
+      [
+        "d’équipement des voies, et soulignent la nécessité d’interventions ciblées, adaptées aux"
+      ],
+      [
+        "spécificités de chaque type de réseau."
+      ],
+      [
+        "• AAuuttoorroouutteess"
+      ],
+      [
+        "Bien qu’elles ne représentent que 3,7 % du réseau, elles supportent 25,7 % du trafic. Leur taux"
+      ],
+      [
+        "de mortalité reste le plus faible, avec 11,,99 ttuuéé ppoouurr 110000 mmiilllliioonnss ddee vvééhhiiccuulleess--kkmm, et une"
+      ],
+      [
+        "baisse de plus de 29 % des décès depuis 2015, traduisant un niveau de sécurité relativement"
+      ],
+      [
+        "élevé."
+      ],
+      [
+        "• RRoouutteess nnaattiioonnaalleess"
+      ],
+      [
+        "Elles concentrent 2299 %% ddeess ddééccèèss, avec un taux de 33,,66 ttuuééss ppoouurr 110000 mmiilllliioonnss ddee vvééhhiiccuulleess--kkmm."
+      ],
+      [
+        "Malgré une baisse de 36 % du nombre de tués depuis 2015, elles traversent fréquemment"
+      ],
+      [
+        "des zones habitées, où la cohabitation avec les piétons et les usagers vulnérables accroît les"
+      ],
+      [
+        "risques."
+      ],
+      [
+        "• RRoouutteess rrééggiioonnaalleess"
+      ],
+      [
+        "Leur taux de mortalité atteint 55,,66 ttuuééss ppoouurr 110000 mmiilllliioonnss ddee vvééhhiiccuulleess--kkmm. Souvent en état"
+      ],
+      [
+        "dégradé, elles enregistrent un nombre élevé d’accidents graves, alors qu’elles représentent"
+      ],
+      [
+        "20,7 % du réseau."
+      ],
+      [
+        "• RRoouutteess pprroovviinncciiaalleess"
+      ],
+      [
+        "Elles présentent le nniivveeaauu ddee rriissqquuee llee pplluuss éélleevvéé, avec 66,,77 ttuuééss ppoouurr 110000 mmiilllliioonnss ddee vvééhhiiccuulleess--"
+      ],
+      [
+        "kkmm et 2211,,88 %% ddeess ddééccèèss, en particulier parmi les usagers de deux et trois roues. Leur"
+      ],
+      [
+        "sinuosité, leur étroitesse et leur entretien irrégulier constituent des facteurs majeurs de"
+      ],
+      [
+        "danger."
+      ],
+      [
+        "• RRéésseeaauu nnoonn ccllaasssséé eett ppiisstteess"
+      ],
+      [
+        "En 2023, ce réseau a enregistré 66 228899 aacccciiddeennttss et 445500 ddééccèèss, traduisant une vulnérabilité"
+      ],
+      [
+        "importante, notamment dans les zones rurales isolées."
+      ]
+    ]
+  },
+  {
+    "page_number": 49,
+    "bbox": [
+      -525.8916006,
+      188.8309587,
+      -69.31160060000002,
+      629.4056059
+    ],
+    "n_rows": 31,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé nn°°11:: NNiivveeaauuxx ddee rriissqquuee rroouutitieerr sseelloonn lleess ttyyppeess ddee rroouutteess (( 22002233))"
+      ],
+      [
+        "La qualité et la configuration des infrastructures routières influencent directement le niveau de"
+      ],
+      [
+        "sécurité des usagers. L’analyse présentée par l’Agence Nationale de la Sécurité Routière"
+      ],
+      [
+        "(NARSA), comparant les données de 2015 et de 2023 selon les catégories de routes, met en"
+      ],
+      [
+        "évidence des ddiissppaarriittééss mmaarrqquuééeess eenn mmaattiièèrree ddee rriissqquuee, en particulier sur les réseaux"
+      ],
+      [
+        "secondaires."
+      ],
+      [
+        "Ces écarts traduisent à la fois des différences de conception, d’entretien et de niveau"
+      ],
+      [
+        "d’équipement des voies, et soulignent la nécessité d’interventions ciblées, adaptées aux"
+      ],
+      [
+        "spécificités de chaque type de réseau."
+      ],
+      [
+        "• AAuuttoorroouutteess"
+      ],
+      [
+        "Bien qu’elles ne représentent que 3,7 % du réseau, elles supportent 25,7 % du trafic. Leur taux"
+      ],
+      [
+        "de mortalité reste le plus faible, avec 11,,99 ttuuéé ppoouurr 110000 mmiilllliioonnss ddee vvééhhiiccuulleess--kkmm, et une"
+      ],
+      [
+        "baisse de plus de 29 % des décès depuis 2015, traduisant un niveau de sécurité relativement"
+      ],
+      [
+        "élevé."
+      ],
+      [
+        "• RRoouutteess nnaattiioonnaalleess"
+      ],
+      [
+        "Elles concentrent 2299 %% ddeess ddééccèèss, avec un taux de 33,,66 ttuuééss ppoouurr 110000 mmiilllliioonnss ddee vvééhhiiccuulleess--kkmm."
+      ],
+      [
+        "Malgré une baisse de 36 % du nombre de tués depuis 2015, elles traversent fréquemment"
+      ],
+      [
+        "des zones habitées, où la cohabitation avec les piétons et les usagers vulnérables accroît les"
+      ],
+      [
+        "risques."
+      ],
+      [
+        "• RRoouutteess rrééggiioonnaalleess"
+      ],
+      [
+        "Leur taux de mortalité atteint 55,,66 ttuuééss ppoouurr 110000 mmiilllliioonnss ddee vvééhhiiccuulleess--kkmm. Souvent en état"
+      ],
+      [
+        "dégradé, elles enregistrent un nombre élevé d’accidents graves, alors qu’elles représentent"
+      ],
+      [
+        "20,7 % du réseau."
+      ],
+      [
+        "• RRoouutteess pprroovviinncciiaalleess"
+      ],
+      [
+        "Elles présentent le nniivveeaauu ddee rriissqquuee llee pplluuss éélleevvéé, avec 66,,77 ttuuééss ppoouurr 110000 mmiilllliioonnss ddee vvééhhiiccuulleess--"
+      ],
+      [
+        "kkmm et 2211,,88 %% ddeess ddééccèèss, en particulier parmi les usagers de deux et trois roues. Leur"
+      ],
+      [
+        "sinuosité, leur étroitesse et leur entretien irrégulier constituent des facteurs majeurs de"
+      ],
+      [
+        "danger."
+      ],
+      [
+        "• RRéésseeaauu nnoonn ccllaasssséé eett ppiisstteess"
+      ],
+      [
+        "En 2023, ce réseau a enregistré 66 228899 aacccciiddeennttss et 445500 ddééccèèss, traduisant une vulnérabilité"
+      ],
+      [
+        "importante, notamment dans les zones rurales isolées."
+      ]
+    ]
+  },
+  {
+    "page_number": 52,
+    "bbox": [
+      72.98447309999997,
+      259.24273379500005,
+      522.3599730999997,
+      503.27627769500003
+    ],
+    "n_rows": 15,
+    "n_cols": 4,
+    "rows": [
+      [
+        "Régions",
+        "Moyens de transport utilisé pour aller au lieu de travail en\nmilieu rural (2024)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Transport collectif",
+        "Vélo/moto/voiture\npersonnelle",
+        "Autres moyens"
+      ],
+      [
+        "Tanger-Tétouan-Al Hoceïma",
+        "7.6",
+        "6.9",
+        "15.3"
+      ],
+      [
+        "L’Oriental",
+        "8.1",
+        "24.9",
+        "9"
+      ],
+      [
+        "Fès-Meknès",
+        "7.4",
+        "9.3",
+        "18"
+      ],
+      [
+        "Rabat-Salé-Kénitra",
+        "11.3",
+        "14.4",
+        "20.6"
+      ],
+      [
+        "Béni Mellal-Khénifra",
+        "9.1",
+        "19.1",
+        "11.4"
+      ],
+      [
+        "Casablanca-Settat",
+        "15.9",
+        "24.3",
+        "13.2"
+      ],
+      [
+        "Marrakech-Safi",
+        "14.7",
+        "30.7",
+        "12.4"
+      ],
+      [
+        "Drâa-Tafilalet",
+        "9.4",
+        "20.6",
+        "11.2"
+      ],
+      [
+        "Souss-Massa",
+        "9.2",
+        "32.9",
+        "18.3"
+      ],
+      [
+        "Guelmim-Oued Noun",
+        "9.2",
+        "23",
+        "15.6"
+      ],
+      [
+        "Laâyoune-Sakia El Hamra",
+        "2.3",
+        "19.6",
+        "15"
+      ],
+      [
+        "Dakhla-Oued Ed-Dahab",
+        "2.3",
+        "3.1",
+        "10.1"
+      ],
+      [
+        "Niveau national",
+        "11.1",
+        "20.7",
+        "14.6"
+      ]
+    ]
+  },
+  {
+    "page_number": 53,
+    "bbox": [
+      -522.2916005999998,
+      259.2422583,
+      -72.91560060000002,
+      503.27580220000004
+    ],
+    "n_rows": 15,
+    "n_cols": 4,
+    "rows": [
+      [
+        "Régions",
+        "Moyens de transport utilisé pour aller au lieu de travail en\nmilieu rural (2024)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Transport collectif",
+        "Vélo/moto/voiture\npersonnelle",
+        "Autres moyens"
+      ],
+      [
+        "Tanger-Tétouan-Al Hoceïma",
+        "7.6",
+        "6.9",
+        "15.3"
+      ],
+      [
+        "L’Oriental",
+        "8.1",
+        "24.9",
+        "9"
+      ],
+      [
+        "Fès-Meknès",
+        "7.4",
+        "9.3",
+        "18"
+      ],
+      [
+        "Rabat-Salé-Kénitra",
+        "11.3",
+        "14.4",
+        "20.6"
+      ],
+      [
+        "Béni Mellal-Khénifra",
+        "9.1",
+        "19.1",
+        "11.4"
+      ],
+      [
+        "Casablanca-Settat",
+        "15.9",
+        "24.3",
+        "13.2"
+      ],
+      [
+        "Marrakech-Safi",
+        "14.7",
+        "30.7",
+        "12.4"
+      ],
+      [
+        "Drâa-Tafilalet",
+        "9.4",
+        "20.6",
+        "11.2"
+      ],
+      [
+        "Souss-Massa",
+        "9.2",
+        "32.9",
+        "18.3"
+      ],
+      [
+        "Guelmim-Oued Noun",
+        "9.2",
+        "23",
+        "15.6"
+      ],
+      [
+        "Laâyoune-Sakia El Hamra",
+        "2.3",
+        "19.6",
+        "15"
+      ],
+      [
+        "Dakhla-Oued Ed-Dahab",
+        "2.3",
+        "3.1",
+        "10.1"
+      ],
+      [
+        "Niveau national",
+        "11.1",
+        "20.7",
+        "14.6"
+      ]
+    ]
+  },
+  {
+    "page_number": 54,
+    "bbox": [
+      111.797,
+      269.547,
+      441.824,
+      384.6472357142858
+    ],
+    "n_rows": 8,
+    "n_cols": 17,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 55,
+    "bbox": [
+      69.3840037,
+      365.6295096,
+      525.9640036999997,
+      658.1635435000001
+    ],
+    "n_rows": 21,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréénn°°22 :: TTrraannssppoorrtt iinnffoorrmmeell"
+      ],
+      [
+        ""
+      ],
+      [
+        "Le déficit structurel de l’offre de transport en milieu rural a favorisé l’essor de pratiques"
+      ],
+      [
+        "informelles, communément qualifiées de transport clandestin. De plus en plus répandu, ce"
+      ],
+      [
+        "mode s’est imposé comme une solution de substitution pour de larges franges de la population"
+      ],
+      [
+        "rurale qui, en l’absence d’alternatives organisées, y recourent pour rejoindre les souks"
+      ],
+      [
+        "hebdomadaires, les centres urbains ou les pôles de services afin de satisfaire leurs besoins"
+      ],
+      [
+        "essentiels."
+      ],
+      [
+        ""
+      ],
+      [
+        "Bien qu’il constitue une réponse de fait à un besoin réel de mobilité, ce mode de transport"
+      ],
+      [
+        "s’exerce dans des conditions qui ne garantissent ni la sécurité des usagers, ni le respect des"
+      ],
+      [
+        "normes minimales de protection, de confort et de dignité. Il expose les populations à des risques"
+      ],
+      [
+        "accrus, tant sur le plan routier que sanitaire et social."
+      ],
+      [
+        ""
+      ],
+      [
+        "Par ailleurs, malgré les initiatives engagées par les pouvoirs publics pour encourager la"
+      ],
+      [
+        "régularisation de certains véhicules utilisés dans ce cadre (pick-up, motos triporteurs, etc.), les"
+      ],
+      [
+        "résultats demeurent limités41. Le faible taux d’adhésion des exploitants informels aux dispositifs"
+      ],
+      [
+        "de formalisation, notamment à travers l’obtention d’agréments de transport mixte, limite toute"
+      ],
+      [
+        "amélioration significative de l’encadrement du secteur et maintient un niveau élevé"
+      ],
+      [
+        "d’insécurité."
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 60,
+    "bbox": [
+      69.38397310000002,
+      359.25897531,
+      535.3239731000001,
+      572.50158654
+    ],
+    "n_rows": 15,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé 33 :: FFoonnddeemmeennttss jjuurriiddiiqquueess dduu ttrraannssppoorrtt mmiixxttee eenn mmiilliieeuu rruurraall"
+      ],
+      [
+        "Le cahier des charges relatif à l’exploitation des services de transport mixte en milieu rural s’appuie"
+      ],
+      [
+        "principalement sur les fondements juridiques suivants :"
+      ],
+      [
+        "• Le Dahir n° 1.63.260 en date du 24 Joumada II 1383 (correspondant au 12 novembre 1963),"
+      ],
+      [
+        "relatif au transport par véhicules sur les voies routières, tel qu’il a été modifié et complété;"
+      ],
+      [
+        "• La loi n° 52.05 relative au Code de la route, promulguée par le Dahir n° 1.10.07 en date du 26"
+      ],
+      [
+        "Safar 1431 (correspondant au 11 février 2010), ainsi que les textes réglementaires pris pour son"
+      ],
+      [
+        "application ;"
+      ],
+      [
+        "• Le décret n° 2.63.364 en date du 17 Rajab 1383 (correspondant au 4 décembre 1963), relatif à"
+      ],
+      [
+        "l’agrément des entrepreneurs de transport public par véhicules et à l’immatriculation des"
+      ],
+      [
+        "véhicules spécialement affectés à cette activité ;"
+      ],
+      [
+        "• Le décret n° 2.63.363 en date du 17 Rajab 1383 (correspondant au 4 décembre 1963), relatif à"
+      ],
+      [
+        "la coordination des différents modes de transport ferroviaire et routier."
+      ],
+      [
+        "• Les arrêtés ministériels et circulaires : Définissent des mesures complémentaires comme les"
+      ],
+      [
+        "quotas de licences pour le transport mixte rural."
+      ]
+    ]
+  },
+  {
+    "page_number": 61,
+    "bbox": [
+      -525.8916006,
+      359.25897531,
+      -59.951600600000006,
+      572.50158654
+    ],
+    "n_rows": 15,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé 33 :: FFoonnddeemmeennttss jjuurriiddiiqquueess dduu ttrraannssppoorrtt mmiixxttee eenn mmiilliieeuu rruurraall"
+      ],
+      [
+        "Le cahier des charges relatif à l’exploitation des services de transport mixte en milieu rural s’appuie"
+      ],
+      [
+        "principalement sur les fondements juridiques suivants :"
+      ],
+      [
+        "• Le Dahir n° 1.63.260 en date du 24 Joumada II 1383 (correspondant au 12 novembre 1963),"
+      ],
+      [
+        "relatif au transport par véhicules sur les voies routières, tel qu’il a été modifié et complété;"
+      ],
+      [
+        "• La loi n° 52.05 relative au Code de la route, promulguée par le Dahir n° 1.10.07 en date du 26"
+      ],
+      [
+        "Safar 1431 (correspondant au 11 février 2010), ainsi que les textes réglementaires pris pour son"
+      ],
+      [
+        "application ;"
+      ],
+      [
+        "• Le décret n° 2.63.364 en date du 17 Rajab 1383 (correspondant au 4 décembre 1963), relatif à"
+      ],
+      [
+        "l’agrément des entrepreneurs de transport public par véhicules et à l’immatriculation des"
+      ],
+      [
+        "véhicules spécialement affectés à cette activité ;"
+      ],
+      [
+        "• Le décret n° 2.63.363 en date du 17 Rajab 1383 (correspondant au 4 décembre 1963), relatif à"
+      ],
+      [
+        "la coordination des différents modes de transport ferroviaire et routier."
+      ],
+      [
+        "• Les arrêtés ministériels et circulaires : Définissent des mesures complémentaires comme les"
+      ],
+      [
+        "quotas de licences pour le transport mixte rural."
+      ]
+    ]
+  },
+  {
+    "page_number": 61,
+    "bbox": [
+      88.82400369999999,
+      565.6136721949999,
+      524.0440037000001,
+      731.67602149
+    ],
+    "n_rows": 13,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "Encadré 4: Principaux enseignements tirés des expériences internationales",
+        ""
+      ],
+      [
+        "",
+        "Cas de l’ Espagne54",
+        ""
+      ],
+      [
+        "",
+        "Le système de transport public en Espagne repose sur une organisation fortement",
+        ""
+      ],
+      [
+        "",
+        "décentralisée et intégrée, assurant la connexion entre grandes agglomérations, villes",
+        ""
+      ],
+      [
+        "",
+        "moyennes et zones rurales. Il combine trains à grande vitesse, réseaux ferroviaires classiques,",
+        ""
+      ],
+      [
+        "",
+        "bus interurbains, métros et tramways.",
+        ""
+      ],
+      [
+        "",
+        "En matière de mobilité rurale, le rôle de l’État central demeure principalement stratégique. Il",
+        ""
+      ],
+      [
+        "",
+        "intervient à travers :",
+        ""
+      ],
+      [
+        "",
+        "• Le ministère des Transports et de la Mobilité Durable, chargé de définir les",
+        ""
+      ],
+      [
+        "",
+        "orientations nationales en matière d’infrastructures et d’aménagement du territoire ;",
+        ""
+      ],
+      [
+        "",
+        "• Les Communautés autonomes, qui disposent de la compétence principale en matière",
+        ""
+      ],
+      [
+        "",
+        "de transport régional et interurbain, y compris en milieu rural. Elles organisent les",
+        ""
+      ],
+      [
+        "",
+        "lignes régulières de bus, développent des services de transport à la demande et",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 62,
+    "bbox": [
+      88.82397309999999,
+      91.87040402799994,
+      524.0439731,
+      574.7179394
+    ],
+    "n_rows": 38,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "accordent des subventions ciblées au profit des publics vulnérables (personnes âgées,",
+        ""
+      ],
+      [
+        "",
+        "étudiants) ;",
+        ""
+      ],
+      [
+        "",
+        "• Les municipalités et provinces, acteurs de proximité, qui assurent l’organisation de la",
+        ""
+      ],
+      [
+        "",
+        "mobilité locale (liaisons inter-villages, taxis ruraux, covoiturage, solutions alternatives)",
+        ""
+      ],
+      [
+        "",
+        "et coopèrent avec les régions afin de maintenir les services malgré leur faible",
+        ""
+      ],
+      [
+        "",
+        "rentabilité économique ;",
+        ""
+      ],
+      [
+        "",
+        "• Les opérateurs privés, intervenant dans le cadre de contrats de service public conclus",
+        ""
+      ],
+      [
+        "",
+        "avec les communautés autonomes ou les municipalités, assurent la majorité des",
+        ""
+      ],
+      [
+        "",
+        "prestations, y compris les services innovants de transport à la demande développés",
+        ""
+      ],
+      [
+        "",
+        "dans certaines régions.",
+        ""
+      ],
+      [
+        "",
+        "Le cadre juridique repose principalement sur la loi d’Organisation des Transports Terrestres",
+        ""
+      ],
+      [
+        "",
+        "(LOTT, 1987), qui constitue le socle réglementaire du transport interurbain et rural, complétée",
+        ""
+      ],
+      [
+        "",
+        "par les législations propres aux Communautés autonomes55.",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Cas de la Turquie56",
+        ""
+      ],
+      [
+        "",
+        "En Turquie, le cadre juridique du transport est principalement défini par des textes nationaux,",
+        ""
+      ],
+      [
+        "",
+        "tandis que les autorités locales disposent de larges prérogatives en matière de régulation des",
+        ""
+      ],
+      [
+        "",
+        "services.",
+        ""
+      ],
+      [
+        "",
+        "Les principales références législatives comprennent :",
+        ""
+      ],
+      [
+        "",
+        "• La loi sur les transports routiers, qui encadre l’organisation et l’exploitation des services",
+        ""
+      ],
+      [
+        "",
+        "de transport57 ;",
+        ""
+      ],
+      [
+        "",
+        "• La loi sur la circulation routière, qui définit les règles relatives à la conduite, à la",
+        ""
+      ],
+      [
+        "",
+        "sécurité et à l’usage du réseau routier.",
+        ""
+      ],
+      [
+        "",
+        "Les municipalités métropolitaines jouent un rôle opérationnel central. À titre d’exemple, la",
+        ""
+      ],
+      [
+        "",
+        "municipalité métropolitaine d’Istanbul est habilitée à créer, modifier ou supprimer des lignes",
+        ""
+      ],
+      [
+        "",
+        "et des arrêts de transport en commun, illustrant une gouvernance locale fortement",
+        ""
+      ],
+      [
+        "",
+        "responsabilisée.",
+        ""
+      ],
+      [
+        "",
+        "Cas du Canada58",
+        ""
+      ],
+      [
+        "",
+        "Au Canada, environ un citoyen sur cinq réside dans une collectivité rurale. Malgré cette réalité",
+        ""
+      ],
+      [
+        "",
+        "démographique, l’accès au transport collectif y demeure souvent limité, voire inexistant.",
+        ""
+      ],
+      [
+        "",
+        "Pour répondre à ces défis, le gouvernement fédéral a mis en place en 2021 un Fonds dédié au",
+        ""
+      ],
+      [
+        "",
+        "transport en commun rural, doté d’une enveloppe de 250 millions de dollars sur cinq ans. Ce",
+        ""
+      ],
+      [
+        "",
+        "dispositif vise à appuyer les collectivités rurales, éloignées, nordiques et autochtones dans la",
+        ""
+      ],
+      [
+        "",
+        "conception et la mise en œuvre de solutions adaptées aux besoins locaux.",
+        ""
+      ],
+      [
+        "",
+        "Les initiatives soutenues privilégient notamment le développement de services de transport à",
+        ""
+      ],
+      [
+        "",
+        "la demande, permettant aux usagers — en particulier les personnes âgées et celles à besoins",
+        ""
+      ],
+      [
+        "",
+        "spécifiques — de réserver leurs déplacements via des applications numériques, selon des",
+        ""
+      ],
+      [
+        "",
+        "horaires flexibles et adaptés.",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 63,
+    "bbox": [
+      -506.4516006,
+      91.87040402799994,
+      -71.23160059999998,
+      574.7179394
+    ],
+    "n_rows": 38,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "accordent des subventions ciblées au profit des publics vulnérables (personnes âgées,",
+        ""
+      ],
+      [
+        "",
+        "étudiants) ;",
+        ""
+      ],
+      [
+        "",
+        "• Les municipalités et provinces, acteurs de proximité, qui assurent l’organisation de la",
+        ""
+      ],
+      [
+        "",
+        "mobilité locale (liaisons inter-villages, taxis ruraux, covoiturage, solutions alternatives)",
+        ""
+      ],
+      [
+        "",
+        "et coopèrent avec les régions afin de maintenir les services malgré leur faible",
+        ""
+      ],
+      [
+        "",
+        "rentabilité économique ;",
+        ""
+      ],
+      [
+        "",
+        "• Les opérateurs privés, intervenant dans le cadre de contrats de service public conclus",
+        ""
+      ],
+      [
+        "",
+        "avec les communautés autonomes ou les municipalités, assurent la majorité des",
+        ""
+      ],
+      [
+        "",
+        "prestations, y compris les services innovants de transport à la demande développés",
+        ""
+      ],
+      [
+        "",
+        "dans certaines régions.",
+        ""
+      ],
+      [
+        "",
+        "Le cadre juridique repose principalement sur la loi d’Organisation des Transports Terrestres",
+        ""
+      ],
+      [
+        "",
+        "(LOTT, 1987), qui constitue le socle réglementaire du transport interurbain et rural, complétée",
+        ""
+      ],
+      [
+        "",
+        "par les législations propres aux Communautés autonomes55.",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Cas de la Turquie56",
+        ""
+      ],
+      [
+        "",
+        "En Turquie, le cadre juridique du transport est principalement défini par des textes nationaux,",
+        ""
+      ],
+      [
+        "",
+        "tandis que les autorités locales disposent de larges prérogatives en matière de régulation des",
+        ""
+      ],
+      [
+        "",
+        "services.",
+        ""
+      ],
+      [
+        "",
+        "Les principales références législatives comprennent :",
+        ""
+      ],
+      [
+        "",
+        "• La loi sur les transports routiers, qui encadre l’organisation et l’exploitation des services",
+        ""
+      ],
+      [
+        "",
+        "de transport57 ;",
+        ""
+      ],
+      [
+        "",
+        "• La loi sur la circulation routière, qui définit les règles relatives à la conduite, à la",
+        ""
+      ],
+      [
+        "",
+        "sécurité et à l’usage du réseau routier.",
+        ""
+      ],
+      [
+        "",
+        "Les municipalités métropolitaines jouent un rôle opérationnel central. À titre d’exemple, la",
+        ""
+      ],
+      [
+        "",
+        "municipalité métropolitaine d’Istanbul est habilitée à créer, modifier ou supprimer des lignes",
+        ""
+      ],
+      [
+        "",
+        "et des arrêts de transport en commun, illustrant une gouvernance locale fortement",
+        ""
+      ],
+      [
+        "",
+        "responsabilisée.",
+        ""
+      ],
+      [
+        "",
+        "Cas du Canada58",
+        ""
+      ],
+      [
+        "",
+        "Au Canada, environ un citoyen sur cinq réside dans une collectivité rurale. Malgré cette réalité",
+        ""
+      ],
+      [
+        "",
+        "démographique, l’accès au transport collectif y demeure souvent limité, voire inexistant.",
+        ""
+      ],
+      [
+        "",
+        "Pour répondre à ces défis, le gouvernement fédéral a mis en place en 2021 un Fonds dédié au",
+        ""
+      ],
+      [
+        "",
+        "transport en commun rural, doté d’une enveloppe de 250 millions de dollars sur cinq ans. Ce",
+        ""
+      ],
+      [
+        "",
+        "dispositif vise à appuyer les collectivités rurales, éloignées, nordiques et autochtones dans la",
+        ""
+      ],
+      [
+        "",
+        "conception et la mise en œuvre de solutions adaptées aux besoins locaux.",
+        ""
+      ],
+      [
+        "",
+        "Les initiatives soutenues privilégient notamment le développement de services de transport à",
+        ""
+      ],
+      [
+        "",
+        "la demande, permettant aux usagers — en particulier les personnes âgées et celles à besoins",
+        ""
+      ],
+      [
+        "",
+        "spécifiques — de réserver leurs déplacements via des applications numériques, selon des",
+        ""
+      ],
+      [
+        "",
+        "horaires flexibles et adaptés.",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 66,
+    "bbox": [
+      71.07781481481483,
+      179.327,
+      524.2088888888889,
+      406.51599999999996
+    ],
+    "n_rows": 11,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Abdelmoumni Abdelmoula",
+        "Hassan Boubrik"
+      ],
+      [
+        "Nouzha Alaoui",
+        "Abderrahim Ksiri"
+      ],
+      [
+        "Driss Belfadla",
+        "Abderahmane Kandila"
+      ],
+      [
+        "Abdelhai Bessa ( Rapporteur du thème)",
+        "Ahmed Ouayach"
+      ],
+      [
+        "Mohammed Dahmani",
+        "Lahcen Oulhaj"
+      ],
+      [
+        "Mohamed Abdessadek Essaidi (Président)",
+        "Mina Rouchati (Rapporteuse)"
+      ],
+      [
+        "Kamaleddine Faher",
+        "Hakima Himmich"
+      ],
+      [
+        "Mohammed Fikrat",
+        "Abderahmane Zahi"
+      ],
+      [
+        "Abdeltif Jouahri",
+        "Zahra Zaoui"
+      ],
+      [
+        "Jamaa El Moatassim",
+        "Mustapha Khlafa"
+      ],
+      [
+        "Mustapha Benhamza",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 66,
+    "bbox": [
+      71.07781481481483,
+      430.176,
+      524.2088888888889,
+      474.4565
+    ],
+    "n_rows": 2,
+    "n_cols": 6,
+    "rows": [
+      [
+        "Experts permanents au Conseil",
+        "",
+        "",
+        "Omar Benida\nYasmina Doukkali",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Expert permanent chargé de la traduction",
+        "",
+        "",
+        "Brahim Lassaoui",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 67,
+    "bbox": [
+      49.5600037,
+      118.09407964999997,
+      545.8805037000001,
+      501.0872666
+    ],
+    "n_rows": 6,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Départements\nministériel",
+        "- Ministère du Transport et de la Logistique\n- Ministère de l’Intérieur\n- Ministère de l’Equipement et de l’Eau\n- Ministère de l’Economie et des Finances\n- Ministère de l’Agriculture, de la Pêche Maritime, du Développement Rural et des\nEaux et Forêts\n- Ministère de l'Éducation nationale, du Préscolaire et des Sports\n- Ministère de l'Aménagement du Territoire National, de l'Urbanisme, de l'Habitat\net de la Politique de la Ville"
+      ],
+      [
+        "Institutions\npubliques",
+        "- Caisse pour le Financement des Routes\n- Haut-commissariat au plan\n- Agence Nationale de Sécurité Routière (NARSA)"
+      ],
+      [
+        "Organismes\nprofessionnels",
+        "- Fédération du Transport et de la Logistique"
+      ],
+      [
+        "Collectivités\nterritoriales",
+        "- Association des Régions du Maroc (ARM)\n- Association Marocaine des Présidents des Conseils des Préfectures et des\nProvinces (AMPCPP)\n- Association Marocaine des Présidents des Conseils Communaux (AMPCC)\n- Etablissement de coopération intercommunale \"Essaouira Transport\n- Société de développement MADERASATI, Témara."
+      ],
+      [
+        "Personnes\nressources",
+        "- M. Hassan RAMOU, Consultant en aménagement et mobilité & professeur\nchercheur à l'Institut des études africaines /Université Mohammed V de Rabat\n- M. Mohamed HANZAZ, Professeur de l’enseignement supérieur à l’INAU\n- M. Abdeslam Dahman Saïdi , Président de l’Association Targa-Aide\n- Mr JAMAA El Moatassim, ex. Maire de Salé et membre du CESE."
+      ],
+      [
+        "Visite de terrain",
+        "- Province de Khémisset (rencontres avec : gouverneur, services déconcentrés,\nconseils des communes rurales et le conseil provincial, les professionnels et\nvisite du Souk hebdomadaire - Jemaa Houderrane)."
+      ]
+    ]
+  },
+  {
+    "page_number": 76,
+    "bbox": [
+      69.38397309999999,
+      599.5024080999999,
+      525.9639730999999,
+      709.1746081000001
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé 11 : Tarification carbone dans le Monde"
+      ],
+      [
+        "La tarification carbone est un outil central de la politique climatique, visant à réduire les"
+      ],
+      [
+        "émissions de gaz à effet de serre (GES) en mettant un prix sur le carbone. Elle incite les acteurs"
+      ],
+      [
+        "économiques — industriels ou consommateurs — à adopter des comportements plus"
+      ],
+      [
+        "respectueux de l’environnement et à investir dans des solutions innovantes telles que l’efficacité"
+      ],
+      [
+        "énergétique, l’électricité verte ou l’économie circulaire."
+      ]
+    ]
+  },
+  {
+    "page_number": 77,
+    "bbox": [
+      69.3840037,
+      92.00013150000007,
+      525.9640036999996,
+      699.8838915
+    ],
+    "n_rows": 25,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Concrètement, la tarification carbone permet d’intégrer dans le coût des biens et services les"
+      ],
+      [
+        "externalités environnementales, influençant ainsi les décisions en matière d’investissement, de"
+      ],
+      [
+        "production et de consommation. Elle est principalement appliquée dans les secteurs de"
+      ],
+      [
+        "l’énergie et de l’industrie et peut prendre deux formes :"
+      ],
+      [
+        "UUnnee ttaaxxee ccaarrbboonnee, avec un prix fixe par tonne de CO₂ ;\n-"
+      ],
+      [
+        "UUnn ssyyssttèèmmee dd’’éécchhaannggee ddeess qquuoottaass dd’’éémmiissssiioonnss (SEQE), où le prix varie selon l’offre et la\n-"
+      ],
+      [
+        "demande."
+      ],
+      [
+        "À ce jour, 7519 instruments de tarification carbone existent dans le monde, dont 36 SEQE20,"
+      ],
+      [
+        "couvrant environ 24 % des émissions mondiales de GES et générant 100 milliards de dollars en"
+      ],
+      [
+        "202321. La majeure partie de ces recettes provient des SEQE."
+      ],
+      [
+        ""
+      ],
+      [
+        "Source : banque mondiale"
+      ],
+      [
+        "La mise en place du MACF par l’UE en 2023 a stimulé le recours à ces instruments, poussant"
+      ],
+      [
+        "plusieurs pays à instaurer leur propre taxe carbone ou SEQE sur les mêmes secteurs ciblés par"
+      ],
+      [
+        "le MACF. En 2024, 2622 pays développent ou étudient la faisabilité de mettre en place leurs"
+      ],
+      [
+        "propres SEQE, tandis que d’autres, dont le Maroc23, mettent en place des taxes carbone. Cela"
+      ],
+      [
+        "permet aux pays exportateurs de conserver une partie des recettes générées dans leurs propres"
+      ],
+      [
+        "économies puisque le MACF permet de déduire le coût du carbone payé dans le pays d’origine."
+      ],
+      [
+        "Cependant, la liaison entre les différents SEQE, quasi-cloisonnés, est une tâche difficile et"
+      ],
+      [
+        "complexe et peut freiner les efforts mondiaux pour atteindre la neutralité carbone. Cette"
+      ],
+      [
+        "difficulté s’explique par :"
+      ],
+      [
+        "La différence des niveaux des prix du carbone entre pays, le SEQE de l’UE restant le plus élevé\n-"
+      ],
+      [
+        "au niveau international ;"
+      ],
+      [
+        "La diversité et la complexité des systèmes de mesure, rapportage et vérification (MRV) des\n-"
+      ],
+      [
+        "émissions ;"
+      ]
+    ]
+  },
+  {
+    "page_number": 77,
+    "bbox": [
+      -525.8916006,
+      598.3902670333333,
+      -69.31160060000002,
+      709.1746081
+    ],
+    "n_rows": 6,
+    "n_cols": 1,
+    "rows": [
+      [
+        "EEnnccaaddrréé 11 : Tarification carbone dans le Monde"
+      ],
+      [
+        "La tarification carbone est un outil central de la politique climatique, visant à réduire les"
+      ],
+      [
+        "émissions de gaz à effet de serre (GES) en mettant un prix sur le carbone. Elle incite les acteurs"
+      ],
+      [
+        "économiques — industriels ou consommateurs — à adopter des comportements plus"
+      ],
+      [
+        "respectueux de l’environnement et à investir dans des solutions innovantes telles que l’efficacité"
+      ],
+      [
+        "énergétique, l’électricité verte ou l’économie circulaire."
+      ]
+    ]
+  },
+  {
+    "page_number": 78,
+    "bbox": [
+      69.3839731,
+      92.00013150000007,
+      525.9639730999999,
+      264.66999150000004
+    ],
+    "n_rows": 10,
+    "n_cols": 1,
+    "rows": [
+      [
+        "La différence des secteurs couverts par chaque SEQE.\n-"
+      ],
+      [
+        "La mise en place du MACF a également encouragé des négociations bilatérales pour harmoniser"
+      ],
+      [
+        "les systèmes. Par exemple, l’UE et le Royaume-Uni — qui a instauré son SEQE en 2021 et prévoit"
+      ],
+      [
+        "son MACF à partir de janvier 2027 — se sont engagés24 en mai 2025 à établir un lien entre leurs"
+      ],
+      [
+        "SEQE, créant ainsi des conditions d’exemptions mutuelles au niveau de leurs MACF respectifs."
+      ],
+      [
+        "Pour les pays en développement, la tarification carbone demeure peu développée, notamment"
+      ],
+      [
+        "en raison de son impact potentiel sur la compétitivité des industries et des niveaux de prix. A"
+      ],
+      [
+        "cet effet, l’introduction progressive et adaptée aux contextes socio-économiques nationaux de"
+      ],
+      [
+        "ces pays est primordiale et doit s’inscrire dans le cadre d’une stratégie de développement"
+      ],
+      [
+        "durable."
+      ]
+    ]
+  },
+  {
+    "page_number": 79,
+    "bbox": [
+      -525.8916006,
+      92.00013150000007,
+      -69.31160060000002,
+      264.66999150000004
+    ],
+    "n_rows": 10,
+    "n_cols": 1,
+    "rows": [
+      [
+        "La différence des secteurs couverts par chaque SEQE.\n-"
+      ],
+      [
+        "La mise en place du MACF a également encouragé des négociations bilatérales pour harmoniser"
+      ],
+      [
+        "les systèmes. Par exemple, l’UE et le Royaume-Uni — qui a instauré son SEQE en 2021 et prévoit"
+      ],
+      [
+        "son MACF à partir de janvier 2027 — se sont engagés24 en mai 2025 à établir un lien entre leurs"
+      ],
+      [
+        "SEQE, créant ainsi des conditions d’exemptions mutuelles au niveau de leurs MACF respectifs."
+      ],
+      [
+        "Pour les pays en développement, la tarification carbone demeure peu développée, notamment"
+      ],
+      [
+        "en raison de son impact potentiel sur la compétitivité des industries et des niveaux de prix. A"
+      ],
+      [
+        "cet effet, l’introduction progressive et adaptée aux contextes socio-économiques nationaux de"
+      ],
+      [
+        "ces pays est primordiale et doit s’inscrire dans le cadre d’une stratégie de développement"
+      ],
+      [
+        "durable."
+      ]
+    ]
+  },
+  {
+    "page_number": 80,
+    "bbox": [
+      69.38397310000002,
+      131.34669150000002,
+      525.9639731000002,
+      719.2671015000001
+    ],
+    "n_rows": 33,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Encadré 2 : Feuille de route de décarbonation de l’office chérifien du phosphate31"
+      ],
+      [
+        "(OCP)"
+      ],
+      [
+        "Le groupe Office Chérifien des Phosphates (OCP) a mis en place depuis plusieurs années une"
+      ],
+      [
+        "feuille de route intégrée de décarbonation, assortie d’objectifs chiffrés de réduction des"
+      ],
+      [
+        "émissions de gaz à effet de serre (GES) par type d’investissement vert. Le programme"
+      ],
+      [
+        "d’investissement vert pour la période 2023-2027 se concentre sur plusieurs axes principaux :"
+      ],
+      [
+        "le développement des énergies renouvelables, notamment l’hydrogène vert ;\n-"
+      ],
+      [
+        "l’utilisation des eaux non conventionnelles, telles que l’eau dessalée et l’eau réutilisée ;\n-"
+      ],
+      [
+        "le développement de filières innovantes, incluant la capture et la valorisation du carbone,\n-"
+      ],
+      [
+        "ainsi que la production d’ammoniac vert et de ses dérivés."
+      ],
+      [
+        "Parmi les actions concrètes déjà réalisées, l’OCP a remplacé le transport de 70 % de sa"
+      ],
+      [
+        "production de la mine de Khouribga par un pipeline de 187 km jusqu’à l’usine de traitement de"
+      ],
+      [
+        "Jorf Lasfar, au lieu du transport ferroviaire, ce qui a permis d’éviter l’émission de 665 000 t de"
+      ],
+      [
+        "CO . En parallèle, le groupe a engagé un programme de restauration des anciennes mines en\n2"
+      ],
+      [
+        "plantant 4,5 millions d’arbres."
+      ],
+      [
+        "En matière de consommation énergétique, l’OCP utilise 90 % d’énergie régénérée, via la vapeur"
+      ],
+      [
+        "dégagée par ses installations de production d’acide sulfurique, évitant ainsi 2 036 160 t de CO .\n2"
+      ],
+      [
+        "La mise en service de son parc éolien a permis de réduire les émissions de 370 000 t de CO . Le\n2"
+      ],
+      [
+        "groupe ambitionne d’atteindre une part de 100 % d’approvisionnement en énergies"
+      ],
+      [
+        "renouvelables d’ici 2027, ce qui pourrait éviter 800 000 t supplémentaires de CO .\n2"
+      ],
+      [
+        "À moyen terme, l’OCP développe la filière Carbon Capture, Utilization and Storage (CCUS) pour"
+      ],
+      [
+        "capturer et valoriser 80 % des émissions issues de la production d’acide phosphorique."
+      ],
+      [
+        "Parallèlement, la production d’ammoniac vert vise à renforcer la compétitivité du groupe sur le"
+      ],
+      [
+        "marché international des engrais, en particulier pour les engrais verts et les solutions adaptées"
+      ],
+      [
+        "aux besoins spécifiques des sols et cultures."
+      ],
+      [
+        "Pour se conformer aux normes du MACF, l’OCP a adopté les standards PAS 205032 (ISO) afin de"
+      ],
+      [
+        "calculer ses émissions directes et indirectes. Depuis l’entrée en vigueur de la période transitoire"
+      ],
+      [
+        "du MACF en 2023, le groupe partage avec ses clients européens ses déclarations en émissions"
+      ],
+      [
+        "de GES directes et indirectes émanant de la production des engrais binaires di-ammonium"
+      ],
+      [
+        "phosphate (DAP). Selon les études d’impact réalisées par l’OCP33, avec un coût du carbone"
+      ],
+      [
+        "compris entre 100 et 150 €/t CO et un facteur d’émission de l’ammoniac de 1,44, l’ajustement\n2"
+      ],
+      [
+        "financier aux frontières de l’UE devrait atteindre 13 à 20 €/t dès 2026, pour évoluer à 45 à 68"
+      ],
+      [
+        "€/t à l’horizon 2034."
+      ]
+    ]
+  },
+  {
+    "page_number": 81,
+    "bbox": [
+      69.3840037,
+      92.00464810000005,
+      525.9640036999999,
+      359.2762270333333
+    ],
+    "n_rows": 3,
+    "n_cols": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        "SSoouurrccee : Calculs OCP"
+      ]
+    ]
+  },
+  {
+    "page_number": 81,
+    "bbox": [
+      -525.8916006,
+      131.34669150000002,
+      -69.31160060000002,
+      720.1819025666667
+    ],
+    "n_rows": 33,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Encadré 2 : Feuille de route de décarbonation de l’office chérifien du phosphate31"
+      ],
+      [
+        "(OCP)"
+      ],
+      [
+        "Le groupe Office Chérifien des Phosphates (OCP) a mis en place depuis plusieurs années une"
+      ],
+      [
+        "feuille de route intégrée de décarbonation, assortie d’objectifs chiffrés de réduction des"
+      ],
+      [
+        "émissions de gaz à effet de serre (GES) par type d’investissement vert. Le programme"
+      ],
+      [
+        "d’investissement vert pour la période 2023-2027 se concentre sur plusieurs axes principaux :"
+      ],
+      [
+        "le développement des énergies renouvelables, notamment l’hydrogène vert ;\n-"
+      ],
+      [
+        "l’utilisation des eaux non conventionnelles, telles que l’eau dessalée et l’eau réutilisée ;\n-"
+      ],
+      [
+        "le développement de filières innovantes, incluant la capture et la valorisation du carbone,\n-"
+      ],
+      [
+        "ainsi que la production d’ammoniac vert et de ses dérivés."
+      ],
+      [
+        "Parmi les actions concrètes déjà réalisées, l’OCP a remplacé le transport de 70 % de sa"
+      ],
+      [
+        "production de la mine de Khouribga par un pipeline de 187 km jusqu’à l’usine de traitement de"
+      ],
+      [
+        "Jorf Lasfar, au lieu du transport ferroviaire, ce qui a permis d’éviter l’émission de 665 000 t de"
+      ],
+      [
+        "CO . En parallèle, le groupe a engagé un programme de restauration des anciennes mines en\n2"
+      ],
+      [
+        "plantant 4,5 millions d’arbres."
+      ],
+      [
+        "En matière de consommation énergétique, l’OCP utilise 90 % d’énergie régénérée, via la vapeur"
+      ],
+      [
+        "dégagée par ses installations de production d’acide sulfurique, évitant ainsi 2 036 160 t de CO .\n2"
+      ],
+      [
+        "La mise en service de son parc éolien a permis de réduire les émissions de 370 000 t de CO . Le\n2"
+      ],
+      [
+        "groupe ambitionne d’atteindre une part de 100 % d’approvisionnement en énergies"
+      ],
+      [
+        "renouvelables d’ici 2027, ce qui pourrait éviter 800 000 t supplémentaires de CO .\n2"
+      ],
+      [
+        "À moyen terme, l’OCP développe la filière Carbon Capture, Utilization and Storage (CCUS) pour"
+      ],
+      [
+        "capturer et valoriser 80 % des émissions issues de la production d’acide phosphorique."
+      ],
+      [
+        "Parallèlement, la production d’ammoniac vert vise à renforcer la compétitivité du groupe sur le"
+      ],
+      [
+        "marché international des engrais, en particulier pour les engrais verts et les solutions adaptées"
+      ],
+      [
+        "aux besoins spécifiques des sols et cultures."
+      ],
+      [
+        "Pour se conformer aux normes du MACF, l’OCP a adopté les standards PAS 205032 (ISO) afin de"
+      ],
+      [
+        "calculer ses émissions directes et indirectes. Depuis l’entrée en vigueur de la période transitoire"
+      ],
+      [
+        "du MACF en 2023, le groupe partage avec ses clients européens ses déclarations en émissions"
+      ],
+      [
+        "de GES directes et indirectes émanant de la production des engrais binaires di-ammonium"
+      ],
+      [
+        "phosphate (DAP). Selon les études d’impact réalisées par l’OCP33, avec un coût du carbone"
+      ],
+      [
+        "compris entre 100 et 150 €/t CO et un facteur d’émission de l’ammoniac de 1,44, l’ajustement\n2"
+      ],
+      [
+        "financier aux frontières de l’UE devrait atteindre 13 à 20 €/t dès 2026, pour évoluer à 45 à 68"
+      ],
+      [
+        "€/t à l’horizon 2034."
+      ]
+    ]
+  },
+  {
+    "page_number": 82,
+    "bbox": [
+      69.38397309999999,
+      295.91890809999995,
+      525.9639730999999,
+      452.75470809999996
+    ],
+    "n_rows": 9,
+    "n_cols": 3,
+    "rows": [
+      [
+        "EEnnccaaddrréé 33 : Production de ciment et émissions de CO2",
+        "",
+        ""
+      ],
+      [
+        "La production d’une tonne de ciment génère en moyenne entre 800 kg et 1 tonne de CO . Ces\n2",
+        "",
+        ""
+      ],
+      [
+        "émissions proviennent principalement de la décarbonation du calcaire lors de la fabrication du",
+        "",
+        ""
+      ],
+      [
+        "clinker, un composant essentiel du ciment, qui est ensuite exporté vers l’Union européenne.",
+        "",
+        ""
+      ],
+      [
+        "Pour intégrer ces émissions dans le mécanisme de tarification carbone, un coefficient",
+        "",
+        ""
+      ],
+      [
+        "d’émission de 1,094 t",
+        "CO 39 par\n2",
+        "tonne de ciment est retenu. Ainsi, la taxe parafiscale actuelle"
+      ],
+      [
+        "de 50 DH par tonne de ciment sera progressivement convertie en taxe carbone, équivalente à",
+        "",
+        ""
+      ],
+      [
+        "55 DH par tonne de CO . Concrètement, pour chaque tonne de ciment produite, cette taxe\n2",
+        "",
+        ""
+      ],
+      [
+        "carbone s’appliquera en fonction de la quantité de CO effectivement émise.\n2",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 83,
+    "bbox": [
+      -525.8916006,
+      295.91890809999995,
+      -69.31160060000002,
+      452.75470809999996
+    ],
+    "n_rows": 9,
+    "n_cols": 3,
+    "rows": [
+      [
+        "EEnnccaaddrréé 33 : Production de ciment et émissions de CO2",
+        "",
+        ""
+      ],
+      [
+        "La production d’une tonne de ciment génère en moyenne entre 800 kg et 1 tonne de CO . Ces\n2",
+        "",
+        ""
+      ],
+      [
+        "émissions proviennent principalement de la décarbonation du calcaire lors de la fabrication du",
+        "",
+        ""
+      ],
+      [
+        "clinker, un composant essentiel du ciment, qui est ensuite exporté vers l’Union européenne.",
+        "",
+        ""
+      ],
+      [
+        "Pour intégrer ces émissions dans le mécanisme de tarification carbone, un coefficient",
+        "",
+        ""
+      ],
+      [
+        "d’émission de 1,094 t",
+        "CO 39 par\n2",
+        "tonne de ciment est retenu. Ainsi, la taxe parafiscale actuelle"
+      ],
+      [
+        "de 50 DH par tonne de ciment sera progressivement convertie en taxe carbone, équivalente à",
+        "",
+        ""
+      ],
+      [
+        "55 DH par tonne de CO . Concrètement, pour chaque tonne de ciment produite, cette taxe\n2",
+        "",
+        ""
+      ],
+      [
+        "carbone s’appliquera en fonction de la quantité de CO effectivement émise.\n2",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 89,
+    "bbox": [
+      71.50399999999999,
+      694.625,
+      524.3609999999999,
+      793.345
+    ],
+    "n_rows": 4,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "Moncef Ziani (Président)\nTarik Aguizoul (Vice-président)",
+        ""
+      ],
+      [
+        "",
+        "Tarik Aguizoul (Vice-président)\nAli Ghannam (Rapporteur)",
+        ""
+      ],
+      [
+        "",
+        "Ali Ghannam (Rapporteur)\nAbdelkarim Foutat (Vice-rapporteur)",
+        ""
+      ],
+      [
+        "",
+        "Abdelkarim Foutat (Vice-rapporteur)",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 90,
+    "bbox": [
+      71.47620289855074,
+      92.05600000000004,
+      524.3678985507248,
+      611.46025
+    ],
+    "n_rows": 21,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "Mouncef Kettani",
+        ""
+      ],
+      [
+        "",
+        "Ahmed Abbouh",
+        ""
+      ],
+      [
+        "",
+        "Hassan Boubrik",
+        ""
+      ],
+      [
+        "",
+        "Mohammed Alaoui",
+        ""
+      ],
+      [
+        "",
+        "Khalida Azbane",
+        ""
+      ],
+      [
+        "",
+        "Allal Benlarbi",
+        ""
+      ],
+      [
+        "",
+        "Abdellah Mouttaqi",
+        ""
+      ],
+      [
+        "",
+        "Latifa Benwakrim",
+        ""
+      ],
+      [
+        "",
+        "Mohammed Fikrat",
+        ""
+      ],
+      [
+        "",
+        "Amine Mounir Alaoui",
+        ""
+      ],
+      [
+        "",
+        "Abdallah Deguig",
+        ""
+      ],
+      [
+        "",
+        "Mohamed Mostaghfir",
+        ""
+      ],
+      [
+        "",
+        "Hajbouha Zoubeir",
+        ""
+      ],
+      [
+        "",
+        "Ahmed Ouayach",
+        ""
+      ],
+      [
+        "",
+        "Mohammed Bachir Rachdi",
+        ""
+      ],
+      [
+        "",
+        "Tariq Sijilmassi",
+        ""
+      ],
+      [
+        "",
+        "Najat Simou",
+        ""
+      ],
+      [
+        "",
+        "Amine Berrada Sounni",
+        ""
+      ],
+      [
+        "",
+        "Lotfi Boujendar",
+        ""
+      ],
+      [
+        "",
+        "Thami Abderrahmani Ghorfi",
+        ""
+      ],
+      [
+        "",
+        "Kamaleddine Faher",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 90,
+    "bbox": [
+      71.47620289855074,
+      643.97975,
+      524.3678985507248,
+      701.27975
+    ],
+    "n_rows": 3,
+    "n_cols": 6,
+    "rows": [
+      [
+        "",
+        "Experte permanente au Conseil ayant",
+        "",
+        "Asmae Bouznad",
+        "",
+        ""
+      ],
+      [
+        "",
+        "accompagné la Commission",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Experte chargée de la traduction",
+        "",
+        "",
+        "Nabila Darif",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 91,
+    "bbox": [
+      65.544,
+      117.72999999999998,
+      518.56,
+      767.1971428571429
+    ],
+    "n_rows": 28,
+    "n_cols": 6,
+    "rows": [
+      [
+        "",
+        "Départements",
+        "",
+        "",
+        "− Ministère de l’économie et des finances",
+        ""
+      ],
+      [
+        "",
+        "ministériels",
+        "",
+        "",
+        "− Ministère de l’industrie et du commerce",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de la transition énergétique et du développement",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "durable",
+        ""
+      ],
+      [
+        "Institutions\npublics",
+        "",
+        "",
+        "",
+        "− Office chérifien du phosphates (OCP)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Agence Marocaine pour l’efficacité énergétique (AMEE)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Agence Marocaine de développement des investissements",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "et des exportations (AMDIE)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Maroc PME",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Institut Marocain de normalisation (IMANOR)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Office National de l’électricité et de l’Eau (ONEE)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Moroccan Agency for Sustainable Energy (MASEN)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Institut de recherche en énergie solaire et énergies nouvelles",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "(IRESEN)",
+        ""
+      ],
+      [
+        "Organisations\nnationales",
+        "",
+        "",
+        "− Fondation Mohammed VI pour la protection de\nl’environnement",
+        "− Fondation Mohammed VI pour la protection de",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l’environnement",
+        ""
+      ],
+      [
+        "Organisation\nprofessionnelles",
+        "",
+        "",
+        "",
+        "− Confédération générale des entreprises du Maroc (CGEM)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Fédération nationale de l’électricité, de l’électronique et des",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "énergies renouvelables",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Association professionnelle des cimentiers",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Fédération des industries métallurgiques, mécaniques et",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "électromécaniques",
+        ""
+      ],
+      [
+        "Organisations\ninternationales",
+        "",
+        "",
+        "",
+        "− Délégation de l’union européenne au Maroc",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Commission Européenne : Direction générale de fiscalité et",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "d’union douanière (DG TAXUD) – Direction générale de",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "l’action climatique",
+        ""
+      ],
+      [
+        "Experte",
+        "",
+        "",
+        "",
+        "− Madame Mounia Boucetta, Senior Fellow Policy Center For",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "the New South",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 91,
+    "bbox": [
+      70.82399999999998,
+      299.03,
+      171.88400000000001,
+      344.06999999999994
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Institutions"
+      ],
+      [
+        "publics"
+      ]
+    ]
+  },
+  {
+    "page_number": 91,
+    "bbox": [
+      70.82399999999998,
+      443.73,
+      171.88400000000001,
+      487.65
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Organisations"
+      ],
+      [
+        "nationales"
+      ]
+    ]
+  },
+  {
+    "page_number": 91,
+    "bbox": [
+      70.82399999999998,
+      542.254,
+      171.88400000000001,
+      586.76
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Organisation"
+      ],
+      [
+        "professionnelles"
+      ]
+    ]
+  },
+  {
+    "page_number": 91,
+    "bbox": [
+      70.82399999999998,
+      655.0799999999999,
+      171.88400000000001,
+      699.5586666666668
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Organisations"
+      ],
+      [
+        "internationales"
+      ]
+    ]
+  },
+  {
+    "page_number": 93,
+    "bbox": [
+      42.96000000000003,
+      151.47399999999993,
+      524.5,
+      601.4335
+    ],
+    "n_rows": 22,
+    "n_cols": 2,
+    "rows": [
+      [
+        "CCDDBB",
+        "Convention sur la diversité biologique"
+      ],
+      [
+        "CCMMSS",
+        "Convention sur la conservation des espèces migratrices appartenant à la faune sauvage"
+      ],
+      [
+        "CCOOPP",
+        "Conférence des Parties"
+      ],
+      [
+        "CCDDNN",
+        "Contribution Déterminée au niveau National"
+      ],
+      [
+        "EEEEEE",
+        "Espèces Exotiques Envahissantes"
+      ],
+      [
+        "EEIIEE",
+        "Étude d’Impact Environnemental"
+      ],
+      [
+        "FFEEMM",
+        "Fonds pour l’Environnement Mondial"
+      ],
+      [
+        "FFVVCC",
+        "Fonds Vert pour le Climat"
+      ],
+      [
+        "IIPPBBEESS",
+        "Plateforme intergouvernementale scientifique et politique sur la biodiversité et les services\nécosystémiques"
+      ],
+      [
+        "IINNNN",
+        "Pêche Illicite, Non déclarée et Non réglementée"
+      ],
+      [
+        "MMTTEEDDDD",
+        "Ministère de la Transition Énergétique et du Développement Durable"
+      ],
+      [
+        "NNMMDD",
+        "Nouveau Modèle de Développement"
+      ],
+      [
+        "PPAAMM",
+        "Plantes Aromatiques et Médicinales"
+      ],
+      [
+        "PPNNSSAA",
+        "Plan National Stratégique d’Adaptation"
+      ],
+      [
+        "PPFFNNLL",
+        "Produits Forestiers Non Ligneux"
+      ],
+      [
+        "PPNNUUDD",
+        "Programme des Nations Unies pour le Développement"
+      ],
+      [
+        "SSffNN",
+        "Solutions Fondées sur la Nature"
+      ],
+      [
+        "SSNNDDDD",
+        "Stratégie Nationale de Développement Durable"
+      ],
+      [
+        "SSPPAANNBB",
+        "Stratégie et Plan d’Action Nationaux pour la Biodiversité"
+      ],
+      [
+        "TTNNFFDD",
+        "Taskforce on Nature-related Financial Disclosures – Groupe de travail sur la publication\nd’informations financières relatives à la nature"
+      ],
+      [
+        "UUIICCNN",
+        "Union Internationale pour la Conservation de la Nature"
+      ],
+      [
+        "UUNNEESSCCOO",
+        "Organisation des Nations Unies pour l’Éducation, la Science et la Culture"
+      ]
+    ]
+  },
+  {
+    "page_number": 100,
+    "bbox": [
+      42.76797309999999,
+      353.24492024000006,
+      524.3083730999999,
+      615.18984348
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé –– VVaalloorriissaattiioonn ééccoonnoommiiqquuee dduurraabbllee ddee llaa bbiiooddiivveerrssiittéé :: qquuaanndd ccrrééeerr ddee llaa vvaalleeuurr ddeevviieenntt uunn lleevviieerr",
+        ""
+      ],
+      [
+        "",
+        "ddee ccoonnsseerrvvaattiioonn2266",
+        ""
+      ],
+      [
+        "Les expériences internationales démontrent que la conservation de la biodiversité progresse durablement\nlorsque les populations locales retirent un bénéfice direct et tangible de la préservation des écosystèmes.\nLà où la biodiversité n’est perçue que comme une contrainte, les pressions sur les milieux se renforcent ;\nmais là où elle devient une source de valeur économique, de sécurité alimentaire et d’opportunités locales,\nelle se transforme en patrimoine à protéger collectivement.\nDans de nombreux pays européens et nordiques, la valorisation durable des produits forestiers non ligneux\n(PFNL), des plantes aromatiques et médicinales (PAM), de l’écotourisme régulé ou des produits de terroir\nrepose sur une régulation stricte. Celle-ci garantit que l’exploitation économique demeure compatible avec\nles capacités de régénération des écosystèmes. Les cadres juridiques y sont précis : quotas d’extraction,\ncertifications, mécanismes de traçabilité et partage équitable des avantages. Ces conditions ont permis de\nconcilier prospérité rurale et maintien d’une forte intégrité écologique.\nDans plusieurs pays du Sud, la valorisation économique durable s’est imposée comme un levier central de\nconservation. La Namibie, pionnière en Afrique australe, illustre cette dynamique avec le modèle des\nconservancies communautaires. En confiant aux communautés locales des droits de gestion et d’usage sur\nla faune et les paysages, l’État a créé un puissant incitatif économique à la protection. Ces conservancies\ngénèrent des revenus substantiels à travers l’écotourisme, les safaris photographiques et la gestion durable",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 101,
+    "bbox": [
+      -552.5076005999999,
+      353.24492024000006,
+      -70.9676006,
+      615.18984348
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé –– VVaalloorriissaattiioonn ééccoonnoommiiqquuee dduurraabbllee ddee llaa bbiiooddiivveerrssiittéé :: qquuaanndd ccrrééeerr ddee llaa vvaalleeuurr ddeevviieenntt uunn lleevviieerr",
+        ""
+      ],
+      [
+        "",
+        "ddee ccoonnsseerrvvaattiioonn2266",
+        ""
+      ],
+      [
+        "Les expériences internationales démontrent que la conservation de la biodiversité progresse durablement\nlorsque les populations locales retirent un bénéfice direct et tangible de la préservation des écosystèmes.\nLà où la biodiversité n’est perçue que comme une contrainte, les pressions sur les milieux se renforcent ;\nmais là où elle devient une source de valeur économique, de sécurité alimentaire et d’opportunités locales,\nelle se transforme en patrimoine à protéger collectivement.\nDans de nombreux pays européens et nordiques, la valorisation durable des produits forestiers non ligneux\n(PFNL), des plantes aromatiques et médicinales (PAM), de l’écotourisme régulé ou des produits de terroir\nrepose sur une régulation stricte. Celle-ci garantit que l’exploitation économique demeure compatible avec\nles capacités de régénération des écosystèmes. Les cadres juridiques y sont précis : quotas d’extraction,\ncertifications, mécanismes de traçabilité et partage équitable des avantages. Ces conditions ont permis de\nconcilier prospérité rurale et maintien d’une forte intégrité écologique.\nDans plusieurs pays du Sud, la valorisation économique durable s’est imposée comme un levier central de\nconservation. La Namibie, pionnière en Afrique australe, illustre cette dynamique avec le modèle des\nconservancies communautaires. En confiant aux communautés locales des droits de gestion et d’usage sur\nla faune et les paysages, l’État a créé un puissant incitatif économique à la protection. Ces conservancies\ngénèrent des revenus substantiels à travers l’écotourisme, les safaris photographiques et la gestion durable",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 107,
+    "bbox": [
+      42.73263527894737,
+      329.02013983999996,
+      517.5210037,
+      554.972011258
+    ],
+    "n_rows": 10,
+    "n_cols": 7,
+    "rows": [
+      [
+        "EEssppèèccee//GGrroouuppee",
+        "ZZoonnee",
+        "",
+        "ÉÉttaatt dduu SSttoocckk",
+        "",
+        "TTeennddaannccee",
+        "CCoommmmeennttaaiirree"
+      ],
+      [
+        "",
+        "",
+        "",
+        "((ccllaassssiiffiiccaattiioonn))",
+        "",
+        "",
+        ""
+      ],
+      [
+        "SSaarrddiinnee",
+        "Méditerranée",
+        "Surexploité",
+        "",
+        "",
+        "En baisse",
+        "–"
+      ],
+      [
+        "PPoouullppee",
+        "Atlantique Sud",
+        "Pleinement exploité /\nGéré par quotas",
+        "",
+        "",
+        "Variable",
+        "Géré par repos biologiques\net quotas, mais sujet à des\ncontournements"
+      ],
+      [
+        "MMeerrlluu bbllaanncc",
+        "Atlantique",
+        "Surexploité (risque\nd'effondrement)",
+        "",
+        "",
+        "En baisse",
+        "–"
+      ],
+      [
+        "CCrreevveettttee rroossee",
+        "Atlantique",
+        "Surexploitée (risque\nd'effondrement)",
+        "",
+        "",
+        "En baisse",
+        "–"
+      ],
+      [
+        "CCrreevveettttee rroossee",
+        "Méditerranée",
+        "État alarmant (Biomasse\nà 23% de l'optimum)",
+        "",
+        "",
+        "En baisse",
+        "–"
+      ],
+      [
+        "RRoouuggeett ddee vvaassee",
+        "Méditerranée",
+        "État alarmant (Biomasse\nà 35% de l'optimum)",
+        "",
+        "",
+        "En baisse",
+        "–"
+      ],
+      [
+        "DDaauurraaddee rroossee",
+        "Atlantique &\nMéditerranée",
+        "Surexploitée (risque\nd'effondrement)",
+        "",
+        "",
+        "En baisse",
+        "–"
+      ],
+      [
+        "CCoouurrbbiinnee",
+        "Atlantique",
+        "Surexploitée (risque\nd'effondrement)",
+        "",
+        "",
+        "En baisse",
+        "–"
+      ]
+    ]
+  },
+  {
+    "page_number": 114,
+    "bbox": [
+      42.76797309999999,
+      462.062925989,
+      524.4519731,
+      685.2576467380001
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé –– Intégration transversale de la biodiversité dans les politiques publiques : quand la biodiversité",
+        ""
+      ],
+      [
+        "",
+        "devient un principe structurant de l’action publique85",
+        ""
+      ],
+      [
+        "Dans plusieurs pays pionniers, la biodiversité a progressivement cessé d’être appréhendée comme une\npolitique environnementale sectorielle pour devenir un principe transversal structurant l’ensemble de\nl’action publique. Cette évolution repose sur une reconnaissance explicite du vivant comme infrastructure\nstratégique, indispensable à la résilience écologique, économique et territoriale.\nEn France, la Stratégie nationale pour la biodiversité (SNB) constitue un cadre de référence opposable,\nauquel doivent s’aligner les politiques agricoles, énergétiques, d’aménagement du territoire et\nd’infrastructures. La biodiversité y est intégrée comme un déterminant des choix publics, au même titre que\nles considérations économiques ou sociales. En Suède, cette intégration se traduit par l’inscription des\nobjectifs de biodiversité directement dans les politiques forestières, agricoles et climatiques, appuyée par\ndes indicateurs communs permettant un suivi transversal et une meilleure cohérence des arbitrages.\nLes analyses comparatives montrent que les pays ayant inscrit la biodiversité dans leurs cadres de\nplanification stratégique et budgétaire obtiennent de meilleurs résultats en matière de cohérence des\npolitiques publiques, de réduction des impacts cumulés et de prévention des conflits entre usages. À",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 115,
+    "bbox": [
+      -552.5076005999999,
+      462.06268584,
+      -70.82360059999999,
+      685.25716644
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé –– Intégration transversale de la biodiversité dans les politiques publiques : quand la biodiversité",
+        ""
+      ],
+      [
+        "",
+        "devient un principe structurant de l’action publique85",
+        ""
+      ],
+      [
+        "Dans plusieurs pays pionniers, la biodiversité a progressivement cessé d’être appréhendée comme une\npolitique environnementale sectorielle pour devenir un principe transversal structurant l’ensemble de\nl’action publique. Cette évolution repose sur une reconnaissance explicite du vivant comme infrastructure\nstratégique, indispensable à la résilience écologique, économique et territoriale.\nEn France, la Stratégie nationale pour la biodiversité (SNB) constitue un cadre de référence opposable,\nauquel doivent s’aligner les politiques agricoles, énergétiques, d’aménagement du territoire et\nd’infrastructures. La biodiversité y est intégrée comme un déterminant des choix publics, au même titre que\nles considérations économiques ou sociales. En Suède, cette intégration se traduit par l’inscription des\nobjectifs de biodiversité directement dans les politiques forestières, agricoles et climatiques, appuyée par\ndes indicateurs communs permettant un suivi transversal et une meilleure cohérence des arbitrages.\nLes analyses comparatives montrent que les pays ayant inscrit la biodiversité dans leurs cadres de\nplanification stratégique et budgétaire obtiennent de meilleurs résultats en matière de cohérence des\npolitiques publiques, de réduction des impacts cumulés et de prévention des conflits entre usages. À",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 116,
+    "bbox": [
+      42.76797309999999,
+      438.201721349,
+      524.4519731,
+      705.8907685199999
+    ],
+    "n_rows": 2,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé —— EEE : une menace croissante, coûteuse et systémique pour le Maroc89",
+        ""
+      ],
+      [
+        "Les EEE, introduites hors de leur aire de répartition naturelle de manière volontaire ou accidentelle,\nconstituent aujourd’hui au Maroc une menace écologique, économique et sociale majeure. Leur capacité à\ns’établir, se propager et générer des impacts négatifs sur la biodiversité, les services écosystémiques,\nl’agriculture et la santé humaine en fait l’un des facteurs les plus préoccupants d’érosion du capital naturel90.\nCe phénomène connaît une progression rapide, favorisée par la position géographique du pays et\nl’intensification des échanges. Il se manifeste à travers une diversité d’espèces envahissantes touchant tous\nles milieux : plantes terrestres (Solanum elaeagnifolium, Oxalis pes-caprae), hydrophytes (Eichhornia\ncrassipes, Pistia stratiotes), algues marines (Caulerpa cylindracea, Rugulopteryx okamurae), ravageurs\nagricoles (Dactylopius opuntiae, Bemisia tabaci), vertébrés invasifs (rat brun) ou encore vecteurs de\nmaladies comme le moustique tigre (Aedes albopictus).\nLes impacts écologiques sont particulièrement sévères : ces espèces remplacent les espèces autochtones,\naltèrent les habitats, dégradent les sols et perturbent des fonctions écologiques essentielles telles que la\npollinisation, la filtration de l’eau ou la productivité biologique :\n- En agriculture, des EEE comme Ambrosia artemisiifolia et certaines chenilles processionnaires entraînent\ndes pertes de rendement pouvant atteindre 10 à 20 % sur certaines cultures.\n- En milieu marin, des espèces comme Caulerpa taxifolia et certains poissons introduits affectent les\nécosystèmes côtiers et les pêcheries locales91. Les algues invasives modifient profondément la structure\ndes communautés et déstabilisent les chaînes trophiques.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 117,
+    "bbox": [
+      -552.5076005999999,
+      438.20148120000005,
+      -70.82360059999999,
+      705.8907685199999
+    ],
+    "n_rows": 2,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé —— EEE : une menace croissante, coûteuse et systémique pour le Maroc89",
+        ""
+      ],
+      [
+        "Les EEE, introduites hors de leur aire de répartition naturelle de manière volontaire ou accidentelle,\nconstituent aujourd’hui au Maroc une menace écologique, économique et sociale majeure. Leur capacité à\ns’établir, se propager et générer des impacts négatifs sur la biodiversité, les services écosystémiques,\nl’agriculture et la santé humaine en fait l’un des facteurs les plus préoccupants d’érosion du capital naturel90.\nCe phénomène connaît une progression rapide, favorisée par la position géographique du pays et\nl’intensification des échanges. Il se manifeste à travers une diversité d’espèces envahissantes touchant tous\nles milieux : plantes terrestres (Solanum elaeagnifolium, Oxalis pes-caprae), hydrophytes (Eichhornia\ncrassipes, Pistia stratiotes), algues marines (Caulerpa cylindracea, Rugulopteryx okamurae), ravageurs\nagricoles (Dactylopius opuntiae, Bemisia tabaci), vertébrés invasifs (rat brun) ou encore vecteurs de\nmaladies comme le moustique tigre (Aedes albopictus).\nLes impacts écologiques sont particulièrement sévères : ces espèces remplacent les espèces autochtones,\naltèrent les habitats, dégradent les sols et perturbent des fonctions écologiques essentielles telles que la\npollinisation, la filtration de l’eau ou la productivité biologique :\n- En agriculture, des EEE comme Ambrosia artemisiifolia et certaines chenilles processionnaires entraînent\ndes pertes de rendement pouvant atteindre 10 à 20 % sur certaines cultures.\n- En milieu marin, des espèces comme Caulerpa taxifolia et certains poissons introduits affectent les\nécosystèmes côtiers et les pêcheries locales91. Les algues invasives modifient profondément la structure\ndes communautés et déstabilisent les chaînes trophiques.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 118,
+    "bbox": [
+      42.76797309999999,
+      189.41527244000002,
+      524.4519731,
+      660.722574178
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé –– Restauration écologique des écosystèmes dégradés : de la réparation des milieux à",
+        ""
+      ],
+      [
+        "",
+        "l’investissement stratégique pour la résilience99",
+        ""
+      ],
+      [
+        "La restauration écologique est désormais reconnue comme l’un des outils les plus puissants pour répondre\nsimultanément aux crises de la biodiversité, du climat, de la désertification et de l’eau. Là où la conservation\nprotège ce qui reste, la restauration reconstruit ce qui a été perdu, en rétablissant les fonctions écologiques\nessentielles à la stabilité des territoires. Les analyses de l'ONU et de l’IPBES montrent qu’un dollar investi\ndans la restauration génère entre 7 et 30 dollars de bénéfices, en raison de l’amélioration des sols, de la\nsécurité hydrique, de la productivité agricole et de la résilience des communautés100.\nDans les régions semi-arides et arides, plusieurs pays du Sud ont démontré qu’il est possible d’obtenir des\nrésultats significatifs à grande échelle, même avec des moyens limités :\n- L’Éthiopie constitue l’un des exemples les plus emblématiques : grâce à des programmes de\nrestauration des bassins versants, des millions d’hectares de terres gravement dégradées ont été\nréhabilités depuis les années 2000. Ces interventions – associant terrasses, interdictions de pâturage,\nmobilisation communautaire et régénération naturelle – ont permis d'augmenter la recharge des\nnappes, de réduire l'érosion et d'améliorer les rendements agricoles. Dans plusieurs zones pilotes, la\ndisponibilité en eau s’est améliorée de manière mesurable, réduisant la vulnérabilité aux sécheresses.\n- Le Niger représente un autre modèle de restauration réussie. La pratique de la régénération naturelle\nassistée (RNA), fondée sur les savoirs locaux et des techniques très peu coûteuses, a permis de\nrestaurer plus de 5 millions d’hectares de terres agricoles. Ce modèle a entraîné une amélioration\nnotable de la fertilité des sols, une diversification des systèmes agropastoraux, ainsi qu’un\nrenforcement de la sécurité alimentaire de plusieurs millions de personnes. Cette approche démontre\nqu’une restauration à grande échelle peut être portée par les communautés, avec un soutien public\nléger mais structurant.\nD'autres pays du Sud ont utilisé la restauration comme un levier de développement économique :\n- En Namibie, le modèle des conservancies communautaires associe gestion durable de la faune sauvage,\nécotourisme et restauration des paysages ; il a permis de réduire fortement le braconnage et de générer\ndes revenus substantiels pour les communautés. Ce type de démarche illustre la manière dont la\nvalorisation économique durable peut devenir un moteur de conservation.\n- Au Pérou ou au Maroc, certaines filières fondées sur les PFNL et les PAM montrent également que\nlorsque la valorisation est bien structurée – certifications, régulations, organisation des producteurs –\nla restauration et la conservation deviennent des intérêts économiques partagés, renforçant la\ndurabilité des écosystèmes et des moyens de subsistance.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 119,
+    "bbox": [
+      -552.5076005999999,
+      189.41527244000002,
+      -70.82360059999999,
+      660.7220938799999
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé –– Restauration écologique des écosystèmes dégradés : de la réparation des milieux à",
+        ""
+      ],
+      [
+        "",
+        "l’investissement stratégique pour la résilience99",
+        ""
+      ],
+      [
+        "La restauration écologique est désormais reconnue comme l’un des outils les plus puissants pour répondre\nsimultanément aux crises de la biodiversité, du climat, de la désertification et de l’eau. Là où la conservation\nprotège ce qui reste, la restauration reconstruit ce qui a été perdu, en rétablissant les fonctions écologiques\nessentielles à la stabilité des territoires. Les analyses de l'ONU et de l’IPBES montrent qu’un dollar investi\ndans la restauration génère entre 7 et 30 dollars de bénéfices, en raison de l’amélioration des sols, de la\nsécurité hydrique, de la productivité agricole et de la résilience des communautés100.\nDans les régions semi-arides et arides, plusieurs pays du Sud ont démontré qu’il est possible d’obtenir des\nrésultats significatifs à grande échelle, même avec des moyens limités :\n- L’Éthiopie constitue l’un des exemples les plus emblématiques : grâce à des programmes de\nrestauration des bassins versants, des millions d’hectares de terres gravement dégradées ont été\nréhabilités depuis les années 2000. Ces interventions – associant terrasses, interdictions de pâturage,\nmobilisation communautaire et régénération naturelle – ont permis d'augmenter la recharge des\nnappes, de réduire l'érosion et d'améliorer les rendements agricoles. Dans plusieurs zones pilotes, la\ndisponibilité en eau s’est améliorée de manière mesurable, réduisant la vulnérabilité aux sécheresses.\n- Le Niger représente un autre modèle de restauration réussie. La pratique de la régénération naturelle\nassistée (RNA), fondée sur les savoirs locaux et des techniques très peu coûteuses, a permis de\nrestaurer plus de 5 millions d’hectares de terres agricoles. Ce modèle a entraîné une amélioration\nnotable de la fertilité des sols, une diversification des systèmes agropastoraux, ainsi qu’un\nrenforcement de la sécurité alimentaire de plusieurs millions de personnes. Cette approche démontre\nqu’une restauration à grande échelle peut être portée par les communautés, avec un soutien public\nléger mais structurant.\nD'autres pays du Sud ont utilisé la restauration comme un levier de développement économique :\n- En Namibie, le modèle des conservancies communautaires associe gestion durable de la faune sauvage,\nécotourisme et restauration des paysages ; il a permis de réduire fortement le braconnage et de générer\ndes revenus substantiels pour les communautés. Ce type de démarche illustre la manière dont la\nvalorisation économique durable peut devenir un moteur de conservation.\n- Au Pérou ou au Maroc, certaines filières fondées sur les PFNL et les PAM montrent également que\nlorsque la valorisation est bien structurée – certifications, régulations, organisation des producteurs –\nla restauration et la conservation deviennent des intérêts économiques partagés, renforçant la\ndurabilité des écosystèmes et des moyens de subsistance.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 122,
+    "bbox": [
+      42.76797309999999,
+      99.252771284,
+      524.4519731,
+      478.67954592
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé –– Gouvernance de la connaissance et systèmes d’information sur la biodiversité : décider sur la base de",
+        ""
+      ],
+      [
+        "",
+        "données robustes, partagées et opérationnelles117",
+        ""
+      ],
+      [
+        "La capacité d’un pays à protéger et restaurer sa biodiversité dépend directement de la qualité, de la disponibilité\net de l’utilisation effective de la connaissance. Les pays les plus avancés ont investi dans des systèmes nationaux\nintégrés d’information sur la biodiversité, conçus comme de véritables instruments d’aide à la décision. Ces\nplateformes permettent de centraliser, harmoniser et croiser les données écologiques, socio-économiques,\nfoncières et territoriales pour orienter les politiques publiques, réduire les zones d’incertitude et anticiper les\nrisques.\nAu sein de l’Union Européenne, l’interopérabilité entre bases de données publiques, observatoires régionaux et\nprogrammes de recherche a permis de renforcer la transparence des politiques, la cohérence des arbitrages\nintersectoriels et le suivi des engagements internationaux. Ces dispositifs ne sont pas de simples entrepôts\nd’information : ils sont structurés pour influencer directement la régulation, l’allocation des financements et la\nplanification territoriale.\nDans plusieurs pays du Sud, des expériences innovantes ont émergé pour pallier les limites des systèmes\nscientifiques centralisés. En Colombie, le Sistema de Información sobre Biodiversidad (SiB Colombia) combine\ndonnées scientifiques, inventaires citoyens, savoirs autochtones et observations communautaires. Ce modèle a\npermis de documenter des milliers d’espèces auparavant peu connues, tout en renforçant l’implication des\nterritoires dans la conservation. En Afrique du Sud, le South African National Biodiversity Institute (SANBI) a\ndéveloppé un système intégré qui relie données écologiques, usage des terres, risques climatiques et priorités de\nrestauration, facilitant la prise de décision à toutes les échelles de gouvernance.\nCes expériences démontrent qu’un système d’information efficace ne repose pas uniquement sur la\nsophistication technologique, mais sur la capacité à articuler différentes sources de connaissance — scientifiques,\ninstitutionnelles et locales — dans une architecture commune répondant aux besoins réels de la décision\npublique.\nLa gouvernance de la biodiversité est indissociable d’une gouvernance de la connaissance. Un système national\nintégré, partagé et opérationnel constitue un levier essentiel pour une prise de décision éclairée, anticipative et\ncohérente, capable de guider les efforts de conservation, restauration et valorisation du vivant.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 123,
+    "bbox": [
+      -552.5076005999999,
+      99.25277128399998,
+      -70.82360059999999,
+      478.67954592
+    ],
+    "n_rows": 3,
+    "n_cols": 3,
+    "rows": [
+      [
+        "",
+        "EEnnccaaddrréé –– Gouvernance de la connaissance et systèmes d’information sur la biodiversité : décider sur la base de",
+        ""
+      ],
+      [
+        "",
+        "données robustes, partagées et opérationnelles117",
+        ""
+      ],
+      [
+        "La capacité d’un pays à protéger et restaurer sa biodiversité dépend directement de la qualité, de la disponibilité\net de l’utilisation effective de la connaissance. Les pays les plus avancés ont investi dans des systèmes nationaux\nintégrés d’information sur la biodiversité, conçus comme de véritables instruments d’aide à la décision. Ces\nplateformes permettent de centraliser, harmoniser et croiser les données écologiques, socio-économiques,\nfoncières et territoriales pour orienter les politiques publiques, réduire les zones d’incertitude et anticiper les\nrisques.\nAu sein de l’Union Européenne, l’interopérabilité entre bases de données publiques, observatoires régionaux et\nprogrammes de recherche a permis de renforcer la transparence des politiques, la cohérence des arbitrages\nintersectoriels et le suivi des engagements internationaux. Ces dispositifs ne sont pas de simples entrepôts\nd’information : ils sont structurés pour influencer directement la régulation, l’allocation des financements et la\nplanification territoriale.\nDans plusieurs pays du Sud, des expériences innovantes ont émergé pour pallier les limites des systèmes\nscientifiques centralisés. En Colombie, le Sistema de Información sobre Biodiversidad (SiB Colombia) combine\ndonnées scientifiques, inventaires citoyens, savoirs autochtones et observations communautaires. Ce modèle a\npermis de documenter des milliers d’espèces auparavant peu connues, tout en renforçant l’implication des\nterritoires dans la conservation. En Afrique du Sud, le South African National Biodiversity Institute (SANBI) a\ndéveloppé un système intégré qui relie données écologiques, usage des terres, risques climatiques et priorités de\nrestauration, facilitant la prise de décision à toutes les échelles de gouvernance.\nCes expériences démontrent qu’un système d’information efficace ne repose pas uniquement sur la\nsophistication technologique, mais sur la capacité à articuler différentes sources de connaissance — scientifiques,\ninstitutionnelles et locales — dans une architecture commune répondant aux besoins réels de la décision\npublique.\nLa gouvernance de la biodiversité est indissociable d’une gouvernance de la connaissance. Un système national\nintégré, partagé et opérationnel constitue un levier essentiel pour une prise de décision éclairée, anticipative et\ncohérente, capable de guider les efforts de conservation, restauration et valorisation du vivant.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 132,
+    "bbox": [
+      42.75976617560972,
+      172.33906653514998,
+      517.4904051999998,
+      785.7219138560857
+    ],
+    "n_rows": 55,
+    "n_cols": 10,
+    "rows": [
+      [
+        "AAnnnneexxee 11 -- LLiissttee ddeess mmeemmbbrreess ddee llaa CCoommmmiissss\nAabane Ahmed Baba\nddéévveellooppppeemmeenntt dduurraabbllee",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "iioonn ppeerrmmaanneennttee cchhaarrggééee ddee ll’’eennvviirroonnnneemmeenntt eett dd\nKsiri Abderrahim (Rapporteur de la thématique)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Alaoui Nouzha\nAabane Ahmed Baba",
+        "Alaoui Nouzha",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Abderrahim Laabaid (Rapporteur de la",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ksiri Abderrahim (Rapporteur de la thématique)\ncommission)",
+        "",
+        ""
+      ],
+      [
+        "BAelanokuaid Ndoouuzrh Ma ohammed (Président de la\ncommission)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MAbodkesrsriat hAibmd aLlaaahb aid (Rapporteur de la",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "commission)",
+        "",
+        ""
+      ],
+      [
+        "BBeennckhadedrkoi uArb Mdeolhkraimmm ed (Président de la",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MMooukststaitq Ai bAdbadlealhla h",
+        "MMooukststaitq Ai bAdbadlealhla h",
+        "",
+        ""
+      ],
+      [
+        "commission)\nBensami Khalil",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "M’Hammed Riad",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Bencherki Abdelkrim",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mouttaqi Abdellah",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Boukhalfa Bouchta",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mina Rouchati",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Bensami Khalil\nBoujida Mohamed",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "M’Hammed Riad\nTariq Sijilmassi",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Boukhalfa Bouchta",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mina Rouchati",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Chahbouni Nour-eddine",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Moncef Ziani",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Boujida Mohamed\nGaouzi Sidi Mohamed",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tariq Sijilmassi\nBrahim Zidouh (Vice-président de la",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Chahbouni Nour-eddine",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "CMoomnmceifs sZiioann)i",
+        "",
+        ""
+      ],
+      [
+        "IGlaaloi Iudzrii sSsid i Mohamed",
+        "IGlaaloi Iudzrii sSsid i Mohamed",
+        "",
+        "",
+        "",
+        "",
+        "FBarahheirm K aZmidaoludhd i(nVeic e-président de la",
+        "FBarahheirm K aZmidaoludhd i(nVeic e-président de la",
+        "",
+        ""
+      ],
+      [
+        "Albert Sasson",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Commission)\nDriss Elyazami",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Ilali Idriss",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Faher Kamalddine",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Amina Lamrani\nAlbert Sasson",
+        "Amina Lamrani",
+        "",
+        "",
+        "",
+        "",
+        "Amina Bouayach\nDriss Elyazami",
+        "Amina Bouayach",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "LLeess eexxppeerrttss aayyaanntt aaccccoommppaaggnnéé llaa CCoommmmiissssiioonn\nAmina Lamrani",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Amina Bouayach",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Expert permanent auprès du Conseil\nLLeess eexxppeerrttss aayyaanntt aaccccoommppaaggnnéé llaa CCoommmmiissssiioonn",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mohamed Behnassi",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Expert chargé de la traduction",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Adel Gaiz",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Expert permanent auprès du Conseil",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mohamed Behnassi",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "AAnnnneexxee 22 -- LLiissttee ddeess aacctteeuurrss aauuddiititioonnnnééss ((**))\nExpert chargé de la traduction\n*",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Adel Gaiz\n* *",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "AAnnnneexxee 22 -- LLiissttee ddeess aacctteeuurrss",
+        "",
+        "",
+        "",
+        "− Ministère de la Transition Énergétique et du Développement\naauuddiititioonnnnééss ((**))",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Durable (MTEDD)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Départements\nministériels\nDépartements\nministériels",
+        "",
+        "",
+        "",
+        "− Ministère de la Transition Énergétique et du Développement",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de Tourisme, de l'Artisanat et de l'Économie Sociale et",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Durable (MTEDD)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Solidaire",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de Tourisme, de l'Artisanat et de l'Économie Sociale et",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Département de la Pêche Maritime",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Solidaire",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de l’Équipement et de l’Eau",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Département de la Pêche Maritime",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de l’Économie et des Finances",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de l’Équipement et de l’Eau",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "−",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Département de de l’Agriculture\n− Ministère de l’Économie et des Finances",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Institutions",
+        "",
+        "",
+        "",
+        "− Agence Nationale des Eaux et Forêts (ANEF)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Institutions",
+        "",
+        "",
+        "− Département de de l’Agriculture",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Institut National de Recherche Halieutique (INRH)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "publiques",
+        "",
+        "",
+        "− Agence Nationale des Eaux et Forêts (ANEF)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Institutions",
+        "",
+        "",
+        "− Crédit Agricole du Maroc",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Institut National de Recherche Halieutique (INRH)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "publiques",
+        "publiques",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Crédit Agricole du Maroc",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 132,
+    "bbox": [
+      48.031435969230756,
+      566.6768887862,
+      166.24220520000006,
+      679.532590958
+    ],
+    "n_rows": 9,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Départements"
+      ],
+      [
+        "ministériels"
+      ],
+      [
+        "Départements"
+      ],
+      [
+        ""
+      ],
+      [
+        "ministériels"
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 133,
+    "bbox": [
+      42.56033333333334,
+      99.833,
+      513.017,
+      575.8284584873333
+    ],
+    "n_rows": 20,
+    "n_cols": 6,
+    "rows": [
+      [
+        "",
+        "Institutions",
+        "",
+        "",
+        "− Fondation Mohammed VI pour la Protection de l'Environnement",
+        ""
+      ],
+      [
+        "",
+        "nationales",
+        "",
+        "",
+        "− Initiative de l’Adaptation de l’Agriculture Africaine (AAA)",
+        ""
+      ],
+      [
+        "Entreprises",
+        "",
+        "",
+        "− PGPR Technologies",
+        "− PGPR Technologies",
+        ""
+      ],
+      [
+        "Organisations\ninternationales",
+        "",
+        "",
+        "",
+        "− Programme des Nations Unies pour le Développement (PNUD),",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Maroc",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Banque Mondiale, Bureau du Maroc, Rabat",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Délégation de l’Union Européenne au Maroc",
+        ""
+      ],
+      [
+        "Chercheurs et\nexperts",
+        "",
+        "",
+        "",
+        "− Mostafa Lamrani Alaoui, École Nationale Forestière d'Ingénieurs",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "(ENFI)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Mohamed Ghamizi, Faculté des Sciences de Marrakech",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Bennasseur Alaoui, Institut agronomique et vétérinaire - Hassan II",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "(IAV)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Abdelkader Taleb, Institut agronomique et vétérinaire - Hassan II",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "(IAV)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ahmed Amri, Ancien Directeur Ressources Génétiques (ICARDA)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ayashi Sehhar, Institut Agronomique et Vétérinaire Hassan- II (IAV)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Mohamed Naji, Institut Agronomique et Vétérinaire Hassan- II",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "(IAV)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ahmed Taheri, Faculté des Sciences de Tétouan, Université",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Abdelmalek Essaâdi",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 133,
+    "bbox": [
+      -552.5158075743899,
+      172.33860078200001,
+      -77.78536855,
+      785.7216477114287
+    ],
+    "n_rows": 55,
+    "n_cols": 10,
+    "rows": [
+      [
+        "AAnnnneexxee 11 -- LLiissttee ddeess mmeemmbbrreess ddee llaa CCoommmmiissss\nAabane Ahmed Baba\nddéévveellooppppeemmeenntt dduurraabbllee",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "iioonn ppeerrmmaanneennttee cchhaarrggééee ddee ll’’eennvviirroonnnneemmeenntt eett dd\nKsiri Abderrahim (Rapporteur de la thématique)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Alaoui Nouzha\nAabane Ahmed Baba",
+        "Alaoui Nouzha",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Abderrahim Laabaid (Rapporteur de la",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Ksiri Abderrahim (Rapporteur de la thématique)\ncommission)",
+        "",
+        ""
+      ],
+      [
+        "BAelanokuaid Ndoouuzrh Ma ohammed (Président de la\ncommission)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MAbodkesrsriat hAibmd aLlaaahb aid (Rapporteur de la",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "commission)",
+        "",
+        ""
+      ],
+      [
+        "BBeennckhadedrkoi uArb Mdeolhkraimmm ed (Président de la",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MMooukststaitq Ai bAdbadlealhla h",
+        "MMooukststaitq Ai bAdbadlealhla h",
+        "",
+        ""
+      ],
+      [
+        "commission)\nBensami Khalil",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "M’Hammed Riad",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Bencherki Abdelkrim",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mouttaqi Abdellah",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Boukhalfa Bouchta",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mina Rouchati",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Bensami Khalil\nBoujida Mohamed",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "M’Hammed Riad\nTariq Sijilmassi",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Boukhalfa Bouchta",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mina Rouchati",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Chahbouni Nour-eddine",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Moncef Ziani",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Boujida Mohamed\nGaouzi Sidi Mohamed",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Tariq Sijilmassi\nBrahim Zidouh (Vice-président de la",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Chahbouni Nour-eddine",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "CMoomnmceifs sZiioann)i",
+        "",
+        ""
+      ],
+      [
+        "IGlaaloi Iudzrii sSsid i Mohamed",
+        "IGlaaloi Iudzrii sSsid i Mohamed",
+        "",
+        "",
+        "",
+        "",
+        "FBarahheirm K aZmidaoludhd i(nVeic e-président de la",
+        "FBarahheirm K aZmidaoludhd i(nVeic e-président de la",
+        "",
+        ""
+      ],
+      [
+        "Albert Sasson",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Commission)\nDriss Elyazami",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Ilali Idriss",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Faher Kamalddine",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Amina Lamrani\nAlbert Sasson",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Amina Bouayach\nDriss Elyazami",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "LLeess eexxppeerrttss aayyaanntt aaccccoommppaaggnnéé llaa CCoommmmiissssiioonn\nAmina Lamrani",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Amina Bouayach",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Expert permanent auprès du Conseil\nLLeess eexxppeerrttss aayyaanntt aaccccoommppaaggnnéé llaa CCoommmmiissssiioonn",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mohamed Behnassi",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Expert chargé de la traduction",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Adel Gaiz",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Expert permanent auprès du Conseil",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Mohamed Behnassi",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "AAnnnneexxee 22 -- LLiissttee ddeess aacctteeuurrss aauuddiititioonnnnééss ((**))\nExpert chargé de la traduction",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Adel Gaiz",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "AAnnnneexxee 22 -- LLiissttee ddeess aacctteeuurrss",
+        "",
+        "",
+        "",
+        "− Ministère de la Transition Énergétique et du Développement\naauuddiititioonnnnééss ((**))",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Durable (MTEDD)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Départements\nministériels\nDépartements\nministériels",
+        "",
+        "",
+        "",
+        "− Ministère de la Transition Énergétique et du Développement",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de Tourisme, de l'Artisanat et de l'Économie Sociale et",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Durable (MTEDD)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Solidaire",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de Tourisme, de l'Artisanat et de l'Économie Sociale et",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Département de la Pêche Maritime",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Solidaire",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de l’Équipement et de l’Eau",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Département de la Pêche Maritime",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de l’Économie et des Finances",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Ministère de l’Équipement et de l’Eau",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "−",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Département de de l’Agriculture\n− Ministère de l’Économie et des Finances",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Institutions",
+        "",
+        "",
+        "",
+        "− Agence Nationale des Eaux et Forêts (ANEF)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Institutions",
+        "",
+        "",
+        "− Département de de l’Agriculture",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Institut National de Recherche Halieutique (INRH)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "publiques",
+        "",
+        "",
+        "− Agence Nationale des Eaux et Forêts (ANEF)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Institutions",
+        "",
+        "",
+        "− Crédit Agricole du Maroc",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Institut National de Recherche Halieutique (INRH)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "publiques",
+        "publiques",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "− Crédit Agricole du Maroc",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 133,
+    "bbox": [
+      47.88,
+      217.34,
+      166.22,
+      261.702
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Organisations"
+      ],
+      [
+        "internationales"
+      ]
+    ]
+  },
+  {
+    "page_number": 133,
+    "bbox": [
+      47.88,
+      408.33,
+      166.22,
+      452.27
+    ],
+    "n_rows": 2,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Chercheurs et"
+      ],
+      [
+        "experts"
+      ]
+    ]
+  },
+  {
+    "page_number": 133,
+    "bbox": [
+      -547.2441377807692,
+      566.6768887862,
+      -429.03336855,
+      679.532590958
+    ],
+    "n_rows": 9,
+    "n_cols": 1,
+    "rows": [
+      [
+        "Départements"
+      ],
+      [
+        "ministériels"
+      ],
+      [
+        "Départements"
+      ],
+      [
+        ""
+      ],
+      [
+        "ministériels"
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "page_number": 134,
+    "bbox": [
+      42.449999999999996,
+      335.4266,
+      510.59,
+      614.4199333333332
+    ],
+    "n_rows": 2,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Genre\n100%\n70%\n50% 30%\nVote(s)\n0%\nFemme Homme",
+        "Milieu de résidence\n100%\n72%\n50% 28%\nVote(s)\n0%\nUrbain Rural"
+      ],
+      [
+        "Age\n33%\n35%\n30%\n24% 23%\n25%\n20%\n15% 10% 11% Vote(s)\n10%\n5%\n0%\n15-24 ans 25-34 ans 35-44 ans 45-59 ans 60 ans et plus",
+        ""
+      ]
+    ]
+  }
+]

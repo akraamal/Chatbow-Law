@@ -1,0 +1,9534 @@
+# Bulletin Officiel 6788
+**Source :** `data\processed\fr\BO_6788_Fr.txt`
+**Langue :** ar
+**Nombre d'articles :** 77
+
+## Préambule
+
+Dahir n° 1-18-110 du 2 joumada I 1440 (9 janvier 2019) portant
+promulgation de la loi n° 89-17 modifiant et complétant
+la loi n° 15-95 formant code de commerce.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes — puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu la Constitution, notamment ses articles 42 et 50,
+A DÉCIDÉ CE QUI SUIT :
+Est promulguée et sera publiée au Bulletin officiel, à la
+suite du présent dahir, la loi n° 89-17 modifiant et complétant
+la loi n° 15-95 formant code de commerce, telle qu'adoptée par
+la Chambre des représentants et la Chambre des conseillers.
+Fait à Rabat, le 2 joumada I 1440 (9 janvier 2019).
+Pour contreseing :
+Le Chef du gouvernement,
+SAAD DINE EL OTMANI.
+*
+% *
+Loi n° 89-17
+modifiant et complétant la loi n° 15-95
+formant code de commerce
+Article premier
+Sont modifiées ou complétées comme suit, les
+. dispositions des articles 6, 27, 30, 32, 38, 42, 45, 55 et 74 de
+la loi n° 15-95 formant code de commerce promulguée par le
+dahir n° 1-96-83 du 15 rabii I 1417 (1” août 1996), telle qu'elle
+« Article 6.-— Sous réserve des dispositions
+a été modifiée et complétée :
+« activités suivantes :
+« 1) l'achat de meubles...
+« 18) les postes et télécommunications ;
+« 19) la domiciliation.
+« Article 27. - Le registre du commerce central.
+« Il est créé un registre électronique du commerce
+« à travers lequel sont tenus les registres locaux du
+« commerce et le registre central du commerce précités,
+« conformément aux dispositions des articles 28 et 31
+«ci-dessous, et ce par le biais de la plateforme électronique créée
+a ———_—_———
+«par la loi n° 88-17 relative à la création et à l'accompagnement
+« d'entreprises par voie électronique.
+«Les inscriptions au registre électronique du commerce
+« prévues à l'article 36 ci-dessous, sont effectuées à travers la
+« plateforme électronique de création et d'accompagnement
+« d'entreprises par voie électronique.
+& Article 42.- Les commerçants personnes physiques...
+« d'immatriculation, via la plateforme électronique créée
+« à cette fin :
+« 7) le lieu où est situé le siège de son entreprise...
+« ou à l'étranger ou le lieu de domiciliation de son entreprise,
+«le cas échéant ;
+Lnnnenn rss nnrnensn sense neneenee nee enenestesenneeseneeeenneneenentee à travers
+«la plateforme électronique créée à cette fin :
+« 1) les nom et prénom .… […texte non modifié…] … […texte non modifié…] ….….
+« lieu ;
+« 5) le siège social ou à l'étranger ou le lieu de
+« domiciliation de son siège social, le cas échéant ;
+« Article 30. - Toute inscription
+«être requise par voie électronique à travers la fenêtre dédiée
+« dans la plateforme électronique précitée au secrétariat-greffe
+« du tribunal dans le ressort duquel est situé l'établissement
+«principal du commerçant ou du siège social de la société.
+« Article 32. - Le registre central du commerce est public.
+«ILest consulté à travers la plateforme électronique de création
+«et d'accompagnement d'entreprises par voie électronique.
+« Article 38. - L'immatriculation du commerçant au
+« registre électronique du commerce ne peut être requise que
+«sur sa demande ou à la demande de son mandataire disposant
+« d'une procuration écrite qui doit être jointe obligatoirement
+« à la demande, sous réserve des dispositions législatives
+« en vigueur.
+(La suite sans changement.)
+« 1) les nom et prénom Free Fees en tenant
+« lieu ;
+LC arr dress és Dresser
+« 6) l'activité effectivement exercée ;
+(La suite sans changement.)
+« Article 45. — Les sociétés commerciales doivent
+« 4) l'activité effectivement exercée ;
+(La suite sans changement.)
+« Article 55. — Est radié d'office tout commerçant ou
+« personne morale :
+EP annee neeeeeeenenenene :
+«2. au terme d'un délai d'un an courant à compter de la
+«date de la mention de la dissolution. Le délai entre la radiation
+« susmentionnée et la date de publication du procès-verbal
+« de désignation du liquidateur, tel qu'il est fixé par les lois en
+« vigueur, ne doit pas dépasser 60 jours.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1473
+la prorogation
+« des délais de liquidation. Cette prorogation est valable un
+« Toutefois,
+« an, sauf renouvellement d'année en année, le président du
+& tribunal statue sur la demande de prorogation avant son
+«immatriculation par voie d'inscription modificative.
+« Article 74. — Tout nom, au registre du
+« commerce dans un délai de quatre-vingt-dix (90) jours à
+« compter de la date de délivrance du certificat négatif...
+« au registre central du commerce.»
+
+## Décrets
+
+### Dahir
+
+Dahir n° 1-18-110 du 2 joumada I 1440 (9 janvier 2019) portant
+promulgation de la loi n° 89-17 modifiant et complétant
+la loi n° 15-95 formant code de commerce.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes — puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu la Constitution, notamment ses articles 42 et 50,
+A DÉCIDÉ CE QUI SUIT :
+Est promulguée et sera publiée au Bulletin officiel, à la
+suite du présent dahir, la loi n° 89-17 modifiant et complétant
+la loi n° 15-95 formant code de commerce, telle qu'adoptée par
+la Chambre des représentants et la Chambre des conseillers.
+Fait à Rabat, le 2 joumada I 1440 (9 janvier 2019).
+Pour contreseing :
+Le Chef du gouvernement,
+SAAD DINE EL OTMANI.
+*
+% *
+Loi n° 89-17
+modifiant et complétant la loi n° 15-95
+formant code de commerce
+Article premier
+Sont modifiées ou complétées comme suit, les
+. dispositions des articles 6, 27, 30, 32, 38, 42, 45, 55 et 74 de
+la loi n° 15-95 formant code de commerce promulguée par le
+dahir n° 1-96-83 du 15 rabii I 1417 (1” août 1996), telle qu'elle
+« Article 6.-— Sous réserve des dispositions
+a été modifiée et complétée :
+« activités suivantes :
+« 1) l'achat de meubles...
+« 18) les postes et télécommunications ;
+« 19) la domiciliation.
+« Article 27. - Le registre du commerce central.
+« Il est créé un registre électronique du commerce
+« à travers lequel sont tenus les registres locaux du
+« commerce et le registre central du commerce précités,
+« conformément aux dispositions des articles 28 et 31
+«ci-dessous, et ce par le biais de la plateforme électronique créée
+a ———_—_———
+«par la loi n° 88-17 relative à la création et à l'accompagnement
+« d'entreprises par voie électronique.
+«Les inscriptions au registre électronique du commerce
+« prévues à l'article 36 ci-dessous, sont effectuées à travers la
+« plateforme électronique de création et d'accompagnement
+« d'entreprises par voie électronique.
+& Article 42.- Les commerçants personnes physiques...
+« d'immatriculation, via la plateforme électronique créée
+« à cette fin :
+« 7) le lieu où est situé le siège de son entreprise...
+« ou à l'étranger ou le lieu de domiciliation de son entreprise,
+«le cas échéant ;
+Lnnnenn rss nnrnensn sense neneenee nee enenestesenneeseneeeenneneenentee à travers
+«la plateforme électronique créée à cette fin :
+« 1) les nom et prénom .… […texte non modifié…] … […texte non modifié…] ….….
+« lieu ;
+« 5) le siège social ou à l'étranger ou le lieu de
+« domiciliation de son siège social, le cas échéant ;
+« Article 30. - Toute inscription
+«être requise par voie électronique à travers la fenêtre dédiée
+« dans la plateforme électronique précitée au secrétariat-greffe
+« du tribunal dans le ressort duquel est situé l'établissement
+«principal du commerçant ou du siège social de la société.
+« Article 32. - Le registre central du commerce est public.
+«ILest consulté à travers la plateforme électronique de création
+«et d'accompagnement d'entreprises par voie électronique.
+« Article 38. - L'immatriculation du commerçant au
+« registre électronique du commerce ne peut être requise que
+«sur sa demande ou à la demande de son mandataire disposant
+« d'une procuration écrite qui doit être jointe obligatoirement
+« à la demande, sous réserve des dispositions législatives
+« en vigueur.
+(La suite sans changement.)
+« 1) les nom et prénom Free Fees en tenant
+« lieu ;
+LC arr dress és Dresser
+« 6) l'activité effectivement exercée ;
+(La suite sans changement.)
+« Article 45. — Les sociétés commerciales doivent
+« 4) l'activité effectivement exercée ;
+(La suite sans changement.)
+« Article 55. — Est radié d'office tout commerçant ou
+« personne morale :
+EP annee neeeeeeenenenene :
+«2. au terme d'un délai d'un an courant à compter de la
+«date de la mention de la dissolution. Le délai entre la radiation
+« susmentionnée et la date de publication du procès-verbal
+« de désignation du liquidateur, tel qu'il est fixé par les lois en
+« vigueur, ne doit pas dépasser 60 jours.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1473
+la prorogation
+« des délais de liquidation. Cette prorogation est valable un
+« Toutefois,
+« an, sauf renouvellement d'année en année, le président du
+& tribunal statue sur la demande de prorogation avant son
+«immatriculation par voie d'inscription modificative.
+« Article 74. — Tout nom, au registre du
+« commerce dans un délai de quatre-vingt-dix (90) jours à
+« compter de la date de délivrance du certificat négatif...
+« au registre central du commerce.»
+
+### Dahir
+
+Dahir n° 1-19-16 du 2 joumada IT 1440 (8 février 2019) portant
+promulgation de la loi n° 06-19 modifiant la loi n° 89-15
+relative au Conseil consultatif de la jeunesse et de l'action
+associative.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes — puisse Dieu en élever
+et en fortifier la teneur |
+Que Notre Majesté Chérifienne, |
+Vu la Constitution, notamment ses articles 42 et 50,
+A DÉCIDÉ CE QUI SUIT :
+Est promulguée et sera publiée au Bulletin officiel, à la
+suite du présent dahir, la loi n° 06-19 modifiant la loi n° 89-15
+relative au Conseil consultatif de la jeunesse et de l'action
+associative, telle qu'adoptée par la Chambre des représentants
+et la Chambre des conseillers.
+Fait à Rabat, le 2 joumada II 1440 (8 février 2019).
+Pour contreseing :
+Le Chef du gouvernement,
+SAAD DINE EL OTMANI.
+* *
+Loi n° 06-19
+modifiant la loi n° 89-15
+relative au Conseil consultatif de la jeunesse
+et de l'action associative
+
+### décret
+
+décret n°2-18-780 du 18 joumada I 1440 (25 janvier 2019)
+complétant le décret n° 2-08-65 du 25 joumada I 1430
+(21 mai 2009) pris pour l'application de la loi n° 13-06
+relative au Groupe Institut supérieur de commerce et
+d'administration des entreprises.
+LE CHEF DU GOUVERNEMENT,
+Vu le décret n° 2-08-65 du 25 joumada I 1430 (21 maï 2009)
+pris pour l'application de la loi n° 13-06 relative au Groupe
+Institut supérieur de commerce et d'administration des
+entreprises, notamment son article 9 ;
+Après délibération en Conseil du gouvernement, réuni
+le 10 joumada I 1440 (17 janvier 2019),
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-19-416 du 6 chaoual 1440 (10 juin 2019) approuvant
+la convention conclue le 27 avril 2018 entre le Royaume
+du Maroc et le Fonds saoudien pour le développement,
+pour la garantie du prêt consenti par ledit Fonds à Office
+national de l'électricité et de l'eau potable, en vue de la
+participation au financement du projet de l'alimentation
+de quatre régions en eau potable.
+LE CHEF DU GOUVERNEMENT,
+Vu le paragraphe I de l'article 41 de la loi de finances
+n° 26-81 pour l'année 1982, promulguée par le dahir n° 1-81-425
+du 5 rabü I 1402 (1'' janvier 1982) ;
+Sur proposition du ministre de l'économie et des finances,
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-19-515 du 9 chaoual 1440 (13 juin 2019) approuvant
+l'accord de prêt n° 8954-MA d'un montant de quarante-
+huit millions deux cent mille euros (48.200.000,00 euros),
+conclu le 29 mai 2019 entre le Royaume du Maroc et
+la Banque internationale pour la reconstruction et le
+développement, concernant le Projet soutenir l'inclusion
+économique des jeunes.
+LE CHEF DU GOUVERNEMENT,
+Vu la loi de finances n° 80-18 pour l'année budgétaire 2019,
+promulguée par le dahir n° 1-18-104 du 12 rabiïi II 1440
+(20 décembre 2018), notamment son article SI ;
+Vu le paragraphe premier de l'article 41 de la loi de finances
+pour l'année 1982 n° 26-81 promulguée par le dahir n° 1-81-425
+du 5 rabii I 1402 (1* janvier 1982) ;
+Sur proposition du ministre de l'économie et des finances,
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, du
+ministre de l'intérieur et du ministre de l'économie et des finances n°1052-18 du 22 moharrem 1440 (2 octobre 2018)
+modifiant et complétant l'arrêté conjoint n° 3074-14 du 12 kaada 1435 (8 septembre 2014) fixant les montants,
+les taux, les plafonds et les modalités d'octroi des subventions accordées aux projets d'agrégation agricole.
+LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX
+ET FORÊTS,
+LE MINISTRE DE L'INTÉRIEUR,
+LE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu l'arrêté conjoint du ministre de l'agriculture et de la pêche maritime, du ministre de l'intérieur et du
+ministre de l'économie et des finances n° 3074-14 du 12 kaada 1435 (8 septembre 2014) fixant les montants, les
+taux, les plafonds et les modalités d'octroi des subventions accordées aux projets d'agrégation agricole ;
+Vu l'arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux
+et forêts, du ministre de l'intérieur et du ministre de l'économie et des finances n° 1051-18 du 22 moharrem 1440
+(2 octobre 2018) fixant les modalités de l'aide de l'Etat pour l'acquisition de matériel agricole,
+ARRÊTENT :
+
+### Arrêté
+
+Arrêté du ministre de l'économie et des finances n° 3394-18 du
+1° rabii I 1440 (9 novembre 2018) fixant la nomenclature
+des pièces justificatives des recettes de l'Etat.
+LE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu la loi organique n° 130-13 relative à la loi de finances
+promulguée par le dahir n° 1-15-62 du 14 chaabane 1436
+(2 juin 2015) ;
+Vu la loi n° 61-99 relative à la responsabilité des
+ordonnateurs, des contrôleurs et des comptables publics
+promulguée par le dahir n° 1-02-25 du 19 moharrem 1423
+(3 avril 2002), telle qu'elle a été modifiée et complétée ;
+Vu la loi n° 62-99 formant code des juridictions
+financières promulguée par le dahir n° 1-02-124 du 1% rabii IT
+1423 (13 juin 2002), telle qu'elle a été modifiée et complétée ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387
+(21 avril 1967) portant règlement général de comptabilité
+publique, tel qu'il a été modifié et complété ;
+Vu l'arrêté du ministre de l'économie, des finances, de
+la privatisation et du tourisme n° 1673-01 du 10 rejeb 1422
+(28 septembre 2001) fixant la nomenclature des pièces
+justificatives des recettes et des dépenses de l'Etat,
+
+### Arrêté
+
+Arrêté du ministre de l'économie et des finances n° 3528-18 du
+14 rabii 1 1440 (22 novembre 2018) fixant la nomenclature
+des pièces justificatives des propositions d'engagement et
+de paiement des dépenses de biens et services de PEtat.
+LE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu la loi organique n° 130-13 relative à la loi de finances
+promulguée par le dahir n° 1-15-62 du 14 chaabane 1436
+(2 juin 2015) ;
+Vu la loi n° 61-99 relative à la responsabilité des
+ordonnateurs, des contrôleurs et des comptables publics
+promulguée par le dahir n° 1-02-25 du 19 moharrem 1423
+(3 avril 2002), telle qu'elle a été modifiée et complétée ;
+Vu la loi n° 62-99 formant code des juridictions
+financières promulguée par le dahir n° 1-02-124 du 1° rabii II
+1423 (13 juin 2002), telle qu'elle a été modifiée et complétée ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387
+(21 avril 1967) portant règlement général de comptabilité
+publique, tel qu'il a été modifié et complété ;
+Vu le décret n° 2-07-1235 du 5 kaada 1429 (novembre 2008)
+relatif au contrôle des dépenses de l'Etat, tel qu'il a été modifié
+et complété ;
+Vu le décret n° 2-12-349 du 8 joumada I 1434 (20 mars 2013)
+relatif aux marchés publics, tel qu'il a été modifié et complété,
+
+### Arrêté
+
+Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n°661-19
+du 6 rejeb 1440 (13 mars 2019) autorisant l'inscription de nouvelles variétés de pomme de terre de saison, de
+pomme de terre de transformation, de tomate indéterminée, de tomate déterminée de marché de frais, de tomate
+industrielle, de melon, de laitue, de betterave potagère, de blé dur, de blé tendre, d'orge, d'avoine, de fève, de
+féverole, de pois-fourrager, de pois potager, de betterave fourragère, de luzerne, de betterave à sucre, du maïs,
+du riz, du tournesol et du colza au Catalogue Officiel des espèces et des variétés de plantes cultivables au Maroc.
+LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX ET
+FORÊTS,
+Vu le dahir n°1-69-169 du 10 joumada 11389 (25 juillet 1969) réglementant la production et la commercialisation
+de semences et de plants, tel qu'il a été modifié, notamment son article 4 ;
+Vu la loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires
+promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;
+Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n°863-75 du 8 chaoual 1397
+(22 septembre 1977) fixant les conditions de tenue du catalogue officiel des espèces et des variétés de plantes
+cultivables au Maroc, ainsi que les modalités d'expérimentation préalables à l'inscription de nouvelles variétés
+sur ledit catalogue ;
+Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n°864-75 du 8 chaoual 1397 (22 septembre 1977)
+relatif à la composition et aux attributions du Comité national de la sélection des semences et des plants, tel qu'il
+a été modifié et complété ;
+Sur proposition du Comité national de la sélection des semences et des plants,
+
+### Arrêté
+
+Arrêté du ministre du travail et de l'insertion professionnelle n° 1356-19 du 13 chaabane 1440 (19 avril 201 9) fixant le modèle du
+contrat de travail réservé aux étrangers
+LE MINISTRE DU TRAVAIL ET DE L''INSERTION PROFESSIONNELLE,
+Vu la loi n° 65-99 relative au Code du travail, promulguée par le dahir n° 1-03-194 du 14 rejeb 1424 (11 septembre 2003),
+notamment son article 517,
+
+### Arrêté
+
+Arrêté conjoint du ministre de l'économie et des
+finances et du ministre du travail et de l'insertion
+professionnelle n° 1643-19 du 23 chaabane 1440
+(29 avril 2019) fixant le taux d'intérêt devant être servi
+par la Caisse de dépôt et de gestion à la Caisse nationale
+de sécurité sociale au titre de l'année 2018.
+LE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+LE MINISTRE DU TRAVAIL ET DE LINSERTION
+PROFESSIONNELLE,
+Vu le dahir portant loi n°1-72-184 du 15 joumada II 1392
+(27 juillet 1972) relatif au régime de sécurité sociale, tel qu'il
+a été modifié et complété, notamment ses articles 29 et 30 ;
+Vu l'arrêté conjoint du ministre de l'emploi et de la
+formation professionnelle et du ministre des finances et de la
+privatisation n°426-06 du 1% safar 1427 (2 mars 2006) fixant
+le mode de calcul du taux d'intérêt à servir par la Caisse de
+dépôt et de gestion à la Caisse nationale de sécurité sociale,
+tel qu'il a été modifié et complété,
+ARRÊTENT :
+
+### Arrêté
+
+Arrêté du ministre de l'économie et des finances n° 131-19
+du 8 ramadan 1440 (14 mai 2019) portant homologation
+de la circulaire de Autorité marocaine du marché des
+capitaux n° 01/19 relative à l'agrément des sociétés de
+gestion d'organismes de placement collectif en capital et
+des établissements gestionnaires de Fonds de placements
+collectifs en titrisation.
+LE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu la loi n° 43-12 relative à l'Autorité marocaine du marché
+des capitaux promulguée par le dahir n° 1-13-21 du 1' joumada I
+1434 (13 mars 2013), telle qu'elle a été modifiée, notamment ses
+articles premier et 7,
+
+### Circulaire
+
+Circulaire de l'Autorité marocaine
+du marché des capitaux n° 01/19 relative
+à l'agrément des sociétés de gestion d'organismes
+de placement collectif en capital et des établissements
+gestionnaires de Fonds de placements collectifs en titrisation
+L'AUTORITÉ MAROCAINE DU MARCHÉ DES CAPITAUX,
+Vu la loi n° 43-12 relative à l'Autorité marocaine du
+marché des capitaux promulguée par le dahir n° 1-13-21 du
+19 joumada 1 1434 (13 mars 2013), telle qu'elle a été modifiée,
+notamment son article 6 ;
+Vu la loi n° 41-05 relative aux organismes de placement
+collectif en capital promulguée par le dahir n° 1-06-13 du
+15 moharrem 1427 (14 février 2006), telle qu'elle a été modifiée
+et complétée ;
+Vu la loi n° 33-06 relative à la titrisation des actifs
+promulguée par le dahir n° 1-08-95 du 20 chaoual 1429
+(20 octobre 2008), telle qu'elle a été modifiée et complétée ;
+Vu le décret n° 2-07-1300 du 3 joumada II 1430
+(28 mai 2009) pris pour l'application de la loi n° 41-05 relative
+aux organismes de placement collectif en capital, tel qu'il a
+été modifié et complété ;
+Vu le décret n° 2-08-530 du 17 rejeb 1431 (30 juin 2010)
+pris pour l'application de la loi n° 33-06 relative à la titrisation
+d'actifs, tel qu'il a été modifié et complété,
+Après consultation des professionnels concernés,
+DÉCIDE :
+
+### Arrêté
+
+Arrêté du ministre de l'économie et des finances n°1804-19
+du 6 chaoual 1440 (10 juin 2019) modifiant et complétant
+l'arrêté du ministre de l'économie et des finances n°2541-13
+du 12 joumada I 1435 (14 mars 2014) relatif aux règles
+de composition des actifs des organismes de placement
+collectif en valeurs mobilières.
+LE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu l'arrêté du ministre de l'économie et des finances
+n°2541-13 du 12 joumada I 1435 (14 mars 2014) relatif aux
+règles de composition des actifs des organismes de placement
+collectif en valeurs mobilières ;
+Sur proposition de l'Autorité marocaine du marché des
+capitaux,
+
+### Décision
+
+Décision du directeur de l'Institut marocain de normalisation n° 1642-19 du 14 ramadan 1440 (20 mai 2019) portant
+homologation de normes marocaines
+LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION,
+Yu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation promulguée par le dahir
+n° 1-10-15 du 26 safar 1431 (11 février 2010) et notamment ses articles 11, 15 et 32 ;
+Vu la résolution du conseil d'administration de l'Institut marocain de normalisation (IMANOR) n°10 tenu le
+19 safar 1435 (23 décembre 2013), qui a délégué au directeur de lIMANOR le pouvoir de prononcer l'homologation
+des normes marocaines et la certification de la conformité auxdites normes,
+
+### Arrêté
+
+Arrêté du ministre de l'agriculture, de la pêche maritime, du
+développement rural et des eaux et forêts n° 611-19 du
+5 rejeb 1440 (12 mars 2019) portant nomination des
+représentants des professionnels des filières de production
+agricole au sein de la Commission nationale du Conseil
+agricole.
+LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE
+MARITIME, DU DÉVELOPPEMENT RURAL ET DES
+EAUX ET FORÊTS,
+Vu le décret n° 2-14-527 du 8 rabii II 1436 (29 janvier 2015)
+pris pour l'application de la loi n° 62-12 promulguée par le dahir
+n° 1-14-94 du 12 rejeb 1435 (12 mai 2014) relative à l'organisation
+de la profession de conseiller agricole, notamment son article 6,
+———_—_—_—_—_—
+
+### AVIS
+
+AVIS ET COMM
+du Conseil économique, Social et Environnemental
+Un système fiscal, pilier pour le Nouveau Modèle de
+Développement
+conformément à l'article 6 de la loi organique n°128-12
+relative à son organisation et à son fonctionnement, Le Conseil
+économique, Social et Environnemental (CESE) s'est autosaisi,
+afin de préparer un rapport sur « Un système fiscal, pilier pour
+le Nouveau Modèle de Développement ».
+Dans ce cadre, le Bureau du Conseil a confié à la
+Commission Permanente chargée des Affaires économiques
+et des Projets Stratégiques la préparation du présent rapport
+et de l'avis y afférent.
+Lors de sa 96° Session ordinaire tenue le 28 mars 2019,
+l'Assemblée Générale du Conseil économique, Social et
+Environnemental a adopté à l'unanimité ce rapport, dont est
+extrait le présent avis.
+Principaux éléments de contexte et cadre d'analyse
+Le Maroc a initié depuis le début des années 2000, un
+processus de réformes sur les plans social, économique et
+environnemental, pour aboutir, au niveau institutionnel, à
+l'adoption de la Constitution de 2011, dans laquelle le pays
+a confirmé son choix irréversible pour la démocratie et a
+consacré, à travers ce texte fondateur, l'obligation pour l'État
+d'instaurer une politique fiscale juste et équitable. La volonté
+de promouvoir le système fiscal, de par l'histoire du pays, à
+été jalonnée par la mise en place de réformes spécifiques, les
+unes consolidant et prenant appui sur les autres. Ces réformes,
+notamment celle de 1984, ont constitué autant d'initiatives
+structurantes ayant servi à engager le système fiscal dans
+un processus de modernisation et de simplification, pour lui
+assurer en définitif, une plus grande efficience. Néanmoins, et
+malgré les avancées et résultats significatifs et indéniables, le
+système fiscal marocain continue de présenter des limites et
+des difficultés liées aussi bien au manque de cohérence et de
+visibilité, qu'à la faiblesse de ses résultats, comparés au vrai
+potentiel fiscal du pays.
+S'inscrivant dans le cadre de la réflexion nationale portant
+sur l'édification d'un Nouveau Modèle de Développement,
+le Conseil économique, Social et Environnemental appelle
+à un changement de paradigme profond dans la manière
+d'appréhender la matière fiscale au Maroc, tant sur le plan
+de la conception de la politique fiscale, de sa gouvernance
+que de sa mise en pratique, pour permettre au système fiscal
+a ——_———
+cible de contribuer à la construction d'un socle solide pour le
+Modèle de Développement en question, à même de répondre
+aux aspirations et attentes légitimes de tous les citoyens et
+acteurs intéressés par le devenir du Maroc.
+Les travaux menés par le Conseil, à la base du
+rapport dont est extrait le présent avis, ont pris leur origine
+dans les constats forts et les limites du modèle actuel, qui
+font aujourd'hui l'unanimité et qui ont poussé les hautes
+autorités du pays à faire appel à toutes les forces vives du
+pays pour proposer les contours d'un Nouveau Modèle de
+Développement, capable de faire sortir le Maroc d'une
+situation qui pèse lourdement sur les générations actuelles et
+n'offre pas suffisamment les perspectives auxquelles ont droit
+les générations à venir. L'approfondissement de l'analyse de ces
+constats, a permis de dégager des convictions très largement
+partagées entre les membres du Conseil, qui appelle à opérer
+des inflexions majeures, sans lesquelles le Maroc ne pourrait
+prétendre à un tel Nouveau Modèle de Développement, et
+encore moins à l'émergence.
+En ce sens, l'orientation du système fiscal cible vers un
+rôle plus stratégique, constitue le fer de lance de l'ambition du
+CESE. Une orientation dudit système fiscal, qui répondraïit à
+un impératif de cohérence, de visibilité, d'équité, d'efficience
+et d'appui à l'élargissement de l'activité et de la production
+de valeur ajoutée nationale, pérenne. Un système fiscal qui
+jouerait pleinement son rôle de solidarité, de réduction des
+inégalités et de contribution à la cohésion sociale. Conscient
+des enjeux et des implications stratégiques d'une telle ambition,
+aussi bien sur le moyen et long termes, que sur les changements
+et impacts à court terme, le Conseil propose une réforme
+aussi rationnelle, profonde, que pragmatique, pour pouvoir
+engager des évolutions importantes, tout en assurant pendant
+les différentes étapes du processus de réforme, l'adhésion la
+plus large.
+Aussi, le CESE préconise d'inscrire ladite réforme sur la
+durée et selon une progression, qui lui assure force, efficience et
+dynamique d'entrainement. Elle devrait permettre au système
+fiscal de sortir de la logique d'équilibre entre des intérêts
+sectoriels et catégoriels, sans cohérence ni synergie, à la racine
+des constats et limites relevés, pour être plus en phase avec
+un cadre favorable à la convergence d'intérêts partagés par le
+plus grand nombre.
+Les limites du système actuel, mentionnées plus haut,
+se sont dégagées de plus en plus, au cours des temps qui ont
+rythmé les travaux du CESE, et de l'exploitation de toutes
+les données recueillies, mettant en évidence des contraintes
+transversales et institutionnelles caractérisées par des carences
+structurelles, à savoir :
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1585
+DO ET D oo,
++ La prédominance de l'économie de rente et le
+recours fréquent à des «avantages et privilèges»
+pour le développement d'activités économiques,
+favorisant l'inefficience, la faible valeur ajoutée et
+contribuant à la persistance des inégalités sociales
+et territoriales ;
++ La forte concentration économique, caractérisée
+par un nombre réduit d'entreprises qui sont à la base
+de la création d'un volume de la richesse nationale
+qui reste tout aussi réduit - Avec des investissements
+publics qui sont, en taux, parmi les plus élevés au
+monde (plus de 30% du PIB annuellement) et qui sont
+consentis sur une longue durée, le Maroc continue
+pourtant à être un pays à revenu intermédiaire bas.
+Quelques chiffres en illustration
+La pression fiscale se situe en 2017, à hauteur de
+21,15%, avec un niveau d'imposition fiscale qui augmente :
+et qui reste assez élevé, accentué par une forte concentration
+économique, elle-même illustrée par quelques chiffres
+marquants, parmi lesquels celui relatif aux 387 entreprises |
+nationales dont le Chiffres d'Affaires (CA) représente
+50% par rapport au total du CA déclaré, et qui constituent
+0,16% par rapport à la base des entreprises déclarantes,
+tandis que 11,54% d'entreprises qui déclarent, représente
+95% du total du CA déclaré.
+S'agissant de la répartition de l'impôt par rapport au
+nombre d'entreprises, la participation de PIS à hauteur de
+50% est assumée par 73 entreprises, et le pourcentage par
+rapport à la base des entreprises déclarantes est de 0,06%.
+6,12% d'entreprises qui déclarent, participent à 95% de l'IS
+global.
++ La persistance des inégalités, dans un contexte où
+les politiques publiques et les services assurés par
+l'Etat, sont jugés défaillants et ne répondant pas
+aux besoins et attentes légitimes des populations ; et
+où le taux d'activité est en régression et le chômage
+maintenu à un niveau élevé. Dans ce contexte, les
+citoyens acceptent de moins en moins ces inégalités
+frappantes et profitent des moyens technologiques
+offerts et de l'accessibilité des médias et réseaux
+sociaux, pour innover dans les formes d'organisation
+et d'expression de leur rejet.
++ L'instabilité réelle et perçue du système fiscal, à
+travers les multiples dispositions introduites
+par les lois de finances qui se succèdent, faisant
+perdre la lisibilité et la cohérence dudit système.
+Un phénomène accentué par l'introduction de
+dispositions, résultat de pressions et de négociations
+défendant des intérêts catégoriels et/ou sectoriels
+(pouvant être légitimes, mais pas forcément réfléchis
+dans une convergence et cohérence avec le reste
+des intérêts, y compris ceux plus globaux de la
+collectivité) ;
++ Un comportement largement répandu, marqué
+par l'incivilité fiscale et la non-acceptation de
+l'impôt. Alors que le système est essentiellement
+déclaratif, une part significative de la population
+des contribuables continue à ne pas déclarer
+spontanément ses impôts, et la relation entre
+l'administration fiscale et les contribuables, reste
+encore et souvent conflictuelle, alors même que
+des efforts importants de dématérialisation et
+autres mesures de clarification et simplification,
+ont été déployées ces dernières années, pour son
+amélioration.
+< La complexité du système fiscal et la faible efficacité
+de certains impôts et prélèvements. À l'arsenal
+fiscal national, se juxtapose une fiscalité locale qui
+présente des problématiques encore plus lourdes, de
+par sa complexité, son manque de cohérence, son
+inefficience et la gouvernance peu pertinente qui
+l'entoure.
+Pour répondre à ces fragilités, le CESE préconise
+l'édification d'un nouveau système fiscal qui s'articule avec
+force, avec les autres politiques publiques, pour favoriser la
+création de valeur ajoutée nationale et d'emplois de qualité,
+et pour assurer l'inclusion sociale et la visibilité. Ainsi, ce
+système fiscal cible constituerait un pilier fondamental pour le
+Nouveau Modèle de Développement qui devra essentiellement :
+- Assurer la transparence et l'effectivité de l'application
+des règles à tous, dans le cadre de l'équité et de l'égalité ;
+- Réorienter le système de création de valeur vers
+l'économie productive ;
+- Favoriser l'innovation et la montée en charge dans la
+chaîne de valeur ;
+- Réduire les déséquilibres sociaux et territoriaux ;
+- Densifier le tissu économique, libérer les énergies
+et favoriser l'émergence d'une nouvelle génération
+d'acteurs socio-économiques.
+L'objectif poursuivi par la vision étant de mettre au
+service de ce Modèle de Développement cible, un nouveau
+système fiscal, en capacité de répondre aux défis identifiés.
+C'est pourquoi, la réforme proposée du système fiscal se veut
+globale et articulée autour d'un ensemble de dimensions
+principales et indissociables. Lesquelles dimensions sont
+orientées dans une logique de complémentarité et de cohérence,
+fortes, pour une mise en œuvre selon une séquence aussi
+volontariste que rationnelle. La réforme recommandée, vise
+à construire une convergence autour d'intérêts partagés par le
+plus grand nombre. Elle est de nature à contribuer fortement
+à l'édification d'un développement plus soutenu, plus inclusif
+et plus juste, fondé sur les principes constitutionnels et sur
+l'effectivité de l'Etat de droit
+1586 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+OO À €
+Recommandations du CESE
+Mettre au service du Modèle de Développement cible, un nouveau système fiscal
+Huit principales orientations pour dépasser les contraintes mises en lumière et bâtir le nouveau système fiscal cible
+Un pacte fiscal, à la base d'un pacts dé
+M Confiance : convergence d'intérêts =>
+"vulgarisation, adhésion et sanétuarisaton du
+M système fiscal.
+Un système fondé sur une :
+srehitecture aussifomteque lisible,
+sssurantclartéettransnarence  *
+Un système fiscal Intégré dans
+une vision plus glokale du
+| Simplification, réduction du ROMbrÉ et
+untication des bases de ls tiséalite
+NME et des politiques nd ee À PARFAIT MER TE
+publiques quile déclinent, Gouvernancelisible legale ét sa CORNETIENCS avéë la
+concevoir, pliater et
+. déciner la réforme.
+Sortrde la prédominance de
+l'éconemie de remis stiss
+prhléges
+Le système fiscai doit jouer ur rôle
+pourta régionalisation avancée ete
+valorisation des siouis etls prise en
+Favoriser l'innovation, la BSD compte des spécifinités régionales.
+et litégration entre le monde
+académique etle mande
+Étorontiqe.
+Les travaux menés par le CESE dans le cadre de cette étude, ont abouti à une conviction partagée selon laquelle la réforme
+souhaitée du système fiscal, ne peut atteindre ses objectifs qu'à travers une portée globale et multidimensionnelle.
+n sein le corpus de recommandations
+ganisationnelles, structuré selon une
+Cette conviction est traduite à travers une vision globale et ambitieuse, qui intègre en so
+développé ci-après, avec ses dimensions stratégiques, institutionnelles, réglementaires, et or
+logique d'articulation forte, de complémentarité, de cohérence d'ensemble et de recherche d'amplification des impacts.
+ée par tous les acteurs et
+#
+Une stratégie qui se veut intégrée et articulée aux niveaux national et local, co-construite et port
+cherchant à bénéficier de l'adhésion la plus large. ' os à umo nu |
+Parmi ces recommandations, certaines vont dans le détail et ont une portée pratique et concrète, quand elles sont applicables
+particulièrement à court terme, alors que d'autres, relèvent davantage de règles d'orientation stratégique («régles d'or»), qui sont de
+nature à encadrer et à garantir la préservation de la cohérence et de la force de la réforme globale, qui est à inscrite dans la durée.
+La réforme proposée a une logique qui n'est pas celle de traiter et d'assurer l'équilibre entre des intérêts sectoriels et catégoriels,
+mais plutôt de mettre en place un cadre favorable à la convergence d'intérêts partagés par le plus grand nombre.
+Cela participe fondamentalement à la construction du pacte fiscal ambitionné, lui-même à la base d'un pacte de confiance,
+et constitue une dimension incontournable pour pouvoir prétendre à un Nouveau Modèle de Développement.
+L'ancrage de cette réforme tient compte du cadre de référence régissant la matière fiscale avec, en tête, la consécration dans le
+texte constitutionnel du principe d'égalité devant l'impôt. Les articles 39 et 40 de la Constitution, qui mettent en avant les facultés
+contributives, la solidarité et la contribution proportionnelle aux moyens, sont en effet le fondement normatif de l'équité fiscale.
+Avec la référence constitutionnelle, les différents discours royaux qui ont insisté sur l'impératif d'orienter les politiques
+publiques vers plus d'équité sociale, en corrigeant les biais du modèle de développement actuel, tels que présentés ci-dessus,
+constituent un socle solide pour orienter toute réforme fiscale.
+I - Un système fiscal prenant en compte, dans leur globalité, les prélèvements fiscaux et sociaux et leurs corollaires en termes
+de redistribution et de solidarité,
+ents forts du socle nécessaire à la construction
+lace devraient l'inscrire dans une articulation
+devraient être observés en parallèle
+Le CESE considère que le système fiscal cible devrait constituer un des élém
+du Nouveau Modèle de Développement. Pour cela, sa conception et sa mise en p
+forte avec les autres axes des politiques publiques, en respectant deux principes majeurs qui
+à la mise en place du système fiscal cible, à savoir :
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1587
+RS 2
+- Créer plus de visibilité pour la structure des recettes, mais
+aussi plus de clarté quant à l'orientation de leurs usages
+et par conséquent, la gestion des dépenses publiques,
+qu'il convient de mettre fortement et prioritairement au
+service des objectifs stratégiques du Nouveau Modèle
+de Développement.
+- Les droits liés à la couverture sociale, ne peuvent rester
+exclusivement liés à l'emploi et leur financement ne
+peut continuer à reposer exclusivement sur le seul
+prélèvement sur le travail, qui continuera à en être une
+source, mais pas la seule. Aussi, ces droits devraient être
+à l'avenir généralisés et assurés de manière universelle
+pour le citoyen, sous différentes formes et tout le long
+de son parcours social et professionnel. En ce sens,
+le CESE recommande de réserver à terme, deux à
+quatre (2 à 4) points de TVA, à verser dans un fonds de
+solidarité sociale, qui servirait notamment à contribuer
+au financement de la couverture et des aides sociales.
+Les modalités de programmation de cette affectation,
+devant prendre en considération, l'évolution de l'assiette
+et de la progression de la stabilisation du système de
+neutralité totale de la TVA.
+II - Un pacte fiscal qui suscite adhésion, nourrit la
+confiance et consacre la lisibilité, Paccessibilité et Pacceptabilité
+du système fiscal cible.
+La réussite de tout système fiscal, nécessite de lui assurer
+une adhésion la plus large et par conséquent, une fluidification
+de son application et une garantie de ses impacts, bénéfiques
+à la dynamique du développement. Un tel pacte fiscal repose
+sur deux composantes complémentaires :
++ La première, visant à consacrer la lisibilité et
+l'accessibilité du système fiscal à tous, par la
+simplification, la communication et la vulgarisation
+auprès des citoyens, de ses fondements, de ses règles,
+de ses impacts et de ses projections. Les données
+fiscales et toutes celles relevant du pacte associé,
+doivent être rendues accessibles, notamment
+en application de la loi sur le droit d'accès à
+l'information ;
+° La seconde, consistant à institutionnaliser le
+partage et l'impact des fruits de son élargissement.
+L'élargissement de l'assiette fiscale est devenu aussi bien
+une affaire de justice et d'équité, de plus en plus, réclamée
+par les citoyens, qu'une problématique de recettes pour PEtat
+et de pression fiscale pour les contribuables. C'est pourquoi,
+il convient d'acter, à l'occasion de cette réforme fiscale, une
+démarche qui permet d'aboutir à une simplification des bases
+de taxation, et à leur uniformisation, aussi bien entre impôts
+nationaux, qu'avec les impôts locaux, ce qui rendrait leur
+appréhension et leur application, non seulement plus juste
+mais plus large, aussi bien au niveau national, qu'au niveau
+local, et plus acceptable par une grande majorité.
+Cette démarche a pour ambition de faciliter la maitrise
+du système fiscal dans sa globalité, en automatiser dans une
+large mesure l'application, de limiter les marges de lecture et
+d'appréciation et de fluidifier en conséquence le contrôle en le
+rendant naturellement plus ciblé vers les risques importants
+d'évasion et de fraude fiscales.
+Ces bases d'imposition, ainsi conçues, doivent être
+adossées à un système qui les sanctuarisent, et qui rend le choix
+de nouvelles bases, soumis à un processus institutionnalisé de
+validation, qui en limite la démultiplication et en préserve les
+fondements et la clarté.
+Par ailleurs, l'adhésion souhaitée, suppose que toutes
+les catégories de la population se trouvent intéressées par les
+évolutions et les retombées de la réforme, pour faire profiter
+le plus grand nombre des fruits de la performance, à travers :
+- L'élargissement, de manière rationnelle, du domaine
+d'application de la TVA sur les produits de luxe,
+dans l'objectif de mettre davantage à contribution
+les personnes qui en ont la capacité (avec des taux
+additionnels de 10% à 20%, comme c'est déjà le cas
+pour les voitures considérées de luxe).
+- L'application d'un impôt réduit, forfaitaire pour les
+activités à faible revenu pour alléger la charge et la
+complexité sur cette catégorie de contribuables (un
+impôt annuel à titre indicatif, variant de 1.500 à 4500
+DH). Ces derniers qui seraient, à leur choix, soumis à
+cet impôt, bénéficieraient de l'adhésion à la couverture
+sociale, et seraient exemptés de toutes autres taxes ou
+redevances. Cette catégorie d'acteurs à faible revenu,
+serait soutenue pour favoriser sa structuration et
+protégée contre toutes les formes de difficultés voire
+d'abus.
+- L'évolution du statut d'autoentrepreneur, pour qu'il
+prenne en considération la réalité économique, avec des
+possibilités d'intégrer aux cotés de l'autoentrepreneur,
+quelques emplois (2 à 3 emplois) ; d'englober les métiers
+d'artisans, et de bénéficier de services de soutien et
+d'accompagnement vers une structuration encore plus
+solide.
+- Le renforcement du pouvoir d'achat de la classe moyenne
+par l'introduction d'une fiscalité des ménages, plus
+favorable, prenant en compte les personnes à charges et
+consolidée par des allocations familiales plus en phase
+avec la réalité socio-économique des familles, dont celle
+liée au financement de l'éducation des enfants.
+Dans le prolongement de cette logique d'intéressement et
+d'adhésion de toutes les catégories de la société à la dynamique
+de cette réforme, il est proposé d'institutionnaliser le partage
+des « fruits de l'élargissement », selon une 'règle des trois
+tiers. Dans ce cadre, toute augmentation des recettes fiscales
+supérieure à 3%, considérés comme nécessaires au maintien
+des équilibres macro-économiques et à l'évolution tendancielle
+du financement des politiques publiques, sera affectée comme
+suit :
++ 1/3 (un tiers), comme montant additionnel pour
+consolider le budget de financement général des
+politiques publiques ;
++ 1/3 (un tiers) versé au fonds de solidarité, qui
+viendrait renforcer les capacités d'élargissement
+et de financement de la couverture et des aides
+sociales ;
+*< 1/3 (un tiers) pour baisser les taux d'imposition au
+titre de l'IR et de VIS.
+À travers ces engagements, l'ensemble des catégories
+de la population, seraient intéressés, alimentant ainsi la
+dynamique et l'attractivité du système fiscal et par conséquent,
+Je soutien au Nouveau Modèle de Développement du pays.
+1588 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+III - Un arsenal fiscal à compléter par une fiscalité plus
+juste et plus équitable du patrimoine.
+L'adhésion au pacte fiscal, que la réforme veut aussi fort
+que naturel, nécessite d'installer le sentiment d'équité, basé
+sur le principe constitutionnel de la contribution de tous à
+hauteur des capacités de chacun. Ce sentiment ne peut être
+complet, tant que l'arsenal fiscal n'englobe pas la dimension
+de taxation juste et rationnelle du patrimoine.
+C'est pourquoi, il importe de compléter l'orientation
+stratégique fondatrice de l'architecture du système fiscal, en
+y intégrant le traitement de l'impôt sur le patrimoine, avec
+des mesures à très court terme et d'autres qui nécessitent
+approfondissement de la réflexion, et projection à moyen terme.
+Pour cela, il y a lieu de distinguer le patrimoine
+productif, générateur par ailleurs de revenu et donc d'impôt,
+du patrimoine non productif pour la collectivité, qui non
+seulement ne contribue pas à l'impôt, mais peut être générateur
+de charge pour la collectivité.
+La taxation du patrimoine non productif englobe
+notamment le foncier qui n'est pas dans le circuit productif,
+ne rentrant ni dans le cadre d'un investissement productif,
+ni d'une exploitation économique génératrice de revenu et
+d'impôt (il s'agit notamment des terrains non bâtis, des biens
+immeubles non occupés ni en principal ni en location, ..).
+Ce type d'impôt qui pourrait aussi avoir comme effet
+d'entrainement, l'incitation à intégrer les biens en question
+dans le circuit productif, devrait tenir compte des éléments
+de conjoncture (à encadrer par des textes réglementaires),
+et prévoir en conséquence une suspension ponctuelle de
+l'application de la règle, pour les cas de zones à activités
+réduites, ou de secteurs en phase de difficulté.
+De même, il y'a lieu d'établir un recensement de
+l'ensemble des biens fonciers concernés par toute extension
+urbaine et de définir la plus-value latente qui résulte de leur
+intégration au périmètre urbain. Sur cette base, 50% de la
+valeur de ladite plus-value latente est inscrite comme droit
+de l'Etat sur chacun des biens concernés, notamment au
+niveau des titres fonciers, quand le bien est immatriculé à
+la Conservation Foncière. L'encaissement de ce droit par
+l'administration fiscale, au moment de la cession du bien, est
+reversé à hauteur de 30% du montant encaissé, à la commune
+concernée par l'extension urbaine et 30% au profit de la région
+qui abrite ladite commune.
+Aussi, il est recommandé d'étendre la dimension impôt
+sur le patrimoine, à certains biens de luxe, connus comme
+signes ostentatoires extérieurs de richesse, tels que les yachts,
+les jets privés, les voitures de luxe ou les chevaux de course,
+biens mobiliers mais non productifs pour l'économie, …
+Par ailleurs, cette réflexion sur l'impôt sur le patrimoine,
+ne peut être complète sans avoir englobé la dimension de
+l'impôt sur la succession par héritage, qui devrait assurer un
+paiement par génération. À ce titre, il y a lieu dès la loi de
+finance 2020 de rétablir l'alignement fiscal de la succession et
+de la donation et particulièrement pour que la base de calcul
+de la plus-value en cas de vente d'un bien hérité, soit celle de
+l'acquisition initiale et non celle du moment du décès.
+Si cette disposition permet à court terme de sortir d'une
+atteinte lourde à l'équité et au principe de contribution ajustée
+aux capacités de chacun, la réforme concernant le traitement
+fiscal de l'héritage, devrait être poursuivie, par la taxation
+de ce patrimoine une fois par génération, tout en protégeant,
+d'un côté, les «petits» héritiers (ex. exonérer une habitation
+familiale principale, un bien de production vivrière, une valeur
+forfaitaire qui reviendrait à chacun des héritiers — 1 MD)
+et de l'autre côté, instaurant un impôt plus conséquent, en
+conformité avec les capacités contributives, pour le reste des
+fortunes, au moment du passage par héritage.
+L'arsenal fiscal cible, mérite d'intégrer aussi la dimension
+de la dynamique associative et celle de la fiscalité verte.
+- La mise en œuvre des recommandations du CESE
+portant sur la fiscalité des associations, telles que
+proposées à l'occasion de son rapport de 2016, portant
+sur le “Statut et dynamisation de la vie associative”,
+afin que le monde associatif puisse jouer pleinement
+son rôle d'encadrement et de contribution à l'intérêt
+général. Il est important que le système fiscal puisse
+jouer positivement son rôle dans la consolidation
+des capacités des associations et l'incitation à leur
+structuration et à leur implication, dans la transparence.
+- Le verdissement de la fiscalité, implique un renforcement
+dans le temps du système fiscal cible par la dimension
+“durabilité”, qui constitue un des éléments essentiels
+d'orientation du nouveau modèle de développement.
+Une dimension détaillée dans la suite du document, à
+travers des recommandations aussi bien pour le niveau
+national que pour le niveau local, et qui représentent
+autant de facteurs qui soutiennent l'ambition de faire
+du Maroc, une « Usine verte régionale ».
+La conjonction de l'ensemble de ces mesures participe à
+l'installation du pacte fiscal et, par ricochet, au renforcement
+du pacte social lié, établit l'équité constitutionnelle souhaitée,
+fondée sur le respect des capacités contributives de chacun,
+pour installer durablement le sentiment que l'effort est porté
+par tous et au profit de tous, générations actuelles et à venir.
+IV - Consécration de la vocation et du rôle de chaque
+type d'impôt dans une logique de clarté, de cohérence globale
+et d'intégrité du système.
+Le pacte fiscal ainsi complété, mérite à ce que le système
+fiscal cible, puisse consacrer définitivement la vocation et le
+rôle de chaque type d'impôt, pour assurer lisibilité et efficience
+de mobilisation.
+Il devrait assurer une contribution, indépendante du
+cadre qui est à la base de la génération de la base imposable.
+Un contribuable devrait pouvoir choisir librement d'organiser
+son activité dans le cadre juridique qui lui convient le mieux.
+Ainsi, être imposable au titre de l'IR ou de l'IS, ne devrait pas
+impacter le montant à payer.
+Pour la réforme fiscale en cours, l'architecture générale
+actuelle du système, basée sur les trois grands principes —[R,
+IS et TVA, amène depuis la réforme du milieu des années 80, de
+ja clarté et une orientation moderne du système fiscale national.
+Si son maintien comme base pour toute réforme fiscale, ne
+soulève pas d'interrogation, il est toutefois recommandé
+de ramener les fondements des piliers de ce système à leurs
+principes de base, dans une logique de clarté, de cohérence
+globale et d'intégration du système, à savoir :
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1589
+° _ Neutralité totale de la Taxe sur la Valeur Ajoutée
+La TVA continue de représenter l'impôt le plus décrié
+par les agents économiques. La poursuite de sa réforme
+est aujourd'hui une nécessité pour restaurer le principe
+fondamental de sa neutralité totale, préserver la trésorerie de
+l'entreprise, assurer un développement cohérent du secteur
+productif formel et relancer l'investissement. Ainsi, la TVA est
+appelée à être simplifiée sur la base de taux applicables selon
+des règles, clairement définies et rigoureusement appliquées
+(0%, 10% et 20% en plus d'un droit proportionnel avec un taux
+additionnel de 10% à 20% pour les produits de luxe).
+° Application de l'Impôt sur le Revenu de manière
+équitable à tous les revenus, et en réelle corrélation
+avec les capacités contributives de chacun
+La réflexion portant sur l'Impôt sur le Revenu se fonde
+sur les principes de rationalité et d'équité au niveau des taux
+applicables, tout en œuvrant à préserver la simplicité du
+système y afférent. Il est important de développer les moyens
+et outils pour appréhender les revenus là où ils sont générés et
+d'en assurer la couverture la plus large, par l'impôt. Condition
+sine qua non de l'élargissement équitable, de la réussite de la
+réforme fiscale et de celle du renouveau de notre modèle de
+développement, de manière encore plus générale.
+Dans le cadre de l'élargissement, de la baisse de
+la pression fiscale et du soutien du pouvoir d'achat, une
+adaptation de la grille applicable, devrait être faite en plus
+d'une indexation, tous les trois ans, sur l'inflation.
+° Application de Impôt sur les Sociétés, progressif,
+calculé sur la base des résultats économiques, en
+évitant tout frottement fiscal sur les investissements
+En conformité avec les principes cités plus haut, il
+convient d'éliminer les complications et les risques de
+divergence d'application et d'appréciation des bases de calcul
+des résultats et de l'impôt qui en découle. Aussi, ilestimportant
+de faire évoluer les plans à la base des comptes comptables
+pour qu'ils deviennent la seule référence en matière de calcul
+de l'impôt sur le résultat. Ces plans comptables, en évitant
+toute complexité, devraient intégrer les réalités économiques
+et les spécificités réelles des activités sectorielles.
+Ces plans (bases comptables et fiscales), devraient
+converger à termes vers l'adoption des normes internationales.
+Par ailleurs, dans le cadre du traitement des dépenses
+fiscales et considérant que la production nationale est
+confrontée à la concurrence, autant sur le marché local que
+sur les marchés à l'export, il convient de faire évoluer dans
+un horizon de 4 à 5 ans l'Impôt sur les Sociétés, selon un
+barème progressif global et adapté, bénéficiant de la baisse
+de la pression fiscale escomptée, et ce, sans distinction entre
+le chiffre réalisé en local et celui à lexport.
+Les appuis et facilitations pour l'accès et le développement
+des activités liées à l'export, notamment pour les PMESs, devrait
+se faire autrement (renforcements des capacités, mise en place
+d'outils de marketing, de promotion, de positionnement, de
+financement des projets dans les pays cibles, renforcement
+et réorientation de la diplomatie économique, ….) et en ayant
+recours plutôt au levier budgétaire.
+< Application de la TIC de manière objective et
+rationalisée
+Etablissement et respect des règles à travers lesquelles un
+produit serait soumis à la Taxe Intérieure de Consommation
+(parmi les critères devant être fixés et soumis à la mesure fondée,
+on peut citer : les impacts sur la santé, sur l'environnement, sur
+la consommation d'énergies non renouvelables […texte non modifié…] ).
+Le nouveau système fiscal devrait cadrer la création de
+toute nouvelle taxe pour préserver clarté, lisibilité et efficience.
+Au même titre que les bases d'imposition, la création
+de nouvelles taxes et impôts ne peut se faire sans qu'elle
+ne s'inscrive dans une conformité avec les orientations et
+les principes de la présente réforme proposée, et doit faire
+l'objet d'une validation, selon un processus formalisé et
+institutionnalisé, qui protège le système dans sa globalité, des
+risques de perte en lisibilité, en clarté et en efficience.
+V - Favorisation de la sortie de la prédominance de la rente
+et orientation des avantages et incitations vers l'innovation et la
+création d'emplois.
+A - Des avantages orientés vers une création de valeur
+mesurable.
+La révision des conditions d'instauration d'incitations,
+y compris celles destinées à l'investissement, constitue un
+prérequis vertueux qu'il convient de considérer, pour réduire
+la prédominance de la rente et éviter les effets d'éviction
+préjudiciables à une réelle dynamique de développement.
+Pour cela, il y a lieu d'asseoir un cadre rigoureux et
+précis qui permet d'orienter les avantages de manière maîtrisée
+vers les activités créatrices d'emplois en nombre et en qualité
+et génératrice de valeur ajoutée nationale qui s'inscrit dans la
+pérennité et dont la pertinence et les impacts sont mesurables.
+Le même cadre devrait permettre d'aiguiller Îles
+soutiens justifiés en fonction de leur nature, vers des supports
+budgétaires à développer, avant d'envisager le levier fiscal, qu'il
+faudrait préserver de la complexité. Pour tous les soutiens,
+budgétaires et fiscaux, l'analyse maîtrisée et préalable des
+impacts est impérative. La mesure des impacts réels et donc
+la validation de l'atteinte ou non des objectifs stratégiques
+assignés (chiffrés année par année et non à la fin de la période),
+devraient devenir incontournables pour alimenter la décision
+du maintien ou non de l'incitation conditionnelle. Des impacts
+à rechercher sur l'amélioration de la production de valeur, la
+création d'emplois, la transformation écologique et digitale
+de la société, le renforcement des capacités humaines et de
+Pexpertise nationale, et l'élargissement de l'économie sociale.
+L'évaluation de l'impact et sa mesure devraient aussi concerner
+les risques d'éviction qu'une disposition pourrait induire de
+manière collatérale, sur d'autres secteurs.
+A la lumière de la refonte et l'élaboration de ce nouveau
+cadre, il y a lieu de mettre à plat les dérogations, les niches
+rentières et les dépenses fiscales, pour n'en garder, à la sortie,
+que celles qui répondent aux critères prédéfinis tel que
+souligné ci-haut et donc celles qui ont une utilité économique
+et/ou sociale avérée et mesurable objectivement. Les autres
+dérogations et niches fiscales devraient être abandonnées,
+surtout quand elles alimentent de nouvelles formes de rente
+ou présentent des effets d'éviction sur des pans de l'économie
+nationale.
+1590 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+FU TP te
+Il est recommandé en ce sens d'auditer toutes les
+dépenses fiscales pour les qualifier, puis les filtrer selon la
+grille de ces principes.
+Dans le sens de l'assainissement du passif des avantages
+fiscaux, pour une réelle efficience, les dépenses fiscales doivent
+être limitées dans le temps et être évaluées :
++ En amont (phase conception), avant l'entrée
+en vigueur, pour une anticipation/ prévision et
+planification des retombées ;
++ Dès leur adoption et tout le long de la période,
+selon des mécanismes de mesure d'impacts et
+rapprochement avec les objectifs prédéfinis ;
++ A posteriori pour s'assurer de l'atteinte des objectifs
+escomptés sur toute la période.
+B - Une corrélation entre le niveau de protection et le
+niveau de taxation.
+Le système fiscal devrait s'orienter pour assurer plus
+d'équilibre entre les secteurs et activités bénéficiant d'une
+protection de par leur nature et qui devraient contribuer
+davantage que les autres ; et les secteurs et activités qui
+sont soumis à une rude concurrence aussi bien nationale
+qu'internationale et particulièrement les PME parmi eux, qui
+devraient non seulement être moins taxés mais devraient être
+plus soutenus dans leurs efforts d'investissements, d'innovation
+et de développement de capacités.
+I1 s'agit de déterminer les secteurs et activités bénéficiant
+de par leur nature d'un niveau de protection (secteurs régulés
+et activités soumises à licences, ..) induisant une restriction
+du nombre d'acteurs rentrant en concurrence et permettant
+en conséquence de dégager des chiffres et des marges
+conséquentes, pour définir en conséquence la surtaxe à leur
+faire supporter en guise de contribution complémentaire à
+l'effort fiscal national. Ceci revient notamment à élargir le
+principe de sur-taxation appliqué actuellement au secteur
+financier, à l'ensemble des secteurs qui se trouvent dans des
+situations comparables.
+Ce principe, mérite à être conjugué avec celui de la
+progressivité de l'impôt, pour que ladite sur-taxation, soit
+appliquée aux dits secteurs et activités, dont les résultats se
+trouvent en plus dans des tranches supérieures à un plafond
+donné (ex. 200 MDH).
+C - Un soutien significatif à l'innovation et à la R&D,
+devient un impératif de développement.
+Les mutations de plus en plus profondes, avec un
+rythme de plus en plus accéléré, imposent à tous les pays et
+acteurs, de se positionner dans un monde totalement ouvert
+à une concurrence ardue, où la compétition par l'innovation
+est devenue cruciale et incontournable. Aussi, devient-1l
+impératif de mettre en place des mécanismes de soutien et
+d'incitation pour encourager l'innovation et la Recherche
+et Développement au sein du monde économique et dans le
+milieu académique, ainsi que pour favoriser l'articulation, la
+complémentarité et les passerelles qui devraient être facilitées
+entre les entreprises, d'un côté, et les universités et les écoles
+de l'autre côté, sur base d'ouverture à de nouveaux modes de
+production et d'accès au marché. Pour atteindre cet objectif, il
+convient de renforcer le processus par la capitalisation sur les
+leçons des modèles qui ont réussi au niveau international, en
+favorisant le soutien de la production de valeur à forte valeur
+ajoutée, et la montée en gamme du couple capital humain et
+innovation comme avantage compétitif du pays, et en retenant
+les solutions les plus adaptées à la situation marocaine. Ce
+soutien à la recherche et à l'innovation devrait conduire à la
+fois à ouvrir de nouveaux marchés et à développer au plan
+national de nouveaux modes de production.
+Cette politique est un levier indispensable à l'évolution
+vers des productions à forte valeur ajoutée, l'accroissement
+des emplois à forte qualification, et la prise en compte des
+normes du développement durable. Elle doit aussi apporter
+aux instances de recherche académiques un dynamisme et
+des ressources financières qui doivent permettre de mettre en
+place un cercle vertueux entre développement universitaire,
+compétitivité du pays et emploi des plus qualifiés.
+Ces mesures enverraient un signal particulièrement
+fort pour tous les acteurs concernés, ainsi que pour les
+investisseurs nationaux et étrangers : elles marqueraient le
+passage à un modèle de développement fondé sur le Capital
+humain, l'économie du savoir, innovation et le développement
+durable. Parmi elles, l'instauration du Crédit Impôt Recherche
+& Innovation constitue un impératif urgent, à combiner avec
+d'autres mécanismes de soutien de l'innovation et de la R&D,
+tel que développé ci-après. Celui-ci doit être remboursable
+aux entreprises qui ne dégagent pas d'IS, pour lesquelles leur
+investissement en Impôt Recherche et Développement doit
+être financé, et complété par d'autres dispositions de soutien
+aux activités génératrices de valeur.
+VI - Inscription de la réforme fiscale comme facteur de
+dynamisation du développement régional et local.
+L'ambition du CESE, avec ces orientations et besoins
+d'adaptation, doit être adossée à une déclinaison territoriale
+pour laquelle la Région doit être le maillon central en charge
+d'assurer, dans la cohérence, cette déclinaison. C'est pourquoi,
+est mis en relief le rôle central de la Région dans la conception
+et le portage de la réforme fiscale, en tant que source et
+ancrage territorial, mais aussi, comme levier de rattrapage
+des déficits territoriaux de développement, mettant à profit la
+consolidation du potentiel et des spécificités propres à chaque
+région.
+À - Procéder à une refonte en profondeur de la fiscalité
+locale, dans une totale convergence avec la fiscalité nationale.
+La réforme cible du système fiscal, intègre parmi ses
+principes fondamentaux, la refonte en profondeur de la
+fiscalité locale, afin de consolider les bases réelles de recettes,
+avec élargissement effectif, application fluide et sans lourdeur
+et garantie de couverture égale de tous les contribuables :
+automatisation de la constitution des bases des contribuables
+et des objets de contribution avec une très large convergence
+et une unification des bases avec le niveau national ; éviter en
+conséquence les approches de recensement et reconstitution
+des bases imposables. La réorganisation des impôts locaux,
+pourrait être envisagée selon une ventilation sur deux impôts
+locaux principaux qui couvrént, pour le premier, les taxes
+en lien avec l'habitation et, pour le second, ce qui relève
+de l'activité économique. L'objectif étant de générer plus
+de ressources pour les collectivités territoriales et assurer
+simplification, lisibilité, pertinence et cohérence, intrinsèque
+et avec la fiscalité nationale, et par conséquent l'attractivité
+territoriale et la facilitation pour les citoyens, les acteurs et
+investisseurs.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1591
+IN YOO I R oo
+Cette approche permettra par la même occasion de
+dépasser des aberrations, décriées par tous, telle que celle de
+la taxe professionnelle qui s'applique sur l'accumulation des
+investissements et la constitution de l'outil de production, ce
+qui la met en opposition avec les principes d'encouragement
+de l'investissement, en évitant tout frottement fiscal.
+Les incitations pour le développement local, doivent
+également être orientées dans un objectif de création de
+richesses, et pas seulement limités à celui de collecte de
+recettes. Ces dernières verront leur assiette s'élargir et se
+renforcer naturellement par la dynamique du développement.
+B - Repenser la territorialité de l'impôt et lier les recettes
+de la Région à la production de richesses sur son territoire.
+Les régions et autres collectivités territoriales sont peu
+impactées aujourd'hui en termes de recettes par la création
+de richesses sur leur territoire. L'essentiel des impôts générés
+par les différentes activités économiques sont des impôts au
+niveau national qui alimentent d'abord le budget de l'Etat
+et dont une partie est redistribuée aux collectivités sur des
+critères sans relation avec l'effort fourni par chacune de ces
+collectivités pour favoriser et accompagner la génération de
+ces richesses. Afin d'intéresser davantage les régions à attirer et
+accompagner les investissements et d'être dans une dynamique
+davantage favorable à ceux qui déploient le plus d'effort dans
+ce sens, il est nécessaire de créer un lien entre la production
+de richesses sur un territoire et les recettes qui reviennent
+audit territoire. Un lien devrait ainsi être établi en particulier
+entre une part des impôts directs (Impôt sur les Sociétés
+et Impôts sur les Revenus) générés dans une région, et les
+reversements dont elle peut bénéficier. Cela devrait encourager
+toutes les régions à améliorer le climat des affaires chez elle
+et créer les infrastructures et les conditions à même d'attirer
+les investisseurs.
+Cette recommandation d'institution d'un lien directentre
+production de richesses et intérêts financiers des collectivités
+territoriales, devrait aussi être au service de l'accélération du
+rattrapage des distorsions du développement territorial. Elle
+suppose de faire valoir les potentialités spécifiques de chaque
+région, avec une approche territorialisée, et que les Régions
+soient dotées des pouvoirs les plus avancés et des moyens
+associés, leur permettant de jouer pleinement leur rôle dans
+le cadre de leurs nouvelles missions.
+C- Ancrer limpôt dans la dynamique de la régionalisation
+avancée.
+La fiscalité devrait contribuer à un rééquilibrage et une
+plus grande équité territoriale, en faveur d'un rattrapage des
+déficits de développement observés sur des régions, voire des
+localités. Pour ce faire, les collectivités territoriales doivent,
+désormais, avoir une responsabilité forte, compatible avec
+la nouvelle organisation territoriale, l'étendue et la nature
+des compétences qui leurs sont dévolues, et les exigences
+d'autonomie et de responsabilité que requiert la libre
+administration des affaires locales par les collectivités
+territoriales.
+I s'agit de sortir de la logique qui a prévalu dans la
+construction de la fiscalité locale et de la structure des
+recettes des collectivités locales, au profit d'une logique basée
+sur des recettes dynamiques et corrélées au développement
+économique local. Un développement qui devrait trouver ses
+sources premières dans l'attractivité territoriale, mais aussi
+et surtout dans la libération des énergies, les plus capables
+de valoriser les atouts et capacités locales et de contribuer en
+conséquence à l'objectif de densification en nombre et en profils
+des acteurs créateurs de richesse. Les critères d'équilibre et de
+péréquation globale entre les régions et plus finement même
+entre les localités, devraient être pris en compte dans le niveau
+d'appui et d'incitations à accorder.
+L'objectif final étant de faire de la régionalisation
+avancée une composante structurante de la réflexion autour de
+la construction puis du déploiement du système fiscal marocain
+(dans ses deux composantes nationale et locale), servant par la
+même la restructuration des recettes des collectivités locales,
+pour les rendre compatibles avec les pouvoirs que les régions
+devraient assumer.
+D - Favoriser le principe de péréquation et moduler
+Papproche des incitations fiscales, avec un ciblage territorial.
+La favorisation du principe de péréquation contribue
+à garder la cohérence d'ensemble de régionalisation de
+l'approche, tout en renforçant l'attractivité des territoires, qui
+seraient dotés d'une fiscalité attractive et associeraient aux
+activités productives les services nécessaires, privés et publics.
+Aussi, il est recommandé de moduler l'approche des
+incitations (taux fiscaux applicables ou remboursements
+budgétaires), en faveur d'une discrimination positive au
+profit du rattrapage des disparités de développement régional,
+d'origine géographique ou historique. En conséquence,
+lesdites incitations doivent être modulables dépendamment
+de l'évolution et de l'atteinte des objectifs de développement
+socio-économique, et plus fortes pour les régions à besoins
+de rattrapage. Aussi, lesdites incitations doivent concerner en
+priorité l'impôt lié au travail (IR des emplois effectifs sur le
+territoire) plutôt que ceux relatifs à la consommation (TVA)
+qui requièrent une neutralité de par la circulation des produits
+de consommation et ce qu'elle peut induire comme biais en
+cas de différentiation.
+Il est à rappeler à ce titre que le CESE, dans son
+Rapport sur le Modèle de Développement des Provinces
+du Sud, plaidait déjà pour la consécration des mécanismes
+permettant d'assurer un développement équilibré des régions,
+à travers la capitalisation sur les atouts régionaux et l'appui
+au rattrapage de développement, au profit des populations
+de ces régions. Cette politique visant d'infléchir la tendance
+pour éviter le creusement des inégalités, devrait s'appuyer
+sur un système de solidarité et de péréquation régionale.
+L'exploitation optimale des ressources des Régions (intégrant
+la gestion et la répartition des ressources naturelles selon les
+règles de la durabilité et de l'équité en priorité au bénéfice
+des populations locales, ainsi que la mise à profit des fonds
+dédiés au développement régional et à l'équité régionale —
+Fonds interrégional, mécanismes d'incitation et de solidarité
+- devraient permettre d'accompagner une évolution vers plus
+d'équité territoriale, basée sur la consolidation d'une réforme
+fiscale, régionalisée, inclusive et intégrée.
+E - Une fiscalité verte, nationale et territoriale pour
+contribuer à faire du Maroc, une « Usine verte régionale »
+Le Maroc s'est doté d'une politique ambitieuse de
+protection de l'environnement et de production d'énergie
+propre. Cette politique est certainement une source
+d'opportunités, aussi bien pour développer l'attractivité du
+pays, que pour générer de nouvelles activités. L'anticipation
+1592 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+| A
+de cette problématique au moment de l'aménagement de
+zones d'activités, en dotant ces dernières des caractéristiques
+environnementales les plus avancées, permettrait de bénéficier
+d'une rationalisation des coûts à travers l'effet échelle et en
+même temps d'alléger les démarches d'investissement et
+d'améliorer l'attrait du Maroc pour le lancement de nouveaux
+projets économiques, dans le cadre d'une vision intégrée du
+'Maroc Usine Verte régionale', La fiscalité, avec ses deux
+dimensions, nationale et locale, devrait jouer un rôle direct, en
+support à cette ambition, qui est de nature à créer des activités
+à forte valeur ajoutée et des emplois de qualité.
+VII - Mise en place d'un cadre de gouvernance lisible et
+responsable, pour porter ambition du système fiscal cible.
+Pour que le système fiscal puisse jouer pleinement son
+rôle et que la réforme fiscale puisse atteindre ses objectifs
+à court, moyen et long termes, il importe de remplacer la
+réflexion/action conjoncturelle basée sur la succession des lois
+de finances par une réforme stratégique, tracée sur un horizon
+temps plus long. Ce qui nécessite d'inscrire la démarche dans
+une dynamique double, adressant à la fois les priorités et les
+réponses aux besoins immédiats ainsi que les changements
+structurels et de fond, selon une approche qui s'inscrit dans
+le temps pour consolider et fortifier le système dans une
+cohérence sans faille.
+Ii s'agit d'une réforme profonde qui doit s'opérer dans
+le cadre d'une démarche d'agilité stratégique, garantissant à
+la dynamique d'ensemble d'être fondée sur la cohérence et la
+convergence globale, Dès lors et à toutes les étapes, la matière
+fiscale ne devrait plus souffrir d'ambiguïté, de divergences
+d'interprétation, d'application différentiée en fonction de
+celui qui l'applique et/ou du contribuable concerné, et devrait
+s'opérer dans la clarté et la transparence, en s'ouvrant à toutes
+les dimensions, et en s'adaptant à tous les changements, y
+compris les plus avancées d'entre eux, comme la fiscalité du
+numérique.
+Optimisation fiscale et taxation internationale
+| Au fur et à mesure que les services transfrontaliers |
+| se développent grâce aux technologies et aux moyens de :
+| communication modernes, il est nécess aire de faire évoluer :
+: la taxation des entreprises qui réalisent un chiffre d'affaires
+: important sur le territoire marocain, sans pour autant être :
+présentes physiquement dans le pays, et qui implantent :
+leurs filiales dans des pays où les impôts sont les plus bas. '
+I s'agit en particulier des géants du numérique, appelés
+'les « GAFA » (Google, Apple, Facebook, Amazon), mais
+: également de toutes les entreprises permettant les locations
+touristiques ou encore celles qui proposent des services :
+'logiciels ou de distribution internationale. |
+Le Maroc doit donc préparer des procédures.
+crédibles et réalisables pour adapter sa fiscalité et capter :
+une part des recettes sur ces services. Dans ce cadre, la
+dite évolution devrait rejoindre les pays qui sont dans des :
+situations similaires, pour pouvoir disposer des moyens :
+_de négociations nécessaires vis à vis des multinationales
+concernées. |
+Par ailleurs, la réforme suppose linstitutionnalisation
+des cadres, des acteurs et de leurs rôles respectifs, avec
+des responsabilités clairement définies et totalement
+articulées, tenant compte de l'état actuel du développement
+et des contraintes et objectifs projetés, et qui consacrent
+une gouvernance forte et transparente, inscrite dans une
+architecture claire et lisible.
+Cela préfigure aussi de la sortie de l'éclatement et de
+la multiplicité des intervenants, aussi bien pour la fiscalité
+nationale que locale, avec une plus forte intégration, dans la
+gouvernance et la gestion des deux dimensions.
+Quelle que soit la simplification qui y sera apportée, le
+système ne pourra atteindre l'efficience et la transparence
+escomptées, qu'en poursuivant la dématérialisation et en la
+généralisant à l'ensemble des actes et traitements.
+Une relation de confiance, fondée sur les deux piliers du
+civisme fiscal, et du respect des droits du contribuable.
+Le climat de confiance voulu repose sur deux piliers, le
+civisme fiscal d'un côté, et le respect des droits du contribuable
+de l'autre ; la conjonction de ces deux dimensions qui
+s'alimentent mutuellement est la garantie d'une amélioration
+de la relation entre l'administration fiscale et le contribuable et
+de l'édification d'une culture fiscale comme partie intégrante
+de la citoyenneté.
+Sur cette base, et avec la poursuite du chantier de la
+dématérialisation, largement engagé, le plus gros des efforts de
+l'administration fiscale devant être orienté vers l'amélioration
+des services à valeur ajoutée et l'élargissement du périmètre
+des contribuables et de assiette en conséquence.
+La révision en cours du Code Général des Impôts, en
+marche et dans le circuit législatif, constitue une initiative
+importante dont il faudrait maintenir l'effort, et qu'il convient
+de compléter par des mesures qui garantiraient un meilleur
+équilibre dans la relation administration-contribuable, et
+qui inciteraient à plus de transparence, tout en renforçant la
+confiance et l'adhésion au système fiscal.
+Parmi ces mesures, les bases comptables, une fois
+normalisées, qui devraient intégrer la télédéclaration.
+L'interconnexion entre les systèmes d'information comptables
+et les systèmes de télédéclaration devrait en faciliter la mise
+en Œuvre.
+Aussi, l'identification des contribuables et la traçabilité,
+constituent en même temps une base de facilitation des services
+aux contribuables, une fluidification de la communication des
+données et une garantie de transparence et d'équité fiscale.
+Pour atteindre une parfaite convergence entre les
+comptes comptables et les bases fiscales :
+- À défaut d'une fusion, rapprochement entre Îe
+Conseil National de la Comptabilité, en charge de la
+normalisation, et l'entité en charge de la lecture et de
+l'interprétation de la doctrine fiscale.
+- Un meilleur équilibre entre Île contribuable et
+l'administration fiscale qui passe par :
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1593
+UT oo
+«+ Une lecture unifiée et indépendante de la justice
+fiscale ;
++ La publication de la doctrine fiscale, de manière
+consolidée, uniformisée et accessible aussi bien en
+contenu qu'au niveau de la forme et de la facilitation
+de naviguer aisément dedans, qui constituerait ainsi
+un référentiel unique et accessible (incluant l'impact
+de toutes modifications législative/ réglementaire,
+de toutes lectures et interprétations à travers les
+circulaires, les arrêtés, les décisions, mais aussi le
+résultat de tout arbitrage de cas significatif qu'il y a
+lieu de systématiser pour une égalité d'application
+des règles à tous les contribuables) ;
++ En plus de l'accélération de la généralisation de
+la dématérialisation, évoquée plus haut, il y a
+lieu d'investir dans l'extension de l'utilisation des
+technologies (Big Data, intelligence artificielle,
+interconnexion des systèmes) à des fins d'analyse
+et pour mieux orienter la maîtrise des risques de
+fraude, mieux appréhender le vrai potentiel fiscal,
+ainsi que pour optimiser les processus et faire
+évoluer les pratiques, dans l'intérêt des objectifs
+fixés.
+Dans le même sens, la programmation du contrôle, pour
+qu'elle soit plus pertinente et plus efficiente, devrait
+renforcer les moyens et les critères de ciblage, pour
+rendre ce dernier entièrement automatisé et anonyme.
+En plus de ce mode de ciblage, la programmation
+du contrôle, devrait inclure une part basée sur un
+échantillon aléatoire dont la formation est elle-même
+automatisée et anonyme.
+— Une plus grande clarté et transparence du processus
+de contrôle, depuis la transparence des règles
+du ciblage —- comme évoqué dans le paragraphe
+précédent, jusqu'à la garantie de l'équilibre dans
+la confrontation des positions relatives aux motifs
+de redressement. L'établissement de ce cadre en
+phase de contrôle, gagnerait à ouvrir la possibilité
+de bénéficier d'une étape de recours supplémentaire,
+de conciliation, indépendant des parties en jeu
+(contribuable, inspecteur, responsable hiérarchique
+direct) ;
+— Une réduction de la marge d'interprétation et
+une responsabilisation personnelle de l'agent de
+l'administration, vis-à-vis de motifs et des montants
+notifiés ;
+— Une pénalisation, à terme, de l'évasion et de la fraude
+fiscales, sous réserves d'avoir éliminé les risques
+d'interprétation à la base de l'engagement d'une
+telle procédure et la capacité d'établir des preuves
+irréfutables.
+Une telle disposition qui renforce l'état de droit, de par ses
+répercussions, doit être assortie des garanties d'assurer
+les conditions de sécurité juridique, de présomption
+d'innocence, et des conditions objectives de défense des
+droits des contribuables.
+La réforme fiscale cible, qui s'inscrit sur la durée et se
+projette sur les moyens et long termes, devrait amener
+la maturation des conditions nécessaires à l'application
+adaptée d'une telle mesure.
+Enfin, pour favoriser le développement d'une culture
+fiscale partagée par tous les marocains, la dimension liée à
+la vulgarisation de la matière fiscale devrait être prolongée y
+compris au sein du dispositif d'éducation et de formation, aux
+niveaux des écoles et des universités, pour qu'elle devienne une
+matière assimilée et intégrée, y compris dans ses dimensions
+de citoyenneté et de préservation des droits et des devoirs, et
+assoir, ainsi, une adhésion naturelle au système en lui-même.
+VIII - Sanctuarisation de la réforme fiscale dans une loi
+cadre de programmation.
+De par l'importance et l'ampleur de la réforme proposée,
+pour l'ensemble des activités économiques et ses impacts
+sociaux et environnementaux, il est fortement recommandé
+par le CESE d'inscrire cette réforme dans une loi cadre de
+programmation fiscale, visant des objectifs précis et spécifiés,
+priorisés et planifiés dans des horizons temps, court, moyen
+et long termes.
+En effet, pour lui en assurer les meilleures conditions
+de mise en place, y compris en tenant compte des contraintes
+objectives, induites par le passif existant et des impacts
+potentiels sur les finances publiques, sur l'économie, sur les
+intérêts installés, sur le contribuable et sur la société de manière
+plus générale, il est proposé d'inscrire et de sanctuariser ladite
+réforme dans une loi cadre de programmation fiscale, qui
+devrait être engagée sur une période étalée sur 10 à 12 ans,
+avec des étapes et échéances clés de 3 années, visant à installer
+les fondements dont les effets se renforcent avec le temps, pour
+atteindre les objectifs définis et qui sont mesurables à la fin
+de chaque étape, non seulement en réalisations mais aussi et
+surtout en impacts.
+Dans la pratique, cette loi de programmation devrait
+prévoir que les engagements soient assurés dans les délais et
+conditions prévus et qu'aucune disposition fiscale ne puisse
+être introduite par une loi de finances, que si elle s'inscrit dans
+ja conformité et la convergence avec les principes de la loi
+cadre projetée, et participe à la mise en œuvre effective de la
+réforme.
+La première étape, à échéance et impacts immédiats,
+pour les 2-3 ans à venir, est indispensable pour la structuration
+du cadre et du socle fondamental de la réforme, à commencer
+par la publication de la loi cadre en 2019 et ses premières mises
+en œuvre concrètes à travers les lois de finances 2020 et 2021.
+1594 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+En conclusion.
+Telles sont les orientations majeures que le Conseil économique, Socia
+du système fiscal marocain pour faire de ce dernier un réel levier de déve
+inclusif, et au service des besoins et attentes légitimes des Citoyens, des gén
+Tout comme le rapport du CESE de 2012 a constitué une des principal
+le CESE entend porter sa vision, ainsi que les recommandations stratégique
+à l'occasion des Assises Nationales de la Fiscalité, organisées par les autori
+souhaite ouvert, responsable et largement participatif,
+| et Environnemental estime appropriées à la réforme
+loppement ; un développement qui se veut soutenu,
+érations actuelles et de celles à venir.
+es références pour les Assises de la fiscalité de 2013,
+s qu'elles recèlent, au niveau du débat national prévu
+tés compétentes les 3 et 4 mai 2019. Un débat qu'il
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1595
+du Conseil économique, Social et Environnemental
+« Habitat en milieu rural : Vers un habitat durable
+et intégré dans son environnement »
+conformément à l'article 6 de la loi organique n° 128-12
+relative à son organisation et à son fonctionnement, le Conseil
+économique Social et Environnemental (CESE) s'est autosaisi,
+afin de préparer un rapport et avis sur le thème relatif à
+« Habitat en milieu rural : Vers un habitat durable et intégré
+dans son environnement ».
+Dans ce cadre, le Bureau du Conseil a confié à la
+commission permanente chargée de la régionalisation avancée
+et du développement rural et territorial la préparation du
+présent rapport.
+Lors de sa 89ème session Ordinaire tenue le 30 août
+2018, l'Assemblée générale du Conseil économique, Social et
+Environnemental a adopté à l'unanimité le rapport intitulé
+« Habitat en milieu rural : Vers un habitat durable et intégré
+dans son environnement », dont est extrait le présent avis.
+Introduction
+Au Maroc, la population du monde rural enregistre
+encore des taux élevés de vulnérabilité et de précarité (79,4%
+des personnes pauvres et 64% des personnes vulnérables) et
+un taux d'analphabétisme de 47,7% contre 22,2% dans l'urbain
+pour la population âgée de 10 ans et plus!. Cette population
+qui a connu jusqu'à présent des mutations lentes de son mode
+de vie et son mode d'habiter, est en train de vivre, voire de
+subir des transformations sociales accélérées, en raisons des
+évolutions sociologiques et du développement rapide des
+moyens de communication notamment l'accès à la téléphonie
+mobile, aux réseaux sociaux et à Internet.
+La dynamique de cette population engendre un
+accroissement de ses besoins liés notamment à l'accès à un
+logement décent qui garantit son bien-être mais aussi un
+accès au niveau du territoire aux services de base et à l'emploi
+moyennant la mise en place des projets structurants capables
+de créer de la de richesse au niveau local et régional.
+Toutefois, l'absence d'une politique publique intégrée
+dans le domaine de l'habitat rural s'est traduit par un
+développement rapide des habitats isolés faiblement
+desservis en services sociaux de base et ne bénéficiant pas
+des infrastructures adaptées
+De même, l'absence de politique en matière d'habitat
+rural a favorisé une croissance tendancielle non maitrisée
+de centres ruraux émergents et des habitats groupés, qui
+se sont transformés en une véritable problématique sociale,
+économique et sécuritaire, à cause du manque de planification
+anticipée, d'infrastructures de base adaptées et de système de
+gouvernance adéquat.
+Face à cette situation, et pour résorber les insuffisances
+et les retards accumulés au niveau des zones rurales en matière
+d'habitat des autorisations de construire ont été données
+1 - HCP, Recensement Général de la Population et de l'Habitat 2014
+en réponse aux doléances de la population, en recourant à
+des outils règlementaires, des systèmes de planification et
+d'action en déphasage total avec les nouveaux besoins, et à
+des interventions partielles et réactionnelles. Ceci a compliqué
+davantage la situation, et les dérogations qui représentent
+un outil de souplesse correctionnel et exceptionnel pour
+intervenir sur des cas isolées, sont devenues la règle.
+Des tentatives d'intervention pour l'amélioration de la
+qualité de l'habitat rural et ses rôles socio-économiques ont été
+menées par l'Etat, mais les actions réalisées dans le cadre des
+projets pilotes, élaborées sans concertation, ni participation de
+la population sont restées très distancées dans le temps etleur
+impact est limité, ce qui n'a pas répondu à la problématique
+complexe de l'habitat en milieu rural.
+Par ailleurs, il convient de souligner le manque
+d'évaluation et de capitalisation sur ces expériences qui
+sont restées sans suite, faisant perdre au Maroc plusieurs
+opportunités consistant à faire du chantier de développement
+de l'habitat rural, un moyen d'amélioration du cadre de vie
+des citoyens et de promotion de l'attractivité des territoires
+ruraux et par conséquent un levier majeur de développement
+économique en exploitant les potentialités et richesses
+architecturales et patrimoniales que renferment nos territoires.
+Ainsi, et afin de comprendre l'importance de ce chantier
+et ses effets sur plusieurs facteurs de développement du monde
+rural, une lecture éclairée de certaines données et indicateurs,
+interpelle tous les acteurs concernés, d'une part pour la mise
+à niveau du monde rural afin qu'il ne soit pas un frein au
+développement du pays, et d'autre part pour garantir aux
+populations rurales le droit d'accès aux services essentiels
+de base.
+Dans ce contexte, l'article 31 de la Constitution consacre
+à toute personne le droit de disposer d'un logement décent tout
+en liant le principe de la dignité humaine, au droit à un habitat
+salubre. Le rôle de l'État, garant de la solidarité nationale et
+régionale, est capital car il doit intervenir pour accompagner
+et encadrer les habitants du monde rural et les impliquer
+dans toutes actions visant à promouvoir leur logement en
+respectant la diversité des habitats et leurs multiples fonctions
+(bâtiments pour logement, bâtiments destinés à l'élevage, à la
+conservation et le conditionnement à usage agricole, et ceux
+destinés aux services publics ..….).
+Dans ce cadre, le Conseil économique Social et
+Environnemental, après la réalisation de deux rapports
+portant respectivement sur le développement du monde rural
+et des zones montagneuses, qui lui ont permis d'approcher
+d'avantage les grands défis liés à la question de l'habitat rural
+etaux centres ruraux, a décidé d'approfondir l'analyse de
+cette question sous les aspects liés à l'approche droit, aux
+aspects juridiques, à la gouvernance et à la mobilisation des
+financements en faveur de l'habitat rural .
+Ce rapport en pointant le déficit d'études et d'analyses
+ciblés, approfondies et globales embrassant des aspects
+autres que techniques, autour de la question de Fhabitat
+en milieu rural, ambitionne d'analyser et d'apprécier la
+situation de l'habitat rural au Maroc et des programmes
+et actions mis en œuvre pour son développement, avec
+une lecture attentive des concepts, des connaissances, des
+approches et des domaines ayant trait à cette thématique. Mais
+aussi d'analyser des aspects majeurs tels que les carences
+1596 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+os
+du cadre juridique/normatif, la problématique du foncier? et
+: les dysfonctionnements liés aux pratiques administratives en
+matière de gestion et de gouvernance de l'habitat en milieu
+rural.
+Le but est d'interpeller les pouvoirs publics à se mobiliser
+en adoptant une analyse renouvelée et en développant des
+méthodes appropriées en faveur de l'habitat rural. Le rapport
+propose aussi des recommandations opérationnelles pouvant
+aider, les collectivités territoriales notamment les régions et
+les autres acteurs concernés (sur le plan national, régional et
+local) à concevoir une vision concertée dédiée à l'habitat rural
+intégrant les spécificités et les diversités des milieux ruraux? et
+des habitations (l'habitat individuel, dispersé, groupé, centres
+ruraux émergents) tout en garantissant le droit à un habitat
+digne en faveur des ménages ruraux.
+Obiectif et démarche méthodologique
+Cet avis a comme objectifs :
+- la contribution à l'amélioration d'un cadre de vie décent
+des populations rurales pauvres avec des habitats
+ruraux salubres ;
+- Ja contribution à la réduction de disparités régionales
+et sociales en matière d'habitat ;
+- l'intégration effective de la question de l'habitat rural
+dans une politique publique et une stratégie nationale
+dédiée : tout en tenant compte des transformations
+sociales et de la dynamique de la population rurale;
+- l'adoption d'une analyse renouvelée et le développement
+de méthodes appropriées permettant une mobilisation
+des acteurs concernés à l'échelle régionale et locale.
+Méthodologie retenue
+- Examen des rapports et des données disponibles sur
+l'habitat rural ;
+- Organisation de 7 rencontres avec des personnes
+ressources (Professeurs, chercheurs...) et 15 séances
+d'auditions des différents acteurs concernés par le
+thème de l'auto-saisine ;
+- Réalisation d'un Benchmark international (pays
+d'Amérique du Nord/Canada (Québec), d'Europe
+(France) et d'Asie (Inde et Ouzbékistan) ;
+-2 Visites de terrain: région Casablanca-Settat- (province
+d'El-Jadida), et région de Draa Tafilalt (province
+d'Er-Rachidia) ;
+2 - La problématique du foncier fait l'objet d'un autre rapport du
+CESE en cours d'élaboration.
+3 - Les types des milieux ruraux au Maroc : on distingue plusieurs
+milieux ruraux qui diffèrent :
+* Selon leurs situations par rapport au milieu urbain : le périurbain,
+le rural profond, le rural intermédiaire.
++ Selon leurs situations géographiques : zones montagneuses,
+zones côtières, zones désertiques... .
++ Selon le système de production agricole : zones bours, zones
+irriguées, zones forestières, zones sylvo-pastorales ou agro-
+sylvo-pastorales… .
+- Débat et enrichissement par la commission et les
+membres du CESE.
+I - Contexte
+Le droit de tout marocain à un logement décent
+est garanti d'abord par les conventions et déclarations
+internationales ratifiées ou adoptées par le Maroc, qui ont
+une primauté sur le droit interne. La Constitution marocaine
+de 2011 reconnaît dans son article. 31 le droit au logement, le
+Référentiel de la charte sociale du CESE a exhorté les pouvoirs
+publics à garantir le droit d'accès à un logement salubre, en
+consacrant un objectif à ce droit, consistant à améliorer les
+conditions d'accès à un logement convenable pour toute la
+population.
+Le droit au logement signifie le droit pour chaque
+individu de disposer d'un endroit décent et adapté à son
+bien-être social. Toutefois, le droit d'accès à l'habitat rural
+ne semblerait pas être une priorité à l'instar des droits
+fondamentaux notamment l'accès aux services de base comme
+la santé, l'éducation, l'eau... ;
+Or, l'habitat rural, considéré en tant que cadre de vie
+plus étendu n'est en aucun cas synonyme de logement ; c'est
+une unité spatiale fonctionnelle qui assure à la fois le logement
+pour les ménages ruraux, et assume des fonctions liées au
+mode de vie des populations rurales (Agriculture, élevage
+artisanat, commerce, etc). [1 établit des liens forts avec les
+institutions communautaires (madrasa, greniers collectifs,
+darJmaa, etc.) et les institutions à caractère coliectif (souk
+hebdomadaire, mosquée, zaouïa, etc.). Par conséquent, on
+ne peut pas parler de l'habitat sans parler de la vie sociale
+des citoyennes et citoyens ruraux qui se traduit par des liens
+de solidarité très forts encore très présents et palpables lors
+de l'organisation de divers évènements, mariage, naissance,
+enterrement, circoncision , etc.
+A cette dimension sociale dans laquelle l'habitat rural
+joue un rôle fondamental, s'ajoute la grande diversité des
+habitats car il existe autant de types architecturaux que
+d'espaces ruraux. [1 convient de rappeler à cet égard que le
+monde rural recèle des potentialités et des valeurs culturelles
+et patrimoniales inédites qui nécessitent un entretien continu
+pour les préserver et l'exploiter de façon plus rationnelle. Ces
+richesses se manifestent beaucoup dans le domaine de l'habitat
+et du logement en milieu rural puisque la diversité des espaces
+et des sociétés rurales marocaines offre une pluralité originale
+en matière d'habitat (fixe ou mobile, collectif ou individuel/
+CRE, douar, dchar, qsar, ...) et des espaces ruraux (montagne,
+côtes, plaines, oasis, désert, plateaux,.….).
+Dans ce cadre, l'habitat rural est désormais, une
+composante essentielle du capital matériel et immatériel
+du fait de l'existence d'une richesse importante des modes
+de construction des cadres bâtis, du savoir-faire local, de
+la technologie propre aux spécificités des milieux ruraux
+et à leur diversité. Pour ce faire, il est temps de développer
+cette composante en lien avec le développement territorial
+et local dans la perspective de conserver le cachet culturel
+et patrimoniale rural et de le valoriser en tant que levier de
+promotion et de création de richesse.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1597
+LRU CUT OU TD oo
+II - Eléments d'analyse et d'appréciation
+intervention de PEtat en matière d'habitat rural
+À ce jour, peu d'intérêt a été accordé à l'habitat en milieu
+rural. En effet, les interventions de l'Etat dans ce secteur sont
+restées très localisées et réduites à des programmes ou projets
+pilotes conçues sans aucune réelle politique publique dédiée
+à l'habitat rural.
+Deux principaux projets pilotes ont été menés par les
+pouvoirs publics dans ce domaine. Le premier a été lancé
+au début des années 60. Il s'agit de l'expérience des Unités
+Rurales d'Equipement et de Fonctionnement (UREF), lancée
+par l'Office National des Irrigations (ONI). Le deuxième
+projet pilote a été réalisé entre 1968 et 1972. Il a été baptisé
+«Villages PAM : Programme Alimentaire Mondial ». L'objectif
+principal était la valorisation des investissements agricoles
+à travers la mise en place d'un plan directeur d'équipement
+rural où l'habitat occupe une place révolutionnaire à l'époque.
+Le vecteur central était le regroupement des habitats pour
+réduire le coût des investissements des infrastructures de
+base et des équipements. Toutefois, ces projets et programmes
+ont été affrontés à des difficultés qui ont limité l'usage final
+des habitats construits. Citons à cet égard l'attachement des
+agriculteurs à leurs douars, l'éloignement des exploitations
+agricoles des équipements de base et la difficulté du
+déplacement de la population du douar vers le village, les
+logements ont été construits sans consultation préalable de
+la population concernée, pour des ménages ruraux à faible
+revenus et moyens financiers pour acquérir ces logements. En
+outre, la livraison a été effectuée sans la réalisation simultanée
+des infrastructures de bases notamment l'accès à l'eau et à
+l'électricité, avec des insuffisances notamment en termes
+d'entrepôt et de bâtiments pour bétail.
+D'autres initiatives isolées ont été entreprises par l'Etat
+pour approcher l'habitat rural, mais elles n'ont pas donné les
+résultats escomptés. Tous ces programmes ou projets pilotes
+n'ont pas été évalués, ni dupliqués, marquant ainsi la non
+continuité des actions de l'Etat dans ce domaine.
+Principales caractéristiques de l'habitat rural
+L'habitat rural ne peut pas être isolé de son environnement
+économique et social et par conséquent du développement du
+monde rural en général. En effet, avoir un habitat salubre
+suppose que certaines conditions nécessaires pour mener un
+mode de vie acceptable soient réunies.
+La qualité de vie liée à l'habitat rural rencontre un
+certain nombre de problèmes et défis, dont on peut citer entre
+autres :
+- Le non-respect de la spécificité et de la diversité
+architecturale locale des habitats ruraux dans Îles
+nouvelles constructions, impacte l'attractivité des
+territoires ;
+- Les maisons marocaines modernes qui enregistrent une
+augmentation en nombre et en pourcentage, passant
+de 13,6% en 2004 à 25,9% en 2014, ne respectent aucune
+identité locale ou nationale ;
+4 - Logement et habitat, Haut-Commissariat au Plan. Centre
+d'Etudes et de Recherches Démographiques, 2005, http://www.
+abhatoo net. ma/maalama-textuelle/developpement-économique-
+et-social/developpement-social/logement-et-habitat/politique-d-
+habitat/problematique-de-l-habitat-rural
+- Le plus grand nombre d'habitats ruraux, ne possèdent
+pas de titres fonciers et exploitent le terrain sur la base
+d'une simple déclaration (à titre déclaratif sur le plan
+réglementaire) ; même si la plus grande majorité des
+ménages en milieu rural sont propriétaires (90% contre
+63% en milieu urbain) ;
+- La location de l'habitat reste une exception en milieu
+rural avec un pourcentage ne dépassant pas 2% contre
+28% en milieu urbain ;
+- Un logement occupé sur trois en milieu rural est âgé
+de 50 ans et 19% des logements occupés ont un âge
+inférieur à 10 ans. Le vieillissement des logements
+en absence de programmes d'accompagnement des
+habitants ou d'incitation pour la réhabilitation de leurs
+logements, constitue en plus de son impact négatif sur
+ja salubrité et le bien-être de la population, une menace
+permanente vis à vis des risques climatiques croissantes
+(inondation, érosion...) ;
+- L'augmentation de plus en plus rapide des logements
+secondaires ou saisonniers aux alentours des grandes
+villes et au niveau des territoires, sans accompagnement,
+ni respect de la spécificité architecturale, sans réel impact
+positif sur le local et sans dispositions réglementaires
+appropriées. À cela s'ajoute la gestion discrétionnaire
+des demandes de construire des logements secondaires
+en milieu rural. Ce sont les régions de Souss-Massa, de
+Casablanca-Settat et de Marrakech-Safñ qui abritent
+presque 60% des logements secondaires ou saisonniers,
+avec respectivement 24,9%, 17,9% et 16,8%.
+Malgré les efforts déployés en matière d'accès à l'eau
+potable qui a atteint 96% fin 2016, seuls 38% des ménages
+ruraux bénéficient d'un raccordement au réseau public d'eau
+courante. Les statistiques du HCP indiquent que 1,5 millions
+des ménages ruraux ne disposent pas d'eau courante et un
+quart doivent parcourir une distance de 1km pour atteindre
+un point d'eau, soit une durée de 30 minutes et plus. En ce qui
+concerne l'accès à l'électricité, le taux est passé de 43% en 2004
+à 85% en 2014. 15% des ménages ruraux utilisent un autre mode
+d'éclairage que le réseau public (énergie solaire 2%, lampe à
+huile/bougies 5%, gaz butane 6%, autres 2%).
+L'assainissement pose un problème délicat en milieu
+rural et dans les centres ruraux émergents. À cet égard, et par
+rapport au mode d'évacuation des eaux usées, seulement la
+moitié des ménages ruraux ont une fosse septique et la majorité
+(89%) jettent les déchets ménagers dans la nature.
+S'agissant des outils de communication et de connectivité,
+des efforts importants ont été accomplis notamment l'entrée de
+la téléphonie mobile et d'internet. Néanmoins, cette ouverture
+sur les nouvelles technologies n'a pas été assez exploitée pour
+améliorer à la fois les conditions de confort des habitats en
+milieu rural et les services administratifs offerts aux ménages
+ruraux.
+Or, l'amélioration des conditions de vie des populations
+et par conséquent de l'habitat rural suppose d'agir de façon
+complémentaire en considérant à la fois le développement
+social à travers des programmes d'équipements publics mais
+aussi des activités à caractère économique. Etant donné la
+forte corrélation entre le développement économique et
+l'amélioration de l'habitat rural dans sa globalité, le soutien des
+activités économiques en milieu rural est devenu indispensable
+pour conforter le revenu des ménages ruraux. Cela doit passer
+nécessairement par :
+1598 BULLETIN OFFICIEL : N° 6788 — 16 chaoual 1440 (20-6-2019)
+a un are ns À _—_
+- Je développement de systèmes de production qui
+s'adaptent aux spécificités de chaque région, en se
+basant sur la vocation des territoires et en concédant
+plus d'intérêt à la promotion de l'agriculture solidaire ;
+- ja promotion de la dimension productive notamment
+l'établissement des règles d'accès et de gestion collective
+des ressources foncières et hydriques dont dispose le
+monde rural en prônant des formes de distribution
+appropriées en fonction de l'espace et l'activité
+principale ;
+- Je renforcement de l'attractivité du rural par un
+habitat durable (emploi vert, économie circulaire...)
+naturellement inséré dans son environnement
+géographique et conçu dans la perspective d'assurer
+un développement social, économique, culturel et
+environnemental équilibré et durable ;
+- Ja diversification des ressources de l'économie rurale par
+le renforcement des activités non agricoles en milieu
+rural, notamment les services liés à l'agriculture et à
+l'usage commercial (activité de loisir, activité verte,
+unités de transformation de produits agricoles ...), en
+raison de la faiblesse de ce créneau. En fait, en 2016
+seulement 27 % de la population sont occupés dans
+l'activité non agricole (industrie et services) contre
+72,9% dans l'agriculture, forêt et pêcher.
+S'agissant des menaces environnementales, l'habitat
+rural exige plus d'efforts face aux risques des changements
+climatiques dans un pays parmi les plus exposés aux
+catastrophes naturelles récurrentes. Bien que les autorités
+compétentes expriment la bonne volonté pour faire face à
+ces risques à travers les distributions des aides aux personnes
+affectées, la réponse est généralement lente et confrontée
+à des difficultés de préparation et de sensibilisation des
+populations concernées. Cela peut s'expliquer par le manque
+de vision claire et de plans d'actions appropriés anticipant
+les risques climatiques ainsi que le peu d'intérêt accordé aux
+menaces environnementales affectant l'habitat rural (érosion,
+inondations, enclavement par la neige, crues, ensablement.) et
+Ja faiblesse en matière d'accompagnement et du soutien de la
+population surtout avant, durant et après la période hivernale.
+Problématique particulière des centres ruraux émergents
+Les centres ruraux émergents représentent une
+opportunité pour alléger les problèmes qu'ont connus les zones
+périurbaines. Mais faute d'une planification anticipative et
+concertée métrisant les caractéristiques socio-économiques
+et culturelles des populations vivant dans ces centres, les
+résultats obtenus de cette expérience restent insuffisants par
+rapport aux moyens mobilisés.
+Ilressort de l'analyse de la situation des centres émergents
+qu'il n'y a pas de définition consensuelle de ces centres. Selon
+le HCEP ils sont au nombre de 149 « centres urbains », dont la
+moitié (49%) ont une population inférieure à 5.000 habitants,
+21% ont plus de 10 000 habitants et 30% entre 5000 et 10 000
+habitants. Le Département d'aménagement du territoire et
+de la politique de la ville utilise l'appellation « centres ruraux
+émergents ».
+Les centres ruraux émergents (CRE) ont connu un
+développement tendanciel maïs n'ont pas pu engendrer un
+développement économique et social équilibré du territoire.
+En effet, les Habitats isolés et groupés (centres émergents)
+5 - http://www.hep.ma/Emploi-par-branche-d-activite-de-la-
+population-active-occupee-au-milieu-rural_a154.html
+sont conçus généralement sans plans de construction, ni
+plan d'aménagement approprié, ce qui à entrainé une
+détérioration du paysage urbain et urbanistique. À cela
+s'ajoute la complexité et la multitude des régimes fonciers
+existant dans ces centres bloquant ainsi la réhabilitation ou la
+construction légale. Le phénomène d'exode rural non anticipé,
+non préparé, ni accompagné a eu un impact sur la vie des
+citoyens et sur les villes avoisinantes de ces centres. L'une des
+contraintes structurelles profondes auxquelles sont confrontés
+ces centres, est la prévalence de l'habitat anarchique et des
+bidonvilles, en parallèle avec la mobilité des citoyens et la
+croissance démographique des ruraux au sein de ces centres.
+Cela déclenche des problèmes de pauvreté, de marginalisation
+et de sécurité des populations. |
+L'enjeu politique et la spéculation foncière, la faiblesse en
+gestion des CRE par les communes rurales dont les ressources
+financières sont très limitées et la dynamique démographique
+élevée en l'absence du développement économique et social
+soutenu constituent les vrais défis à relever pour promouvoir
+ces centres tout en les dotant d'un plan d'investissements
+publics susceptibles d'enclencher une réelle dynamique
+économique inclusive et durable.
+Le but étant de faire bénéficier ces centres d'un statut
+intermédiaire leurs permettant de disposer de tous les services
+de proximité pour satisfaire les besoins des ménages ruraux
+et par conséquent faire de ces centres une locomotive de
+développement économique du milieu rural notamment des
+communes rurales avoisinantes. D'autant plus, ériger ces
+centres en pôles de développement économique regroupant
+les activités agricoles, industrielles et touristiques permettra
+d'absorber les flux d'exode rural, de stimuler la création de
+l'emploi et procurer des revenus additionnels au profit des
+jeunes ruraux venant de la campagne pour s'installer dans
+ces centres.
+Cadre juridique et réglementaire peu adapté aux
+spécificités du milieu rural
+Dispositif juridique pléthorique, mais déficient
+Bien qu'il existe un cadre législatif et plusieurs textes
+réglementaires, qui sont sensés identifier le rôle et arrêter
+les obligations et les interactions des différents acteurs, la
+situation de l'habitat rural devient de plus en plus préoccupante
+engendrant des conséquences sociales et environnementales
+négatives. Plusieurs textes législatifs et réglementaires ont été
+consacrés au milieu rural. Le premier cadre juridique remonte
+au début des années 60, il s'agit du dahir n° 1-60-063 du
+30 hija 1379 (25 juin 1960) relatif au développement des
+agglomérations rurales. Ce texte de loi avait pour objectif
+l'élaboration de plans de développement permettant
+l'organisation, la planification des centres ruraux ainsi que
+l'orientation et le contrôle de leur expansion.
+Or, le milieu rural dispose des documents d'urbanisme,
+mais cela ne suffit pas pour assurer une organisation de l'espace
+rural, en l'occurrence, la loi n° 12-90 relative à l'urbanisme
+légifère sans distinction entre le milieu urbain et rural malgré
+que ce sont deux milieux complètement distincts sur tous les
+plans.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1599
+ES PR
+Il y a également lieu de souligner une urbanisation
+galopante au détriment des terrains agricoles parfois les plus
+riches car les lois et mécanismes instaurés pour la protection
+des terres agricoles contre l'urbanisation, restent souvent
+inappliqués et peu adaptés. A juste titre, entre 1990 et 2011,
+la perte est de 80 000 ha de terres agricoles autour de 113
+centres urbains et ruraux répartis au niveau du Royaume,
+dont près de 28 000 ha au niveau des périmètres de la grande
+hydraulique. Le taux de déperdition des terres agricoles est
+d'environ 4000 ha/an. De même, l'exigence d'avoir la superficie
+minimale constructible (un hectare) pose un réel problème, car
+elle accentue la dispersion. :
+S'agissant de l'autorisation de construire, celle-ci
+suppose la réunion de plusieurs conditions, mais son
+obligation n'est pas généralisée sur tout le territoire national.
+Son champ d'application et la procédure de son obtention
+sont encore marqués d'ambiguïté générant une lenteur au
+niveau des procédures d'instruction des dossiers et d'octroi
+des autorisations.
+La construction dans les périmètres d'irrigation et de
+mise en valeur Bour pose des problèmes d'appréhension et
+d'interprétation des textes juridiques. Dans ces périmètres, et
+particulièrement dans les zones de remembrement, les textes
+en vigueur n'ont pas explicité une procédure de gestion des
+demandes de construire, sachant que les autorisations ne s'y
+accordent qu'après accord de la commission de remembrement.
+De même, en dehors des aires ayant fait l'objet de
+remembrement rural, les périmètres d'irrigation posent de
+grandes difficultés quant à l'instruction des demandes de
+construire, vu le vide juridique en la matièref. Dans la pratique,
+les dispositions de la loi n° 12-90 qui régit la construction en
+dehors desdits périmètres sont appliquées.
+Le permis de construire est délivré lorsque la construction
+projetée est reconnue satisfaire aux dispositions législatives
+et réglementaires en vigueur, notamment aux dispositions
+des documents d'urbanisme. En absence de tels documents,
+le président du conseil communal peut dans les périmètres
+des communes urbaines, des centres délimités et des zones
+à vocation spécifique, après avis de l'administration chargée
+de l'urbanisme :
+- soit surseoir à statuer sur les demandes de permis de
+construire ; le sursis doit être motivé et ne peut excéder
+deux années ;
+- soit délivrer le permis de construire si la construction
+projetée est compatible avec les dispositions du schéma
+directeur d'aménagement urbain, et à défaut d'un
+6 - Contrairement aux demandes de construire, le morcellement,
+selon la loi n° 34-94, est bien défini dans les périmètres d'irrigation
+et de mise en valeur en bour. Il est institué dans ces périmètres
+une superficie minimum d'exploitation en deçà de laquelle les
+propriétés agricoles qui y sont situées ne peuvent être divisées ni
+en droit ni en fait. Dans les périmètres d'irrigation, la superficie
+minimum d'exploitation est fixée à 5 ha. A l'extérieur des périmètres
+d'irrigation, la superficie minimum d'exploitation est définie comme
+une superficie suffisante pour dégager un revenu permettant de
+couvrir la rémunération, calculée sur la base du salaire annuel
+minimum agricole garanti, de deux travailleurs agricoles. Ladite
+superficie minimum d'exploitation est fixée par arrêté du ministre
+de l'agriculture dans chaque zone, compte tenu de ses potentialités
+agricoles.
+schéma directeur, si elle est compatible avec la vocation
+de fait du secteur concerné.
+En dehors des communes urbaines, des centres délimités
+et des zones à vocation spécifique, et lorsque l'affectation des
+terrains n'est pas définie par un plan d'aménagement où par un
+plan de zonage, le permis de construire est délivré si le projet
+satisfait aux règles suivantes' :
+- La construction doit respecter une zone de recul de 10 m
+par rapport à la limite d'emprise de la voie publique
+riveraine et de 5 m par rapport aux limites séparatives
+de propriété ;
+- La superficie de la parcelle sur laquelle le projet est
+envisagé doit être égale ou supérieure à 1 hectare ;
+_ La surface au sol constructible ne peut être supérieure au
+1/50 de la superficie totale de la parcelle, cette surface
+au sol ne pouvant excéder en aucun cas 800m° ;
+- La hauteur maximale de la construction ne peut excéder
+8,50 m, toute superstructure comprise.
+Toutefois, des mesures dérogatoires sont prévues par la
+lois. Dans le cas où les conditions fixées en termes de superficie
+et de hauteur ne peuvent être remplies en raison de l'état du
+parcellaire de la zone concernée, le permis de construire peut
+être accordé après avis conforme d'une commission, quelle
+que soit la superficie de la parcelle ; laquelle doit s'assurer que
+ja construction dont la réalisation est envisagée ne favorise
+pas une urbanisation dispersée menaçant, notamment, la
+vocation de ladite zone'. La loi a instauré des restrictions
+et des souplesses. Cependant, ces restrictions semblent être
+insuffisantes du fait des dérogations non maïitrisées. Aussi et
+malgré les souplesses annoncées, il y à des difficultés à gérer
+lucidement et efficacement les demandes de construire en
+milieu rural.
+Par ailleurs, les documents d'urbanisme tels qu'ils
+sont élaborés se soucient peu des spécificités des territoires
+ruraux. Or, l'urbain et le rural sont deux milieux différents
+et présentent des caractéristiques nécessitant des textes et
+outils spécifiques pour pouvoir valoriser l'habitat rural au
+vu du savoir-faire, du potentiel de développement local et des
+atouts locaux.
+La règlementation en vigueur n'exige pas la préservation
+et le développement de la diversité, la richesse et la spécificité
+architecturale de l'habitat rural. En effet, l'urbanisation non
+contrôlée contribue à la disparition de l'identité architecturale
+de chaque région et la défiguration des paysages des différents
+territoires à cause d'une tendance d'habitats inachevés qui
+se banalise. Ceci est dû d'une part, à l'existence d'un arsenal
+juridique qui reste généralement inadapté et inappliqué, et
+d'autre part à cause du recours à la dérogation devenue presque
+la règle, ouvrant des voies défigurant le paysage architectural
+de l'espace rural.
+7 - Voir les articles 45 & 46 de la loi n° 12-90 relative à l'urbanisme.
+8 - Voir l'article 35 du décret n° 2-92-832 pris pour l'application de la
+loi n° 12-90
+9 - Cette commission est présidée par le représentant de l'autorité
+gouvernementale chargée de l'urbanisme, et comprend Îles
+représentants des départements chargés des travaux publics, de
+l'agriculture et de l'habitat.
+1600 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+dE RE
+Les pratiques spatiales sont disqualifiées par des modèles
+venus d'ailleurs. Le cadre juridique cité auparavant n'a pas
+prévu de normes relatives au paysage ni une application
+effective des textes préservant les techniques constructives
+locales liées aux territoires et leur capital immatériel.
+Nonobstant l'arsenal juridique existant, le
+développement anarchique des centres ruraux émergents et
+le développement continu d'habitat insalubre aux alentours
+des périphéries des villes se poursuivent. L'habitat dispersé,
+ayant des conséquences sur les terres agricoles et rendant de
+plus en plus complexe l'intervention de l'Etat pour garantir les
+services de base, prend une importance grandissante durant
+ces dernières années.
+Difficultés de mise en œuvre des textes juridiques
+Malgré la panoplie de textes et d'instruments
+réglementaires, il y a lieu de relever les déficiences suivantes :
+- Les documents d'urbanisme sont généralement établis
+en l'absence de référentiel stratégique et de cohérence,
+en l'occurrence les Schémas régionaux d'aménagement
+du territoire (SRAT') devant constituer un cadrage
+d'orientation des Schémas directeurs d'aménagement
+urbain (SDAU), des plans de développement des
+agglomérations rurales (PDAR) et des plans
+d'aménagement ;
+- Les plans de développement et d'aménagement couvrant
+des espaces ruraux sont établis pour une durée de
+validité de 10 ans, à l'échelle 1/2000. Toutefois, ils
+ne s'étendent pas sur tout le ressort territorial de la
+commune, ce qui incite à instituer des plans ou schémas
+de structure à l'échelle 1/500 pour encadrer les douars.
+- Les limites des zones agricoles et des zones forestières,
+telles que définies au niveau de la loi n° 12-90, sont
+à fixer par décret pris sur proposition du ministre
+de l'agriculture, et ce après avis de l'autorité
+gouvernementale chargée de l'urbanisme. Lesdits
+décrets doivent être sont publiés au Bulletin officiel
+et accompagnés d'une carte de zonage agricole ou
+forestier. Ces cartes font toujours défaut, ce qui influe
+négativement sur la protection et la préservation
+des terres agricoles et du patrimoine forestier. Ainsi,
+ces zones vulnérables sont soumises aux risques de
+l'étalement urbain et de la prolifération de l'habitat
+clandestin ;
+- Des déficits sur le plan architectural, patrimoniale
+et culturel : dégradation du caché architectural,
+urbanisation du rural ;
+- La lourdeur et la complexité des procédures d'élaboration,
+de révision et d'approbation des documents d'urbanisme;
+- Des difficultés d'interprétation des textes juridiques et
+des procédures à cause de leurs multiplicités.
+S'agissant du foncier, élément clé sur lequel repose la
+politique de PEtat dans le domaine de l'aménagement du
+territoire et de la planification urbaine, il y a lieu de noter
+la persistance des dysfonctionnements et contraintes d'ordre
+juridique, institutionnel et managérial qui pèsent lourdement
+sur le renouvellement ou la réhabilitation de l'habitat et des
+terres à forte production agricole.
+Gouvernance de l'habitat rural et mobilisation de
+financement
+Pour une approche régionale en faveur de | 'habitat rural
+Eu égard à l'intervention de plusieurs acteurs et à la
+diversité des espaces et des milieux ruraux ainsi que la faible
+coordination entre les partenaires concernés au niveau
+territorial et local, les habitations rurales notamment au
+niveau de la conception et de la construction sont livrées
+souvent à l'initiative individuelle des habitants eux-mêmes.
+Or, si les options générales de l'habitat rural doivent
+être définies au plan national, la mise en œuvre doit passer
+obligatoirement par des programmes territoriaux. La région
+est le niveau idoine pour assurer une telle coordination puisque
+elle est plus proche des élus et des services déconcentrés de
+VPEtat (wali, gouverneur, services des départements, élus
+locaux,.…...). À ce niveau, l'article 91 de la loi organique
+n° 111-14 relative aux régions, stipule que celles-ci exercent les
+compétences partagées entre elles et l'État dans les domaines
+du développement rural notamment la mise à niveau du
+monde rural, le développement des zones montagneuses et le
+développement des Zones oasiennes.
+La région doit jouer un rôle important dans le domaine
+de l'habitat en milieu rural, en mobilisant les compétences
+nécessaires et les capacités requises y compris celles des
+élus. Elle aura donc une grande responsabilité sur le plan
+stratégique et en matière d'aménagement de territoire et de
+l'espace rural. Elle œuvre en concertation avec tous les acteurs
+et en s'inscrivant dans les grandes orientations nationales en
+la matière, à l'élaboration d'une réelle politique régionale de
+l'habitat rural qui devrait être déclinée en actions concrètes
+au niveau des provinces/préfectures et communes rurales tout
+en tenant compte des spécificités et du patrimoine local de
+chaque région.
+Il importe aussi de renforcer l'assistance technique et
+juridique au sein des agences urbaines au profit des milieux
+ruraux en créant un service dédié à l'habitat rural dans
+lorganigramme fonctionnel de ces établissements.
+L'insuffisance des financements en faveur de l'habitat rural
+Le manque de véritables stratégies et de programmes
+dédiés à l'habitat rural rend difficile la planification et la
+mobilisation des ressources financières nécessaires à la
+promotion de l'habitat rural. Les budgets de l'Etat sont
+généralement destinés au désenclavement du monde rural et
+non pas à l'habitat rural. D'autant plus que l'habitat rural
+est considéré souvent comme non prioritaire par rapport aux
+autres besoins (eau, routes, électricité, ...) aussi bien pour
+l'Etat que pour les populations rurales elles-mêmes.
+Quant au financement de l'habitat en milieu rural par
+les habitants eux-mêmes, force est de constater que le recours
+des ruraux aux crédits reste très faible en comparaison avec
+les ménages urbains. En effet, ces derniers recourent plus que
+les ruraux à la construction à crédit et plus particulièrement
+à l'achat à crédit (15,6%) qui est un mode presque inexistant
+en milieu rural (0,6%).
+10 - ONDH, rapport des premiers résultats de l'enquête panel de
+ménages, 2012
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1601
+LA A CR EEE
+Historiquement la construction de l'habitat en milieu
+rural est supportée par les ménages eux-mêmes du fait de
+l'utilisation des matériaux locaux et de l'auto-construction
+s'appuyant essentiellement sur une main d'œuvre locale
+à moindre coût. Le recours aux financements externes ne
+constitue pas une priorité chez la majorité des ménages ruraux.
+Cette réalité a été confirmée par l'Observatoire national du
+développement humain (ONDH) puisque que les ruraux
+construisent généralement leurs logements sans recours
+aux crédits et l'accès au financement via des banques reste
+très limité voire absent en milieu rural. En effet, plus de la
+moitié des ménages ruraux (54,9%) accèdent à la propriété du
+logement par la construction sans crédit et près du tiers par
+l'héritage (31,2%).
+Le financement de l'habitat rural doit être plus adapté,
+avec des aides et incitations de l'Etat moyennant la mobilisation
+des fonds existants (le fonds de solidarité habitat et intégration
+urbaine, le Fonds du développement de l'espace rural et des
+zones montagneuses, Fonds de mise à niveau sociale et Fonds
+de solidarité interrégionale,.….) ainsi qu'à travers la coopération
+internationale notamment le fonds d'Adaptation et le Fonds
+Vert pour le Climat.
+Formation, recherche et innovation dans le domaine de
+Phabitat rural
+Recherche et innovation technologique : outil déterminant
+pour comprendre les problématiques de lhabitat rural
+L'examen de la production scientifique et technique
+reflète un déficit accrus de connaissance en matière d'habitat
+en milieu rural, car il existe très peu d'études suffisamment
+précises, ciblées, approfondies et globales autour de la
+question de l'habitat rural. Seuls les éléments du patrimoine
+architectural situé en milieux ruraux ont suscité l'intérêt des
+universitaires et des architectes notamment dans le cas des
+ksour, des kasbah et des greniers collectifs. L'habitat rural
+n'a pas bénéficié des investigations scientifiques élargies
+qui touchent également les aspects Économiques, sociaux,
+anthropologiques et environnementaux.
+Ainsi, il est primordial que les établissements de
+l'enseignement supérieur et de la recherche (AV Hassan IT,
+ENA Meknès et ENA d'architecture — Rabat, INAU, facultés,
+notamment les départements de géographie et de sociologie, ….)
+lancent des programmes de recherches appropriés pour
+combler les lacunes en la matière. Ces recherches doivent se
+focaliser notamment sur :
+- Elaboration d'une typologie de l'habitat rural selon les
+spécificités régionales et tribales des « grands villages »
+qui se transforment dans le temps en centre ruraux et
+en considérant le douar comme forme institutionnelle
+d'organisation de base de l'habitat rural ;
+- Lancement de recherches ayant trait aux valeurs
+patrimoniales de certains éléments de l'habitat rural
+notamment les Kasbah, les ksour, l'habitat troglodyte
+du Moyen Atlas, l'habitat en pisé et la tente nomade,
+en profitant des avantages qu'offrent les innovations
+technologiques notamment en matière d'utilisation des
+matériaux locaux qui sont en train d'être abandonnés
+cédant la place à l'utilisation des matériaux exogènes
+(béton de ciment, métal) ;
+- Promotion de l'éco-construction et de l'architecture
+durable qui doivent être basées sur une approche
+scientifique et technique visant la conception et
+l'amélioration des outils de production, et favorisant
+l'utilisation des matériaux de construction naturels
+et locaux et la mise en œuvre des principes, processus
+et procédés de constructions durables notamment en
+pierre et en terres ;
+- Conduite d'études appropriées en matière d'innovation
+qui permettent d'assurer un équipement moderne de
+la maison rurale en terme de confort (climatisation
+et isolation thermique, énergie solaire et éolienne,
+connectivité , système d'absorbation de fumée, aspects
+sanitaires, préservation et innovation en matière de
+collecte de l'eau (puis, Khatara, Metfia),..) tout en
+améliorant les formes existantes ;
+- Elaboration d'un référentiel national des bonnes
+pratiques en matière d'habitat rural en fonction des
+régions et espaces ruraux et avec l'implication et la
+participation effective de tous les acteurs concernés ;
+- Encouragement à travers des études approfondies de
+la construction durable en milieu rural qui intègre
+des critères sociaux (diversité culturelle, droit à un
+logement décent, .….) environnementaux (estimation
+de l'empreinte écologique, efficacité énergétique,
+évaluation, prévention et gestion des risques et
+catastrophes naturelles...) économiques (utilité et
+efficacité économique, appropriation et gestion par
+des structures locales) et des critères de participation
+(implication des acteurs sociaux, économiques,
+politiques, concertation avec Îles parties prenantes,
+formation et renforcement des capacités culturelles...) ;
+- Création des pôles de compétence au niveau territorial
+autour de l'habitat rural en mobilisant de l'expertise et
+de la recherche dans les sciences sociales, économiques,
+anthropologiques et historiques.
+L'habitat rural : présence limitée dans le cursus de
+formation des architectes et des aménagistes
+L'intégration de l'habitat rural, ses spécificités et ses
+problématiques demeurent nécessaire dans les cursus de
+formation à l'Ecole nationale d'architecture (ENA) et l'Institut
+national d'aménagement et d'urbanisme (INAU). Or, hormis
+un enseignement général au niveau de l'ENA dispensant
+des cours théoriques qui touchent le monde rural, il n'existe
+aucune formation spécifique à l'habitat rural. Il s'agit donc
+d'asseoir des formations spécialisées sur l'habitat rural au
+profit des architectes et des aménagistes. La formation doit
+se focaliser sur les techniques en terme de :
+- Restauration des habitats et du patrimoine architectural
+rural (Ksour, kasbahs, etc.). Il est à noter qu'à l'heure
+actuelle, le nombre des architectes spécialisés en
+restauration patrimoniale est très limité ;
+- Aménagement des centres ruraux et l'élaboration des
+plans de développement de ces centres, des villages et
+des douars ;
+- Maîtrise des techniques de construction durable en
+matériaux locaux (pierre sèches, briques cuites, pisée,
+etc.) ;
+- Conception de plans architecturaux traditionnels
+adaptées aux besoins actuelles des ménages ruraux
+agricoles ;
+1602 . BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+| Re Re”
+- Renforcement des capacités des différents intervenants
+dans le domaine de l'habitat rural (responsables
+administratifs et élus locaux, société civile et
+population,) principalement sur les aspects de gestion
+du dossier d'urbanisme et de modes de construction en
+milieu rural ainsi qu'en matière d'intégration des outils
+et matériaux les plus appropriés au milieu rural ;
+- Introduction des innovations pour mieux exploiter le
+savoir-faire local et les matériaux locaux qui sont en
+train d'être abandonnés et améliorer la technicité de
+l'habitat rural à la lumière des exigences de durabilité
+et de résilience contre les changements climatiques ;
+- Réhabilitation des architectures historiques en leur
+dotant d'une nouvelle vocation sociale, culturelle ou
+économique ;
+- Construction des nouveaux bâtiments publics selon
+les principes de l'éco-construction avec des matériaux
+locaux biosourcés ;
+- Soutien au développement d'une filière locale d'éco-
+construction avec l'accès aux matériaux spécifiques
+disponibles au niveau des communes (terre, pierre)
+mais aussi aux matériaux biosourcés liés aux pratiques
+agricoles et sylvicole (bois de palmier, laurier rose,
+roseau, olivier, etc.).
+Communication et diffusion de l'information : instruments
+efficaces de conduite de changement et de promotion de habitat
+rural
+L'accès des habitants vivant en milieu rural aux
+technologies de communication et d'information a eu
+un véritable impact sur leur mode de vie. Cela dit, le
+manque d'approches d'intervention appropriées et d'un
+accompagnement permanent, n'a pas entrainé des retombées
+positives de ces technologies sur le développement s0CI0-
+économique des espaces ruraux et l'amélioration du cadre de
+vie des ménages ruraux les plus pauvres.
+Dans le domaine de l'habitat, les populations rurales
+ont besoin aussi d'un soutien continu en vue de les amener à
+adhérer aisément aux propositions de changement concernant
+les modes de construction, de réhabilitation et d'exploitation
+optimale du savoir-faire local.
+Un effort de sensibilisation et d'implication effective des
+acteurs intervenants notamment les architectes, les agences
+urbaines, les départements concernés, la société civile et
+les médias est nécessaire pour produire des documents de
+communication, supports et contenus médiatiques concernant
+la diversité de l'habitat rural, espaces bâtis et non bâtis, le
+rôle des espaces verts et les espaces réservés aux activités
+touristiques. L'objectif étant de partager ces supports avec
+les ménages ruraux et tous ceux qui souhaitent intervenir en
+milieu rural en vue d'investir et contribuer à relever le niveau
+de vie et le bien être de ces populations.
+Un déficit de communication est ressenti au niveau de
+la créativité et de l'innovation technique notamment dans
+le mode construction en valorisant les matériaux locaux,
+l'aménagement des espaces, la réhabilitation ou l'éco-
+construction.
+Face à ces insuffisances, et conscient de l'importance de
+la composante communication et diffusion de l'information
+autour de l'habitat rural, il est impératif de mettre en place
+une stratégie de communication qui ambitionne une réelle
+conduite de changement acceptable aussi bien par tous les
+acteurs concernés que par la population rurale. Cette stratégie
+doit être conçue et élaborée avec la participation de tous les
+acteurs à l'échelle centrale, régionale et locale avec des objectifs
+précis, un budget conséquent et des indicateurs d'impact clairs
+et mesurables.
+III - Pistes d'inflexions en faveur d'un habitat rural salubre
+Le Conseil a identifié quelques points d'inflexions pour
+répondre aux demandes pressantes en matière d'amélioration
+des modes de vie des populations rurales et particulièrement
+leurs habitations.
+Ainsi, dix points d'inflexions ont été identifiés à partir
+(i) de l'analyse de différentes facettes de la problématique de
+l'habitat rural, (ii) des débats avec les acteurs auditionnés à ce
+sujet et (iii) des constats réalisés sur le terrain à l'occasion des
+visites organisées dans deux régions (Provinces d'Er-Rachidia
+et d'El-Jadida).
+1 -Absence d'une vision concertée et intégrée qui oriente et
+cadre les interventions de l'Etat et différents acteurs en matière
+de logement rural
+Cette réalité pointée par tous les acteurs concernés au
+sujet de l'habitat rural engendre :
+- Une absence de véritable politique ou stratégie de l'Etat
+dans le domaine de l'habitat rural qui met au centre le
+citoyen rural et prend en considération ses besoins, sa
+dignité et son bien-être ;
+. Une insuffisance en matière de préservation du
+patrimoine architectural, culturel et du capital
+immatériel national spécifique aux habitations du
+monde rural ;
+- Une dégradation de l'environnement à la fois par les
+effets des aléas climatiques et par l'action de l'Homme
+et une faible maitrise des risques des catastrophes
+naturelles sur l'habitat en milieu rural ;
+- Un manque d'une planification concertée des centres
+ruraux émergents, visant une mise à niveau des
+centres existants, une délimitation et indentification
+de ces espaces à partir des critères objectifs pouvant
+déterminer le niveau d'équipement en services de base
+et d'investissements publics afin de garantir une vie
+décente aux citoyens et enclencher une dynamique
+économique inclusive et durable en faveur des jeunes
+et des femmes.
+2 - L'habitat rural ne dispose pas d'une stratégie qui
+prend en considération le cours, le moyen et le long terme, ni de
+programme d'action dédié
+Ï{l en résulte :
+- Des politiques de rattrapage visant la réhabilitation
+corrective de l'anarchie née des abus administratifs
+et électoraux (spéculation foncière) menées sans
+anticipation, engendrant ainsi des résultats limités qui
+creusent davantage les inégalités des chances ;
+- Des programmes non cadrés par des dispositions
+réglementaires, discontinues dans le temps, incohérents
+et ne répondant pas aux besoins de la population. Leurs
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1603
+OU
+objectifs étaient de réduire le coût de l'infrastructure
+destinés à l'habitat dispersé ;
+- Des programmes et projets qui ne prennent pas.en
+considération les dynamiques démographiques, les
+transformations sociales, les mentalités, l'évolution et
+les besoins des populations ;
+- Une absence de financement et d'accompagnement
+dédiés spécifiquement aux ménages ruraux, dans le
+cadre des plans de développement des agglomérations
+rurales pour la réhabilitation, la restauration et la
+construction des habitats ;
+- Le recours souvent aux dérogations en raison de l'assise
+juridique inadaptée, n'intégrant pas les particularités
+du milieu rural ;
+- Des programmes et projets pilotes non structurés qui
+n'ont pas abouti à un développement soutenu de l'habitat
+rural, Ces programmes sont élaborés en l'absence d'un
+plan d'accompagnement et d'encadrement instructif et
+d'une règlementation favorisant leur réussite ;
+- Un manque d'évaluation des programmes et projets
+réalisés en matière d'habitat rural.
+3 - Cadre législatif et règlementaire inadapté aux
+spécificités et à la diversité de Phabitat rural
+Il y a lieu de souligner concernant ce volet :
+- La persistance d'une législation insuffisante et inadaptée,
+sans aucune harmonie avec les dispositions de la
+Constitution de 2011 ;
+- La législation consacrée à l'habitat rural n'a pas évolué
+au même rythme que la transformation de la société
+marocaine pour répondre aux nouveaux défis et besoins
+de la population rurale ;
+- Malgré que l'aménagement et la construction en milieu
+rural sont régis par le Schéma directeur d'aménagement
+urbain (SDAU), le Plan d'aménagement et le Plan de
+développement des agglomérations rurales (PDAR),
+cette réglementation reste inadaptée aux différents
+contextes, aux habitats dispersés et groupés et à la
+diversité du patrimoine architectural, culturel et naturel
+des espaces ruraux ;
+- Une faible intégration de l'aménagement des douars et des
+centres ruraux dans les plans d'action des communes et
+les documents d'urbanisme (plans d'aménagement des
+territoires, plans du développement des agglomérations
+rurales) ;
+- Au regard des contraintes d'application et des
+insuffisances des textes législatifs ayant trait
+spécifiquement à l'habitat rural, les responsables
+adoptent une politique non écrite laissant la place à
+des pratiques informelles.
+4 - Un foncier caractérisé par la dualité de régimes et la
+complexifié de l'arsenal juridique
+[1 y a lieu de relever :
+- Une faible protection des terres agricoles contre
+Purbanisation :
++ le patrimoine foncier agricole productif est
+insuffisamment sécurisé et se livre à la spéculation
+et aux aléas du marché contrôlé généralement par
+les promoteurs immobiliers ;
+* l'accroissement de la pression sur les terres à forte
+production agricole aussi bien dans les périmètres
+irrigués que dans les zones bour ;
+« le chevauchement et le conflit entre périmètre
+d'irrigation et périmètre urbain et l'absence de
+système d'arbitrage fluide et ingénieux entre les
+besoins en sol urbanisable et les étendues des
+périmètres d'irrigation ;
+« Ja faiblesse en matière d'orientation et d'application
+de mesures contraignantes exigeant l'extension de la
+construction des habitats nouveaux sur les terrains
+non agricoles au lieu de s'étendre sur les meilleures
+terres agricoles.
+5 - Insuffisance et discontinuité des moyens de financements
+dédiés à Phabitat rural, inscrits dans la politique budgétaire de
+PEtat
+Ii y a lieu de noter :
+- Un manque des financements des programmes de
+l'habitat rural : les budgets de l'Etat sont destinés
+généralement au désenclavement du monde rural et
+non pas à l'habitat rural ;
+- Le manque de stratégies et de programmes dédiés
+rend difficile la planification des budgets en faveur de
+l'habitat rural, d'autant plus, qu'il est considéré souvent
+comme non prioritaire aussi bien pour l'État que pour
+les citoyens ruraux eux-mêmes ;
+- L'utilisation de financements internationaux de certains
+projets pilotes reste conjoncturelle ou ponctuelle, sans
+aucune capitalisation sur les bonnes pratiques tirées
+de ces projets initiés par la coopération internationale,
+engendrant ainsi une rupture et une discontinuité dans
+le temps. La gouvernance de ces financements souffre
+de plusieurs déficiences et de l'absence d'évaluation et
+d'audit systématique ;
+- L'absence de possibilité de recours au crédit pour Île
+financement des logements en faveur des populations
+du monde rural et manque de mécanismes qui puissent
+faire bénéficier l'habitat rural de financements mobilisés
+par l'Etat dans le cadre des actions de développement ;
+- Le manque de valorisation de la fonction économique
+des habitats ruraux (ksour, gite, ..) et des bâtiments
+administratifs surtout les structures à vocation
+économique comme les souks, abattoirs,.…, qui n'ont pas
+eu l'attention méritée pour les rénover et les réhabiliter
+afin d'améliorer leur développement et leur contribution
+dans l'économie des communautés locales ; |
+- La fonction culturelle des habitats ruraux n'a pas
+été suffisamment valorisée et accompagnée pour
+permettre aux institutions traditionnelles de gestion
+communautaire et aux espaces de culte tels que les
+Zaouiyas, les mosquées, hammam, faranne, boulangerie
+…, de jouer pleinement leur rôle dans la vie sociale des
+citoyennes et citoyens ruraux.
+1604 | BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+6 - Des pratiques de gestion de l'habitat rural ne répondant
+pas aux spécifiques du territoire
+Ii y a lieu de souligner :
+- L'insuffisance de l'effectivité de la loi et de la reddition
+des comptes ;
+- La spéculation foncière affectant particulièrement les
+terres agricoles à forte production est le retentissement
+d'une gestion irresponsable du patrimoine foncier
+destiné à l'habitation en milieu rural et dans les zones
+préurbaines. La surévaluation du coût du foncier au
+Maroc est un enjeu de taille qui se traduit par des
+rentes colossales et pèsent lourd dans la politique
+de l'urbanisme et sur le pouvoir d'achat des citoyens,
+mais malheureusement ce sujet n'a pas été fermement
+combattu ;
+- La faible participation des acteurs en particulier de
+la société civile dans la conception, la mise en œuvre,
+l'évaluation et le réajustement des actions pilotes
+dédiées à l'habitat rural ;
+- La persistance des actes ou pratiques d'infractions
+assimilées à la corruption, l'abus du pouvoir, le
+clientélisme, le népotisme et le manque de recours ;
+- La multiplicité des intervenants (agences, communes,
+départements concernés, ..) et faible concertation
+entre eux, d'une part et avec les intéressés d'autre
+part. Le rôle et la délimitation des responsabilités de
+chaque intervenant à l'échelle régionale et locale dans
+le domaine de l'habitat rural méritent d'être clarifiés
+davantage ;
+- Les documents d'urbanismes (schéma directeur
+d'aménagement urbain, plan d'aménagement, plan de
+zonage, Plan de développement) ne sont pas généralisés
+au niveau de toutes les régions, ni adaptés au contexte et
+à l'état du milieu rural (zone d'habitations, zone pour
+le bétail, zone pour le stockage des denrées agricoles,
+schéma directeur rural délimitant les douars et les
+centres ruraux émergents .) avec des plans types
+actualisés en fonction des espaces ruraux à savoir les
+plaines, les zones oasiennes et montagneuses;
+- Le manque de contrôle et d'intervention à postériori et
+de capacité de réagir légalement et rapidement en vue
+de réguler les différents occasionnés par les conflits et
+d'éviter la destruction des biens déjà construits ;
+- L'absence d'un système d'information et de
+communication autour de l'habitat rural impliquant
+tous les acteurs et parties prenantes (région, communes,
+départements concernés, architectes, ...).
+7 - Dégradation du paysage et déperdition du patrimoine
+architectural, culturel et sa diversité
+- La perte de l'identité et du patrimoine des territoires
+engendre :
++ laperte de leur attractivité ce qui impacte davantage
+le développement économique local durable de ces
+territoires ;
++ La sous exploitation de la richesse et la diversité du
+patrimoine architectural comme levier économique
+des territoires qui doit profiter aux populations
+locales et renforcer l'attraction des investisseurs.
+- La dégradation du paysage et du patrimoine architectural
+et culturel est la répercussion de plusieurs facteurs
+notamment :
++ Le manque de cadre législatif et règlementaire
+approprié relatif au respect de l'esthétique des
+façades extérieurs des habitats ruraux qui valorise
+et protège la spécificité architecturale de chaque
+région ;
+«+ Les chartes et les normes architecturales
+d'aménagement de l'extérieur ne sont pas respectées
+(les bâtiments administratifs donnent généralement
+le mauvais exemple) ;
+. L'insuffisance en matière d'identification, de
+recensement et de connaissance approfondie
+du patrimoine national architectural et culturel
+mentionnant le cachet de chaque région ;
++ L'absence de chartes de l'éco-construction et de la
+préservation du patrimoine architectural et paysager
+pouvant offrir une nouvelle dynamique alternative
+au processus d'urbanisation ou de standardisation/
+uniformité architecturale en milieu rural ;
+«  L'insuffisance de partage et de duplication de bonnes
+pratiques relatives à la préservation du cadre bâti
+architectural et culturel de l'habitat rural ;
++ Le déficit en matière d'innovation dans le domaine
+de construction locale liée aux territoires permettant
+à même de développer les techniques et les outils de
+construction en milieu rural et perte des métiers
+locaux (Maalm,.….) qui ont besoin d'être valorisés et
+accompagnés dans un cadre règlementaire incitatif.
+8 - Des rapports entre ville et campagne insuffisamment
+pris en considération
+- accélération de l'urbanisation de l'espace rural génère
+un chevauchement entre l'urbain et le rural, et ce par :
+< le manque d'une vision régionale ou locale projetée
+à long terme articulée autour des problèmes liés aux
+aspects économiques et ceux de programmation des
+équipements et des infrastructures de base ;
++ la spéculation foncière non combattue aussi bien
+dans les villes et les zones périurbaines que dans
+le monde rural. La valeur de l'immobilier est
+surévaluée et la régulation de ce problème n'a pas eu
+suffisamment d'attention des décideurs concernés.
+- L'extension urbaine non maitrisée et la limite entre le
+rural et l'urbain pose un problème de taille à tous les
+niveaux économique, social, sécuritaire et sanitaire.
+Elle a pour conséquence :
++ Le développement des ceintures de pauvreté aux
+alentours des grandes villes nées de l'éclatement de
+vieux douars qui ont reçus des arrivées massives
+des citoyens de la campagne, sans formation ni
+accompagnement de proximité. fl s'agit d'un affiux
+de population sans aucune assise économique réelle
+(la ville doit préparer l'arrivée des gens quel que soit
+leur origine rurale ou urbaine) ;
+N° 6788 - 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1605
+| ” eo
++ L'urbanisation des petites villes n'a pas donné la
+priorité aux équipements marchands, à l'artisanat, à
+l'économie sociale et solidaire et aux activités reliées
+à l'agriculture ;
++ Des constructions considérées souvent comme
+des habitats secondaires sans activité économique,
+demeurant généralement vides/vacants ce qui
+accentue le développement des habitats dispersés
+dont le coût des équipements en infrastructures de
+'base est très élevé ;
++ La présence des zones dites « grises » entre la ville
+et la campagne qui posent un réel problème d'ordre
+social, économique et sécuritaire et des difficultés à
+préserver les zones protégées et les ceintures vertes.
+9 - Des menaces environnementales affectant l'habitat en
+milieu rural
+- Accentuation de la dégradation de l'environnement et
+faible application des mesures protégeant l'habitat rural:
++ les effets du changement climatique occasionnés
+par les inondations, les crues, les sècheresses,
+la neige, la chaleur, l'ensablement, etc., ne sont
+pas suffisamment pris en considération dans Îes
+politiques publiques bien qu'ils touchent en premier
+lieu les logements ruraux particulièrement ceux des
+zones montagneuses et oasiennes ;
++  L'assainissement en milieu rural pose un sérieux
+problème notamment pour les centres émergents,
+les ksour et kasbah. Il est faiblement maïitrisé et peu
+intégré dans les documents d'urbanisme.
+- Des pratiques qui nuisent à l'environnement et
+contribuent à la détérioration des habitats :
+° Constructions dans les zones à risques notamment
+les alluvions des rivières ou des Oueds et dans les
+zones à forte érosion en l'absence de contrôle et
+d'application des dispositions législatives en vigueur
+pour interdire ce genre de pratiques ;
++ Régression des modes de construction en matériaux
+locaux (pisé pour les murs principaux et les adobes
+destinés aux petits murs en hauteur, aux arcades, aux
+piliers ou à la décoration) favorisant des pratiques
+écologiques autour des maisons (plantation de
+cactus, d'arbres, ...) pour faire face aux aléas
+climatiques ;
++ _ Négligence souvent des fondations/maçonneries
+des maisons rurales fortement influencées par
+linfiltration de l'eau et la pénétration des eaux usées
+ce qui expose l'habitat à l'effondrement ;
++ Peu d'appuiet soutien de l'habitat rural menacé par
+les risques de catastrophes naturelles notamment
+pour les ménages les plus pauvres qui n'ont pas les
+moyens nécessaires pour réhabiliter leurs maisons .
+* Faible intégration dans les documents d'urbanisme
+des actions d'amélioration de l'hygiène et de la
+propreté qui touchent la vie quotidienne des
+habitants notamment des centres émergents et des
+zones oasiennes.
+10 - Manque de recherche, d'innovation et de formations
+ippropriées au sujet de l'habitat rural
+- L'habitat rural connait des insuffisances accrues en
+matière de recherche et d'innovation dans le mode de
+construction, tout en conservant les matériaux locaux,
+ainsi que dans les conditions d'amélioration de confort
+de la maison rurale :
+. Déficit de connaissances et d'études précises, ciblées, .
+approfondies et globales autour de la question
+de l'habitat (typologie, diversité des habitats
+ruraux, rythme des mutations spatiales, sociales et
+économiques...) ;
+«+  Faiblesse en matière d'innovation et d'exploitation
+des martiaux locaux qui sont en train d'être
+abandonnés cédant la place à l'utilisation des
+matériaux exogènes (béton de ciment, métal)
+peu maîtrisés par les habitants du milieu rural.
+La restauration de l'habitat rural respectant
+l'environnement doit s'appuyer sur les formes
+locales et les procédés locaux tout en construisant
+intelligemment ;
++ Insuffisance en matière d'innovation qui assure
+un équipement moderne de la maison rurale
+en termes de confort (climatisation et isolation
+thermique, énergie solaire et éolien, connectivité,
+système d'absorbation de fumée, aspects sanitaires,
+préservation et innovation en matière de collecte de
+Peau (puis, Khatara, Metfia..….). Il s'agit d'améliorer
+sans détruire les formes existantes ;
+_ Ilexiste une carence en matière de formation sur Fhabitat
+rural et une faible implication des établissements
+de formation, d'enseignement et de recherche aux
+initiatives et programmes de développement de l'habitat
+rural :
++ Insuffisance de modules de formation portant sur
+l'habitat rural (connaissances des matériaux locaux,
+planification et documents d'urbanisme,..) destinés
+aux architectes et aux aménagistes ;
+« Absence de programmes de renforcement des
+capacités des différents intervenants dans Île
+domaine de l'habitat rural;
+« Difficultés à renouveler et à valoriser les métiers
+et le savoir-faire local développés dans les modes
+de construction traditionnelle par les habitants
+du milieu rural, particulièrement dans les zones
+oasiennes, montagneuses et de plaines;
++ Manque de suivi et de capitalisation sur des
+expériences réussies pour partager et s'approprier
+les bonnes pratiques par les collectivités et les
+populations et les généraliser au lieu de rester
+dans des projets pilotes ( expériences des stations
+d'épuration, pratiques d'architecture qui prône
+les matériaux locaux, innovation en matière
+d'utilisation de l'énergie dans les activités
+domestiques,.….).
+1606 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+IV - Recommandations pour un habitat rural décent et
+durable
+Partant de la réflexion menée en matière d'habitat rural
+et compte tenu de l'ampleur des mutations socio-économiques
+et politiques et des évolutions démographiques de la société
+marocaine et leurs effets sur la relation entre l'urbain et le rural,
+le Conseil formule des recommandations en vue contribuer au
+débat qui vient d'être déclenché par le Gouvernement et les
+autres acteurs concernés afin de les aider à asseoir une véritable
+politique publique dédiée à l'habitat rural . Elles s'articulent
+autour de trois axes déclinés en 12 recommandations avec des
+mesures opérationnelles :
+1. Recommandations d'ordre stratégique
+2. Recommandations relatives au dispositif juridique
+et réglementaire
+3. Recommandations à caractère managérial et
+opérationnel
+Recommandations d'ordre stratégique
+1 - Doter l'habitat rural d'une vision concertée et intégrée
+et d'une stratégie dédiée :
+- Une vision qui ambitionne l'élaboration d'une réelle
+politique nationale de l'habitat rural et qui oriente et
+cadre les interventions de l'Etat et des différents acteurs
+concernés ;
+- Une vision nationale globale doit tenir compte des
+spécificités des territoires et être élaborée en concertation
+avec les régions : Chaque territoire développe une vision
+en fonction de ses spécificités et de sa vocation, de son
+patrimoine et de sa richesse culturelle et historique ;
+- Une stratégie dédiée à l'habitat rural qui s'inscrit dans les
+grandes lignes de la vision, qui prend en considération
+le cours, le moyen et le long terme et qui s'adapte aux
+spécificités territoriales (zones de plaines, de montagnes,
+zones oasiennes et littorales). Le conseil recommande de
+veiller à:
++ L'intégration des composantes de la stratégie dans
+les PDR et les SRAT ;
++ La prise en considération de la transition
+démographique, sa mobilité et des transformations
+sociales qui font émerger de nouveaux besoins des
+populations rurales ;
++ La mise en place de mécanismes d'incitation
+au regroupement des habitats dans l'espace, la
+réduction de la dispersion et le développement de
+centres socialement et économiquement durables qui
+répondent aux besoins de la population ;
++ Le renforcement des moyens financiers et humains
+existant et l'affectation de nouveaux moyens pour
+une mise en œuvre efficace de cette stratégie au
+niveau régional ;
++ l'élaboration d'un système de suivi -évaluation de
+cette stratégie avec des indicateurs de résultats et
+de progrès liés à l'habitat rural et aux conditions
+de conforts et d'amélioration du cadre de vie et
+développement de l'attractivité et de l'économie de
+ces territoires ;
+2 - Concevoir (dans le cadre de la stratégie) des programmes
+d'action anticipatifs qui rompent avec les politiques et programmes
+de rattrapage sectoriels :
+- Intégrer l'aménagement des centres ruraux el des douars
+dans la vision de l'âménagement du territoire, dans
+les documents d'urbanisme et dans les plans d'action
+communaux (il faut clarifier la différence entre centres
+ruraux, centres émergents et douars) ;
+- Prévoir de nouvelles approches d'accompagnement
+de la population pour conduire Île changement et
+favoriser l'acceptation et l'appropriation des projets et
+programmes qui leurs sont dédiés,
+- Intégrer dans les programmes locaux de développement
+de l'habitat rural des actions de préservation de l'identité
+de certains sites territoriaux, tout en répondant au besoin
+de modernisation et en luttant contre la défiguration du
+paysage architectural et culturel des habitats et des sites.
+3 - Procéder à une réforme en profondeur du foncier en tant
+qu'élément décisif de Phabitat rural :
+- Activer le processus qui vise la résolution de la
+problématique du foncier (diversité des statuts fonciers,
+complexité des procédures administratives et multiplicité
+des acteurs intervenants dans le secteur) dont l'impact
+affecte véritablement habitat rural ;
+- Rendre obligatoire les mécanismes instaurés pour la
+protection des terres agricoles contre l'urbanisation et
+la perte de leurs potentiels et rôles économiques à cause
+de la dispersion des habitats ;
+- Prévoir dans la stratégie nationale de la politique foncière
+de l'Etat, des solutions opérationnelles permettant aux
+populations rurales l'accès à un logement décent en
+prenant en considération la dynamique différentiée des
+territoires, la mobilité des citoyens, la nature du foncier
+et la diversité des espaces ruraux.
+Recommandations relatives au dispositif juridique et
+réglementaire
+4 - Mettre en place un cadre législatif et règlementaire
+adapté aux spécificités de Phabitat rural :
+Procéder à un recueil et à l'actualisation de toutes les
+dispositions législatives consacrées à l'habitat rural groupé
+ou dispersé en considérant les évolutions socio-économiques,
+démographiques, politiques et culturelles de la société
+marocaine dans la perspective d'élaborer un code juridique
+spécifique aux différents types d'habitat rural.
+Le Conseil préconise à ce sujet de :
++ Accélérer la généralisation des documents
+d'urbanismes (schéma directeur d'aménagement
+urbain, plan d'aménagement, plan de zonage, Plan
+de développement des agglomérations rurales
+actualisés, schémas d'armatures rurales, ...) au
+niveau de toutes les régions ;
++  Délimiter les périmètres des agglomérations rurales
+notamment les douars et les centres ruraux émergents ;
++  Élaborer des plans locaux d'urbanisme pour orienter
+{a réhabilitation des douars et des agglomérations
+rurales qui connaissent une pression en matière
+d'urbanisation ;
++ Adapter dans le cadre d'une approche participative
+tous les plans au contexte et aux spécificités de
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1607
+l'habitat rural (habitations, bâtiments pour le bétail,
+entrepôts pour le stockage des denrées agricoles... ),
+avec des possibilités de recours à des plans types
+concertés ;
++  Encadrer les décisions par dérogations en adaptant
+eten rendant effectif les documents d'urbanisme, des
+plans du développement des agglomérations rurales
+et en veillant au respect de la durée d'élaboration
+des documents d'urbanisme tout en prévoyant des
+dates limites pour l'élaboration et l'approbation de
+ces documents ;
++ Intégrer dans les documents d'urbanisme le
+problème de l'assainissement et d'épuration des eaux
+usées en milieu rural qui pose un sérieux problème
+notamment pour les centres émergents, les ksour et
+kasbah.
+5 - Mettre en place les mécanismes nécessaires et efficaces
+pour préserver, valoriser et développer le patrimoine culturel,
+architectural et la diversité de l'habitat rural et lutter contre sa
+déperdition :
+- Procéder à l'identification et au recensement général
+du patrimoine national architectural et culturel en
+mentionnant le cachet de chaque région et élaborer
+un schéma national de préservation du paysage et du
+patrimoine de l'habitat rural ;
+- Adopter une législation, une règlementation, des
+chartes et des normes architecturales d'aménagement
+qui protègent les spécificités architecturales de chaque
+région ;
+- Faire connaître et rendre effective la législation existante
+et veiller au respect de aspect et de l'architecture des
+façades extérieurs des habitats ruraux, tout en luttant
+contre la défiguration du paysage de l'habitat rural ;
+- Asseoir un cadre règlementaire incitatif pour préserver
+et accompagner les métiers locaux (Maalm […texte non modifié…] ), valoriser
+le savoir-faire local et le cadre bâti des espaces ruraux
+et veiller au partage des bonnes pratiques relatives à la
+préservation du cadre bâti architectural et culturel de
+l'habitat rural et à la richesse et diversité des modes et
+moyens de construction ;
+- Développer et appliquer des chartes de l'éco-construction,
+avec une conception qui se doit d'être économe en
+énergie et en eau, voire d'utilisation de l'énergie solaire,
+en répondant aux nouveaux besoins de la vie moderne
+des populations, tout en préservant le patrimoine
+architectural et paysager ;
+- Mettre en place un cadre et une conception renouvelés de
+l'assistance architecturale et technique en milieu rural,
+qui prennent en considération les spécificités locales
+(Cette assistance peut prendre la forme d'un encadrement
+technique gratuit des bénéficiaires résidant dans Îles
+zones rurales, à travers l'élaboration de plans d'auto-
+construction et de plans modèles, ou via l'élaboration de
+plans de restructuration et réorientation de l'urbanisme
+au niveau des douars, centres ruraux, ksour, Kasbah..…);
+- Impliquer les acteurs publics et privés dans la valorisation
+de la richesse et de la diversité du patrimoine
+architectural, pouvant offrir une nouvelle dynamique
+alternative au processus d'urbanisation, en mettant
+les mécanismes incitatifs nécessaires pour attirer des
+investisseurs nationaux et internationaux, notamment
+dans le domaine du tourisme, en évitant l'uniformité
+architecturale en milieu rural et la production en masse
+axée sur l'usage issu de la construction en béton;
+- Mettre en place les mécanismes financiers et
+réglementaires nécessaires pour développer l'innovation
+dans le domaine de la construction locale et promouvoir
+de nouvelles techniques de construction qui combinent
+modernité et authenticité.
+Recommandations à caractère managérial et
+opérationnel
+6 - Diversifier et développer les outils et mécanismes de
+financement de l'habitat rural
+- Prévoir des budgets pour le financement de la stratégie
+nationale et des programmes destinés à l'habitat rural
+(mise à niveau, réhabilitation et nouvelles constructions)
+au niveau régional et local, sur la base d'un recensement
+des différents types d'habitats (douars, centres émergents,
+ksour, kasbah, ...) ;
+- Budgétiser des financements pour réhabiliter les autres
+types d'habitats en milieu rural (bâtiments administratifs
+et de services, habitats économiques (souks réhabilités,
+abattoirs), habitats communautaires) afin d'améliorer
+leur contribution économique et de les faire jouer
+pleinement leur rôle dans la vie sociale et culturelle des
+citoyennes et citoyens ruraux ;
+- Prévoir des financements pour la mise à niveau et la
+réhabilitation des douars et des maisons traditionnelles
+menaçant ruine en milieu rural, à travers des aides ou
+des subventions directes de l'Etat et d'un appui technique
+gratuit en fonction des spécificités de chaque régions
+et espace rural ;
+_ Faire bénéficier l'habitat rural de financements mobilisés
+dans le cadre du Fonds de solidarité habitat et intégration
+urbaine et le Fonds du développement de l'espace rural
+et des zones montagneuses ;
+- Mobiliser pour l'habitat rural des financements dans le
+cadre de la coopération internationale notamment le
+Fonds d'Adaptation et le Fonds Vert pour le Climat ;
+7 - Adopter une gouvernance territoriale responsable et
+cohérente en matière d'habitat rural
+- Veiller au respect de l'autorité de la loi consacrée par
+la Constitution, les lois organiques des collectivités
+territoriales et les textes juridiques existant régissant le
+domaine de l'habitat rural ;
+- Rendre effectif le principe de la reddition des comptes
+en réponse aux dysfonctionnements liés aux documents
+d'urbanisme et prévoir des voies de recours en diffusant
+largement l'information et en la rendant accessible aux
+citoyennes et citoyens ;
+- Répartir les rôles de façon précise entres tous les acteurs
+au niveau central et territorial dans un souci de cohérence
+de complémentarité tout en assurant plus d'efficacité
+et d'efficience des actions et programmes relatifs à la
+promotion de l'habitat rural ;
+- Renforcer l'assistance technique et juridique au sein
+des agences urbaines, qui doivent être transformées
+en agences d'urbanisme, au profit des milieux ruraux
+en créant un service dédié à l'habitat rural dans
+l'organigramme fonctionnel de ces établissements ;
+1608 | BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+€ te
+- Lutter contre les actes ou pratiques d'infractions assimilées
+à la corruption, l'abus du pouvoir, le clientélisme, le
+népotisme et le manque de recours, notamment dans le
+domaine de l'habitat rural ;
+- Concrétiser les dispositions relatives aux instances
+de concertation prévues par les lois organiques des
+collectivités territoriales et renforcer leur rôle en tant que
+force de proposition dans la conception, l'élaboration,
+la mise en œuvre et le réajustement des actions dédiées
+à l'habitat rural ;
+- Mettre en place des mesures contraignantes pour protéger
+les terres agricoles à forte production tout en assurant
+une gestion responsable du patrimoine foncier destiné
+à l'habitat en milieu rural et dans les zones préurbaines.
+8 - élaborer une stratégie concertée, intégrée et
+territorialisée de développement des centres ruraux émergents
+- Arrêter une définition consensuelle de ces centres ruraux
+émergents/ centres urbains avec des critères précis
+d'indentification et de classification ;
+- Mettre en place des outils de planification notamment les
+schémas d'orientation de l'urbanisation, comme mesure
+transitoire en attendant la couverture des centres ruraux
+par des documents d'urbanisme adaptés ;
+- Mettre à niveau les centres ruraux qui se sont développés
+sans plans d'aménagement afin d'améliorer le cadre de
+vie des populations notamment l'assainissement et la
+#
+mise en place des stations d'épuration ;
+- Faire bénéficier les centres ruraux émergents d'un
+statut intermédiaire lui permettant de disposer de tous
+les services de proximité pour satisfaire les besoins
+de ménages ruraux et par conséquent en faire une
+locomotive de développement économique et social de
+leur microrégion ou localité.
+9 - Faire des relations ville-campagne une opportunité
+pour créer les conditions les plus propices à un développement
+économique et social favorable aussi bien pour le rural que Purbain
+- Instaurer dans le cadre d'une vision régionale, un certain
+équilibre entre la ville et la campagne dans le processus
+du développement en vue de cerner l'extension urbaine
+et l'affectation équilibrée entre l'espace bâti (centres
+urbains et ruraux } et le non bâti ( terres à usage pour
+l'agriculture urbaine, les forêts urbaines ou usage
+agricole..), en assurant de manière plus forte les moyens
+de connexion nécessaires ( routes, train, tramway...) ;
+- élaborer des schémas d'armatures rurales en vue de
+restructurer l'espace rural et d'assurer l'articulation
+entre les villes, les centres ruraux et urbains ;
+- Accompagner l'urbanisme des petites villes par la mise
+en place des équipements marchands, des actions de
+l'économie sociale et solidaire autour de l'artisanat, du
+tourisme et des activités reliées à l'agriculture.
+10 - Protéger l'habitat rural contre les menaces
+environnementales et les catastrophes naturelles
+- Renforcer les moyens de lutte contre la dégradation
+de l'environnement et rendre effectif l'application des
+mesures existantes afin de protéger l'habitat rural :
++ Intégrer dans les politiques publiques les risques
+des catastrophes naturelles (les inondations, Îles
+crues, les sècheresses, la neige, les vagues de
+chaleur, l'ensablement, séismes, etc), qui touchent
+les logements ruraux particulièrement ceux des zones
+montagneuses et oasiennes ;
++ Renforcer le contrôleet l'application des dispositions
+législatives en vigueur pour interdire les constructions
+dans les zones à risques notamment les lits des
+rivières ou des oueds et dans Îles zones exposées à
+une forte érosion ;
+«  Prendreen considération, pour certaines régions, lors
+de la construction en milieu rural la «réglementation
+antisismique spécifique aux constructions en terre»
+(RPCT) en vue d'assurer la sécurité des bâtiments
+traditionnels ou modernes construits en terre et
+les protéger contre les tremblements de terre et
+l'effondrement ;
+* Faire bénéficier davantage l'habitat rural exposé
+aux risques des catastrophes naturelles du Fonds
+de lutte contre les effets des catastrophes naturelles
+(FLCN) institué par la loi de finances n°40-08 pour
+l'année budgétaire 2009, tel qu'elle a été modifiée et
+complétée.
+- Appliquer les mesures interdisant les pratiques qui nuisent
+à l'environnement et contribuent à la détérioration des
+habitats en milieu rural :
+« Encourager le mode de construction en matériaux
+locaux en utilisant des pratiques écologiques autour
+des maisons (plantation de cactus, d'arbres, .…)
+pour faire face aux aléas climatiques, en exigeant
+des fondations/maçonneries lors de la construction
+des maisons rurales pour éviter l'infiltration de l'eau
+et la pénétration des eaux usées et par conséquent
+l'effondrement de l'habitat ;
+«+ Activer le Programme national d'assainissement
+rural (PNAR) pour rattraper le retard en matière
+d'assainissement et d'épuration des eaux usées en
+milieu rural qui pose un sérieux problème notamment
+pour les centres émergents, les ksour et kasbah ;
++ Développer de nouvelles approches et mécanismes
+de gestion innovante en matière de valorisation
+énergétique durable des déchets ménagers et assimilés
+déversés dans des décharges anarchiques (transition
+vers une économie circulaire dans le secteur de la
+gestion des déchets) afin de réduire les impacts de
+ces déchets tant sur le plan économique que social
+et sur la santé et l'environnement ainsi que sur les
+habitations ruraux ;
++ Valoriser les déchets organiques en amont de
+l'agriculture en faveur du développement économique
+de l'habitat rural ;
++ Encourager l'usage des matériaux locaux dans
+toute nouvelle construction à caractère privé
+comme public ayant vocation à accueillir le public
+(mosquées, bâtiments administratifs, hébergements
+touristiques,.…).
+11 - Faire de la formation, de la recherche et de Pinnovation
+un levier de promotion et de valorisation du patrimoine
+architectural et naturel de l'habitat rural :
+- Impliquer les établissements de l'enseignement supérieur
+et de la recherche (IAV Hassan I, ENA Meknès, INAU,
+Ecole nationale d'architecture (ENA) de Rabat et les
+facultés notamment les départements de géographie et
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1609
+on |
+de sociologie, ..) dans les programmes de recherches et
+de l'innovation dans le domaine de habitat rural, en les
+dotant des moyens financiers et humains substantiels ;
+- Intégrer des formations spécialisées sur Phabitat rural
+dans les cursus de formation à l'ENA d'architecture et
+PINAU ;
+- Intégrer dans les centres /établissements de formation
+professionnelle au niveau territorial, des formations
+ou modules dédiés à l'habitat rural pour renouveler et
+valoriser les métiers et le savoir-faire local ;
+- Prévoir des programmes de renforcement des capacités
+des différents intervenants dans le domaine de lhabitat
+rural (responsables administratifs et élus locaux, société
+civile et population } principalement sur les aspects de
+compréhension et de gestion des documents d'urbanisme
+et de modes de construction en milieu rural ainsi qu'en
+matière d'intégration des outils les plus appropriés au
+milieu rural.
+a ————— a —
+
+### AVIS
+
+AVIS AUX IMPORTATEL
+MODIFICATION DE LA LISTE DES
+SUITE A LA REUNION
+DES TRANSITAIRE
+DU 2
+1  Octroi d'agréments aux sociétés non af
+agréées en tant que personnes physiqu
+N° Agrément Raison | RasonSocle
+1657 STE CABINET HANINE
+DE TRANSIT
+1662 WM TRANSPORT SARL Bi:
+1663 MENKARI TRANS
+.  Octroi d'agréments aux sociétés non &
+en tant que personnes habiles:
+Raison Sociale
+1666 CARGO EXPRESS
+1668 LOGWIN
+GROUPE CONSIGNATION
+TRANSIT TRANSPORT
+12 - Mettre en place une stratégie de communication et
+d'information autour de l'habitat rural pour accompagner la
+population et les acteurs concernés
+Cette stratégie de communication doit :
+- Etre conçue et élaborée avec la participation de tous les
+acteurs à l'échelle centrale, régionale et locale (Ministère
+de l'Aménagement du Territoire, de Urbanisme, de
+l'Habitat et de la Politique de la Ville, régions, provinces
+et communes, agences urbaines, ENA d'architecture,
+société civile et médias) ;
+- Favoriser le développement des activités visant les
+acteurs concernés et la population rurale, avec un budget
+dédié et des objectifs et indicateurs d'impact clairs et
+mesurables ;
+- Comprendre parmi ses axes la production des supports
+numériques, des fiches et documents sur habitat rural
+en tant que patrimoine matériel et immatériel, des sites
+web dédiés, des émissions télévisées spécialisées, des
+formations, des campagnes de sensibilisation portant
+sur la valorisation du patrimoine architectural et
+culturel des espaces ruraux et sur l'utilisation des
+matériaux locaux biosourcés dans la réhabilitation et
+la construction des habitats ruraux.
+ie ———_————————————————
+JRS ET AUX EXPORTATEURS
+ TRANSITAIRES AGREES EN DOUANE
+DU COMITE CONSULTATIF
+S AGREES EN DOUANE
+0/03/2019
+réées proposant des personnes habiles déjà
+es :
+Personne Habile
+ANINE LHOUSSAINE
+=LLAOU) MERIEM
+BOULFADL MOHAMED NAJIB
+JUCHANE ABDERRAZAK
+gréées proposant des personnes déjà agréées
+Personne Habile
+TTAR LAHBIB
+AOUTAABID ABDELILLAH
+OUDIALE YOUSSEF
+BNOU -ENADRE NAIMA
+'ACOUBI AYOUB
+(ASRAOUI AHMED
+1610 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+FT
+NEW CLEARANCE
+MESSAOUDI TAOUFIK
+1671 AGENCY « NCA »
+1672 FAST CARGO TRANSIT  |BRAHIMI ABDELAZIZ
+1673 CASA HORIZON ZAOUIT JAMILA
+1674 CBS LOGISTICA MOHAMED SLAOUI
+MAGHREB FREIGHT
+1675 SYSTEMS LARIANI AOMAR
+TRANSPORT TRANSIT
+1676 ROUTIER AERIE CHEFFI MOHAMMED
+MARITIME « TTRAM »
+IN. Octroi d'agréments de personnes habiles pour des sociétés agréée
+' des personnes habiles déjà agréées en tant que personnes habiles:
+CHARBONNIERE ET
+TRANSIT MARITIME
+TERRESTRE ET AERIEN
+1579 MAIL & TRANSPORT
+INTERNATIONAL MAROC
+Personne
+JALOULI FATIHA
+MEKKI BERRADA MOHAMED
+DOUIEB MOHAMED KARIM
+ARAMEX INTERNATIONAL
+LAHLOU LARBI
+IV.  Octroi d'agrément de personne habile aux sociétés agréées propo
+habiles déjà agréées en tant que personnes physiques :
+Persor
+Raison Sociale
+N° agrément
+TRANSPORTS MAROCAINS | ZAHRA IHANNACH
+STE MARITIME AGADIR
+ZOUZHI AHMED
+FARHAN MOHAMED
+ss proposant
+ Habile
+ALI
+sant des personnes
+ne Habite
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1611
+LS RE
+Goo 0
+> _— ns
+V.  Octroi d'agréments
+N° Agrément
+GEODIS \
+[TST)
+VI. Radiations d'agrém
+et IV:
+VI.1 Radiation d'agi
+N° Agrément
+VI.2 Radiation d'ag
+ELLE EL
+aux sociétés agréées demandant le changement de dénominations :
+Nouvelle raison sociale
+GEODIS FF MAROC
+aison Sociale
+NILSON MAROC
+T.S.T TRANSIT SERVICES TRANSPORT
+ents consécutifs aux octrois d'agréments visés aux 1, ll, HI
+-6éments de personnes physiques :
+Nom et Prénom
+HANINE LHOUSSAINE
+pomme
+réments de personnes habiles :
+om et prénom Raison Sociale
+AHBIB BADNASS
+ABID ABDELILLAH MORY ET CIE MAROC
+LE YOUSSEF DACHSER MOROCCO
+ AOMAR FATH AL KHOULOUD EXPRESS SERVICE
+BERRADA MOHAMED
+SOCIETE TRANSPORT ALI « SOTRAL»
+ENADRE NAIMA PROLOGISTIC SARL
+31 AYOUB OMEGA NORD TRANSIT
+)UI AHMED
+1612 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+VII.  Radiations d'agréme
+N° Agrément
+VIH.  Radiations d'agréme
+IX. Radiations d'agréme
+N° Agrément
+LI
+ES
+sun
+OHAMED KARIM
+ARBI TRINMAR
+nts de personnes morales suite à une renonciation :
+Raison Sociale
+SOCIETE TRANSPORT ALI « SOTRAL»
+GROUPE MESSAOUDI DE TRANSIT
+nt de personne habile suite au décès :
+STE MARITIME AGADIR
+TRANSIT SAGE CONSEIL
+nts suite à la non réalisation de 50 DUM :
+Raison Sociale
+BENZAKOUR MOHAMED
+sersonne habile
+HAB EL AZRAK
+OTS MAROC
+LAARACH TRANSIT
+FREIGHT SERVICE INTERNATIONAL
+STE SAFI TRANSIT
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1613
+aOUAT 1440 20-6017)
+X.  Casdisciplinaires :
+Personne Habile ou
+Personne Physique
+JAMILA ZEGGOUD
+KARIA ABDERRAHIM
+ABDELMAUID FHAILY
+NOUREDDINE /
+BADIOUI AHMED
+Le texte en langue arabe a été publié dans l'édition général
+Raison Sociale ou Nom
+et Prénom
+JAMILA ZEGGOUD
+Paiement d'une amende de
+40 000 dhs.
+Retrait provisoire de 4 mois
+et paiement d'une amende
+de 100 000 dhs.
+UNITED LOGISTIC
+Paiement d'une amende de
+30 000 dhs.
+ETOILE TRANSIT
+Paiement d'une amende de
+100 000 dhs.
+e du « Bulletin officiel » n° 6787 du 13 chaoual 1440 (17 juin 2019).
+
+
+---
+
+## Articles
+
+## Article 2
+
+*Article 2*
+
+La sous-section II de la section II du chapitre II du
+titre IV du livre premier de la loi précitée n° 15-95 formant
+code de commerce ainsi que les dispositions du livre [V de la
+même loi sont complétées respectivement par un article 42-I
+et un titre VIII ainsi qu'il suit :
+« Article 42-I1. -Par dérogation aux dispositions du
+«paragraphe 7 de l'article précédent, toute personne physique
+« peut, lorsqu'elle ne dispose pas d'un local pour l'exercice de
+« son activité commerciale ou d'un local de domiciliation de
+« son entreprise, déclarer l'adresse de sa demeure, à moins
+« que la loi n'en dispose autrement.
+« À cette fin, il est présenté lors de la demande
+«d'immatriculation au registre de commerce ou d'inscription
+_« modificative, selon le cas, le certificat de propriété ou le
+« contrat de baïl ou tout autre document attestant l'adresse
+« de la demeure de l'intéressé qui est tenu au respect de ce
+« qui suit :
+« 1. l'activité commerciale ne doit être exercée que par
+« l'intéressé et dans le local déclaré ;
+« 2. l'activité commerciale exercée ne doit pas nécessiter
+« la réception de clients ou de la marchandise.
+« En outre, elle doit, préalablement au dépôt de la
+«demande d'immatriculation au registre de commerce, aviser
+« par écrit, le propriétaire du local, de son intention d'établir
+« son entreprise dans sa demeure, sans préjudice des
+« dispositions fiscales en vigueur, ladite déclaration n'entraîne
+« ni changement d'affectation de l'immeuble, ni application
+« de la législation relative aux baux d'immeubles à usage
+«commercial, industriel ou artisanal. »
+& TITRE VIII
+« LA DOMICILIATION
+« Article 544-I., —- La domiciliation de l'entreprise
+« est le contrat par lequel une personne physique ou morale,
+« dénommée domiciliataire, met le siège de son entreprise ou
+«son siège social à la disposition d'une autre personne physique
+« ou morale, dénommée domiciliée pour y établir le siège de
+«son entreprise ou son siège social, selon le cas.
+« Article 544-2, - Le contrat de domiciliation est établi
+« pour une durée déterminée renouvelable et selon un modèle
+« fixé par voie réglementaire. »
+« Article 544-3. - Toute personne physique ou morale
+« ou toute succursale ou agence peut établir le siège de son
+«entreprise ou le siège social dans des locaux qu'elle occupe
+«en commun avec une ou plusieurs entreprises. Elle présente
+« à l'appui de sa demande d'immatriculation au registre du
+«commerce ou d'inscription modificative relative au transfert
+« de son siège, selon le cas, le contrat de domiciliation conclu à
+« cet effet avec le propriétaire ou le titulaire du bail de ces
+«locaux.
+« Toutefois, les sociétés et leurs filiales qui installent leurs
+« sièges dans le même local dont l'une est propriétaire ne sont
+«pas tenues de conclure entre elles un contrat de domiciliation.
+« Elles présentent à l'appui de la demande d'immatriculation
+«au registre de commerce ou d'inscription modificative relative
+«au transfert de siège, l'accord écrit de la société propriétaire.
+« Article 544-4. - Tout domiciliataire est tenu des
+« obligations suivantes :
+« 1. mettre à la disposition de la personne domiciliée des
+«locaux équipés de moyens de communication et dotés d'une
+« salle permettant la tenue des réunions, ainsi que des locaux
+« déstinés à la tenue, la conservation et la consultation des
+« registres et documents prévus par les textes législatifs et
+« réglementaires en vigueur ;
+« 2. s'assurer de l'identité de la personne domiciliée,
+« en exigeant une copie de la pièce d'identité de la personne
+« physique domiciliée ou un extrait d'immatriculation au
+« registre du commerce ou tous autres documents remis par
+« l'autorité administrative compétente permettant d'identifier
+« la personne domiciliée ;
+« 3. conserver et s'engager à maintenir à jour la
+« documentation afférente à l'activité de l'entreprise ;
+« 4. conserver les documents servant à l'identification
+« de la personne domiciliée pendant une durée d'au moins cinq
+«ans après la fin des relations de domiciliation ;
+«5. tenir, pour chaque personne domiciliée, un dossier
+« contenant les pièces justificatives relatives, s'agissant des
+« personnes physiques, à leurs domiciles personnels, leurs
+«coordonnées téléphoniques, leurs numéros de cartes d'identité
+«et leur adresse électronique, s'agissant des personnes morales,
+« à leurs domiciles, les coordonnées téléphoniques et les
+« numéros des cartes d'identité et les adresses électroniques
+« des dirigeants. Ce dossier contient également les justificatifs
+«relatifs à chacun des lieux d'activité des entreprises domiciliées
+« et au lieu de conservation des documents comptables
+« lorsqu'ils ne sont pas conservés chez le domiciliataire ;
+« 6. s'assurer que le domicilié a été immatriculé au
+«registre de commerce dans les trois mois suivant la conclusion
+« du contrat de domiciliation lorsque ladite immatriculation
+«est exigée par les textes législatifs et réglementaires en vigueur ;
+« 7. fournir avant le 31 janvier de chaque année aux
+« services des impôts, à la Trésorerie générale du Royaume et
+« à l'administration des douanes, le cas échéant, une liste des
+« personnes domiciliées au titre de l'année précédente ;
+« 8. informer les services des impôts, la Trésorerie
+« générale du Royaume et l'administration des douanes, le cas
+« échéant, dans un délai n'excédant pas quinze jours de la date
+« de réception des plis recommandés adressés par les services
+«fiscaux qui n'auront pas pu être remis aux personnes domiciliées ;
+« 9. informer le greffier du tribunal compétent, les
+« services des impôts, la Trésorerie générale du Royaume et
+« l'administration des douanes le cas échéant, de l'expiration
+« du contrat de domiciliation ou de la résiliation anticipée de
+« celui-ci, et ce dans un délai d'un mois à compter de la
+« cessation du contrat ;
+« 10. communiquer aux huissiers de justice et aux
+«services de recouvrement des créances publiques, munis d'un
+1474 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+« titre exécutoire, les renseignements susceptibles de leur
+« permettre de joindre la personne domiciliée ;
+« 11. veiller au respect de la confidentialité des
+«informations et données relatives au domicilié.
+« En cas de non-respect des obligations fixées aux
+«paragraphes 5, 6, 7, 8 et 9 du présent article et sans préjudice
+«des dispositions de l'article 544-11 ci-dessous, le domiciliataire
+«est tenu solidairement responsable du paiement des impôts et
+«taxes dus en raison de l'activité exercée par le domicilié.
+« Article 544-5, - Est interdite la domiciliation des
+«sociétés disposant d'un siège social au Maroc. IT est également
+« interdit à toute personne physique ou morale d'établir son
+« siège dans plus d'un lieu de domiciliation.
+« Article 544-6.- Tout domicilié est tenu des obligations
+« suivantes :
+« 1. s'agissant d'une personne physique, déclarer auprès
+« du domiciliataire tout changement relatif à son adresse
+« personnelle et son activité, et s'il s'agit d'une personne
+« morale, tout changement relatif à sa forme juridique, à sa
+« dénomination, et à son objet social, ainsi qu'aux noms et
+« domiciles des dirigeants et des personnes ayant reçu
+« délégation en vue d'engager la personne domiciliée vis-à-vis
+« du domiciliataire, et de lui remettre les documents y afférents ;
+« 2. remettre au domiciliataire tous les registres et
+« documents prescrits par les textes législatifs et règlementaires
+«en vigueur, nécessaires à l'exécution de ses obligations ;
+« 3. informer le domiciliataire de tout litige éventuel ou
+« de tout procès auquel le domicilié est partie concernant son
+«activité commerciale ;
+« 4. informer le greffier du tribunal compétent, les
+« services des impôts, la Trésorerie générale du Royaume et
+«l'administration des douanes le cas échéant, de la cessation
+« de la domiciliation, et ce dans un délai d'un mois à compter
+« de la date d'expiration du contrat ou résiliation anticipée
+« de celui-ci ;
+« 5. donner mandat au domiciliataire, qui l'accepte, de
+«recevoir en son nom toutes notifications ;
+«6. indiquer sa qualité de domicilié chez un domiciliataire
+« dans toutes ses factures, lettres, bons de commande, tarifs,
+« prospectus et autres papiers de commerce destinés aux tiers.
+« Article 544-7, - Toute personne physique ou morale
+« désirant exercer une activité de domiciliation est tenue, avant
+« de démarrer cette activité, d'effectuer une déclaration contre
+« récépissé auprès de l'administration compétente.
+« Sont fixés par voie réglementaire le contenu de ladite
+« déclaration et les documents devant y être joints.
+« II est interdit d'inscrire le domiciliataire, en cette
+« qualité, au registre de commerce s'il n'a pas effectué ladite
+« déclaration.
+« Le domiciliataire présente à l'appui de sa demande
+« d'immatriculation ou d'inscription modificative au registre
+« du commerce, le récépissé mentionné au premier alinéa
+« ci-dessus et les documents nécessaires à l'application des
+« dispositions de l'article 544-8 ci-après.
+« Article 544-8. — Pour l'exercice de l'activité de
+« domiciliation, le domiciliataire doit remplir les conditions
+« suivantes :
+«a) justifier de la propriété des locaux mis à la disposition
+« de la personne domiciliée ou disposer du baïl commercial de
+«ces locaux. Ces locaux ne doivent pas faire l'objet d'une saisie.
+&« Si lesdits locaux font l'objet d'un nantissement, il doit être
+« mentionné dans le contrat de domiciliation ;
+«b) être en situation régulière vis-à-vis de administration
+« des impôts ;
+&« c) n'avoir pas fait l'objet d'une décision définitive
+« prononçant à son encontre la déchéance commerciale ou
+«d'une condamnation depuis moins de cinq ans qui précèdent
+« la date de la déclaration prévue à l'article 544-7 précédent
+« pour l'un des crimes ou délits suivants :
+« 1. les crimes ou délits prévus par les articles de 334 à
+« 391 et de 505 à 574 du code pénal ;
+« 2. les actes de terrorisme tels que définis par le chapitre l* bis
+«du titre 1° du livre III du code pénal ;
+&« 3. le blanchiment de capitaux tel que défini par la
+«section VI bis du chapitre IX du titre I du livre IIT du code
+« pénal ;
+« 4, l'une des infractions prévues aux articles de 721 à
+« 724 de la présente loi ;
+«5. les infractions à la réglementation des changes ;
+« 6. les infractions fiscales prévues par l'article 192 du
+«code général des impôts et les délits de première et deuxième
+«classes et les contraventions de première classe prévus par le
+« code des douanes et impôts indirects ;
+«d) n'avoir pas fait l'objet d'une condamnation prononcée
+« par une juridiction étrangère et ayant acquis la force de la
+«chose jugée pour l'un des crimes ou délits ci-dessus énumérés.
+« Article 544-9.—Estpunied'uneamende de dix mille (10.000)
+«à vingt mille (20.000) dirhams, toute personne physique ou
+«morale, qui exerce l'activité de domiciliation sans en avoir fait
+«la déclaration à l'administration compétente prévue à l'article
+« 544-7 ci-dessus.
+« Article 544-10.-Est puni d'une amende de cinq mille (5.000)
+« à dix mille (10.000) dirhams, le domicilié qui enfreint les
+« dispositions de l'article 544-6 ci-dessus.
+« Article 544-11. - Est puni d'une amende de dix mille
+« (10.000) à vingt mille (20.000) dirhams, tout domiciliataire
+« qui enfreint les dispositions des articles 544-4 et 544-8
+« ci-dessus. Est puni des mêmes peines quiconque enfreint
+«les dispositions de l'article 42-1 de la présente loi. »
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI), `15-95` (LOI)
+
+*Citations :*
+
+- `l'article 544-11` → Dahir n° 1-18-110 [✓]
+- `l'article 544-8` → Dahir n° 1-18-110 [✓]
+- `l'article 544-7` → Dahir n° 1-18-110 [✓]
+- `l'article 192` → Dahir n° 1-18-110 [✓]
+- `l'article 544-6` → Dahir n° 1-18-110 [✓]
+- `articles 544-4 et 544-8` → Dahir n° 1-18-110 [✓]
+- `l'article 42-1` → Dahir n° 1-18-110 [✓]
+
+*Dates :* 16 chaoual 1440
+
+
+## Article 3
+
+*Article 3*
+
+Voir la version arabe de l'article 3 de la loi n° 89-17
+publiée à l'édition générale du « Bulletin officiel » n° 6745 du
+14 joumada I 1440 (21 janvier 2019).
+
+*Entités :* `loi n° 89-17` (LOI), `Bulletin officiel » n° 6745` (BULLETIN_OFFICIEL), `14 joumada I 1440` (DATE_HIJRI), `21 janvier 2019` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `l'article 3` → loi n° 89-17 [✓]
+
+*Dates :* 14 joumada I 1440, 21 janvier 2019
+
+
+## Article 4
+
+*Article 4*
+
+Les personnes morales et physiques exerçant l'activité
+de domiciliation disposent d'un délai d'un an à compter de
+la publication au Bulletin officiel des textes réglementaires
+prévus au titre VIII du livre IV de la loi n° 15-95 formant code
+de commerce, pour régulariser leur situation conformément
+aux dispositions du titre VIII précité.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6745 du 14 joumada I 1440 (21 janvier 2019).
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1475
+
+*Entités :* `loi n° 15-95` (LOI), `Bulletin officiel » n° 6745` (BULLETIN_OFFICIEL), `14 joumada I 1440` (DATE_HIJRI), `21 janvier 2019` (DATE_GREGORIAN), `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 14 joumada I 1440, 21 janvier 2019, 16 chaoual 1440
+
+
+## Article unique
+
+*Article unique*
+
+Les dispositions de l'article 7 de la loi n° 89-15 relative
+au Conseil consultatif de la jeunesse et de l'action associative,
+promulguée par le dahir n° 1-17-112 du 14 rabii II 1439
+(2 janvier 2018) sont modifiées ainsi qu'il suit :
+CELEEELEEEETETEEEEEEEEEEEEEEEEEEEZE EEE EEE EEE
+« Les membres du conseil
+«politiques.
+« La qualité de membre du Conseil est incompatible
+« avec la qualité de membre du gouvernement, du Conseil
+« économique, social et environnemental, ou de l'une des
+« instances et institutions constitutionnelles prévues aux
+«articles 161 à 170 du titre XII de la Constitution.»
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6758 du 29 joumada II 1440 (7 mars 2019).
+
+*Entités :* `loi n° 89-15 relative
+au Conseil consultatif de la jeunesse et de l'action associative,` (LOI), `dahir n° 1-17-112` (DAHIR), `14 rabii II 1439` (DATE_HIJRI), `2 janvier 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6758` (BULLETIN_OFFICIEL), `29 joumada II 1440` (DATE_HIJRI), `7 mars 2019` (DATE_GREGORIAN), `loi n° 89-15 relative
+au Conseil consultatif de la jeunesse et de l'action` (LOI), `loi n° 89-15 relative
+au Conseil consultatif de la jeunesse` (LOI)
+
+*Citations :*
+
+- `l'article 7` → dahir n° 1-17-112 [✓]
+- `articles 161 à 170` → Bulletin officiel » n° 6758 [✓]
+
+*Organisations :* Conseil
+
+*Dates :* 14 rabii II 1439, 2 janvier 2018, 29 joumada II 1440, 7 mars 2019
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+Les dispositions de l'article 9 du
+décret susvisé n°2-08-65 du 25 joumada [ 1430 (21 mai 2009)
+« Article 9. - En application du premier alinéa...
+CLELELE ELLES)
+sont complétées comme suit :
+« des diplômes nationaux suivants :
+«— le diplôme du Groupe Institut supérieur
+« master) :
+«le diplôme du Groupe Institut supérieur de commerce
+«et d'administration des entreprises (grade master) dure
+« ou en gestion après le baccalauréat ;
+« La préparation dudit diplôme peut durer quatre
+« semestres après le diplôme de licence en gestion, la
+«licence d'études fondamentales en sciences économiques ou
+« en gestion, la licence professionnelle en sciences
+« économiques ou en gestion ou diplôme équivalent.
+«— le diplôme de master en gestion : »
+(Le reste sans changement)
+
+*Entités :* `21 mai 2009` (DATE_GREGORIAN), `2-08-65` (DECRET)
+
+*Citations :*
+
+- `l'article 9` → décret n°2-18-780 [✓]
+
+*Organisations :* Groupe Institut, Groupe Institut supérieur de commerce
+
+*Dates :* 21 mai 2009
+
+
+## Article 2
+
+*ART. 2. —*
+
+Le ministre de l'industrie, de l'investissement,
+du commerce et de l'économie numérique, le ministre de
+l'économie et des finances et le ministre de l'éducation
+nationale, de la formation professionnelle, de l'enseignement
+supérieur et de la recherche scientifique, sont chargés, chacun
+en ce qui le concerne, de l'exécution du présent décret qui sera
+publié au Bulletin officiel.
+1476 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Fait à Rabat, le 18 joumada I 1440 (25 janvier 2019).
+SAAD DINE EL OTMANI.
+Pour contreseing :
+Le ministre de l'industrie,
+de l'investissement,
+du commerce et de l'économie
+numérique,
+MLY HAFID ELALAMY
+Le ministre de l'économie
+et des finances,
+MOHAMED BENCHAABOUN.
+Le ministre
+de l'éducation nationale,
+de la formation professionnelle,
+de l'enseignement supérieur
+et de la recherche scientifique.
+SAAID AMZAZI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6751 du 5 joumada IT 1440 (11 février 2019).
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI), `18 joumada I 1440` (DATE_HIJRI), `25 janvier 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6751` (BULLETIN_OFFICIEL), `11 février 2019` (DATE_GREGORIAN)
+
+*Dates :* 16 chaoual 1440, 18 joumada I 1440, 25 janvier 2019, 11 février 2019
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+Est approuvée, telle qu'elle est
+annexée à l'original du présent décret, la convention conclue le
+27 avril 2018 entre le Royaume du Maroc et le Fonds saoudien
+pour le développement, pour la garantie du prêt portant sur
+un montant de 375.000.000 de riyals saoudiens consenti
+par ledit Fonds à l'Office national de l'électricité et de l'eau
+potable, en vue de la participation au financement du projet
+de l'alimentation de quatre régions en eau potable.
+
+*Entités :* `27 avril 2018` (DATE_GREGORIAN)
+
+*Organisations :* Fonds saoudien, Fonds, Office national de l'électricité et de l'eau
+
+*Dates :* 27 avril 2018
+
+
+## Article 2
+
+*ART. 2. -*
+
+Le ministre de l'économie et des finances est
+chargé de l'exécution du présent décret qui sera publié au
+Bulletin officiel.
+Fait à Rabat, le 6 chaoual 1440 (10 juin 2019).
+SAAD DINE EL OTMANI.
+Pour contreseing :
+Le ministre de l'économie
+et des finances,
+MOHAMED BENCHAABOUN.
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `6 chaoual 1440` (DATE_HIJRI), `10 juin 2019` (DATE_GREGORIAN)
+
+*Dates :* 6 chaoual 1440, 10 juin 2019
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+Est approuvé, tel qu'il est annexé
+à l'original du présent décret, l'accord de prêt n° 8954-MA
+d'un montant de quarante-huit millions deux cent mille euros
+(48.200.000,00 euros), conclu le 29 mai 2019, entre le Royaume
+du Maroc et la Banque internationale pour la reconstruction
+et le développement, concernant le Projet soutenir l'inclusion
+économique des jeunes.
+
+*Entités :* `48.200.000,00 euros` (MONEY), `29 mai 2019` (DATE_GREGORIAN)
+
+*Organisations :* Banque internationale pour la reconstruction
+et le développement
+
+*Dates :* 29 mai 2019
+
+
+## Article 2
+
+*ART. 2. -*
+
+Le ministre de l'économie et des finances est
+chargé de l'exécution du présent décret qui sera publié au
+Bulletin officiel.
+Fait à Rabat, le 9 chaoual 1440 (13 juin 2019).
+SAAD DINE EL OTMANI.
+Pour contreseing :
+Le ministre de l'économie
+et des finances,
+MOHAMED BENCHAABOUN.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1477
+9 PT
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `9 chaoual 1440` (DATE_HIJRI), `13 juin 2019` (DATE_GREGORIAN), `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 9 chaoual 1440, 13 juin 2019, 16 chaoual 1440
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. -*
+
+Les dispositions des articles 6 et 9 de l'arrêté conjoint susvisé n° 3074-14 du 12 kaada
+1435 (8 septembre 2014) sont modifiées ainsi qu'il suit :
+« Article. 6 — La subvention à TAUX eds ssusss senc ceseeeeeeseeserrerseseseeneneessesessenesereesesss
+none sa nn ns nn en nn nn nn nn nn nn seen nn mens eee nus nes nn mens sonne sms es rennes ensenmrnsenrenmesessesree
+nn nn ne ea np sens nas encens sn nre con e sr ennnerereress
+«Tableau VI
+«Taux et plafonds de la subvention à taux préférentiels pour l'acquisition du matériel agricole
+«(Première tranche)
+«I - Gros matériel
+«1-1 Tracteurs
+Taux de
+subvention Plafond de
+Tracteurs/ par tranche de puissance subvention Nombre d'unités éligibles à la
+effective du moteur ( (% du coût (en dirhams subvention
+© par unité)
+d'acquisition)
+Tracteurs à 2 roues motrices :
+- inférieur à 50 CV
+- 1 unité pour une superficie inférieure
+à5ha.
+- de 50 à moins de 70 CV - 2 unités pour une superficie de 5 Ha à
+moins de 10 ha.
+- 70 CV et plus - 3 unités pour une superficie de 10 Ha
+à moins de 20 ha.
+Tracteurs à 4 roues motrices : - 4 unités pour une superficie de 20 ha
+- Inférieur à 50 CV à moins de 50 ha.
+- 5 unités pour une superficie de 50 Ha
+- De 50 à moins de 70 CV à 100 ha.
+- Au-delà de 100 Ha : 1 unité pour
+- 70 CV et plus chaque 100 ha supplémentaires,
+(® La puissance effective du moteur exprimée en CV est celle fixée dans le procès-verbal d'homologation
+des tracteurs portant titre d'homologation par type ou à titre isolé et délivré par les services compétents,
+conformément à la réglementation en vigueur. Dans le cas où la puissance du moteur est exprimé en KW, le
+taux de conversion applicable est le suivant 1kw=1,3596 CV.
+1478 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+«E-2 Matériel d'accompagnement
+«a - Matériel tracté de travail et d'entretien
+Type de matériels
+Charrue fixe à disque ou à soc:
+- moins de 3 disques ou socs
+- 3 disques ou socs et plus
+Charrue réversible à disque ou à soc :
+- moins de 3 disques ou socs
+- 3 disques ou socs et plus
+Cultivateurs légers, herses classiques, vibroculteur
+Culti-rateau mécanique pour maraichage,
+Cultivateurs lourds de type culti-chisel, chisel ou
+tout autre matériel similaire :
+- moins de 8 dents
+- 8 dents et plus
+Déchaumeur à disques et à dents et à rouleau
+Rouleaux :
+- largeur inférieure ou égale à 3 mètres
+- largeur supérieure à 3 mètres
+Bineuses :
+- à 3 rangs et moins
+- 4 ou 5 rangs
+- 6 rangs et plus
+Billonneur :
+- moins de 4 disques ou 4 socs
+- 4 disques ou 4 socs et plus
+Stuble plow de plus de 10 disques d'un diamètre
+supérieur ou égal à 660 mm.
+Décompacteurs (Sous-soleurs):
+- léger (45-60 cm)
+- lourd (plus de 60 cm)
+«b- Matériel de travail et d'entretien du sol
+Type de matériels
+Girobroyeur
+Broyeurs agricoles pour débris végétaux
+Matériel de type : Herse rotative, Fraise rotative,
+rotavator, cultivateur rotatif, culti rateau hydraulic
+du sol
+Taux de Plafond de
+subvention subvention | Nombre d'unités éligibles à
+(% du coût (en dirhams la subvention
+d'acquisition) | Par unité)
+2 unités différentes par
+tracteur
+3 unités différentes par
+30 11.000 tracteur
+14.000
+10.000 ”
+14.000 1 unité par tracteur
+1 unité par tracteur
+30 6.000 1 unité par tracteur
+9.000
+1 unité par tracteur
+animé par tracteur
+Taux de Plafond de
+subvention subvention | Nombre d'unités éligibles à
+(% du coût (en dirhams la subvention
+d'acquisition) | par unité)
+1 unité par tracteur
+1 unité par tracteur
+3 unités différentes par
+que tracteur
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1479
+Matériel d'entretien mécanique du sol sur lignes de
+plantation (type interceps)
+Broyeur stationnaire de palmes de palmier dattier
+pour la production de compost
+Lame niveleuse hydraulique
+«1-3 : Semoirs et épandeurs
+«a - Matériel de semis
+Taux de
+subvention
+(% du coût
+d'acquisition)
+Type de Matériels
+Semoir en ligne simple d'une largeur de travail :
+- de moins de 2,90 m
+- de 2,90 m à 3,90 m
+- supérieur à 3,90 m
+Semoir en ligne combiné de largeur de travail :
+- de moins de 2,90 m
+- de 2,90 m à 3,90 m
+- supérieur à 3,90 m
+Semoir de précision :
+- à 3 rangs
+- à 4 rangs
+- à 6 rangs et plus
+Semoir direct simple ou combiné d'une largeur de
+travail:
+- inférieure à 2 m
+- de 2 m à moins de 3 m
+- supérieure ou égal à 3 m
+«b - Matériel de plantation
+Taux de
+subvention
+Type de Matériels
+(% du coût
+d'acquisition)
+Planteuse mécanique pour maraichages :
+- de 2 à 3 rangs:
++ trémie de moins de 550 Kg
+«+  trémie de 550 Kg et plus
+- Supérieur ou égale à 4 rangs d'une trémie
+de 1000 Kg et plus
+Ï unité par tracteur
+1 unité par tracteur
+1 unité par tracteur
+Plafond de
+subvention | Nombre d'unités éligibles à
+(en dirhams la subvention
+par unité)
+1 unité par tracteur
+1 unité par tracteur
+50.000 1 unité par tracteur
+90.000
+100.000
+Plafond de
+bvention (en
+dirhams par
+unité)
+Nombre d'unités éligibles à
+la subvention
+1 unité par tracteur
+1480 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Repiqueuse mécanique pour maraichage :
+- alimentation manuelle :
++ _2rangs
+*  3rangs
+° 4 rangs ou plus
+- alimentation automatique ou semi-
+automatique à 4 rangs ou plus
+«c - Matériel d'épandage d'engrais
+Taux de
+subvention
+Type de Matériels
+(% du coût
+d'acquisition)
+Matériel d'apport et dépandage de matières
+minérales :
+- mono-disque
+- double-disques
+Matériel d'apport et d'épandage de matières
+organiques :
+- inférieur ou égale à 5 m°
+- supérieure à 5 m°
+«1-4 : Matériel de traitement
+«a - Matériel de traitement phytosanitaire
+Taux de
+subvention
+Type de Matériels
+(% du coût
+d'acquisition)
+Matériel à jet projeté de type pulvérisateur
+à rampe :
+- portés sur tracteur
+- tractés par tracteur
+Matériel à jet porté de type atomiseur :
+- porté sur tracteur
+- tracté par tracteur
+Poudreuses pour traitement phytosanitaire
+Matériel de désherbage de précision de
+type Ultra Bas Volume (UBV)
+1 unité par tracteur
+Plafond de
+subvention (en
+dirhams par
+unité)
+Nombre d'unités éligibles à la
+subvention
+2.000
+12.000 1 unité par tracteur
+45.000
+55.000 1 unité par tracteur
+Plafond de
+subvention (en
+Dirhams par
+unité )
+Nombre d'unités éligibles à la
+subvention
+2 unités par tracteur
+1 unité par tracteur
+1 unité par tracteur
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1481
+«Ï-5 : Matériel de récolte
+«a - Matériel de moisson
+Type de Matériels
+Moissonneuse batteuse conventionnelle (
+- à moteur d'une puissance de moins de
+100 cv |
+- à moteur d'une puissance de 100 cv et
+plus.
+Moissonneuses batteuse pour la récolte du
+riz équipée de chenille(1)
+(Puissance supérieur à 100 cv)
+Batteuse à poste fixe ou tractée
+Matériel de bottelage
+- Faucheuse à lame
+- Faucheuse à tambours
+- Faucheuse à disques
+- Faucheuse lieuse
+- Râteau faneur à soleil
+- Râteau andaineur à toupies
+( La puissance effective du moteur e
+moissonneuses batteuses portant titre d'hor
+conformément à la réglementation en vigue
+conversion applicable est le suivant 1kw=1,:
+«b - Matériel de récolte
+Type de Matériels
+Récolteuse mécanique de pomme de terre :
+°  àlrang
+° à 2 rangs et plus
+Récolteuse hydraulique de pomme de
+terre :
+°  _àlrang
+° à 2 rangs et plus
+Récolteuse automotrice de la tomate
+Récolteuse pour les autres produits
+maraichers
+Taux de
+subvention
+(% du coût
+d'acquisition)
+Plafond de
+subvention (en
+dirhams par
+unité)
+Nombre d'unités éligibles à la
+subvention
+- 1 unité pour une superficie de 50 ha
+à moins de 200 ha
+- 2 unités pour une superficie de 200
+ha à 400 ha.
+- Au-delà de 400 ha : une
+unité (1) pour chaque 200 ha
+supplémentaires
+200.000
+300.000
+- 1 unité pour une superficie de 20 ha
+à moins de 50 ha
+- 2 unités pour une superficie de 50 ha
+à 100 ha
+- Au-delà de 100 ha : 1 unité pour
+chaque 100 ha supplémentaire.
+21.000 1 unité par tracteur
+40.000 1 unité par tracteur
+2 unités différentes par tracteur
+3.000 w.
+17.000 1 unité par tracteur
+xprimée en CV est celle fixée dans le procès-verbal d'homologation des
+nologation par type ou à titre isolé et délivré par les services compétents,
+ur, Dans le cas où la puissance du moteur est exprimé en KW, le taux de
+30 312.000
+596 CV.
+Taux de Plafond de
+subvention subvention Nombre d'unités éligibles à la
+(% du coût (en dirhams subvention
+d'acquisition) par unité)
+1 unité par tracteur
+35.000
+350.000 1 unité pour une superficie égale ou
+supérieure à 50 ha
+25.000 1 unité par tracteur
+1482 BULLETIN OFFICIEL : N° 6788 — 16 chaoual 1440 (20-6-2019) |
+Récolteuse automotrice de betterave ou de 720.000
+la canne à sucre
+Effeuilleuse décolleteuse de la betterave à 20
+sucre
+Arracheuse andaineuse de la betterave à 30
+sucre
+Ramasseuse chargeuse de la betterave à 30
+sucre
+Vibreur mécanique à pince pour la récolte 30
+des olives
+Enjambeurs pour la récolte des olives
+180.000
+160.000
+480.000
+«Tableau VIT
+«Taux et plafonds de taux préférentiels pour les projets d'équipement
+DR mm mn nn ne ne ne ne nn sn en near ss ere ns ssseraressennsnses
+«sans que le dit montant ne dépasse 14.000 dh par hectare équip
+«Tableau IX
+«Taux et plafonds de la subvention à taux préférentiels pour lac
+«(base de calcul pour la 2°" tranche
+«I - GROS MATERIEL
+«I - 1 Tracteurs
+Taux de sut
+(% duc
+d'acquis
+Tracteurs/par tranche de puissance effective du moteur
+Tracteurs à 2 roues motrices :
+- Inférieur à 50 CV
+- de 50 à moins de 70 CV
+- 70 CV et plus
+Tracteurs à 4 roues motrices :
+- inférieur à 50 CV
+- de 50 à moins de 70 CV
+- 70 CV et plus
+1 unité pour une superficie égale ou
+supérieure à 10 ha
+1 unité par tracteur
+1 unité par tracteur
+1 unité par tracteur
+1 unité pour une superficie égale ou
+supérieure à 10 ha
+- 1 unité pour une superficie de 40 ha
+à 100 ha plantée en olivier
+- au-delà de 100 ha : 1 unité pour
+chaque 100 ha supplémentaires
+plantée en olivier
+en système d'irrigation localisée
+DR nm ne nn ms transe musee srseneses es
+quisition du matériel agricole
+)
+vention
+oût
+tion)
+Plafond de subvention (en
+dirhams par unité)
+80.000
+93.000
+107.000
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1483
+«I1-2-Matériel d'accompagnement
+«a - Matériel tracté de travail et d'entretien du sol
+Type de Matériel
+Charrue fixe à disque ou à soc :
+- moins de 3 disques ou socs
+- 3 disques ou socs et plus
+Charrue réversible à disque ou à soc:
+- moins de 3 disques ou socs
+3 disques ou socs et plus
+Cultivateurs légers, herses classiques, vibroculteurs
+Culti-rateau mécanique pour maraichage
+Cultivateurs lourds de type culti-chisel, chisel ou tout autre
+matériel similaire
+- moins de 8 dents
+8 dents et plus
+Déchaumeur à disques et à dents et à rouleau
+Rouleaux :
+- largeur Inférieure ou égale à 3 m
+largeur supérieure à 3 m
+Bineuses :
+- à 3 rangs et moins
+4 où 5 rangs
+6 rangs et plus
+Billonneur :
+- moins de 4 disques ou 4 socs
+4 disques ou 4 socs et plus
+Stuble plow de plus de 10 disques d'un diamètre supérieur ou
+égal à 660 mm
+Décompacteurs (Sous-soleurs):
+- léger (45-60 cm)
+lourd (plus de 60 cm)
+«b - Matériel de travail et d'entretien du sol animé par tracte
+Type de Matériel
+Girobroyeur
+Broyeurs agricoles pour débris végétaux
+Taux de subvention Plafond de
+(% du coût subvention (en
+d'acquisition) Dirhams par unité)
+40 8.000
+40 13.000
+40 15.000
+19.000
+40 20.000
+40 13.000
+19.000
+40 8.000
+12.000
+40 17.000
+40 15.000
+23.000
+Ur
+Plafond de
+Taux de subvention
+(% du coût
+d'acquisition)
+subvention (en
+dirhams par unité)
+1484 | BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Matériel de types: herse rotative, Fraise rotative, rotavator ,
+cultivateur rotatif, culti rateau hydraulique
+Matériel d'entretien mécanique du sol sur lignes de plantation
+(type interceps)
+Broyeur stationnaire de palmes de palmier dattier pour la
+production de compost
+Lame niveleuse hydraulique
+«1-3 SEMOIRS ET EPANDEURS
+«a - Matériel de semis
+Type de Matériels
+Semoir en ligne simple de largeur de travail :
+- de moins de2,90 m
+- de 2,90 m à 3.90 m
+- supérieure à 3,90 m
+Semoir en ligne combiné d'une largeur de travail :
+- de moins de 2,90 m
+- de 2,90 m à 3,90 m
+- supérieure à 3,90 m
+Semoir de précision :
+- à 3 rangs
+- à 4 rangs
+- à 6 rangs et plus
+Semoir direct simple ou combiné d'une largeur de travail :
+- _inférieureàa 2m
+- _de2m à moins de 3 m
+- supérieure ou égale à 3 m
+«b - Matériel de plantation
+Type de Matériel
+Planteuse mécanique pour maraichages :
+- de 2 à 3 rangs
+. trémie de moins de 550 Kg
++ trémie de 550 Kg et plus
+- supérieur ou égale à 4 rangs d'une trémie de 1000 kg et plus
+Taux de subvention Plafond de
+(% du coût subvention (en
+d'acquisition) Dirhams par unité)
+36.000
+60.000
+108.000
+60.000
+108.000
+120.000
+Taux de subvention Plafond de
+(% du coût subvention {en
+d'acquisition) Dirhams par unité)
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1485
+Repiqueuse mécanique pour maraichage :
+- alimentation manuelle :
+° à 2 rangs
+° à 3 rangs
+° à 4 rangs ou plus
+- alimentation automatique ou semi-automa
+plus
+«c- Matériel d'épandage d'engrais
+Type de Matériels
+Matériel d'apport et d'épandage de matière:
+mono-disque
+double-disques
+Matériel d'apport et d'épandage de matière:
+inférieur ou égal à 5 m°
+supérieur à 5 m
+«1-4 Matériel de traitement :
+«a - Matériel de traitement phytosanita
+Type de Matériels
+Matériel à jet projeté de type Pulvérisateur à
+- portés sur tracteur
+-  tractés par tracteur
+Matériel à jet porté de type atomiseur
+- portés sur tracteur
+-  tractés par tracteur
+Poudreuses pour traitement phytosanitaire
+Matériel de désherbage de précision de type
+Volume (UBV)
+tique à 4 rangs ou
+Plafond de
+subvention (en
+dirhams par unité)
+Taux de subvention
+(% du coût
+d'acquisition)
+; minérales :
+; organiques :
+ire
+Taux de subvention
+(% du coût
+d'acquisition)
+Plafond de subvention (en
+dirhams par unité)
+Ultra Bas
+1486 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+«1-5 Matériel de récolte :
+«a - Matériel de moisson
+Type de Matériels
+Moissonneuse batteuse conventionnelle :
+- à moteur d'une puissance de moins de 100
+cv
+- à moteur d'une puissance de 100 cv et plus
+Moissonneuses batteuse pour la récolte du riz
+équipée de chenille (Puissance supérieure à 100 cv)
+Batteuse à poste fixe ou tracté
+Matériel de bottelage
+- Faucheuse à lame
+- Faucheuse à tambours
+- Faucheuse à disques
+- Faucheuse lieuse
+- Râteau faneurs à soleil
+- Râteau andaineur à toupies
+«b-Matériel de récolte
+Type de Matériels
+Récolteuse mécanique de pomme de terre
+- à lrang
+- à 2 rangs et plus
+Récolteuse hydraulique de pomme de terre
+-à 1rang
+- à 2 rangs et plus
+Récolteuse automotrice de la tomate
+Récolteuse pour les autres produits maraichers
+Taux de subvention
+(% du coût
+d'acquisition)
+30 300.000
+450.000
+Plafond de subvention (en
+dirhams par unité)
+Taux de subvention
+(% du coût
+d'acquisition)
+Plafond de subvention (en
+dirhams par unité)
+: N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1487
+Récolteuse automotrice de betterave ou de la canne à 960.000
+sucre
+Effeuilleuse décolleteuse de la betterave à sucre a 93.000
+Arracheuse andaineuse de la betterave à sucre [| 107.000
+Ramasseuse chargeuse de la betterave à sucre [om 240.000
+Vibreur mécanique à pince pour la récolte des olives 213.000
+Enjambeurs pour la récolte des olives 640.000
+« Article 9.— La subvention à taux préférentiels, pour les investissements réalisés en matière d'acquisition
+« du matériel agricole est accordée dans les mêmes conditions que celles prévues par l'arrêté conjoint du ministre
+« de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, du ministre de l'intérieur
+«et du ministre de l'économie et des finances n° 1051-18 fixant les modalités de l'aide de l'Etat pour l'acquisition
+« de matériel agricole. »
+
+*Entités :* `arrêté conjoint` (ARRETE), `12 kaada
+1435` (DATE_HIJRI), `8 septembre 2014` (DATE_GREGORIAN), `16 chaoual 1440` (DATE_HIJRI), `arrêté conjoint du ministre` (ARRETE), `ministre de l'intérieur` (MINISTERE), `ministre de l'économie et des finances` (MINISTERE)
+
+*Citations :*
+
+- `articles 6 et 9` → arrêté conjoint [✓]
+
+*Dates :* 12 kaada 1435, 8 septembre 2014, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article 2
+
+*ART, 2. —*
+
+Les dossiers de demande de subvention pour l'acquisition du matériel agricole, pour lesquels un
+accord de principe a été accordé avant la date de publication de l'arrêté conjoint susvisé n°1051-18, demeurent
+soumis aux dispositions de l'arrêté conjoint susvisé n°3074-14, en vigueur à ladite date de publication.
+Les dossiers de demande de subvention pour l'acquisition du matériel agricole, pour lesquels un accord
+de principe a été accordé après la date de publication de l'arrêté conjoint précité n°1051-18, sont soumis aux
+dispositions dudit arrêté conjoint n°3074-14, telles qu'elles sont modifiées par le présent arrêté conjoint.
+
+*Entités :* `arrêté conjoint` (ARRETE)
+
+
+## Article 3
+
+*ART. 3.—*
+
+Le présent arrêté conjoint sera publié au Bulletin officiel.
+Rabat, le 22 moharrem 1440 (2 octobre 2018).
+Le ministre de l'agriculture, Le ministre de l'intérieur,
+de la pêche maritime, du développement rural et des
+eaux et forêts,
+AZIZ AKHANNOUCH. ABDELOUAFI LAFTIT.
+Le ministre de l'économie
+et des finances,
+MOHAMED BENCHAABOUN.
+1488 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+
+*Entités :* `arrêté conjoint` (ARRETE), `22 moharrem 1440` (DATE_HIJRI), `2 octobre 2018` (DATE_GREGORIAN), `ministre de l'agriculture` (MINISTERE), `ministre de l'intérieur` (MINISTERE), `16 chaoual 1440` (DATE_HIJRI), `ministre de l'économie
+et des finances` (MINISTERE)
+
+*Dates :* 22 moharrem 1440, 2 octobre 2018, 16 chaoual 1440
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+La liste des pièces justificatives des
+recettes de l'Etat est fixée conformément à la nomenclature
+annexée au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. —*
+
+Les recettes sont justifiées par :
+— les rôles d'impôts et taxes, états de produits, ordres de
+recettes, déclarations en douane, extraits de sommiers
+des droits constatés, extraits de jugements ou d'arrêts
+de débets, décisions déclarant les comptables publics
+débiteurs, pour les recettes sur titres ;
+_ Jes ordres de recettes de régularisation émis par les
+ordonnateurs sur demande des comptables assignataires,
+pour les recettes encaissées au comptant.
+
+
+## Article 3
+
+*ART. 3. -*
+
+La forme et le contenu des pièces justificatives
+prévues par la nomenclature annexée au présent arrêté
+demeurent régis par les lois et règlements en vigueur.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 4
+
+*ART. 4. -*
+
+Est abrogé le chapitre II de la nomenclature
+des pièces justificatives des dépenses et des recettes de l'Etat
+annexée à l'arrêté du ministre de l'économie, des finances, de
+la privatisation et du tourisme susvisé n° 1673-01.
+
+*Entités :* `arrêté du ministre de l'économie` (ARRETE)
+
+
+## Article 5
+
+*ART. 5. —*
+
+Le présent arrêté entre en vigueur 60 jours à
+compter de la date de sa publication au Bulletin officiel.
+Rabat, le 1“ rabii I 1440 (9 novembre 2018).
+MOHAMED BENCHAABOUN.
+*
+* *
+NOMENCLATURE DES PIECES JUSTIFICATIVES
+DES RECETTES DE L'ETAT
+1. — Règles générales de justification des recettes
+1.1. — Recettes sur titres
++ ordre de recette).
+1.2. -Recettes sans titres
+* certificat de recettes ;
++ ordre de recettes de régularisation.
+2. - Recettes nécessitant des justifications particulières
+2.1. -Aliénation d'immeuble
+2.1.1. — Aliénation d'immeuble après mise en concurrence
+- ordre de recette ;
+* ampliation du décret ou de l'arrêté du ministre des
+finances autorisant l'aliénation® ;
++ procès-verbal de cession.
+(1) Le terme ordre de recettes s'entend dans la présente nomenclature de
+tous les titres de recettes quelle qu'en soient la dénomination ou
+la forme (rôle, état de produit, ordre de recettes, sommier de surveillance,
+déclaration en douane, extrait de sommier des droits constatés, extrait de
+jugement ou d'arrêté de débet).
+(2) A défaut de production d'ordre de recettes de régularisation, le comptable
+fait application des prescriptions de la circulaire n° 572/CAB du 14/12/1970.
+(3) décret ou arrêté du ministre des finances en fonction du montant prévu
+par la réglementation en vigueur.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1489
+2.1.2. — Aliénations d'immeuble à l'amiable
+- ordre de recette ;
+*ampliation du décret ou de l'arrêté du ministre des
+finances autorisant l'aliénation à l'amiable.
+2.1.3. — Cession entre services de l'Etat
+* ordre de recette ;
+* décision d'affectation (délivrée par l'administration
+des domaines).
+2.1.4, - Cession à un autre organisme public
+* ampliation du décret ou de l'arrêté du ministre
+des finances ;
+° contrat de cession ;
+* ordre de recette.
+2.2. - Cession à un Etat étranger
++ ordre de recette portant détail de la cession ;
+° ampliation de la convention.
+2.3. — Cession de biens mobiliers
+* ordre de recettes ;
+* procès-verbal de vente ou décision du ministre des
+finances autorisant la cession à l'amiable.
+2.4. — Recettes au titre des ordres du Royaume
+* ordre de recette de régularisation ;
+* bulletin de versement.
+2.5. - Amendes et condamnations pécuniaires prononcées
+par les juridictions
+* ordre de recette ou extrait de jugement ou d'arrêté.
+2.6. - Amendes transactionnelles
+* ordre de recette de régularisation ;
+* bulletin de versement.
+2.7. - Amendes en matière de contrôle des prix
+* ordre de recette ;
++ ordre de recette de régularisation ;
+* procès-verbal d'amende.
+2.8. — Redevances pour délivrance de copies des procès-
+verbaux d'accidents
++ ordre de recette de régularisation ;
++ bulletin de versement.
+2.9. — Créances sur le Trésor prescrites
++ ordre de recette de régularisation ;
++ état détaillé des recettes prescrites par budget ou
+par compte.
+2.10. -Commission de garantie sur emprunts extérieurs
+* ordre de recette de régularisation ;
++ bulletin de versement ou lettre du ministre chargé
+des finances (Direction du Trésor et des finances
+extérieures).
+2.11. — Dividendes
++ ordre de recette ;
++ copies du procès-verbal du conseil d'administration
+pour chaque exercice,
+2.12. — Revenus des immeubles domaniaux : loyers et
+charges locatives sur titre
++ ordre de recette (extrait du sommier des prises
+en charges).
+2.13. — Revenus des immeubles domaniaux : loyers et
+charges locatives retenus à la source
++ ordre de recette de régularisation ;
++ état détaillé des retenues.
+2.14. - Pourcentage à l'occasion des ventes et locations
+publiques
++ ordre de recette de régularisation ;
++ procès-verbal de vente ou de location.
+2.15. -Transactions avant jugement sur délits de pêche
++ ordre de recette de régularisation ;
++ procès-verbal de transaction.
+1490 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+2.16. Produits de cession des participations de l'État
+* ordre de recette de régularisation ;
+* ampliation du décret portant cession.
+2.17. - Taxe sur les permis de recherches minières et
+permis d'exploitation et taxe de mutation
++ ordre de recette de régularisation ;
++ bulletin de versement.
+2.18. — Reversement sur traitements et salaires par les
+payeurs délégués
+* ordre de recette de régularisation ;
++ compte d'emploi.
+2.19. — Fonds spécial des prélèvements sur le pari mutuel
+* ordre de recette de régularisation ;
+* tableau de répartition des recettes constatées.
+2.20. — Fonds de réemploi domanial
+2.20.1-Cession après mise en concurrence
++ ordre de recette ;
+* copie du contrat de cession ;
+* ampliation du décret ou de l'arrêté du ministre
+des finances ;
++ procès-verbal de cession.
+2.20.2. — Cession à l'amiable
+* ordre de recette ;
+* copie du contrat de cession ;
+* ampliation du décret ou de l'arrêté du ministre
+des finances.
+2.20.3. — Cession entre services de l'Etat
+* ordre de recette ;
++ décision d'affectation de l'immeuble objet de
+cession.
+2.20.4. — Cession à un autre organisme public
++ ampliation du décret ou de l'arrêté du ministre
+des finances ;
+* ordre de recette ;
++ contrat de cession.
+2.20.5. - Loyers et charges locatives
+2.20.5.1. — Retenues à la source
+« ordre de recette de régularisation ;
++ état détaillé des retenues.
+2.20.5.2. - Recouvrement sur sommier de surveillance
+* ordre de recette ou ordre de recette de
+régularisation.
+2.21. — Fonds de soutien à certains promoteurs
++ ordre de recette de régularisation ;
++ état détaillé des échéances versées.
+2.22. — Fonds de soutien des prix de certains produits
+alimentaires
++ ordre de recette de régularisation ;
++ état détaillé des recettes constatées.
+2.23. — Fonds national pour l'action culturelle
++ ordre de recette de régularisation ;
++ état de produits.
+3.- Annulation, dégrèvement et admission en non valeur
+en surséance
+3.1. -— Annulation
+° titre d'annulation.
+3.2. - Dégrèvement
+- titre de dégrèvement.
+3.3. — Admission en non valeur ou en surséance
++ décision du ministre des finances.
+4, — Réimputation des recettes
++ certificat de réimputation.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6750 du 1° joumada II 1440 (7 février 2019).
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1491
+
+*Entités :* `arrêté` (ARRETE), `9 novembre 2018` (DATE_GREGORIAN), `arrêté du ministre des` (ARRETE), `arrêté du ministre des finances en fonction du montant prévu` (ARRETE), `16 chaoual 1440` (DATE_HIJRI), `arrêté du ministre` (ARRETE), `Bulletin officiel » n° 6750` (BULLETIN_OFFICIEL), `7 février 2019` (DATE_GREGORIAN)
+
+*Personnes :* - Amendes, - Amendes, - Dégrèvement
+
+*Organisations :* Direction du Trésor, Fonds de réemploi domanial
+, Fonds national pour l'action culturelle
+
+*Dates :* 9 novembre 2018, 16 chaoual 1440, 16 chaoual 1440, 7 février 2019, 16 chaoual 1440
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+La liste des pièces justificatives
+des propositions d'engagement et de paiement des dépenses
+de biens et services de l'Etat est fixée conformément à la
+nomenclature annexée au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. —*
+
+Les pièces justificatives fixées par la
+nomenclature visée à l'article premier du présent arrêté sont,
+suivant le cas :
+— soit établies par l'ordonnateur et produites à l'appui des
+dépenses de biens et services de l'Etat ;
+— soit produites par l'ordonnateur ou le sous ordonnateur
+à l'appui des opérations de dépenses des biens et services
+de l'Etat qu'il engage et dont il ordonne l'exécution ;
+— soit établies à l'initiative du comptable assignataire ;
+— soit produites par les bénéficiaires de la dépense objet
+de l'engagement ou par les créanciers en justification
+de l'acquit libératoire ;
+— soit conservées par l'ordonnateur ou le sous ordonnateur
+concerné, pour être produites à tout organe de contrôle
+compétent, conformément à la réglementation en
+vigueur.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. -*
+
+L'arrêté, la décision ou le contrat prévu par la
+nomenclature annexée au présent arrêté pour les dépenses de
+biens et services de l'Etat doivent comporter les références des
+pièces établies ou exigées par l'ordonnateur, ainsi que tous les
+éléments d'informations et les renseignements se rapportant à
+la dépense de biens et services de l'Etat concernée.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 4
+
+*ART. 4. —*
+
+Les pièces prévues par la nomenclature annexée
+au présent arrêté, au niveau de la phase de paiement, doivent
+comporter les références du visa d'engagement de dépenses
+lorsque ledit visa est requis.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 5
+
+*ART. 5. —*
+
+Les dépenses ordonnancées sont justifiées par
+les ordonnances de paiement, appuyées, des justifications
+fixées par la nomenclature annexée au présent arrêté, ainsi
+que de l'ordre de réquisition éventuellement émis.
+Les dépenses sans ordonnancement préalable sont
+justifiées par des certificats de dépenses établis par les
+comptables assignataires et auxquels sont annexées les pièces
+justificatives correspondantes.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 6
+
+*ART. 6. —*
+
+Les opérations de dépenses sur comptes de
+trésorerie sont justifiées par des certificats de dépenses ou
+par des ordres de paiement.
+
+
+## Article 7
+
+*ART. 7. —*
+
+La forme et le contenu des pièces justificatives
+prévues par la nomenclature annexée au présent arrêté
+demeurent régis par les lois et règlements en vigueur.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 8
+
+*ART. 8. —*
+
+Est abrogé l'arrêté du ministre de l'économie
+et des finances n° 3155-14 du 5 hija 1435 (30 septembre 2014)
+fixant la nomenclature des pièces justificatives des propositions
+d'engagement et de paiement des dépenses de l'Etat, tel qu'il
+a été modifié.
+
+*Entités :* `arrêté du ministre de l'économie` (ARRETE), `5 hija 1435` (DATE_HIJRI), `30 septembre 2014` (DATE_GREGORIAN), `ministre de l'économie
+et des finances` (MINISTERE)
+
+*Dates :* 5 hija 1435, 30 septembre 2014
+
+
+## Article 9
+
+*ART. 9. —*
+
+Le présent arrêté entre en vigueur 60 jours à
+compter de la date de sa publication au Bulletin officiel.
+Rabat, le 14 rabii I 1440 (22 novembre 2018).
+MOHAMED BENCHAABOUN.
+1492 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Nomenclature des pièces justificatives des propositions d'engagement
+et de paiement des dépenses de biens et services de l'État
+Première partie : Pièces justificatives des propositions d'engagement et de paiement des
+dépenses des biens et services de l'État soumises à engagement préalable
+
+*Entités :* `arrêté` (ARRETE), `14 rabii I 1440` (DATE_HIJRI), `22 novembre 2018` (DATE_GREGORIAN), `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 14 rabii I 1440, 22 novembre 2018, 16 chaoual 1440
+
+
+## Article 9-2
+
+Chapitre I : Pièces justificatives des propositions d'engagement et de paiement de
+dépenses relatives aux indemnités allouées au personnel de l'État
+1.1 Pièces justificatives communes à toutes les propositions d'engagement et de paiement
+relatives aux indemnités du personnel
+Engagement :
+- Fiche d'engagement, état d'engagement, état collectif d'engagement en deux exemplaires
+dont un original ou fiche navette.
+Paiement :
+- Original de l'état d'engagement ou l'état collectif d'engagement visé.
+1.2 Pièces complémentaires selon la nature de la dépense |
+1.2.1 Indemnités et frais du personnel occasionnel de l'État
+1.2.1.1 Aïde exceptionnelle au logement
+Engagement :
+- État des sommes dues.
+- Fiche de renseignements du bénéficiaire certifiée par la personne habilitée.
+- Quittances de loyer faisant ressortir le montant du loyer arrêté en chiffres et en lettres.
+Paiement :
+- Etat des sommes dues visé.
+- Fiche de renseignements du bénéficiaire certifiée par la personne habilitée.
+- Quittances de loyer faisant ressortir le montant du loyer arrêté en chiffres et en lettres.
+1.2.1.2 Gratifications aux chauffeurs
+Engagement :
+- Décision d'attribution de l'indemnité faisant ressortir les éléments de calcul de l'indemnité.
+Paiement :
+- Décision d'attribution de l'indemnité visée, faisant ressortir les éléments de calcul de
+l'indemnité.
+1.2.1.3 Gratifications aux gardes forestiers
+Engagement :
+- Décision d'attribution de l'indemnité faisant ressortir les éléments de calcul sur la base du
+ou des procès verbaux constatant l'infraction.
+Paiement :
+- Décision d'attribution de l'indemnité visée, faisant ressortir les éléments de calcul sur la
+base du ou des procès verbaux constatant l'infraction.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1493
+1.2.1.4 Indemnités de campagne attribuées aux topographes
+Engagement :
+- Décision d'attribution de l'indemnité faisant ressortir Les élémen
+Paiement :
+- Décision d'attribution de l'indemnité visée, faisant ressortir
+l'indemnité.
+1.2.1.5 Indemnités de caisse pour les régisseurs et les payeurs «
+Engagement :
+- État des sommes payées et/ou encaissées, liquidées par
+ordonnateur, certifié exact par le comptable.
+Paiement :
+- Etat des sommes payées et/ou encaissées, liquidées par
+ordonnateur, certifié exact par le comptable.
+1.2.1.6 Indemnités de déneigement et de désensablement
+Engagement :
+- Décision d'attribution de l'indemnité faisant ressortir les élémen
+Paiement :
+- Décision d'attribution de l'indemnité visée, faisant ressortir
+l'indemnité.
+1.2.1.7 Indemnité d'investiture des membres du Gouvernemen
+Engagement :
+- Copie de la pièce justifiant la nomination du bénéficiaire
+gouvernement.
+Paiement :
+- Original de l'état d'engagement visé.
+1.2.1.8 Indemnité d'interclasse
+Engagement :
+- Décision d'attribution de l'indemnité faisant ressortir les élémen
+Paiement :
+- Décision d'attribution de l'indemnité visée, faisant ressortir
+l'indemnité.
+1.2.1.9 Vacations pour heures de cours
+Engagement :
+- Autorisation de l'administration pour les fonctionnaires.
+- État des sommes dues faisant ressortir les éléments de calcul de |
+s de calcul de l'indemnité.
+les éléments de calcul de
+lélégués
+l'ordonnateur ou le sous
+l'ordonnateur ou le sous
+ts de calcul de l'indemnité.
+les éléments de calcul de
+en tant que membre du
+ts de calcul de l'indemnité.
+les éléments de calcul de
+'indemnité.
+1494 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+- Emploi du temps faisant ressortir Les matières dispensées par le vacataire, signé par le chef
+de l'établissement. | | are
+- Copie du diplôme du vacataire ou pour le fonctionnaire copie de l'arrêté justifiant le grade.
+Paiement : |
+Z, . » = . 17 5° 2,7
+- État des sommes dues visé faisant ressortir les éléments de calcul de l'indemnite.
+1.2.1.10 Rétribution des instituteurs suppléants
+Engagement :
+Premier engagement :
+- Lettre d'engagement.
+- Extrait d'acte de naissance. |
+- Copie certifiée conforme à l'original du diplôme ou de l'attestation, titre ou certificat de
+scolarité.
+- État des sommes dues faisant ressortir les éléments de calcul de la rétribution.
+Engagements ultérieurs :
+- État des sommes dues faisant ressortir les éléments de calcul de la rétribution.
+Paiement :
+- État des sommes dues visé faisant ressortir les éléments de calcul de la rétribution.
+1.2.1.11 Indemnités horaires pour travaux supplémentaires
+Engagement : h
+- Décision d'attribution de l'indemnité faisant ressortir Les éléments de calcul de l'indemnité.
+Paiement :
+- Décision d'attribution de l'indemnité visée, faisant ressortir les éléments de calcul de
+l'indemnité.
+1.2.1.12 Frais de correction des épreuves d'examens professionnels et de concours
+Engagement :
+- Arrêté portant ouverture de l'examen ou du concours.
+- État signé pâr le président du jury arrêtant le nombre de copies des candidats corrigées par
+chaque bénéficiaire.
+- État des sommes dues.
+Paiement : |
+- État des sommes dues visé.
+1.2.1.13 Frais de correction des épreuves des examens scolaires
+Engagement :
+. Liste nominative signée par le délégué du ministère de l'éducation nationale ou le directeur
+de l'académie arrêtant le nombre de copies des candidats corrigées par chaque bénéficiaire.
+- État des sommes dues.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1495
+Paiement :
+_- État des sommes dues visé.
+1.2.1.14 Indemnité pour formation continue
+Engagement :
+- Copie de la décision d'envoi en formation.
+- Etat des sommes dues.
+Paiement :
+- État des sommes dues visé.
+1.2.2 Indemnités représentatives des frais de déplace
+l'État à l'intérieur du Maroc
+1.2.2.1 Indemnités journalières pour frais de mission
+Engagement :
+- Ordre de mission.
+- État des sommes dues faisant ressortir les éléments de
+Paiement :
+- État des sommes dues visé, faisant ressortir les élémen
+1.2.2.2 Indemnités kilométriques
+Engagement :
+- Décision autorisant le bénéficiaire à utiliser son vé
+service signée par le ministre ou la personne habilitée à
+- Ordre de mission.
+- État des sommes dues faisant ressortir les éléments de
+Paiement :
+- État des sommes dues visé, faisant ressortir les élémen
+1.2.2.3 Indemnités et frais de changement de résiden:
+Engagement :
+- Décision du chef de l'administration précisant que la :
+service.
+- Facture acquittée de l'entreprise de déménagement ind
+sa date d'enlèvement et sa date de livraison et les frais d
+- État des sommes dues faisant ressortir les éléments de
+Paiement :
+- État des sommes dues visé, faisant ressortir Les élémer
+ment et de mission du personnel de
+calcul de l'indemnité.
+s de calcul de l'indemnité.
+hicule personnel pour les besoins du
+cet effet.
+calcul de l'indemnité.
+ts de calcul de l'indemnité.
+ce à l'intérieur du Maroc
+mutation a eu lieu pour les besoins du
+iquant le poids du mobilier transporté,
+'emballage, le cas échéant.
+calcul de l'indemnité.
+ts de calcul de l'indemnité.
+1496 BULLETIN OFFICIEL | N° 6788 — 16 chaoual 1440 (20-6-2019)
+1.2.3 Frais et indemnités payés au Maroc aux agents exerçant à l'étranger
+1.2.3.1 Indemnité forfaitaire de changement de résidence payée au Maroc aux agents
+exerçant à l'étranger
+Engagement :
+- Décision d'affectation, de mutation ou de rappel de l'agent.
+- Attestation du chef de mission diplomatique ou consulaire certifiant la présence des
+membres de la famille de l'agent, le cas échéant.
+- Certificat du célibat de la fille majeure, le cas échéant.
+- Copie certifié conforme à l'original du jugement portant la prise en charge d'autres
+personnes, le cas échéant.
+- Note de prise de service au poste du bénéficiaire. |
+- Copies des pages de passeport, certifiées conformes, faisant ressortir l'identité du
+bénéficiaire et les dates de sortie et d'entrée.
+- État des sommes dues faisant ressortir les éléments de calcul de l'indemnité.
+Paiement :
+- État des sommes dues visé, faisant ressortir les éléments de calcul de l'indemnité.
+1,2.3.2 Frais de scolarité
+Engagement :
+- Autorisation d'inscription au début de l'année scolaire.
+- Certificat (s) de scolarité. |
+- Copie certifié conforme à l'original du jugement pour les enfants mineurs légalement à
+charge, le cas échéant.
+- Reçu (s) de paiement délivré (s) par l'établissement scolaire.
+- Attestation justifiant que l'internat ou la demi-pension est obligatoire, le cas échéant.
+- Déclaration sur l'honneur établie par l'intéressé justifiant que l'enfant considéré ne bénéficie
+d'aucune bourse d'enseignement.
+- État des sommes dues faisant ressortir les éléments de calcul des frais.
+Paiement :
+- État des sommes dues visé, faisant ressortir les éléments de calcul des frais.
+1.2.3.3 Frais de transports
+1.2.3.3.1 Congé administratif
+Engagement :
+- Billet ou toute autre pièce justifiant les frais de transport et l'itinéraire parcouru.
+- Décision de congé administratif.
+- Certificat de scolarité des enfants à charge, le cas échéant.
+- Copies des pages du passeport certifiées conforme faisant ressortir l'identité du bénéficiaire,
+de son conjoint et de ses enfants à charge, le cas échéant.
+- Certificat du célibat de la fille majeure, le cas échéant.
+- Copie certifié conforme à l'original du jugement portant la prise en charge d'autres
+personnes, le cas échéant,
+- État des sommes dues faisant ressortir les éléments de calcul de l'indemnité.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1497
+Paiement :
+£ . ' + 0] 2147 s* 7
+- État des sommes dues visé, faisant ressortir les éléments de calcul de ! indemnité.
+1.2.3.3.2 Affectation, mutation ou rappel
+Engagement :
+- Billet ou toute autre pièce justifiant les frais de transport et l'itinéraire parcouru et l'excédent
+de bagage
+- Décision d'affectation, de mutation ou de rappel.
+- Attestation du chef de mission diplomatique ou consulaire certifiant la présence des
+membres de la famille de l'agent, le cas échéant.
+- Certificat du célibat de la fille majeure, le cas échéant.
+- Copie certifié conforme à l'original du jugement portant la prise en charge d'autres
+personnes, le cas échéant.
+- Copies des pages du passeport certifiées conforme faisant ressortir l'identité du bénéficiaire,
+de son conjoint et de ses enfants à charge, le cas échéant.
+- État des sommes dues faisant ressortir les éléments de calcul de l'indemnité.
+Paiement :
+- État des sommes dues visé, faisant ressortir les éléments de calcul de l'indemnité.
+1.2.4 Indemnités représentatives de frais allouées aux agents étrangers exerçant au
+Maroc dans le cadre de conventions de coopération
+1.2.4.1 Indemnités représentatives de frais de transport
+Engagement :
+- Copies certifiées conformes à l'original des pages des passeports faisant ressortir l'identité
+du bénéficiaire, de son conjoint et de ses enfants à charge, le cas échéant.
+- Copie certifiée conforme à l'original de l'acte d'adhésion.à la convention de coopération
+culturelle, scientifique et technique ou du contrat individuel.
+- Procès-verbal de prise de service.
+- Certificats de scolarité des enfants à charge.
+- État des sommes dues faisant ressortir Les éléments de calcul de l'indemnité.
+Paiement :
+- État des sommes dues visé, faisant ressortir les éléments de calcul de l'indemnité.
+1.2.4.2 Prime d'installation
+Engagement :
+- Copies certifiées conformes à l'original des pages du passeport faisant ressortir l'identité du
+bénéficiaire, de son conjoint et de ses enfants à charge, le cas échéant.
+- Procès-verbal de prise de service.
+- Copie certifiée conforme de l'acte d'adhésion à la convention de coopération culturelle,
+scientifique et technique ou du contrat individuel.
+- Etat des sommes dues faisant ressortir Les éléments de calcul de la prime.
+Paiement :
+- État des sommes dues visé, faisant ressortir les éléments de calcul de la prime.
+1498 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+1.2.4.3 Frais de congé administratif
+Engagement :
+- Billet ou toute autre pièce justifiant les frais de transport.
+- Décision de congé administratif.
+- Copie certifiée conforme à l'original de l'acte d'adhésion à la
+culturelle, scientifique et technique ou du contrat individuel.
+- Certificat de scolarité des enfants à charge.
+- Copies des pages du passeport certifiées conforme faisant ressort:
+de son conjoint et de ses enfants à charge, le cas échéant.
+- État des sommes dues faisant ressortir Les éléments de calcul de l”
+Paiement :
+- État des sommes dues visé, faisant ressortir Les éléments de calcul
+1.2.4.4 Indemnité de licenciement
+Engagement :
+- Acte de licenciement.
+- Copie certifiée conforme du contrat individuel, le cas échéant.
+- État des sommes dues faisant ressortir les éléments de calcul de l?
+Paiement :
+- État des sommes dues visé, faisant ressortir les éléments de calcul
+1.2.4.5 Indemnité de rapatriement
+Engagement :
+- État des sommes dues faisant ressortir le détail de l'indemnité
+transport et d'emballage du mobilier, le cas échéant.
+- Certificat de cessation de fonction au Maroc ou acte de licenciem:
+- Copie certifiée conforme du contrat individuel, le cas échéant.
+Paiement :
+- Etat des sommes dues visé, faisant ressortir le détail de l'indemni
+transport et d'emballage du mobilier, le cas échéant.
+1.2.5 Allocations, bourses et frais de scolarité
+1.2.5.1 Allocations forfaitaires aux élèves maîtres et aux élèves
+Engagement :
+- Arrêté de proclamation des résultats du concours.
+- Décision d'octroi de l'allocation forfaitaire mentionnant les noms
+- Extraits d'actes de naissance des bénéficiaires.
+- Copies certifiées conformes aux originaux des diplômes ou
+certificats de scolarité des bénéficiaires.
+- Comptes rendus de prise de service.
+- État des sommes dues faisant ressortir les noms des bénéficiaires.
+- Engagement des bénéficiaires pour servir l'Administration penda
+convention de coopération
+r l'identité du bénéficiaire,
+indemnité.
+de l'indemnité.
+indemnité.
+de l'indemnité.
+représentative de frais de
+ent.
+té représentative de frais de
+professeurs
+des bénéficiaires.
+des attestations, titres ou
+nt huit (8) ans,
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1499
+Paiement : |
+- État des sommes dues visé, faisant ressortir les noms des bénéficia
+1.2.5.2 Renouvellement de l'attribution des allocations forfaitai
+aux élèves professeurs
+Engagement :
+- Décision d'octroi de l'allocation forfaitaire mentionnant les noms
+autorisés à redoubler l'année de formation.
+- État des sommes dues faisant ressortir les noms des bénéficiaires.
+Paiement :
+- État des sommes dues visé, faisant ressortir les noms des bénéficia
+1.2.5.3 Bourses d'études au Maroc
+Engagement :
+- Décision, individuelle ou collective, d'attribution de bourse r
+bénéficiaires et les montants alloués.
+Paiement :
+- Décision, individuelle ou collective, d'attribution de bourse visée,
+bénéficiaires et les montants alloués.
+1.2.5.4 Bourses d'études à l'étranger
+Engagement :
+- Décision, individuelle ou collective, d'octroi de la bourse n
+bénéficiaires et les montants alloués.
+Paiement :
+- Décision, individuelle ou collective, d'octroi de la bourse visée,
+bénéficiaires et les montants alloués.
+1.2.5.5 Rétributions des stagiaires de la santé
+Engagement :
+Stagiaires externes :
+- Fiche navette ou état d'engagement global.
+- Décision collective trimestrielle signée par l'ordonnateur m
+bénéficiaires, la date d'effet et les montants alloués.
+Stagiaires internes :
+- Etat d'engagement global.
+Première année :
+- Décision individuelle de l'ordonnateur indiquant la date de pris
+l'intéressé bénéficie oui ou non du logement.
+{res.
+res aux élèves maîtres et
+des bénéficiaires admis ou
+ires.
+nentionnant les noms des
+mentionnant les noms des
+entionnant les noms des
+mentionnant les noms des
+entionnant les noms des
+> de service et précisant si
+1500 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Années suivantes : | |
+- Décision de l'ordonnateur indiquant que l'intéressé appartient toujours au corps des internes
+et s'il bénéficie oui ou non du logement.
+Étudiants en médecine faisant fonction d'internes :
+- Fiche navette ou état d'engagement global.
+Première année : | n |
+- Décision individuelle de l'ordonnateur indiquant la date de prise de service et précisant Si
+l'intéressé bénéficie oui ou non du logement.
+Années suivantes : : |
+- Décision de l'ordonnateur indiquant que l'intéressé appartient toujours au corps des internes
+et s'il bénéficie oui ou non du logement.
+Paiement :
+Stagiaires externes :
+p + + . + .  _ 0 4 r L y
+- Décision collective trimestrielle visée mentionnant les noms des bénéficiaires, la date d'effet
+et Les montants alloués.
+Stagiaires internes :
+- Décision individuelle de l'ordonnateur visée.
+Étudiants en médecine faisant fonction d'internes :
+- Décision mdividuelle de l'ordonnateur visée.
+1.2.5.6 Frais de scolarité des étudiants marocains à l'étranger
+Engagement :
+- Décision d'octroi des frais de scolarité.
+- Reçu de paiement délivré par l'établissement d'enseignement.
+- Attestation d'application du taux de change.
+- Photocopie de la carte d'étudiant ou certificat de scolarité.
+Paiement :
+- Décision d'octroi des frais de scolarité visée.
+1.2.5.7 Remboursement des honoraires médicaux et des frais entrainés directement par
+la maladie ou l'accident de travail
+Engagement :
+- Décision.
+- Demande de l'intéressé.
+- Procès-verbal de la réunion de la commission de réforme.
+- Procès-verbal de [a réunion de la commission interministérielle chargée du traitement des
+dossiers relatifs au remboursement des honoraires médicaux et des frais entrainés directement
+par la maladie ou l'accident de travail.
+- Certificat médical ou rapport médical.
+- Originaux des ordonnances médicales, factures ou tout autres documents justifiants les frais
+payés par l'intéressé.
+- Etat des sommes dues faisant ressortir les éléments de calcul de l'indemnité.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1501
+Paiement :
+- Décision.
+_ Etat des sommes dues visés faisant ressortir les éléments de calcul de l'indemnité.
+1.2.5.8 Rentes et majoration de rentes servies aux victimes des accidents du travail
+Engagement :
+- Copie du jugement.
+- Certificats de scolarité des enfants orphelins.
+- État individuel ou collectif des bénéficiaires signé par l'ordonnateur.
+Paiement !
+- État individuel ou collectif des bénéficiaires visé.
+1.2.5.9 Capital-décès et indemnité de décès
+Engagement :
+- Extrait d'acte de décès.
+- Certificat de cessation de paiement.
+- Copie certifiée conforme à l'original de l'acte d'hérédité.
+- Copie de la carte d'identité nationale du (ou des) héritier (s) bénéficiaire (s).
+- État des sommes dues faisant ressortir les noms des bénéficiaires.
+- Attestation de vie collective des enfants.
+- Décision du ministre des finances prise sur proposition du ministre dont relève l'agent
+décédé mentionnant les ayants droit et leurs quotes-parts respectives.
+Paiement :
+- Copie de la carte d'identité nationale du (ou des) héritier (s) bénéficiaire (5).
+- État des sommes dues visé, faisant ressortir les noms des bénéficiaires.
+- Décision du ministre des finances prise sur proposition du ministre dont relève l'agent
+décédé mentionnant les ayants droit et leurs quotes-parts respectives.
+- Acte de tutelle pour les enfants mineurs, le cas échéant.
+1.2.5.10 Indemnité de décès, de blessure ou d'invalidité versée par l'ONU aux
+participants aux missions de paix
+Engagement :
+- Déclaration de versement par les services de l'ONU faisant ressortir le nom du bénéficiaire
+et le montant de l'indemnité.
+- Extrait d'acte de décès.
+- Certificat de cessation de paiement.
+- Copie certifiée conforme à l'original de l'acte d'hérédité.
+- Copie de la carte d'identité nationale du (ou des) héritier (s) bénéficiaire (s).
+- État des sommes dues faisant ressortir les noms des bénéficiaires.
+- Attestation de vie collective des enfants.
+- Acte d'hérédité mentionnant les ayants droit et leurs quotes-parts respectives.
+Paiement :
+- Copie de la carte d'identité nationale du (ou des) héritier (s) bénéficiaire (s).
+- État des sommes dues visé, faisant ressortir les noms des bénéficiaires.
+- Acte d'hérédité mentionnant les ayants droit et leurs quotes-parts respectives.
+1502 BULLETIN OFFICIEL L N° 6788 — 16 chaoual 1440 (20-6-2019)
+- Acte de tutelle pour les enfants mineurs, le cas échéant.
+
+*Entités :* `arrêté` (ARRETE), `16 chaoual 1440` (DATE_HIJRI), `ministère de l'éducation nationale` (MINISTERE)
+
+*Organisations :* ministère de l'éducation nationale
+
+*Dates :* 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article 9-3
+
+Chapitre IX : Pièces justificatives des propositions d'engagement et de paiement des
+dépenses relatives aux marchés de l'Etat
+2.1 Marchés
+2.1.1 Pièces communes à tous les marchés
+Engagement :
+- Fiche d'engagement et état d'engagement en deux exemplaires dont un original ou fiche navette.
+- Acte d'engagement excepté pour le marché passé par échange de lettres ou convention
+spéciale.
+- Rapport de présentation du marché en double exemplaire.
+- Projet de marché en double exemplaire.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Bordereau des prix des approvisionnements, le cas échéant.
+2.1.2 Pièces complémentaires selon le mode de passation du marché
+2.1.2.1 Appel d'offres ouvert, restreint ou avec présélection et concours
+Engagement :
+- Original des procès-verbaux de chacune des réunions de la commission ou la sous
+commission où du jury de concours.
+- Copie certifiée conforme à l'original des procès-verbaux de chacune des réunions de la
+commission ou la sous commission le cas échéant d'appel d'offres ouvert, restreint ou avec
+présélection pour les marchés passés dans le cadre du collectif d'achat.
+- Copie certifiée conforme à l'original de la convention constitutive du collectif d'achat pour
+les marchés passés dans le cadre du collectif d'achat.
+- Offre technique de l'attributaire, le cas échéant.
+- Certificat administratif pour l'appel d'offres restreint excepté pour l'administration de la
+défense nationale.
+Paiement :
+Avance :
+- État d'engagement visé.
+- Caution personnelle et solidaire s'engageant avec le titulaire du marché à rembourser a
+totalité du montant des avances consenties par le maître d'ouvrage.
+- Original du marché approuvé, et copie certifiée conforme à l'original
+- Ordre de service notifiant l'approbation du marché.
+Paiement unique :
+- Original du marché approuvé excepté pour les cas d'avance.
+- État d'engagement visé.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif, le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Bordereau des prix des approvisionnements, le cas échéant.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1503
+- Ordres de service notifiant l'approbation du marché et le «
+prestations ou la notification de l'approbation du m
+commencement de l'exécution des prestations, le cas échéar
+- Ordres de service d'arrêté et de reprise de l'exécution des pi
+- Déclaration de constitution du cautionnement définiti
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décompte numéro 1 et dernier
+- Décompte définitif le cas échéant
+- Procès-verbal de réception provisoire ou définitive, suivar
+délai de garantie.
+- État récapitulatif de la révision des prix, le cas échéant.
+- Note de calcul de la révision des prix, le cas échéant.
+Paiement sur la base de plusieurs décomptes :
+Premier paiement :
+- Original du marché excepté pour les cas d'avance.
+- État d'engagement visé.
+- Bordereau des prix, le détail estimatif ou le bordereal
+échéant.
+- Bordereau du prix global et la décomposition du montant $
+- Bordereau des prix des approvisionnements, le cas échéan
+- Ordres de services notifiant l'approbation du marché et le
+prestations ou la notification de l'approbation du #
+commencement de l'exécution des prestations, le cas échéar
+- Ordres de service d'arrêté et de reprise de l'exécution des p
+- Déclaration de constitution du cautionnement définit
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décompte provisoire.
+- Note de calcul de la révision des prix, le cas échéant.
+Paiements subséquents :
+- Ordres de service d'arrêté et de reprise de |' exécution des p
+- Décomptes provisoires.
+- Cautions de la retenue de garantie, le cas échéant.
+_- Note de calcul de la révision des prix, le cas échéant.
+Dernier paiement :
+- Ordres de service d'arrêté et de reprise de l'exécution des p
+- Décompte provisoire numéro XX et dernier.
+- Décompte définitif
+- Procès-verbal de réception provisoire ou définitive, selor
+délai de garantie.
+- Etat récapitulatif de la révision des prix, le cas échéant.
+- Note de calcul de la révision des prix, le cas échéant.
+Paiement du dernier décompte provisoire rectificatif :
+- Décompte provisoire numéro XX et dernier rectificatif
+- Décompte définitif, le cas échéant.
+ommencement de l'exécution des
+arché prescrivant également le
+t, excepté pour les cas d'avance.
+estations, le cas échéant.
+f ou l'attestation de la caution
+t que le marché prévoit ou non un
+1 des prix-détail estimatif le cas
+lobal, le cas échéant.
+..
+commencement de l'exécution des
+arché prescrivant également le
+1{.
+restations, le cas échéant.
+f ou l'attestation de la caution
+restations, le cas échéant.
+restations, le cas échéant.
+que le marché prévoit ou non un
+1504 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+- Etat récapitulatif de la révision des prix, le cas échéant.
+- Note de calcul de la révision des prix, le cas échéant.
+Paiement de la retenue de garantie :
+- Décompte définitif ou copie du décompte définitif, le cas échéant
+- Procès-verbal de réception définitive.
+Prélèvement des pénalités de retard ou des pénalités particulières :
+- Décision de prélèvement des pénalités
+- Note de calcul des pénalités.
+- Ordre de recettes correspondant au montant de la pénalité
+- Ordre de service notifiant la décision de prélèvement des pénalités
+Constitution hors délai de la caution définitive :
+- Décision de confiscation du cautionnement provisoire ou d'application de la pénalité.
+- Ordre de service notifiant la décision de confiscation des cautions ou de l'application des
+pénalités, le cas échéant.
+- Ordre de recettes correspondant au montant du cautionnement provisoire où au montant de
+la pénalité.
+Paiement des intérêts moratoires :
+Paiement des intérêts moratoires sur la base des décomptes :
+- Décision d'octroi des intérêts moratoires.
+- Note de calcul des intérêts moratoires.
+- Copie certifiée conforme des décomptes provisoires et/ou définitifs.
+Paiement des intérêts moratoires sur la base du paiement de la retenue de garantie ou la
+restitution des cautions personnelles et solidaires qui tiennent lieu :
+- Décision d'octroi des intérêts moratoires.
+- Note de calcul des intérêts moratoires.
+- Copie du procès verbal de réception définitive.
+- Copie certifiée conforme du décompte définitif.
+- Copie de la mainlevée des cautions, le cas échéant.
+2.1.2.2 Allocations de primes, aux auteurs les mieux classés par le jury du concours
+Engagement :
+- Fiche d'engagement et état d'engagement en deux exemplaires dont un original ou fiche
+navette.
+- Original et copie des procès verbaux de chacune des réunions du jury du concours.
+- Décision de l'ordonnateur ou du sous ordonnateur portant octroi des primes.
+- Programme du concours fixant les primes.
+Paiement :
+- Etat d'engagement visé ou fiche navette.
+- Décision de l'ordonnateur ou du sous ordonnateur, portant octroi des primes.
+N° 6788 — 16 chaoual 1440 (20-6-2019) | BULLETIN OFFICIEL 1505
+2.1.2.3 Marché négocié
+Engagement :
+Marché négocié après publicité préalable et mise en concurrence :
+- Certificat administratif.
+_ Procès-verbaux de chacune des réunions de la commission, d'appel d'offres
+ouvert, restreint ou avec présélection et du jury de concours ou la sous commission déclaré
+infructueux, le cas échéant.
+- Copie des Procès-verbaux de chacune des réunions de la commission ou la sous commission
+le cas échéant d'appel d'offres ouvert, restreint ou avec présélection déclaré infructueux pour
+les marchés passés dans le cadre du collectif d'achat.
+- Copie certifiée conforme à l'original de la convention constitutive du collectif d'achat pour
+les marchés passés dans le cadre du collectif d'achat.
+- Journal ayant publié l'avis de publicité.
+- Rapport de la procédure négociée, signé par le président et les membres de la commission
+pour les marchés négociés avec publicité préalable.
+- Dossier administratif de l'attributaire du marché.
+- Dossier technique de l'attributaire du marché.
+- Dossier additif de l'attributaire du marché, le cas échéant.
+- Offre technique de l'attributaire du marché, le cas échéant.
+Marché négocié sans publicité préalable et sans mise en concurrence :
+- Certificat administratif pour les marchés négociés passés dans les cas prévus au paragraphe
+Il alinéas 1, 3, 4, 5, 6 et 7 de l'article 86 du décret n° 2-12-349 du 20 mars 2013.
+- Décision du chef du gouvernement pour les marchés négociés passés dans le cas prévu au
+paragraphe II alinéa 2 de l'article 86 du décret n° 2-12-349 du 20 mars 2013.
+- Dossier administratif de l'attributaire du marché.
+- Dossier technique de l'attributaire du marché.
+- Dossier additif de l'attributaire du marché, le cas échéant.
+- Offre technique de l'attributaire du marché, le cas échéant.
+- Échange de lettres ou convention spéciale pour les marchés passés dans le cas prévu au
+paragraphe b de l'article 87 du décret n° 2-12-349 du 20 mars 2013.
+Paiement :
+Avance :
+- État d'engagement visé.
+- Caution personnelle et solidaire s'engageant avec le titulaire du marché à rembourser la
+totalité du montant des avances consenties par le maître d'ouvrage.
+- Original du marché approuvéet copie certifiée conforme à l'original.
+- Ordres de service notifiant l'approbation du marché.
+Paiement unique :
+- Original du marché approuvé et copie certifiée conforme à l'original excepté le cas des avances.
+- Etat d'engagement visé.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Bordereau des prix des approvisionnements, le cas échéant.
+1506 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+- Ordres de service notifiant l'approbation du marché et le commencement de l'exécution des
+prestations ou fa notification de l'approbation du marché prescrivant également le
+commencement de l'exécution des prestations, Le cas échéant.
+- Échange de lettres ou convention spéciale visée pour les marchés passés dans le cas prévu au
+paragraphe b de l'article 87 du décret n° 2-12-349 du 20 mars 2013.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Déclaration de constitution du cautionnement définitif ou l'attestation de la caution
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant. :
+- Décompte numéro 1 et dernier, et copie certifiée conforme à l'original.
+- Décompte définitif approuvé, le cas échéant.
+- Procès-verbal de réception provisoire ou définitive, signé par le maître d'ouvrage selon que
+le marché prévoit ou non un délai de garantie.
+- État récapitulatif de la révision des prix, le cas échéant.
+- Note de calcul de la révision des prix, le cas échéant.
+Paiement sur la base de plusieurs décomptes :
+Premier paiement :
+- État d'engagement visé.
+- Original du marché approuvé excepté pour les cas d'avance.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Bordereau des prix des approvisionnements, le cas échéant.
+- Ordres de service notifiant l'approbation du marché et le commencement de l'exécution des
+prestations ou la notification de l'approbation du marché prescrivant également le
+commencement de l'exécution des prestations, le cas échéant.
+- Échange de lettres ou convention spéciale visée pour les marchés passés dans le cas prévu au
+paragraphe b de l'article 87 du décret n° 2-12-349 du 20 mars 2013.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Déclaration de constitution du cautionnement définitif ou l'attestation de la caution
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décomptes provisoires.
+- Note de calcul de la révision des prix, le cas échéant.
+Paiements subséquents : |
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Cautions de la retenue de garantie, le cas échéant.
+- Décomptes provisoires.
+- Note de calcul de la révision des prix, le cas échéant.
+Dernier paiement :
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Décompte provisoire numéro XX et dernier et copie certifiée conforme à l'original
+- Décompte définitif approuvé
+- Procès-verbal de réception provisoire ou définitive, signé par le maître d'ouvrage selon que
+le marché prévoit ou non un délai de garantie.
+- Note de calcul de la révision des prix, le cas échéant
+- État récapitulatif de la révision des prix, le cas échéant
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1507
+Paiement de la retenue de garantie :
+- Décompte définitif ou copie du décompte définitif.
+- Procès-verbal de réception définitive.
+Prélèvement des pénalités de retard ou des pénalités particulières :
+- Décision de prélèvement des pénalités.
+- Note de calcul des pénalités.
+- Ordre de recettes correspondant au montant de la pénalité de retard.
+- Ordre de service notifiant la décision de prélèvement des pénalités.
+Constitution hors délai de la caution définitive :
+- Décision de confiscation du cautionnement provisoire ou d'application de la pénalité.
+- Ordre de service notifiant la décision de confiscation des cautions ou l'application des
+pénalités. |
+- Ordre de recettes correspondant au montant du cautionnement provisoire ou au montant de
+la pénalité.
+Paiement des intérêts moratoires :
+Paiement des intérêts moratoires sur la base des décomptes :
+- Décision d'octroi des intérêts moratoires.
+- Note de calcul des intérêts moratoires.
+- Copie certifiée conforme des décomptes provisoires et/ou définitifs.
+Paiement des intérêts moratoires sur la base du paiement de la retenue de garantie ou la
+restitution des cautions personnelles et solidaires qui tiennent lieu :
+- Décision d'octroi des intérêts moratoires.
+- Note de calcul des intérêts moratoires.
+- Copie certifié conforme du procès verbal de réception définitive.
+- Copie certifiée conforme du décompte définitif.
+- Copie de la mainlevée des cautions, le cas échéant.
+2.1.2.4 Détermination des clauses définitives du marché négocié conclu sur échange de
+lettres ou convention spéciale
+Engagement :
+- Marché conclu sur échange de lettres ou convention spéciale.
+Paiement :
+Paiement unique :
+- Original du marché approuvé excepté pour les cas d'avance.
+- Échange de lettre ou convention spéciale, visée.
+- État d'engagement visé.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Bordereau des prix des approvisionnements, le cas échéant.
+- Ordres de service notifiant l'approbation du marché et le commencement de l'exécution des
+prestations ou la notification de l'approbation du marché prescrivant également le
+commencement de l'exécution des prestations, le cas échéant.
+1508 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+oo oo
+- Ordre de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Déclaration de constitution du cautionnement définitif ou l'attestation de la caution
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décompte numéro 1 et dernier, et copie certifiée conforme à l'original
+- Décompte définitif, le cas échéant.
+- Procès-verbal de réception provisoire ou définitive.
+- État récapitulatif de la révision des prix, le cas échéant
+- Note de calcul de la révision des prix, le cas échéant
+Paiement sur la base de plusieurs décomptes :
+Premier paiement :
+- État d'engagement visé.
+- Échange de lettres ou convention spéciale, visée.
+- Original du marché approuvé et/ou ou copie certifiée conforme à l'original excepté pour les
+cas d'avance.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Bordereau des prix des approvisionnements, le cas échéant.
+- Ordres de service notifiant l'approbation du marché et le commencement de l'exécution des
+prestations ou la notification de l'approbation du marché prescrivant également le
+commencement de l'exécution des prestations, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Déclaration de constitution du cautionnement définitif ou l'attestation de la caution
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décomptes provisoires.
+- Note de calcul de la révision des prix, le cas échéant.
+Paiements subséquents :
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Cautions de la retenue de garantie, le cas échéant.
+- Décomptes provisoires.
+- Note de calcul de la révision des prix, le cas échéant.
+Dernier paiement :
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Décompte provisoire numéro XX et dernier.
+- Décompte définitif, le cas échéant.
+- Procès-verbal de réception provisoire ou définitive, selon que le marché prévoit ou non un
+délai de garantie.
+- État récapitulatif de la révision des prix, le cas échéant
+- Note de calcul de Ia révision des prix, le cas échéant
+Paiement de la révision des prix :
+- Note de calcul de la révision des prix, le cas échéant
+- État récapitulatif de la révision des prix.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1509
+Paiement de la retenue de garantie :
+- Décompte définitif ou copie.
+- Procès-verbal de réception définitive.
+Prélèvement des pénalités de retard ou des pénalités particulières :
+- Décision de prélèvement des pénalités.
+- Note de calcul des pénalités.
+- Ordre de recettes correspondant au montant de la pénalité.
+- Ordre de service notifiant la décision de prélèvement des pénalités
+Constitution hors délai de la caution définitive :
+- Décision de confiscation du cautionnement provisoire ou d'application de la pénalité.
+- Ordre de service notifiant la décision de confiscation des cautions, le cas échéant.
+- Ordre de recettes correspondant au montant du cautionnement provisoire où au montant de
+la pénalité.
+Paiement des intérêts moratoires :
+Paiement des intérêts moratoires sur la base des décomptes :
+- Décision d'octroi des intérêts moratoires.
+- Note de calcul des intérêts moratoires.
+- Copie certifiée conforme des décomptes provisoires et/ou définitifs.
+Paiement des intérêts moratoires sur la base du paiement de la retenue de garantie ou la
+restitution des cautions personnelles et solidaires qui tiennent lieu :
+- Décision d'octroi des intérêts moratoires.
+- Note de calcul des intérêts moratoires.
+- Copie du procès verbal de réception définitive.
+- Copie certifiée conforme du décompte définitif.
+- Copie de la mainlevée des cautions, le cas échéant.
+2.1.2.5 Pièces spécifiques aux marchés passés dans le cadre d'accords ou de conventions
+conclus avec des organismes internationaux ou des États étrangers ou des organismes
+financiers
+Engagement :
+- Copie de l'accord ou de la convention de financement.
+- Tout document spécifique aux procédures de passation du marché prévues par l'accord ou fa
+convention de financement.
+- Lettre de non objection de l'organisme de financement, lorsque ce document est exigé dans
+le cadre des procédures applicables au marché.
+Paiement :
+Marchés financés par les organismes internationaux ou par « crédits fournisseurs » :
+Paiement unique :
+- Original du marché approuvé.
+- État d'engagement visé.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+1510 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+- Bordereau des prix des approvisionnements, le cas échéant.
+- Ordres de service notifiant l'approbation du marché et le commenc
+prestations ou la notification de l'approbation du marché pr
+commencement de l'exécution des prestations, le cas échéant.
+- Ordres de services d'arrêté et de reprise de l'exécution des prestation:
+- Déclaration de constitution du cautionnement définitif ou l'at
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décompte numéro 1 et dernier.
+- Décompte définitif approuvé.
+- Procès-verbal de réception provisoire ou définitive, selon que le m
+délai de garantie.
+- Décision de remboursement des échéances établie par l'ordonnateur
+- État récapitulatif de la révision des prix.
+- Note de calcul de la révision des prix, le cas échéant.
+- Toutes Les pièces exigées dans l'accord ou la convention de financer
+Paiement sur la base de plusieurs décomptes :
+Premier paiement :
+- État d'engagement visé.
+- Original du marché approuvé.
+- Bordereau des prix, le détail estimatif ou le bordereau des pri
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le
+- Bordereau des prix des approvisionnements, le cas échéant.
+- Ordres de service notifiant l'approbation du marché et le commenc
+prestations ou la notification de l'approbation du marché pr
+commencement de l'exécution des prestations, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations
+- Déclaration de constitution du cautionnement définitif ou l'a
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décomptes provisoires.
+- Décision de remboursement des échéances établie par l'ordonnateur
+- Note de calcul de la révision des prix, le cas échéant.
+- Toutes les pièces exigées dans l'accord ou la convention de finance:
+Paiements subséquents :
+- Cautions de la retenue de garantie, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations
+- Décomptes provisoires.
+- Note de calcul de la révision des prix, le cas échéant.
+Dernier paiement :
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations
+- Décompte provisoire numéro XX et dernier.
+- Décompte définitif
+- Procès-verbal de réception provisoire ou définitive, selon que le n
+délai de garantie.
+- État récapitulatif de la révision des prix, le cas échéant
+ment de l'exécution des
+escrivant également le
+, le cas échéant.
+testation de la caution
+arché prévoit ou non un
+nent.
+détail estimatif, le cas
+cas échéant.
+ement de l'exécution des
+escrivant également le
+, le cas échéant.
+testation de la caution
+nent.
+, le cas échéant.
+, le cas échéant.
+arché prévoit ou non un
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1511
+- Note de calcul de la révision des prix, le cas échéant.
+- Toutes les pièces exigées dans l'accord ou la convention de financement.
+Marchés financés sur fonds de roulement ou comptes de financement :
+Paiement unique :
+- Lettre d'éligibilité.
+- Attestation d'opposition ou de non opposition.
+- Original du marché approuvé excepté pour les cas d'avance.
+- État d'engagement visé, le cas échéant.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Bordereau des prix des approvisionnements, le cas échéant.
+- Ordres de service notifiant l'approbation du marché et le commencement de l'exécution des
+prestations ou la notification de l'approbation du marché prescrivant également le
+commencement de l'exécution des prestations, le cas échéant.
+- Ordre de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Déclaration de constitution du cautionnement définitif ou l'attestation de la caution
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décompte numéro 1 et dernier.
+- Décompte définitif et copie approuvé par l'autorité compétente, le cas échéant.
+- Procès-verbal de réception provisoire ou définitive, signé par le maître d'ouvrage, selon que
+le marché prévoit ou non un délai de garantie.
+- État récapitulatif de la révision des prix, le cas échéant
+- Note de calcul de la révision des prix, le cas échéant.
+- Toutes les pièces exigées dans l'accord ou la convention de financement.
+Paiement sur la base de plusieurs décomptes :
+Premier paiement :
+- État d'engagement visé, le cas échéant.
+- Lettre d'éligibilité.
+- Attestation d'opposition ou de non opposition.
+- Original du marché excepté pour les cas d'avance.
+- Bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif le cas
+échéant.
+- Bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Bordereau des prix des approvisionnements, le cas échéant.
+- Ordres de service notifiant l'approbation du marché et le commencement de l'exécution des
+prestations ou la notification de l'approbation du marché prescrivant également le
+commencement de l'exécution des prestations, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Déclaration de constitution du cautionnement définitif ou l'attestation de la caution
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Décomptes provisoires.
+- Note de calcul de la révision des prix, le cas échéant.
+- Toutes les pièces exigées dans l'accord ou la convention de financement.
+1512 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Paiements subséquents :
+- Ordres de service d'arrêté et de reprise de l'exécution des pi
+- Cautions de la retenue de garantie, le cas échéant.
+- Décomptes provisoires.
+- Note de calcul de la révision des prix, le cas échéant.
+Dernier paiement :
+- Ordres de service d'arrêté et de reprise de l'exécution des pi
+- Décompte provisoire numéro XX et dernier.
+- Décompte définitif, Le cas échéant.
+- État récapitulatif de la révision des prix, le cas échéant
+- Procès-verbal de réception provisoire ou définitive, selon
+délai de garantie.
+- Note de calcul de la révision des prix, le cas échéant.
+Marchés financés par crédits documentaires :
+Paiement unique :
+- État d'engagement visé,
+- Original du marché approuvé.
+- Lettre d'ouverture de crédit.
+- Bordereau des prix, le détail estimatif ou le borderea
+échéant.
+- Bordereau du prix global et la décomposition du montant £
+- Bordereau des prix des approvisionnements, le cas échéant
+- Ordres de service notifiant l'approbation du marché et le
+prestations ou la notification de l'approbation du #m
+commencement de l'exécution des prestations, le cas échéat
+- Ordres de service d'arrêté et de reprise de l'exécution des p
+- Déclaration de constitution du cautionnement définit
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Facture du fournisseur numéro XX et dernière et facture d
+maître d'ouvrage.
+- Facture de la banque numéro XX et dernière et facture dé
+maître d'ouvrage.
+- Procès-verbal de réception provisoire ou définitive, selon
+délai de garantie.
+Paiement sur la base de plusieurs factures :
+Premier paiement :
+- Original du marché approuvé.
+- Lettre d'ouverture de crédit.
+- État d'engagement visé.
+- Bordereau des prix, le détail estimatif ou le borderea
+échéant. :
+- Bordereau du prix global et la décomposition du montant $
+- Bordereau des prix des approvisionnements, le cas échéan
+estations, le cas échéant.
+stations, le cas échéant.
+que le marché prévoit ou non un
+1 des prix-détail estimatif le cas
+lobal, le cas échéant.
+commencement de l'exécution des
+arché prescrivant également le
+1.
+restations, le cas échéant.
+f ou l'attestation de la caution
+finitive certifiées et signées par le
+finitive certifiées et signées par le
+que le marché prévoit ou non un
+1 des prix-détail estimatif le cas
+:lobal, le cas échéant.
+.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL . 1513
+EE
+- Ordres de service notifiant l'approbation du marché et le commenc
+prestations ou la notification de l'approbation du marché pi
+commencement de l'exécution des prestations, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations
+- Déclaration de constitution du cautionnement définitif ou l'a
+personnelle et solidaire en tenant lieu, le cas échéant.
+- Caution de la retenue de garantie, le cas échéant.
+- Facture du fournisseur certifiée et signée par le maître d'ouvrage.
+- Facture de la banque certifiée et signée par le maître d'ouvrage.
+Paiements subséquents :
+- Factures du fournisseur certifiées par le maître d'ouvrage.
+- Factures de la banque certifiées par le maître d'ouvrage.
+- Cautions de la retenue de garantie, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestation:
+Dernier paiement :
+- Ordres de service d'arrêté et de reprise de l'exécution des prestation:
+- Facture du fournisseur numéro XX et dernière et facture définitive
+maître d'ouvrage.
+- Facture de la banque numéro XX et dernière et facture définitive
+maître d'ouvrage. |
+- Procès-verbal de réception provisoire ou définitive, selon que le :
+délai de garantie.
+2.2 Modification des clauses des marchés nécessitant la passatior
+2.2.1 Pièces justificatives communes à tous les avenants
+Engagement :
+- Projet d'avenant en double exemplaires dont un original.
+- Copie certifiée conforme à l'original du marché initial.
+- Copie certifiée conforme à l'original du (ou des) avenant (s) antérie
+- Ordre de service d'arrêté ou de reprise, Le cas échéant.
+Paiement :
+- Ordre de service dûment notifiant l'approbation de l'avenant.
+- Original de l'avenant visé, et copie certifié conforme à l'original.
+- Ordre de service d'arrêté ou de reprise, le cas échéant.
+2.2.2 Pièces complémentaires selon la nature des modification:
+aux clauses du marché
+2.2.2.1 Prestations supplémentaires
+Engagement :
+- Certificat administratif,
+- Fiche d'engagement et état d'engagement ou fiche navette en «
+original. :
+Paiement :
+- État d'engagement visé ou fiche navette visée.
+ement de l'exécution des
+escrivant également le
+, le cas échéant.
+ttestation de la caution
+, le cas échéant.
+, le cas échéant.
+certifiées et signées par le
+-ertifiées et signées par le
+natché prévoit ou non un
+| d'un avenant
+ur (s), le cas échéant.
+apportées par avenant
+leux exemplaires dont un
+1514 BULLETIN OFFICIEL | N° 6788 — 16 chaoual 1440 (20-6-2019)
+L D # Li L] ñ
+- Ordres de service de commencement de l'exécution des prestations supplémentaires, d'arrêté
+et de reprise de l'exécution des prestations, le cas échéant.
+2.2.2.2 Diminution des prestations de plus de25 % par rapport au montant initial du
+marché
+Engagement :
+- État de diminution.
+- État d'engagement initial ou fiche navette initiale.
+- Original du marché initial excepté pour les cas d'avance.
+Paiement :
+- Etat de diminution visé.
+- Original du marché initial excepté pour les cas d'avance.
+2.2.2.3 Modification dans la personne du maître d'ouvrage
+Engagement :
+- Décision de transfert signée par l'ancien et le nouveau maîtres d'ouvrages.
+- Attestation d'absence de signification de nantissement signée par le comptable assignataire
+en cas de changement de ce dernier.
+- État faisant ressortir la situation comptable du marché.
+Paiement :
+- État dûment visé, faisant ressortir la situation comptable du marché, en cas de changement
+du comptable assignataire.
+- Décompte provisoire.
+2.2.2.4 Modification affectant le comptable assignataire
+Engagement :
+- Attestation d'absence de signification de nantissement, le cas échéant, signée par le
+comptable assignataire.
+- État faisant ressortir la situation comptable du marché.
+2.2.2.5 Modification dans la raison sociale ou la dénomination du titulaire du marché
+Engagement :
+- Exemplaire du bulletin officiel édition des annonces légales ou journal ayant publié
+l'annonce du changement de la raison sociale ou tout autre document en tenant lieu, en cas de
+marché passé avec une personne morale.
+ou
+- Copie du décret justifiant le changement du nom ou copie du jugement définitif en cas
+d'erreur dans le nom ou le prénom, en cas de marché passé avec une personne physique.
+ou
+- Exemplaire du texte juridique ayant prévu le changement, en cas de marché passé avec un
+établissement public.
+Paiement :
+L Q , ? . s . La A L]
+- Décompte provisoire, comportant la nouvelle dénomination, certifié par le maître d'ouvrage
+et copie conforme à l'original.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL ° 1515
+2.2.2.6 Modification dans la domiciliation bancaire du titulaire
+Engagement : | |
+- Attestation d'absence de signification du nantissement signée par le comptable assignataire.
+- Attestation bancaire de la nouvelle domiciliation mentionnant le relevé d'identité bancaire
+(RIB).
+Paiement :
+- Décompte provisoire.
+2.2.2.7 Redressement des erreurs manifestes relevées dans les documents du marché en
+cours d'exécution
+Engagement :
+- Décision établie par l'ordonnateur ou le sous ordonnateur justifiant les erreurs relevées.
+- Copie du ou des documents concernés par le redressement.
+2.2.2.8 Cession du marché
+Engagement :
+- Autorisation de la cession par l'autorité compétente.
+- Exemplaire du bulletin officiel édition des annonces légales ou journal ayant publié
+l'annonce de la fusion ou la scission ou tout autre document en tenant lieu.
+- Déclaration sur l'honneur du nouveau titulaire.
+- Attestation délivrée depuis moins d'un an par l'administration compétente du lieu
+d'imposition du cessionnaire certifiant que celui-ci est en situation fiscale régulière.
+- Attestation délivrée au cessionnaire depuis moins d'un an par la caisse nationale de sécurité
+sociale certifiant que celui-ci est en situation régulière vis-à-vis de cet organisme.
+- Certificat d'immatriculation du cessionnaire au registre de commerce.
+- Récépissé du cautionnement ou de l'attestation personnelle et solidaire en tenant lieu, le cas
+échéant.
+Paiement :
+- Décompte provisoire.
+2.2.2.9 Modification des dimensions et dispositions des ouvrages
+Engagement :
+- Décision établie par l'ordonnateur ou le sous ordonnateur justifiant les modifications.
+Paiement :
+- Décision établie par l'ordonnateur ou Le sous ordonnateur justifiant les modifications.
+2.2.2.10 Cas de force majeure
+Engagement :
+- Fiche d'engagement et état d'engagement ou fiche navette en deux exemplaires dont un
+original, le cas échéant.
+- Lettre recommandée du titulaire du marché établissant les éléments constitutifs de la force
+majeure et ses conséquences probables sur la réalisation du marché.
+1516 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Paiement :
+- Décomptes provisoires.
+2.2.2.11 Ajournement partiel de l'exécution
+Engagement :
+- Demande de l'entrepreneur.
+- Décision établie par l'ordonnateur ou le sous ordonnateur justifiant l°
+l'exécution.
+- Ordre de service d'ajournement.
+- Ordre de reprise, le cas échéant.
+Paiement :
+- Décision établie par l'ordonnateur ou le sous ordonnateur justifiant |
+l'exécution.
+2.2.2.12 Continuation du marché en cas de décès de son titulaire
+Engagement :
+- Extrait de l'acte de décès.
+- Acte de succession.
+- Lettre recommandée informant le maître d'ouvrage de l'intentic
+continuer le marché.
+- Décision de l'autorité compétente notifiant aux ayants droit son accoi
+- État contradictoire de l'avancement des prestations, le cas échéant.
+- Récépissé du cautionnement définitif ou la caution personnelle et sc
+en tenant lieu, le cas échéant.
+- Convention de constitution du groupement des ayants droit, le cas écl
+Paiement :
+- Ordre de service de poursuivre ou, le cas échéant, de commencer
+prestations adressées aux ayants droit.
+- Récépissé du cautionnement définitif ou de caution personnelle et st
+en tenant lieu, le cas échéant.
+- Décompte provisoire et copie conforme à l'original.
+- Déclaration de constitution du cautionnement définitif, le cas échéan
+2.2.2.13 Changement de la provenance des matériaux
+Engagement :
+- Décision établie par le maître d'ouvrage justifiant le changement.
+2.2.2.14 Augmentation des délais suite à l'augmentation dans la m
+Engagement :
+- Décision du maître d'ouvrage de poursuivre l'exécution des prestatit
+2.2.2.15 Révision des conditions du marché-cadre et du marché re
+Engagement :
+- Copie du marché cadre ou du marché reconductible certifié conforn
+ajournement partiel de
+ajournement partiel de
+n des ayants droit de
+d.
+lidaire des ayants droit,
+héant.
+nent de l'exécution des
+lidaire des ayants droit,
+asse des travaux
+Dhs.
+conductible
+Le à l'original.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1517
+AA A
+Eos —
+Paiement :
+- Décompte provisoire.
+2.2.2.16 Modification du maximum et du minimum des prestations du marché cadre
+Engagement :
+- Fiche d'engagement et état d'engagement ou fiche navette en deux exemplaires dont un
+original, le cas échéant.
+- État de diminution visé, Le cas échéant.
+- Copie du marché cadre certifié conforme à l'original.
+Paiement :
+- État d'engagement visé, le cas échéant.
+- État de diminution visé, le cas échéant.
+- Ordre de service.
+2.2.2.17 Désignation d'un nouveau mandataire du groupement
+Engagement :
+- Lettre de mise en demeure.
+- Additif à la convention du groupement.
+2.3 Modification des clauses des marchés ne nécessitant pas la passation d'un avenant
+2.3.1 Pièces communes à tous les engagements complémentaires
+Engagement :
+- Fiche d'engagement et état d'engagement ou fiche navette en deux exemplaires dont un
+original. |
+- Copie certifiée conforme à l'original du marché initial.
+- Copie certifiée conforme à l'original des avenants antérieurs, le cas échéant.
+Paiement :
+- État d'engagement visé ou fiche navette visée.
+2.3.2 Pièces complémentaires par type d'engagement complémentaire
+2.3.2.1 Augmentation dans la masse des prestations
+Engagement :
+- Décision du maître d'ouvrage de poursuivre l'exécution des prestations accompagnée de
+l'estimation prévisionnelle détaillée de l'augmentation dans la masse des prestations.
+- Ordre de service de poursuivre les travaux.
+Paiement :
+- Décomptes provisoires.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+1518 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+2.3.2.2 Engagement complémentaire pour augmentation de la S
+révision des prix
+Engagement :
+- Note de calcul de la révision des prix.
+- Décomptes provisoires.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestatior
+Paiement :
+- Note de calcul de la révision des prix.
+- État récapitulatif de la révision des prix.
+- Décomptes provisoires.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestatiot
+2.3.2.3 Augmentation de la somme à valoir pour la couverture
+des taxes à l'importation
+Engagement :
+- Relevé des droits et taxes à l'importation établie par l'Administra
+Indirects.
+Paiement : |
+- Relevé des droits et taxes à l'importation établie par l' Administra
+Indirects.
+- Décomptes provisoires.
+2.3.2.4 Augmentation de la somme à valoir pour la couvertur(
+de change
+Engagement :
+- Liste des cours des devises donnée par Bank Al Maghreb.
+- Décomptes provisoires.
+Paiement :
+- Liste des cours des devises donnée par Bank Al Maghreb.
+- Décomptes provisoires.
+2.3.2.5 Augmentation résultant de la modification des prix régl
+Engagement :
+- Copies du texte législatif ou réglementaire justifiant la modificati
+- Décomptes provisoires.
+Paiement :
+- Copies du texte législatif ou réglementaire justifiant la modificati
+- Décomptes provisoires.
+2.3.2.6 Augmentation résultant de la modification dans le taux
+Engagement :
+- Copies du texte législatif justifiant la modification du taux de la
+- Décomptes provisoires.
+omme à valoir en cas de
+s, Le cas échéant.
+1, le cas échéant.
+des droits de douane et
+ion des Douanes et Impôts
+tion des Douanes et Impôts
+» des fluctuations du taux
+ementés
+on du prix.
+on du prix.
+de la TVA
+TVA.
+NO ETR8 _ 16 chaoual 1440 (20-6-2019) BULLETIN OCEL a ——————_ |
+Paiement : .
+- Copies du texte législatif justifiant la modification du taux de la TVA.
+- Décomptes provisoires.
+2.3.2.7 Engagement complémentaire pour paiement des intérêts moratoires
+Paiement sur la base des décomptes :
+Engagement : .
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+- Décompte (s) ayant servi de base de calcul du montant des intérêts moratoires.
+Paiement : :
+- Décompte (s) ayant servi de base de calcul du montant des intérêts moratoires.
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+Paiement sur [a base du paiement de la retenue de garantie ou la restitution des cautions
+personnelles et solidaires qui tiennent lieu :
+Engagement : |
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+- Copie du procès verbal de réception définitive.
+- Copie certifiée conforme du décompte provisoire n° x et dernier faisant ressortir le montant
+de la retenue de garantie. :
+- Copie de la mainlevée des cautions personnelles et solidaires en tenant lieu, le cas échéant.
+Paiement :
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+- Copie du procès verbal de réception définitive.
+- Copie certifiée conforme du décompte provisoire n° x et dernier faisant ressortir le montant
+de la retenue de garantie.
+- Copie de la mainlevée des cautions personnelles et solidaires en tenant lieu, le cas échéant.
+2.4 Continuation de l'exécution des marchés à tranches conditionnelles
+Engagement :
+- Fiche d'engagement et état d'engagement ou fiche navette en deux exemplaires dont un
+original.
+- Copie du marché initial certifiée conforme à l'original.
+- Copie du bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif, le
+cas échéant.
+- Copie du bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Copie du bordereau des prix des approvisionnements, le cas échéant.
+Paiement :
+Paiement unique :
+- État d'engagement visé ou fiche navette visée.
+- Copie du marché initial certifiée conforme à l'original. :
+- Copie du bordereau des prix, le détail estimatif ou le bordereau des prix-détail estimatif, le
+ças échéant. .,
+- Copie du bordereau du prix global et la décomposition du montant global, le cas échéant.
+1520 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+| Ro
+€ Zn Op AR RE
+- Copie du bordereau des prix des approvisionnements, le cas échéant. L
+- Ordre de service prescrivant le commencement de l'exécution de la tranche conditionnelle.
+- Décompte numéro 1 et dernier.
+- Décompte définitif à l'occasion de la présentation de la dernière tranche.
+- Procès-verbal de réception provisoire ou définitive.
+- Note de calcul de la révision des prix.
+- Etat récapitulatif de la révision des prix, le cas échéant.
+Paiement sur la base de plusieurs décomptes :
+Premier paiement :
+- État d'engagement visé ou fiche navette visée
+- Copie du marché initial certifiée conforme à l'original.
+- Copie du bordereau des prix, le détail estimatif où le bordereau des prix-détail estimatif, le
+cas échéant.
+- Copie du bordereau du prix global et la décomposition du montant global, le cas échéant.
+- Copie du bordereau des prix des approvisionnements, le cas échéant.
+- Ordre de service prescrivant le commencement de l'exécution de la tranche conditionnelle.
+- Décompte provisoire de la tranche ou des tranches considérées, certifié par le maître
+d'ouvrage et copie conforme à l'original.
+- Note de calcul : de la révision des prix.
+Paiements subséquents :
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Décomptes provisoires de la tranche ou des tranches considérées.
+- Note de calcul de la révision des prix.
+Dernier paiement :
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Décompte numéro XX et dernier de la tranche considérée.
+- Procès-verbal de réception provisoire ou définitive.
+- Note de calcul de la révision des prix.
+- Etat récapitulatif de la révision des prix, le cas échéant
+2.5 Indemnisation du titulaire
+2.5.1 Indemnisation du titulaire fixée à l'amiable
+Engagement :
+- Fiche d'engagement et état d'engagement ou fiche navette en deux exemplaires dont un
+original. |
+- Demande du titulaire, le cas échéant.
+- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité.
+Paiement :
+- État d'engagementvisé ou fiche navette visée.
+- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1521
+EL D A oo
+2.52 Indemnisation du titulaire suite à la médiation et l'arbitrage
+Engagement : |
+- Fiche d'engagement et état d'engagement où fiche navette en deux exemplaires dont un
+original.
+_- Demande du titulaire, le cas échéant.
+- Convention d'arbitrage ou de médiation, le cas échéant.
+_- Sentence arbitrale, le cas échéant.
+- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité.
+Paiement :
+- État d'engagement visé ou fiche navette visée.
+- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité visée.'
+2.5.3 Indemnisation du titulaire suite à un jugement
+Engagement :
+- Fiche navette ou état d'engagement.
+- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité.
+- Jugement définitif condamnant l'administration au paiement de l'indemnité au profit du
+titulaire.
+Paiement :
+- Fiche navette visée ou état d'engagement.
+- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité visée.
+- Jugement définitif condamnant l'administration au paiement de l'indemnité au profit du
+titulaire.
+2.5.4 Indemnisation d'attente du titulaire d'un marché à tranche conditionnelle
+Engagement :
+- Fiche d'engagement et état d'engagement ou fiche navette en deux exemplaires dont un
+original.
+- Demande du titulaire.
+- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité.
+- Copie du marché initial visé certifiée conforme à l'original.
+- Copie certifiée conforme à l'original de l'ordre de service de commencement de l'exécution,
+de la tranche conditionnelle considérée.
+Paiement :
+- État d'engagement visé ou fiche navette.
+- Décision de l'ordonnateur où du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité visée.
+1522 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+D
+EEE qq D
+2.5.5 Indemnisation de dédit du titulaire d'un marché à tranche conditionnelle
+Engagement :
+- Fiche d'engagement et état d'engagement ou fiche navette en deux exemplaires dont un
+original.
+_- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité.
+- Copie du marché initial visé certifiée conforme à l'original.
+- Ordre de service notifiant au titulaire la renonciation à la réalisation de {a tranche
+conditionnelle considérée.
+Paiement :
+- État d'engagement visé ou fiche navette visée.
+- Décision de l'ordonnateur ou du sous ordonnateur faisant ressortir les éléments de calcul et
+le montant de l'indemnité.
+2.6 Diminution sur un marché
+2.6.1 Diminution sur marché achevé dégageant un reliquat
+Engagement :
+- Etat de diminution.
+Paiement :
+- État de diminution visé.
+2.6.2 Résiliation du marché
+2.6.2.1. Pièces communes à tous les cas de résiliation avant commencement d'exécution
+des prestations
+Engagement :
+- État de diminution.
+- Original du marché approuvé excepté pour les cas d'avance.
+- Original de l'état d'engagement visé.
+- Arrêté ou décision de résiliation.
+- Ordre de service de notification de la décision de résiliation.
+2.6.2.2. Pièces communes à tous les cas de résiliation après commencement d'exécution
+des prestations
+Engagement :
+- État de diminution.
+- Arrêté ou décision de résiliation. |
+.- Copies certifiées conformes aux originaux des ordres de service de commencement, d'arrêté
+et de reprise de l'exécution des prestations, le cas échéant.
+- Copies certifiés conforme à l'original des décomptes provisoires.
+- Copies certifiés conforme à l'original du procès verbal de réception provisoire ou définitive.
+- Copies certifiés conforme à l'original du décompte définitif, le cas échéant.
+- Procès verbal de carence dressé par le maître d'ouvrage en cas de refus de la part du
+prestataire de recevoir notification des ordres de service ou de signer le décompte définitif, le
+cas échéant.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1523
+TU € €
+EE
+- Ordre de service de notification de la décision de résiliation, le cas
+Paiement :
+- Arrêté ou décision de résiliation visé (e).
+2.6.2.3 Pièces complémentaires selon le cas de résiliation
+2.62.3.1 Résiliation suite au non respect du délai de notificat
+prescrivant le commencement des prestations
+Engagement :
+- Copie certifiée conforme à l'original de l'ordre de service de nc
+du marché.
+- Copie certifiée conforme à l'original de l'ordre de service de con
+des prestations, le cas échéant.
+- Copie de la demande de résiliation du titulaire.
+2.6.2.3.2 Résiliation suite à l'ajournement
+Engagement :
+- Copies certifiées conformes aux originaux des ordres de service
+et de reprise de l'exécution des prestations, le cas échéant.
+- Copie certifiée conforme à l'original de l'ordre de service pre
+prestations, le cas échéant.
+- Copie de la demande de résiliation du titulaire.
+2.6.2.3.3 Résiliation suite à la cessation des prestations
+Engagement :
+- Copie certifiée conforme à l'original de l'ordre de service de cc
+reprise de l'exécution des prestations.
+- Copie certifiée conforme à l'original de l'ordre de service p
+prestations.
+2.6.2.3.4 Résiliation suite à la force majeure
+Engagement :
+- Copie de la demande du titulaire, le cas échéant.
+2.6.2.3.5 Résiliation suite à l'application des mesures coercitive
+Engagement :
+- Copie de la décision de mise en demeure.
+- Ordre de service notifiant la décision de mise en demeure.
+2.6.2.3.6 Résiliation suite au décès du titulaire
+Engagement :
+- Extrait de l'acte de décès.
+échéant.
+ion de l'ordre de service
+tification de l'approbation
+imencement de l'exécution
+de commencement, d'arrêté
+scrivant l'ajournement des
+mmencement, d'arrêté et de
+rescrivant la cessation des
+1524 BULLETIN OFFICIEL | N° 6788 — 16 chaoual 1440 (20-6-2019)
+UE OS
+2.6.2.3.7 Résiliation suite à l'incapacité civile ou d'exercice
+mentale du titulaire
+Engagement :
+- Document justifiant l'incapacité ou l'interdiction d'exercice.
+2.6.2.3.8 Résiliation suite au redressement judiciaire ou de li
+Engagement :
+- Décision de l'autorité judiciaire compétente.
+2.6.2.3.9 Résiliation suite à une révision des prix au-delà des
+Engagement :
+- Note de calcul de la révision des prix.
+_- Demande de résiliation du titulaire, le cas échéant.
+- Etat récapitulatifs de la révision des prix.
+2.62.3.10 Résiliation suite à la diminution dans la masse
+seuils réglementaires
+Engagement :
+- Copie de la demande de résiliation du titulaire.
+2.6.2.3.11 Résiliation suite au retard dans l'exécution
+Engagement :
+- Note de calcul de la pénalité de retard.
+2.6.2.3.12 Résiliation suite en cas de retard dans le paiemen
+Engagement :
+- Copie de la demande de résiliation du titulaire.
+2.7 Annulation d'un marché visé mais non approuvé par l':
+Engagement :
+- État de diminution.
+- Original du projet de marché visé.
+- Original de l'état d'engagement visé.
+- Décision d'annulation du marché faisant ressortir le motif d'e
+2.8 Marché-cadre et marché reconductible
+2.8.1 Diminution du marché-cadre et du marché recor
+précédente
+Engagement :
+- État de diminution.
+Paiement :
+- État de diminution visé.
+e et incapacité physique ou
+quidation judiciaire
+seuils réglementaires
+des prestations au-delà des
+t des sommes dues
+autorité compétente
+innulation.
+ductible au titre de l'année
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1525
+RU CU OUT oo
+EE mt sit a
+2.8.2 Reconduction du marché-cadre et du marché reconductible
+Engagement :
+- Copie certifiée conforme à l'original du marché initial.
+- Fiche d'engagement et état d'engagement ou fiche navette en deux exemplaires dont un
+original. .
+- Copie certifiée conforme à l'original du (ou des) avenant (s) antérieur (s), le cas échéant.
+- Copie de l'ordre de service initial de commencement de l'exécution des prestations.
+Paiement :
+- État d'engagement visé.
+- Décomptes provisoires.
+- Copie certifiée conforme à l'original du (ou des) avenant (s) antérieur (s), le cas échéant.
+2.9 Contrats d'architecte
+2.9.1 Pièces communes à tous les contrats d'architecte
+Engagement : |
+- Fiche d'engagement et état d'engagement en deux exemplaires dont un original ou fiche
+navette.
+- Proposition financière comprenant l'acte d'engagement précisant la proposition
+d'honoraires.
+- Estimation sommaire du coût global des travaux du projet.
+- Rapport de présentation du contrat d'architecte en double exemplaire dont un original.
+- Projet de contrat d'architecte en double exemplaire dont un original.
+2.9.2 Pièces complémentaires selon la nature du contrat d'architecte
+2.9.2.1 Consultation architecturale
+Engagement :
+- Procès-verbaux de chacune des réunions du jury ou la sous commission le cas échéant de la
+consultation architecturale.
+Paiement :
+Honoraires sur l'approbation de la phase étude :
+- État d'engagement visé en deux exemplaires dont un original.
+- Contrat d'architecte visé.
+- État d'honoraire provisoire.
+- Ordres de services notifiant l'approbation du contrat et le commencement de l'exécution des
+prestations ou la notification de l'approbation du contrat valant commencement de l'exécution
+des prestations, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Procès verbal de validation de la phase d'étude considérée.
+Honoraires après approbation du marché de travaux :
+- Copie certifiée conforme du marché ou des marchés de travaux approuvés.
+- État d'honoraire provisoire. |
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+1526 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+A ,
+Honoraires sur le montant des décomptes pour la phase suivi et contrôle d'exécution des
+travaux :
+- État d'honoraire provisoire.
+- Copie (s) du ou des décompte (s) provisoires des travaux.
+Honoraires sur le montant des travaux à la réception provisoire :
+- État d'honoraire provisoire.
+- Copie du procès-verbal de réception provisoire ou définitive des travaux.
+- Copie (s) du ou des décompte (s) provisoires des travaux.
+Honoraires sur le montant des travaux à la réception définitive :
+- État d'honoraire provisoire numéro XX et dernier.
+- État d'honoraire définitif.
+- Copie du procès-verbal de réception définitive des travaux.
+- Copie du décompte définitif des travaux.
+Retenue de pénalités pour retard dans l'exécution des prestations architecturales ou
+absence aux visites et réunions de chantier :
+- Décision attestant la retenue des pénalités pour retard ou absence aux visites et réunions de
+chantier
+- Note de calcul des pénalités.
+- Ordre de recettes correspondant au montant de la pénalité de retard d'absence aux visites et
+réunions de chantier.
+Paiement des intérêts moratoires :
+- Décision d'octroi des intérêts moratoires
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+- Etat d'honoraire (s) ayant servi de base de calcul du montant des intérêts moratoires.
+2.9.2.2 Concours architectural
+Engagement :
+_ Procès-verbaux de chacune des réunions du jury ou la sous commission le cas échéant du
+concours architectural.
+Paiement :
+Honoraires sur l'approbation de la phase étude :
+- État d'engagement visé en deux exemplaires dont un original.
+- Contrat d'architecte visé.
+- État d'honoraire provisoire.
+- Ordres de services notifiant l'approbation du contrat et le commencement de l'exécution des
+prestations ou la notification de l'approbation du contrat valant commencement de l'exécution
+des prestations, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Procès verbal de validation de la phase d'étude considérée.
+Honoraires après approbation du marché de travaux :
+- Copie certifiée conforme du marché ou des marchés de travaux approuvés.
+- État d'honoraire provisoire.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1527
+SR RU
+A
+Honoraires sur le montant des décomptes pour la phase suivi et contrôle d'exécution des
+travaux :
+- État d'honoraire provisoire.
+- Copie (s) du ou des décompte (s) provisoires des travaux.
+Honoraires sur le montant des travaux à la réception provisoire :
+- État d'honoraire provisoire,
+- Copie du procès-verbal de réception provisoire des travaux.
+Honoraires sur le montant des travaux à la réception définitive :
+- État d'honoraire provisoire numéro XX et dernier.
+- État d'honoraire définitif.
+- Copie du procès-verbal de réception définitive des travaux.
+Retenue de pénalités de retard dans l'exécution des prestations architecturales ou
+d'absence aux visites et réunions de chantier : |
+- Décision attestant la retenue des pénalités de retard ou d'
+chantier.
+- Note de calcul des pénalités.
+- Ordre de recettes correspondant au montant de la pénalité de retard d'abs
+réunions de chantier.
+- Ordre de service notifiant l'application des pénalités.
+absence aux visites et réunions de
+ence aux visites et
+Paiement des intérêts moratoires :
+- Décision d'octroi des intérêts moratoires
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+- Etat d'honoraire (s) ayant servi de base de calcul du montant des intérêts moratoires.
+2.9.2.3 Allocation de primes, aux architectes les mieux classés par le jury du concours
+Engagement :
+- Procès-verbaux de chacune des réunions du jury ou la sous commission le cas échéant du
+concours architectural.
+- Décision de l'ordonnateur ou du sous ordonnateur portant octroi des primes.
+- Programme du concours fixant les primes.
+Paiement :
+- État d'engagement visé.
+- Décision de l'ordonnateur ou du sous ordonnateur, portant octroi des primes.
+2.9.2.4 Consultation architecturale négociée
+Engagement :
+Consultation architecturale négociée après publicité préalable et mise en concurrence :
+- Certificat administratif.
+- Journal ayant publié l'avis de publicité. le cas échéant.
+- Rapport de la procédure négociée signé par le président et les membres de la commission.
+- Dossier administratif de l'architecte attributaire.
+- Proposition technique de l'architecte attributaire.
+_ Procès verbal de consultation architecturale déclarant l'appel d'offre infructueuse.
+- Proposition financière de l'architecte attributaire.
+1528 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+GE pop 0 A
+Consultation architecturale négociée sans publicité préalable et sans mise en Concurrence :
+- Certificat administratif.
+- Décision du chef du gouvernement, le cas échéant.
+- Dossier administratif de l'architecte attributaire.
+- Proposition technique de l'architecte attributaire.
+Paiement :
+Honoraires sur l'approbation de la phase étude :
+- État d'engagement visé.
+- Contrat d'architecte visé.
+- État d'honoraire provisoire.
+- Ordres de services notifiant l'approbation du contrat et le commencement de l'exécution des
+prestations ou la notification de l'approbation du contrat valant commencement de l'exécution
+des prestations, le cas échéant.
+- Ordres de service d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+- Procès verbal de validation de la phase d'étude considérée.
+Honoraires après approbation du marché des travaux :
+- Copie certifiée conforme du marché ou des marchés approuvés.
+- État d'honoraire provisoire.
+Honoraires sur le montant des décomptes pour la phase suivi et contrôle d'exécution des
+travaux :
+- État d'honoraire provisoire.
+- Copie (s) du ou des décompte (s) provisoires des travaux.
+Honoraires sur le montant des travaux à la réception provisoire :
+- État d'honoraire provisoire.
+- Copie du procès-verbal de réception provisoire des travaux.
+- Copie (s) du ou des décompte (s) provisoires des travaux.
+Honoraires sur le montant des travaux à la réception définitive :
+- État d'honoraire provisoire numéro XX et dernier.
+- État d'honoraire définitif.
+- Copie du procès-verbal de réception définitive des travaux.
+- Copie (s) du décompte définitif des travaux.
+Retenue de pénalités de retard dans l'exécution des prestations architecturales ou
+d'absence aux visites et réunions de chantier :
+- Décision attestant la retenue des pénalités de retard ou d'absence aux visites et réunions de
+chantier.
+- Note de calcul des pénalités.
+- Ordre de recettes correspondant au montant de la pénalité de retard d'absence aux visites et
+réunions de chantier.
+- Ordre de service notifiant la décision d'application des pénalités.
+Paiement des intérêts moratoires :
+- Décision d'octroi des intérêts moratoires
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1529
+US A RE
+po de
+- État d'honoraire (s) ayant servi de base de calcul du montant des intérêts moratoires.
+2.9.3 Avenant au contrat d'architecte
+2.9.3.1 Pièces justificatives communes à tous les avenants
+Engagement :
+- Projet d'avenant en double exemplaires dont un original.
+- Copie certifiée conforme à l'original du contrat d'architecte initial.
+- Copie certifiée conforme à l'original du (ou des) avenant (s) antérieur (s), le cas échéant.
+Paiement :
+- Ordre de service dûment notifiant l'approbation de l'avenant.
+- Original de l'avenant visé.
+- État d'honoraire provisoire.
+2.9.3.2 Pièces complémentaires selon la nature des modifications apportées par avenant
+aux clauses du marché
+2.9.3.2.1 Modification dans la personne du maître d'ouvrage
+Engagement : |
+- Décision de transfert signée par l'ancien et le nouveau maîtres d'ouvrages.
+- État faisant ressortir la situation comptable du marché.
+Paiement :
+- État dûment visé, faisant ressortir la situation comptable du contrat d'architecte, en cas de
+changement du comptable assignataire.
+- État d'honoraire provisoire certifié par le nouveau maître d'ouvrage et copie conforme à
+l'original.
+2.9.3.2.2 Modification affectant le comptable assignataire
+Engagement :
+- Attestation d'absence de signification de nantissement le cas échéant, signée par le
+comptable assignataire, en cas de changement de ce dernier.
+- État faisant ressortir la situation comptable du marché.
+2.9.3.2.3 Modification dans la dénomination de l'architecte
+Engagement :
+- Exemplaire du bulletin officiel édition des annonces légales ou journal ayant publié
+l'annonce du changement de la raison sociale ou tout autre document en tenant lieu, en cas de
+contrat passé avec une société d'architecte ou copie du décret justifiant le changement du nom
+ou copie du jugement définitif en cas d'erreur dans le nom ou le prénom de l'architecte, en
+cas de contrat passé avec un architecte exerçant à titre privé et sous forme indépendante.
+Paiement :
+- État d'honoraire provisoire, comportant la nouvelle dénomination, certifié par le maître
+d'ouvrage et copie conforme à l'original.
+1530 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+| RL
+2.9.3.2.4 Modification dans la domiciliation bancaire de l'architecte
+Engagement : |
+- Attestation d'absence de signification du nantissement signée par le comptable assignataire.
+- Attestation bancaire de la nouvelle domiciliation mentionnant le relevé d'identité bancaire
+(RIB).
+Paiement :
+Z . . , CZ x . UE Pan
+- État d'honoraire provisoire certifié par le maître d'ouvrage et copie conforme à l'original.
+2.9.3.2.5 Cas de force majeure
+Engagement : |
+- Fiche d'engagement et état d'engagement en deux exemplaires dont un original, le cas
+échéant.
+- Lettre recommandée de l'architecte établissant les éléments constitutifs de la force majeure
+et ses conséquences probables sur la réalisation du contrat d'architecte.
+2.9.3.2.6 Redressement des erreurs manifestes relevées dans les documents du contrat
+d'architecte
+Engagement :
+- Décision établie par l'ordonnateur ou le sous ordonnateur justifiant les erreurs relevées.
+- Copie du ou des documents concernés par le redressement.
+2.9.4 Modification du contrat d'architecte ne nécessitant pas la passation d'un avenant
+2.9.4.1 Engagement complémentaire des honoraires d'architecte
+Engagement :
+- Fiche d'engagement et état d'engagement en deux exemplaires dont un original.
+- Copie certifiée conforme du marché initial relatif aux travaux.
+- Copie certifiée conforme de l'avenant au marché initial portant sur les travaux, le cas
+échéant.
+- Copie certifiée conforme du contrat initial et de ses avenants éventuels.
+- Copie (s) du ou des décompte (s) provisoires des travaux réellement exécutés.
+- Copies certifiées conforme aux originaux des ordres de service de commencement de
+l'exécution des prestations, d'arrêté et de reprise de l'exécution des prestations, le cas échéant.
+Paiement :
+- État d'engagement visé.
+- État d'honoraire provisoire.
+- Copie (s) du ou des décompte (s) provisoires des travaux réellement exécutés.
+2.9.4.2 Diminution sur contrat d'architecte achevé dégageant un reliquat
+Engagement :
+- État de diminution.
+Paiement :
+- État de diminution visé.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL . 1531
+OS PR EE
+EE
+3.9.5 Résiliation du contrat d'architecte
+2.9.5.1 Pièces communes à tous les cas de résiliation avant commencement d'exécution
+des prestations
+Engagement :
+- État de diminution.
+- Original du contrat initial et copie certifiée conforme à l'original.
+- Original de l'état d'engagement visé.
+- Décision de résiliation.
+- Ordre de service de notification de la décision de résiliation.
+2.9.5.2 Pièces communes
+à tous les cas de résiliation après commencement d'exécution
+des prestations
+Engagement :
+- État de diminution.
+- Arrêté ou décision de résiliation.
+- Copies certifiées conformes aux originaux des ordres de service de commencement, d'arrêté
+et de reprise de l'exécution des prestations, le cas échéant.
+- Copies certifiés conforme à l'original des états d'honoraires.
+- Copies certifiés conforme à l'original du procès verbal de réception provisoire ou définitive.
+- copie certifiés conforme à l'original de l'état d'honoraire définitif, le cas échéant.
+- Procès verbal de carence dressé par le maître d'ouvrage en Cas de refus de la part de
+l'architecte de recevoir notification des ordres de service ou de signer l'état d'honoraire
+définitif, le cas échéant.
+Paiement :
+- Arrêté ou décision de résiliation visée.
+2.9.5.3 Pièces complémentaires selon le cas de résiliation
+2.9.5.3.1 Résiliation suite à l'application des mesures coercitives
+Engagement :
+- Copie certifiée conforme à l'original de l'ordre de se
+des prestations.
+- Copie certifiée conforme de la décision de mise en demeure.
+- Ordre de service notifiant la décision de mise en demeure.
+rvice de commencement de l'exécution
+2.9.5.3.2. Résiliation suite au non respect du délai de notification de l'ordre de service
+prescrivant le commencement des prestations
+Engagement :
+- Copie certifiée conforme à l'original de l'ordre de service de notification de l'approbation
+du contrat.
+- Copie certifiée conforme à l'original de l'ordre de service de commencement de l'exécution
+des prestations, le cas échéant.
+- Copie de la demande de résiliation du titulaire.
+1532 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+€
+2.9.5.3.3 Résiliation suite à la force majeure
+Engagement :
+- Copie de la demande du titulaire, le cas échéant.
+2.9.5.3.4 Résiliation suite au décès du titulaire
+Engagement :
+_ Extrait de l'acte de décès ou l'acte de dissolution de la société
+- État contradictoire de l'avancement des prestations en cas de £
+2.9.5.3.5 Résiliation suite à l'incapacité civile ou d'exercic
+mentale de l'architecte
+Engagement :
+- Document justifiant l'incapacité ou l'interdiction d'exercice.
+- Document justifiant la dissolution de la société en cas
+d'autorisation, le cas échéant.
+2.9.5.3.6 Résiliation suite au retard dans l'exécution
+Engagement :
+- Note de calcul de la pénalité de retard.
+- Copie de décision de mise en demeure.
+- Ordre de service notifiant la décision de mise en demeure.
+2.9.6 Annulation d'un contrat visé mais non approuvé par |
+Engagement :
+- État de diminution.
+- Original du projet du contrat visé.
+- Original de l'état d'engagement visé.
+- Décision d'annulation du contrat faisant ressortir le motif d'a
+Chapitre IIE : Pièces justificatives des propositions d'en;
+autres dépenses des biens et services
+3.1 Pièces justificatives communes à toutes les propositions
+dépenses
+Engagement :
+- Fiche d'engagement et état d'engagement où fiche navett
+original.
+Paiement :
+- État d'engagement visé.
+d'architectes, le cas échéant.
+roupement.
+e et incapacité physique ou
+de suspension ou de retrait
+autorité compétente
+nnulation.
+sagement et de paiement des
+d'engagement et paiement de
+> en deux exemplaires dont un
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1533
+. EE
+3.2 Pièces complémentaires selon la nature de la dépense
+3.2.1 Bons de commande
+Engagement :
+- Bon de commande.
+- Trois devis contradictoires au moins, ou note établie par l°
+ou la personne habilitée, le cas échéant, en cas d'imposs
+préalable ou d'incompatibilité de celle-ci avec la prestation.
+ordonnateur, le sous ordonnateur
+ibilité de mise en concutrence
+Paiement :
+- Bon de commande visé.
+- Facture.
+3.2.2 Loyers et charges locatives
+3.2.2.1 Contrat initial du loyer
+3.2.2.1.1 Loyers d'immeubles à usage administratif
+Engagement :
+- Lettre portant accord du ministre chargé des finances.
+- Procès-verbal de la commission d'expertise pour les locations à usage administratif.
+- Contrat de location ou de bail à joindre au premier engagement en un exemplaire original et
+une copie certifiée conforme.
+Paiement :
+- Contrat de location ou de bail visé en un exemplaire original et une copie certifiée conforme.
+3.2.2.1.2 Loyers d'immeubles à usage d'habitation
+Engagement :
+- Lettre portant accord du ministre chargé des finances.
+- Contrat de location ou de bail à joindre au premier engagement en un exemplaire original et
+une copie certifiée conforme.
+Paiement :
+- Contrat de location ou de bail visé en un exemplaire original et une copie certifiée conforme.
+3.2.2.2 Modification du contrat
+3.2.2.2.1 Décès du propriétaire
+Engagement :
+- Extrait de l'acte de décès.
+- Extrait de l'acte authentique d'hérédité et de partage entre les ayants droit.
+- Copie certifiée conforme du contrat de location ou de bail initial et les avenants, le cas
+échéant.
+- Avenant.
+Paiement :
+- Avenant visé en double exemplaire dont un original.
+1534 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+3.2.2.2.2 Vente ou de transfert de la propriété
+Engagement :
+- Acte de vente.
+- Certificat de propriété délivré par la conservation foncière où P
+lorsque le bien immeuble n'est pas immatriculé.
+- Copie certifiée conforme du contrat de location ou de bail initia
+échéant.
+- Avenant.
+Paiement :
+- Avenant visé en double exemplaire dont un original.
+3.2.2.2.3 Augmentation du montant de loyer
+Engagement :
+- Lettre portant accord du ministère des finances ou jugement, le cas
+- Copie certifiée conforme du contrat de location ou de baïil initis
+échéant.
+- Avenant.
+Paiement :
+- Avenant visé en double exemplaire dont un original.
+3.2.2.2.4 Avenant pour changement de la domiciliation bancaire
+Engagement :
+- Attestation bancaire précisant la nouvelle domiciliation bancaire m
+nouvelle identité bancaire (RIB).
+- Copie certifiée conforme du contrat de location ou de bail initi
+échéant.
+- Avenant.
+Paiement :
+- Avenant visé en double exemplaire dont un original.
+3.2.2.3 Remboursement de la taxe relative aux services commun:
+Engagement :
+- Fiche navette.
+Paiement :
+- Quittance de paiement ou déclaration de versement délivrée par le |
+- Avis d'imposition précisant le principal de la taxe et l'adresse
+contrat de bail.
+3.2.3 Impôts et taxes
+Engagement :
+- Fiche navette.
+acte adulaire ou notarié
+l et les avenants, le cas
+échéant.
+il et les avenants, le cas
+entionnant le relevé de la
+al et les avenants, le cas
+iux
+percepteur.
+de la propriété objet du
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1535
+C re
+Paiement : .
+- État des sommes dues appuyé d'avis d'imposition ou d'extra
+3.2.4 Médecins conventionnés
+Engagement :
+- Convention à joindre au premier engagement et avenant
+convention initiale.
+Paiement :
+- Note d'honoraires.
+- Convention visée et l'avenant visé, Le cas échéant.
+3.2.5 Honoraires des avocats |
+3.2.5.1 Avocats conventionnés
+Engagement :
+- Convention à joindre au premier engagement et avenan
+convention initiale.
+Paiement :
+- Convention visée.
+- Note d'honoraires dûment certifiée par l'autorité compétent
+3.2.5.2 Avocats non conventionnés
+Engagement :
+- Lettre de désignation de l'avocat.
+- Note d'honoraires dûment certifiée par l'autorité compéten!
+Paiement :
+- Note d'honoraires dûment certifiée par l'autorité compétent
+3.2.6 Honoraires de jurisconsulte
+Engagement :
+- Convention.
+- Note d'honoraires dûment certifiée par l'autorité compéten
+Paiement :
+- Convention visée.
+- Note d'honoraires dûment certifiée par l'autorité compéten
+3.2.7 Taxes et redevances et de télécommunications
+Engagement :
+- Convention.
+Paiement :
+- Convention.
+it de rôles.
+en cas de modification de la
+t en cas de modification de la
+e.
+te.
+te.
+1536 BULLETIN OFFICIEL : N° 6788 — 16 chaoual 1440 (20-6-2019)
+RÉ
+3.2.8 Redevances d'eau et d'électricité
+Engagement :
+- Convention.
+Paiement :
+- Convention visée
+3.2.9 Achat de véhicules et d'engins
+Engagement :
+- Convention.
+- Programme d'achat visé par le ministre des finances.
+Paiement :
+- Convention visée.
+- Facture.
+3.2.10 Transport du personnel à l'intérieur du Royaun
+Engagement :
+- Convention.
+Paiement :
+- Convention.
+3.2.11 Vignettes de carburant et lubrifiant et réparatio
+Engagement :
+- Convention.
+Paiement :
+- Convention.
+3.2.12 Autres contrats ou conventions de droit commu
+Engagement :
+- Contrat ou convention.
+Paiement :
+- Contrat ou convention visé (e).
+- Facture.
+3.2.13 Frais de cuisson ou de panification
+Engagement :
+- État des sommes dues.
+Paiement
+- État des sommes dues visé.
+(
+n de parc automobile
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL : 1537
+ee A A RE
+3.2.14 Prestations en nature
+Engagement :
+. - Facture justifiant le remboursement de frais.
+- État des sommes dues.
+Paiement :
+- État des sommes dues visé.
+3.2.15 Remboursement des frais, redevances et taxes de comn
+postes téléphoniques installés au domicile de certains fonctionna
+Engagement :
+- Autorisation du ministre de l° Intérieur à à installer le téléphone au d
+- Facture ou reçu.
+- État des sommes dues.
+Paiement :
+- Facture ou reçu.
+- État des sommes dues visé.
+3.2.16 Cotisation du Maroc aux organismes internationaux
+Engagement :
+- Décision de versement.
+- Convention ou accord international justifiant la nature et le monta
+Paiement :
+- Décision de versement visée par le ministre chargé des finances.
+3.2.17 Assurance des véhicules du parc automobile de l'État
+Engagement :
+- Décision de versement de l'assurance visée
+- Liste de l'ensemble des véhicules composant le parc automob
+nationale de transport et de logistique.
+Paiement :
+- Décision de versement de l'assurance visée
+- Liste de l'ensemble des véhicules composant le parc automob
+nationale de transport et de logistique.
+3.2.18 Taxe spéciale annuelle sur les véhicules automobiles
+Engagement :
+- État récapitulatif du parc automobile assujetti à la taxe spéciale
+automobiles visé par le ministère des finances.
+Paiement :
+- État récapitulatif du parc automobile assujetti à la taxe spéciale
+automobiles visé par le ministère des finances.
+iunication afférents aux
+ires et agents de PEtat
+»>micile du bénéficiaire.
+1t de la cotisation.
+ile certifiée par la société
+ile certifiée par la société
+annuelle sur les véhicules
+annuelle sur les véhicules
+1538 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+US
+a
+3.2.19 Frais d'insertion |
+Engagement :
+- Facture. |
+- Coupon du journal justifiant le montant des frais d'insertion.
+Paiement :
+- Facture.
+3.2.20 Prime de renouvellement du parc de transport routier
+Engagement :
+- Original de l'attestation d'éligibilité.
+- Copie certifiée conforme de la carte grise.
+- Engagement pour l'acquisition d'un nouveau véhicule et la mise à La
+et légalisé conforme par le représentant légal de la société.
+- Pièces justifiant les pouvoirs du (des) représentant (s) légal (s) de la s
+- Décision de versement du montant de la prime au profit du fourniss:
+remplacement signé par l'ordonnateur.
+Paiement :
+- Original de l'attestation d'éligibilité.
+- Attestation de mise à la casse de l'ancien véhicule.
+- Décision de versement du montant de la prime au profit du fourniss
+remplacement visée.
+- Copie certifiée conforme de la carte grise de nouveau véhicule.
+3.2.21 Prime de casse du parc de transport routier
+Engagement :
+- Original de l'attestation d'éligibilité.
+- Copie certifiée conforme de la carte grise.
+- Engagement pour la mise à la casse de l'ancien signé et lég
+représentant légal de la société.
+- Pièces justifiant les pouvoirs du (des) représentant (s) légal (s) de la :
+- Décision de versement du montant de la prime au profit du propriéta
+Paiement :
+- Original de l'attestation d'éligibilité.
+- Attestation de mise à la casse de l'ancien véhicule.
+- Décision de versement du montant de la prime au profit du fournis
+remplacement visée.
+3.2.22 Subventions et contributions
+3.2.22.1 Subventions
+Engagement :
+- Décision de subvention visée par le ministre chargé des finances.
+Paiement :
+_ Décision de subvention visée par le ministre chargé des finances.
+casse de l'ancien signé
+Dciété.
+“ur du véhicule neuf de
+sur du véhicule neuf de
+alisé conforme par le
+société.
+re du véhicule.
+eur du véhicule neuf de
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1539 |
+\ RO
+——@—@—2—Z2ZEZELELELELE ST
+3.2.22.2 Contributions financières publiques versées aux associations dans le cadre du
+partenariat entre l'État et les associations
+3.2.22.2.1 Contributions financières supérieures ou égales à cinquante mille dirhams
+Engagement :
+- Décision d'octroi de la contribution signée par l'ordonnateur ou le sous ordonnateur.
+- Décision de désignation du comité d'éligibilité par l'ordonnateur concerné.
+- Procès verbal du comité d'éligibilité.
+- Convention conclue entre l'ordonnateur ou le sous ordonnateur et
+de la contribution.
+l'association bénéficiaire
+Paiement :
+- Décision d'octroi de la contribution signée par l'ordonnateur ou le sous ordonnateur et visée.
+- État de liquidation.
+3.2.22.2.2 Contributions financières inférieures à cinquante mille dirhams
+Engagement : |
+- Décision d'octroi de la contribution signée par l'ordonnateur ou le sous ordonnateur.
+Paiement :
+- Décision d'octroi de la contribution visée.
+- État de liquidation.
+3.2.23 Acquisitions immobilières et dépenses connexes
+3.2.23.1 Versement au fonds de remploi domanial
+Engagement :
+- Ordre de recettes pour versement au fonds de remploi domanial établi par la Direction des
+Domaines de l'État revêtu de la mention « bon à recouvrer ».
+Paiement :
+- Ordre de recettes pour versement au fonds de remploi domanial établi par la Direction des
+Domaines de l'État revêtu de la mention « bon à recouvrer ».
+3.2.23.2 Acquisition à l'amiable
+Engagement :
+- Décision de versement.
+- Arrêté du ministre chargé des finances autorisant l'acquisition.
+- Procès-verbal de la commission d'expertise.
+- Acte d'acquisition.
+- Documents de propriété lorsque l'immeuble n'est ni immatriculé, ni en cours
+d'immatriculation appuyés d'une note explicative.
+- Certificat du conservateur de la propriété foncière attestant que l'immeuble est immatriculé
+ou en cours d'immatriculation.
+Paiement :
+- Décision de versement visée.
+- Acte d'acquisition.
+1540 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+| re
+Lo EE
+- Certificat du conservateur de la propriété foncière attestant le transfert de propriété au nom
+de l'État.
+3.2.23.3 Acquisition par voie d'expropriation pour cause d'utilité publique
+3.2.23.3.1 Règlement sur la base d'un accord amiable
+Engagement :
+- Décision de versement.
+- décret déclarant l'utilité publique.
+_- Acte de cessibilité, le cas échéant.
+- Procès-verbal de la commission d'expertise.
+_ Procès-verbal d'accord amiable ou contrat portant sur la prise de procession ou sur la
+renonciation définitive de la propriété.
+- Documents de propriété lorsque l'immeuble n'est ni immatriculé,
+d'immatriculation appuyés d'une note explicative.
+- Certificat du conservateur de la propriété foncière atte
+ou en cours d'immatriculation.
+- Certificat foncier attestant le transfert de propriété au nom de l'Etat (cas du Titre foncier) ou
+inscription de l'acte ou PV d'accord amiable (cas d'une réquisition d'immatriculation).
+ni en cours
+stant que l'immeuble est immatriculé
+Paiement :
+- Décision de versement visée.
+- Procès-verbal d'accord à l'amiable ou contrat.
+- Certificat du conservateur de la propriété foncière attestant le transfert de propriété au nom
+de l'État.
+3.2.23.3.2 Règlement sur la base d'un jugement
+3.2.23.3.2.1 Paiement direct de l'indemnité provisionnelle
+Engagement :
+- Décision de versement.
+- Ordonnance du juge des référés.
+- Certificat du conservateur de la propriété foncière attestant l'inscription de la prise de
+possession lorsque l'immeuble est immatriculé ou en cours d'immatriculation.
+- Documents de propriété lorsque l'immeuble n'est ni immatriculé, ni
+d'immatriculation appuyés d'une note explicative.
+- Certificat du greffe du tribunal administratif attestant l'inscription de la prise de possession
+lorsque l'immeuble n'est ni immatriculé ni en cours d'immatriculation.
+en Cours
+Paiement :
+- Décision de versement visée.
+3.2.23.3.2.2 Consignation de l'indemnité provisionnelle
+Engagement :
+- Décision de versement. |
+- Ordonnance du juge des référés.
+- Décision motivée de l'ordonnateur prescrivant la consignation.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1541
+: 0
+ET
+Paiement :
+- Décision de versement visée.
+- Décision motivée de l'ordonnateur prescrivant la consignation.
+3.2.23.3.2.3 Paiement direct de l'indemnité d'expropriation
+Engagement :
+- Décision de versement.
+- Jugement d'expropriation portant transfert de propriété.
+- Documents de propriété lorsque l'immeuble n'est ni immatriculé, ni
+d'immatriculation appuyés d'une note explicative.
+- Certificat du conservateur de la propriété foncière lorsque l'immeuble est immatriculé ou en
+cours d'immatriculation.
+- Certificat du greffe du tribunal administratif attestant l'inscription du jugement de transfert
+de propriété lorsque l'immeuble n'est ni immatriculé ni en cours d'immatriculation.
+en Cours
+Paiement :
+- Décision de versement visée.
+- Certificat du conservateur de la propriété foncière attestant le transfert de propriété au nom
+de l'État lorsque l'immeuble est immatriculé ou l'inscription du jugement d'expropriation
+lorsque l'immeuble est en cours d'immatriculation.
+- Certificat du conservateur de la propriété foncière attestant que l'immeuble est immatriculé ou
+jugement de transfert de propriété lorsque l'immeuble est en cours d'immatriculation.
+3.2.23.3.2.4 Consignation de l'indemnité d'expropriation
+Engagement :
+- Décision de versement.
+- Jugement d'expropriation portant transfert de propriété.
+- Décision motivée de l'ordonnateur prescrivant la consignation.
+Paiement :
+- Décision de versement visée.
+- Décision motivée de l'ordonnateur prescrivant la consignation.
+3.2.24 Indemnité pour occupation temporaire
+Engagement :
+- Décision d'indemnisation fixant le barème de calcul et le montant alloué à chaque
+propriétaire.
+- Procès verbal de la commission d'expertise.
+- décret ou arrêté, selon le cas.
+- Accord du propriétaire sur le montant de l'indemnité ou à défaut le jugement du tribunal.
+Paiement :
+- Décision d'indemnisation visée fixant le barème de calcul et le montant alloué à chaque
+propriétaire.
+3.2.24.1 Consignation de l'indemnité provisionnelle
+Engagement :
+- décret ou arrêté, selon le cas.
+- Décision de versement.
+- Décision motivée de l'ordonnateur prescrivant la consignation.
+1542 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019) |
+a - un ” ess arr —
+- Procès verbal d'expertise.
+- Jugement d'occupation temporaire.
+Paiement :
+- Décision de versement visée.
+- Décision motivée de l'ordonnateur prescrivant la consignatio
+3.2.24.2 Paiement direct de l'indemnité d'expropriation
+Engagement :
+- Décision de versement.
+- Ordonnance du juge des référés.
+- Décision motivée de l'ordonnateur prescrivant la consignatio
+Paiement :
+- Décision de versement visée.
+- Décision motivée de l'ordonnateur prescrivant la consignatic
+3.2.25 Frais d'établissement des actes d'acquisition
+Engagement :
+- Note d'honoraire établie par un notaire, adoul ou avocat
+compétente.
+Paiement :
+- Note d'honoraire établie par un notaire, adoul ou avocat
+compétente.
+3.2.26 Expropriation
+3.2.26.1 Règlement sur la base d'un accord amiable
+3.2.26.1.1 Cas des immeubles immatriculés ou en cours d'
+Engagement :
+- Certificat du conservateur de la propriété foncière attestant
+ou en cours d'immatriculation.
+- Procès verbal de l'accord amiable.
+Paiement :
+- Décision de versement de l'indemnité visée fixant le barèm
+chaque propriétaire.
+3.2.26.1.2 Cas des immeubles ni immatriculés ni en cours
+Engagement :
+- Décision de versement de l'indemnité visée fixant le barèm
+chaque propriétaire.
+- Ordonnance du juge des référés, le cas échéant.
+- Acte de propriété de l'exproprié.
+F1.
+n.
+dûment certifiée par l'autorité
+dûment certifiée par l'autorité
+mmatriculation
+que l'immeuble est immatriculé
+e de calcul et le montant alloué à
+d'immatriculation
+e de calcul et le montant alloué à
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1543
+L OS
+RE qq _—
+Paiement : L
+- Décision de versement de l'indemnité visée fixant le barème de calcul et le montant alloué à
+chaque propriétaire.
+3.2.26.2 Règlement sur la base d'un jugement
+3.2.26.2.1 Règlement au profit du propriétaire
+Engagement : |
+- Jugement définitif d'expropriation fixant le montant de l'indemnité.
+Paiement :
+_ Décision de versement du montant de l'indemnité visée, fixant le barème de calcul et le
+montant alloué à chaque propriétaire.
+3.2.26.2.2 Consignation du montant de l'indemnité
+Engagement :
+_ Décision motivée du chef de l'administration expropriante prescrivant la consignation ou
+jugement définitif d'expropriation, lorsque la consignation est ordonnée par décision
+judiciaire.
+Paiement : |
+- Décision motivée du chef d'administration expropriante visée, prescrivant la consignation
+ou jugement définitif d'expropriation lorsque la consignation est ordonnée par décision
+judiciaire.
+3.2.26.3 Indemnité provisionnelle de dépossession et complément d'indemnité
+3.2.26.3.1 Indemnité provisionnelle de dépossession
+3.2.26.3.1.1 Règlement au profit du propriétaire
+Engagement :
+- Ordonnance du juge des référés.
+Paiement :
+- Décision de versement du montant de l'indemnité visée, fixant le barème de calcul et le
+montant alloué à chaque propriétaire.
+3.2.26.3.1.2 Consignation de l'indemnité provisionnelle de dépossession
+Engagement :
+- Ordonnance du juge des référés.
+- Décision du chef de l'administration expropriante prescrivant la consignation.
+Paiement :
+- Décision visée du chef de l'administration expropriante prescrivant la consignation.
+3.2.26.3.2 Complément de l'indemnité d'expropriation
+Engagement.
+1544 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+OO €
+LU UE Eh 0 de
+- Jugement définitif d'expropriation fixant le montant de l'indemnité définitive.
+Paiement :
+- Décision de versement de l'indemnité visée, fixant le barème de calcul et le montant alloué à
+chaque propriétaire.
+3.2.27 Cession de bien entre services de l'Etat
+Engagement :
+- Ordre de versement portant détail de la cession.
+Paiement :
+- Ordre de versement visé portant détail de la cession.
+3.2.28 Cession par un gouvernement étranger au profit du gouvernement du Royaume
+du Maroc
+Engagement :
+- Exemplaire de la convention conclue entre les deux gouvernements.
+- Relevé détaillé des biens ou services cédés.
+- Ordre de versement.
+Paiement :
+- Exemplaire de la convention conclue entre les deux gouvernements.
+- Ordre de versement.
+3.2.29 Dépenses relatives au règlement et à l'exécution des décisions judiciaires
+Engagement :
+- Décision relative au règlement de la dépense.
+- Copie certifiée conforme du jugement définitif.
+Paiement : :
+- Décision relative au règlement de la dépense.
+3.2.30 Paiement des intérêts moratoires au titre des bons de commande et des contrats et
+conventions du droit commun
+- Décision d'octroi des intérêts moratoires.
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+- Copie certifiée conforme de la facture (s) ayant servi de base de calcul du montant des
+intérêts moratoires.
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI), `arrêté` (ARRETE), `décret n° 2-12-349` (DECRET), `20 mars 2013` (DATE_GREGORIAN), `Arrêté du ministre chargé des finances autorisant l'acquisition` (ARRETE)
+
+*Citations :*
+
+- `l'article 86` → décret n° 2-12-349 [✓]
+- `l'article 86` → décret n° 2-12-349 [✓]
+- `l'article 87` → décret n° 2-12-349 [✓]
+- `l'article 87` → arrêté [✓]
+- `l'article 87` → arrêté [✓]
+
+*Organisations :* Ordre de service, Ordre de service d'arrêté, banque numéro XX, Ordre de service d'ajournement, Direction des
+Domaines de l'État
+
+*Dates :* 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 20 mars 2013, 20 mars 2013, 20 mars 2013, 16 chaoual 1440, 20 mars 2013, 20 mars 2013, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article 9-4
+
+Chapitre IV : Pièces justificatives relatives aux modifications, perte de pièces ou du
+dossier d'engagement de dépense et à la levée de la prescription
+4.1 Réimputation budgétaire de l'engagement de dépense
+Engagement :
+- Décision justifiant la réimputation budgétaire de l'engagement.
+_- Original de l'acte visé ou copie certifiée conforme dans le cas où l'acte visé a connu un
+début de paiement.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1545
+c RS
+Er
+- Original de l'état d'engagement initial visé ou de la fiche navette initiale visée.
+- État de réimputation budgétaire de l'engagement.
+Paiement :
+- État de réimputation budgétaire de l'engagement visé.
+4.2 Pièces justificatives à produire en cas de perte d'une proposition d”
+pièce de dépenses déjà visée
+engagement ou d'une
+Engagement :
+- Attestation de perte de la proposition d'engagement établie par l'ordonnateur ou le sous
+ordonnateur.
+- Pièce (s) de la proposition d'engagement de dépense reconstituée (s) à l'identique de la pièce
+ou des pièce (s) déjà visée (s) assortie (s) de la mention « duplicata ».
+- Attestation de non ordonnancement établie par l'ordonnateur ou le sous ordonnateur, Le cas
+échéant.
+- Original de la ou des pièce (s) visée (s) et non égarée (s), le cas échéant.
+Paiement :
+- Duplicata visé de la ou des pièce (s) égarée (s).
+- Original de l'ordonnance de paiement ou duplicata de l'ordonnance adirée, le cas échéant.
+4.3 Réengagement des dépenses relatives aux créances prescrites ayant fait l'objet de levée de
+prescription
+43.1 Cas de prescription de la créance après mandatement lorsque la créance est réglée
+en numéraire
+Engagement :
+- État de réengagement de la dépense ou fiche navette.
+- Certificat de levée de prescription ou de déchéance, visé par le ministre chargé des finances
+ou la personne déléguée par lui à cet effet.
+- Original de l'ordonnance de paiement initiale ou du duplicata de l'ordonnance adirée, le cas
+échéant, et attestation de versement au budget concerné de la recette correspondant à la
+créance prescrite.
+Paiement :
+- État de réengagement de la dépense visé.
+- Certificat de levée de prescription ou de déchéance, visé par le ministre chargé des finances
+ou la personne déléguée par lui à cet effet.
+- Original de l'ordonnance de paiement initiale ou du duplicata de l'ordonnance adirée, le cas
+échéant, et attestation de versement au budget concerné de la recette correspondant à la
+créance prescrite.
+4.3.2 Cas de prescription de la créance après mandatement lorsque la créance est réglée
+par virement bancaire
+Engagement :
+- État de réengagement de la dépense ou fiche navette.
+- Certificat de levée de prescription ou de déchéance, visé par le ministre chargé des finances
+ou la personne déléguée par lui à cet effet.
+- Attestation de versement au budget concerné de la recetle €
+prescrite.
+orrespondant à la créance
+1546 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Paiement :
+- État de réengagement de la dépense ou fiche navette.
+- Certificat de levée de prescription ou de déchéance, visé par le m
+ou l'autorité déléguée par lui à cet effet.
+- Attestation de versement au budget général de la recette correspor
+inistre chargé des finances
+dant à la créance prescrite.
+N° 6788 - 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1547
+D EE
+EE
+Deuxième partie : Pièces justificatives des dépenses sans ordonnancement préalable
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article 9-5
+
+Chapitre I : Pièces justificatives des dépenses payées par voie de régie ou par payeur
+délègue
+1.1 Dépenses en régie
+1.1.1 Blocage des crédits
+- Demande d'autorisation de paiement par voie de régie signée par l'ordonnateur ou le sous
+ordonnateur.
+1.1.2 Approvisionnement de la caisse du régisseur
+- Demande de fonds.
+- Reçu de fonds.
+1.1.3 Justifications des dépenses au comptable public
+1.1.3.1 Salaires journaliers ou horaires
+- Rôles de journée dûment acquittés par les bénéficiaires.
+- Reçu ou état des sommes dues.
+- État d'impayés, le cas échéant.
+1.1.3.2 Prélèvements
+1.1.3.2.1 Prélèvements fiscaux
+- Quittance délivrée par le comptable.
+1.1.3.2.2 Prélèvement au profit du Régime Complémentaire d'Allocation des Retraites
+- État des prélèvements.
+1.1.3.3 Travaux, fournitures ou transports
+- Décompte, mémoire, facture ou reçu.
+1.1.3.4 Avances
+1.1.3.4.1 Avances pour le pèlerinage aux lieux saints de l'Islam
+- Procuration donnant pouvoir au comptable pour encaisser les titres de paiement.
+- Décision de congé.
+- Photocopie du passeport précisant les dates de départ et de retour des lieux saints de l'Islam.
+1.1.3.4.2 Avances à l'occasion de l'Aïd EI Adha
+- Décision de l'ordonnateur ou du sous ordonnateur comportant la liste des bénéficiaires.
+1548 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019) |
+nn …
+1.1.3.4.3 Avances pour frais de mission ou de déplacement
+- Reçu de versement de l'avance signé par le bénéficiaire.
+1.1.3.5 Secours
+1.1.3.5.1 Secours aux indigents
+- Décision.
+1.1.3.5.2 Secours aux agents
+- Notice de renseignements.
+- Décision.
+1.2 Payeurs délégués
+1.2.1 Paiement des agents occasionnels
+- État billeteur émargé par les bénéficiaires.
+- Compte d'emploi.
+1.2.2 Paiement par mandat postal
+- Récépissé délivré par le service postal collé à l'état d'émargement.
+1.2.3 Reversement des sommes impayées
+- Quittance du trésor annexé au compte d'emploi valant ordre de recettes.
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 16 chaoual 1440
+
+
+## Article 9-6
+
+Chapitre II : Pièces justificatives de paiement des autres dépenses
+2.1 Sommes saisies arrêtées entre les mains des comptables publics à l'encontre de l'État
+- Jugement définitif revêtu de « la mention pour exécution », le cas échéant. |
+- Extrait du titre ou l'ordonnance du juge de référé en vertu duquel la saisie arrêté est pratiquée.
+- Décision de mise en demeure pour l'exécution du jugement notifiée par l'huissier de justice
+ou l'agent chargé d'exécution du secrétariat greffe auprès de la juridiction concernée.
+2.2 Règlement des intérêts moratoires
+- Note de calcul précisant les éléments de liquidation du montant des intérêts moratoires.
+2.3 Rente d'accident de travail
+- Quittance extraite du carnet rose.
+2.4 Dépenses relatives aux remboursements dégrèvements, restitutions fiscaux
+- Décision.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1549
+D oO
+a
+
+*Entités :* `arrêtées` (ARRETE), `arrêté` (ARRETE), `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 16 chaoual 1440
+
+
+## Article 9-7
+
+Chapitre III : Pièces justificatives de paiement des frais de justice et indemnisation
+3.1 Taxes judiciaires
+- Quittance délivrée par Le secrétariat greffe.
+3.2 Frais de transfert des inculpés, prévenus ou accusés
+- Réquisition de transfert établie par l'autorité compétente.
+- Mémoire dûment taxé par le juge taxateur.
+3.3 Frais de transport des procédures et des pièces à conviction
+- Réquisition de transport établie par l'autorité compétente.
+- Mémoire ou facture des frais dûment taxé par le juge taxateur.
+3.4 Frais d'extradition des inculpés, prévenus, accusés ou condamnés
+- Mémoire dûment taxé par le juge taxateur.
+3.5 Honoraires et indemnités alloués aux experts et aux interprètes et frais de traduction
+- Mémoire dûment taxé par le juge taxateur.
+3.6 Frais de capture alloués aux agents de la force publique pour l'exécution des arrêts,
+jugements et ordonnances de justice
+- Mémoire dûment taxé par le juge taxateur.
+3.7 Frais de garde des scellés et de mise en fourrière
+- Mémoire dûment taxé par le juge taxateur.
+3.8 Frais de fourrière et de séquestre
+- Mémoire dûment taxé par le juge taxateur.
+3.9 Frais postaux et de télécommunications, ainsi que les frais de port des paquets
+nécessités par l'instruction et le jugement des procédures pénales
+- Mémoire ou reçu dûment taxé par le juge taxateur.
+3.10 Frais de publicité des arrêts, jugements et ordonnances de justice
+- Mémoire dûment taxé par le juge taxateur.
+3.11 Frais de révision et paiement des indemnités aux victimes d'erreurs judiciaires
+- Extrait du jugement fixant le montant de l'indemnisation pour préjudice.
+3.12 Indemnités allouées aux témoins
+- Mémoire dûment taxé par le juge taxateur.
+1550 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+US
+3.13 Remboursement des frais de voyage
+- Mémoire ou facture dûment taxé par le juge taxateur.
+3.14 Indemnité de comparution et de séjour
+- Mémoire dûment taxé par le juge taxateur.
+3.15 Paiement d'acompte d'indemnité de transport
+- Reçu.
+3.16 Indemnisation consécutive à un jugement du tribunal adm
+- Jugement définitif.
+- Arrêté de réintégration visé.
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI), `Arrêté` (ARRETE)
+
+*Dates :* 16 chaoual 1440
+
+
+## Article 9-8
+
+Chapitre IV : Pièces justificatives relatives aux dépenses dela d
+4.1 Dette extérieure
+4.1.1 Dette extérieure à moyen et à long terme
+4.1.1.1 Dépenses de capital
+- Décision du ministre chargé des finances fixant les annuités à r
+paiement.
+- Copie du contrat ou de la convention de prêt appuyée de l'échéan
+4.1.1.2 Intérêts et commissions
+- Décision du ministre chargé des finances fixant les annuités à 1
+paiement.
+4.1.2 Dette extérieure à court terme
+4.1.2.1 Dépenses de capital
+- Décision du ministre chargé des finances fixant les annuités à :
+paiement.
+- Copie du contrat ou de la convention de prêt appuyée de l'échéar
+4.1.2.2 Intérêts et commissions
+- Décision du ministre chargé des finances fixant les annuités à :
+paiement.
+4,2 Dette intérieure
+4.1 Dette intérieure à moyen et long terme
+4.2.1.1 Dépenses de capital
+- Ordre de paiement établi par le comptable public.
+inistratif
+lette publique
+embourser, valant ordre de
+cier, le cas échéant.
+embourser, valant ordre de
+-embourser, valant ordre de
+cier, le cas échéant.
+rembourser, valant ordre de
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1551
+ES PE
+- Bons et titres d'emprunts remboursés.
+4.2.1.2 Intérêts et commissions
+- Décision du ministre chargé des finances fixant Îes annuités à rei
+paiement.
+4.2.2 Dette intérieure à court terme
+4.2.2.1 Dépenses de capital
+- Bons remboursés ou attestation de souscription, le cas échéant.
+- Pièce justifiant la qualité des représentants et ayants droit pour les
+- Ordre de paiement établi par le comptable public au vu de l'e
+Maghreb. |
+4.2.2.2 Intérêts et commissions |
+- Décision du ministre chargé des finances fixant les annuités à re
+paiement.
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Personnes :* Dette extérieure, Dette extérieure
+
+*Dates :* 16 chaoual 1440
+
+
+## Article 9-9
+
+Chapitre V : Pièces justificatives des dépenses particulières à €
+du Trésor
+5.1 Pertes de conversion sur les dépenses publiques payables en
+- Certificat de dépense.
+5.2 Fonds spécial pour le financement des programmes socio-éc
+- Certificat de dépense.
+5.3 Comptes d'adhésion aux organismes internationaux
+- Décision du ministre chargé des finances précisant les éléments
+paiement.
+- Certificat de dépense.
+5.4 Comptes de financement
+- Décision du ministre chargé des finances précisant les éléments
+paiement.
+- Certificat de dépense.
+5.5 Comptes de prêts
+- Décision du ministre chargé des finances précisant les élément
+paiement.
+- Certificat de dépenses.
+nbourser, valant ordre de
+bons nominatifs.
+vis de débit de Bank Al
+mbourser, valant ordre de
+ertains comptes spéciaux
+devises étrangères
+onomiques
+_de calcul, valant ordre de
+de calcul, valant ordre de
+s de calcul, valant ordre de
+1552 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Troisième partie : Pièces justificatives de paiement de certaines dépenses particulières
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Organisations :* Fonds
+
+*Dates :* 16 chaoual 1440
+
+
+## Article 9-10
+
+Chapitre I : Pièces de justification de l'identité du créancier en cas de paiement en
+numéraire |
+1 Justification de l'identité du créancier
+1.1 Nationaux
+- Carte d'identité nationale, passeport, permis de conduire ou toute autre pièce officielle
+d'identité datée et portant un numéro et la photographie du titulaire.
+1.2 Étrangers
+1.2.1 Étrangers résidents
+- Passeport, carte d'immatriculation ou toute autre pièce délivrée ou validée par les autorités
+compétentes.
+1.2.2 Étrangers non résidents
+- Passeport comportant le cachet d'entrée au Maroc ou tout autre document en tenant lieu.
+
+
+## Article 9-11
+
+Chapitre II : Pièces justificatives de paiement à des ayants droit ou représentants des
+bénéficiaires d'ordres de paiement
+2.1 Paiement aux ayants droit
+2.1.1 Sommes inférieures ou égales à cinq cent dirhams à payer à l'ensemble des
+héritiers
+_ Certificat administratif faisant connaître la date de décès de l'intéressé et les identités des
+ayants droits.
+2.1.2 Sommes supérieures à cinq cent dirhams à payer à l'ensemble des héritiers
+- Acte de succession.
+2.2 Paiement aux mandataires
+- Procuration authentique, à défaut une procuration sous-seing privé dûment légalisée.
+- Déclaration conjointe et solidaire désignant le mandataire pour les marchés de l'Etat et les
+contrats de loyer.
+2.3 Paiement aux avocats
+- Extrait du jugement définitif mentionnant le nom de l'avocat.
+- Reçu délivré par l'avocat, en cas de paiement en numéraire.
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1553
+a RE
+tp L
+2.4 Paiement à des incapables mineurs ou majeurs
+2.4.1 Incapables mineurs
+2.4.1.1 Mineurs sous tutelle légale
+- Certificat de vie collectif.
+2.4,1.2 Mineurs sous tutelle testamentaire
+- Expédition du testament homologué après décès du tuteur légal.
+2.4.1.3 Mineurs sous tutelle judiciaire
+- Extrait de jugement définitif désignant le tuteur.
+2.4.2 Mineurs émancipés
+- Autorisation du juge de tutelle.
+2.4.3 Incapables majeurs sous tutelle
+- Expédition du jugement portant ouverture de tutelle et désignant le représentant légal.
+2.5 Paiement aux aliénés internés
+- Copie de l'arrêté portant nomination de l'administrateur provisoire ou décision de justice
+portant nomination de l'administrateur judiciaire.
+- Certificat du Directeur de l'établissement attestant que l'aliéné est toujours hospitalisé.
+2.6 Paiement aux incarcérés
+- Attestation du chef d'établissement pénitencier certifiant la qualité de l'agent chargé du
+paiement.
+- Procuration visée par le chef de l'établissement pénitencier et signée par l'agent chargé du
+paiement et par Le détenu, en présence de deux fonctionnaires en qualité de témoins.
+- Bulletin d'écrou ou ordre d'incarcération de l'intéressé.
+2.7 Paiement à des personnes ne pouvant ou ne sachant signer
+2.7.1 Sommes inférieures ou égales à deux cent cinquante dirhams
+- Déclaration signée conjointement par le comptable et deux témoins, comportant l'apposition
+de l'emprunte digitale du bénéficiaire et les références des pièces d'identité desdits témoins.
+2.7.2 Sommes supérieures à deux cent cinquante dirhams
+- Quittance administrative ou adoulaire.
+2.7.3 Paiement par les secrétaires greffiers des tribunaux à des illettrés
+- Attestation valant quittance délivrée en sa présence par un magistrat.
+1554 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+2.8 Paiement au vu d'un duplicata d'ordre de paiement
+- Duplicata de l'ordre de paiement.
+2.9 Paiement des sommes dues à des créanciers disparu
+- Extrait du jugement déclaratif de décès appuyé d'un
+jugement déclaratif d'absence.
+2.10 Successions vacantes
+- Ordre de recettes de l'administration des domaines,
+jugement déclarant la vacance de la succession.
+2.11 Paiement aux associations et aux coopératives
+- Copie des statuts constitutifs.
+- Procès-verbal d'élection des membres du bureau.
+2.12 Paiement des sommes dues à des créanciers
+liquidation judiciaire
+2.12.1 Règlement au profit du syndic ou du liquidateur
+- Extrait du jugement déclarant le redressement ou la
+désignation du syndic ou du liquidateur judiciaire.
+2.12.2 Règlement aux redressés ou liquidés après
+redressement ou de la liquidation judiciaire
+2.12.2.1 Règlement suite à concordat
+- Extrait du concordat.
+- Jugement d'homologation du concordat.
+- Procès-verbal de reddition des comptes.
+2.12.2.2 Règlement suite à l'union des créanciers aprè:
+- Extrait de jugement constatant l'état d'union des créanci
+- Procès-verbal de reddition des comptes.
+2.13 Paiement en numéraire à l'administrateur séques
+- Arrêté de nomination de l'administrateur séquestre.
+2.14 Paiement des dépenses hors du Maroc
+- Fiche de dépense.
+- Autorisation de l'Office des changes, le cas échéant.
+dont l'original a été adiré
+s ou absents
+acte de succession ou extrait du
+établi sur la base d'un extrait de
+en état de redressement ou de
+judiciaire
+liquidation judiciaire comportant la
+la clôture de la procédure de
+répartition de l'actif
+eTs.
+tre
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1555
+TT
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI), `arrêté` (ARRETE)
+
+*Organisations :* Directeur de l'établissement, Office des changes
+
+*Dates :* 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article 9-12
+
+Chapitre III : Pièces justificatives d'empêchements à paiemen
+3.1 Nantissement
+- Acte de nantissement en original.
+- Exemplaire unique du marché.
+- Accusé de réception.
+3.2 Cession de créances
+_ Acte de cession de créances.
+3.3 Retenues en vertu de saisie-arrêté
+. Extrait du titre exécutoire ou ordonnance du juge de référé o
+exécution de la retenue.
+- Procès verbal de saisie arrêté émanant de l'huissier de justice.
+3.4 Règlement de retenue en vertu de saisie-arrêté
+- Extrait du jugement définitif de première instance appuyée (
+greffe de la juridiction attestant la non opposition et le non appel.
+- Ou un extrait de jugement de la cour d'appel ou de la cour de c:
+3.5 Restitution avant jugement de retenues en vertu de s
+péremption quinquennale
+- Demande du débiteur saisi.
+- Certificat du secrétariat-greffe de la juridiction attestant l'abse
+de la péremption quinquennale.
+3.6 Prescription de quinze ans des sommes saisies arrêtées
+- Relevé détaillé des sommes saisies arrêtées prescrites.
+3.7 Opposition au titre des impôts de l'État et taxes assimilée
+- Avis à tiers détenteur.
+3.8 Ordre de recettes
+- Titre de recettes.
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin offici
+rdonnant la saisie-arrêté pour
+'un certificat du secrétariat-
+ssation, le cas échéant.
+aisie-arrêté frappées par la
+ace de jugement avant la date
+S
+el » n° 6750 du 1° joumada II 1440 (7 février 2019).
+1556 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+L
+Later EE Se
+
+*Entités :* `arrêté` (ARRETE), `arrêtées` (ARRETE), `7 février 2019` (DATE_GREGORIAN), `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 7 février 2019, 16 chaoual 1440
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+Sont inscrites au catalogue officiel des espèces et des variétés des plantes cultivables au
+Maroc, les variétés de pomme de terre de saison, de pomme de terre de transformation, de tomate indéterminée,
+de tomate déterminée de marché de frais, de tomate industrielle, de melon, de laitue, de betterave potagère, de blé
+dur, de blé tendre, d'orge, d'avoine, de fève, de féverole, de pois-fourrager, de pois potager, de betterave fourragère,
+de luzerne, de betterave à sucre, du maïs, du riz, du tournesol et du colza, désignées dans le tableau annexé au
+présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. -*
+
+Cette inscription est valable pour une durée de dix (10) ans à partir de la date de publication du
+présent arrêté au «Bulletin officiel» Elle peut être renouvelée pour une période de cinq (5) ans à condition que la
+demande soit formulée auprès de l'Office national de sécurité sanitaire des produits alimentaires, au plus tard,
+deux (2) ans avant l'expiration de la date de l'inscription initiale ou du dernier renouvellement d'inscription.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Organisations :* Office national de sécurité sanitaire
+
+
+## Article 3
+
+*ART. 3. —*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 6 rejeb 1440 (13 mars 2019).
+AZIZ AKHANNOUCH.
+* *
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1557
+A A CO D EU
+Liste des variétés
+ESPECE VARIETE
+Pomme de terre SANIBEL
+Type saison CERATA KWS
+Pomme de terre
+Type transformation
+Tomate indéterminée MELINA
+SVO948TS
+inscrites au Catalogue Officiel
+EUROPLANT PFLANZENZUCHT GMBH
+SICA BRETAGNE PLANTS
+SICA GROCEP
+AGRICO RESEARCH BV
+BÔHM-NORDKARTOFFEL AGRARPRODUKTION
+GMBH&CO.OHG
+BÔHM-NORDKARTOFFEL AGRARPRODUKTION
+GMBH&CO.OHG
+KWS POTATO B.V
+SAKA PFLANZENZUCHT GMBH & CO. KG
+AGRICO RESEARCH BV
+AGRICO RESEARCH BV
+BÔHM-NORDKARTOFFEL AGRARPRODUKTION
+GMBH&CO.OHG
+STATION DE RECHERCHE DU COMITE DU
+STATION DE RECHERCHE DU COMITE DU
+SAKA PFLANZENZUCHT GMBH & CO. KG
+SAKA PFLANZENZUCHT GMBH & CO. KG
+CATALYST SEEDS
+CATALYST SEEDS
+Ce GDS
+FHBnSANTO
+Fansan
+Fansanro |
+1558 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+L € € oo UE
+Liste des variétés inscrites au Catalogue Officiel
+(Suite 1)
+ESPECE VARIETE OI
+MULTI TOHUM
+MULTI TOHUM
+MULTI TOHUM
+MULTI TOHUM
+MAGALLANES RIK ZWAAN
+PIRANDELLO RIJK ZWAAN
+RUK ZWAAN
+RUK ZWAAN
+SEMILLAS FITO
+NEBULA SYNGENTA
+LEMONADE SYNGENTA
+V436 VILMORIN
+ISLANE VILMORIN
+ou Lo INTERPRO VILMORIN
+Tomate indéterminée
+OLYMPICUS HAZERA SEEDS-VIL
+BEJO ZADEN
+BEJO ZADEN
+MONSANTO VEGE
+ARQUERO MONSANTO VEGE
+PRIYA NONG WOO BIO
+BYSONTE YUKSEL TOHUM
+YUKSEL TOHUM
+AXIA VEGETABLE S
+GSN SEMENCES
+HM. CLAUSE
+MONDO VERDE
+COCCOBEEL SYNGENTA SEEDS
+ENZA ZADEN
+HAZERA SEED
+SAKATA VEGETABL
+HAZERA SEED
+RUK ZWAAN
+RUK ZWAAN
+SYNGENTA SEEDS
+PORPORA ESASEM
+SWEETHEART MONDO VERDE
+3TENTEUR
+ES
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1559
+Liste des variétés ]
+ESPECE VARIETE
+ROOT PREMIUM
+ISF 80541
+Tomate déterminée de JESSICA
+marché de frais RANGER
+BSS 1056
+RED QUEEN
+Tomate industrielle BSS 1068
+EVA
+MAE
+JAUNE CANARI DI
+SV 1232MG
+Tomate indéterminée
+nscrites au Catalogue Officiel
+(Suite 2)
+SAKATA VEGETABLES
+MONSANTO VEGETABLES
+HYBRID HELLAS ABEE
+HAZERA SEEDS
+MONDO VERDE
+ATLANTIC SEEDS
+BEJO ZADEN
+HAZERA SEED BV
+SUN RISE |
+UNITED GENETICS SEED |
+LPRIMUS SEED |
+HAZERA SEED BV
+: LTA DUTCH SEED GROUP INTERNATIONAL
+HAZERA SEED
+HAZERA SEED
+HAZERA SEED
+MIRABELLE ZADEN
+MONSANTO VEGETABLE
+MONSANTO VEGETABLE
+MONSANTO VEGETABLE
+1560 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+00 0 0
+Liste des variétés
+D ESPEGE VARIETE
+ME 10953
+MIM 62
+MIM 122
+Betterave potagère MEXICO
+Laitue
+inscrites au Catalogue Officiel
+(Suite 3)
+PRIMUS SEEDS INTERNATIONAL
+PRIMUS SEEDS INTERNATIONAL
+SAKATA VEGETABLES EUROPE
+MIRRO SEEDS
+EVOLVE VEGETABLE SEEDS
+ERMA ZADEN
+ATLANTIC SEEDS
+HORT SEED MEDITERRANI
+BHANDARY SEEDS
+SEMILLAS LA VEGA
+NATIONAL SEEDS PRODUCTION
+ROSSEN SEEDS BV
+HORT SEED MEDITERANI
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1561
+OT  ÉE
+Liste des variétés
+BD 91/14
+Blé dur VOLANTE
+FD10E25
+RGT POBLADO
+MC1403
+AL FAWZ
+Pois potager REYNA
+X59N59
+PANORAMA KWS
+TYPE N MONOGERME TERRANOVA KWS
+Blé tendre
+Orge
+Betterave fourragère
+Luzerne
+Betterave à sucre
+inscrites au Catalogue Officiel
+(Suite 4)
+INRA MAROC
+FLORIMOND DESPREZ
+GEORGE FOHNER
+GEORGE FOHNER
+INRA - MAROC
+INRA - MAROC
+INRA MAROC
+INRA MAROC
+{SEA CORRIDONIA
+SEMILLAS BATTLE
+FLORIMOND DESPREZ
+INRA MAROC
+INRA MAROC
+INRA MAROC
+INRA MAROC
+AGRICULTURAL INSTITUTE OSIJEK
+SEMILLAS BATTLE
+INRA MAROC
+INRA MAROC
+AGRI OBTENTION
+BIOTEK TOHUMCULUK
+ZAYIN TECHNOLOGY
+NPZ HG LEMBKE KG
+BIOTEK TOHUMCULUK
+NOVA GENETICS LTD
+NOVA GENETICS LTD
+PIONEER GENETIQUE
+KUHN & COBV
+GENETICS INTERNATIONAL
+| |
+1562 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019) |
+oo
+oo
+Liste des variétés inscrites au Catalogue
+(Suite 5)
+ST À
+ÉGEVSER SES VANDERHAVE
+CHAMOIS | SES VANDERHAV
+ÉAUCKLAND SES VANDERHAV
+F CHICLANA | SES VANDERHAV
+STRU-MAR 01-15 STRUBE
+SES VANDER HA
+DEIDER | FLORIMOND DE
+KERBEROS KWS SAAT
+Betterave à sucre -
+TYPE N MONOGERME
+Betterave à sucre
+TYPE E MONOGERME
+Maïs
+Groupe précoce
+Officiel
+VE
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1563
+EU
+pm qq mme
+Liste des variétés
+ESPECE VARIETE
+GS 146024
+GS 146013
+SNH 4424
+Groupe demi précoce PO640
+NS 5010
+AS 1445
+p9911
+MAS 56 A
+MAS 75 A
+SY ZOAN
+SY HYDRO
+NS 6043
+AS 170 SILAZ
+GW 3436
+Maïs SISAD701
+MAS 64P
+PO573
+P1524
+LG 3490
+LG 30525
+TORRO PLUS
+AS 603
+Maïs
+Groupe tardif
+inscrites au Catalogue Officiel
+(Suite 6)
+LIMAGRAIN EUROPE
+INSTITUTE OF FIELD AND VEGETABLE CROPS
+SPYROS ANDRIOTIS
+EMA
+[on
+EE ES
+MAISADOUR SEMENCES
+MAISADOUR SEMENCES
+SYNGENTA CROP PROTECTION
+SYNGENTA CROP PROTECTION
+SYNGENTA CROP PROTECTION
+INSTITUTE OF FIELD AND VEGETABLE CROPS
+INSTITUTE OF FIELD AND VEGETABLE CROPS
+AS HIBRIDI
+SPYROS ANDRIOTIS
+GOLDEN WEST SEED
+PANAM SEMENCES
+PANAM SEMENCES
+MAISADOUR SEMENCES
+LIMAGRAIN EUROPE
+LIMAGRAIN EUROPE
+CHEMICAL AGROSAVA
+1564 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Liste des variétés inscrites au Catalogue Officiel
+(Suite 7)
+C7 VARIETE OBTENTEUR
+OSS K 596
+CossK635 | OSUE
+EC ETC
+EC ET CS
+CHACIBEY | AKDENIZ TOHUM
+Tournesol MAISADOUR SEMENCES
+MAISADOUR SEMENCES
+BELINDA BAYER CROP SCIENCE AG
+SUNDER BAYER CROP SCIENCE AG
+INRA-—CZFK07 INRA MAROC
+SOLAR CL
+Maïs
+Groupe tardif
+
+*Entités :* `arrêté` (ARRETE), `6 rejeb 1440` (DATE_HIJRI), `13 mars 2019` (DATE_GREGORIAN), `16 chaoual 1440` (DATE_HIJRI), `BULLETIN OFFICIEL 1557
+A A CO` (ORG), `NORDKARTOFFEL AGRARPRODUKTION
+GMBH&CO.OHG
+KWS POTATO B.V
+SAKA PFLANZENZUCHT GMBH & CO` (ORG), `NORDKARTOFFEL AGRARPRODUKTION
+GMBH&CO.OHG
+STATION DE RECHERCHE DU COMITE DU
+STATION DE RECHERCHE DU COMITE DU
+SAKA PFLANZENZUCHT GMBH & CO. KG
+SAKA PFLANZENZUCHT GMBH & CO` (ORG), `LTA DUTCH SEED GROUP` (ORG), `SEA CORRIDONIA
+SEMILLAS BATTLE
+FLORIMOND DESPREZ
+INRA MAROC
+INRA MAROC
+INRA MAROC
+INRA MAROC
+AGRICULTURAL INSTITUTE OSIJEK
+SEMILLAS BATTLE
+INRA MAROC
+INRA MAROC
+AGRI OBTENTION
+BIOTEK TOHUMCULUK
+ZAYIN TECHNOLOGY
+NPZ HG LEMBKE KG
+BIOTEK TOHUMCULUK
+NOVA GENETICS LTD
+NOVA GENETICS LTD` (ORG)
+
+*Organisations :* BYSONTE YUKSEL, FLORIMOND DESPREZ
+
+*Dates :* 6 rejeb 1440, 13 mars 2019, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+En application des dispositions de l'article 517 de la loi n° 65-99 susvisée, promulguée par le dahir
+n° 1-03-194 du 14 rejeb 1424 (11 septembre 2003), il est établi, tel qu'annexé au présent arrêté, le modèle du contrat de travail
+réservé aux étrangers.
+
+*Entités :* `loi n° 65-99` (LOI), `dahir
+n° 1-03-194 du 14 rejeb 1424 (11 septembre 2003)` (DAHIR), `arrêté` (ARRETE), `65-99` (LOI)
+
+*Citations :*
+
+- `l'article 517` → dahir n° 1-03-194 du 14 rejeb 1424 (11 septembre 2003) [✓]
+
+
+## Article 2
+
+*ART. 2. -*
+
+S'appliquent au contrat de travail réservé aux étrangers toutes les dispositions en la matière, en vigueur dans le
+Royaume du Maroc.
+
+
+## Article 3
+
+*ART. 3. -*
+
+L'employeur et le salarié peuvent convenir d'inclure au contrat de travail des clauses particulières contenant des
+garanties ou avantages économiques ou sociales plus avantageux.
+
+
+## Article 4
+
+*ART. 4. -*
+
+conformément aux dispositions de l'article 516 (paragraphe 3) de la loi précitée n° 65-99, l'employeur s'engage
+d'informer l'autorité gouvernementale chargée du travail de toute modification survenue sur le contrat, qu'il lui soumet pour visa.
+
+*Entités :* `65-99` (LOI)
+
+*Citations :*
+
+- `l'article 516` → loi n° 65-99 [✓]
+
+
+## Article 5
+
+*ART. 5. —*
+
+Est abrogé l'arrêté du ministre de l'emploi et de la formation professionnelle n° 350-05 du 29 hija 1425
+(9 février 2005) fixant le modèle du contrat de travail réservé aux étrangers, tel qu'il a été modifié et complété.
+
+*Entités :* `arrêté du ministre de l'emploi et de la formation professionnelle n° 350-05 du 29 hija 1425` (ARRETE), `9 février 2005` (DATE_GREGORIAN)
+
+*Dates :* 9 février 2005
+
+
+## Article 6
+
+*ART. 6. —*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 13 chaabane 1440 (19 avril 2019).
+MOHAMED YATIM.
+* *
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1565
+Modèle de contrat de travail réservé aux é
+Entre les soussignés :
+L'employeur :
+Y Employeur personne physique
+-_ Prénom: seneenesensesanee ee NOM ! sosscusesneserestenensronee . Nationalité :
+- N° de la Carte Nationale d'Identité/Titre de séjourtl) :  […texte non modifié…]  … Date et lieu
+- Adresse :  […texte non modifié…] ,... D onesennesvenonsesooeee ensneseosssese donesvosonmosenesosne ..
+- Nature de l'activité :  […texte non modifié…] , […texte non modifié…]  sessssseses sencnoneneenee ss neneneneneeneneneseees
+. N° et lieu d'immatriculation au registre de commercel) :  […texte non modifié…]  Re
+- N° d'affiliation à la Caisse Nationale de Sécurité Sociale) :  […texte non modifié…]  ose
+ÿ Employeur personne morale
+-_ Dénomination :  […texte non modifié…]  snsrenseere mm fdentifiant Commun de l'Entrep
+-_ Adresse :  […texte non modifié…] , […texte non modifié…] ,..,,.,. srnssoreneenessonese ocsenerressssere Nr socsencereseeseres
+- Nature de l'activité :  […texte non modifié…]  nosresesus nr sonores PRET EEE TETE ….
+-_ N° et lieu d'immatriculation au registre de commerce :  […texte non modifié…]  denenesonessee ..
+- Dénomination de la Compagnie d'assurance(® de l'employeur : RREETe
+Le salarié (e) :
+tovresosessen
+CRRRENEELELRELEEELEET) Nom ' CCRRRELEELLEELREREEELEELLELL Nationalit:
+- Prénom:
+- Date et lieu de naissance :  […texte non modifié…]  sosesseseressesesensee vensenesesssssses ose
+- N° du passeport :  […texte non modifié…]  Date et lieu de délivrance :  […texte non modifié…]  Date li
+7 Adresse : Dore sean enr es CERELELENEERE IL ELEELILLEELLLELLELLRLL téreseure
+Ont convenu ce qui suit :
+a ———
+(1) Si l'employeur est un étranger résident au Maroc
+(2) Ne sont pas concernés les personnes physiques employant des travailleurs et travailleuses di
+G) où régime similaire
+(4) Assurance contre les accidents de travail et maladies professionnelles
+trangers
+APPRIS ELCOELLELELERLLLLRRSS
+nn sente natoese ares euesss
+PARTS T SITE EEE LIDIL ELLELEEELELLLLLLLS
+PTE TTSITITELEELLEELELELELELELRERESSLRS
+US nn sense pnereneueuse
+rise (1.C.E) :
+PPS SEE LEE ELELLELELLELEELLSLRLRERRS
+spovrrraeaueve PESTE EEELLLLLELL
+RO nn rousertessens
+PTT ELCOEELESCERRLELLEELLLELLLR EL
+tes nos sense renenernprsnevassece
+ss.
+=]
+OO nr en een osrhoeunavesurest
+CETIETELEEEELE ELLES ELEELILELLLLLELRLLL
+>mestiques
+1566 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+US
+
+*Entités :* `arrêté` (ARRETE), `13 chaabane 1440` (DATE_HIJRI), `19 avril 2019` (DATE_GREGORIAN), `16 chaoual 1440` (DATE_HIJRI)
+
+*Personnes :* Titre de séjourtl
+
+*Organisations :* Caisse Nationale de Sécurité Sociale
+
+*Dates :* 13 chaabane 1440, 19 avril 2019, 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article premier
+
+*Article premier :*
+
+L'employeur s'engage à recruter le salarié (e) dans le cadre d'un contrat de travail) :
+CO à durée indéterminée O pendant une durée déterminée delf) :  […texte non modifié…] seerce
+. Lieu d'emploi au Maroc :  […texte non modifié…]  ARPRSPEES PETITES EEETE senseeenenserees
+- Poste occupé par le salarié (e) : 4...
+- Salaire net perçu par le salarié (e) (en Dh) : sers
+
+
+## Article 2
+
+*Article 2 :*
+
+conformément aux dispositions de l'article 518 de la loi n° 65.99 précitée, l'employeur s'engage à prendre en
+charge les frais de retour du salarié étranger à son pays d'origine, ou son pays de résidence, et ce en cas de refus de
+l'octroi de l'autorisation par l'autorité gouvernementale chargée du Travail prévue dans l'article 516 de la loi
+précitée.
+
+*Entités :* `loi n° 65.99` (LOI)
+
+*Citations :*
+
+- `l'article 518` → loi n° 65.99 [✓]
+- `l'article 516` → loi n° 65.99 [✓]
+
+
+## Article 3
+
+*Article 3 :*
+
+En cas de rupture du contrat avant sa date d'échéance, l'employeur s'engage d'en informer l'autorité
+gouvernementale chargée du Travail dans un délai d'un mois à compter de la date de rupture.
+esse QN date ses vreveronensuesreose
+PELLE EREELLEEX)
+L'employeur Le salarié (e)
+Nom complet et qualité Nom complet
+(Signature légalisée) (signature légalisée)
+Visa de l'autorité gouvernementale
+chargée du Travail
+(5) L'employeur est tenu d'annexer au présent contrat les plèces et documents demandés, conformément à la liste arrêtée par
+l'Autorité gouvernementale chargée du Travail et publiée sur le portail électronique taechir.travail.gov.ma.
+(6) Nombre de jours — mois — années.
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6786 du 9 chaoual 1440 (13 juin 2019).
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1567
+AOL LRU TT D oo
+
+*Entités :* `arrêtée` (ARRETE), `Bulletin officiel » n° 6786 du 9 chaoual 1440 (13 juin 2019)` (BULLETIN_OFFICIEL), `16 chaoual 1440` (DATE_HIJRI)
+
+*Organisations :* Autorité gouvernementale chargée du
+
+*Dates :* 16 chaoual 1440
+
+
+## Article UNIQUE
+
+*ARTICLE UNIQUE. —*
+
+Le taux d'intérêt annuel devant
+être servi par la Caisse de dépôt et de gestion sur les dépôts
+effectués par la Caisse nationale de sécurité sociale au titre
+de l'année 2018 est fixé à 4.07%.
+Rabat, le 23 chaabane 1440 (29 avril 2019).
+Le ministre Le ministre du travail et de
+de l'économie et des finances, l'insertion professionnelle,
+MOHAMED BENCHAABOUN. MOHAMED YATIM.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6786 du 9 chaoual 1440 (13 juin 2019).
+
+*Entités :* `23 chaabane 1440` (DATE_HIJRI), `29 avril 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6786 du 9 chaoual 1440 (13 juin 2019)` (BULLETIN_OFFICIEL)
+
+*Personnes :* MOHAMED YATIM
+
+*Organisations :* Caisse de dépôt, Caisse nationale de sécurité sociale
+
+*Dates :* 23 chaabane 1440, 29 avril 2019
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+Est homologuée, telle qu'elle est
+annexée au présent arrêté, la circulaire de l'Autorité marocaine
+du marché des capitaux n° 01/19 relative à l'agrément des
+sociétés de gestion d'organismes de placement collectif
+en capital et des établissements gestionnaires de Fonds de
+placements collectifs en titrisation.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Organisations :* Autorité marocaine
+du marché des capitaux n° 01/19 relative, Fonds
+
+
+## Article 2
+
+*ART. 2. -*
+
+Le présent arrêté et la circulaire qui lui est
+annexée sont publiés au Bulletin officiel.
+Rabat, le 8 ramadan 1440 (14 mai 2019).
+MOHAMED BENCHAABOUN.
+*
++ *%
+
+*Entités :* `arrêté` (ARRETE), `8 ramadan 1440` (DATE_HIJRI), `14 mai 2019` (DATE_GREGORIAN)
+
+*Dates :* 8 ramadan 1440, 14 mai 2019
+
+
+## Article premier
+
+*Article premier*
+
+Au sens de la présente circulaire, on entend par :
+_ Société de gestion : la société de gestion telle que définie
+à l'article 2-2 de la loi n° 41-05 susvisée ;
+_ Etablissement gestionnaire : établissement gestionnaire
+tel que défini à l'article 2 de la loi n° 33-06 susvisée ;
+— Dirigeant : toute personne qui, à un titre quelconque,
+participe à la direction ou à la gestion de la société de
+gestion ou de l'établissement gestionnaire. Il s'agit du
+président directeur général, des directeurs généraux,
+des directeurs généraux délégués, des membres du
+directoire, du secrétaire général, des directeurs,
+ainsi que toute personne exerçant de fait l'une de ces
+fonctions ;
+— OPCC : organismes de placement collectif en capital
+définis par l'article 2 de la loi n° 41-05 précitée ;
+_ FPCT : Fonds de placements collectifs en titrisation
+tels que définis à l'article 3 de la loi n° 33-06 précitée ;
+1568 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+LL
+_ Groupe : l'ensemble des sociétés et organismes dont
+le capital est détenu, totalement ou partiellement,
+directement ou indirectement, par une même société
+ou un même organisme.
+
+*Entités :* `loi n° 41-05` (LOI), `loi n° 33-06` (LOI), `16 chaoual 1440` (DATE_HIJRI), `41-05` (LOI), `33-06` (LOI), `41-05` (LOI), `33-06` (LOI)
+
+*Citations :*
+
+- `l'article 2-2` → loi n° 33-06 [✓]
+- `l'article 2` → loi n° 33-06 [✓]
+- `l'article 2` → loi n° 33-06 [✓]
+- `l'article 3` → loi n° 33-06 [✓]
+
+*Organisations :* Société de gestion
+
+*Dates :* 16 chaoual 1440
+
+
+## Article 2
+
+*Article 2*
+
+Toute société de gestion d'OPCC doit, avant d'exercer son
+activité, avoir été agréée par le ministre chargé des finances après
+avis de AMMC et ce, conformément à l'article 26 de la loi n° 41-05
+précitée.
+Tout établissement gestionnaire de FPCT doit, avant d'exercer
+son activité, avoir été agréé par le ministre chargé des finances après
+avis de AMMC et ce, conformément à l'article 39 de la loi n° 33-06
+précitée.
+
+*Entités :* `loi n° 41-05` (LOI), `loi n° 33-06` (LOI), `41-05` (LOI), `33-06` (LOI), `41-05` (LOI), `33-06` (LOI)
+
+*Citations :*
+
+- `l'article 26` → loi n° 33-06 [✓]
+- `l'article 39` → loi n° 33-06 [✓]
+
+
+## Article 3
+
+*Article 3*
+
+La demande d'agrément doit être adressée à l'AMMEC, pour
+instruction, par les fondateurs d'une société en cours de constitution
+ou par le représentant légal d'une société déjà constituée.
+
+
+## Article 4
+
+*Article 4*
+
+La demande d'agrément visée à l'article 3 ci-dessus, doit être
+accompagnée d'un dossier comprenant, outre le formulaire figurant
+en annexe de la présente circulaire dûment rempli par le requérant,
+les informations suivantes :
+1 — Informations relatives au requérant
+un exemplaire des statuts accompagné du projet de leur
+harmonisation avec la législation et la réglementation
+relatives à l'activité envisagée lorsque la société
+requérante est déjà constituée, ou une copie du
+projet des statuts lorsque le requérant est en cours de
+constitution ;
+_ une attestation d'immatriculation au registre de
+commerce lorsque le requérant est une société déjà
+constituée ;
+— déclaration(s) de souscription et de versement du capital ;
+_ le montant et la répartition du capital social ;
+— le rapport du commissaire aux apports, le cas échéant ;
+_ un certificat bancaire justifiant la libération entière du
+capital social ;
+une note comprenant la liste des comités spécialisés créés
+ou à créer par l'organe chargé de l'administration du
+requérant, et précisant leurs missions, leur compo sition
+ainsi que les modalités de leur fonctionnement ;
+_ une note détaillée relative aux moyens humains,
+techniques et organisationnels nécessaires dont dispose
+ou disposera le requérant pour l'exercice des activités
+objet de la demande. Les moyens à mettre en place
+doivent être accompagnées d'un calendrier de mise en
+œuvre ;
+_ une note détaillée des moyens techniques dont
+dispose le requérant pour mettre en place son système
+d'information, en assurer sa maintenance et sa
+sécurité. Cette note doit être accompagnée du manuel
+d'installation et d'utilisation du système d'information,
+d'un guide d'administration dudit système et de la
+politique de sauvegarde des données et de sécurité du
+système précité ;
+_ une note descriptive de l'organisation envisagée par le
+requérant pour lexercice de son activité accompagnée
+de son organigramme détaillé précisant l'identité,
+la fonction et le rattachement hiérarchique de son
+personnel et son évolution prévisible compte tenu de
+l'évolution de son activité ;
+— un plan, établi par un architecte, pour l'aménagement
+du siège social du requérant, indiquant la localisation
+de l'espace dédié aux archives et du local technique.
+L'agencement des locaux, retenu dans ledit plan, doit
+permettre notamment la sécurisation de leur accès et la
+séparation physique entre les fonctions incompatibles,
+notamment entre les bureaux des gérants de portefeuille
+et les bureaux des autres fonctions opérationnelles ;
+— jorsque le requérant appartient à un groupe, un
+document retraçant la structure des participations
+directes et indirectes dudit groupe dans le capital
+des différentes sociétés et organismes ainsi que Îles
+pourcentages de détention desdites participations ;
+— Lorsque le requérant est une société déjà constituée,
+une copie conforme des procès-verbaux de l'assemblée
+générale et de l'organe chargé de l'administration de
+jadite société et les rapports annuels d'activité ainsi
+que les états de synthèse annuels certifiés par le ou
+les commissaires aux comptes accompagnés du ou
+des rapports desdits commissaires, au titre des trois
+derniers exercices précédant la demande d'agrément
+ou depuis sa constitution, si elle a été constituée depuis
+moins de trois ans ;
+_ une copie des conventions conclues ou des projets des
+conventions qu'il entend conclure avec:
++ Jes principaux prestataires de services ;
++ les autres sociétés du groupe ;
+* Jun des membres de l'organe chargé de son
+administration.
+_ une note relative à la stratégie à mettre en œuvre pour
+développer l'activité pour laquelle l'agrément est
+demandé ;
+— pour les cinq premiers exercices d'activité, un plan
+prévisionnel qui comprend les comptes des produits
+et charges et bilan prévisionnels ainsi que le détail des
+hypothèses retenues et en particulier l'évolution des
+encours, des frais et commissions de gestion ;
+— pour les cinq premiers exercices d'activité, une note
+relative à la politique commerciale du requérant ;
+— projet de manuel de procédures internes ;
+— projet du code de déontologie.
+2 - Informations relatives aux actionnaires du requérant,
+ses dirigeants et les membres de son personnel
+2.1. En ce qui concerne les actionnaires
+- une pièce justifiant l'identité de chaque actionnaire,
+personne physique ;
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1569
+D
+_ Jattestation d'immatriculation au registre de
+commerce de chaque actionnaire, personne morale,
+son organigramme et une note descriptive de ses
+activités ainsi que son chiffre d'affaires, ses fonds
+propres et les résultats d'exploitation au titre de cinq
+derniers exercices ou depuis sa constitution si elle a été
+constituée depuis moins de cinq ans.
+2.2. En ce qui concerne les membres de l'organe chargé de
+administration du requérant et ses dirigeants
+_ une pièce justifiant l'identité de chaque dirigeant ou membre
+personne physique de l'organe chargé de l'administration ;
+— l'attestation d'immatriculation au registre de commerce
+de chaque membre personne morale de l'organe chargé de
+l'administration ;
+— un extrait du casier judiciaire ou une fiche anthropométrique
+de chaque dirigeant ou membre personne physique dirigeant
+de l'organe chargé de l'administration, datant de moins de
+trois (3) mois ;
+— un CV indiquant la nature de leurs activités professionnelles
+actuelles et celles qu'ils ont exercées avant la demande de
+l'agrément ;
+— l'engagement du représentant légal du requérant à déployer
+les moyens nécessaires à l'exercice de son activité tels qu'ils
+sont énoncés dans son dossier de demande d'agrément ;
+— déclarations et engagements des dirigeants du requérant de
+respecter les dispositions des 6 et 7 de l'article 37 de la loi
+n° 33-06 précitée, lorsque l'activité envisagée est la gestion
+de FPCT.
+2.3. En ce qui concerne les membres du personnel
+_ un CV actualisé accompagné des contrats ou des projets de
+contrats de travail les concernant, selon le cas ;
+_ une description détaillée des différentes fonctions et/ou postes
+précisant les compétences et les qualifications nécessaires
+pour les remplir.
+En outre, il doit être produit pour les membres de l'organe
+chargé de l'administration du requérant, ses dirigeants et les
+membres de son personnel, leur engagement à respecter les
+règles contenues dans le code de déontologie.
+En sus des informations prévues ci-dessus, le requérant
+peut joindre au dossier de la demande d'agrément toute autre
+information jugée nécessaire à l'instruction dudit dossier.
+Le dossier de la demande d'agrément est déposé au siège
+de lAMMC qui en donne récépissé daté et signé.
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI), `loi
+n° 33-06` (LOI), `33-06` (LOI), `33-06` (LOI)
+
+*Citations :*
+
+- `l'article 3` → loi n° 33-06 [✓]
+- `l'article 37` → loi n° 33-06 [✓]
+
+*Dates :* 16 chaoual 1440
+
+
+## Article 5
+
+*Article 5*
+
+Aux fins d'instruction du dossier de demande d'agrément,
+PAMMC peut :
+— exiger du requérant la communication, dans les délais qu'elle
+fixe, de toute information complémentaire qu'elle juge utile ;
+_ effectuer un ou plusieurs entretiens avec les représentants
+légaux et/ou les principaux dirigeants du requérant ;
+— effectuer, le cas échéant, une visite du siège du requérant et
+Jou des locaux destinés à l'exercice de son activité pendant
+les horaires de travail.
+
+
+## Article 6
+
+*Article 6*
+
+conformément aux dispositions de l'article 29 de la
+Joi n° 41-05 précitée, les modifications qui affectent lune des
+conditions ayant présidé à l'octroi de l'agrément de la société
+de gestion d''OPCC sont subordonnées à l'octroi d'un nouvel
+agrément.
+conformément aux dispositions du premier alinéa de
+l'article 40 de la loi n° 33-06 précitée, les modifications qui
+affectent le contrôle de l'établissement gestionnaire de FPCT
+au sens de l'article 144 de la loi n° 17-95 relative aux sociétés
+anonymes, ou la nature des activités qu'il exerce ou sa forme
+juridique, sont subordonnées à l'octroi d'un nouvel agrément.
+
+*Entités :* `loi n° 33-06` (LOI), `loi n° 17-95 relative aux sociétés` (LOI), `41-05` (LOI), `33-06` (LOI), `41-05` (LOI), `33-06` (LOI)
+
+*Citations :*
+
+- `l'article 29` → loi n° 33-06 [✓]
+- `l'article 40` → loi n° 17-95 relative aux sociétés [✓]
+- `l'article 144` → loi n° 17-95 relative aux sociétés [✓]
+
+
+## Article 7
+
+*Article 7*
+
+conformément aux dispositions du deuxième alinéa
+de l'article 40 de la loi n°33-06 précitée, les modifications
+du lieu du siège social, ou du lieu effectif de l'activité de
+l'établissement gestionnaire de FPCT sur le territoire national,
+sont subordonnées à l'accord préalable de l'AMMC.
+La demande de l'accord est adressée à l'AMMC qui
+en accuse réception. Elle est accompagnée d'un dossier
+comprenant les éléments suivants :
+_ un exemplaire du procès-verbal de l'organe ayant
+délibéré sur la décision de modification du lieu du siège
+social, ou du lieu effectif de l'activité de l'établissement
+gestionnaire de FPCT ;
+une note précisant les motifs des modifications précitées
+et les mesures d'accompagnement prises ou envisagées,
+y compris les moyens matériels et techniques nécessaires
+à cet effet ;
+—un plan, établi par un architecte, pour l'aménagement
+du nouveau siège social de l'établissement gestionnaire
+ou du nouveau lieu effectif de son activité, indiquant
+la localisation de l'espace dédié aux archives et du
+local technique, L'agencement des locaux, retenu dans
+ledit plan, doit permettre notamment la sécurisation
+de leur accès et la séparation physique entre les
+fonctions incompatibles, notamment entre les bureaux
+des gérants de portefeuille et les bureaux des autres
+fonctions opérationnelles.
+L'AMMC peut exiger de l'établissement gestionnaire la
+communication, dans les délais qu'elle fixe, tout document ou
+information complémentaire qu'elle juge utile à l'instruction
+de la demande d'accord. Elle peut également procéder à une
+visite, pendant les horaires de travail, du nouveau siège social
+de l'établissement gestionnaire ou du nouveau lieu effectif de
+son activité.
+
+*Entités :* `loi n°33-06` (LOI), `33-06` (LOI), `33-06` (LOI)
+
+*Citations :*
+
+- `l'article 40` → loi n°33-06 [✓]
+
+
+## Article 8
+
+*Article 8*
+
+Dès publication du nouvel agrément visé à l'article 6
+ci-dessus et/ou notification de l'accord, visé à l'article 7
+ci-dessus, par l'AMMC, la société de gestion d''OPCC ou
+l'établissement gestionnaire de FPCT selon le cas, communique,
+par tout moyen faisant preuve de réception, les modifications
+mentionnées dans les articles 6 et 7 précités aux porteurs de
+titres et les publié sur son site WEB.
+1570 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+TU —
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 6` → loi n° 43-12 [✓]
+- `l'article 7` → loi n° 43-12 [✓]
+- `articles 6 et 7` → loi n° 43-12 [✓]
+
+*Dates :* 16 chaoual 1440
+
+
+## Article Annexe
+
+*Annexe à la circulaire de Autorité marocaine du :*
+
+Annexe à la circulaire de Autorité marocaine du :
+relative à l'agrément des sociétés de gestion d'organism
+et des établissements gestionnaires de Fonds de pla
+Formulaire prévu à l'article 4 de la}
+I. — Informations relatives au requérant
+Dénomination sociale
+Adresse de la société (siège
+social et lieu effectif de
+l'activité)
+Date de constitution de
+la société ou indication
+qu'elle est en cours de
+constitution
+Date et N°
+d'immatriculation au
+Registre de commerce
+ou de toute inscription
+modificative
+Identifiant commun de
+l'entreprise (ICE)
+Capital social et montant
+du capital libéré
+Exercice comptable |
+Nature des activités
+envisagées
+Organe chargé de
+l'administration
+Représentant légal Nom, prénom, N° CNIE, N° té
+IL. — Informations relatives à l'organe chargé de l'administration du req
+préparer son dossier de demande d'agrément
+1. Informations relatives à l'organe chargé de l'administration
+Nom et Prénom
+Noms & Prénoms Forme ,
+eds du représentant
+où juridique ermanent de
+dénomination (personne A ersonne N°CNIE
+sociale des physique P N°RC/
+morale membre
+membres de ou morale, , ICE
+' ; x re de l'organe
+l'organe chargé de | résidente ou ñ
+RER , chargé de
+l'administration
+l'administration
+marché des capitaux N° 01/19
+es de placement collectif en capital
+ements collectifs en titrisation
+résente circulaire
+éphone, Email.
+uérant, ses dirigeants et à la personne chargée de
+Date début | Autres fonctions
+du mandat ou mandats
+exercés dans
+d'autres entités
+Qualité
+f
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1571
+LL
+2. Informations relatives aux dirigeants
+Identité du o . Durée Date début
+3. Informations relatives à la personne chargé de la préparation du dossier de demande d'a
+Nom & Prénom ou dénomination
+sociale
+Titre/Fonction N° Téléphone/ fax
+II. — Informations relatives aux actionnaires et la répartition du capital social et des droi
+Noms & ire Montant Pourcentag
+Prénoms où (personne Nombre de global de la dans le capit
+dénomination physique N°CNIE/ titres détenus | valeur des Social des
+sociale des ou morale RC/ICE par chaque titres détenus | titres détenr
+: . 7 ? actionnaire par chaque par chaque
+actionnaires résidente ou actionnaire actionnaire
+non)
+Total pour l'ensemble des actionnaires
+IV. — Informations en cas d'augmentation envisagée du capital social lorsque le requérant
+Le montant du capital après l'augmentation
+Le type de l'apport
+Le calendrier de réalisation de l'augmentation de capital
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6787 du 13 ch
+Autres fonctions exercées
+dans d'autres entités
+grément
+Adresse électronique
+s de vote
+Pourcentage
+des droits
+de vote dont
+dispose chaque
+actionnaire
+Date début
+d'actionnariat
+S
+est une société déjà constituée
+aoual 1440 (17 juin 2019).
+1572 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+FT
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI), `Bulletin officiel » n° 6787` (BULLETIN_OFFICIEL), `17 juin 2019` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `l'article 4` → Bulletin officiel » n° 6787 [✓]
+
+*Personnes :* I. —, A ersonne
+
+*Organisations :* Autorité marocaine, Fonds, Date de constitution de
+la société
+
+*Dates :* 16 chaoual 1440, 17 juin 2019, 16 chaoual 1440
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. —*
+
+Les dispositions des articles
+premier et 2 de l'arrêté du ministre de l'économie et des finances
+n°2541-13 du 12 joumada I 1435 (14 mars 2014) susvisé sont
+modifiées et complétées comme suit :
+« à l'article 3 ci-dessous.»
+(la suite sans modification.)
+PPS ETET ELEC LE LEE EEE ECCELEEELEELEELELELLEL
+« Article premier. — Pour l'application
+LR annnnnrraserreeccrnnecseesenrneeeeeeescnens eee sessneneeeeeeeeennnnne SUSVISÉ :
+«- les liquidités .… dudit OPCVM ;
+« - les autres valeurs ss doivent
+«être détenues dans la limite de 10% de ses actifs et dans
+«le respect des règles prévues pour les valeurs mobilières
+« Un OPCVM
+« Article 2.— Pour l'application
+EEE TIIT SITE EEE SELLE LES EEECEEEEELLEEEELEE
+d'un même émetteur.
+« Toutefois, un OPCVM peut porter la limite de dix
+« pour cent (10%) prévue au 1 alinéa ci-dessus uniquement
+« pour un seul des cas prévus aux (a), (b) et (c) ci-dessous,
+« comme suit :
+«a- à un maximum de quinze pour cent (15%) pour
+«les titres de créance émis par un même émetteur qui
+«a fait l'objet d'une notation de crédit de la part d'une
+&« agence de notation enregistrée auprès de l'Autorité
+« marocaine du marché des capitaux ou toute autre
+«autorité similaire internationale ;
+«b- à un maximum de quinze pour cent (15%) pour
+«les titres de capital d'un même émetteur, lorsque les
+«titres de capital dudit émetteur sont cotés et ont une
+« pondération dans l'indice boursier de référence,
+« tel que calculé et publié par la bourse des valeurs,
+« dépassant dix pour cent (10%) ;
+«c- à un maximum de vingt pour cent (20%) pour
+«les titres de capital d'un même émetteur, lorsque les
+«titres de capital dudit émetteur sont cotés et ont une
+« pondération dans l'indice boursier de référence,
+« tel que calculé et publié par la bourse des valeurs,
+« dépassant quinze pour cent (15%).
+« La valeur totale des titres qu'un OPCVM peut détenir
+« auprès des émetteurs dans chacun desquels il investit plus de 10%
+«ne peut dépasser, en aucun cas, 45% de ses actifs. »
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `12 joumada I 1435` (DATE_HIJRI), `14 mars 2014` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `l'article 3` → Dahir n° 1-18-110 [✓]
+
+*Organisations :* Autorité
+« marocaine du marché des capitaux
+
+*Dates :* 12 joumada I 1435, 14 mars 2014
+
+
+## Article 2
+
+*ART. 2. -*
+
+L'arrêté du ministre de l'économie et des finances
+n°2541-13 du 12 joumada I 1435 (14 mars 2014) précité est
+complété par l'article 3 bis comme suit :
+« Article 3 bis — En application des dispositions
+«de l'article 81-1 du dahir portant loi n°1-93-213 du 4 rabii II 1414
+« (21 septembre 1993) susvisé, un OPCVM ne peut employer
+«plus de vingt pour cent (20%) de ses actifs en :
+«- titres de créances négociables émis par des personnes
+«morales dont les titres ne sont pas inscrits à la cote de
+«la Bourse des valeurs ;
+&«- parts d'organismes de placement collectif en capital
+« (OPCC) ;
+«- ou parts de Fonds de placement collectif en titrisation
+« (FPCT). »
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `12 joumada I 1435` (DATE_HIJRI), `14 mars 2014` (DATE_GREGORIAN), `dahir portant loi n°1-93-213` (DAHIR), `4 rabii II 1414` (DATE_HIJRI), `21 septembre 1993` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `l'article 3` → dahir portant loi n°1-93-213 [✓]
+- `l'article 81-1` → dahir portant loi n°1-93-213 [✓]
+
+*Organisations :* Fonds
+
+*Dates :* 12 joumada I 1435, 14 mars 2014, 4 rabii II 1414, 21 septembre 1993
+
+
+## Article 3
+
+*ART. 3. —*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 6 chaoual 1440 (10 juin 2019).
+MOHAMED BENCHAABOUN.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6786 du 9 chaoual 1440 (13 juin 2019).
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1573
+D A,
+EE mu de
+
+*Entités :* `arrêté` (ARRETE), `6 chaoual 1440` (DATE_HIJRI), `10 juin 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6786 du 9 chaoual 1440 (13 juin 2019)` (BULLETIN_OFFICIEL), `16 chaoual 1440` (DATE_HIJRI)
+
+*Organisations :* D A
+
+*Dates :* 6 chaoual 1440, 10 juin 2019, 16 chaoual 1440
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER .—*
+
+Sont homologuées comme normes marocaines, les normes dont les références sont
+présentées en annexe de la présente décision.
+
+
+## Article 2
+
+*ART. 2. -*
+
+Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à l'Institut
+marocain de normalisation (IMANOR).
+
+*Organisations :* Institut
+marocain de normalisation
+
+
+## Article 3
+
+*ART. 3. -*
+
+La présente décision sera publiée au Bulletin officiel.
+Rabat, le 14 ramadan 1440 (20 mai 2019).
+ABDERRAHIM TAÏIBI.
++ *
+1574 | BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+OO
+A
+
+*Entités :* `14 ramadan 1440` (DATE_HIJRI), `20 mai 2019` (DATE_GREGORIAN), `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 14 ramadan 1440, 20 mai 2019, 16 chaoual 1440
+
+
+## Article ANNEXE
+
+*ANNEXE A LA DECISION PORTANT*
+
+ANNEXE A LA DECISION PORTANT
+HOMOLOGATION DE NORMES MAROCAINES
+Produits plats en acier pour service sous pression - Conditions techniques de livraison -
+Partie 1 : Exigences générales ; (IC 01.4.174)
+NM ISO 9328-2 +: 2019 Produits plats en acier pour service sous pression
+Partie 2 : Aciers non alliés et aciers alliés avec carac
+élevée ; (IC 01.4.175)
+NM ISO 9328-3 - 2019 Produits plats en acier pour service sous pression - Conditions techniques de livraison -
+Partie 3 : Aciers soudables à grains fins, normalisés ; (IC 01.4.176)
+NM ISO 9328-1 : 2019
+- Conditions techniques de livraison -
+téristiques spécifiées à température
+NM ISO 9328-4 + 2019 Produits plats en acier pour service sous pression - Conditions techniques de livraison -
+Partie 4 : Aciers alliés au nickel avec caractéristiques spécifiées à basse température ; {IC
+01.4.177)
+NM ISO 9328-5 + 2019 Produits plats en acier pour service sous pression - Conditions techniques de livraison -
+Partie 5 : Aciers soudables à grains fins, laminés thermomécaniquement ; {IC 01.4.178)
+NM ISO 9328-6 : 2019 Produits plats en acier pour service sous pression - Conditions techniques de livraison -
+Partie 6 : Aciers soudables à grains fins, trempés et revenus ; (IC 01.4.179)
+NM ISO 9328-7 : 2019 Produits plats en acier pour service sous pression - Conditions techniques de livraison -
+Partie 7 : Aciers inoxydables ; (1C 01.4.180)
+NM 08.0.008 . 2019 Code d'usages en matière d'hygiène pour les aliments à faible teneur en eau;
+NM 08.0.012 : 2019 Agriculture et industrie agroalimentaire - Lignes directrices pour l'établissement d'une
+démarche de traçabilité dans les filières agricoles et alimentaires ;
+NM 08.0.016 : 2019 Traçabilité et sécurité des aliments - Management et hygiene - Hygiène des aliments-
+Glossaire Français-Anglais ;
+NM ISO/TS 22002-6 : 2019 Programmes prérequis pour la sécurité des denrées alimentaires - Partie 6 : Production
+des aliments pour animaux ; (IC 08.0.030)
+NM 08.0.090 : 2019 Traçabilité et sécurité des aliments - Management et hygiène — Lignes directrices pour la
+réalisation des tests de croissance microbiologiques ;
+NM ISO 21001 : 2019 Organismes d'éducation/formation - Systèmes de management des organismes
+d'éducation/formation - Exigences et recommandations pour leur application ; (IC
+30.8.054)
+NM EN 14475 - 2019 Exécution de travaux géotechniques spéciaux - Remblais renforcés ; {IC 13.1.184)
+NM EN 14490 - 2019 Exécution des travaux géotechniques spéciaux - Clouage ; (IC 13.1.185)
+NM EN 12716 - 2019 Exécution des travaux géotechniques spéciaux - Colonnes, panneaux et structures de sol-
+ciment réalisés par jet ; (IC 13.1.186)
+NM EN 14679 * 2019 Exécution de travaux géotechniques spéciaux - Colonnes de sol traité ; (IC 13.1.187)
+NM EN 15237 . 2019 Exécution des travaux géotechniques spéciaux - Drains verticaux ; (IC 13.1.188)
+NM EN 14731 - 2019 Exécution de travaux géotechniques spéciaux - Amélioration des massifs de sol par
+vibration ; (IC 13.1.189)
+NM 13.1.428 . 2019 Assises de chaussées - Méthodologie d'étude en laboratoire des matériaux traités aux
+liants hydrauliques - Graves traitées aux liants hydrauliques ;
+NM 13.1.429 - 2019 Assises de chaussées - Méthodologie d'étude en laboratoire des matériaux traités aux
+liants hydrauliques - Sables traités aux liants hydrauliques ;
+NM 13.1.430 : 2019 Assises de chaussées - Méthodologie d'étude en laboratoire des matériaux traités aux
+liants hydrauliques - Sols traités aux liants hydrauliques éventuellement associés à la
+chaux ;
+NM 13.1.289 . 2019 Assises de chaussées et plates-formes - Bétons compactés routiers et graves traitées aux
+liants hydrauliques à hautes performances - Définition, composition et classification ;
+NM 13.1.348 - 2019 Assises de chaussées - Activation du laitier vitrifié - Définitions, caractéristiques et
+spécifications ;
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1575
+D COOUU RU EU T TU
+D Open, aa ss
+tion en continu des mélanges - Contrôle de fabrication des
+NM 13.1.356 . 2019 Assises de chaussées - Fabrica
+graves et sables traités aux liants hydrauliques ou non traités en centrale de malaxage
+continue ; |
+NM 13.1.063 2019 Assises de chaussées - Exécution des corps de chaussées - Constituants - Composition
+des mélanges et formulation - Exécution et contrôle ;
+NM EN 12273 - 2019 Matériaux bitumineux coulés à froid - Spécifications ; (IC 03.4.280)
+NM EN 15814 . 2019 Revêtements bitumineux épais modifiés aux polymères pour imperméabilisation -
+Définitions et exigences ; (IC 03.4.281)
+NM EN 15322 - 2019  Bitumes et liants bitumineux - Cadre de spécifications pour les liants bitumineux fluidifiés
+et fluxés ; (IC 03.4.003)
+NM 13.1.211 . 2019 Enrobés hydrocarbonés - Couches de roulement : béton bitumineux à l'émulsion -
+Définition - Classification - Caractéristiques - Fabrication - Mise en œuvre ; (IC 13.1.211)
+NM EN 1254-1 - 2019 Cuivre et alliages de cuivre - Raccords - Partie 1 : Raccords à braser par capillarité pour
+tubes en cuivre ; (IC 10.4,353)
+NM EN 1254-2 - 201
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Organisations :* Produits plats en acier pour service, Produits plats en acier pour service sous pression
+
+*Dates :* 16 chaoual 1440
+
+
+## Article ANNEXE-2
+
+9 Cuivre et alliages de cuivre - Raccords - Partie 2 : Raccords à compression pour tubes en
+| cuivre ; (IC 10.4.354)
+NM EN 13618 : 2019 Tuyaux flexibles pour installations d'eau potable - Exigences fonctionnelles et méthodes
+d'essai ; (IC 10.4.355)
+NM EN 14506 : 2019 Dispositifs de protection contre la pollution de l'eau potable par retour - Inverseur à
+retour automatique - Famille H, type C ; (IC 10.4.356)
+NM EN 200 - 2019 Robinetterie sanitaire - Robinets simples et mélangeurs pour les systèmes d'alimentation
+en eau des types 1 et 2 - Spécifications techniques générales ; (IC 10.4.004)
+NM EN 817 * 2019 Robinetterie sanitaire - Mitigeurs mécaniques (PN 10) - Spécifications techniques
+générales ; (IC 10.4.005)
+NM EN 248 . 2019 Robinetterie sanitaire - Spécifications générales des revêtements électrolytiques de Ni-
+Cr ; (IC 10.4.045)
+NM EN 246 - 2019 Robinetterie sanitaire - Spécifications générales des régulateurs de jets ; (IC 10.4.047)
+NM EN 1112 : 2019 Robinetterie sanitaire - Douches pour robinetterie sanitaire pour les systèmes
+d'alimentation en eau de types 1 et 2 - Spécifications techniques générales ; (IC 10.4.126)
+NM EN 1113 : 2019 Robinetterie sanitaire - Flexibles de douches pour robinetterie sanitaire pour les
+systèmes d'alimentation type 1 et type 2 - Spécifications techniques générales ; (IC
+10.4.216)
+NM ISO 6781-3 : 2019 Performance des bâtiments - Détection d'irrégularités de chaleur, air et humidité dans
+les bâtiments par des méthodes infrarouges - Partie 3 : Qualification des opérateurs de
+l'équipement, des analystes de données et des rédacteurs de rapports ; (IC 19.7.060)
+NM ISO 8990 : 2019 Jisolation thermique - Détermination des propriétés de transmission thermique en
+régime stationnaire - Méthodes à la boîte chaude gardée et calibrée ; (IC 19.7.061)
+: NMISO 12344 - 2019 Produits isolants thermiques destinés aux applications du bâtiment - Détermination du
+comportement en flexion ; (IC 19.7.062)
+NM ISO 12571 : 2019 Performance hygrothermique des matériaux et produits pour le bâtiment -
+Détermination des propriétés de sorption hygroscopique ; (IC 19.7.063)
+NM 150 12623 : 2019 Produits isolants thermiques pour les équipements des bâtiments et les installations
+industrielles - Détermination de l'absorption d'eau à court terme par immersion partielle
+des coquilles isolantes préformées ; (IC 19.7.064)
+NM ISO 12624 : 2019 Produits isolants thermiques - Détermination des faibles quantités d'ions chlorure,
+fluorure, silicate et sodium solubles dans l'eau et mesure du ph ; (IC 19.7.065)
+NM ISO 12628 : 2019 Produits isolants thermiques pour les équipements des bâtiments et les installations
+industrielles - Détermination des dimensions, de l'équerrage et de la linéarité des
+coquilles isolantes préformées ; (IC 19.7.066)
+NM ISO 12629 . 2019 Produits isolants thermiques pour les équipements
+industrielles - Détermination des propriétés de transmissio
+coquilles isolantes préformées ; (IC 19.7.067)
+des bâtiments et les installations
+n de la vapeur d'eau des
+1576 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+TT
+Produits isolants thermiques pour le bâtiment - Produits manufacturés en polystyrène
+NM EN 13163 : 2019
+expansé (EPS) - Spécification ; (IC 19.7.003)
+NM EN 13164 - 2019 Produits isolants thermiques pour le bâtiment - Produits manufacturés en mousse de
+polystyrène extrudé (XPS) - Spécification ; (IC 19.7.004)
+NM EN 13165 2019 Produits isolants thermiques pour le bâtiment - Produits manufacturés en Mousse rigide
+de polyuréthane (PU) - Spécification ; (IC 19.7.005)
+NM EN 13166 : 2019 Produits isolants thermiques pour le bâtiment - Produits manufacturés en Mousse
+phénolique (PF) - Spécification ; (IC 19.7.006)
+NM EN 13167 - 2019  Produitsisolants thermiques pour le bâtiment - Produits manufacturés en verre cellulaire
+(CG) - Spécification ; (IC 19.7.007)
+NM EN 13168 . 2019 Produits isolants thermiques pour le bâtiment - Produits manufacturés en laine de bois
+(WW) - Spécification ; (IC 19.7.008)
+NM EN 13169 : 2019 Produits isolants thermiques pour le bâtiment - Produits manufacturés en panneaux de
+perlite expansée (EPB) - Spécification ; (IC 19.7.013)
+NM EN 14316-1 : 2019 Produits isolants thermiques pour le bâtiment - Isolation thermique formée en place à
+base de produits de perlite expansée (EP) — Partie 1 : Spécifications des produits liés et
+en vrac avant la mise en place ; (IC 19.7.014)
+NM EN 14316-2 : 2019 Produits isolants thermiques pour le bâtiment
+base de produits de perlite expansée (EP) — Partie
+place ; (IC 19.7.015)
+- jsolation thermique formée en place à
+2 : Spécifications des produits mis en
+f . ,
+ent - Produits manufacturés en liège expansé
+NM EN 13170 : 2019 Produits isolants thermiques pour le bâtim
+(CB) - Spécification ; (IC 19.7.020)
+NM EN 13171 - 2019 Produits isolants thermiques pour le bâtiment - Produits manufacturés en fibres de bois
+(WF) - Spécification ; (IC 19.7.021)
+NM EN 823 - 2019 Produits isolants thermiques destinés aux applications du bâtiment - Détermination
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Personnes :* Famille H
+
+*Dates :* 16 chaoual 1440
+
+
+## Article ANNEXE-3
+
+de
+l'épaisseur ; (IC 19.7.023)
+NM EN 822 : 2019 Produits isolants thermiques destinés aux applications du bâtiment - Détermination de
+la longueur et de la largeur ; (IC 19.7.024)
+NM EN 824 . 2019 Produits isolants thermiques destinés aux applications du bâtiment - Détermination de
+l'équerrage ; (IC 19.7.025) |
+NM EN 825 - 2019 Produits isolants thermiques destinés aux applications du bâtiment - Détermination de
+la planéité ; (IC 19.7.026)
+NM EN 826 : 2019 Produits isolants thermiques destinés aux applications du bâtiment - Détermination du
+comportement en compression ; (IC 19.7.027)
+NM EN 1602 . 2019 Produits isolants thermiques destinés aux applications du bâtiment - Détermination de
+la masse volumique apparente ; (IC 19.7.028)
+NM EN 1604 - 2019 Produits isolants thermiques destinés aux applications du bâtiment - Détermination de
+la stabilité dimensionnelle dans des conditions de température et d'humidité spécifiées
+; (IC 19.7.030)
+NM 03.3.124 : 2019 Peintures et vernis - Enduits de peinture pour travaux intérieurs et/ou extérieurs ;
+NM ISO 12944-6 . 2019 Peintures et vernis - Anticorrosion des structures en acier par systèmes de peinture -
+Partie 6 : Essai de performance en laboratoire ; (IC 03.3.220)
+NM 03.3.254 - 2019 Peintures et vernis - Systèmes de peinture pour la protection des ouvrages métalliques -
+Spécifications ;
+NM ISO 16773-3 : 2019 Spectroscopie d'impédance électrochimique (SIE) sur des éprouvettes métalliques
+revêtues et non revêtues - Partie 3: Traitement et analyse des données obtenues à partir
+de cellules test ; (IC 03.3.338)
+NM iSO 16773-4 : 2019 Spectroscopie d'impédance électrochimique
+revêtues et non revêtues - Partie 4: Exemples de spectres d'éprouvettes re
+polymères et non revêtues ; (IC 03.3.339)
+NM ISO 20567-1 - 2019 Peintures et vernis - Détermination de la résistance des revêtemen
+cailloux - Partie 1: Essais de chocs multiples ; (IC 03.3.344)
+(SIE) sur des éprouvettes métalliques
+vêtues de
+ts aux impacts de
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL | 1577
+ENVI OO D oo
+po
+Détermination de la résistance des revêtements aux impacts de
+NM ISO 20567-2 : 2019 Peintures et vernis -
+cailloux - Partie 2: Essai de choc simple par corps percutant guidé ; (IC 03.3.345)
+NM ISO 4623-1 . 2019 Peintures et vernis - Détermination de la résistance à la corrosion filiforme - Partie 1:
+Subjectiles en acier ; (IC 03.3.031)
+NM ISO 9117-6 . 2019 Peintures et vernis - Essais de séchage - Partie 6: Essai de séchage apparent complet ; (IC
+03.3.161)
+NM ISO 6504-3 . 2019 Peintures et vernis - Détermination du pouvoir masquant - Partie 3: Détermination du
+rapport de contraste des peintures claires à un rendement surfacique déterminé ; (IC
+03.3.416)
+NM EN 927-1 + 2019 Peintures et vernis - Produits de peinture et systèmes de peinture pour le bois en
+extérieur - Partie 1 : Classification et sélection ; (IC 03.3.406)
+NM EN 927-2 + 2019 Peintures et vernis - Produits de peinture et systèmes de peinture pour le bois en
+extérieur - Partie 2 : Spécifications de performance ; (IC 03.3.407)
+NM EN 927-3 * 2019 Peintures et vernis - Produits de peinture et systèmes de peinture pour le bois en
+extérieur - Partie 3 : Essai de vieilissement naturel ; (IC 03.3.408)
+NM EN 927-5 : 2019 Peintures et vernis - Produits de peinture et systèmes de peinture pour le bois en
+extérieur - Partie 5 : Détermination de la perméabilité à l'eau liquide ; (IC 03.3.409)
+NM EN 12581 + 2019 Installations d'application - Installations au trempé et par électrodéposition de produits
+de revêtements organiques liquides - Prescriptions de sécurité ; (IC 03.3.410)
+NM EN 12981 * 2019 Installations d'application - Cabines d'application par projection de produit de
+revêtement en poudre organique - Exigences de sécurité ; (IC 03.3.411)
+NM 03.3.009 : 2019 Peintures et vernis - Caractérisation des produits de peinture ;
+NM ISO 2884-1 . 2019 Peintures et vernis - Détermination de la viscosité au moyen de viscosimètres rotatifs -
+Partie 1: Viscosimètre à cône et plateau fonctionnant à gradient de vitesse de
+cisaillement élevé ; (1C 03.3.176)
+NM 03.3.057 - 2019 Peintures et vernis - Détermination de l'extrait sec et de la masse volumique du feuil sec
+- Calcul du rendement volumique en feuil sec ;
+NM 03.3.069 - 2019 Peintures et vernis - Essai de teneur d'une peinture à des variations cycliques de
+température ; ù
+NM 03.3.070 - 2019 Peintures et vernis - Evaluation du rendement superficiel spécifique ; (REV)
+NM 03.3.071 2019 Peintures et vernis - Peinture en phase solvant - Détermination des teneurs en liant et
+en matières pulvérulentes ;
+NM 03.3.072 : 2019 Peintures et vernis - Détermination du pouvoir masquant ;
+NM EN 14879-1 : 2019 Systèmes des revêtements organiques de peinture et autres revêtements rapportés pour
+la protection des appareils et installations industriels contre la corrosion par des milieux
+agressifs - Partie 1 : Terminologie, conception et préparation des subjectiles ; (iC
+03.3.425)
+NM EN 14879-2 '  : 2019 Systèmes de revêtem
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 16 chaoual 1440
+
+
+## Article ANNEXE-4
+
+ents organiques de peinture et autres revêtements rapportés pour
+la protection des appareils et installations industriels contre la corrosion par des milieux
+agressifs - Partie 2 : Revêtements pour composants métalliques ; (IC 03.3.426)
+NM EN 14879-3 : 2019 Systèmes de revêtements organiques de peinture et autres revêtements rapportés pour
+la protection des appareils et installations industriels contre la corrosion par des milieux
+agressifs - Partie 3 : Revêtements sur bétons ; (IC 03.3.427)
+NM EN 14879-4 : 2019 Systèmes de revêtements organiques de peinture et autres revêtements rapportés pour
+la protection des appareils et installations industriels contre la corrosion par des milieux
+agressifs - Partie 4 : revêtements rapportés sur composants métalliques ; (IC 03.3.428)
+NM EN 14879-5 . 2019 Systèmes de revêtements organiques de peinture et autres revêtements rapportés pour
+la protection des appareils et installations industriels contre la corrosion par des milieux
+agressifs - Partie 5 : revêtements rapportés sur composant en béton : (IC 03.3.429)
+NM EN 14879-6 : 2019 Systèmes des revêtements organiques pour la protection des appareils et installations
+industriels contre la corrosion par des fluides agressifs - Partie 6 : revêtements rapportés
+associés à des couches de carreaux et de briques ; (IC 03.3.430)
+1578 BULLETIN OFFICIEL N° 6788 - 16 chaoual 1440 (20-6-2019)
+: #0
+qq
+s - Travaux de peinture des bâtiments - Schéma de contrat d'entretien
+NM 03.3.431 : 2019 Peintures et verni
+périodique ;
+NM 03.3.142 - 2019 Travaux de bâtiment - Revêtements de peinture en feuil mince, semi-épais, ou épais -
+cahier des clauses techniques types ;
+NM 03.3.143 - 2019 Travaux de bâtiment - Revêtements de peinture en feuil mince, semni-épais, ou épais -
+Critères généraux de choix des matériaux ;
+NM 03.3.144 . 2019 Travaux de bâtiment - Revêtements de peinture en feuil mince, semi-épais, ou épais -
+cahier des clauses administratives spéciales types ;
+NM 03.3.145 . 2019 Travaux de bâtiment - Réfection de façades en service par revêtements d'imperméabilité
+à base de polymères - cahier des Clauses Techniques ;
+NM 03.3.147 . 2019 Travaux de bâtiment - Réfection de façades en service par revêtements d'imperméabilité
+à base de polymers - cahier des Clauses Spéciales ;
+NM 03.3.146 . 2019 Travaux de bâtiment - Réfection de façades en service par revêtements d'imperméabilité
+à base de polymères - Critères généraux de choix des matériaux ;
+NM ISO 34-2 - 2019 Caoutchouc vulcanisé ou thermoplastique - Détermination de la résistance au
+déchirement - Partie 2: Petites éprouvettes (éprouvettes de Delft) ; (IC 05.1.025)
+NM ISO 815-1 : 2019 Caoutchouc vulcanisé ou thermoplastique - Détermination de la déformation rémanente
+après compression - Partie 1: À températures ambiantes ou élevées : (IC 05.1.028)
+NM ISO 815-2 . 2019 Caoutchouc vulcanisé ou thermoplastique - Détermination de la déformation rémanente
+après compression - Partie 2: À basses températures ; (IC 05.1.027)
+NM ISO 1431-1 . 2019 Caoutchouc vulcanisé ou thermoplastique - Résistance au craquelage par l'ozone ; (IC
+05.1.029)
+NM ISO 1629 - 2019 Caoutchouc et latex - Nomenclature ; (IC 05.1.030)
+NM ISO 1817 + 2019 Caoutchouc vulcanisé ou thermoplastique - Détermination de l'action des liquides ; (IC
+05.1.031)
+NM ISO 2393 : 2019 Mélanges d'essais à base de caoutchouc - Mélangeage, préparation et vulcanisation -
+Appareillage et modes opératoires ; (IC 05.1.033)
+NM ISO 3384-1 . 2019 Caoutchouc vulcanisé ou thermoplastique - Détermination de la relaxation de contrainte
+en compression - Partie 1: Essais à température constante ; (IC 05.1.035)
+NM ISO 3387 : 2019 Caoutchouc - Détermination des effets de la cristallisation au moyen de mesurages de
+dureté ; (IC 05.1.036)
+NM ISO 7233 : 2019 Tuyaux et flexibles en caoutchouc et en plastique - Détermination de la résistance à
+l'aspiration ; (IC 05.2.023)
+NM 150 7326 : 2019 Tuyaux en caoutchouc et en plastique - Évaluation de la résistance à l'ozone dans des
+conditions statiques ; (IC 05.2.024)
+NM ISO 8031 : 2019 Tuyaux et flexibles en caoutchouc et en plastique - Détermination de la résistance et de
+la conductivité électriques ; (IC 05.2.026)
+NM ISO 8033 : 2019 Tuyaux en caoutchouc et en plastique - Détermination de l'adhérence entre éléments ;
+(IC 05.2.027)
+NM ISO 5893 : 2019 Appareils d'essai du caoutchouc et des plastiques - Types pour traction, flexion et
+compression (vitesse de translation constante) - Spécifications ; (IC 05.1.040)
+NM ISO 6133 : 2019 Caoutchouc et plastiques - Analyse des tracés multi-pics obtenus lors des déterminations
+de la résistance au déchirement et de la force d'adhérence ; (IC 05.1.041)
+NM ISO 2878 - 2019 Caoutchouc vulcanisé ou thermoplastique - Produits antistatiques et conducteurs -
+Détermination de la résistance électrique ; (IC 05.1.042)
+NM 150 4661-2 * 2019 Caoutchouc vulcanisé — Préparation des échantillons et éprouvettes — Partie 2 : Essais
+chimiques ; (IC 05.1.044)
+NM ISO 7743 +: 2019 Caoutchouc vulcanisé
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 16 chaoual 1440
+
+
+## Article ANNEXE-5
+
+ou thermoplastique - Détermination des propriétés de
+contrainte/déformation en compression ; (IC 05.1.045)
+NM ISO 34-1 : 2019 Caoutchouc vulcanisé ou thermoplastique - Détermination de la résistance au
+déchirement - Partie 1: Éprouvettes pantalon, angulaire et croissant ; (IC 05.1.050)
+N° 6788 - 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1579
+RES RE
+2019 Concentré de latex de caoutchouc naturel - Détermination de la stabilité mécanique ; {IC
+NM ISO 35
+05.1.052)
+NM ISO 123 . 2019 Latex de caoutchouc - Échantillonnage ; (IC 05.1.053)
+NM ISO 125 .- 2019 Latex concentré de caoutchouc naturel - Détermination de l'alcalinité ; (IC 05.1.054)
+NM ISO 127 . 2019 Latex concentré de caoutchouc naturel - Détermination de l'indice de potasse ; (IC
+05.1.055)
+NM ISO 248-1 . 2019 Caoutchouc brut - Détermination des matières volatiles - Partie 1: Méthode par
+. mélangeage à chaud et méthode par étuvage ; (IC 05.1.056)
+NM ISO 289-1 : 2019 Caoutchouc non vulcanisé - Déterminations utilisant un consistomètre à disque de
+cisaillement - Partie 1: Détermination de l'indice consistométrique Mooney ; (IC
+05.1.057)
+NM ISO 10619-2 : 2019 Tuyaux et tubes en caoutchouc et en plastique - Mesurage de la flexibilité et de la rigidité
+- Partie 2: Essais de courbure à des températures inférieures à l'ambiante ; (IC 05.2.010)
+NM EN 16436-1 . 2019 Tuyaux, tubes.et flexibles en caoutchouc et en plastique pour utilisation avec le propane,
+'Le butane et leurs mélanges en phase vapeur - Partie 1 : tuyaux et tubes ; (IC 05.2.523)
+NM IS0 4080 .: 2019 Tuyaux et flexibles en caoutchouc et en plastique - Détermination de la perméabilité au
+gaz ; (ICO5.2.531)
+NM ISO 8330 : 2019 Tuyaux et flexibles en caoutchouc et en plastique - Vocabulaire ; (IC 05.2.532)
+NM 1S0 10619-3 : 2019 Tuyaux et tubes en caoutchouc et en plastique - Mesurage de la flexibilité et de la rigidité
+- Partie 3: Essais de courbure à des températures basses et élevées ; (IC 05.2.533)
+NM ISO 30013 : 2019 Tuyaux en caoutchouc et en plastique - Méthodes d'exposition à des sources lumineuses
+de laboratoire - Détermination du changement de coloration, d'aspect et d'autres
+propriétés physiques ; (IC 05.2.534)
+air comprimé — Spécifications ; (IC
+NM 150 2398 : 2019 Tuyaux en caoutchouc renforcés textile pour l'
+05.2.535)
+NM ISO 2870 : 2019 Agents de surface - Détergents - Détermination de la matière active anionique
+'hydrolysable et non hydrolysable en milieu acide ; (IC 03.5.517)
+NM 1S0 2871-1 . 2019 Agents de surface - Détergents - Détermination de la teneur en matière active cationique
+- Partie 1: Matière active cationique à haute masse moléculaire ; (IC 03.5.518)
+NM ISO 2871-2 : 2019 Agents de surface - Détergents - Détermination de la teneur en matière active cationique
+- Partie 2: Matière active cationique à faible masse moléculaire (entre 200 et 500) ; (IC
+03.5.519)
+NM ISO 4317 : 2019 Agents de surface et détergents - Détermination de la teneur en eau - Méthodes de Karl
+- Fischer ; (IC 03.5.529)
+NM ISO 8799 : 2019 Agents de surface - Sulfates d'alcools et d'alkylphénols éthoxylés - Détermination de la
+teneur en matière insulfatée ; (IC 03.5.567)
+NM ISO 21148 : 2019 Cosmétiques - Microbiologie - Instructions générales pour les examens microbiologiques
+; (IC 03.5.146)
+NM ISO 21149 : 2019 Cosmétiques - Microbiologie - Dénombrement et détection des bactéries aérobies
+mésophiles ; (IC 03.5.147)
+NM ISO 21150 : 2019 Cosmétiques - Microbiologie - Détection d'Escherichia coli ; (IC 03.5.148)
+NM ISO 22718 : 2019 Cosmétiques - Microbiologie - Détection de Staphylococcus aureus ; (IC 03.5.149)
+NM EN 12353 : 2019  Antiseptiques et désinfectants chimiques - Conservation des microorganismes d'essai
+utilisés pour la détermination de l'activité bactéricide (Legionella incluses),
+mycobactéricide, sporicide, fongicide et virucide (bactériophages inclus) ; (IC 03.5.156)
+NM EN 14347 : 2019  Antiseptiques et désinfectants chimiques - activité sporicide de base - Méthode d'essai
+et prescriptions (phase 1, étape 1); (IC 03.5.157)
+NM EN 1275 : 2019 Antiseptiques et désinfectants chimiques - Essai quantitatif de suspension pour
+l'évaluation de l'activité fongicide ou levuricide de base des antiseptiques et des
+ptions (phase 1) ; (IC 03.5.158)
+désinfectants chimiques - Méthode d'essai et prescri
+1580 . BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+Oo
+A
+- Essai quantitatif de suspension pour
+e des antiseptiques et des désinfectants
+(phase 1) ; (IC 03.5.159)
+NM EN 1040 : 2019 Antiseptiques et désinfectants chimiques
+l'évaluation de l'activité bactéricide de bas
+chimiques - Méthode d'essai et prescriptions
+NM EN 1276 + 2019  Antiseptiques et désinfectants chimiques - Essai quantitatif de suspension pour
+l'évaluation de l'activité bactéricide des antiseptiques et des désinfectants chimiques
+utilisés dans le domaine de l'agro-alimentaire, dans l'industrie, dans les domaines
+domestiques et en collectivité - Méthode d'essai et prescriptions (phase 2, étape 1} ; (IC
+03.5.181)
+NM EN 1650 . 2019  Antiseptiques
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Personnes :* Latex de caoutchouc
+
+*Dates :* 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article ANNEXE-6
+
+et désinfectants chi
+l'évaluation de l'activité fongicide ou
+chimiques utilisés dans le domaine de l'agro-alimentaire,
+domaines domestiques et en collectivité - Méthode d'essai et P
+étape 1) ; (IC 03.5.183)
+NM EN 14204 . 2019  Antiseptiques et désinfectants chimique
+l'évaluation de l'activité mycobactéricide
+chimiques utilisés dans le domaine vétérinaire - Mé
+2, étape 1) ; (IC 03.5.190)
+NM EN 1656 + 2019  Antiseptiques et désinfectants chimiq
+l'évaluation de l'activité bactéricide des antisep
+utilisés dans le domaine vétérinaire - Méthodes d'essai et prescrip
+1) ; (IC 03.5.193)
+NM EN 14349 : 2019 Antiseptiques et d
+de l'activité bactéricide des antiseptiques et des désinfec
+domaine vétérinaire sur des surfaces non poreuses sans action méc
+d'essai et prescriptions (phase 2, étape 2) ; (IC 03.5.194)
+miques - Essai quantitatif de suspension pour
+levuricide des antiseptiques et des désinfectants
+dans l'industrie, dans les
+rescriptions (phase 2,
+s - Essai quantitatif de suspension pour
+des antiseptiques et des désinfectants
+thode d'essai et prescriptions (Phase
+ues - Essai quantitatif de suspension pour
+tiques et des désinfectants chimiques
+tions (phase 2, étape
+ésinfectants chimiques - Essai quantitatif de surface pour l'évaluation
+tants chimiques utilisés dans le
+anique - Méthode
+NM 03.5.590 .- 2019  Antiseptiques et désinfectants utilisés à l'état liquide, miscibles à l'eau - Détermination
+de l'activité sporicide - Méthode par filtration sur membranes ;
+NM 03.5.591 - 2019  Antiseptiques et désinfectants utilisés à l'état liquide, miscibles à l'eau et neutralisables
+- Détermination de l'activité sporicide - Méthode par dilution-neutralisation ;
+NM 03.5.592 : 2019 Procédés de désinfection des surfaces par voie aérienne - Détermination de l'activité
+bactéricide, fongicide, levuricide, mycobactéricide, tuberculocide sporicide et virucide
+incluant les bactériophages ;
+NM EN 350 . 2019  Durabilité du bois et des matériaux dérivés du bois - Méthodes d'essai et de classification
+de la durabilité vis-à-vis des agents biologiques du bois et des matériaux dérivés du bois
+; (IC 13.6.475)
+NM EN 351-1 . 2019  Durabilité du bois et des produits à base de bois -
+préservation - Partie 1 : Classification des pénétrations et rétentions
+préservation ; (IC 13.6.476)
+Bois massif traité avec produit de
+des produits de
+NM EN 14229 - 2019 Bois de structure - Poteaux en bois pour lignes aériennes ; (IC 13.6.044)
+NM EN 14322 : 2019 Panneaux à base de bois - Panneaux surfacés mélaminés pour usages intérieurs -
+: Définition, exigences et classification ; (IC 13.6.049)
+NM ISO 21887 : 2019 Durabilité du bois et des produits à base de bois - Classes d'emploi ; (IC 13.6.436)
+NM ISO 16069 : 2019 Symboles graphiques - Signaux de sécurité - Systèmes de guidage pour cheminement
+d'évacuation de sécurité ; (IC 00.5.977)
+NM ISO 8115 + 2019 Balles de coton - Dimensions et masse volumique ; (IC 09.1.123)
+NM 150 8115-3 . 2019 Balles - Partie 3 : Balles de coton - Emballage et étiquetage ; (IC 09.1.124)
+NM 150 10371 .- 2019 Produits de renfort - Rubans tressés - Base de spécification ; (IC 09.1.132)
+NM ISO 5232 : 2019 Symboles graphiques pour machines textiles ; (IC 09.3.001)
+la réduction de l'émission SOnore à la
+NM ISO 23771 . 2019 Matériel pour l'industrie textile - Guide pour
+conception des machines textiles ; (IC 09.3.010)
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1581
+LOT D oo
+©
+Matériel pour l'industrie textile - Code d'essai acoustique - Partie 1 : Exigences
+NM ISO 9902-1 : 2019
+communes ; {IC 09.3.002)
+NM ISO 9902-2 . 2019 Matériel pour l'industrie textile - Code d'essai acoustique - Partie 2 : Machines de
+préparation de filature et machines de filature ; (IC 09.3.003)
+NM ISO 9902-3 . 2019 Matériel pour l'industrie textile - Code d'essai acoustique - Partie 3 : Machines de
+production de non-tissés ; (IC 09.3.004)
+NM ISO 9902-4 - 2019 Matériel pour l'industrie textile - Code d'essai acoustique - Partie 4 : Machines de
+transformation du fil et machines de production de cordages et articles de corderie ; {IC
+09.3.005)
+NM ISO 9902-5 + 2019 Matériel pour l'industrie textile - Code d'essai acoustique - Partie 5 : Machines de
+préparation au tissage et au tricotage ; (IC 09.3.006)
+NM ISO 9902-6 . 2019 Matériel pour l'industrie textile - Code d'essai acoustique - Partie 6 : Machines de
+production des étoffes ; (IC 09.3.007)
+NM ISO 9902-7 + 2019 Matériel pour l'industrie textile - Code d'essai acoustique - Partie 7 : Machines de
+teinture et de finissage. (IC 09.3.008) |
+NM ISO 4045 .
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 16 chaoual 1440
+
+
+## Article ANNEXE-7
+
+2019 Cuir - Essais chimiques - Détermination du pH et de l'indice de différence ; (IC 20.4.002)
+NM ISO 2418 - 2019 Cuir - Essais chimiques, physiques, mécaniques et de solidité - Emplacement de
+l'échantillonnage ; (IC 20.4.015)
+NM 150 3376 : 2019 Cuir Essais physiques et mécaniques - Détermination de la résistance à la traction et du
+pourcentage d'allongement ; (IC 09.4.049)
+NM ISO 3377-1 : 2019  Cuir- Essais physiques et mécaniques - Détermination de la force de déchirement - Partie
+1 : Déchirement d'un seul bord ; {IC 09.4.055)
+NM ISO 23910 . 2019 Cuir - Essais physiques et mécaniques - Mesurage de la résistance à l'arrachement au
+point de couture ; (IC 20.4.058)
+NM ISO 4044 : 2019 Cuir - Essais chimiques - Préparation des échantillons pour essais chimiques ; (IC
+20.4.001)
+NM ISO 4048 : 2019 Cuir - Essais chimiques - Dosage des matières solubles dans le dichlorométhane et des
+acides gras libres ; (IC 20.4.004)
+NM ISO 5397 - 2019 Cuir - Détermination de la teneur en azote et de la "substance dermique” - Méthode
+titrimétrique ; (IC 20.4.021)
+NM ISO 17226-1 - 2019 Cuir - Dosage chimique du formaldéhyde - Partie 1 : Méthode par chromatographie en
+phase liquide à haute performance ; (IC 20.4.039)
+NM ISO/TS 19407 - 2019 Chaussures - Pointures - Conversion des systèmes de pointures ; (IC 09.5.002)
+NM EN 13451-1 : 2019 Équipement de piscine - Partie 1 : Exigences générales de sécurité et méthodes d'essai ;
+(IC 10.8.278)
+NM EN 13451-2  : 2019 Équipement de piscine - Partie 2 : Exigences de sécurité et méthodes d'essai
+complémentaires propres aux échelles verticales, aux échelles à inclinaison et aux mains
+courantes ; (IC 10.8.279)
+NM EN 13451-3 : 2019 Équipement de piscine - Partie 3 :
+complémentaires propres aux pièces d'aspiration e
+de loisirs aquatiques disposant d'introduction et d'extraction d'eau/d'
+Exigences de sécurité et méthodes d'essai
+t de refoulement et aux équipements
+air ; (IC 10.8.280)
+NM EN 13451-4 : 2019 Équipement de piscine - Partie 4 : Exigences de sécurité et méthodes d'essai
+complémentaires spécifiques aux plots départ ; (IC 10.8.287)
+NM EN 13451-5 : 2019 Équipement de piscine - Partie 5 : Exigences de sécurité et méthodes d'essai
+complémentaires spécifiques aux lignes de nage et lignes d'eau de séparation des
+espaces ; (IC 10.8.282) |
+Exigences de sécurité et méthodes d'essai
+NM EN 13451-6 . 2019 Équipement de piscine - Partie 6 :
+complémentaires spécifiques aux plaques de touche ; (IC 10.8.283) |
+NM EN 13451-7 : 2019 Équipement de piscine - Partie 7 : Exigences de sécurité et méthodes d'essai
+complémentaires spécifiques aux buts de water-polo ; (IC 10.8.284)
+1582 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+NM EN 13451-10 : 2019 Équipement de piscines - Partie
+complémentaires propres aux plate
+associé : (IC 10.8.285)
+NM EN 13451-11  : 2019 Équipement de piscine - Partie
+complémentaires propres aux fond
+NM EN 15288-1 . 2019 Piscines - Partie 1 : Exigences de sé
+NM EN 15288-2 : 2019 Piscines - Partie 2 : Exigences de sé
+10 : Exigences de sécurité et méthodes d'essai
+>s-formes de plongeon, plongeoirs et à l'équipement
+11 : Exigences de sécurité et méthodes d'essai
+s de bassins mobiles et cloisons mobiles ; (IC 10.8.286)
+curité pour la conception ; (IC 10.8.281)
+curité pour le fonctionnement. (1C 10.8.288)
+N° 6788 — 16 chaoual 1440 (20-6-2019) BULLETIN OFFICIEL 1583
+IVG OM D EE
+TEXTES PAR
+
+*Entités :* `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 16 chaoual 1440, 16 chaoual 1440
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. -*
+
+Sont désignés comme membres de
+la commission nationale du conseil agricole, pour une durée
+de trois ans, les représentants des professionnels des filières
+de production agricole suivants :
+_ Je président de l'interprofession marocaine de l'olive, ou
+son représentant (INTERPROLIVE) ;
+_ Je président de la Fédération interprofessionnelle
+marocaine du lait, ou son représentant (FIMA LAIT) ;
+— le président de la Fédération interprofessionnelle
+marocaine des agrumes ou son représentant (Maroc
+CITRUS).
+
+*Organisations :* commission nationale du conseil agricole, Fédération interprofessionnelle
+marocaine du lait, Fédération interprofessionnelle
+marocaine des agrumes
+
+
+## Article 2
+
+*ART. 2. —*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 5 rejeb 1440 (12 mars 2019).
+AZIZ AKHANNOUCH.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6787 du 13 chaoual 1440 (17 juin 2019).
+1584 BULLETIN OFFICIEL N° 6788 — 16 chaoual 1440 (20-6-2019)
+UE
+
+*Entités :* `arrêté` (ARRETE), `5 rejeb 1440` (DATE_HIJRI), `12 mars 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6787 du 13 chaoual 1440 (17 juin 2019)` (BULLETIN_OFFICIEL), `16 chaoual 1440` (DATE_HIJRI)
+
+*Dates :* 5 rejeb 1440, 12 mars 2019, 16 chaoual 1440
+
+
+---
+
+## Entités du préambule
+
+
+- `Dahir n° 1-18-110` → DAHIR
+- `2 joumada I 1440` → DATE_HIJRI
+- `9 janvier 2019` → DATE_GREGORIAN
+- `loi n° 89-17` → LOI
+- `loi n° 15-95` → LOI
+- `loi n° 89-17` → LOI
+- `loi n° 15-95` → LOI
+- `2 joumada I 1440` → DATE_HIJRI
+- `9 janvier 2019` → DATE_GREGORIAN
+- `Loi n° 89-17` → LOI
+- `loi n° 15-95` → LOI
+- `loi n° 15-95` → LOI
+- `dahir n° 1-96-83` → DAHIR
+- `15 rabii I 1417` → DATE_HIJRI
+- `loi n° 88-17 relative à la création et à l'accompagnement` → LOI
+- `16 chaoual 1440` → DATE_HIJRI

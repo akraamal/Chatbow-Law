@@ -1,0 +1,26505 @@
+# Bulletin Officiel 7488
+**Source :** `data\processed\fr\BO_7488-bis_Fr.txt`
+**Langue :** fr
+**Nombre d'articles :** 1224
+
+## Préambule
+
+Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) portant
+approbation du règlement intérieur du Conseil supérieur
+des Ouléma.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu les dispositions du dahir n° 1-03-300 du 2 rabii I 1425
+(22 avril 2004) portant réorganisation des conseils des Ouléma,
+notamment son article 5,
+A DÉCIDÉ CE QUI SUIT :
+
+## Décrets
+
+### Dahir
+
+Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) portant
+approbation du règlement intérieur du Conseil supérieur
+des Ouléma.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu les dispositions du dahir n° 1-03-300 du 2 rabii I 1425
+(22 avril 2004) portant réorganisation des conseils des Ouléma,
+notamment son article 5,
+A DÉCIDÉ CE QUI SUIT :
+
+### Dahir
+
+Dahir n° 1-08-141 du 22 safar 1430 (18 février 2009) modifiant
+et complétant le dahir n° 1-03-300 du 2 rabii I 1425
+(22 avril 2004) portant réorganisation des conseils des
+Ouléma.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu la Constitution, notamment son article 19 ;
+Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma, tel que
+modifié et complété,
+A DÉCIDÉ CE QUI SUIT :
+
+### Dahir
+
+Dahir n° 1-15-02 du 28 rabii I 1436 (20 janvier 2015) complétant
+le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu la Constitution, notamment son article 41 ;
+Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma, tel que
+modifié et complété,
+A DÉCIDÉ CE QUI SUIT :
+
+### Dahir
+
+Dahir n° 1-15-52 du 8 rejeb 1436 (27 avril 2015) modifiant
+le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu la Constitution, notamment son article 41 ;
+Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma, tel que
+modifié et complété,
+A DÉCIDÉ CE QUI SUIT :
+
+### Dahir
+
+Dahir n° 1-23-47 du 26 kaada 1444 (15 juin 2023) modifiant
+et complétant le dahir n° 1-03-300 du 2 rabii I 1425
+(22 avril 2004) portant réorganisation des conseils des
+Ouléma.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu la Constitution, notamment son article 41 ;
+Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma, tel que
+modifié et complété,
+A DÉCIDÉ CE QUI SUIT :
+
+### Dahir
+
+Dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes - puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+En vertu de l'Imamat suprême dont nous assumons la
+charge par la grâce de Dieu et de la grande responsabilité qui
+nous est échue, fondée sur la défense de l'Islam et la sollicitude
+à l'égard de ce pays sûr ;
+Poursuivant l'œuvre engagée par nos vénérables ancêtres,
+Rois de la dynastie Alaouite Chérifienne, accoutumés à
+prendre soin des Habous et à les protéger de toute usurpation
+ou perte ;
+En consécration de l'esprit de rénovation et de
+modernisation dont nous avons fait une des constantes de
+notre politique de gestion des affaires de notre Royaume
+Chérifien ;
+Consciente de l'importance du Habous et de son rôle
+notoire en tant que richesse nationale et élément actif dans le
+développement socio-économique du pays ;
+Ayant la ferme volonté de le doter d'un encadrement
+juridique moderne lui permettant d'accompagner les
+changements globaux que connaît notre pays et tenant compte
+de sa spécificité inspirée des préceptes du Fiqh islamique ;
+Réaffirmant l'importance de la codifciation des règles du
+Droit musulman y afférentes de manière à prévenir la pluralité
+des opinions et la divergence d'interprétations et à unir leur
+dispersion et à même de leur procurer la cohérence avec les
+composantes du système législatif marocain ;
+Poursuivant la marche de modernisation des lois initiée
+à l'ère de notre illustre Père, Feu Sa Majesté Hassan II Amir Al
+Mouminines, que Dieu l'ait en sa sainte miséricorde, à laquelle
+nous avons accordé notre plus haute sollicitude et grand
+intérêt en veillant à leur adaptation aux systèmes juridiques
+contemporains les plus modernes ;
+conformément à cette démarche, nous avons décidé la
+publication d'un code des Habous rassemblant les préceptes
+éparpillés du Fiqh en matière du Habous, tranchant sur les
+divergences dans ses différentes questions, et réorganisant ses
+dispositions juridiques au niveau de la forme et du contenu, de
+manière garantissant sa stricte observation des préceptes du
+Fiqh islamique et lui accordant un aspect moderne distingué ;
+Insistant sur l'autonomie du Habous découlant de son
+caractère purement islamique, nous avons accordé la priorité,
+à travers le présent code,  à la préservation de sa spécificité
+et à le doter des outils juridiques modernes lui garantissant
+une protection efficiente, de systèmes de gestion facilitant sa
+bonne exploitation et de modes d'investissement l'habilitant à
+contribuer aux projets de développement économique et social,
+lui rendant son rôle de pionnier qu'il a assuré tout au long de
+l'histoire glorieuse de notre pays ;
+Vu la constitution, notamment son article 19,
+A DÉCIDÉ CE QUI SUIT :
+TITRE PRÉLIMINAIRE
+DISPOSITIONS GÉNÉRALES
+
+### Dahir
+
+Dahir n° 1-19-46 du 23 joumada II 1440 (1er mars 2019)
+modifiant et complétant le dahir n° 1-09-236 du 8 rabii I
+1431 (23 février 2010) portant code des Habous.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu la constitution, notamment son article 41 ;
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous,
+A DÉCIDÉ CE QUI SUIT :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 4139-12
+du 5 safar 1434 (19 décembre 2012) fixant les mesures
+et les modalités d'organisation du courtage, de l'appel
+d'offres et de la procédure de l'entente directe relatives
+aux échanges en numéraire des biens constitués Habous.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment ses articles 61 et 115,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 4140-12 du 5 safar 1434 (19 décembre 2012) fixant les
+modalités d'organisation des échanges en nature des biens
+constitués Habous.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment ses articles 73 et 115 ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 4139-12 du 5 safar 1434 (19 décembre 2012) fixant
+les mesures et les modalités d'organisation du courtage, de
+l'appel d'offres et de la procédure de l'entente directe relatives
+aux échanges en numéraire des biens constitués Habous,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 365-13 du 27 joumada I 1434 (8 avril 2013) en application
+de l'article 61 du dahir n° 1-09-236 du 8 rabii I 1431
+(23 février 2010) portant code des Habous.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment ses articles 61 et 129,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 565-13
+du 27 joumada I 1434 (8 avril 2013) fixant les modalités
+de vente des produits des arbres appartenant aux Habous
+publics et aux Habous mixtes.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment ses articles 76 et 129,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 68-12
+du 29 joumada I 1434 (10 avril 2013) fixant la forme, les
+modalités d'émission des bons Habous et la formule d'y
+souscrire ainsi que les modalités de collecte des dons
+en numéraire et en nature pour la réalisation de projets
+Habous à caractère religieux, scientifique ou social.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment son article 140 ;
+Après avis du conseil supérieur du contrôle des finances
+des Habous publics,
+
+### Dahir
+
+Dahir n° 1-11-139 du 8 ramadan 1432 (9 août 2011) portant
+approbation du règlement intérieur du conseil supérieur
+du contrôle des finances des Habous publics.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu les dispositions du dahir n° 1-09-236 du 8 rabii I 1431
+(23 février 2010) portant code des Habous, notamment son
+article 162,
+A DÉCIDÉ CE QUI SUIT :
+
+### Règlement
+
+Règlement intérieur du conseil supérieur du contrôle
+des finances des Habous publics
+TITRE PREMIER
+Dispositions générales
+
+### Dahir
+
+Dahir n° 1-12-09 du 13 ramadan 1433 (2 août 2012) portant
+approbation du complément des dispositions du règlement
+intérieur du conseil supérieur du contrôle des finances des
+Habous publics.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment son article 162 ;
+Vu le règlement intérieur du conseil supérieur du contrôle
+des finances des Habous publics approuvé par le dahir n° 1-11-139
+du 8 ramadan 1432 (9 août 2011), notamment son article 33,
+A DÉCIDÉ CE QUI SUIT :
+Est approuvé tel qu'annexé au présent dahir qui est
+publié au Bulletin officiel, le texte complétant les dispositions
+du règlement intérieur du conseil supérieur du contrôle des
+finances des Habous publics prévu ci-dessus.
+Fait à Casablanca, le 13 ramadan 1433 (2 août 2012).
+*
+*   *
+Complément du règlement intérieur du conseil supérieur
+du contrôle des finances des Habous publics approuvé par
+le dahir n° 1-11-139 du 8 ramadan 1432 (9 août 2011)
+
+### Dahir
+
+Dahir n° 1-19-47 du 23 joumada II 1440 (1er mars 2019) portant
+approbation du texte modifiant et complétant le règlement
+intérieur du conseil supérieur du contrôle des finances des
+Habous publics.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes- puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu les dispositions du dahir n° 1-09-236 du 8 rabii I 1431
+(23 février 2010) portant code des Habous, tel que modifié et
+complété, notamment son article 162 ;
+Vu l'article 92 du règlement intérieur du conseil supérieur
+du contrôle des finances des Habous publics approuvé par le
+dahir n° 1-11-139 du 8 ramadan 1432 (9 août 2011), tel que
+complété,
+A DÉCIDÉ CE QUI SUIT :
+
+### Dahir
+
+Dahir n° 1-22-19 du 24 rejeb 1443 (26 février 2022) portant
+approbation du règlement intérieur de la Fondation
+Mohammed VI des œuvres sociales du personnel du
+ministère des Habous et des affaires islamiques.
+LOUANGE A DIEU SEUL !
+(Grand Sceau de Sa Majesté Mohammed VI)
+Que l'on sache par les présentes – puisse Dieu en élever
+et en fortifier la teneur !
+Que Notre Majesté Chérifienne,
+Vu le dahir n° 1-19-51 du 29 rejeb 1440 (5 avril 2019)
+portant création de la Fondation Mohammed VI des œuvres
+sociales du personnel du ministère des Habous et des affaires
+islamiques, notamment son article 15,
+A DÉCIDÉ CE QUI SUIT :
+
+### Règlement
+
+Règlement intérieur de la Fondation Mohammed VI
+des œuvres sociales du personnel du ministère des Habous
+et des affaires islamiques
+Titre premier
+Dispositions générales
+
+### décret
+
+décret n° 2-04-554 du 16 kaada 1425 (29 décembre 2004)
+portant organisation de la commission royale du pèlerinage
+LE PREMIER MINISTRE,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment son article 8 ;
+Après examen du projet par le conseil des ministres,
+réuni le 9 kaada 1425 (22 décembre 2004),
+DÉCRÈTE :
+TITRE PREMIER
+DISPOSITIONS GÉNÉRALES
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 1634-24
+du 6 hija 1445 (13 juin 2024) modifiant et complétant
+l'arrêté n° 1814-05 du 14 chaabane 1426 (19 septembre
+2005) fixant les conditions de sélection et les modalités de
+déroulement du concours d'accès au cycle de la formation
+initiale spécialisée à l'établissement Dar El Hadith El
+Hassania.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu le dahir n° 1-15-71 du 7 ramadan 1436 (24 juin 2015)
+portant réorganisation de l'Université Al Quaraouiyine,
+notamment son article 9 ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Vu l'arrêté n° 1814-05 du 14 chaabane 1426 (19 septembre
+2005) fixant les conditions de sélection et les modalités de
+déroulement du concours d'accès au cycle de la formation
+initiale spécialisée à l'établissement Dar El Hadith El Hassania,
+tel que modifié et complété ;
+Après approbation du conseil de l'Université Al
+Quaraouiyine,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 1635-24
+du 6 hija 1445 (13 juin 2024) modifaint et complétant l'arrêté
+n° 930-08 du 12 kaada 1429 (11 novembre 2008) fixant
+les programmes de la formation et le régime des études,
+des examens et du contrôle continu des connaissances à
+l'établissement Dar El Hadith El Hassania.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu le dahir n° 1-15-71 du 7 ramadan 1436 (24 juin 2015)
+portant réorganisation de l'Université Al Quaraouiyine,
+notamment son article 9 ;
+Vu l'arrêté n° 930-08 du 12 kaada 1429 (11 novembre
+2008) fixant les programmes de la formation et le régime des
+études, des examens et du contrôle continu des connaissances
+à l'établissement Dar El Hadith El Hassania, tel que modifié
+et complété
+Sur proposition du conseil scientifique de l'établissement
+Dar El Hadith El Hassania ;
+Après approbation du conseil de l'Université
+Al Quaraouiyine,
+
+### décret
+
+décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre 2005)
+chargeant le ministre des Habous et des affaires islamiques
+de fixer les modalités d'application des dispositions de la
+loi n° 13-01 relative à l'enseignement traditionnel.
+LE PREMIER MINISTRE,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n°  1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment ses articles 2, 7, 9, 10, 14 et 20 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre 2003)
+fixant les attributions et l'organisation du ministère des Habous
+et des affaires islamiques, notamment ses articles premier et 14 ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Après examen par le conseil des ministres réuni le
+20 chaoual 1426 (23 novembre 2005),
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 874-06
+du 5 rabii II 1427 (3 mai 2006) fixant les modalités
+d'octroi de l'autorisation d'ouverture, d'extension ou
+de modification d'un établissement d'enseignement
+traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 7 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre 2003)
+fixant les attributions et l'organisation du ministère des Habous
+et des affaires islamiques, notamment ses articles premier
+et 14 ;
+Vu le décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre
+2005) chargeant le ministre des Habous et des affaires
+islamiques de fixer les modalités d'application des dispositions
+de la loi n°13-01 relative à l'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 875-06 du 5 rabii II 1427 (3 mai 2006) fixant les
+conditions à remplir pour bénéficier du soutien de l'Etat
+à l'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 9 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment ses articles
+premier et 14 ;
+Vu le décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre
+2005) chargeant le ministre des Habous et des affaires
+islamiques de fixer les modalités d'application des dispositions
+de la loi n°13-01 relative à l'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 876-06 du 5 rabii II 1427 (3 mai 2006) fixant les normes
+d'encadrement et d'équipement auxquelles sont soumis les
+établissements d'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422 (29
+janvier 2002), notamment son article 10 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment ses articles
+premier et 14 ;
+Vu le décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre
+2005) chargeant le ministre des Habous et des affaires
+islamiques de fixer les modalités d'application des dispositions
+de la loi n°13-01 relative à l'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 878-06
+du 5 rabii II 1427 (3 mai 2006) fixant la composition du comité
+scientifique relevant de la commission régionale de l'enseignement
+traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 20 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment ses articles
+premier et 14 ;
+Vu le décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre
+2005) chargeant le ministre des Habous et des affaires
+islamiques de fixer les modalités d'application des dispositions
+de la loi n°13-01 relative à l'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 3410-10 du 21 moharrem 1432 (27 décembre 2010)
+modifiant l'arrêté n° 875-06 du 5 rabii II 1427 (3 mai 2006)
+fixant les conditions à remplir pour bénéficier du soutien
+de l'Etat à l'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 9 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, tel qu'il a été modifié et
+complété, notamment ses articles premier et 14 ;
+Vu le décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre
+2005) chargeant le ministre des Habous et des affaires
+islamiques de fixer les modalités d'application des dispositions
+de la loi n°13-01 relative à l'enseignement traditionnel ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 875-06 du 5 rabii II 1427 (3 mai 2006) fixant les
+conditions à remplir pour bénéficier du soutien de l'Etat à
+l'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 1067-11 du 23 joumada I 1432 (27 avril 2011)
+modifiant et complétant l'arrêté du ministre des Habous
+et des affaires islamiques n° 876-06 du 5 rabii II 1427
+(3 mai 2006) fixant les normes d'encadrement et
+d'équipement auxquelles sont soumis les établissements
+d'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 10 ;
+Vu la loi n° 30-09 relative à l'éducation physique et aux
+sports promulguée par le dahir n° 1-10-150 du 13 ramadan 1431
+(24 août 2010), notamment ses articles 2 et 3 ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 876-06 du 5 rabii II 1427 (3 mai 2006) fixant les
+normes d'encadrement et d'équipement auxquelles sont soumis
+les établissements d'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 1068-11 du 23 joumada I 1432 (27 avril 2011) fixant les
+qualifications pédagogiques auxquelles doivent répondre
+les directeurs et les enseignants des établissements
+d'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 14 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, tel qu'il a été modifié et
+complété, notamment ses articles premier et 14 ;
+Vu le décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre
+2005) chargeant le ministre des Habous et des affaires
+islamiques de fixer les modalités d'application des dispositions
+de la loi n°13-01 relative à l'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 2136-24 du 27 moharrem 1446 (2 août 2024) modifiant
+et complétant l'arrêté n°  874-06 du 5 rabii II 1427
+(3 mai 2006) fixant les modalités d'octroi de l'autorisation
+d'ouverture, d'extension ou de modification d'un
+établissement d'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu l'arrêté n° 874-06 du 5 rabii II 1427 (3 mai 2006) fixant
+les modalités d'octroi de l'autorisation d'ouverture, d'extension
+ou de modification d'un établissement d'enseignement
+traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 2137-24 du 27 moharrem 1446 (2 août 2024) modifiant
+et complétant l'arrêté n° 876-06 du 5 rabii II 1427 (3 mai
+2006) fixant les normes d'encadrement et d'équipement
+auxquelles sont soumis les établissements d'enseignement
+traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 876-06 du 5 rabii II 1427 (3 mai 2006) fixant
+les normes d'encadrement et d'équipement auxquelles sont
+soumis les établissements d'enseignement traditionnel, tel que
+modifié et complété,
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+### décret
+
+décret n° 2-07-155 du 5 rejeb 1429 (9 juillet 2008) portant
+octroi d'une prime au personnel des établissements
+d'enseignement traditionnel et d'une bourse d'études aux
+élèves et étudiants auxdits établissements.
+LE PREMIER MINISTRE,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment ses articles
+premier et 14 ;
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 5 ;
+Vu le décret n° 2-64-376 du 6 rejeb 1384 (11 novembre
+1964) fixant les modalités d'octroi d'aides aux enseignants,
+élèves et étudiants des écoles coraniques relevant du ministère
+des Habous et des affaires islamiques, tel qu'il a été modifié ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387
+(21 avril 1967) portant règlement général de comptabilité
+publique, tel qu'il a été modifié et complété ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 877-06 du 5 rabii II 1427 (3 mai 2006) fixant les
+qualifications pédagogiques auxquelles doivent répondre les
+directeurs et les enseignants des établissements d'enseignement
+traditionnel ;
+Sur proposition du ministre des Habous et des affaires
+islamiques ;
+Après examen par le conseil des ministres, réuni le 4 rejeb
+1429 (8 juillet 2008),
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-11-554 du 22 kaada 1432 (20 octobre 2011) modifaint
+le décret n° 2-07-155 du 5 rejeb 1429 (9 juillet 2008)
+portant octroi d'une prime au personnel des établissements
+d'enseignement traditionnel et d'une bourse d'études aux
+élèves et étudiants auxdits établissements.
+LE CHEF DU GOUVERNEMENT,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, tel qu'il a été modifié et
+complété, notamment ses articles premier et 14 ;
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 5 ;
+Vu le décret n° 2-64-376 du 6 rejeb 1384 (11 novembre
+1964) fixant les modalités d'octroi d'aides aux enseignants,
+élèves et étudiants des écoles coraniques relevant du ministère
+des Habous et des affaires islamiques, tel qu'il a été modifié ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387
+(21 avril 1967) portant règlement général de comptabilité
+publique, tel qu'il a été modifié et complété ;
+Vu le décret n° 2-07-155 du 5 rejeb 1429 (9 juillet 2008)
+portant octroi d'une prime au personnel des établissements
+d'enseignement traditionnel et d'une bourse d'études aux
+élèves et étudiants auxdits établissements ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 877-06 du 5 rabii II 1427 (3 mai 2006) fixant les
+qualifications pédagogiques auxquelles doivent répondre les
+directeurs et les enseignants des établissements d'enseignement
+traditionnel ;
+Sur proposition du ministre des Habous et des affaires
+islamiques ;
+Après délibération en conseil du gouvernement, réuni
+le 29 chaoual 1432 (28 septembre 2011),
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-12- 588 du 13 safar 1434 (27 décembre 2012) complétant le décret n° 2-07-155 du 5 rejeb 1429 (9 juillet
+2008) portant octroi d'une prime au personnel des établissements d'enseignement traditionnel et d'une bourse
+d'études aux élèves et étudiants auxdits établissements.
+LE CHEF DU GOUVERNEMENT,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre 2003) fixant les attributions et l'organisation
+du ministère des Habous et des affaires islamiques, tel qu'il a été modifié et complété, notamment ses articles
+premier et 14 ;
+Vu la loi n° 13-01 relative à l'enseignement traditionnel promulguée par le dahir n° 1-02-09 du 15 kaada
+1422 (29 janvier 2002), notamment son article 5 ;
+Vu le décret n° 2-64-376 du 6 rejeb 1384 (11 novembre 1964) fixant les modalités d'octroi d'aides aux enseignants,
+élèves et étudiants des écoles coraniques relevant du ministère des Habous et des affaires islamiques, tel qu'il a
+été modifié ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387 (21 avril 1967) portant règlement général de comptabilité
+publique, tel qu'il a été modifié et complété ;
+Vu le décret n° 2-07-155 du 5 rejeb 1429 (9 juillet 2008) portant octroi d'une prime au personnel des
+établissements d'enseignement traditionnel et d'une bourse d'études aux élèves et étudiants auxdits établissements ;
+Vu l'arrêté du ministre des Habous et des affaires islamiques n° 876-06 du 5 rabii II 1427 (3 mai 2006) fixant
+les normes d'encadrement et d'équipement auxquelles sont soumis les établissements d'enseignement traditionnel,
+tel qu'il a été modifié et complété ;
+Vu l'arrêté du ministre des Habous et des affaires islamiques n° 1068-11 du 23 joumada I 1432 (27 avril
+2011) fixant les qualifications pédagogiques auxquelles doivent répondre les directeurs et les enseignants des
+établissements d'enseignement traditionnel ;
+Sur proposition du ministre des Habous et des affaires islamiques ;
+Après délibération en Conseil du gouvernement, réuni le 29 moharrem 1434 (14 décembre 2012),
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 2022-10
+du 5 kaada 1431 (14 octobre 2010) relatif au régime des
+études et des examens aux établissements d'enseignement
+traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu la loi n° 13-01 relative à l'enseignement traditionnel
+promulguée par le dahir n° 1-02-09 du 15 kaada 1422
+(29 janvier 2002), notamment son article 2 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, tel qu'il a été modifié et
+complété, notamment ses articles premier et 14 ;
+Vu le dahir n° 1-58-060 du 7 hija 1377 (25 juin 1958)
+réprimant les fraudes dans les examens et concours publics ;
+Vu le décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre
+2005) chargeant le ministre des Habous et des affaires
+islamiques de fixer les modalités d'application des dispositions
+de la loi n°13-01 relative à l'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 2727-12 du 12 ramadan 1433 (1er août 2012) modifiant
+et complétant l'arrêté n° 2022-10 du 5 kaada 1431
+(14 octobre 2010) relatif au régime des études et des
+examens aux établissements d'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 2022-10 du 5 kaada 1431 (14 octobre 2010)
+relatif au régime des études et des examens aux établissements
+d'enseignement traditionnel,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 3317-16 du 10 safar 1438 (10 novembre 2016) modifiant et complétant l'arrêté
+n° 2022-10 du 5 kaada 1431 (14 octobre 2010) relatif au régime des études et des examens aux établissements d'enseignement
+traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires islamiques n° 2022-10 du 5 kaada 1431 (14 octobre 2010) relatif au régime
+des études et des examens aux établissement d'enseignement traditionnel, tel qu'il a été modifié et complété,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 886-24
+du 22 ramadan 1445 (2 avril 2024) modifaint et complétant
+l'arrêté n° 2022-10 du 5 kaada 1431 (14 octobre 2010) relatif
+au régime des études et des examens aux établissements
+d'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 2022-10 du 5 kaada 1431 (14 octobre 2010)
+relatif au régime des études et des examens aux établissements
+d'enseignement traditionnel, tel que modifié et complété,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 1612-20 du 30 chaoual 1441 (22 juin 2020) portant
+régime particulier des études et des examens aux
+établissements d'enseignement traditionnel au titre
+de l'année scolaire 2019-2020.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le décret-loi n° 2-20-292 du 28 rejeb 1441 (23 mars 2020)
+édictant des dispositions relatives à l'état d'urgence sanitaire
+et aux mesures de sa déclaration, approuvé par la loi n° 23-20
+promulguée par le dahir n° 1-20-60 du 5 chaoual 1441 (28 mai
+2020) ;
+Vu le décret n° 2-20-293 du 29 rejeb 1441 (24 mars 2020)
+portant déclaration de l'état d'urgence sanitaire sur l'ensemble
+du territoire national afin de faire face à la propagation du
+coronavirus-Covid 19 ;
+Vu le décret n° 2-20-371 du 25 ramadan 1441 (19 mai 2020)
+portant prorogation de l'état d'urgence sanitaire sur l'ensemble
+du territoire national afin de faire face à la propagation du
+coronavirus-Covid 19 ;
+Vu le décret n° 2-20-406 du 17 chaoual 1441 (9 juin 2020)
+portant prorogation de l'état d'urgence sanitaire sur l'ensemble
+du territoire national afin de faire face à la propagation du
+coronavirus-Covid 19 et édictant des dispositions particulières
+pour l'allègement des restrictions y afférentes ;
+Vu le décret n° 2-05-1273 du 29 chaoual 1426 (2 décembre
+2005) chargeant le ministre des Habous et des affaires
+islamiques de fixer les modalités d'application des dispositions
+de la loi n°13-01 relative à l'enseignement traditionnel ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 2022-10 du 5 kaada 1431 (14 octobre 2010)
+relatif au régime des études et des examens aux établissements
+d'enseignement traditionnel, tel que modifié et complété,
+
+### décret
+
+décret n° 2-11-696 du 28 hija 1432 (25 novembre 2011) portant
+transfert de certaines installations du ministère de la
+culture au ministère des Habous et des affaires islamiques.
+LE CHEF  DU GOUVERNEMENT,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, tel qu'il a été complété ;
+Vu le décret n° 2-06-328 du 18 chaoual 1427 (10 novembre
+2006) fixant les attributions et l'organisation du ministère de
+la culture,
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-17-416 du 15 kaada 1438 (8 août 2017) modifiant le
+décret n° 2-96-127 du 24 hija 1416 (13 mai 1996) autorisant
+la rémunération des services rendus par le ministère des
+Habous et des affaires islamiques (division du pèlerinage et
+des relations islamiques) pour l'encadrement des pèlerins.
+LE CHEF  DU GOUVERNEMENT,
+Vu le dahir n° 1-16-38 du 17 joumada I 1437 (26 février 2016)
+fixant les attributions et l'organisation du ministère des Habous
+et des affaires islamiques, notamment ses articles 9 et 10 ;
+Vu la loi de finances n° 73-16 pour l'année budgétaire
+2017 promulguée par le dahir n° 1-17-13 du 14 ramadan 1438
+(9 juin 2017) ;
+Vu le décret n° 2-96-127 du 24 hija 1416 (13 mai 1996)
+autorisant la rémunération des services rendus par le ministère
+des Habous et des affaires islamiques (division du pèlerinage
+et des relations islamiques) pour l'encadrement des pèlerins,
+tel que modifié, notamment son article premier ;
+Sur proposition du ministre des Habous et des affaires
+islamiques et du ministre de l'économie et des finances ;
+Après délibération en Conseil du gouvernement, réuni
+le 10 kaada 1438 (4 août 2017),
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté conjoint du ministre des Habous et des affaires islamiques
+et du ministre de l'économie et des finances n° 1854-17 du
+16 kaada 1438 (9 août 2017) fixant le tarif des prestations de
+services rendus par le ministère des Habous et des affaires
+islamiques (division du pèlerinage) pour l'encadrement des
+pèlerins.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+LE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu le décret n° 2-96-127 du 24 hija 1416 (13 mai 1996)
+autorisant la rémunération des services rendus par le ministère
+des Habous et des affaires islamiques (division du pèlerinage)
+pour l'encadrement des pèlerins, tel que modifié, notamment
+son article 2,
+ARRÊTENT :
+
+### Arrêté
+
+Arrêté conjoint du ministre des Habous et des affaires islamiques
+et du ministre délégué auprès de la ministre de l'économie
+et des finances, chargé du budget n° 2228-24 du 22 safar
+1446 (27 août 2024) fixant le tarif des prestations de
+services rendus par le ministère des Habous et des affaires
+islamiques (division du pèlerinage) pour l'encadrement
+des pèlerins.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINSITRE DE
+L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET,
+Vu le décret n° 2-96-127 du 24 hija 1416 (13 mai 1996)
+autorisant la rémunération des services rendus par le ministère
+des Habous et des affaires islamiques (division du pèlerinage)
+pour l'encadrement des pèlerins, tel que modifié, notamment
+son article 2,
+ARRÊTENT :
+
+### décret
+
+décret n° 2-20-66 du 2 rejeb 1441 (26 février 2020) instituant
+une rémunération des services rendus par le ministère des
+Habous et des affaires islamiques (Musée Mohammed VI
+de la civilisation de l'eau au Maroc).
+LE CHEF DU GOUVERNEMENT,
+Vu la loi organique n° 130-13 relative à la loi de finances
+promulguée par le dahir n° 1-15-62 du 14 chaabane 1436 (2 juin
+2015), notamment ses articles 11 et 21 ;
+Vu la loi des finances n° 70-19 de l'année budgétaire
+2020 promulguée par le dahir n° 1-19-125 du 16 rabii II 1441
+(13 décembre 2019), notamment son article 13 ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387
+(21 avril 1967) portant règlement général de comptabilité
+publique, tel que modifié et complété ;
+Vu le décret n° 2-15-426 du 28 ramadan 1436 (15 juillet
+2015) relatif à l'élaboration et à l'exécution des lois des finances,
+tel que modifié et complété ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 97-17 du 1er rejeb 1438 (30 mars 2017) portant
+création du Musée Mohammed VI de la civilisation de l'eau
+au Maroc ;
+Sur proposition du ministre des Habous et des affaires
+islamiques et du ministre de l'économie, des finances et de la
+réforme de l'administration ;
+Après délibération en Conseil du gouvernement, réuni
+le 25 joumada II 1440 (20 février 2020),
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté conjoint du ministre des Habous et des affaires islamiques
+et du ministre de l'économie, des finances et de la réforme de
+l'administration n° 1554-20 du 19 chaoual 1441 (11 juin 2020)
+fixant les tarifs de la rémunération perçue au titre
+des services rendus par le ministère des Habous et des
+affaires islamiques (visite et exploitation des installations
+du musée Mohammed VI de la civilisation de l'eau au
+Maroc).
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+LE MINISTRE DE L'ÉCONOMIE, DES FINANCES ET DE LA
+RÉFORME DE L'ADMINISTRATION,
+Vu le décret n° 2-20-66 du 2 rejeb 1441 (26 février
+2020) instituant une rémunération des services rendus par
+le ministère des Habous et des affaires islamiques (musée
+Mohammed VI de la civilisation de l'eau au Maroc),
+ARRÊTENT :
+
+### décret
+
+décret n° 2-24-927 du 18 joumada I 1446 (21 novembre 2024)
+complétant le décret  n° 2-17-226 du 4 chaoual 1438
+(29 juin 2017) fixant la liste des diplômes et certificats
+préparés et délivrés par les instituts et les établissements
+relevant de l'Université Al Quaraouiyine.
+LE CHEF  DU GOUVERNEMENT,
+Vu le décret n° 2-17-226 du 4 chaoual 1438 (29 juin 2017)
+fixant la liste des diplômes et certificats préparés et délivrés
+par les instituts et les établissements relevant de l'Université
+Al Quaraouiyine ;
+Après délibération en Conseil du gouvernement, réuni
+le 27 rabii II 1446 (31 octobre 2024),
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 472-06 du 9 safar 1427 (10 mars 2006) relatif à la
+dénomination des mosquées et leur ouverture aux fidèles.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir portant loi n° 1-84-150 du 6 moharrem 1405
+(2 octobre 1984) relatif aux édifcies affectés au culte musulman,
+notamment son article 7 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 106-04 du 28 kaada 1424 (21 janvier 2004) relatif
+à l'organisation interne, au nombre et au ressort territorial
+des Nédharats des Habous et des délégations des affaires
+islamiques,
+
+### Arrêté
+
+Arrêté conjoint du ministre des Habous et des affaires islamiques
+et du ministre de l'économie et des finances n° 69-10 du
+21 chaoual 1431 (30 septembre 2010) fixant les modalités
+d'ouverture de comptes de dépôt auprès de la Trésorerie
+Générale du Royaume pour le dépôt des fonds collectés par
+voie d'appel à la générosité publique pour la construction
+ou l'entretien des lieux affectés au culte musulman.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+LE MINISTRE DE L'ÉCONOMIE ET DES FINANCES,
+Vu le dahir n° 1-58-376 du 3 joumada I 1378 (15 novembre
+1958) réglementant le droit d'association, tel qu'il a été modifié
+et complété ;
+Vu le dahir portant loi n° 1-84-150 du 6 moharrem 1405
+(2 octobre 1984) relatif aux édifcies affectés au culte musulman,
+tel qu'il a été modifié et complété, notamment son article 4 bis ;
+Vu le décret n° 2-08-74 du 5 rejeb 1429 (9 juillet 2008)
+pris pour l'application du dahir portant loi n° 1-84-150 du 6
+moharrem 1405 (2 octobre 1984) relatif aux édifices affectés
+au culte musulman, notamment son article 8 ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387 (21
+avril 1967) portant règlement général de comptabilité publique,
+ARRÊTENT :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 70-10
+du 21 chaoual 1431 (30 septembre 2010) fixant le statut-
+type des associations constituées par les bienfaiteurs
+désirant édifier un lieu affecté au culte musulman.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir portant loi n° 1-84-150 du 6 moharrem 1405
+(2 octobre 1984) relatif aux édifcies affectés au culte musulman,
+tel qu'il a été modifié et complété, notamment son article 3 bis ;
+Vu le décret n° 2-08-74 du 5 rejeb 1429 (9 juillet 2008),
+pris pour l'application du dahir portant loi n° 1-84-150 du 6
+moharrem 1405 (2 octobre 1984) relatif aux édifices affectés au
+culte musulman, tel qu'il a été modiféi et complété, notamment
+son article 7,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 367-11
+du 3 joumada I 1432 (7 avril 2011) fixant le statut du
+contrôleur financier central, des contrôleurs financiers
+adjoints et des contrôleurs locaux chargés du contrôle des
+comptes Habous, ainsi que les modalités et les conditions
+de leur désignation.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-07-200 du 3 chaoual 1428 (15 octobre
+2007) portant nomination des membres du gouvernement, tel
+que modifié ;
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment ses articles 152,153 et
+154 ;
+Vu le décret n° 2-06-377 du 20 kaada 1431 (29 octobre
+2010) portant statut particulier du corps interministériel des
+administrateurs,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 2779-13
+du 12 kaada 1434 (19 septembre 2013) modifaint et complétant
+l'arrêté n° 367-11 du 3 joumada I 1432 (7 avril 2011)
+fixant le statut du contrôleur financier central, des
+contrôleurs financiers adjoints et des contrôleurs locaux
+chargés du contrôle des comptes Habous, ainsi que les
+modalités et les conditions de leur désignation.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté n° 367-11 du 3 joumada I 1432 (7 avril 2011)
+fixant le statut du contrôleur financier central, des contrôleurs
+financiers adjoints et des contrôleurs locaux chargés du
+contrôle des comptes Habous, ainsi que les modalités et les
+conditions de leur désignation,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 69-12
+du 10 safar 1433 (4 janvier 2012) fixant la composition
+et les modalités de fonctionnement de la commission de
+liquidation des Habous de famille.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment son article 123,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 618-16 du 12 joumada I 1437 (3 mars 2016) modifiant
+l'arrêté n° 69-12 du 10 safar 1433 (4 janvier 2012) fixant
+la composition et les modalités de fonctionnement de la
+commission de liquidation des Habous de famille.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 69-12 du 10 safar 1433 (4 janvier 2012) fixant
+la composition et les modalités de fonctionnement de la
+commission de liquidation des Habous de famille, notamment
+son article 2,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 1482-24
+du 26 kaada 1445 (4 juin 2024) modifiant et complétant
+l'arrêté n° 2932-13 du 16 hija 1434 (22 octobre 2013) fixant
+les programmes de la formation et le régime des études,
+d'examens et du contrôle continu des connaissances au
+cycle de la licence à l'Institut Mohammed VI des lectures
+et des études coraniques.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu le dahir n° 1-15-71 du 7 ramadan 1436 (24 juin 2015)
+portant réorganisation de l'Université Al Quaraouiyine,
+notamment son article 9 ;
+Vu l'arrêté n° 2932-13 du 16 hija 1434 (22 octobre 2013)
+fixant les programmes de formation et le régime des études,
+d'examens et du contrôle continu des connaissances au cycle
+de la licence à l'Institut Mohammed VI des lectures et des
+études coraniques ;
+Sur proposition du directeur de l'Institut Mohammed VI
+des lectures et des études coraniques ;
+Après approbation du conseil de l'Université
+Al Quaraouiyine,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 1483-24
+du 26 kaada 1445 (4 juin 2024) modifiant l'arrêté
+n° 3532-18 du 14 rabii I 1440 (22 novembre 2018) fixant
+les programmes de formation et le régime des études,
+d'examens et du contrôle continu des connaissances au
+cycle du master à l'Institut Mohammed VI des lectures
+et des études coraniques.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu l'arrêté n° 3532-18 du 14 rabii I 1440 (22 novembre
+2018) fixant les programmes de formation et le régime des
+études, d'examens et du contrôle continu des connaissances
+au cycle du master à l'Institut Mohammed VI des lectures et
+des études coraniques ;
+Sur proposition du directeur de l'Institut Mohammed
+VI des lectures et des études coraniques ;
+Après approbation du conseil de l'Université
+Al Quaraouiyine,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 2134-24 du 10 joumada II 1446 (12 décembre 2024)
+fixant les conditions de sélection et les modalités de
+déroulement du concours d'accès au cycle de doctorat à
+Jamia Al Quaraouiyine.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu le dahir n° 1-16-158 du 12 hija 1437 (14 septembre
+2016) portant réorganisation de Jamia Al Quaraouiyine,
+notamment son article 21 ;
+Sur proposition du conseil de l'Université
+Al Quaraouiyine, après avis du conseil scientifique de Jamia
+Al Quaraouiyine,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 2135-24 du 10 joumada II 1446 (12 décembre 2024)
+fixant les conditions de sélection et les modalités de
+déroulement du concours d'accès au cycle de doctorat à
+l'Ecole des sciences islamiques.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu le dahir n° 1-16-159 du 12 hija 1437 (14 septembre
+2016) portant réorganisation de l'Ecole coraniques affiliée à la
+mosquée Hassan II à Casablanca, notamment son article 21 ;
+Sur proposition du conseil de l'Université
+Al Quaraouiyine, après avis du conseil scientifique de l'Ecole
+des sciences islamiques,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques  n° 2445-24 du 10 joumada II 1446 (12 décembre 2024)
+fixant le montant de la bourse d'études au cycle de doctorat octroyée aux étudiants de Jamia Al Quaraouiyine
+et de l'Ecole des sciences islamiques.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n°  1-16-158 du 12 hija 1437 (14 septembre 2016) portant réorganisation de Jamia
+Al Quaraouiyine, notamment son article 24 ;
+Vu le dahir n° 1-16-159 du 12 hija 1437 (14 septembre 2016) portant réorganisation de l'Ecole coraniques
+affiliée à la mosquée Hassan II à Casablanca, notamment son article 24,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 3460-21 du 9 rabii II 1443 (15 novembre 2021) fixant
+les modalités d'élaboration de la programmation budgétaire triennale des Habous publics
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010) portant code des Habous, tel que modifié et
+complété, notamment son article 134,
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 3898-13 du 25 chaabane 1435 (23 juin 2014) fixant
+la composition et le mode de fonctionnement de la
+commission des transactions immobilières des Habous.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, tel que modifié et complété ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 4139-12 du 5 safar 1434 (19 décembre 2012) fixant
+les mesures et les modalités d'organisation du courtage, de
+l'appel d'offres et de la procédure de l'entente directe relatives
+aux échanges en numéraire des biens constitués Habous,
+notamment son article 23 ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 4140-12 du 5 safar 1434 (19 décembre 2012) fixant
+les modalités d'organisation des échanges en nature des biens
+constitués Habous,
+DÉCIDE :
+Titre premier
+Dispositions générales
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 3778-14 du 4 moharrem 1436 (29 octobre 2014)
+complétant la liste des prestations pouvant faire l'objet
+de bons de commande.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de services
+passés par l'administration des Habous au profti des Habous
+publics, notamment son article 104 ;
+Après avis du conseil supérieur du contrôle des finances
+des Habous publics du 27 hija 1435 (22 octobre 2014),
+DÉCIDE :
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 648-11 du 11 joumada I 1436 (2 mars 2015) complétant
+la liste des prestations pouvant faire l'objet de marchés
+reconductibles.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de services
+passés par l'administration des Habous au profti des Habous
+publics, notamment son article 21 ;
+Après avis du conseil supérieur du contrôle des finances
+des Habous publics du 18 février 2015,
+DÉCIDE :
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 283-15 du 12 rabii II 1436 (2 février 2015) fixant les
+modalités d'élaboration des rapports annuels relatifs au
+bilan d'activités du contrôleur financier central et des
+contrôleurs locaux.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment son article 153 ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 2685-13 du 12 kaada 1434 (19 septembre 2013)
+portant organisation financière et comptable des Habous
+publics, notamment son article 104 ;
+Vu le règlement intérieur du conseil supérieur du
+contrôle des finances des Habous publics, approuvé par le
+dahir n° 1-11-139 du 8 ramadan 1432 (9 août 2011), notamment
+ses articles 55, 56 et 57,
+DÉCIDE :
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 1431-15 du 11 rejeb 1436 (30 avril 2015) complétant la
+liste des prestations pouvant faire l'objet de contrats ou
+de conventions de droit commun.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de services
+passés par l'administration des Habous au profti des Habous
+publics, notamment son article 2 ;
+Après avis du conseil supérieur du contrôle des finances
+des Habous publics du 30 avril 2015,
+DÉCIDE :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 094-13 du 22 joumada I 1434 (3 avril 2013)
+fixant la nomenclature des procédures comptables des Habous publics
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010) portant code des Habous, notamment son
+article 146 ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre 2003) relatif aux attributions et à l'organisation du
+ministère des Habous et des affaires islamiques, tel que modifié et complété, notamment son article 16 bis ;
+Vu l'arrêté du ministre des Habous et des affaires islamiques n° 2836-09 du 2 safar 1431 (18 janvier 2010)
+modifiant et complétant les divisions et services des directions centrales relevant du ministère des Habous et
+des affaires islamiques ;
+Sur proposition du conseil supérieur du contrôle des finances des Habous publics,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 257-13 du 22 joumada I 1434 (3 avril 2013) portant
+nomenclature budgétaire des Habous publics.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment son article 138 ;
+Sur proposition du conseil supérieur du contrôle des
+finances des Habous publics,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de
+services passés par l'administration des Habous au profit
+des Habous publics.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment son article 147 ;
+Sur proposition du conseil supérieur du contrôle des
+finances des Habous publics,
+
+### Règlement
+
+Règlement de consultation
+I – Tout appel d'offres fait l'objet d'un règlement établi
+par le maître d'ouvrage, comportant notamment :
+1 – La liste des pièces à fournir par les concurrents
+conformément à l'article 39 ci-après  ;
+2 – Les critères d'admissibilité des concurrents, qui
+prennent en compte notamment les garanties et les capacités
+juridiques, techniques et financières, ainsi que les références
+professionnelles des concurrents, le cas échéant  ;
+3 – Les critères de choix et de classification des offres
+pour l'attribution du marché au concurrent qui présente l'offre
+la plus avantageuse économiquement, lesquels varient selon
+l'objet du marché et peuvent porter notamment sur :
+a)	le coût d'utilisation  ;
+b)	la valeur technique de l'offre, notamment la méthode
+proposée et les moyens à employer ;
+c)	le caractère innovant de l'offre  ;
+d)	l'efficacité en matière de protection de
+l'environnement  ;
+e)	le délai d'exécution pour les marchés de travaux
+comportant une variante ;
+f)	les spécifications esthétiques et fonctionnelles  ;
+g)	le service après-vente  ;
+h)	 l'assistance technique  ;
+i)	 la date ou le délai de livraison  ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+j)	 le coût des prestations et les garanties fournies.
+D'autres critères peuvent être pris en compte lorsqu'ils
+sont justifiés par l'objet du marché.
+Il est possible, le cas échéant, d'établir un équilibre
+entre les critères de choix et de classification des offres, ou les
+hiérarchiser lorsque l'équilibre n'est pas pris en considération
+pour les marchés d'études. Lesdits critères doivent être
+objectifs, non discriminatoires et en lien direct avec l'objet
+du marché à conclure.
+Lorsque le règlement de consultation ne prévoit pas
+de critères de choix et de classification des offres, le maître
+d'ouvrage ne tient compte que du critère du prix pour attribuer
+le marché.
+4 – Le cas échéant, le nombre minimum ou maximum
+de lots pouvant être attribués à un seul concurrent, lorsque
+les prestations sont alloties conformément aux articles 16 et
+23 ci-dessus.
+5 – Le cas échéant, les conditions selon lesquelles les
+variantes sont admises par rapport à la solution de base prévue
+au cahier des prescriptions spéciales ;
+6 – La ou les monnaies dans lesquelles le prix des
+offres doit être formulé et exprimé, lorsque le concurrent
+n'est pas installé au Maroc. Dans ce cas, pour l'évaluation et
+la comparaison des offres, les montants des offres exprimés
+en monnaies étrangères sont convertis en dirham. Cette
+conversion s'effectue sur la base du cours vendeur du dirham
+en vigueur, adopté par Bank Al-Maghrib, le premier jour
+ouvrable de la semaine précédant celle du jour d'ouverture
+des plis.
+7  –  La ou les langues dans lesquelles doivent être
+établies les pièces contenues dans les dossiers et les offres des
+concurrents.
+II.–  le règlement de consultation est signé par
+l'ordonnateur, son suppléant ou le sous-ordonnateur avant le
+lancement de la procédure de passation du marché.
+
+### Règlement
+
+Règlement de présélection
+Tout appel d'offres avec présélection fait l'objet d'un
+règlement de présélection, établi par le maître d'ouvrage,
+comprenant notamment :
+a)	la liste des pièces à fournir par les candidats
+conformément à l'article 39 ci-dessus, à l'exception
+du récépissé du cautionnement provisoire ou de
+l'attestation de la caution personnelle et solidaire
+en tenant lieu  ;
+b)	les critères d'évaluation des qualités techniques et
+financières des candidats, le cas échéant.
+
+### Règlement
+
+Règlement du concours
+Le concours fait l'objet d'un règlement du concours
+établi par le maître d'ouvrage qui prévoit notamment :
+a)	la liste des pièces à fournir par les concurrents
+conformément à l'article 39 ci-dessus, à l'exception
+du récépissé du cautionnement provisoire ou de
+l'attestation de la caution personnelle et solidaire
+en tenant lieu  ;
+b)	les critères de sélection des concurrents qui prennent
+en compte notamment :
+– les garanties et les capacités juridiques, techniques
+et financières des concurrents  ;
+– les références professionnelles des concurrents, le
+cas échéant.
+Ces critères sont appréciés en fonction des éléments et
+des pièces, contenus dans les dossiers administratif, technique
+et additif, le cas échéant.
+c) les critères d'évaluation et de classement des projets :
+Les critères d'évaluation des projets et des offres portent
+notamment sur :
+– le coût prévisionnel du projet  ;
+– la méthodologie proposée  ;
+– les ressources humaines et les moyens matériels
+à mettre en œuvre pour la prestation à réaliser  ;
+– le chronogramme d'affectation des ressources
+humaines  ;
+– le caractère innovant du projet  ;
+– la qualité de l'assistance technique  ;
+– le degré de transfert des compétences  ;
+– les garanties fournies  ;
+– le planning de réalisation proposé  ;
+– l'expérience spécifqiue et le profil du personnel par
+rapport à la nature des prestations  ;
+– les qualités esthétiques et fonctionnelles  ;
+–  l'efficacité en matière de protection de
+l'environnement  ;
+– le développement des énergies renouvelables et de
+l'efficacité énergétique.
+Une note est attribuée à chaque critère.
+Le règlement du concours exige l'obtention d'une
+note technique minimale globale pour l'admission et,
+éventuellement, une note minimale d'admission par critère.
+Les critères choisis par le maître d'ouvrage doivent être
+objectifs, non discriminatoires et proportionnés par rapport
+à la consistance de la prestation et être en lien direct avec
+l'objet du concours.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+d) la ou les monnaies convertibles dans lesquelles le
+prix des offres doit être formulé et exprimé, lorsque
+le concurrent n'est pas installé au Maroc. Dans ce
+cas, pour l'évaluation et la comparaison des offres,
+les montants des offres exprimées en monnaie
+étrangère doivent être convertis en dirhams.
+Cette conversion s'effectue sur la base du cours vendeur
+du dirham en vigueur, donné par Bank Al-Maghrib, le premier
+jour ouvrable de la semaine précédant celle du jour d'ouverture
+des plis.
+e) la ou les langues dans lesquelles doivent être établies
+les pièces contenues dans les dossiers et les offres
+présentés par les concurrents.
+Le règlement du concours est signé par le maître
+d'ouvrage avant le lancement de la procédure de passation
+du marché. Cette signature prend, chaque fois que possible, la
+forme d'une signature scannée en ce qui concerne le règlement
+du concours publié sur le site électronique du ministère des
+Habous et des affaires islamiques.
+
+### Avis
+
+Avis du conseil supérieur du contrôle des
+finances des Habous publics
+Tout concurrent qui conteste les résultats d'un appel
+d'offres ou de concours pour vice de procédure et qui n'exprime
+pas son consentement sur la décision prise par le ministre des
+Habous et des affaires islamiques dans les conditions prévues à
+l'article 109 ci-dessus, peut adresser une réclamation détaillée
+au président du conseil supérieur du contrôle des finances des
+Habous publics.
+Ce dernier peut soumettre ladite réclamation à une
+commission provisoire du conseil.
+L'avis émis par le conseil supérieur du contrôle des
+finances des Habous publics au sujet de ladite réclamation
+est notifié au ministre des Habous et des affaires islamiques.
+
+### Règlement
+
+Règlement à l'amiable
+Est créée auprès de l'administration des Habous publics,
+une commission provisoire pour le règlement des litiges à
+l'amiable.
+Ladite commission est créée par décision du ministre
+des Habous et des affaires islamiques qui fixe son mode de
+fonctionnement.
+TITRE VIII
+DATE D'ENTRÉE EN VIGUEUR
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 3755-18 du 3 rabii II 1440 (11 décembre 2018)
+complétant la liste des prestations pouvant faire l'objet
+de contrats ou de conventions de droit commun, annexée à
+l'arrêté du ministre des Habous et des affaires islamiques
+n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de
+services passés par l'administration des Habous au profit
+des Habous publics.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de services
+passés par l'administration des Habous au profti des Habous
+publics, notamment son article 2 ;
+Après avis du conseil supérieur du contrôle des finances
+des Habous publics,
+DÉCIDE :
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 2540-19 du 21 kaada 1440 (24 juillet 2019) complétant
+la liste des prestations pouvant faire l'objet de bons de
+commande, annexée à l'arrêté du ministre des Habous
+et des affaires islamiques n° 258-13 du 6 kaada 1434
+(13 septembre 2013) fixant le régime des marchés
+de travaux, de fournitures et de services passés par
+l'administration des Habous au profit des Habous publics.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de services
+passés par l'administration des Habous au profti des Habous
+publics, notamment son article 104 ;
+Après avis du conseil supérieur du contrôle des finances
+des Habous publics,
+DÉCIDE :
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 179-21 du 8 joumada II 1442 (22 janvier 2021) modifaint
+et complétant la liste des prestations pouvant faire l'objet
+de contrats ou de conventions de droit commun, annexée à
+l'arrêté du ministre des Habous et des affaires islamiques
+n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de
+services passés par l'administration des Habous au profit
+des Habous publics.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 258-13 du 6 kaada 1434 (13 septembre 2013) fixant
+le régime des marchés de travaux, de fournitures et de services
+passés par l'administration des Habous au profti des Habous
+publics, notamment son article 2 ;
+Après avis du conseil supérieur du contrôle des finances
+des Habous publics,
+DÉCIDE :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 2685-13
+du 12 kaada 1434 (19 septembre 2013) portant organisation
+financière et comptable des Habous publics.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment son article 146,
+Sur proposition du conseil supérieur du contrôle des
+finances des Habous publics,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 535-13
+du 22 joumada I 1434 (3 avril 2013) fixant les modalités de
+vente des matériaux de carrières appartenant aux Habous
+publics et aux Habous mixtes.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-12-01 du 9 safar 1433 (3 janvier 2012)
+portant nomination des membres du gouvernement,
+Vu le dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010)
+portant code des Habous, notamment ses articles 76 et 129,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 1867-24 du 4 moharrem 1446 (10 juillet 2024) modifaint
+et complétant l'arrêté n° 3111-13 du 3 moharrem 1435
+(7 novembre 2013) fixant le nombre des services
+administratifs à l'Institut Mohammed VI des lectures et
+des études coraniques.
+LE MINISTRE DES HABOUS ET DES AFFAIRES
+ISLAMIQUES,
+Vu l'arrêté n° 3111-13 du 3 moharrem 1435 (7 novembre
+2013) fixant le nombre des services administratifs à l'Institut
+Mohammed VI des lectures et des études coraniques ;
+Sur proposition du directeur de l'Institut Mohammed
+VI des lectures et des études coraniques ;
+Après approbation du conseil de l'Université
+Al Quaraouiyine,
+
+### Décision
+
+Décision du ministre des Habous et des affaires islamiques
+n° 3899-13 du 17 rabii II 1435 (17 février 2014) fixant la
+composition et le règlement intérieur de la commission des
+louages et des ventes relatifs aux Habous publics.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) relatif aux attributions et à l'organisation du ministère
+des Habous et des affaires islamiques, tel que modifié et
+complété ;
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 365-13 du 27 joumada I 1434 (8 avril 2013) en
+application de l'article 61 du dahir n° 1-09-236 du 8 rabii I
+1431 (23 février 2010) portant code des Habous, notamment
+son article 31,
+DÉCIDE :
+Titre premier
+Dispositions générales
+
+### décret
+
+décret n° 2-85-738 du 29 rabii I 1407 (2 décembre 1986)
+portant octroi d'une prime aux prédicateurs exerçant
+dans les différentes provinces du Royaume.
+LE PREMIER MINISTRE,
+Vu le dahir n° 1-75-300 du 12 rabii II 1396 (12 avril
+1976) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment son article 7 ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387 (21 avril
+1967) portant règlement général de comptabilité publique ;
+Sur proposition du ministre des Habous et des affaires
+islamiques ;
+Après examen du projet par le Conseil des ministres,
+réuni le 22 kaada 1406 (29 juillet 1986),
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-91-609 du 26 kaada 1413 (18 mai 1993) modifiant
+et complétant le décret n° 2-85-738 du 29 rabii I 1407
+(2 décembre 1986) portant octroi d'une prime aux
+prédicateurs exerçant dans les différentes provinces du
+Royaume.
+LE PREMIER MINISTRE,
+Vu le dahir n° 1-75-300 du 12 rabii II 1396 (12 avril
+1976) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment son article 7 ;
+Vu le décret n° 2-85-738 du 29 rabii I 1407 (2 décembre
+1986) portant octroi d'une prime aux prédicateurs exerçant
+dans les différentes provinces du Royaume ;
+Vu le décret royal n° 330-66 du 21 avril 1967 portant
+règlement général de comptabilité publique ;
+Vu le décret n° 2-80-2 du 26 joumada II 1400 (12 mai
+1980) portant attribution à titre provisoire d'une indemnité
+de sujétions particulières aux fonctionnaires et agents civils
+et aux militaires appelés à servir dans les provinces du Sahara
+récupéré ;
+Sur proposition du ministre des Habous et des affaires
+islamiques et après examen du projet par le Conseil des
+ministres, réuni le 15 chaoual 1413 (7 avril 1993),
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-05-1577 du 5 rabii II 1427 (3 mai 2006) modifiant
+et complétant le décret n° 2-85-738 du 29 rabii I 1407
+(2 décembre 1986) portant octroi d'une prime aux
+prédicateurs exerçant dans les différentes provinces du
+Royaume.
+LE PREMIER MINISTRE,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment son article 12 ;
+Vu le décret n° 2-85-738 du 29 rabii I 1407 (2 décembre
+1986) portant octroi d'une prime aux prédicateurs exerçant
+dans les différentes provinces du Royaume, tel que complété ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387
+(21 avril 1967) portant règlement général de comptabilité
+publique, tel que modifié et complété ;
+Après examen du projet par le conseil des ministres,
+réuni le 14 rabii I 1427 (13 avril 2006),
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-09-494 du 17 rejeb 1431 (30 juin 2010) modifiant
+le décret n° 2-85-738 du 29 rabii I 1407 (2 décembre 1986)
+portant octroi d'une prime aux prédicateurs exerçant
+dans les différentes provinces du Royaume.
+LE PREMIER MINISTRE,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère
+des Habous et des affaires islamiques, tel que complété,
+notamment son article 12 ;
+Vu le décret n° 2-85-738 du 29 rabii I 1407 (2 décembre
+1986) portant octroi d'une prime aux prédicateurs exerçant
+dans les différentes provinces du Royaume, tel que modifié
+et complété ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387
+(21 avril 1967) portant règlement général de comptabilité
+publique, tel que modifié et complété ;
+Après examen du projet par le conseil des ministres,
+réuni le 6 rejeb 1431 (19 juin 2010),
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-13-66 du 11 joumada II 1434 (22 avril 2013)
+modifiant et complétant le décret n° 2-85-738 du 29 rabii I
+1407 (2 décembre 1986) portant octroi d'une prime aux
+prédicateurs exerçant dans les différentes provinces du
+Royaume.
+LE CHEF  DU GOUVERNEMENT,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment son article 12 ;
+Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma, tel que
+modifié et complété ;
+Vu le dahir n° 1-08-17 du 20 chaoual 1429 (20 octobre
+2008) portant organisation du Conseil marocain des Ouléma
+pour l'Europe, notamment son article 2 ;
+Vu le décret n° 2-85-738 du 29 rabii I 1407 (2 décembre
+1986) portant octroi d'une prime aux prédicateurs exerçant
+dans les différentes provinces du Royaume, tel que modifié
+et complété ;
+Vu le décret royal n° 330-66 du 10 moharrem 1387
+(21 avril 1967) portant règlement général de comptabilité
+publique, tel que modifié et complété ;
+Après délibération en Conseil du gouvernement, réuni
+le 9 joumada I 1434 (21 mars 2013),
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-05-1241 du 5 rabii II 1427 (3 mai 2006) fixant le statut
+et les conditions de désignation des inspecteurs exerçant
+au ministère des Habous et des affaires islamiques.
+LE PREMIER MINISTRE,
+Vu le dahir n° 1-58-008 du 4 chaabane 1377 (24 janvier
+1958) portant statut général de la fonction publique, tel que
+modifié et complété ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment son article 5 ;
+Vu le décret n° 2-75-832 du 27 hija 1395 (30 décembre 1975)
+relatif aux fonctions supérieures propres aux départements
+ministériels, tel que modifié et complété ;
+Vu le décret n° 2-75-864 du 17 moharrem 1396 (19 janvier
+1976) relatif au régime indemnitaire attaché à l'exercice de
+fonctions supérieures dans les départements ministériels ;
+Vu le décret n° 2-97-1052 du 4 chaoual 1418 (2 février
+1998) instituant une indemnité forfaitaire en faveur de certains
+fonctionnaires et agents de l'Etat pour l'utilisation dans
+l'intérêt du service de leur voiture automobile personnelle ;
+Après examen du projet par le conseil des ministres,
+réuni le 14 rabii I 1427 (13 avril 2006),
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques n° 940-06
+du 5 rabii II 1427 (3 mai 2006) fixant le nombre d'inspecteurs
+et d'inspecteurs-adjoints au ministère des Habous et des
+affaires islamiques.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, notamment son article 5 ;
+Vu le décret n° 2-05-1241 du 5 rabii II 1427 (3 mai 2006)
+fixant le statut et les conditions de désignation des inspecteurs
+exerçant au ministère des Habous et des affaires islamiques,
+notamment son article 4,
+
+### décret
+
+décret n° 2-10-552 du 27 safar 1432 (1er février 2011) portant
+remise d'une tenue de travail à certains fonctionnaires du
+ministère des Habous et des affaires islamiques.
+LE PREMIER MINISTRE,
+Vu le dahir n° 1-58-008 du 4 chaabane 1377 (24 janvier
+1958) portant statut général de la fonction publique ;
+Vu le dahir n° 1-03-193 du 9 chaoual 1424 (4 décembre
+2003) fixant les attributions et l'organisation du ministère des
+Habous et des affaires islamiques, tel que modifié et complété ;
+Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma, tel que
+modifié et complété ;
+Vu le décret royal n° 682-67 du 9 rejeb 1387 (13 octobre
+1967) portant statut particulier du cadre des agents publics,
+tel que modifié et complété ;
+Vu l'arrêté conjoint du ministre des finances et des
+investissements extérieurs et du ministre des Habous et des
+affaires islamiques n° 988-96 du 27 hija 1416 (16 mai 1996)
+érigeant la division du pèlerinage et des affaires sociales en
+service de l'Etat géré de manière autonome ;
+Sur proposition du ministre des Habous et des affaires
+islamiques,
+DÉCRÈTE :
+
+### décret
+
+décret n° 2-12-733 du 23 rabii II 1434 (6 mars 2013) relatif aux
+indemnités des membres du Conseil supérieur des Ouléma
+et des conseils locaux des Ouléma.
+LE CHEF  DU GOUVERNEMENT,
+Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma, tel que
+modifié et complété ;
+Après délibérations en Conseil du gouvernement, réuni
+le 10 rabii II 1434 (21 février 2013),
+DÉCRÈTE :
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 1079-05 du 7 rabii II 1426 (16 mai 2005) fixant le
+montant de l'indemnité de responsabilité allouée aux chefs
+de départements au sein de l'administration du Conseil
+supérieur des Ouléma.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu le dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004)
+portant réorganisation des conseils des Ouléma ;
+Vu le règlement intérieur du Conseil supérieur des
+Ouléma, approuvé par le dahir n° 1-04-231 du 7 moharrem
+1426 (26 février 2005), notamment son article 24 ;
+Sur proposition du secrétaire général du Conseil
+supérieur des Ouléma,
+
+### Arrêté
+
+Arrêté du ministre des Habous et des affaires islamiques
+n° 785-21 du 8 chaabane 1442 (22 mars 2021) complétant
+l'arrêté n° 679-16 du 1er joumada II 1437 (10 mars 2016)
+relatif à l'organisation interne, au nombre et au ressort
+territorial des Nédharats des Habous et des délégations
+des affaires islamiques.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+Vu l'arrêté du ministre des Habous et des affaires
+islamiques n° 679-16 du 1er joumada II 1437 (10 mars 2016)
+relatif à l'organisation interne, au nombre et au ressort
+territorial des Nédharats des Habous et des délégations des
+affaires islamiques,
+
+
+---
+
+## Articles
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est approuvé, le règlement intérieur
+du Conseil supérieur des Ouléma, annexé au présent dahir.
+
+*Organisations :* Conseil supérieur des Ouléma
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent dahir est publié au Bulletin officiel.
+Fait à Casablanca, le 7 moharrem 1426 (16 février 2005).
+*
+
+*Entités :* `7 moharrem 1426` (DATE_HIJRI), `16 février 2005` (DATE_GREGORIAN)
+
+*Dates :* 7 moharrem 1426, 16 février 2005
+
+
+## Article premier
+
+*Article premier*
+
+En application des dispositions de l'article 5 du
+dahir n° 1-03-300 du 2 rabii I 1425 (22 avril 2004) portant
+réorganisation des conseils des Ouléma, les règles de
+fonctionnement du Conseil supérieur des Ouléma sont fixées
+conformément aux dispositions du présent règlement intérieur.
+
+*Entités :* `dahir n° 1-03-300` (DAHIR), `2 rabii I 1425` (DATE_HIJRI), `22 avril 2004` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `l'article 5` → dahir n° 1-03-300 [✓]
+
+*Organisations :* Conseil supérieur des Ouléma
+
+*Dates :* 2 rabii I 1425, 22 avril 2004
+
+
+## Article 2
+
+*Article 2*
+
+Le siège du Conseil supérieur des Ouléma est établi à
+Rabat.
+
+*Organisations :* Conseil supérieur des Ouléma
+
+
+## Article 3
+
+*Article 3*
+
+Le secrétaire général du Conseil supérieur des Ouléma
+est le représentant du Conseil vis-à-vis des tiers et son porte-
+parole.
+TITRE II
+SESSIONS DE RÉUNION DU CONSEIL SUPÉRIEUR DES OULÉMA
+
+*Organisations :* Conseil supérieur des Ouléma, Conseil
+
+
+## Article 4
+
+*Article 4*
+
+Le Conseil supérieur des Ouléma tient deux sessions
+ordinaires au moins par an, consacrées à l'étude des questions
+soumises chaque session au Conseil par Amir El Mouminines,
+en plus des questions proposées par ses membres, inscrites à
+l'ordre du jour des travaux du Conseil après approbation royale.
+La première session se tient pendant le mois de mars
+de chaque année, au cours de laquelle sont exposés, pour
+approbation, outre les questions prévues au premier alinéa
+du présent article, le bilan d'activité du Conseil supérieur
+des Ouléma et des conseils des Ouléma au titre de l'année
+écoulée, ainsi que les recommandations et les propositions
+des commissions spécialisées relevant du Conseil.
+La deuxième session se tient pendant le mois d'octobre
+de chaque année, pour l'approbation du projet de budget du
+Conseil supérieur des Ouléma et des conseils des Ouléma et
+du projet de programme d'activité y afférent au titre de l'année
+suivante, outre les questions prévues au premier alinéa du
+présent article.
+
+*Personnes :* Amir El Mouminines
+
+*Organisations :* Conseil supérieur des Ouléma, Conseil, Conseil supérieur
+des Ouléma
+
+
+## Article 5
+
+*Article 5*
+
+Sur ordre d'Amir El Mouminines, le Conseil supérieur
+des Ouléma peut tenir des sessions extraordinaires. Dans ce
+cas, les conditions relatives aux délais et au quorum, prévues
+aux articles 7 et 8 du présent règlement intérieur, ne sont pas
+applicables.
+
+*Citations :*
+
+- `articles 7 et 8` → Dahir n° 1-04-231 [✓]
+
+*Personnes :* Amir El Mouminines
+
+*Organisations :* Conseil supérieur
+des Ouléma
+
+
+## Article 6
+
+*Article 6*
+
+Le Conseil supérieur des Ouléma se réunit sur ordre
+d'Amir El Mouminines, que ce soit lors de ses sessions
+ordinaires ou extraordinaires. A cet effet, le secrétaire général
+adresse l'invitation aux membres du Conseil après permission
+de Sa Majesté.
+
+*Personnes :* Amir El Mouminines
+
+*Organisations :* Conseil supérieur des Ouléma, Conseil
+
+
+## Article 7
+
+*Article 7*
+
+Les invitations aux réunions périodiques du Conseil sont
+adressées deux semaines au moins avant la date de chaque
+réunion et sont assorties de l'ordre du jour de la session et, le
+cas échéant, des documents relatifs aux questions qui y sont
+inscrites.
+
+*Organisations :* Conseil
+
+
+## Article 8
+
+*Article 8*
+
+Le Conseil supérieur des Ouléma délibère valablement
+en présence des deux tiers au moins de ses membres.
+Lorsque ledit quorum n'est pas atteint, une deuxième
+réunion peut être valablement tenue quinze jours après, quel
+que soit le nombre des membres présents.
+
+*Organisations :* Conseil supérieur des Ouléma
+
+
+## Article 9
+
+*Article 9*
+
+Les réunions périodiques du Conseil supérieur des
+Ouléma se tiennent au siège du Conseil, et peuvent se tenir
+dans tout autre lieu fixé par décision de son président.
+
+*Organisations :* Conseil supérieur des
+Ouléma, Conseil
+
+
+## Article 10
+
+*Article 10*
+
+Le Conseil supérieur des Ouléma prend ses décisions
+et émet ses recommandations à l'unanimité des membres
+présents.
+
+*Organisations :* Conseil supérieur des Ouléma
+
+
+## Article 11
+
+*Article 11*
+
+Les délibérations du Conseil sont consignées dans des
+procès-verbaux datés et signés par le secrétaire général et
+conservés parmi les documents du Conseil.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+TITRE III
+COMMISSIONS DU CONSEIL
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* Conseil
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 12
+
+*Article 12*
+
+Sont créées auprès du Conseil supérieur des Ouléma, des
+commissions scientifiques spécialisées permanentes, en vue
+de l'assister dans l'accomplissement de ses missions.
+Le Conseil peut également créer des commissions
+spéciales provisoires pour l'étude de questions précises
+inscrites dans le cadre de ses missions.
+
+*Organisations :* Conseil supérieur des Ouléma, Conseil
+
+
+## Article 13
+
+*Article 13*
+
+Les commissions scientifqiues spécialisées permanentes
+se composent de :
+– la commission d'orientation et d'instruction religieuse ;
+– la commission de revivification du patrimoine
+islamique ;
+– la commission d'études et de recherches scientifiques ;
+– la commission de coopération, de communication et de
+programmes d'activités.
+
+
+## Article 14
+
+*Article 14*
+
+Chaque commission scientifique spécialisée permanente
+comprend au moins six membres, désignés par le Conseil
+parmi ses membres.
+Le tiers, au moins, des membres de chaque commission
+doit compter parmi les Ouléma désignés intuitu personae
+au Conseil en dehors des présidents des conseils locaux
+des Ouléma, et les deux autres tiers des membres parmi les
+présidents desdits conseils.
+
+*Organisations :* Conseil
+
+
+## Article 15
+
+*Article 15*
+
+Le fonctionnement de chaque commission scientifique
+spécialisée permanente est supervisé par un coordinateur
+parmi ses membres, désigné par décision du Conseil.
+Chaque commission désigne son rapporteur, chargé
+de l'élaboration des procès-verbaux de ses réunions, de la
+conservation de tous les rapports et documents relatifs à
+ses travaux et de leur dépôt auprès du secrétaire général du
+Conseil.
+TITRE IV
+CELLULE DE COORDINATION ENTRE LES COMMISSIONS
+
+*Organisations :* Conseil
+
+
+## Article 16
+
+*Article 16*
+
+Il est créé auprès du Conseil, une cellule de coordination
+entre les commissions scientifiques spécialisées permanentes,
+chargée de la coordination des activités desdites commissions
+et du suivi de leurs travaux durant les périodes séparant les
+sessions du Conseil.
+
+*Organisations :* Conseil
+
+
+## Article 17
+
+*Article 17*
+
+Le secrétaire général préside la cellule de coordination
+qui comprend parmi ses membres, les coordinateurs des
+commissions scientifiques spécialisées permanentes.
+TITRE V
+ADMINISTRATION DU CONSEIL
+
+
+## Article 18
+
+*Article 18*
+
+Le secrétaire général assure l'administration des affaires
+du Conseil.
+A cet effet, en application des dispositions des articles
+19 et 20 du dahir susvisé n° 1-03-300 du 2 rabii I 1425 (22 avril
+2004), il prend, en coordination avec le ministre des Habous
+et des affaires islamiques, toutes les mesures permettant
+d'assurer le bon fonctionnement du Conseil et de fournir les
+moyens nécessaires à l'accomplissement de ses missions.
+
+*Entités :* `2 rabii I 1425` (DATE_HIJRI), `22 avril
+2004` (DATE_GREGORIAN), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `articles
+19 et 20` → Dahir n° 1-04-231 [✓]
+
+*Organisations :* Conseil
+
+*Dates :* 2 rabii I 1425, 22 avril 2004
+
+
+## Article 19
+
+*Article 19*
+
+L'administration du Conseil se compose des
+départements suivants :
+– le département des affaires administratives et
+financières ;
+– le département du traitement informatique et de la
+documentation ;
+– le département de suivi, d'études et d'évaluation.
+D'autres départements peuvent être créés au besoin par
+décision du Conseil, sur proposition de son secrétaire général.
+
+*Organisations :* Conseil
+
+
+## Article 20
+
+*Article 20*
+
+Le département des affaires administratives et
+financières est chargé, en coordination avec les services
+compétents du ministère des Habous et des affaires islamiques,
+de la gestion et de la rationalisation des ressources humaines
+du Conseil supérieur des Ouléma et des conseils locaux
+des Ouléma, de la proposition des crédits nécessaires au
+fonctionnements desdits conseils et de la mise en œuvre des
+mesures relatifs à leur exécution ainsi que de l'observation
+de la bonne exploitation du matériel et l'entretien des biens.
+
+*Organisations :* Conseil supérieur des Ouléma
+
+
+## Article 21
+
+*Article 21*
+
+Le département du traitement informatique et de la
+documentation est chargé de fournir l'assistance technique
+nécessaire en matière informatique aux organes du Conseil
+et à ses commissions scientifiques spécialisées permanentes,
+de collecter les données, indications et informations requises
+pour le fonctionnement desdits organes et commissions et de
+tenir les documents et les pièces du Conseil.
+
+*Organisations :* Conseil
+
+
+## Article 22
+
+*Article 22*
+
+Le département de suivi, d'études et d'évaluation est
+chargé des missions d'assistance du secrétaire général et
+de l'ensemble des organes du Conseil et ses commissions
+scientifiques spécialisées permanentes dans l'élaboration de
+leurs programmes et la réalisation des études dont ils sont
+chargés, ainsi que du suivi d'exécution des décisions et des
+recommandations émises par le Conseil en coordination avec
+les services compétents du ministère des Habous et des affaires
+islamiques et les conseils locaux des Ouléma.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* Conseil
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 23
+
+*Article 23*
+
+Les chefs des départements prévus aux articles
+précédents sont désignés par décision du secrétaire général
+du Conseil parmi les cadres classés au moins à l'échelle onze,
+disposant des compétences scientifiques nécessaires et d'une
+expérience professionnelle dans le domaine de spécialité du
+département concerné.
+
+*Organisations :* Conseil
+
+
+## Article 24
+
+*Article 24*
+
+Les fonctionnaires et les agents mis à la disposition
+du Conseil supérieur des Ouléma continuent de percevoir
+leurs salaires de leurs administrations d'origine. Les chefs
+de départements d'entre eux perçoivent, outre les salaires
+correspondant à leur statut et payable par leurs administrations
+d'origine, une indemnité de responsabilité dont le montant
+est fixé par arrêté du ministre des Habous et des affaires
+islamiques, sur proposition du secrétaire général du Conseil.
+TITRE VI
+DEMANDES DE CONSULTATION RELIGIEUSE (FATWA)
+
+*Entités :* `arrêté du ministre des Habous et des affaires` (ARRETE)
+
+*Organisations :* Conseil supérieur des Ouléma, Conseil
+
+
+## Article 25
+
+*Article 25*
+
+Les demandes de consultation religieuse (fatwa) dans les
+questions d'ordre général adressés par Amir El Mouminines,
+président du Conseil supérieur des Ouléma, sont directement
+soumises à l'instance scientifique chargée de la consultation
+religieuse (fatwa) pour examen et émission de consultations
+religieuses (fatwa) à leurs sujets.
+Les autres demandes sont adressées au secrétaire général
+qui les soumet, le cas échéant, au Conseil qui décide, selon le
+cas, de les soumettre à l'instance scientifique susmentionnée
+pour la même finalité.
+TITRE VII
+DISPOSITIONS FINALES
+
+*Personnes :* Amir El Mouminines
+
+*Organisations :* Conseil supérieur des Ouléma, Conseil
+
+
+## Article 26
+
+*Article 26*
+
+Le Conseil supérieur des Ouléma peut, le cas échéant et
+à titre exceptionnel, se faire assister pour une durée déterminée
+par des experts et des consultants pour l'étude de toute question
+relevant de ses compétences.
+
+*Organisations :* Conseil supérieur des Ouléma
+
+
+## Article 27
+
+*Article 27*
+
+L'organisation financière et comptable du Conseil
+supérieur des Ouléma et des conseils locaux des Ouléma
+est fixée par décision conjointe du ministre des Habous et
+des affaires islamiques et du ministre de l'économie et de la
+privatisation.
+
+*Organisations :* Conseil
+supérieur des Ouléma
+
+
+## Article 28
+
+*Article 28*
+
+En application des dispositions du dernier alinéa de
+l'article 6 du dahir susvisé n° 1-03-300 du 2 rabii I 1425 (22 avril
+2004), le secrétaire général soumet, à l'attention d'Amir
+El Mouminines, un rapport annuel de sa mission.
+
+*Entités :* `2 rabii I 1425` (DATE_HIJRI), `22 avril
+2004` (DATE_GREGORIAN), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `l'article 6` → Dahir n° 1-04-231 [✓]
+
+*Dates :* 2 rabii I 1425, 22 avril 2004
+
+
+## Article 29
+
+*Article 29*
+
+En application des dispositions du même alinéa
+prévu à l'article précédent, le secrétaire général informe
+périodiquement le ministre des Habous et des affaires
+islamiques des activités du Conseil.
+
+*Organisations :* Conseil
+
+
+## Article 30
+
+*Article 30*
+
+Les dispositions du présent règlement intérieur entrent
+en vigueur à compter de la date de son approbation par Amir
+El Mouminines.
+Toute modification à ses dispositions est soumise à la
+même procédure.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin Officiel » n° 5295 du 19 moharrem 1426 (28 février 2005).
+
+*Entités :* `19 moharrem 1426` (DATE_HIJRI), `28 février 2005` (DATE_GREGORIAN)
+
+*Dates :* 19 moharrem 1426, 28 février 2005
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Sont abrogées et remplacées
+comme suit, les dispositions des articles 11 et 12 du dahir
+susvisé n° 1-03-300 du 2 rabii I 1425 (22 avril 2004) :
+« Article 11. –  Chaque conseil local des Ouléma est
+« composé d'un président et de sept membres désignés par
+« dahir parmi les personnalités scientifiques connues pour
+« leurs contributions exceptionnelles dans le domaine de
+« la culture islamique et de la diffusion de la connaissance
+« religieuse, leur compétence et leur érudition dans le domaine
+« du FIKH, leurs contributions à l'enrichissement des études
+« islamiques, leur connaissance profonde de la situation du
+« pays et des innovations du  monde moderne et leur conduite
+« irréprochable et leur bonne moralité. »
+« Article 12. – Un conseil local des Ouléma est créé au
+« niveau de chaque préfecture ou province. »
+
+*Entités :* `2 rabii I 1425` (DATE_HIJRI), `22 avril 2004` (DATE_GREGORIAN), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `articles 11 et 12` → Dahir n° 1-08-141 [✓]
+
+*Dates :* 2 rabii I 1425, 22 avril 2004
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont modiféies comme suit, les dispositions des
+articles 18, 19 et 20 du dahir susvisé n° 1-03-300 du 2 rabii I 1425
+(22 avril 2004):
+« Article 18. –  Chaque conseil local des Ouléma dispose
+« de services propres …………………. à l'approbation du
+« Conseil supérieur des Ouléma. »
+« Article 19. – Les crédits nécessaires …………………
+« des conseils locaux des Ouléma sont inscrits au budget du
+« ministère des Habous et des affaires islamiques.
+« Le secrétaire général du Conseil supérieur des Ouléma
+« est désigné …………… »
+(Le reste sans changement.)
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« Article 20. –  Les administrations publiques, …………….
+« et des conseils locaux des Ouléma les moyens matériels et
+« humains nécessaires à l'accomplissement des missions qui
+« leur sont dévolues par Notre présent dahir.
+« A cet effet, ………………………… »
+(Le reste sans changement.)
+
+*Entités :* `2 rabii I 1425` (DATE_HIJRI), `22 avril 2004` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `articles 18, 19 et 20` → Dahir n° 1-08-141 [✓]
+
+*Organisations :* Conseil supérieur des Ouléma
+
+*Dates :* 2 rabii I 1425, 22 avril 2004, 15 ramadan 1447
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent dahir qui est publié au Bulletin
+officiel entre en vigueur à compter du 27 ramadan 1429
+(28 septembre 2008).
+Fait à Fès, le 22 safar 1430 (18 février 2009).
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5713 du 4 rabii I 1430 (2 mars 2009).
+
+*Entités :* `27 ramadan 1429` (DATE_HIJRI), `28 septembre 2008` (DATE_GREGORIAN), `22 safar 1430` (DATE_HIJRI), `18 février 2009` (DATE_GREGORIAN), `Bulletin officiel » n° 5713` (BULLETIN_OFFICIEL), `4 rabii I 1430` (DATE_HIJRI), `2 mars 2009` (DATE_GREGORIAN)
+
+*Dates :* 27 ramadan 1429, 28 septembre 2008, 22 safar 1430, 18 février 2009, 4 rabii I 1430, 2 mars 2009
+
+
+## Article premier
+
+*Article premier*
+
+Est complété comme suit, l'article 3 du dahir susvisé
+n° 1-03-300 du 2 rabii I 1425 (22 avril 2004) :
+« Article 3. – Le Conseil supérieur des Ouléma a pour
+« mission :
+« – …………………………………………….
+« –  …………………………………………….
+«  –  de transmettre à l'instance chargée de la
+«  consultation religieuse (fatwa) les demandes
+« ……………………………… à leur sujet ;
+« – d'émettre un avis sur la conformité des activités
+«  et des opérations  commerciales, financières et
+« d'investissements réalisées par les établissements et
+« les organismes visés au chapitre V du titre II du présent
+« dahir, aux préceptes et finalités de la charia  islamique ;
+« – d'entretenir ………………………… et international. »
+
+*Entités :* `2 rabii I 1425` (DATE_HIJRI), `22 avril 2004` (DATE_GREGORIAN), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `l'article 3` → Dahir n° 1-15-02 [✓]
+
+*Organisations :* Conseil supérieur des Ouléma
+
+*Dates :* 2 rabii I 1425, 22 avril 2004
+
+
+## Article 2
+
+*Article 2*
+
+Le dahir susvisé n° 1-03-300 est complété par le chapitre V
+du titre II comme suit :
+« Chapitre V
+« Commission chariâa de la finance participative
+« Article 10 bis. – Outre les comités scientifqiues prévus à
+« l'article 8 ci-dessus, il est créé auprès de l'instance scientifique
+« chargée de la consultation religieuse (fatwa), une commission
+« scientifique spécialisée, dénommée « commission chariâa
+« de la finance participative », chargée des missions suivantes :
+« 1 –  émettre l'avis sur la conformité des produits
+« financiers participatifs offerts par les  établissements de
+« crédits et les organismes assimilés à leurs clients et les contrats-
+« type relatifs auxdits produits, aux préceptes et finalités de
+« la charia islamique, chaque fois que la présentation desdits
+« produits et la passation des contrats y afférent impliquent
+«  l'émission de l'avis susmentionné conformément à la
+« législation en vigueur ;
+« 2 – émettre l'avis sur la conformité du contenu des
+« circulaires émises par wali de « Bank Al-Maghrib aux
+« préceptes et finalités de la charia islamique, portant sur
+« les produits financiers participatifs, les dépôts d'investissement
+« et les opérations effectuées par le fonds de garantie des dépôts
+« des banques participatives ;
+« 3 –  émettre l'avis, en particulier, sur la conformité des
+« opérations d'assurance solidaire effectuées par les entreprises
+« d'assurance et de réassurance dans le cadre de la finance
+« participative, aux préceptes et finalités de la charia islamique
+« et ce, conformément à la législation en vigueur ;
+« 4 – émettre l'avis sur la conformité aux préceptes et
+« finalités de la charia islamique des opérations d'émission
+« des certificats de Sukuks conformément à la législation en
+« vigueur, quelle que soit la partie émettrice.
+« Afin de lui permettre d'accomplir les missions qui lui
+« sont dévolues, la commission élabore un guide de référence
+« de son fonctionnement et des guides de renseignements,
+« le cas échéant, mis, comme référence, à la disposition des
+« organismes et des établissements prévus à l'article 10 quater
+« du présent dahir comportant, en particulier, les règles de la
+« charia relatives aux produits financiers  participatifs et aux
+« opérations y afférentes.
+« La publication desdits guides par la commission
+«  n'exclut pas la demande d'avis  sur les produits et les
+« opérations susmentionnés conformément aux textes législatifs
+« en vigueur.
+« Article 10 ter. – La commission chariâa de la finance
+« participative se compose d'un coordinateur et de neuf (9)
+«  membres parmi les Ouléma fokaha connus pour leur
+« érudition et leur parfaite maîtrise des préceptes et finalités de
+« la charia islamique et leur capacité à émettre des consultations
+« religieuses (fatwa) et à faire connaître les règles de la charia
+« applicables aux questions soumises à la commission, désignés
+« par décision du secrétaire général du Conseil supérieur des
+« Ouléma parmi les membres dudit Conseil.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« La commission est assistée, à titre consultatif, par cinq
+« experts permanents au moins, choisis parmi les personnes
+« physiques ou morales connues pour leur compétence et
+« leur expertise dans l'un des domaines du droit, de la finance
+« participative, des transactions bancaires, du secteur des
+« assurances et du marché des capitaux, désignés  par décision
+« du secrétaire général et dont le statut est fixé par contrats.
+« En outre, le coordinateur de la commission peut inviter,
+« à titre temporaire et consultatif, toute personne connue pour
+« son expertise et sa compétence à assister aux réunions de
+« la commission et à participer à ses travaux en vue d'apporter
+« davantage de précisions sur les questions qui lui sont soumises.
+«  Pour une bonne organisation de ses travaux, la
+« commission procède, le cas échéant, à la constitution, de
+« groupes de travail spécialisés parmi ses membres, chargés
+« de l'étude des questions soumises à la commission et de
+« l'élaboration de rapports détaillés à leur sujet.
+« La qualité de membre de la commission est incompatible
+« avec la qualité de membre de tout organe relevant de tout
+« organisme ou établissement d'entre ceux prévus au présent
+« chapitre.
+« Article 10 quater. – Les demandes d'avis sur les activités
+« et les opérations prévues à  l'article 3 ci-dessus sont soumises
+« à la commission chariâa de la finance participative à travers :
+« – Bank Al-Maghrib pour les demandes d'avis présentées
+« par les établissements de crédits et les organismes
+« assimilés ;
+«  – l'Autorité de contrôle des assurances et de la
+« prévoyance sociale pour les demandes d'avis présentées
+« par les entreprises d'assurance et de réassurance
+« accréditées ;
+« – l'autorité marocaine du marché des capitaux pour
+« les demandes d'avis présentées par la partie désirant
+« émettre des certificats de Sukuks.
+« Article 10 quinquies. – La commission émet son avis
+« sur les activités, les opérations commerciales, financières
+« et d'investissements, les contrats-type et les circulaires qui
+« lui sont soumis ayant trait à la finance participative, sur
+« la base de rapports détaillés et documentés, comportant les
+« données relatives à toute activité, opération, contrat-type ou
+« projet de circulaire à émettre ainsi que les conclusions déduites
+« concernant leur conformité aux préceptes et finalités de la
+« charia islamique.
+« La commission émet ses avis au nom du Conseil
+« supérieur des Ouléma, à l'unanimité des membres présents
+« ayant participé à ses délibérations.
+« Les avis émis par la commission chariâa doivent être
+« motivés et peuvent être assortis, chaque fois que nécessaire,
+« de la ou des recommandations de ladite commission au
+« sujet de la question qui lui est soumise.
+« Les délibérations de la commission sont consignées
+« dans des procès-verbaux spéciaux portant la signature des
+« membres présents ayant participé auxdites délibérations.
+« Article 10 sexies. – Sont fixées par un règlement intérieur
+« établi par la commission et soumis à l'approbation du Conseil
+«  supérieur des Ouléma, les modalités de gestion de la
+« commission, la procédure d'étude des demandes d'avis qui
+« lui sont soumises ainsi que les modalités de coordination
+« avec les organismes prévus au chapitre V du présent dahir
+« au sujet de la procédure de réception et de réponse auxdites
+« demandes. »
+Fait à Fès, le 28 rabii I 1436 (20 janvier 2015).
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6333 du 19 rabii II 1436 (9 février 2015).
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI), `28 rabii I 1436` (DATE_HIJRI), `20 janvier 2015` (DATE_GREGORIAN), `Bulletin officiel » n° 6333` (BULLETIN_OFFICIEL), `19 rabii II 1436` (DATE_HIJRI), `9 février 2015` (DATE_GREGORIAN), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `l'article 8` → Bulletin officiel » n° 6333 [✓]
+- `l'article 10` → Bulletin officiel » n° 6333 [✓]
+- `l'article 3` → Bulletin officiel » n° 6333 [✓]
+
+*Organisations :* Commission, Conseil supérieur des
+«, Conseil, Autorité de contrôle des assurances et de la
+« prévoyance sociale
+
+*Dates :* 15 ramadan 1447, 28 rabii I 1436, 20 janvier 2015, 19 rabii II 1436, 9 février 2015
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est modifié comme suit, l'article 11
+du dahir susvisé n° 1-03-300 du 2 rabii I 1425 (22 avril 2004) :
+« Article 11. – Chaque conseil local des Ouléma est
+« composé d'un président et de dix membres désignés par dahir
+«  […texte non modifié…]  et leur bonne moralité. »
+
+*Entités :* `2 rabii I 1425` (DATE_HIJRI), `22 avril 2004` (DATE_GREGORIAN), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `l'article 11` → Dahir n° 1-15-52 [✓]
+
+*Dates :* 2 rabii I 1425, 22 avril 2004
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent dahir est publié au Bulletin officiel.
+Fait à Rabat, le 8 rejeb 1436 (27 avril 2015).
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel »   n° 6360 du 25 rejeb 1436 (14 mai 2015).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `8 rejeb 1436` (DATE_HIJRI), `27 avril 2015` (DATE_GREGORIAN), `Bulletin officiel »   n° 6360 du 25 rejeb 1436 (14 mai 2015)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 8 rejeb 1436, 27 avril 2015, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont modifiés, comme suit, le
+titre du chapitre III du titre II ainsi que les dispositions des
+articles 2, 3, 6, 9, 11, 19 et 20 du dahir susvisé n° 1-03-300 du
+2 rabii I 1425 (22 avril 2004) :
+« Il se compose :
+« –  […texte non modifié…]  ;
+« des conseils régionaux et locaux des Ouléma ;
+« – du secrétaire général du conseil supérieur des Ouléma ;
+« – du président du conseil marocain des Ouléma pour
+« l'Europe ;
+« – des présidents des conseils régionaux des Ouléma ;
+« – des présidents des conseils locaux des Ouléma ;
+« – …………………………………………
+(Le reste sans changement.)
+« Article 3. – Le Conseil supérieur des Ouléma a pour
+« mission :
+« – d'étudier les questions ……………………… Notre
+« Majesté ;
+« – d'élaborer un programme d'action annuel comprenant
+« les activités à réaliser par les conseils régionaux et
+« locaux des Ouléma ;
+« – de superviser le travail des conseils régionaux et
+« locaux des Ouléma et de coordonner leurs activités ;
+« – d'émettre les orientations et les recommandations
+« visant à rationaliser le travail des conseils régionaux
+« marocains musulmans ;
+(Le reste sans changement.)
+« Chapitre III
+« Du secrétariat général du conseil supérieur des Ouléma
+« Article 6. – Le secrétariat général du Conseil supérieur
+« des Ouléma est assuré par un secrétaire général nommé par
+« Notre Majesté.
+« Le secrétaire général, qui exerce ……………………, est
+« chargé :
+« par Notre Majesté ;
+«  – d'assurer le suivi ……………………leur mise en
+« œuvre ;
+« – de recevoir les demandes de consultation religieuse  ..
+« Conseil supérieur des Ouléma.
+« Le secrétaire général rend compte de sa mission à
+« Notre Majesté ………………sur les activités du conseil.
+«  Article 9. – L'instance scientifique chargée de la
+« consultation religieuse (fatwa) émet ………………………… au
+« conseil par le secrétaire général.
+« A cet effet […texte non modifié…]  de consultation religieuse
+« doit être adressée au secrétaire général qui en saisit, le cas
+« échéant, le Conseil supérieur des Ouléma.
+« L'instance scientifique chargée de la consultation
+« religieuse (fatwa) prend ………….
+(Le reste sans changement).
+« Article 11. – Chaque conseil local des Ouléma est
+« composé d'un président et de douze membres, parmi les
+« Ouléma hommes et femmes, désignés par arrêté du ministre
+« des Habous et des affaires islamiques parmi les personnalités
+« ……………………….et leur bonne moralité.
+« Article 19. – Les crédits nécessaires …………………
+« supérieur des Ouléma et des conseils régionaux et locaux
+« des Ouléma sont inscrits au budget du ministère des Habous
+« et des affaires islamiques.
+« Le secrétaire général du Conseil supérieur des Ouléma
+« est désigné sous-ordonnateur de ces crédits ……………………
+«  affaires islamiques.
+« Article 20. – Les administrations publiques …………….
+« supérieur des Ouléma et des conseils régionaux et locaux
+« des Ouléma les moyens matériels et humains nécessaires à
+« l'accomplissement des missions qui leur sont dévolues par
+« Notre présent dahir.
+« A cet effet, le secrétaire général du Conseil supérieur
+« des Ouléma soumet, après Notre approbation, au Chef du
+« gouvernement, les besoins ……………précédent. »
+
+*Entités :* `2 rabii I 1425` (DATE_HIJRI), `22 avril 2004` (DATE_GREGORIAN), `arrêté du ministre` (ARRETE), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `articles 2, 3, 6, 9, 11, 19 et 20` → arrêté du ministre [✓]
+
+*Organisations :* Conseil supérieur des Ouléma, Conseil supérieur
+
+*Dates :* 2 rabii I 1425, 22 avril 2004
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont complétées, comme suit, les dispositions
+du dahir susvisé n° 1-03-300 du 2 rabii I 1425 (22 avril 2004),
+par le chapitre III bis du titre II et par les articles 6 bis, 6
+ter, 6 quater, 6 quinquies et 6 sexies et par le titre II bis et les
+articles 10 septies, 10 octies, 10 nonies, 10 decies, 10 undecies
+et 10 duodecies et par l'article 13 bis :
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« Chapitre III bis
+« Des organes administratifs du conseil supérieur des
+« Ouléma
+« Article 6 bis.  – Sont créés auprès du Conseil supérieur
+« des Ouléma, les organes administratifs suivants :
+« – un sous-secrétariat ;
+« – une direction chargée du suivi des activités des
+« conseils des Ouléma ;
+« – une direction chargée de la prédication ().
+« Article 6 ter. – Le sous- secrétariat du Conseil supérieur
+« des Ouléma est assuré par un sous-secrétaire désigné par
+« dahir.
+« Le sous-secrétaire assiste le secrétaire général dans
+« les affaires administratives et financières, le supplée dans les
+« relations avec les administrations publiques et avec les tiers,
+« établit les procès-verbaux des réunions du conseil et tient et
+« conserve tous les documents relatifs à ses travaux.
+« Il accomplit également toute mission spéciale dont il est
+« chargée par le secrétaire général dans la limite des attributions
+« du Conseil supérieur des Ouléma.
+« Le secrétaire général du Conseil supérieur des Ouléma
+« délègue au sous-secrétaire la signature ou le visa en son nom
+« des actes et des pièces administratives.
+« Article 6 quater. – la direction chargée du suivi des
+« activités des conseils des Ouléma est gérée par un directeur
+« désigné par dahir.
+« Cette direction est chargée du suivi des activités
+« des conseils régionaux des Ouléma, des conseils locaux
+«  des Ouléma et du conseil marocain des Ouléma pour
+« l'Europe ainsi que de la coordination de leurs activités et
+« la rationalisation de leur fonctionnement.
+« Article 6 quinquies. – La direction chargée de la  prédication
+« (التبليغ) est gérée par un directeur désigné par dahir.
+« Cette direction est chargée des missions de prédication,
+« de superviser l'exécution des programmes et des projets
+« relatifs à la diffusion des préceptes de la religion musulmane,
+« le renforcement et la consolidation de ses valeurs et de ses
+« principes tolérants auprès de tous les citoyens, leur permettant
+« la juste compréhension de l'islam et les immunisant contre
+« les courants idéologiques et religieux extrémistes.
+« Article 6 sexies. – L'organisation des directions prévues
+« à l'article 6 bis ci-dessus est fixée dans le règlement intérieur
+« du Conseil supérieur des Ouléma.
+« TITRE II bis
+« Des conseils régionaux des Ouléma
+« Article 10 septies. – Est créé au niveau de chaque région,
+« un conseil régional des Ouléma.
+« Tout conseil régional des Ouléma se compose, outre
+« le président désigné par dahir, des présidents des conseils
+« locaux des Ouléma dépendant du ressort territorial du
+« conseil régional des Ouléma concerné.
+« Article 10 octies. – Les conseils régionaux des Ouléma
+« sont chargés d'unifier les avis des conseils locaux des Ouléma
+« dépendant de leur ressort territorial, de coordonner leurs
+« activités et de rationaliser leur fonctionnement, le généraliser
+« à toutes les zones de la région et l'orienter vers tout ce qui
+« préoccupe les habitants de la région et qui correspond à
+« ses spécificités.
+« Article 10 nonies. – Le conseil régional des Ouléma se
+« réunit régulièrement en session ordinaire au moins une fois
+« tous les deux mois, sur invitation de son président.
+« Il peut se réunir en session extraordinaire chaque fois
+« que nécessaire à la demande du secrétaire général du Conseil
+« supérieur des Ouléma.
+« Article 10 decies. – Le conseil régional des Ouléma se
+« réunit sur la base d'un ordre du jour fixé, établi par le
+« président du conseil qui le notifie aux membres du conseil
+« une semaine, au moins, avant la date prévue pour la réunion.
+« Le président du conseil régional des Ouléma peut, à
+« titre consultatif, inviter toute personne experte et spécialisée
+« pour assister aux réunions du conseil.
+« Les délibérations du conseil ne sont valables que par
+« la présence, au moins, de plus que la moitié de ses membres.
+« Article 10 undecies. – Le président du conseil régional
+« des Ouléma se charge de l'administration des affaires du
+« conseil et veille à l'exécution de ses décisions en coordination
+« et coopération avec ses membres.
+« Les missions de secrétariat du conseil sont assurées par
+« l'un des membres du conseil, lequel en est chargé par son chef.
+« Article 10 duodecies. – Tout conseil régional des Ouléma
+« dispose de services particuliers dont le nombre, l'organisation,
+« les attributions et les modalités de fonctionnement sont fixés
+« en vertu d'un règlement intérieur établi par le président du
+« conseil régional concerné, en coopération et coordination
+«  avec ses membres et soumis au  Conseil supérieur des
+« Ouléma pour approbation.
+« Article 13 bis. – Sont désignés au sein de chaque
+« conseil régional des Ouléma, deux imams morchidines et
+« deux morchidates, en vue de l'assister dans la mission du suivi
+« des programmes des imams morchidines et morchidates sur
+« le terrain.
+ART. 3. – L'expression « Secrétaire général du Conseil
+supérieur des Ouléma » subroge celle de « Secrétaire général du
+Conseil supérieur des Ouléma » dans tous les textes juridiques
+en vigueur, parus avant la date de publication du présent dahir.
+
+*Entités :* `2 rabii I 1425` (DATE_HIJRI), `22 avril 2004` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `1-03-300` (DAHIR)
+
+*Citations :*
+
+- `articles 6` → Dahir n° 1-23-47 [✓]
+- `articles 10` → Dahir n° 1-23-47 [✓]
+- `l'article 13` → Dahir n° 1-23-47 [✓]
+- `l'article 6` → Dahir n° 1-23-47 [✓]
+
+*Organisations :* Conseil supérieur, Conseil supérieur des Ouléma, Conseil, Conseil supérieur des
+«, Conseil
+supérieur des
+
+*Dates :* 2 rabii I 1425, 22 avril 2004, 15 ramadan 1447
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent dahir est publié au Bulletin officiel.
+Fait à Rabat, le 26 kaada 1444 (15 juin 2023).
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7206 du 3 hija 1444 (22 juin 2023).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `26 kaada 1444` (DATE_HIJRI), `15 juin 2023` (DATE_GREGORIAN), `Bulletin officiel » n° 7206 du 3 hija 1444 (22 juin 2023)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 26 kaada 1444, 15 juin 2023, 15 ramadan 1447
+
+
+## Article premier
+
+*Article premier*
+
+Le Habous est tout bien dont la nue-propriété est
+immobilisée perpétuellement ou provisoirement et dont la
+jouissance est affectée à une œuvre de charité et de bienfaisance
+publique ou privée. Il est constitué par acte, par testament ou
+de plein droit.
+Le Habous est public, de famille ou mixte.
+
+
+## Article 2
+
+*Article 2*
+
+L'examen des affaires des Habous publics relève des
+prérogatives de Notre Majesté chérifienne en notre qualité
+d'Amir Al Mouminines. Le ministre des Habous et des affaires
+islamiques exerce cette mission sous Notre autorité directe
+dans le cadre du respect des dispositions du présent Code et
+des textes pris pour son application.
+TITRE PREMIER
+CONSTITUTION ET EFFETS DU HABOUS
+Chapitre premier
+Eléments fondamentaux et conditions du Habous
+Section première. –  Eléments fondamentaux du Habous
+
+*Personnes :* Amir Al Mouminines
+
+
+## Article 3
+
+*Article 3*
+
+Les éléments fondamentaux du Habous sont au nombre
+de quatre : le constituant, le bénéficiaire, le bien constitué
+Habous et la formule.
+
+
+## Article 4
+
+*Article 4*
+
+Le constituant peut être une personne physique comme
+il peut être une personne morale à moins que son objet ne soit
+illicite.
+
+
+## Article 5
+
+*Article 5*
+
+Le constituant doit jouir de la capacité de donation, être
+propriétaire du bien constitué Habous et en disposer de la
+manière la plus absolue, sous peine de nullité de l'acte Habous.
+
+
+## Article 6
+
+*Article 6*
+
+Le Habous constitué par la personne pendant sa
+dernière maladie est exigible et il est assimilé au testament
+conformément aux dispositions du Code de la famille.
+
+
+## Article 7
+
+*Article 7*
+
+La constitution du Habous par procuration est possible
+pourvu que ce soit par une procuration spéciale.
+
+
+## Article 8
+
+*Article 8*
+
+Est nul le Habous constitué par le représentant légal sur
+les biens de son interdit.
+
+
+## Article 9
+
+*Article 9*
+
+Est nul le Habous constitué par le gérant d'affaires, à
+moins que le propriétaire du bien constitué Habous ne l'accorde
+à condition que l'ensemble des éléments fondamentaux et des
+conditions du Habous soient réunis.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 10
+
+*Article 10*
+
+Le Habous est nul lorsque la dette grève la totalité des
+biens du constituant au moment de la constitution du Habous
+ou avant la détention () du bien constitué Habous, à moins
+que les créanciers ne l'approuvent.
+
+
+## Article 11
+
+*Article 11*
+
+Est valable la constitution Habous au profti de toute
+œuvre à laquelle la jouissance du bien constitué Habous peut
+être affectée.
+
+
+## Article 12
+
+*Article 12*
+
+Le bénéficiaire peut être désigné au moment de la
+constitution du Habous en sa personne ou en sa qualité et
+peut être à désigner.
+Lorsque le constituant ne désigne pas de bénéficiaire au
+moment de la constitution du Habous, il peut le désigner de
+son vivant. S'il décède sans l'avoir désigné, le Habous revient
+aux Habous publics.
+
+
+## Article 13
+
+*Article 13*
+
+Le bénéfciiaire peut exister au moment de la constitution
+du Habous ou l'être dans le futur.
+Dans le cas de son inexistence, le constituant désigne une
+autre destination afin de lui affecter l'utilité du bien constitué
+Habous.
+
+
+## Article 14
+
+*Article 14*
+
+Est nul tout Habous constitué par une personne au profti
+d'elle-même.
+Dans le cas du Habous constitué au profti des enfants
+du constituant de sexe masculin à l'exclusion de ceux de sexe
+féminin ou inversement, ou au profti de certains de ses enfants
+à l'exclusion des autres, le Habous est valable au profti de tous
+les enfants et la condition est nulle.
+
+
+## Article 15
+
+*Article 15*
+
+Le bien constitué Habous doit, sous peine de nullité :
+–	disposer d'une valeur et générer une jouissance licite
+du point de vue de la Charia ;
+– être une propriété valable du constituant.
+
+
+## Article 16
+
+*Article 16*
+
+Peuvent être constitués Habous, les immeubles, les
+choses mobilières et tous les autres droits.
+
+
+## Article 17
+
+*Article 17*
+
+Le Habous se conclut par l'offre.
+L'offre est expresse ou tacite, à condition que la
+signification du Habous insinue les conditions y afférentes.
+L'offre est exprimée par la parole, l'écrit, le signe
+compréhensible ou par l'acte indiquant le Habous.
+
+
+## Article 18
+
+*Article 18*
+
+L'acceptation ne constitue une condition pour prétendre
+au Habous que lorsque le bénéficiaire est une personne
+désignée.
+
+
+## Article 19
+
+*Article 19*
+
+Est valable l'acceptation du bénéfciiaire désigné jouissant
+de la capacité ou celle de son mandataire. Lorsqu'il refuse, le
+Habous revient aux Habous publics.
+Lorsque le bénéficiaire désigné est un incapable,
+l'acceptation doit être exprimée par son représentant légal.
+S'il ne dispose pas de représentant légal, le juge lui désigne
+une personne à cet effet.
+Lorsque le bénéficiaire désigné est non pleinement
+capable, l'acceptation peut être exprimée par lui-même ou
+par son représentant légal.
+
+
+## Article 20
+
+*Article 20*
+
+L'acceptation est expresse ou tacite. La détention ()
+du bien constitué Habous conformément aux dispositions de
+l'article 26 ci-après vaut preuve d'acceptation.
+
+*Citations :*
+
+- `l'article 26` → Dahir n° 1-09-236 [✓]
+
+
+## Article 21
+
+*Article 21*
+
+Le bénéficiaire désigné exprime son acceptation dans
+le délai fixé par le constituant. Lorsque ce dernier ne fixe
+pas de délai, l'acceptation doit être exprimée dans un délai
+raisonnable.
+Lorsque l'acceptation survient postérieurement à l'offre,
+ses effets remontent à la date de ladite offre.
+
+
+## Article 22
+
+*Article 22*
+
+Le Habous peut être pur et simple ou sous condition
+suspensive. Dans ce dernier cas, le Habous n'est exigible que
+lorsque ladite condition est remplie.
+
+
+## Article 23
+
+*Article 23*
+
+Le Habous peut être perpétuel ou provisoire.
+Section 2. –  Conditions du Habous
+
+
+## Article 24
+
+*Article 24*
+
+Deux conditions sont requises pour la validité du
+Habous :
+– L'instrumentation de l'acte Habous ;
+– la détention du bien constitué Habous avant la
+survenance de l'empêchement, sous réserve des
+dispositions de l'article 10 ci-dessus.
+On entend par « empêchement » au sens du présent code,
+le décès ou la faillite du constituant.
+
+*Citations :*
+
+- `l'article 10` → Dahir n° 1-09-236 [✓]
+
+
+## Article 25
+
+*Article 25*
+
+Les Adoul prennent acte du Habous.
+A défaut, il s'est exceptionnellement limité au document
+Habous signé par le constituant et légalisé conformément à
+la loi.
+Le juge des affaires notariales doit adresser à
+l'administration des Habous une copie de l'acte contenant
+le Habous, quelle qu'en soit la nature, après homologation et
+apposition de son sceau, assortie des pièces justificatives et au
+plus tard dans un délai de huit jours de la date d'homologation.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 26
+
+*Article 26*
+
+La détention () est la mainlevée du constituant
+sur le bien constitué Habous et sa mise à la disposition du
+bénéficiaire.
+La détention est valable par la constatation de la preuve,
+l'enregistrement du Habous au titre foncier ou par tout acte
+accompli par le bénéficiaire sur le bien constitué Habous.
+La détention n'est pas sujette à l'autorisation du
+constituant, lequel y est astreint en cas d'abstention.
+
+
+## Article 27
+
+*Article 27*
+
+La condition de détention n'est pas requise dans les
+cas suivants :
+–	lorsque la détention ne peut avoir lieu pour des raisons
+indépendantes de la volonté du bénéficiaire ;
+–	lorsque le constituant déclare dissocier le bien constitué
+Habous de son patrimoine, qu'il soit en vie ou qu'il
+décède ;
+–	lorsque le constituant est en état de dernière maladie,
+sous réserve des dispositions de l'article 6 ci-dessus ;
+–	 lorsque le Habous est subordonné à une œuvre à réaliser
+par le bénéficiaire.
+
+*Citations :*
+
+- `l'article 6` → Dahir n° 1-09-236 [✓]
+
+
+## Article 28
+
+*Article 28*
+
+Se charge de la détention, la personne désignée à cet effet
+par le constituant et à défaut, par le bénéficiaire lorsqu'il est
+majeur ou par son représentant légal lorsqu'il est incapable
+ou non pleinement capable, ou par son représentant juridique
+lorsqu'il s'agit d'une personne morale.
+Est valable la détention du non pleinement capable
+lorsqu'il s'en charge personnellement.
+
+
+## Article 29
+
+*Article 29*
+
+Est valable la détention par le constituant de ce qu'il a
+constitué Habous à partir de ses biens au profti de son interdit,
+à condition de dresser acte de ladite constitution et d'affecter
+une partie au moins du revenu au profti de l'interdit.
+Dans ce cas, la partie exerçant l'interdiction doit, dès la
+levée de l'interdiction, remettre à son interdit le bien qu'elle a
+constitué Habous et en dresser acte.
+
+
+## Article 30
+
+*Article 30*
+
+Lorsque le représentant légal constitue communément
+Habous un bien lui appartenant au profti de son interdit et
+d'un majeur, ce dernier doit avoir la détention de la totalité
+pour son compte et celui de l'interdit et à défaut, le Habous
+au profti du majeur est nul, sous réserve des dispositions des
+articles 19 et 28 ci-dessus.
+
+*Citations :*
+
+- `articles 19 et 28` → Dahir n° 1-09-236 [✓]
+
+
+## Article 31
+
+*Article 31*
+
+La constitution Habous par une personne de son domicile
+n'est valable que par sa libération, soit par une constatation
+de la preuve ou par tout ce qui signifie la libération.
+
+
+## Article 32
+
+*Article 32*
+
+Le Habous est nul lorsque le constituant se réserve
+la gestion des biens qu'il a constitués Habous jusqu'à la
+survenance de l'empêchement prévu à l'article 24 ci-dessus,
+à moins qu'il ne soit représentant légal du bénéficiaire, sous
+réserve des dispositions de l'article 29 ci-dessus.
+
+*Citations :*
+
+- `l'article 24` → Dahir n° 1-09-236 [✓]
+- `l'article 29` → Dahir n° 1-09-236 [✓]
+
+
+## Article 33
+
+*Article 33*
+
+Lorsque le constituant décède avant que le bénéficiaire
+ne détienne valablement le bien constitué Habous, le Habous
+est nul à moins qu'il ne soit réclamé du vivant du constituant.
+Lorsque le bénéficiaire décède avant qu'il ne détienne
+valablement le bien constitué Habous, la revendication au
+Habous se transmet à celui qui le suit s'il existe et à défaut, le
+bien revient aux Habous publics.
+Chapitre II
+Effets de l'acte Habous
+
+
+## Article 34
+
+*Article 34*
+
+Les conditions fixées par le constituant doivent être
+respectées et remplies lorsqu'elles sont licites et exécutables.
+Toutefois, lorsque le Habous est subordonné à une condition
+illicite ou dont l'exécution est impossible, le Habous est valable
+et la condition est nulle, sous réserve des dispositions de
+l'alinéa premier de l'article 14 ci-dessus.
+
+*Citations :*
+
+- `l'article 14` → Dahir n° 1-09-236 [✓]
+
+
+## Article 35
+
+*Article 35*
+
+Les termes de l'acte Habous doivent être observés
+lorsqu'ils sont explicites. S'ils sont équivoques, l'intention du
+constituant doit être recherchée avec la possibilité de recourir
+aux usages et aux circonstances de fait.
+
+
+## Article 36
+
+*Article 36*
+
+Lorsque les clauses de l'acte Habous sont contradictoires
+tout en étant conciliables dans leur ensemble, il y a lieu de
+les cumuler et à défaut, seules les clauses réalisant l'intérêt
+escompté du Habous sont applicables.
+
+
+## Article 37
+
+*Article 37*
+
+Après la conclusion du Habous, le constituant ne peut
+ni s'en rétracter ni en modifier l'affectation ou les conditions,
+sauf dans les deux cas suivants :
+–	lorsque le Habous porte sur un bénéficiaire dont
+l'existence est à venir et que le constituant le cède avant
+ladite existence ;
+–	lorsque le constituant stipule dans l'acte Habous une
+condition de s'en rétracter en cas d'appauvrissement.
+
+
+## Article 38
+
+*Article 38*
+
+Le Habous produit ses effets entre les deux parties dès
+la conclusion et l'instrumentation de l'acte y afférent, sous
+réserve des dispositions de l'article 25 ci-dessus.
+
+*Citations :*
+
+- `l'article 25` → Dahir n° 1-09-236 [✓]
+
+
+## Article 39
+
+*Article 39*
+
+Le constituant n'est pas tenu de la garantie de
+revendication du bien constitué Habous des mains du
+bénéficiaire ni de la garantie des vices rédhibitoires dudit bien.
+Il est tenu responsable de tout acte intentionnel ou
+faute grave qu'il commet ayant endommagé le bien constitué
+Habous.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 40
+
+*Article 40*
+
+Le bénéficiaire a le droit de se servir et d'exploiter le bien
+constitué Habous suivant la condition fixée par le constituant
+de manière compatible avec les finalités escomptées du Habous.
+Il peut jouir lui-même du bien constitué Habous ou
+en céder le droit d'usufruit à autrui, à moins que le droit au
+Habous ne soit limité à sa personne.
+
+
+## Article 41
+
+*Article 41*
+
+Lorsque le Habous porte sur un immeuble, le bénéfciiaire
+jouit de l'ensemble des droits affectés à l'immeuble constitué
+Habous et de toutes les adjonctions qui lui sont liées par voie
+d'accession.
+
+
+## Article 42
+
+*Article 42*
+
+Lorsque le Habous porte sur un terrain, il couvre le
+sol et toutes les constructions, installations et plantations y
+existantes, sauf stipulation contraire d'une condition ou d'un
+usage.
+
+
+## Article 43
+
+*Article 43*
+
+Le bénéficiaire peut prévoir des droits réels au profti de
+l'immeuble constitué Habous de manière lui procurant une
+plus-value. Dans ce cas, lesdits droits sont considérés Habous
+au même titre que l'immeuble.
+
+
+## Article 44
+
+*Article 44*
+
+Lorsque le bénéficiaire ou un tiers érige, à ses frais,
+des constructions, des installations ou des plantations sur
+l'immeuble constitué Habous, sans autorisation préalable de
+l'administration des Habous, il revient à cette dernière soit de
+les maintenir en tant que Habous ou l'astreindre à les enlever
+à ses frais et de remettre l'immeuble à l'état initial.
+
+
+## Article 45
+
+*Article 45*
+
+Le bénéficiaire doit porter à la préservation du bien
+constitué Habous le même soin qu'il porte à ses propres biens
+et il est tenu responsable de tout dommage affectant le bien
+constitué Habous par sa faute, sa négligence ou sa défaillance.
+Il est tiers dépositaire du bien constitué Habous et
+assume la responsabilité des dommages engendrés par le
+manquement au devoir du séquestre.
+
+
+## Article 46
+
+*Article 46*
+
+Lorsque l'immeuble constitué Habous s'effondre
+totalement ou partiellement, le bénéficiaire n'est pas tenu de
+le reconstruire, à moins que cela ne soit causé par sa faute, sa
+négligence ou sa défaillance.
+
+
+## Article 47
+
+*Article 47*
+
+Le droit du bénéficiaire à la revendication au bien
+constitué Habous prend fin lorsqu'il:
+– décède ;
+– disparaît sans donner de nouvelles et que l'usufruit
+relatif au Habous lui est exclusif ;
+– perd la qualité en vertu de laquelle il revendique le
+Habous ;
+– exprime expressément sa renonciation à son droit
+d'usufruit du bien constitué Habous.
+En cas de déchéance du droit du bénéficiaire dans l'un
+des cas précités, la revendication se transmet à celui qui le suit
+si existant. À défaut, le Habous revient aux Habous publics.
+
+
+## Article 48
+
+*Article 48*
+
+Le Habous peut être justifié par tous les moyens
+de preuve. Les extraits de registres des biens Habous
+( ) sont une preuve du caractère Habous des
+biens qui y sont consignés jusqu'à preuve du contraire.
+L'aveu portant sur le Habous ne produit aucun effet
+d'opposabilité.
+
+
+## Article 49
+
+*Article 49*
+
+Le Habous s'éteint lorsque :
+– la durée du Habous provisoire expire ;
+– le bien constitué Habous périt totalement par le fait
+d'une force majeure ou d'un cas fortuit.
+Dans le cas de la perte totale du bien constitué Habous
+par le fait d'un tiers, ce dernier est tenu de le restituer et le
+droit du bénéficiaire s'étend au bien restitué. En cas de perte
+partielle, le Habous est maintenu sur la partie inaltérée et sur
+ce qui constitue la restitution de la partie ayant péri.
+TITRE II
+Habous public
+Chapitre premier
+Dispositions générales
+
+
+## Article 50
+
+*Article 50*
+
+Le Habous public est tout Habous dont l'utilité est
+affectée initialement ou à terme aux œuvres de charité et de
+bienfaisance ainsi qu'à la réalisation d'une utilité publique.
+Sont de plein droit Habous public au profti de l'ensemble
+des musulmans, toutes les mosquées, zaouias, sanctuaires et
+cimetières musulmans, leurs adjonctions et les biens qui sont
+constitués Habous à leur profti.
+Le Habous public est doté, dès sa constitution, de la
+personnalité morale. L'administration des Habous assure
+la gestion de ses affaires conformément aux dispositions du
+présent Code et en est le représentant juridique.
+
+
+## Article 51
+
+*Article 51*
+
+Lorsqu'un bien revêt le statut Habous public, il ne peut
+être ni saisi ni acquis par possession ou par prescription et il
+n'est valable d'en disposer que conformément aux dispositions
+prévues au présent Code.
+
+
+## Article 52
+
+*Article 52*
+
+Tout Habous perpétuel constitué au profti d'une œuvre
+privée revient aux Habous publics en cas de cessation.
+Le Habous cesse en cas d'extinction de l'œuvre
+bénéficiaire, lorsque celle-ci n'existe plus ou au décès du
+bénéficiaire lorsqu'il est désigné.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 53
+
+*Article 53*
+
+Lorsqu'il est impossible d'affecter le revenu des Habous
+publics au profti de l'œuvre bénéficiaire, il est affecté à une
+œuvre similaire.
+
+
+## Article 54
+
+*Article 54*
+
+Les titres fonciers constitués au profit d'autrui
+n'empêchent pas le tribunal de statuer sur toute action visant à
+établir le caractère Habous public d'un immeuble immatriculé,
+à condition que l'action soit engagée à l'encontre de tous les
+ayants-droits inscrits.
+Lorsqu'il est prouvé que ledit immeuble est constitué
+Habous public en vertu de la décision judiciaire émise à cet
+effet ayant acquis la force de la chose jugée, le conservateur
+radie toute inscription antérieure et inscrit l'immeuble au titre
+foncier y afférent au nom des Habous publics.
+
+
+## Article 55
+
+*Article 55*
+
+Les créances exigibles au profit des Habous publics
+sont des créances privilégiées, imprescriptibles et dont le
+recouvrement dispose du droit de priorité après acquittement
+des créances découlant de la dot, du don de consolation et
+de la pension alimentaire de l'épouse, celle des enfants, des
+parents et de toute autre personne à charge conformément aux
+dispositions du Code de la famille.
+
+
+## Article 56
+
+*Article 56*
+
+Les Habous publics sont représentés devant la justice en
+demandeur ou en défendeur par l'autorité gouvernementale
+chargée des Habous ou par un mandataire désigné à cet effet.
+
+
+## Article 57
+
+*Article 57*
+
+L'exécution des décisions faisant l'objet de recours est
+suspendue par pourvoi en cassation, formé par l'autorité
+gouvernementale chargée des Habous, dans les actions
+relatives aux Habous publics.
+
+
+## Article 58
+
+*Article 58*
+
+Le recours est possible par rétractation des jugements
+rendus dans les actions relatives aux Habous publics à tout
+moment où la preuve du caractère Habous de l'objet revendiqué
+est établie et cela, dans un délai de cinq (5) ans de la date à
+laquelle le jugement devient définitif.
+
+
+## Article 59
+
+*Article 59*
+
+Les immeubles constitués Habous publics ne peuvent
+être expropriés pour cause d'utilité publique que sur accord
+exprès de l'autorité gouvernementale chargée des Habous.
+Chapitre II
+Actes applicables aux biens constitués Habous public
+
+
+## Article 60
+
+*Article 60*
+
+Sont applicables aux biens constitués Habous public, tous
+les actes juridiques visant leur préservation et l'accroissement
+de leurs revenus en adéquation avec leur nature et de manière
+à réaliser un intérêt manifeste au Habous.
+A cet effet, l'administration des Habous est chargée de
+la gestion et de l'investissement desdits biens conformément
+aux règles prévues au présent Code et aux textes pris pour
+son application.
+
+
+## Article 61
+
+*Article 61*
+
+Tous les échanges et baux relatifs aux biens constitués
+Habous public ainsi que les ventes relatives aux produits des
+arbres, aux récoltes et aux matériaux de carrières revenant
+aux Habous public, sont soumis aux mesures de courtage ou
+d'appel d'offres, à condition de se conformer aux principes
+de concurrence et d'égalité entre les concurrents et de se
+soumettre aux règles de transparence et de publicité préalable.
+Dans le cas où le courtage ou l'appel d'offres ne peut
+avoir lieu, ou lorsque l'un d'eux s'est opéré consécutivement à
+deux reprises sans aboutir, l'autorité gouvernementale chargée
+des Habous peut, par décision motivée, procéder auxdits
+échanges et baux par voie d'entente directe.
+Dans tous les cas, les échanges ou les baux relatifs aux
+immeubles Habous affectés à abriter des installations ou
+des équipements publics et les échanges relatifs aux valeurs
+mobilières à valeur déterminée ainsi que les ventes des fruits
+périssables, peuvent être effectués par voie de la procédure
+d'entente directe.
+Sont fixés par arrêté de l'autorité gouvernementale
+chargée des Habous, les mesures de courtage, d'appel d'offres
+et la procédure de l'entente directe et les modalités de leur
+organisation ainsi que les dépens de courtage et le montant
+du cautionnement en couverture d'engagement à son résultat.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 62
+
+*Article 62*
+
+Les procès-verbaux de courtage ou d'ouverture des
+offres relatifs aux actes applicables aux Habous publics sont
+une preuve concluante des faits qui y sont consignés et ne
+peuvent être attaqués que par voie d'inscription de faux.
+Section première. –  Échanges
+Sous-section première. –  Échanges en numéraire
+
+
+## Article 63
+
+*Article 63*
+
+Les biens constitués Habous public peuvent être
+échangés à l'initiative de l'administration des Habous ou à la
+demande écrite de tout intéressé.
+Les fonds découlant de l'échange des biens constitués
+Habous public doivent être affectés à l'acquisition de biens
+de substitution ou à l'investissement, dans le but de préserver
+la nue-propriété du Habous et d'en accroître les revenus
+conformément aux dispositions de l'article 60 ci-dessus.
+
+*Citations :*
+
+- `l'article 60` → Dahir n° 1-09-236 [✓]
+
+
+## Article 64
+
+*Article 64*
+
+Sont soumis à la haute approbation préalable de Notre
+Majesté Chérifienne, les échanges relatifs aux meubles et
+immeubles considérés Habous publics dont la valeur estimative
+est supérieure à dix millions (10.000.000,000) de dirhams.
+Sont soumis à l'approbation préalable du Conseil
+supérieur du contrôle des finances des Habous publics, prévu à
+l'article 157 du présent Code, les échanges des mêmes meubles
+et immeubles lorsque leur valeur estimative varie entre cinq
+millions (5.000.000,000) et dix millions (10.000.000,000) de
+dirhams.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Sont soumis à l'approbation préalable de l'autorité
+gouvernementale chargée des Habous, tout échange relatif
+aux meubles et immeubles dont la valeur estimative est
+inférieure à cinq millions (5.000.000,000) de dirhams, ainsi
+que l'échange des valeurs mobilières à valeur déterminée, objet
+de placements au profti des Habous publics, quelle qu'en soit
+la valeur.
+La valeur estimative de l'immeuble à échanger est
+fixée, selon chaque cas, par une commission composée de
+trois experts désignés par décision conjointe de l'autorité
+gouvernementale chargée des Habous et du président du
+conseil supérieur du contrôle des finances des Habous publics.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 157` → Dahir n° 1-09-236 [✓]
+
+*Organisations :* Conseil
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 65
+
+*Article 65*
+
+Le résultat de tout courtage, appel d'offres ou entente
+directe pour l'échange d'un meuble ou immeuble relevant des
+Habous publics est soumis à l'approbation de l'administration
+des Habous.
+Il doit être statué sur ledit résultat par l'approbation ou
+non, dans un délai de quatre-vingt-dix (90) jours de la date
+d'organisation du courtage, de l'ouverture des d'offres ou de
+l'entente directe.
+Dans tous les cas, l'administration des Habous doit
+notifier sa décision à la partie concernée dans le délai
+susmentionné.
+En cas de non approbation dans ledit délai, la partie
+concernée a le droit d'être remboursée du montant du
+cautionnement et des dépens du courtage dont elle s'est
+préalablement acquittés.
+
+
+## Article 66
+
+*Article 66*
+
+La date de la conclusion du contrat d'échange est celle
+de l'approbation par l'administration des Habous du résultat
+de courtage, de l'appel d'offres ou de l'entente directe. Dans
+ce cas, le copermutant est tenu de s'acquitter intégralement
+du reliquat dû dans un délai n'excédant pas trente (30) jours
+de la date de la notification de l'approbation susmentionnée.
+
+
+## Article 67
+
+*Article 67*
+
+L'approbation de l'échange est notiféie aux intéressés par
+courrier recommandé avec accusé de réception.
+Lorsque la notifciation ne peut aboutir selon la modalité
+susmentionnée, elle est valable par la publication dans l'un des
+journaux autorisés à publier les annonces légales et judiciaires
+ou par tout autre moyen légalement valable.
+
+
+## Article 68
+
+*Article 68*
+
+L'administration des Habous peut résilier d'office le
+contrat d'échange lorsque le copermutant ne s'acquitte pas
+du montant intégral de l'échange dans le délai prévu à l'article
+66 ci-dessus. Ledit copermutant n'a pas droit à la restitution
+des dépens et du montant du cautionnement.
+
+*Citations :*
+
+- `l'article
+66` → Dahir n° 1-09-236 [✓]
+
+
+## Article 69
+
+*Article 69*
+
+Le copermutant accepte le meuble ou l'immeuble en
+l'état et assume les conséquences de sa perte à compter de la
+date de sa réception.
+
+
+## Article 70
+
+*Article 70*
+
+Lorsque le meuble ou l'immeuble objet de l'échange est
+affecté par une diminution ou une hausse en comparaison
+avec les spécifications sur la base desquelles l'échange a eu
+lieu, chacune des parties a droit seulement à la révocation du
+prix à raison de la diminution ou de la hausse, sans résiliation.
+
+
+## Article 71
+
+*Article 71*
+
+Lorsque le meuble ou l'immeuble objet de l'échange
+est évincé de la main du copermutant, ce dernier ne peut
+prétendre qu'à la restitution du prix de la partie évincée, à
+moins que l'objet de l'échange ait été vicié ou devenu une quote-
+part indivise du fait de l'éviction, le copermutant a cependant
+le choix entre la restitution de la partie évincée ou la résiliation
+du contrat d'échange et la restitution de la totalité du prix.
+Le copermutant ne bénéficie des dispositions de l'alinéa
+précédent que s'il avise l'administration des Habous de l'action
+en revendication et qu'il sollicite qu'elle y soit engagée.
+Sous-section 2. –  Échanges en nature
+
+
+## Article 72
+
+*Article 72*
+
+Pour procéder à tout échange en nature des Habous
+publics, la chose en échange doit être immatriculée et avoir
+une valeur estimative égale ou supérieure à celle de la chose
+constituée Habous.
+
+
+## Article 73
+
+*Article 73*
+
+Les échanges en nature des Habous publics s'effectuent
+à l'initiative de l'administration des Habous ou à la demande
+écrite de toute partie concernée.
+Les modalités d'organisation desdits échanges sont
+fixées par arrêté de l'autorité gouvernementale chargée des
+Habous.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 74
+
+*Article 74*
+
+Les échanges en nature sont soumis aux mêmes
+dispositions applicables aux échanges en numéraire, prévues
+aux articles 64 et 65 ci-dessus.
+
+*Citations :*
+
+- `articles 64 et 65` → Dahir n° 1-09-236 [✓]
+
+
+## Article 75
+
+*Article 75*
+
+Le contrat d'échange en nature doit être consigné dans
+un acte authentique.
+Section 2. –  Vente des produits des arbres, des récoltes et des
+matériaux de carrières appartenant aux Habous publics
+
+
+## Article 76
+
+*Article 76*
+
+Se vendent conformément aux modalités prévues
+à un cahier de prescriptions fixé par arrêté de l'autorité
+gouvernementale chargée des Habous, les produits des arbres
+appartenant aux Habous publics à savoir le bois, le bois de
+chauffage ou autres ainsi que les matériaux de carrières situées
+sur les terrains constitués Habous public.
+Les récoltes pendantes appartenant aux Habous publics
+se vendent, à condition que leur mûrissement soit manifeste.
+Toutefois, il est possible de les vendre avant lorsqu'elles
+atteignent un seuil permettant d'en jouir à condition d'être
+cueillies immédiatement par l'acquéreur.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 77
+
+*Article 77*
+
+Dans le cas de la vente des récoltes par courtage
+conformément aux dispositions de l'article 61 ci-dessus, le
+dernier enchérisseur s'acquitte du prix et des dépens dès
+l'approbation du résultat par le président de la commission
+de courtage. La propriété de la chose vendue se transmet audit
+enchérisseur à compter de la date d'approbation.
+A défaut de paiement immédiat du prix et des dépens, le
+président de la commission de courtage peut résilier le contrat
+de vente et l'administration des Habous se réserve le droit de
+réclamer l'indemnisation à la partie concernée, le cas échéant.
+
+*Citations :*
+
+- `l'article 61` → Dahir n° 1-09-236 [✓]
+
+
+## Article 78
+
+*Article 78*
+
+Sont fixés dans le contrat de vente des matériaux de
+carrières, outre le prix et les modalités de son paiement, la
+nature et la quantité de la substance à extraire et la durée
+d'exécution du contrat.
+Le prix peut être réglé intégralement au moment de la
+conclusion du contrat ou échelonné proportionnellement à la
+durée d'exécution.
+
+
+## Article 79
+
+*Article 79*
+
+Le résultat de la vente des matériaux de carrières est
+soumis à l'approbation de l'administration des Habous. La
+date de ladite approbation est celle de la conclusion du contrat.
+Section 3. – Louage
+Sous- section première. –  Dispositions générales
+
+
+## Article 80
+
+*Article 80*
+
+Les biens constitués Habous public sont loués sur
+autorisation de l'administration des Habous. Ils ne peuvent
+être loués moyennant une redevance locative inférieure à celle
+d'un bien équivalent.
+
+
+## Article 81
+
+*Article 81*
+
+Dès adjudication de l'enchère, le preneur verse le
+montant du cautionnement, les dépens du courtage et la
+redevance locative.
+Le montant du cautionnement et les dépens sont fixés par
+décision de l'autorité gouvernementale chargée des Habous.
+
+
+## Article 82
+
+*Article 82*
+
+Le louage est conclu par l'approbation du résultat du
+courtage ou de l'appel d'offres par l'administration des Habous.
+
+
+## Article 83
+
+*Article 83*
+
+Le preneur ne reçoit la chose louée qu'après signature
+du contrat.
+Le preneur accepte la chose louée en l'état. En cas de
+retard de livraison, il peut recouvrer le montant du loyer à
+proportion de la durée du retard.
+
+
+## Article 84
+
+*Article 84*
+
+Le preneur est tenu de préserver la chose louée et d'en
+faire usage selon sa destination conformément aux conditions
+prévues au contrat de louage et au cahier des charges, le cas
+échéant.
+Tout manquement à ladite obligation entraine la
+résiliation et le dédommagement.
+
+
+## Article 85
+
+*Article 85*
+
+Le preneur ne peut introduire aucune modification sur
+la chose louée, sauf sur autorisation écrite de l'administration
+des Habous.
+L'introduction de toute modification sans l'obtention de
+ladite autorisation entraine le droit à la résiliation du contrat
+de louage et la conservation des modifciations introduites sans
+indemnisation ou l'astreinte du preneur à remettre la chose
+à son état initial.
+
+
+## Article 86
+
+*Article 86*
+
+Le preneur ne peut céder le louage que sur autorisation
+écrite de l'administration des Habous. Le sous-louage est
+également strictement interdit.
+Tout acte contraire aux deux cas susmentionnés est nul
+et constitue un motif pour la résiliation du contrat de louage
+principal.
+
+
+## Article 87
+
+*Article 87*
+
+Tous les impôts et les taxes imposés à la chose louée sont
+à la charge du preneur.
+
+
+## Article 88
+
+*Article 88*
+
+L'administration des Habous n'est pas tenue de garantir
+le preneur du trouble que des tiers apportent par voies de fait
+à sa jouissance sans que ces derniers ne prétendent à un droit
+sur la chose louée.
+Lorsque le preneur subit une opposition judiciaire
+quant à la jouissance de la chose louée, il est tenu d'en aviser
+immédiatement l'administration des Habous sous peine de
+perdre son droit de s'en rétracter avec indemnisation.
+
+
+## Article 89
+
+*Article 89*
+
+L'administration des Habous ne s'engage qu'aux
+réparations visant la préservation de la chose louée.
+
+
+## Article 90
+
+*Article 90*
+
+Le preneur n'a pas droit à :
+– la réduction de la redevance locative fixée par voie de
+courtage public ou d'appel d'offres ;
+– l'acquisition du droit de louage sur les locaux constitués
+Habous, consacrés à l'usage commercial ou artisanal.
+
+
+## Article 91
+
+*Article 91*
+
+Dès l'expiration de la durée de louage, le preneur s'engage
+à restituer la chose louée à l'administration des Habous, en
+l'état initial, sous réserve des dispositions des articles 94 et
+98 ci-après.
+
+*Citations :*
+
+- `articles 94 et
+98` → Dahir n° 1-09-236 [✓]
+
+
+## Article 92
+
+*Article 92*
+
+Le louage prend fin pour l'une des causes suivantes :
+– l'expiration de la durée ;
+– le dépérissement de la chose louée ;
+– le consentement des deux parties.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 93
+
+*Article 93*
+
+Sont définitifs, les jugements et les ordonnances
+judiciaires émis en faveur des Habous publics dans les litiges
+relatifs au louage des biens constitués Habous. Le preneur ne
+peut y faire recours par voie d'appel.
+Sous-section 2. –  Dispositions relatives au louage des biens
+Habous non agricoles
+
+
+## Article 94
+
+*Article 94*
+
+Les biens Habous non agricoles sont loués pour une
+durée n'excédant pas trois ans.
+Toutefois, la durée peut être renouvelée, trois mois avant
+son expiration, à la demande du preneur, sous condition de
+l'accord de l'administration des Habous et moyennant une
+augmentation d'au moins dix pourcent de la redevance locative
+à chaque renouvellement.
+
+
+## Article 95
+
+*Article 95*
+
+Le preneur est en demeure lorsqu'il ne s'acquitte pas du
+loyer de trois mois dans un délai de huit jours de la date de
+réception de la mise en demeure de paiement, ce qui entraine
+le droit à la résiliation du contrat avec indemnisation.
+
+
+## Article 96
+
+*Article 96*
+
+L'administration des Habous a le droit de mettre fin au
+contrat de louage des biens Habous non agricoles dans les
+deux cas suivants :
+– lorsqu'elle a besoin de la chose louée aux fins d'ériger un
+établissement à caractère religieux, scientifique, social
+ou administratif ;
+– lorsque l'objet consiste à reconstruire la chose louée ou
+à y introduire d'importantes modifications.
+Dans le premier cas, le preneur a droit à une
+indemnisation équivalente au loyer des trois derniers mois
+et dans le deuxième, à la priorité au louage de la chose
+reconstruite.
+
+
+## Article 97
+
+*Article 97*
+
+Dans les deux cas prévus à l'article 96 ci-dessus,
+l'administration des Habous doit adresser au preneur un avis
+motivé de congé en lui accordant un délai de deux mois à
+compter de la date à laquelle il l'a reçu.
+L'avis est notifié au preneur et homologué, le cas échéant,
+par le président du tribunal de première instance compétent.
+Sous-section 3. –  Dispositions relatives au louage des biens
+Habous agricoles
+
+*Citations :*
+
+- `l'article 96` → Dahir n° 1-09-236 [✓]
+
+
+## Article 98
+
+*Article 98*
+
+Les biens Habous agricoles sont loués pour une durée
+n'excédant pas six ans.
+Toutefois, cette durée peut être renouvelée deux fois à la
+demande du preneur, six mois au moins avant son expiration,
+sous condition d'approbation de l'administration des Habous
+et moyennant une majoration d'au moins vingt pourcent de la
+redevance locative lors de chaque renouvellement.
+
+
+## Article 99
+
+*Article 99*
+
+Sont réputées Habous public, à la cessation de la
+relation de louage pour un quelconque motif, les constructions,
+plantations et installations érigées par le preneur sur la chose
+louée en exécution du contrat conclu avec celui-ci.
+
+
+## Article 100
+
+*Article 100*
+
+Le preneur ne peut modifier la nature de la culture et les
+modalités d'exploitation prévues au contrat de louage et au
+cahier des charges, le cas échéant, sauf par autorisation écrite
+de l'administration des Habous, sous peine de résiliation du
+contrat et de dédommagement.
+
+
+## Article 101
+
+*Article 101*
+
+Le preneur n'a droit à la remise ou à la répétition totale
+du loyer sauf lorsqu'il ensemence la terre et que la culture périt
+complètement suite à un incident fortuit ou une force majeure.
+Lorsque le dépérissement est partiel, il n'y a lieu à
+réduction ou à répétition proportionnelle du loyer que si la
+perte dépasse la moitié.
+Il n'y a lieu ni à remise ni à répétition du loyer lorsque :
+– la cause du dépérissement existait au moment de la
+conclusion du contrat ;
+– le dépérissement a lieu après la collecte des récoltes.
+
+
+## Article 102
+
+*Article 102*
+
+La terre Habous ne peut être cédée par complant. ()
+Section 4. –  Liquidation des droits coutumiers constitués sur les
+Habous publics
+
+
+## Article 103
+
+*Article 103*
+
+Aucun des droits coutumiers de Zina, Guelsa, Gza,
+Clé, Istidjar, Ghibta, Orf ou Halawa ou autres ne peut être
+constitué sur l'un des biens appartenant aux Habous publics.
+Toutefois, tout bien peut être constitué Habous au profti
+des Habous publics bien qu'il soit grevé d'un desdits droits.
+
+
+## Article 104
+
+*Article 104*
+
+Le droit sur l'air, qui est un droit exclusif aux Habous
+publics, ne fait pas partie des droits coutumiers constitués sur
+des biens Habous public.
+
+
+## Article 105
+
+*Article 105*
+
+Sont des causes d'extinction des droits coutumiers
+constitués sur les biens Habous publics :
+– le dépérissement des constructions, installations ou
+plantations érigés sur lesdits biens et appartenant au
+titulaire du droit coutumier ;
+– le non-acquittement par le titulaire du droit coutumier
+de la redevance locative pour une durée de deux ans
+consécutifs. Dans ce cas, les Habous reprennent le
+local incluant ses avantages, la priorité au louage étant
+accordée au titulaire dudit droit ;
+– la liquidation desdits droits par l'une des voies prévues
+à l'article 106 ci-après.
+Par ailleurs, lesdits droits s'éteindront, dans tous les cas,
+vingt ans après l'entrée en vigueur du présent Code.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 106` → Dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 106
+
+*Article 106*
+
+Il est possible de procéder à la liquidation des droits
+coutumiers constitués sur les Habous publics selon l'une des
+trois voies suivantes :
+– l'acquisition par l'administration des Habous du droit
+coutumier engendré au profti d'autrui ;
+– l'acquisition par  le titulaire du droit coutumier du droit
+éminent relatif au bien Habous ;
+– la vente du droit éminent et du droit coutumier, ensemble,
+par voie d'enchère conformément aux dispositions des
+articles de 60 à 71 du présent Code. Il n'est recouru à
+cette méthode qu'en cas de non aboutissement de la
+liquidation selon les deux voies précitées.
+Dans ce dernier cas, l'administration des Habous, puis
+le titulaire du droit coutumier à titre de classement, ont droit
+de joindre le droit éminent au droit y constitué, à condition
+d'une majoration de dix pourcent du prix sur lequel l'enchère
+est adjugée.
+Le droit de jonction susmentionné doit être exercé
+dans un délai de trente (30) jours de la date de déroulement
+de l'enchère.
+
+
+## Article 107
+
+*Article 107*
+
+Pour l'application des dispositions de l'article 106 ci-
+dessus, doivent être estimées séparément, la valeur des droits
+coutumiers constitués sur les biens Habous publics, reconnue
+par l'administration des Habous, et celle du droit éminent.
+Ladite valeur est fixée au moment de la liquidation.
+TITRE III
+HABOUS DE FAMILLE ET MIXTE
+
+*Citations :*
+
+- `l'article 106` → Dahir n° 1-09-236 [✓]
+
+
+## Article 108
+
+*Article 108*
+
+Est Habous de famille ce qui est constitué Habous
+au profit de l'enfant, de la progéniture, de la lignée, de la
+descendance du constituant ou autres. Est Habous mixte ce
+qui est initialement constitué Habous au profti d'une œuvre
+publique et d'une personne en particulier ou au profti de celle-
+ci et de sa progéniture.
+Chapitre premier
+Habous de famille
+Section première. –  Habous de famille et leur contrôle
+
+
+## Article 109
+
+*Article 109*
+
+Le Habous de famille ne peut être constitué que dans
+la limite de trois ordres ; le bénéficiaire, ses enfants puis ses
+petits-enfants.
+Lorsque l'acte Habous comporte au-delà de trois ordres,
+il est réputé nul quant aux surplus, à l'exception des Habous
+de famille constitués avant l'entrée en vigueur du présent code.
+A l'extinction des bénéficiaires, le Habous de famille se
+transmet par voie de succession aux héritiers du constituant
+s'ils existent et à défaut, aux Habous publics, à moins que le
+constituant n'en désigne une autre destination.
+Au moment de l'instrumentation de l'acte, le Adoul est
+tenu d'aviser le constituant des dispositions du présent article.
+
+
+## Article 110
+
+*Article 110*
+
+Le Habous constitué au profti de la descendance inclut
+les deux sexes du premier, du deuxième et du troisième ordre.
+Le Habous au profit de l'enfant, de la lignée et de la
+progéniture inclut les personnes des deux sexes du premier
+ordre et les enfants des deux sexes des mâles du premier et du
+deuxième ordre et n'inclut pas les enfants des filles à moins
+que ces derniers ou leur mère ne soient nommés.
+
+
+## Article 111
+
+*Article 111*
+
+Lorsque le Habous de famille est classé selon les ordres,
+l'ascendant évince son descendant mais pas le descendant d'un
+autre, à moins que le constituant n'exige le contraire.
+Lorsqu'il n'est pas classé selon les ordres, les personnes
+de l'ordre supérieur n'évincent pas ceux des autres ordres.
+
+
+## Article 112
+
+*Article 112*
+
+Est dévolutaire au revenu du Habous de famille celui
+d'entre les bénéficiaires existant au moment de l'exigibilité du
+revenu ou de l'apparition des signes de mûrissement des fruits.
+
+
+## Article 113
+
+*Article 113*
+
+Le revenu du Habous de famille est partagé à parts
+égales entre les dévolutaires des deux sexes, à moins que le
+constituant n'en exige autrement.
+
+
+## Article 114
+
+*Article 114*
+
+Le partage définitif du bien constitué Habous de famille
+n'est pas valable. Toutefois, ledit bien peut faire l'objet d'un
+partage provisionnel concernant les biens à revenus réguliers.
+Le partage provisionnel s'effectue par consentement de
+l'ensemble des dévolutaires et en cas de désaccord, le Nadher
+prévu à l'article 118 ci-après, procède au louage du bien
+constitué Habous au profti des bénéficiaires.
+Sont déduites du revenu du bien constitué Habous mixte
+avant son partage, les dépenses de réparation et d'entretien de
+la chose constituée Habous, l'ensemble des droits qui lui sont
+imposables et les frais de gestion.
+
+*Citations :*
+
+- `l'article 118` → Dahir n° 1-09-236 [✓]
+
+
+## Article 115
+
+*Article 115*
+
+Sont applicables à l'échange du bien constitué Habous de
+famille, les dispositions relatives à l'échange du bien constitué
+Habous public.
+
+
+## Article 116
+
+*Article 116*
+
+Le bien constitué Habous de famille n'est loué pour
+plus de trois ans que sur autorisation de l'administration des
+Habous, sous peine de nullité de l'acte.
+
+
+## Article 117
+
+*Article 117*
+
+Le louage du bien constitué Habous de famille cesse
+pour l'une des causes prévues à l'article 92 ci-dessus et
+obligatoirement par le décès du dévolutaire lorsqu'il conclut
+personnellement le contrat de louage.
+
+*Citations :*
+
+- `l'article 92` → Dahir n° 1-09-236 [✓]
+
+
+## Article 118
+
+*Article 118*
+
+Les Habous de famille sont placés sous le contrôle de
+l'administration des Habous.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+L'examen des affaires de tout Habous de famille est
+assuré par un Nadher proprement désigné par le constituant
+et à défaut, par l'autorité gouvernementale chargée des Habous
+après consultation des bénéficiaires.
+Il doit être musulman, jouissant de la capacité, apte à
+gérer et à examiner les affaires du bien constitué Habous et
+n'ayant pas encouru de peine pour la commission de l'un des
+crimes liés aux fonds ou d'atteinte aux mœurs.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 119
+
+*Article 119*
+
+Le Nadher des Habous de famille se charge de la gestion
+et de la préservation du bien constitué Habous, de la prise
+en charge de ses affaires et du recouvrement de ses revenus
+et leur répartition entre les dévolutaires conformément aux
+conditions du constituant et sous réserve des dispositions du
+présent code.
+Le Nadher est tenu de présenter un décompte annuel
+de sa gestion du Habous de famille aux bénéficiaires dudit
+Habous et à l'administration des Habous, appuyé des pièces
+justificatives.
+
+
+## Article 120
+
+*Article 120*
+
+Le Nadher des Habous de famille est destitué par
+décision de l'autorité gouvernementale chargée des Habous
+lorsque son manquement à ses obligations en matière de
+gestion des affaires Habous de famille est prouvé, ou lorsqu'un
+jugement définitif de culpabilité est prononcé à son encontre
+pour la commission de l'un des crimes prévus à l'article 118
+ci-dessus. Les dispositions relatives à la responsabilité du
+mandataire salarié lui sont applicables même s'il exerce sa
+mission à titre gratuit et il répond pénalement de ses actes, le
+cas échéant.
+
+*Citations :*
+
+- `l'article 118` → Dahir n° 1-09-236 [✓]
+
+
+## Article 121
+
+*Article 121*
+
+La mission du Nadher des Habous de famille prend fin
+dans les cas suivants :
+– son décès ou la perte de sa capacité ;
+– sa destitution ;
+– l'acceptation de sa demande de démission ;
+– la perte totale du bien constitué Habous en raison d'une
+force majeure ou d'un incident fortuit ;
+– l'extinction des bénéficiaires du Habous.
+Section 2. –   Liquidation des Habous de famille
+
+
+## Article 122
+
+*Article 122*
+
+Les Habous de famille sont liquidés dans les cas suivants :
+–	lorsque l'utilité du bien constitué Habous cesse ou
+diminue considérablement ;
+–	lorsque le bien constitué Habous est dans un état
+empêchant d'en jouir ;
+–	lorsque son revenu ne couvre plus ses dépenses et les
+droits qui lui sont imposables ;
+–	lorsque les bénéficiaires deviennent plus nombreux et
+que la part de chacun diminue.
+
+
+## Article 123
+
+*Article 123*
+
+La liquidation des Habous de famille s'opère à
+l'initiative de l'administration des Habous ou à la demande
+de la majorité des bénéficiaires. Dans les deux cas, l'autorité
+gouvernementale chargée des Habous renvoie, par décision, le
+dossier de liquidation auprès d'une commission spéciale créée
+à cet effet, dénommée « commission de liquidation ».
+La composition et les modalités de fonctionnement
+de ladite commission sont fixées par arrêté de l'autorité
+gouvernementale chargée des Habous.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 124
+
+*Article 124*
+
+Le dossier de liquidation comprend :
+– la décision de renvoi prévue à l'article 123 ci-dessus ;
+– les copies des pièces justifiant le Habous et les
+modifications subites, le cas échéant ;
+– une liste des prénoms et noms des bénéficiaires, leurs
+professions, leurs domiciles ou lieux de résidence
+assortie des copies légalisées de leurs cartes d'identité
+nationales ou de tout document officiel en tenant lieu ;
+– les copies des pièces justifiant la qualité des bénéfciiaires
+du Habous ;
+– un rapport sur la situation impliquant la liquidation,
+assorti des  pièces justificatives, le cas échéant ;
+– un rapport d'un expert spécialisé comportant une
+description minutieuse du bien constitué Habous et
+une estimation de sa valeur vénale.
+
+*Citations :*
+
+- `l'article 123` → Dahir n° 1-09-236 [✓]
+
+
+## Article 125
+
+*Article 125*
+
+La décision de renvoi à la commission de liquidation fait
+l'objet d'une publicité par affichage au siège de la Nedharat
+des Habous du ressort territorial de laquelle relève le Habous
+de famille à liquider et par publication dans, au moins, deux
+journaux à diffusion nationale, autorisés à publier les annonces
+légales et judiciaires.
+Tout intéressé peut, dans un délai de deux mois de la
+date de publication, fournir toute information qu'il possède
+susceptible d'être utile au processus de liquidation.
+
+
+## Article 126
+
+*Article 126*
+
+L'autorité gouvernementale chargée des Habous prend,
+sur rapport de la commission de liquidation, une décision de
+liquidation ou de non liquidation, laquelle est communiquée
+aux intéressés et qui fait l'objet d'une publicité et d'une
+publication conformément aux modalités prévues à l'article
+125 ci-dessus.
+
+*Citations :*
+
+- `l'article
+125` → Dahir n° 1-09-236 [✓]
+
+
+## Article 127
+
+*Article 127*
+
+La décision de liquidation comporte ce qui suit :
+– la détermination du bien constitué Habous objet de
+liquidation ;
+– l'indication du motif de la liquidation ;
+– la dépossession du  bien constitué Habous de son statut
+Habous ;
+– l'arrêté de la liste des bénéficiaires ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– la détermination de la quote-part () de chacun des
+Habous publics et des bénéficiaires.
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 128
+
+*Article 128*
+
+Est dû aux Habous publics le tiers de tout Habous de
+famille dont la liquidation est décidée, à moins qu'il ne s'agisse
+d'un lieu servant de logement aux bénéficiaires.
+Les deux-tiers restants sont répartis entre les héritiers des
+deux sexes conformément au Fardh légal lorsque l'ensemble ou
+quelques-uns des héritiers du constituant sont toujours en vie,
+qu'ils soient les seuls bénéficiaires ou de concert avec d'autres
+ou que certains soient bénéficiaires et d'autres en soient privés.
+Lorsque le constituant n'a pas d'héritiers, les deux-tiers
+restants sont répartis entre les bénéficiaires du Habous selon
+la part fixée pour chacun dans le titre de la constitution du
+Habous. Dans ce cas, l'éviction est de plein droit annulée et
+les parties évincées ont droit à la part de leurs parents dans
+le partage.
+Chapitre II
+Habous mixte
+
+
+## Article 129
+
+*Article 129*
+
+Le Habous mixte est soumis aux mêmes dispositions
+applicables aux biens constitués Habous public.
+L'administration des Habous est chargée de sa gestion.
+
+
+## Article 130
+
+*Article 130*
+
+Sont déduites du revenu du bien constitué Habous
+mixte, avant son partage, les dépenses liées à la réparation,
+l'entretien et la gestion de la chose constituée Habous, ainsi
+que l'ensemble des obligations qui lui sont imposables.
+
+
+## Article 131
+
+*Article 131*
+
+Le revenu du bien constitué Habous mixte est partagé
+entre l'œuvre publique et le reste des dévolutaires selon la part
+fixée pour chacun d'eux par le constituant ou à parts égales à
+défaut de fixation de ladite part.
+Lorsque le constituant fixe une somme d'argent
+déterminée pour certains bénéficiaires, il est obligatoire de
+commencer par les titulaires desdites sommes et le reliquat
+revient au restant des bénéficiaires.
+
+
+## Article 132
+
+*Article 132*
+
+Les dispositions relatives à la liquidation des Habous
+de famille sont applicables à la quote-part consacrée à la
+progéniture dans le Habous mixte.
+TITRE IV
+ORGANISATION ET CONTRÔLE DES FINANCES
+DES HABOUS PUBLICS
+Chapitre premier
+Principes de l'organisation financière et comptable
+des Habous publics
+
+
+## Article 133
+
+*Article 133*
+
+L'ensemble des Habous publics constitue un patrimoine
+autonome unique comportant tous les biens constitués Habous
+publics, leurs revenus et tous les autres biens affectés à leur
+profti.
+
+
+## Article 134
+
+*Article 134*
+
+Un budget annuel est établi spécialement aux Habous
+publics indépendamment du budget général de l'Etat, basé
+sur l'équilibre financier entre les ressources et les dépenses
+conformément aux dispositions du présent code et des textes
+pris pour son application.
+
+
+## Article 135
+
+*Article 135*
+
+Le budget annuel des Habous publics comporte deux
+parties, la première porte sur les ressources, la deuxième
+sur les dépenses. Chacune des parties se compose de deux
+divisions : une de fonctionnement et une autre d'investissement.
+Ledit budget comporte, en outre, des comptes spéciaux relatifs
+à des projets Habous déterminés.
+
+
+## Article 136
+
+*Article 136*
+
+Le budget annuel des Habous publics comporte ce qui
+suit :
+a) En ressources :
+– les recettes locatives ;
+– les recettes issues des échanges ;
+–	les revenus de vente des produits des arbres, des récoltes
+et des matériaux de carrières Habous et autres ;
+– les revenus des placements financiers ;
+– les revenus de souscription aux bons Habous ;
+– les subventions financières octroyées par l'Etat et les
+autres organismes ;
+– les dons et legs ;
+– ressources diverses.
+b) En dépenses :
+– les frais de réparation et d'entretien des biens constitués
+Habous ;
+– les dépenses affectées aux œuvres bénéficiaires selon la
+condition prévue par le constituant ;
+– les dépenses de fonctionnement des biens constitués
+Habous ;
+– les dépenses affectées au service des intérêts de la
+religion et à la diffusion de la culture islamique ;
+– les frais de construction et d'équipement des
+établissements Habous ;
+– les fonds des placements consacrés à l'accroissement
+des revenus du Habous ;
+– les fonds affectés à l'acquisition de nouveaux biens au
+profti des Habous publics ;
+– les subventions octroyées au service des finalités du
+Habous public ;
+– les crédits imputés en couverture des dépenses urgentes ;
+– dépenses diverses.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 137
+
+*Article 137*
+
+Les ressources du budget annuel des Habous publics
+se répartissent en deux catégories : des ressources pour la
+couverture des dépenses de fonctionnement et des ressources
+pour le financement des opérations d'investissement relatives
+à la réalisation des projets Habous et à l'accroissement des
+revenus des biens constitués Habous public.
+Les dépenses se répartissent en deux catégories : les
+dépenses de fonctionnement et les dépenses d'investissement.
+
+
+## Article 138
+
+*Article 138*
+
+Les ressources et les dépenses du budget annuel des
+Habous publics se présentent en deux parties, comportant
+chacune des divisions, des titres et des chapitres, répartis
+le cas échéant, en articles, paragraphes et lignes selon leurs
+domaines d'affectation, leur objet ou leur nature.
+Une nomenclature budgétaire est ainsi établie par arrêté
+de l'autorité gouvernementale chargée des Habous, pris sur
+proposition du conseil supérieur du contrôle des finances des
+Habous publics.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 139
+
+*Article 139*
+
+Les comptes spéciaux prévus à l'article 135 ci-dessus
+sont créés par arrêté de l'autorité gouvernementale chargée
+des Habous en vue d'une gestion financière et comptable
+indépendante des ressources et des dépenses portant sur
+certains projets Habous qui revêtent un caractère particulier et
+qui sont totalement ou partiellement financés soit à partir des
+revenus des Habous publics, soit par une subvention spéciale
+de l'Etat ou d'une personne de droit public ou privé dans le
+cadre d'une convention entre l'administration des Habous et
+le bailleur de fonds.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 135` → arrêté [✓]
+
+
+## Article 140
+
+*Article 140*
+
+L'autorité gouvernementale chargée des Habous peut
+d'Office et sans autorisation préalable faire appel à la générosité
+publique au profti des Habous publics par voie de collecte de
+dons en numéraire ou en nature ou à travers l'émission de
+bons de souscription de participation à valeur déterminée
+dénommés « bons Habous », dont les revenus sont affectés à la
+réalisation de projets Habous à caractère religieux, scientifique
+ou social.
+Sont fixées par arrêté de l'autorité gouvernementale
+chargée des Habous après consultation du conseil supérieur
+du contrôle des finances des Habous publics, la forme, les
+modalités d'émission desdits bons Habous et la formule d'y
+souscrire ainsi que les modalités de collecte des dons.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 141
+
+*Article 141*
+
+Lorsque les ressources relatives aux dépenses de
+fonctionnement sont excédentaires après la couverture desdites
+dépenses, l'excédent peut être affecté à la couverture des
+dépenses d'investissement dans le but d'accroître les revenus
+du Habous. Toutefois, les recettes d'investissement ne peuvent
+être employées pour couvrir les dépenses de fonctionnement.
+De même, l'engagement des dépenses ou leur ordonnancement
+et paiement n'est valable que dans les limites des ressources
+affectées à leur couverture.
+Dans tous les cas, les dispositions de l'article 63 ci-dessus
+doivent être observées concernant l'affectation des revenus
+des échanges.
+
+*Citations :*
+
+- `l'article 63` → Dahir n° 1-09-236 [✓]
+
+
+## Article 142
+
+*Article 142*
+
+L'année budgétaire afférente au budget annuel des
+Habous publics débute le premier janvier et s'achève le 31
+décembre de la même année.
+
+
+## Article 143
+
+*Article 143*
+
+L'administration des Habous se charge de l'élaboration
+et de l'exécution du projet du budget annuel des Habous
+publics après approbation du conseil supérieur du contrôle
+des finances des Habous publics.
+Lorsque le conseil, pour une quelconque raison,
+n'approuve pas ledit projet du budget avant le début de l'année
+budgétaire, les ressources de toute nature et les dépenses
+de fonctionnement demeurent en vigueur conformément
+au budget de l'année écoulée jusqu'à approbation du
+projet de budget et ce, en vertu d'une décision de l'autorité
+gouvernementale chargée des Habous.
+Est fixée dans la décision susmentionnée, la durée
+pendant laquelle peuvent être effectuées les opérations de
+recouvrement des recettes et de paiement des dépenses de
+fonctionnement visées ci-dessus.
+
+
+## Article 144
+
+*Article 144*
+
+Notre ministre aux Habous et affaires islamiques est
+l'ordonnateur de la perception des recettes et de paiement des
+dépenses inscrites au budget annuel des Habous publics.
+Il peut, sous sa responsabilité et dans les limites qu'il
+fixe dans les ordonnancements de délégation de crédits,
+désigner des sous-ordonnateurs parmi les employés et les
+fonctionnaires de l'administration des Habous ainsi que les
+Nadher des Habous.
+Il peut, en outre, leur déléguer la signature pour
+l'approbation des marchés de travaux, de fournitures et de
+services passés par l'administration des Habous au profti des
+Habous publics.
+
+
+## Article 145
+
+*Article 145*
+
+Sous réserve des dispositions du dahir n° 1-03-193
+du 9 chaoual 1424 (4 décembre 2003) portant attributions
+et organisation du ministère des Habous et des affaires
+islamiques tel que modifié et complété et des textes pris pour
+son application, les Nadher des Habous sont, en leur qualité
+de sous-ordonnateurs et dans la limite de leurs attributions,
+personnellement responsables, conformément aux dispositions
+du présent code, des textes pris pour son application et des
+textes législatifs et réglementaires en vigueur, de :
+– l'observation des règles relatives à l'engagement,
+l'ordonnancement et la liquidation des dépenses
+inscrites au budget annuel des Habous publics ;
+– l'observation des dispositions du présent code et
+des textes pris pour son application afférentes à la
+gestion, la préservation des biens des Habous publics
+et l'accroissement de leurs revenus, notamment en ce
+qui concerne les actes juridiques qu'ils appliquent  sur
+lesdits biens ou à leur profti ;
+– l'observation des textes relatifs à la passation des
+marchés ;
+– le recouvrement des recettes relatives à l'ensemble des
+biens constitués Habous public dont ils assurent la
+gestion.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `dahir n° 1-03-193
+du 9 chaoual 1424 (4 décembre 2003)` (DAHIR), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 146
+
+*Article 146*
+
+La gestion des finances des Habous publics et la tenue de
+la comptabilité y afférente sont soumises à une organisation
+financière et comptable spéciale et à une nomenclature des
+procédures comptables, fixées chacune par arrêté de l'autorité
+gouvernementale chargée des Habous sur proposition du
+conseil supérieur du contrôle des finances des Habous publics.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 147
+
+*Article 147*
+
+Les marchés de travaux, de fournitures et de services
+passés par l'administration des Habous au profti des Habous
+publics sont soumis à un régime spécial fixé par arrêté de
+l'autorité gouvernementale chargée des Habous sur proposition
+du conseil supérieur du contrôle des finances des Habous
+publics.
+Les règles contenues dans le régime spécial susmentionné
+doivent respecter les principes de la transparence, de la
+concurrence, de l'égalité entre les concurrents et de la publicité
+préalable.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 148
+
+*Article 148*
+
+Au cours de l'année budgétaire, l'administration des
+Habous peut suspendre l'exécution de certaines dépenses
+d'investissement lorsque l'intérêt du Habous l'exige et que
+cette mesure a pour objectif de protéger les biens du Habous.
+Dans ce cas, le conseil supérieur du contrôle des finances des
+Habous publics doit en être avisé dans les trente jours qui
+suivent la date de prise de ladite mesure.
+
+
+## Article 149
+
+*Article 149*
+
+Aucune modification ne peut être apportée au budget
+annuel des Habous publics au cours de l'année budgétaire
+courante que dans les conditions et suivant les mesures
+relatives à son approbation, prévues à l'article 143 ci-dessus.
+Toutefois, en cas d'obtention de ressources
+supplémentaires au cours de l'année, il est possible de les
+affecter à l'ouverture de nouveaux crédits pour la couverture
+des dépenses de fonctionnement ou d'investissement, selon
+le cas, sous réserve des dispositions de l'article 141 ci-dessus.
+Dans le cas où les ressources affectées à la couverture
+des dépenses de fonctionnement s'avèrent insuffisantes,
+l'autorité gouvernementale chargée des Habous peut, par
+décision spéciale, autoriser d'effectuer des transferts, dans la
+même division, d'un titre à un autre ou d'un chapitre à un autre.
+
+*Citations :*
+
+- `l'article 143` → Dahir n° 1-09-236 [✓]
+- `l'article 141` → Dahir n° 1-09-236 [✓]
+
+
+## Article 150
+
+*Article 150*
+
+Au terme de chaque année budgétaire, l'administration
+des Habous établit le compte de gestion afférent au bilan
+d'exécution du budget annuel des Habous publics, soumis à
+l'approbation du conseil supérieur du contrôle des finances
+des Habous publics.
+Le compte susmentionné comporte de manière détaillée
+le bilan de l'ensemble des opérations financières effectuées au
+titre de l'année budgétaire en question et les totaux nets des
+ressources perçues et des dépenses ordonnées, et rend compte
+du résultat de la situation financière du budget à la fin de
+l'année au titre de laquelle il est présenté.
+
+
+## Article 151
+
+*Article 151*
+
+Les Habous publics sont exonérés, quant à l'ensemble
+de leurs actes, activités ou opérations, ainsi que les revenus y
+afférents, de tout impôt, taxe ou prélèvement fiscal à caractère
+national ou local.
+Chapitre II
+Contrôle des finances des Habous publics
+Section première. –  Dispositions générales
+
+
+## Article 152
+
+*Article 152*
+
+La gestion des finances des Habous publics est soumise
+à un contrôle spécial visant à s'assurer de la fiabilité des
+opérations relatives à l'exécution du budget annuel des Habous
+publics et des comptes connexes, à assurer leur suivi, à tenir
+leur comptabilité et à contrôler leur conformité aux textes en
+vigueur.
+
+
+## Article 153
+
+*Article 153*
+
+Le contrôle prévu à l'article 152 ci-dessus est assuré au
+niveau de l'administration centrale du ministère des Habous
+et des affaires islamiques par un contrôleur financier central,
+assisté dans l'accomplissement de ses missions par deux
+contrôleurs financiers adjoints, exerçant tous leurs fonctions
+sous l'autorité de l'inspection générale du ministère des
+Habous et des affaires islamiques.
+Ledit contrôle est exercé au niveau des Nedharat
+des Habous par des contrôleurs locaux sous l'autorité du
+contrôleur financier central.
+A cet effet, le contrôleur financier central, ses deux
+adjoints et les contrôleurs locaux susmentionnés, exercent les
+attributions suivantes :
+– S'assurer de la disponibilité des crédits nécessaires
+à la couverture des dépenses et l'exactitude de leur
+inscription aux titres correspondants dans le budget
+annuel des Habous publics ;
+– S'assurer de la conformité des mesures de passation des
+marchés aux textes les régissant ;
+– vérifier la qualité de la personne habilitée à signer les
+propositions d'engagement et d'ordonnancement des
+dépenses ;
+– assurer le suivi de la situation des comptes dont ils sont
+chargés d'effectuer le contrôle ;
+– viser les propositions d'engagement et d'ordonnancement
+des dépenses dans la limite des crédits inscrits dans
+le budget annuel des Habous publics, et s'assurer
+de leur conformité aux dispositions législatives et
+réglementaires en vigueur.
+Les contrôleurs locaux sont chargés, en outre, d'exercer
+les attributions suivantes :
+– viser les projets de contrats de louage des biens Habous
+avant leur conclusion, après vérification de leur
+conformité aux dispositions du présent code et des
+textes pris pour son application ;
+– participer aux commissions de courtage ou d'appel
+d'offres relatives aux échanges ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– viser l'ensemble des pièces relatives aux opérations
+de recouvrement des recettes de toute nature, assurer
+le suivi desdites opérations et élaborer des états de
+synthèse mensuels et annuels y afférents.
+En sus des attributions susmentionnées, le contrôleur
+financier central et les contrôleurs locaux exerçant sous son
+autorité, établissent séparément, un rapport annuel du bilan
+de leur activité, soumis au conseil supérieur du contrôle des
+finances des Habous publics et dont une copie est adressée à
+l'administration des Habous à titre informatif.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 152` → Dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 154
+
+*Article 154*
+
+Sont fixés par arrêté de l'autorité gouvernementale
+chargée des Habous, le statut, les modalités et les conditions
+de désignation du contrôleur financier central, des contrôleurs
+adjoints et des contrôleurs locaux chargés du contrôle des
+comptes des Habous.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 155
+
+*Article 155*
+
+Le contrôleur financier central, ses adjoints et les
+contrôleurs locaux chargés du contrôle des comptes des
+Habous sont, chacun dans la limite de ses attributions,
+personnellement responsables des opérations de contrôle qu'ils
+doivent accomplir conformément aux dispositions du présent
+code et des textes pris pour son application, ainsi qu'aux textes
+législatifs et réglementaires en vigueur.
+
+
+## Article 156
+
+*Article 156*
+
+En cas de manquement avéré aux obligations qui leurs
+incombent, les Nadher des Habous, l'ensemble des autres sous-
+ordonnateurs, le contrôleur financier central, ses adjoints et les
+contrôleurs locaux, sont soumis, au cours de l'accomplissement
+de leurs missions, aux règles de la responsabilité disciplinaire,
+civile et pénale, conformément aux textes législatifs en vigueur.
+Section 2. –  Conseil supérieur du contrôle des finances
+des Habous publics
+
+*Organisations :* Conseil supérieur du contrôle des finances
+des
+
+
+## Article 157
+
+*Article 157*
+
+Est institué auprès de Notre Majesté Chérifienne, un
+conseil pour le suivi des affaires liées à la gestion financière
+des Habous publics, dénommé « Conseil supérieur du contrôle
+des finances des Habous publics », désigné ci-après par « le
+conseil ».
+
+*Personnes :* Notre Majesté Chérifienne
+
+*Organisations :* Conseil
+
+
+## Article 158
+
+*Article 158*
+
+Le conseil se charge de contrôler les finances des Habous
+publics, d'étudier les questions y afférentes et d'émettre un
+avis à leurs sujets et de proposer toutes les mesures visant à
+garantir leur bonne gestion conformément aux principes de la
+transparence et de la bonne gouvernance, de manière à assurer
+la protection et la préservation des biens constitués Habous
+public et l'accroissement de leurs revenus.
+A cet effet, outre les prérogatives qui lui sont dévolues
+en vertu d'autres articles du présent code, le conseil exerce les
+attributions suivantes :
+– la réalisation sous ordre de Notre Majesté Chérifienne
+de toutes les opérations d'enquête et d'investigation
+portant sur toute affaire de gestion des finances des
+Habous publics et la présentation d'un rapport de leurs
+résultats à Notre Majesté Chérifienne ;
+– l'élaboration des projets de la nomenclature du budget
+annuel des Habous publics, de l'organisation financière
+et comptable y afférente, de la nomenclature des
+procédures comptables et du règlement relatif aux
+marchés et leur soumission à l'autorité gouvernementale
+chargée des Habous pour adoption ;
+– la réalisation d'un audit annuel de l'état de la gestion
+financière des Habous publics et l'élaboration d'un
+rapport annuel des résultats, lequel est soumis à Notre
+Majesté Chérifienne et dont une copie est adressée à
+Notre ministre des Habous et des affaires islamiques ;
+– l'émission d'avis et de consultations dans les questions
+relatives à la gestion des Habous publics qui lui sont
+soumises par l'autorité gouvernementale chargée  des
+Habous ;
+– la présentation de toute proposition ou recommandation
+visant l'amélioration des méthodes de gestion et la
+préservation des Habous publics et l'accroissement de
+leurs revenus.
+
+*Personnes :* Notre Majesté Chérifienne, Notre Majesté Chérifienne
+
+
+## Article 159
+
+*Article 159*
+
+Le conseil est présidé par une personnalité désignée par
+Notre Majesté Chérifienne parmi les personnalités reconnus
+pour leur intégrité, probité et expertise en matière de Habous.
+Outre son président, le conseil se compose des membres
+suivants :
+– un secrétaire général du conseil ;
+–	un représentant du conseil supérieur des ouléma ;
+–	une personnalité savante parmi les jurisconsultes
+disposant d'une large connaissance des affaires du
+Habous ;
+–	un magistrat ayant la qualité de président de chambre
+à la cour des comptes ;
+–	un conseiller juridique expert dans le domaine du
+Habous ;
+–	un expert-comptable inscrit à l'ordre des experts
+comptables ;
+–	trois experts parmi les personnalités reconnues pour
+leur compétence en matière de gestion administrative
+et financière.
+Les membres susmentionnés sont désignés par dahir.
+Le président du conseil peut inviter à la participation
+aux travaux des réunions dudit conseil, toute personne dont
+il juge la présence utile.
+Le conseil peut également, en vue d'accomplir ses
+missions, se faire assister par des experts contractuels chargés
+de missions déterminées.
+
+
+## Article 160
+
+*Article 160*
+
+Le conseil tient régulièrement ses réunions au moins une
+fois tous les trois mois et chaque fois que nécessaire.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 161
+
+*Article 161*
+
+Sont créées auprès du conseil, pour l'assister dans
+l'accomplissement de ses missions, deux commissions
+permanentes ; une commission d'audit des finances des
+Habous chargée d'établir le projet de rapport annuel sur les
+résultats d'audit de la situation de la gestion financière des
+Habous publics, et une commission consultative légale ((
+chargée de réaliser les consultations présentées par le conseil
+dans les affaires qui lui sont soumises.
+Le conseil peut, en outre, créer d'autres commissions
+permanentes ou provisoires pour l'étude de questions
+particulières, dont la composition et le mode de fonctionnement
+sont fixés dans le règlement intérieur du conseil.
+
+
+## Article 162
+
+*Article 162*
+
+Le conseil se charge d'établir son règlement intérieur,
+lequel est soumis à Notre Majesté Chérifienne pour
+approbation.
+
+*Personnes :* Notre Majesté Chérifienne
+
+
+## Article 163
+
+*Article 163*
+
+En vue de lui permettre d'accomplir ses missions dans
+les meilleures conditions, l'administration des Habous met à
+la disposition du conseil tout document, pièce, information
+et donnée nécessaire.
+
+
+## Article 164
+
+*Article 164*
+
+Les crédits nécessaires au fonctionnement du conseil
+sont imputés sur le budget du ministère des Habous et des
+affaires islamiques.
+Le président du conseil est désigné sous-ordonnateur des
+crédits prévus à l'alinéa premier du présent article par Notre
+ministre des Habous et des affaires islamiques.
+
+
+## Article 165
+
+*Article 165*
+
+Le ministère des Habous et des affaires islamiques met à
+la disposition du conseil les moyens financiers et les ressources
+humaines nécessaires lui permettant d'accomplir ses missions.
+A cet effet, le président du conseil soumet à Notre ministre
+des Habous et des affaires islamiques, après approbation de
+Notre Majesté Chérifeinne, ses besoins en moyens et ressources
+prévus à l'alinéa premier du présent article.
+TITRE V
+DISPOSITIONS TRANSITOIRES ET FINALES
+
+
+## Article 166
+
+*Article 166*
+
+Les dispositions du présent code entrent en vigueur à
+compter de la publication de l'ensemble des textes pris pour
+son application.
+Sont abrogées et remplacées à compter de la même date
+toutes dispositions contraires, notamment celles des dahirs
+suivants :
+– dahir du 1er moharrem 1331 (11 décembre 1912)
+concernant la constitution de commissions chargées de
+la reconnaissance et de l'évaluation des biens Habous ;
+– dahir du 21 rejeb 1331 (26 juin 1913) interdisant aux
+Adoul d'instrumenter des contrats de vente portant
+sur les droits du Clé, Guelsa et Zina sans autorisation
+préalable du juge ;
+– dahir du 8 chaabane 1331 (13 juillet 1913) fixant les
+attributions de la direction des Habous publics ;
+– dahir chérifien du 16 chaabane 1331 (21 juillet 1913)
+réglementant la mise en valeur des Habous publics ;
+– dahir du 3 moharrem 1332 (2 décembre 1913) portant
+instructions au Directeur Général des Habous sur les
+échanges et locations à long terme en ce qui concerne
+les Habous privés et ceux des Zaouïas ;
+– dahir du 1er rabii II 1332 (27 février 1914) concernant
+le Gza, Istidjar, Guelsa, Clé et Zina, tel que modifié et
+complété par le dahir du 7 ramadan 1334 (8 juillet 1916)
+concernant les terrains Habous nus et grevés de Gza ;
+– dahir du 16 joumada II 1332 (12 mai 1914) portant
+institution d'un conseil supérieur des Habous ;
+– dahir du 3 ramadan 1334 (4 juillet 1916) relatif à
+l'autorisation de louage des terres laboures pour une
+durée de deux ans par voie de courtage ;
+– dahir du 3 ramadan 1334 (4 juillet 1916) relatif à
+l'autorisation de louage des magasins  aux artisanaux
+sans recours au courtage ;
+– dahir du 7 ramadan 1334 (8 juillet 1916) réglementant
+les échanges d'immeubles Habous grevés du droit de
+menfâ ;
+– dahir du fin rejeb 1335 (22 mai 1917) réglementant le
+louage des immeubles Habous pour une durée de trois,
+six ou neuf ans ;
+– dahir du fin rabii I 1336 (13 janvier 1918) réglementant
+le contrôle des Habous privés, tel que modifié par le
+dahir du 2 kaada 1338 (18 juillet 1920) réglementant le
+louage des biens Habous privés ;
+– dahir du 15 ramadan 1336 (25 juin 1918) instituant une
+commission de révision des  droits réels grevant les
+biens Habous ;
+– dahir du 15 ramadan 1336 (25 juin 1918) instituant dans
+les villes du Maroc des Commissions d'enquête en vue
+de la révision des droits invoqués par les détenteurs de
+biens Habous ;
+– dahir n° 1-69-28 du 10 joumada I 1389 (25 juillet 1969)
+relatif au transfert à l'Etat de la propriété de terres
+agricoles ou à vocation agricole constituées en Habous
+publics .
+Toutefois, les dispositions du dahir du 1er rabii II 1332 (27
+février 1914) concernant le Gza, Istidjar, Guelsa, Clé et Zina,
+tel que modifié et complété, demeurent en vigueur concernant
+les droits coutumiers institués, avant l'entrée en vigueur du
+présent code, sur les biens constitués Habous public jusqu'à
+leur extinction conformément aux dispositions de l'article 105
+ci-dessus.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `1er moharrem 1331` (DATE_HIJRI), `11 décembre 1912` (DATE_GREGORIAN), `21 rejeb 1331` (DATE_HIJRI), `26 juin 1913` (DATE_GREGORIAN), `8 chaabane 1331` (DATE_HIJRI), `13 juillet 1913` (DATE_GREGORIAN), `16 chaabane 1331` (DATE_HIJRI), `21 juillet 1913` (DATE_GREGORIAN), `3 moharrem 1332` (DATE_HIJRI), `2 décembre 1913` (DATE_GREGORIAN), `1er rabii II 1332` (DATE_HIJRI), `27 février 1914` (DATE_GREGORIAN), `7 ramadan 1334` (DATE_HIJRI), `8 juillet 1916` (DATE_GREGORIAN), `16 joumada II 1332` (DATE_HIJRI), `12 mai 1914` (DATE_GREGORIAN), `3 ramadan 1334` (DATE_HIJRI), `4 juillet 1916` (DATE_GREGORIAN), `22 mai 1917` (DATE_GREGORIAN), `13 janvier 1918` (DATE_GREGORIAN), `2 kaada 1338` (DATE_HIJRI), `18 juillet 1920` (DATE_GREGORIAN), `15 ramadan 1336` (DATE_HIJRI), `25 juin 1918` (DATE_GREGORIAN), `dahir n° 1-69-28` (DAHIR), `10 joumada I 1389` (DATE_HIJRI), `25 juillet 1969` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 105` → dahir n° 1-69-28 [✓]
+
+*Dates :* 1er moharrem 1331, 11 décembre 1912, 21 rejeb 1331, 26 juin 1913, 8 chaabane 1331, 13 juillet 1913, 16 chaabane 1331, 21 juillet 1913, 3 moharrem 1332, 2 décembre 1913, 1er rabii II 1332, 27 février 1914, 7 ramadan 1334, 8 juillet 1916, 16 joumada II 1332, 12 mai 1914, 3 ramadan 1334, 4 juillet 1916, 3 ramadan 1334, 4 juillet 1916, 7 ramadan 1334, 8 juillet 1916, 22 mai 1917, 13 janvier 1918, 2 kaada 1338, 18 juillet 1920, 15 ramadan 1336, 25 juin 1918, 15 ramadan 1336, 25 juin 1918, 10 joumada I 1389, 25 juillet 1969, 1er rabii II 1332, 27 février 1914, 15 ramadan 1447
+
+
+## Article 167
+
+*Article 167*
+
+Les dispositions contenues dans les dahirs prévus
+à l'article 166 ci-dessus, citées en référence dans les textes
+législatifs et réglementaires en vigueur, sont remplacées par
+les dispositions qui leur correspondent dans le présent code.
+
+*Citations :*
+
+- `l'article 166` → Dahir n° 1-09-236 [✓]
+
+
+## Article 168
+
+*Article 168*
+
+Sont valables, les mesures procédurales liées aux contrats
+d'échanges et de louages relatifs aux Habous publics, dont
+la conclusion est entamée avant la date d'entrée en vigueur
+du présent code, et demeurent en vigueur, les dispositions
+y afférentes contenues dans les dahirs prévus à l'article 166
+ci-dessus.
+
+*Citations :*
+
+- `l'article 166` → Dahir n° 1-09-236 [✓]
+
+
+## Article 169
+
+*Article 169*
+
+Il est référé aux préceptes du rite Malékite, en termes
+de Fiqh et d'Ijtihad, pour tout ce qui n'a pas été expressément
+énoncé dans le présent code et ce, de manière à concrétiser
+l'intérêt du Habous.
+
+
+## Article 170
+
+*Article 170*
+
+Le présent dahir sera publié au Bulletin officiel.
+Fait à Tétouan, le 8 rabii I 1431 (23 février 2010).
+Pour contreseing :
+Le Premier ministre,
+Abbas El Fassi.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel »   n° 5847 du 1er rejeb 1431 (14 juin 2010).
+
+*Entités :* `8 rabii I 1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN), `Bulletin officiel »   n° 5847` (BULLETIN_OFFICIEL), `1er rejeb 1431` (DATE_HIJRI), `14 juin 2010` (DATE_GREGORIAN)
+
+*Personnes :* Abbas El Fassi
+
+*Dates :* 8 rabii I 1431, 23 février 2010, 1er rejeb 1431, 14 juin 2010
+
+
+## Article premier
+
+*Article premier*
+
+Sont modifiées et complétées, comme suit, les
+dispositions des articles 13 (paragraphe 2), 27, 31, 54, 57, 58,
+59, 60 (paragraphe 2), 64 (paragraphe 4), 72, 73 (paragraphe 1),
+98 (paragraphe 1), 113, 134, 138, 143, 145, 149, 150, 153, 158,
+159 et 161 du dahir susvisé n° 1-09-236 du 8 rabii I 1431
+(23 février 2010) :
+« constitué Habous, mais s'il décède sans l'avoir désigné, le
+« Habous revient aux Habous publics. »
+« Article 27. – La condition de détention n'est pas requise
+« dans les cas suivants :
+« – lorsque la détention  […texte non modifié…]  bénéficiaire ;
+« –   […texte non modifié…]  ;
+« – lorsque le Habous est subordonné à une œuvre à
+« réaliser par le bénéficiaire ;
+« – lorsque le Habous est de plein droit. »
+« Article 31. –  La constitution Habous  […texte non modifié…]  la
+« libération, en tenant compte de la condition prévue par le
+« constituant.
+« Toutefois, lorsque le constituant exige de continuer
+« d'exploiter le domicile objet du Habous jusqu'à son décès, il «
+est de plein droit obligatoire de conclure un contrat de louage
+« dudit domicile au profit de lui-même moyennant un prix
+« symbolique jusqu'à l'avènement dudit décès et dès lors, le
+« domicile doit être remis à l'administration des Habous. »
+« Article 54. – Les titres fonciers constitués au profit
+« d'autrui n'empêchent pas le tribunal de statuer sur toute
+« action visant à établir le caractère Habous d'un immeuble
+« immatriculé, à condition que  […texte non modifié…]  inscrits.
+« Lorsqu'il est prouvé que ledit immeuble est constitué
+« y afférent au nom du Habous concerné. »
+« Article 57. –  Pour les décisions rendues dans les affaires
+« des Habous publics, l'exécution des décisions faisant l'objet
+« de recours est suspendue par pourvoi en cassation formé par
+« l'autorité gouvernementale chargée des Habous. »
+« Article 58. – Le recours est possible …………. dans un
+« délai de dix (10) ans de la date à laquelle le jugement devient
+« définitif. »
+« chargée des Habous, sous peine de nullité. »
+pour « son application et conformément à la stratégie prévue à
+« l'article 2 bis ci-dessus. »
+« Article 64 (paragraphe 4). – La valeur estimative de
+« l'immeuble à échanger est fixée, selon chaque cas, par un
+« expert inscrit à l'ordre des experts accrédités en matière de
+« Habous. »
+« constituée Habous et que ledit échange concrétise un intérêt
+« manifeste au Habous. »
+« Article 73 (paragraphe 1). – Les échanges ……………….
+« concernée et dans ce dernier cas, les échanges en nature
+« peuvent être effectués par voie d'entente directe, lorsque la
+« nature et les caractéristiques de la chose constituée Habous
+« l'exigent, sous réserve des conditions prévues à l'article 72
+« ci-dessus. »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« Article 98 (paragraphe 1).  –  Les biens Habous agricoles
+« sont loués pour une durée n'excédant pas dix ans. »
+« Article 113. – Le revenu du Habous de famille est
+« partagé à parts égales entre les dévolutaires des deux sexes,
+«  à moins que le constituant n'en exige autrement, sous
+« réserve des dispositions de l'article 14 ci-dessus. »
+« Article 134. – Un budget annuel ………………………………
+«  pour son application. Doivent être observés lors de
+« l'élaboration dudit budget, les objectifs et contenus de
+« la stratégie prévue à l'article 2 bis ci-dessus, ainsi que la
+« crédibilité des estimations à la lumière des données de la
+« conjoncture économique et sociale.
+« Ledit budget doit, en outre, être élaboré sur la base
+« d'une programmation au moins triennale de la somme des
+« ressources et des dépenses. Les modalités d'élaboration de
+« ladite programmation sont fixées par arrêté de l'autorité
+« gouvernementale chargée des Habous. »
+« Article 138. –  Les ressources et les dépenses du budget
+« annuel  […texte non modifié…]  ou leur nature.
+« Les dépenses se présentent sous forme de programmes,
+« de projets et d'opérations. Une nomenclature budgétaire est
+« ainsi établie………………. de  l'autorité gouvernementale
+« chargée des Habous après avis du conseil supérieur du
+« contrôle des finances des Habous publics. »
+« Article 143. –  L'administration des Habous …………….
+« des finances des Habous publics, sous réserve des dispositions
+« de l'article 134 ci-dessus. De surcroît, les conditions suivantes
+« doivent être observées dans l'élaboration dudit projet de
+« budget, sous peine de non approbation :
+« – la règle de l'équilibre financier entre les recettes et
+« les dépenses ;
+« – l'introduction de l'ensemble des charges obligatoires
+« conformément aux textes régissant les Habous publics
+« en vigueur ;
+« – la conformité aux avis émis par le conseil supérieur
+« des Ouléma afférents aux Habous publics, ayant
+« trait aux préceptes de la charia, conformément aux
+« dispositions de l'article 158 ci-dessous.
+« Lorsque le conseil, pour l'une des raisons prévues
+« ci-dessus, n'approuve pas ledit projet du budget …………...
+« .des Habous.
+« Est fixée  […texte non modifié…]  ci-dessus.
+« En dehors des cas prévus ci-dessus, le conseil approuve
+« le budget avec la possibilité, le cas échéant, de joindre ses
+« observations et ses propositions à ladite approbation. »
+« Article 145. – Sous réserve des dispositions du dahir
+« n° 1-16-38 du 17 joumada I 1437 (26 février 2016) fixant les
+« attributions et l'organisation du ministère des Habous et des
+« affaires islamiques et des textes pris  […texte non modifié…]  en vigueur, de :
+« – l'observation …………………... des Habous publics ;
+« – ………………………………………………..;
+« – l'observation des textes relatifs à la passation des
+« marchés ;
+« – l'ordonnancement du recouvrement des recettes
+« relatives à l'ensemble des biens constitués Habous public
+« dont ils assurent la gestion. »
+«  Article 149. – Aucune modification ne peut être
+«  […texte non modifié…]  143 ci-dessus.
+« Toutefois, ……………………………... 141 ci-dessus.
+« Dans le cas …………………………. à une autre.
+« L'autorité gouvernementale chargée des Habous peut,
+« par décision, effectuer des  transferts de crédits entre les
+« programmes du même chapitre au budget  d'investissement,
+« pourvu que la somme des crédits objet desdits transferts
+«  n'excède pas, au cours de la même année, le plafond
+« de 10 % des affectations initialement inscrites au budget
+« d'investissement.
+« L'autorité gouvernementale chargée des Habous peut
+« également par décision, effectuer des transferts de crédits
+« entre les projets inscrits au même programme dans le budget
+« d'investissement, pourvu que la somme des crédits objet
+« desdits transferts  n'excède pas, au cours de la même année,
+« le plafond de 25 % des affectations imputées  à chaque projet
+« au titre de chaque année. »
+«  L'autorité gouvernementale chargée des Habous
+« avise le conseil de tout transfert ayant trait aux crédits
+« susmentionnés avant de l'exécuter. »
+« Article 150. – Au terme de chaque année budgétaire,
+« le contrôleur financier central, prévu à l'article 153 ci-après,
+« établit un compte des Habous relatif au bilan d'exécution
+« du budget annuel des Habous publics, soumis par l'autorité
+« gouvernementale chargée des Habous à l'approbation du
+« conseil supérieur du contrôle des finances des Habous publics
+« avant le 31 mars de l'année budgétaire suivante.
+« Le compte susmentionné comporte ………………au
+« titre de laquelle il est présenté.
+« Audit compte sont jointes les pièces suivantes :
+« – un rapport sur l'exécution du budget ;
+« – un état global de la situation de la trésorerie ;
+« – un rapport des mouvements des ressources humaines
+« relevant de l'administration des Habous ;
+« – un état des crédits annulés, le cas échéant ;
+« – un rapport sur l'exécution des crédits imprévus ;
+« – un état de conformité du compte du contrôleur
+« financier central au total des comptes des contrôleurs
+« locaux qui en relèvent.
+«  Ledit compte est également assorti d'un rapport
+« d'efficience d'exécution du budget, lequel est établi par
+« l'administration des Habous conformément aux dispositions
+« de l'article 166 bis du présent code. »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« Article 153. – Le contrôle …………………. affaires
+« islamiques.
+« Ledit contrôle est exercé ……………. financier central.
+« A cet effet,   […texte non modifié…] suivantes :
+« – S'assurer ………………………………... publics ;
+« – ……………………………………………………. ;
+« – vérifier la qualité de la personne habilitée à signer
+« les propositions d'engagement et d'ordonnancement
+« des dépenses ;
+«  – recouvrer les recettes, exécuter les dépenses et
+« contrôler les opérations y afférentes ;
+« – assurer le suivi de la situation des comptes dont ils
+« sont chargés d'effectuer le contrôle ;
+« – viser les propositions ………………………. en vigueur.
+« Les contrôleurs locaux, ……………………. suivantes :
+« – viser ……………………. pour son application ;
+« – participer ………………………. aux échanges ;
+« – recouvrer les ressources de toute nature, en assurer
+« le suivi et élaborer des états de synthèse mensuels et
+« annuels y afférents.
+(Le reste sans changement.)
+« Article 158. –  Le conseil se charge ………………………….
+« et l'accroissement de  leurs revenus, compte tenu des objectifs
+« et des principes prévus par la stratégie visée à l'article 2 bis
+« du présent code.
+« A cet effet,  […texte non modifié…]  suivantes :
+« – la réalisation sous ordre  […texte non modifié…]  à
+« Notre Majesté chérifienne ;
+« – l'élaboration de l'organisation financière et comptable
+« relative au budget, de la nomenclature des procédures
+« comptables et du règlement relatif aux marchés et leur
+« soumission à l'autorité gouvernementale chargée des
+« Habous pour adoption ;
+« – l'émission d'avis au sujet des projets de la nomenclature
+« du budget annuel des Habous publics ;
+« Chérifienne, sous réserve des dispositions de l'article 158 ter
+« et dont une copie est adressée […texte non modifié…]  islamiques ;
+« – l'émission d'avis  […texte non modifié…]  chargée des Habous ;
+« – la présentation  […texte non modifié…]  et l'accroissement
+« de leurs revenus.
+« Toutefois, les avis du conseil, pouvant nécessiter un
+« fondement légal pour les mettre en conformité avec les
+« préceptes et les finalités de la charia, doivent être soumis au
+« conseil supérieur des ouléma pour les examiner et émettre
+« un avis légal à leur sujet, lequel est notifié, pour adoption,
+« à l'autorité gouvernementale chargée des Habous et au
+« président du conseil supérieur du contrôle des finances des
+« Habous publics.
+« L'administration des Habous est tenue de se soumettre
+« auxdits avis. »
+« Article 159. – Le conseil est présidé ……………. Habous.
+« Outre son président, le conseil se compose de douze
+« membres désignés par dahir pour une durée de cinq ans
+« renouvelable une fois, parmi les personnalités dotées de
+« l'expérience, de la compétence, de la maîtrise en matière de
+« Habous, de droit, d'expertise comptable, d'audit, de gestion
+« financière et administrative et de marchés publics.
+« Le président est assisté par un secrétaire général,
+« désigné par dahir pour une durée de cinq ans renouvelable
+« une fois.
+(Le reste sans changement.)
+« Article 161. – Sont créées  […texte non modifié…]  de ses
+« missions, les commissions permanentes suivantes :
+« – la commission du budget ;
+« – la commission d'audit ;
+« – la commission d'études et de recherches.
+« Le conseil peut, …… […texte non modifié…] ……………… de questions
+« particulières.
+«  La composition, les attributions et le mode de
+« fonctionnement des commissions permanentes et provisoires
+« sont fixés dans le règlement intérieur du conseil. »
+
+*Entités :* `8 rabii I 1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `arrêté` (ARRETE), `17 joumada I 1437` (DATE_HIJRI), `26 février 2016` (DATE_GREGORIAN), `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `articles 13` → arrêté [✓]
+- `l'article 2` → arrêté [✓]
+- `l'article 72` → arrêté [✓]
+- `l'article 14` → arrêté [✓]
+- `l'article 2` → arrêté [✓]
+- `l'article 134` → arrêté [✓]
+- `l'article 158` → arrêté [✓]
+- `l'article 153` → arrêté [✓]
+- `l'article 166` → arrêté [✓]
+- `l'article 2` → arrêté [✓]
+- `l'article 158` → arrêté [✓]
+
+*Dates :* 8 rabii I 1431, 23 février 2010, 15 ramadan 1447, 17 joumada I 1437, 26 février 2016, 15 ramadan 1447
+
+
+## Article 2
+
+*Article 2*
+
+Les dispositions du dahir susvisé n° 1-09-236 du 8 rabii I
+1431 (23 février 2010) sont complétées, comme suit, par les
+articles 2 bis, 62 bis, 64 bis, 139 bis, 143 bis, 158 bis, 158 ter et
+166 bis :
+« Article 2 bis. – L'administration des Habous veille,
+« sous l'autorité de Notre ministre des Habous et des affaires
+« islamiques, à la gestion des Habous publics suivant une
+« stratégie établie à cet effet, basée sur un inventaire général
+« et détaillé des propriétés Habous et qui consiste à :
+« – fixer les objectifs à atteindre pour assurer la protection,
+« le développement, la revalorisation, la préservation du
+« Habous et le respect de ses finalités ;
+« – définir les moyens nécessaires à la concrétisation des
+« objectifs susmentionnés et à l'exécution des contenus
+« de ladite stratégie ;
+« – établir un calendrier précis pour l'exécution des
+« contenus de ladite stratégie ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« – instaurer le système de gouvernance à adopter pour
+« une exécution correcte de ladite stratégie avec tout ce
+« que cela implique en termes de modernisation des
+« modes de gestion du Habous, d'amélioration des
+« modes de son d'exploitation et de définition des
+« missions et des engagements des différents intervenants.
+«  Ladite stratégie est soumise à Notre Majesté
+« Chérifienne pour approbation.
+« L'administration susmentionnée est tenue de prendre
+« toutes les mesures nécessaires à l'élaboration des plans
+« d'action relatifs à l'exécution de ladite stratégie et leur
+« actualisation, le cas échéant. Dans ce cas, les modifications
+« à introduire dans ladite stratégie sont soumises à l'approbation
+« de Notre Majesté Chérifienne conformément aux mêmes
+« modalités prévues au précédent alinéa.
+« Est créée une commission mixte pour assurer le suivi
+« d'exécution de la stratégie prévue ci-dessus et de la réalisation
+« de ses objectifs, présidée par le ministre des Habous et des
+« affaires islamiques et le président du conseil supérieur du
+« contrôle des finances des Habous publics prévu à l'article
+« 157 du présent code.
+« Ladite commission qui comprend, outre son président,
+« deux représentants de l'administration des Habous et du
+« conseil susmentionné, se réunit au moins une fois tous les
+six « mois et chaque fois que nécessaire. »
+«  Article 62 bis. – Outre la soumission des biens
+« constitués Habous public aux actes juridiques prévus à
+« l'article 60 du présent code, l'administration des Habous peut
+« passer, au nom des Habous publics, des contrats et des
+« conventions de partenariat avec le secteur public ou privé
+« pour la réalisation de projets d'investissement ou de projets
+« sociaux générateurs de revenu, dans le but d'accroître les
+« revenus du Habous et de  contribuer à la réalisation du
+« développement économique et social.
+« Les contrats et les conventions susmentionnés doivent
+« être passés dans le cadre de programmes spéciaux ou de
+« programmes d'investissement annuels ou pluriannuels,
+« annoncés par l'autorité gouvernementale chargée des Habous
+« par tous les moyens disponibles et qui doivent respecter les
+« conditions suivantes :
+« – concrétiser l'intérêt du Habous ;
+« – que les objectifs à atteindre à travers les projets à
+«  réaliser dans le cadre du partenariat soient
+« minutieusement  définis conformément à un cahier
+« des charges établi à cet effet ;
+« – que tout contrat ou convention de partenariat soit
+«  assorti d'une étude de faisabilité comportant
+« notamment lesindications et les données estimatives
+« du projet, la part de contribution et les obligations
+« de chaque partie et la durée de réalisation du projet ;
+« qu'ils fixent les garanties relatives à la réalisation du
+« projet ;
+«  –  qu'ils définissent un mécanisme d'évaluation
+« périodique des différentes étapes de réalisation du
+« projet.
+« En outre, l'administration des Habous peut, dans le
+« cadre de contrats ou de conventions de partenariat, réaliser
+« des programmes d'investissement spéciaux entre les Habous
+« publics et l'Etat, conformément aux mêmes conditions
+« susmentionnées. »
+« Article 64 bis. – Sont fixées par arrêté conjoint de
+«  l'autorité gouvernementale chargée des Habous et du
+« président du conseil supérieur du contrôle des finances des
+« Habous publics, la liste des experts accrédités en matière
+« de Habous ainsi que les conditions et la procédure de leur
+« accréditation. »
+« Article 139 bis. – Une ligne spéciale est ouverte dans
+« la division relative aux dépenses de fonctionnement dans le
+« budget des Habous publics, dans laquelle sont introduites
+«  les allocations de réserve et les dépenses d'urgence et
+« imprévues, dans la limite de 10% du montant des dépenses
+« de fonctionnement inscrites au budget.
+«  Les virements de crédits à partir de la ligne
+« susmentionnée peuvent être entamés au cours de l'année,
+« dans le but de pourvoir à des besoins urgents ou imprévus
+« lors de l'élaboration du budget, après avis préalable du
+« conseil supérieur du contrôle des finances des Habous
+« publics. »
+« Article 143 bis. – Le projet de budget prévu à l'article
+« 143 ci-dessus est assorti des pièces suivantes :
+« – un exposé des fonds et des revenus Habous ;
+« – un rapport de l'évolution des crédits proposés pour
+« les dépenses liées aux  fonctionnaires ;
+« – des fiches techniques des projets d'investissement
+« Habous ;
+« – des états sur les comptes spéciaux ;
+«  – le projet annuel d'efficience, sous réserve des
+« dispositions de l'article 166 bis ci- après. »
+« Article 158 bis. – conformément aux dispositions de
+« l'article 158 du présent code, le  conseil doit, lors de son étude
+« du projet de budget qui lui est soumis par le ministère  des
+« Habous et des affaires islamiques, s'assurer que ledit projet
+« respecte les objectifs et  les contenus de la stratégie prévue à
+« l'article 2 bis ci-dessus.»
+«  Article 158 ter. – Avant qu'il ne soit porté à la
+« connaissance de Notre Majesté Chérifienne, le rapport
+« annuel relatif aux résultats d'audit de la situation de la
+« gestion financière des Habous publics doit être soumis à
+« l'autorité gouvernementale chargée des Habous afin qu'elle
+« formule ses observations et réponses, le cas échéant, dans
+« un délai n'excédant pas 30 jours de la date à laquelle il lui
+« est soumis.
+«  Le rapport susmentionné doit comporter les
+«  observations et les réponses suscitées par l'autorité
+« gouvernementale chargée des Habous. »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« Article 166 bis. – le projet annuel d'effciience et le rapport
+« d'efficience d'exécution du budget, prévus respectivement
+« aux articles 143 bis et 150 ci-dessus, doivent être soumis dans
+« un délai n'excédant pas trois ans de la date d'approbation de
+« la stratégie prévue à l'article 2 bis du présent code. »
+
+*Entités :* `8 rabii I
+1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `arrêté conjoint` (ARRETE), `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `articles 2` → arrêté conjoint [✓]
+- `l'article 60` → arrêté conjoint [✓]
+- `l'article 166` → arrêté conjoint [✓]
+- `l'article 158` → arrêté conjoint [✓]
+- `l'article 2` → arrêté conjoint [✓]
+- `articles 143` → arrêté conjoint [✓]
+- `l'article 2` → arrêté conjoint [✓]
+
+*Personnes :* Notre Majesté Chérifienne, Notre Majesté Chérifienne
+
+*Dates :* 8 rabii I 1431, 23 février 2010, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article 3
+
+*Article 3*
+
+Le présent Dahir sera publié au Bulletin officiel.
+Fait à Rabat, le 23 joumada II 1440 (1er mars 2019).
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6759 du 4 rejeb 1440 (11 mars 2019).
+
+*Entités :* `23 joumada II 1440` (DATE_HIJRI), `1er mars 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6759 du 4 rejeb 1440 (11 mars 2019)` (BULLETIN_OFFICIEL)
+
+*Dates :* 23 joumada II 1440, 1er mars 2019
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Sont fixées conformément aux
+dispositions prévues au présent arrêté, les mesures et les modalités
+d'organisation du courtage, de l'appel d'offres et de la procédure
+de l'entente directe relatives aux échanges en numéraire des biens
+constitués Habous.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2 –*
+
+Les mesures de courtage et d'appel d'offres
+relatives aux échanges en numéraire des biens constitués
+Habous sont entamées à l'initiative de l'administration des
+Habous.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les échanges en numéraire des biens constitués
+Habous ont lieu sur autorisation écrite du ministre des Habous
+et des affaires islamiques, sur proposition du Nadher des
+Habous du ressort territorial duquel dépend le bien constitué
+Habous ou sur demande écrite de toute partie intéressée, après
+approbation de la commission des transactions immobilières
+des Habous prévue à l'article 23 ci-après.
+
+*Citations :*
+
+- `l'article 23` → dahir n° 1-09-236 [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+Les échanges en numéraire des biens constitués
+Habous sont possibles dans les cas suivants :
+– lorsque l'utilité du bien constitué Habous cesse ou
+diminue considérablement ;
+–  lorsqu'il devient dans un état qui en empêche la
+jouissance ;
+– lorsque ses revenus ne couvrent plus les dépenses liées
+à son entretien et à sa préservation ;
+– lorsqu'il risque de s'effondrer ou menaçant ruine ;
+- lorsqu'il est en propriété commune en indivision;
+– lorsque l'intérêt des Habous l'exige.
+
+
+## Article 5
+
+*ART. 5. –*
+
+La commission des transactions immobilières
+des Habous s'assure de l'existence des cas de l'échange en
+numéraire des biens constitués Habous.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Les dispositions du présent arrêté s'appliquent
+aux échanges en numéraire des biens meubles et immeubles
+constitués Habous à l'exception des actions et des bons.
+Titre II
+Mesures de courtage
+
+*Entités :* `arrêté` (ARRETE)
+
+*Personnes :* Titre II
+
+
+
+## Article 7
+
+*ART. 7. –*
+
+Sont fixées comme suit, les mesures de courtage
+prévues à l'article premier ci-dessus :
+– la constitution du dossier de courtage ;
+– la publicité du courtage ;
+– l'organisation du courtage ;
+– l'approbation du résultat du courtage.
+
+
+## Article 8
+
+*ART. 8. –*
+
+Avant que tout bien constitué Habous ne soit
+soumis au courtage pour un échange en numéraire, un dossier
+doit être constitué à cet effet, comportant obligatoirement les
+pièces et les indications prévues à l'article 9 ci-après lorsque
+le bien constitué Habous objet de l'échange est un meuble ou
+celles prévues à l'article 10 ci-après lorsque ledit bien est un
+immeuble.
+
+*Citations :*
+
+- `l'article 9` → dahir n° 1-09-236 [✓]
+- `l'article 10` → dahir n° 1-09-236 [✓]
+
+
+## Article 9
+
+*ART. 9. –*
+
+Le dossier de courtage d'échange des biens
+meubles constitués Habous comporte ce qui suit :
+1- des copies des pièces justifiant leur caractère Habous ;
+2- une fiche des informations y afférentes ;
+3- une copie de la pièce fixant leur valeur estimative ;
+4- une copie de la pièce comportant l'approbation de
+l'échange, prévue à l'article 64 du dahir susvisé n° 1-09-236 ;
+5- une annonce d'organisation du courtage.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 64` → dahir n° 1-09-236 [✓]
+
+
+## Article 10
+
+*ART. 10. –*
+
+Le dossier de courtage d'échange des biens
+immeubles constitués Habous comporte, outre les pièces prévues
+à l'article 9 ci-dessus, un plan indiquant la localisation, les limites,
+la contenance et les contenants de l'immeuble constitué Habous
+à échanger, ainsi qu'une pièce indiquant la nature d'affection de
+l'immeuble objet du courtage dans les documents d'urbanisme.
+
+*Citations :*
+
+- `l'article 9` → dahir n° 1-09-236 [✓]
+
+
+## Article 11
+
+*ART. 11. –*
+
+L'annonce d'organisation du courtage doit
+comporter ce qui suit :
+a) les informations fixant le bien constitué Habous objet
+de l'échange, notamment :
+1- son genre, son état et son emplacement, lorsqu'il s'agit
+d'un meuble ;
+2- sa localisation, ses limites, sa contenance et ses
+contenants lorsqu'il s'agit d'un immeuble non immatriculé ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+3- le numéro de son titre foncier lorsque ledit bien est
+immatriculé ou le numéro de la demande d'immatriculation
+lorsqu'il est en cours d'immatriculation ;
+b) les horaires de consultation du bien constitué Habous
+par le public, lorsqu'il s'agit d'un bien construit ;
+c) le prix de lancement du courtage ;
+d) le lieu, la date et l'heure d'organisation du courtage ;
+e) l'invitation au public à la participation au courtage.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 12
+
+*ART. 12. –*
+
+L'annonce d'organisation du courtage fait
+l'objet d'une publicité par affcihage dans les locaux des services
+extérieurs du ministère des Habous et des affaires islamiques,
+se situant dans le ressort territorial de la région où se trouve le
+bien constitué Habous et par diffusion dans un ou plusieurs
+journaux nationaux, autorisés à publier les annonces légales
+et judiciaires pendant la durée prévue à l'article 13 ci-après.
+
+*Citations :*
+
+- `l'article 13` → dahir n° 1-09-236 [✓]
+
+
+## Article 13
+
+*ART. 13. –*
+
+L'annonce d'organisation du courtage fait
+l'objet d'une publicité par les moyens prévus à l'article 12 ci-
+dessus trois semaines au moins avant la date d'organisation.
+L'affichage de l'annonce et la publication dans le site
+électronique du ministère des Habous et des affaires islamiques
+durent pendant toute cette période.
+
+*Citations :*
+
+- `l'article 12` → dahir n° 1-09-236 [✓]
+
+
+## Article 14
+
+*ART. 14. –*
+
+Le courtage est organisé par une commission
+dénommée « commission locale des échanges », composée,
+outre le Nadher des Habous concerné ou son suppléant
+président, des membres suivants :
+– le chef du service de gestion des biens Habous ;
+– le chef du service d'investissement et de conservation
+des Habous ;
+– le chef du service des affaires financières ;
+–  le chef du service des affaires administratives et
+juridiques ;
+– un contrôleur financier local ;
+– un représentant de l'administration centrale du ministère
+des Habous et des affaires islamiques, le cas échéant.
+A défaut de constitution de la commission de certains
+desdits chefs de services ou à défaut de présence de certains
+d'entre eux, le Nadher des Habous charge ou désigne leurs
+suppléants parmi les fonctionnaires du Nédharat qu'il juge
+aptes.
+
+
+## Article 15
+
+*ART. 15. –*
+
+Le courtage se déroule dans le lieu et à la
+date et l'heure indiqués dans l'annonce prévue à l'article 11
+ci-dessus et débute par un rappel de son objet, son prix de
+lancement et des conditions de participation.
+
+*Citations :*
+
+- `l'article 11` → dahir n° 1-09-236 [✓]
+
+
+## Article 16
+
+*ART. 16. –*
+
+La participation au courtage est ouverte
+au public à condition que le participant s'acquitte, avant le
+lancement du courtage, d'une somme d'argent, en espèce
+ou par chèque certifié, en contrepartie des dépens et du
+cautionnement de sa participation au courtage.
+Les dépens sont fixés à trois pourcent de la valeur
+estimative du bien objet de l'échange et le cautionnement de
+participation au courtage à dix pourcent.
+Les renseignements fixant l'identité des personnes s'étant
+acquittés dudit prix et les numéros des récépissés justifiant
+le paiement sont contenus dans une liste annexée au procès-
+verbal prévu à l'article 18 ci-après.
+
+*Citations :*
+
+- `l'article 18` → dahir n° 1-09-236 [✓]
+
+
+## Article 17
+
+*ART. 17. –*
+
+Le courtage se déroule publiquement, par
+appel en langue arabe et par la présentation d'offres financières
+non inférieures, pour chaque offre, à deux pourcent du prix
+de lancement du courtage.
+
+
+## Article 18
+
+*ART. 18. –*
+
+Le président de la commission prévue à
+l'article 14 ci-dessus clôture le courtage par l'annonce de son
+attribution au plus offrant des enchérisseurs et l'élaboration
+d'un procès-verbal comportant obligatoirement ce qui suit :
+– les informations prévues aux alinéas (a), (b), (c) et (d)
+de l'article 11 ci-dessus ;
+– le prix de l'échange auquel le courtage a été attribué ;
+– les renseignements déterminant l'identité de la personne
+pour laquelle le courtage a été attribué ;
+– un aperçu des faits et des circonstances d'organisation
+du courtage, y compris le fait de paiement des deux
+sommes prévues à l'article 19 ci-après, et celui de
+la restitution des montants de cautionnement de
+participation au courtage aux participants.
+Le procès-verbal est signé par le président, les membres
+de la commission locale des échanges et le participant
+adjudicataire du courtage.
+
+*Citations :*
+
+- `l'article 14` → dahir n° 1-09-236 [✓]
+- `l'article 11` → dahir n° 1-09-236 [✓]
+- `l'article 19` → dahir n° 1-09-236 [✓]
+
+
+## Article 19
+
+*ART. 19. –*
+
+Dès attribution du courtage à l'enchérisseur, ce
+dernier s'acquitte des dépens et du montant de cautionnement
+en couverture d'engagement à son résultat, prévus à l'article 61
+du dahir susvisé n° 1-09-236.
+La valeur desdits dépens est fixée à un montant égal
+à trois pourcent du prix de l'échange et celle du montant de
+cautionnement en couverture d'engagement au résultat du
+courtage à un montant égal à dix pourcent du même prix.
+Lorsque l'enchérisseur refuse de payer, il n'a plus droit à
+la restitution des dépens et du montant de cautionnement de
+participation, prévus à l'article 16 ci-dessus, et il est interdit
+de participer au courtage en cas de réorganisation.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 61` → dahir n° 1-09-236 [✓]
+- `l'article 16` → dahir n° 1-09-236 [✓]
+
+
+## Article 20
+
+*ART. 20. –*
+
+Dès accomplissement des mesures prévues à
+l'article 18 ci-dessus, le président de la commission locale des
+échanges restitue les dépens et le montant de cautionnement
+de participation au courtage à tous les participants.
+
+*Citations :*
+
+- `l'article 18` → dahir n° 1-09-236 [✓]
+
+
+## Article 21
+
+*ART. 21. –*
+
+Le courtage est annulé dans les cas suivants :
+– lorsqu'il s'avère impossible de l'organiser ou de le
+poursuivre ;
+– lorsque le nombre de participants est inférieur à trois.
+
+
+## Article 22
+
+*ART. 22. –*
+
+En cas d'annulation, le courtage est réorganisé
+suivant les mêmes mesures prévues aux articles de 11 à 20
+ci-dessus.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 23
+
+*ART. 23. –*
+
+Le dossier du courtage des échanges est
+adressé, dans un délai de quinze jours de la date d'organisation
+du courtage, au service compétent à l'administration centrale
+du ministère des Habous et des affaires islamiques pour
+être soumis à une commission dénommée « commission
+des transactions immobilières des Habous » pour étude et
+évaluation du résultat du courtage.
+Sont fixés par décision du ministre des Habous et des
+affaires islamiques, la composition et le mode de fonctionnement
+de la commission des transactions immobilières des Habous.
+
+
+## Article 24
+
+*ART. 24. –*
+
+La commission des transactions immobilières
+des Habous procède à l'étude du dossier de l'échange du point
+de vue du respect des dispositions juridiques régissant l'échange
+des biens constitués Habous et s'assure, en particulier, de la
+validité des mesures et de la suffisance du prix de l'échange.
+Ladite commission peut, le cas échéant, proposer la
+non approbation du résultat du courtage pour violation d'une
+mesure procédurale ou son rejet pour insuffisance du prix.
+
+
+## Article 25
+
+*ART. 25. –*
+
+La commission des transactions immobilières
+des Habous émet ses propositions conformément aux
+modalités fixées par son règlement intérieur.
+Lesdites propositions sont contenues dans un procès-
+verbal signé par le président et les membres de la commission
+et soumis au ministre des Habous et des affaires islamiques
+pour examen.
+Titre III
+Procédure d'appel d'offres
+
+*Personnes :* Titre III
+
+
+
+## Article 26
+
+*ART. 26. –*
+
+La procédure d'appel d'offres de l'échange des
+biens constitués Habous comporte ce qui suit :
+– la constitution d'un dossier d'appel d'offres ;
+– la publicité de l'appel d'offres ;
+– l'examen, l'évaluation et l'approbation des offres.
+
+
+## Article 27
+
+*ART. 27. –*
+
+Avant de soumettre tout bien constitué Habous
+à la procédure d'appel d'offres pour échange en numéraire, un
+dossier doit être constitué à cet effet, comportant ce qui suit :
+– les pièces prévues aux alinéas 1, 2, 3, et 4 de l'article 9
+ci-dessus ;
+– le plan et la pièce prévus à l'article 10 ci-dessus, lorsque
+le bien objet de l'échange est un immeuble ;
+– une annonce d'appel d'offres.
+
+*Citations :*
+
+- `l'article 9` → dahir n° 1-09-236 [✓]
+- `l'article 10` → dahir n° 1-09-236 [✓]
+
+
+## Article 28
+
+*ART. 28. –*
+
+L'annonce d'appel d'offres doit contenir ce
+qui suit :
+–  les informations prévues aux alinéas (a) et (b) de
+l'article 11 ci-dessus ;
+– le lieu de consultation du dossier d'appel d'offres ;
+– le lieu de présentation ou de dépôt des offres ;
+– la durée de présentation des offres ;
+– les conditions de participation à la présentation des
+offres ;
+– la valeur estimative du bien constitué Habous ;
+– le lieu, la date et l'heure d'ouverture des offres.
+
+*Citations :*
+
+- `l'article 11` → dahir n° 1-09-236 [✓]
+
+
+## Article 29
+
+*ART. 29. –*
+
+L'annonce d'appel d'offres fait l'objet d'une
+publicité conformément aux mêmes modalités de publicité de
+l'annonce d'organisation du courtage et pour la même durée.
+
+
+## Article 30
+
+*ART. 30. –*
+
+Sont inscrits dans un registre ouvert à cet
+effet, les noms des personnes ayant consulté le dossier d'appel
+d'offres ainsi que les dates et les horaires de la consultation.
+
+
+## Article 31
+
+*ART. 31. –*
+
+Les offres sont présentées sous pli fermé
+portant le nom, l'adresse, le lieu de résidence ou le siège social
+du titulaire de l'offre et l'expression « A n'ouvrir que par le
+président de la commission locale des échanges ».
+Les offres sont déposées dans le lieu fixé dans l'annonce
+d'appel d'offres contre récépissé ou envoyées par voie postale
+recommandée avec accusé de réception.
+
+
+## Article 32
+
+*ART. 32. –*
+
+Les offres doivent comporter ce qui suit :
+– une demande datée, signée par le titulaire de l'offre et
+légalisée comportant le prix offert, pourvu qu'il ne soit
+pas inférieur à la valeur estimative du bien constitué
+Habous objet de l'appel d'offres ;
+– une copie certifiée conforme à l'original de la carte
+nationale d'identité du titulaire de l'offre ou de son
+représentant juridique lorsqu'il s'agit d'une personne
+morale ;
+– un chèque certifié en contrepartie des dépens de l'appel
+d'offres et du cautionnement de paiement.
+Les dépens de l'appel d'offres sont fixés à trois pourcent
+de la valeur de l'offre financière présentée et à dix pourcent
+pour le cautionnement de paiement.
+
+
+## Article 33
+
+*ART. 33. –*
+
+L'administration des Habous peut, le cas
+échéant, modifier les informations et les contenus du dossier
+d'appel d'offres par une annonce rectificative, à condition :
+– de procéder à la publicité de l'annonce rectificative par
+les mêmes moyens que ceux de la publicité de l'annonce
+d'appel d'offres et pour la même durée ;
+– d'en aviser les personnes ayant retiré des copies du
+dossier d'appel d'offres et dans la durée de la publicité
+de l'annonce rectificative.
+
+
+## Article 34
+
+*ART. 34. –*
+
+La commission locale des échanges, prévue à
+l'article 14 ci-dessus, tient une séance publique dans le lieu, la
+date et l'heure indiqués dans l'annonce d'appel d'offres pour
+l'examen des offres.
+Au début de la séance, le président de la commission
+donne lecture des noms des participants inscrits sur les plis
+prévus à l'article 31 ci-dessus qu'il enregistre dans une liste et
+ouvre les offres.
+La commission examine les offres du point de vue du
+respect des dispositions juridiques régissant l'échange des biens
+constitués Habous, s'assure en particulier de l'observation des
+conditions requises et de la validité des mesures et propose les
+offres à plus grande valeur.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Ladite commission peut, le cas échéant, proposer
+l'annulation de l'opération d'appel d'offres lorsqu'aucune offre
+n'est présentée, l'annulation de son résultat en cas de violation
+d'une mesure procédurale, son rejet pour insuffisance de l'offre
+ou solliciter les concurrents à offres égales de présenter de
+nouvelles offres non inférieures à la première, dans un délai
+de quinze (15) jours de la date de réception d'un avis qui leur
+est adressé en le sujet.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 14` → dahir n° 1-09-236 [✓]
+- `l'article 31` → dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 35
+
+*ART. 35. –*
+
+La commission locale des échanges émet
+ses propositions qu'elle consigne dans un procès-verbal
+comportant ce qui suit :
+– le bien constitué Habous objet de l'appel d'offres ;
+– les noms des concurrents ;
+–  les noms des concurrents éliminés et le motif
+d'élimination ;
+– les noms des concurrents admis et les montants de leurs
+offres ;
+– la valeur estimative du bien constitué Habous ;
+– la valeur financière de l'offre la plus élevée ;
+– le nom du concurrent ayant présenté l'offre la plus élevée.
+
+
+## Article 36
+
+*ART. 36. –*
+
+Une copie du dossier d'appel d'offres, de
+l'offre la plus élevée et du procès-verbal de la séance de la
+commission locale des échanges est adressée au service
+compétent à l'administration centrale du ministère des Habous
+et des affaires islamiques dans un délai de 15 jours de la date
+d'ouverture des offres afin d'être soumise à la commission des
+transactions immobilières des Habous.
+Ladite commission étudie lesdites pièces et émet ses
+propositions conformément aux mêmes modalités prévues
+aux articles 24 et 25 ci-dessus.
+
+*Citations :*
+
+- `articles 24 et 25` → dahir n° 1-09-236 [✓]
+
+
+## Article 37
+
+*ART. 37. –*
+
+Le résultat de l'appel d'offres fait l'objet d'une
+publicité, dans un délai de 20 jours de la date d'examen des
+propositions contenues dans le procès-verbal de la commission
+des transactions immobilières des Habous par le ministre des
+Habous et des affaires islamiques, à travers :
+– son affichage dans les locaux du ministère des Habous
+et des affaires islamiques et de la Nédharat des Habous
+concerné ;
+– sa publication, le cas échéant, dans le site électronique
+du ministère des Habous et des affaires islamiques.
+Titre IV
+Procédure de l'entente directe
+
+
+## Article 38
+
+*ART. 38. –*
+
+La procédure de l'échange en numéraire des
+biens constitués Habous par l'entente directe est ouverte en
+vertu d'une demande écrite de tout intéressé, adressée à la
+Nédharat des Habous concernée qui se charge de la soumettre
+au service compétent à l'administration centrale du ministère
+des Habous et des affaires islamiques.
+
+
+## Article 39
+
+*ART. 39. –*
+
+La demande prévue à l'article 38 ci-dessus
+doit répondre aux conditions suivantes :
+1- être datée, signée par le demandeur de l'échange et
+légalisée ;
+2- contenir le nom, prénom, adresse ou lieu de résidence
+du demandeur de l'échange ou son siège social lorsqu'il s'agit
+d'une personne morale ;
+3- comporter les informations fixant le bien constitué
+Habous à échanger prévues à l'alinéa (a) de l'article 11
+ci-dessus ;
+4- porter sur un bien constitué Habous qui correspond
+au cas lui permettant d'être échangé par entente directe,
+prévu au deuxième alinéa de l'article 61 du dahir susvisé
+n° 1-09-236 ;
+5- être présentée dans un délai d'un an de la date
+d'organisation du dernier courtage ou appel d'offres ;
+6- .que le demandeur y déclare sa volonté d'échanger le
+bien constitué Habous objet de la demande et qu'il y insère
+le prix offert en échange, pourvu que ledit prix ne soit pas
+inférieur à la valeur estimative du bien constitué Habous ;
+7- qu'elle soit assortie d'une copie certifiée conforme à
+l'original de la carte nationale d'identité du titulaire de l'offre
+ou de son représentant juridique lorsqu'il s'agit d'une personne
+morale ;
+8- qu'elle soit assortie d'un chèque certiféi en contrepartie
+des dépens de l'échange et du cautionnement de paiement.
+Les dépens de l'échange sont fixés à trois pourcent de la
+valeur du prix offert et à dix pourcent pour le cautionnement
+de paiement.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 38` → dahir n° 1-09-236 [✓]
+- `l'article 11` → dahir n° 1-09-236 [✓]
+- `l'article 61` → dahir n° 1-09-236 [✓]
+
+
+## Article 40
+
+*ART. 40. –*
+
+La demande de l'échange en numéraire du
+bien constitué Habous par entente directe est transmise,
+dans un délai de dix jours de la date de sa réception, au
+service compétent à l'administration centrale du ministère
+des Habous et des affaires islamiques pour être soumise à
+la commission des transactions immobilières des Habous
+qui s'assure du respect des dispositions juridiques régissant
+l'échange des biens constitués Habous, notamment celles
+relatives à l'organisation de l'échange et celles fixant le cas de
+possibilité d'échange par entente directe.
+
+
+## Article 41
+
+*ART. 41. –*
+
+La commission des transactions immobilières
+des Habous peut proposer l'approbation ou le refus de
+l'organisation de l'échange, pourvu que sa proposition soit
+motivée en cas d'approbation.
+La commission des transactions immobilières des
+Habous émet ses propositions et les consigne dans un procès-
+verbal conformément aux modalités prévues à l'article 25
+ci-dessus.
+
+*Citations :*
+
+- `l'article 25` → dahir n° 1-09-236 [✓]
+
+
+## Article 42
+
+*ART.  42.  –*
+
+La décision motivée d'organisation de
+l'échange en numéraire par entente directe, prévue à l'article
+61 du dahir susvisé n° 1-09-236, fait l'objet d'une publicité par
+affichage conformément à la modalité prévue à l'article 37 ci-
+dessus pour une durée de 15 jours et son contenu est notifié
+au demandeur de l'échange.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI), `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article
+61` → dahir n° 1-09-236 [✓]
+- `l'article 37` → dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 43
+
+*ART. 43. –*
+
+La demande d'échange en numéraire, prévue
+à l'article 38 ci-dessus, ainsi que les nouvelles demandes
+d'échange en numéraire qui peuvent être présentées au cours
+de la durée de publicité, prévue à l'article 42 ci-dessus, sont
+soumises à la commission des transactions immobilières des
+Habous pour examen, étude et proposition le cas échéant, de
+la demande comportant le prix le plus élevé.
+Dans ce cas, les dispositions de l'article 25 ci-dessus
+sont applicables.
+Titre V
+Dispositions diverses
+
+*Citations :*
+
+- `l'article 38` → dahir n° 1-09-236 [✓]
+- `l'article 42` → dahir n° 1-09-236 [✓]
+- `l'article 25` → dahir n° 1-09-236 [✓]
+
+
+## Article 44
+
+*ART. 44. –*
+
+Le Nadher des Habous, dans le ressort
+territorial duquel se trouvent les immeubles constitués Habous
+objet de l'échange, se charge de l'exécution des dispositions des
+articles 8, 12, 33, 27, 29, 30, 37 et 42 du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 8, 12, 33, 27, 29, 30, 37 et 42` → arrêté [✓]
+
+
+## Article 45
+
+*ART. 45. –*
+
+Le présent arrêté sera publié au Bulletin offciiel.
+Rabat, le 5 safar 1434 (19 décembre 2012).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013).
+
+*Entités :* `arrêté` (ARRETE), `5 safar 1434` (DATE_HIJRI), `19 décembre 2012` (DATE_GREGORIAN), `Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 safar 1434, 19 décembre 2012
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Les échanges en nature des biens
+constitués Habous s'opèrent par appel d'offres ou par la
+procédure de l'entente directe conformément aux dispositions
+prévues au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les dispositions du présent arrêté s'appliquent
+aux échanges en nature des biens immeubles constitués
+Habous et peuvent s'appliquer aux biens meubles constitués
+Habous, à l'exception des actions et des bons, dans les limites
+permises par la nature mobilière desdits biens.
+TITRE II
+Appel d'offres
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+La procédure des échanges en nature des
+immeubles constitués Habous par voie d'appel d'offres est
+ouverte à l'initiative de l'administration des Habous.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Il n'est possible de soumettre un immeuble
+constitué Habous à la procédure de l'échange en nature par
+voie d'appel d'offres que sur autorisation écrite du ministre
+des Habous et des affaires islamiques, sur proposition du
+Nadher des Habous du ressort territorial duquel dépend
+l'immeuble constitué Habous ou sur demande écrite de toute
+partie concernée et après approbation de la commission des
+transactions immobilières des Habous prévue à l'article 23 de
+l'arrêté susvisé n° 4139-12.
+
+*Entités :* `arrêté susvisé n° 4139-12` (ARRETE)
+
+*Citations :*
+
+- `l'article 23` → arrêté susvisé n° 4139-12 [✓]
+
+
+## Article 5
+
+*ART. 5. –*
+
+L'échange en nature de l'immeuble constitué
+Habous par voie d'appel d'offres n'est valable que dans les
+cas suivants :
+– lorsque l'utilité de l'immeuble constitué Habous cesse
+ou diminue considérablement ;
+– lorsqu'il devient dans un état qui en empêche la
+jouissance ;
+– lorsque ses revenus ne couvrent plus les dépenses liées
+à son entretien et à sa préservation ;
+– lorsqu'il risque de s'effondrer ou menaçant ruine ;
+– lorsqu'il est en propriété commune en indivision ;
+– lorsque l'intérêt des Habous l'exige.
+
+
+## Article 6
+
+*ART. 6. –*
+
+La commission des transactions immobilières
+des Habous, prévue à l'article 4 ci-dessus, s'assure de l'existence
+des cas de l'échange en nature des immeubles constitués
+Habous.
+
+*Citations :*
+
+- `l'article 4` → dahir n° 1-09-236 [✓]
+
+
+## Article 7
+
+*ART. 7. –*
+
+Avant d'entamer l'opération d'échange en
+nature des immeubles constitués Habous, un dossier doit être
+constitué à cet effet comportant ce qui suit :
+– des copies des pièces justifiant leur caractère Habous ;
+– une fiche des informations y afférentes ;
+– une copie de la pièce fixant leur valeur estimative ;
+– une copie de la pièce comportant l'approbation
+de l'échange, prévue à l'article 64 du dahir susvisé
+n° 1-09-236 ;
+– un plan indiquant la localisation, les limites, la
+contenance et les contenants de l'immeuble constitué
+Habous à échanger ;
+– une pièce indiquant la nature d'affection de l'immeuble
+objet de l'appel d'offres dans les documents d'urbanisme ;
+– une annonce d'appel d'offres.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 64` → dahir n° 1-09-236 [✓]
+
+
+## Article 8
+
+*ART. 8. –*
+
+L'annonce d'appel d'offres doit comporter ce
+qui suit :
+– la localisation, les limites, la contenance et les contenants
+de l'immeuble constitué Habous à échanger lorsqu'il est
+non immatriculé ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– le numéro de son titre foncier lorsqu'il est immatriculé
+ou le numéro de la demande d'immatriculation lorsqu'il
+est en cours d'immatriculation ;
+– les horaires de consultation du bien constitué Habous
+par le public, lorsqu'il s'agit d'un bien construit ;
+– les caractéristiques requises dans l'immeuble à échanger
+par le bien constitué Habous ;
+– l'invitation du public à présenter les offres de l'échange ;
+– la durée de la présentation des offres.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 9
+
+*ART.  9.  –*
+
+La durée de présentation des offres de
+l'échange en nature prend effet à compter du jour qui suit
+l'accomplissement des mesures prévues à l'article 10 ci-après.
+
+*Citations :*
+
+- `l'article 10` → dahir n° 1-09-236 [✓]
+
+
+## Article 10
+
+*ART. 10. –*
+
+L'appel d'offres fait l'objet d'une publicité
+par affichage pour une durée de trois semaines dans les
+locaux des services extérieurs du ministère des Habous et
+des affaires islamiques se situant dans le ressort territorial
+de la région abritant l'immeuble et par publication dans un ou
+plusieurs journaux à diffusion nationale, autorisés à publier
+les annonces légales et judiciaires.
+
+
+## Article 11
+
+*ART. 11. –*
+
+Une copie du dossier d'appel d'offres est
+mise à la disposition du public au siège de la Nédharat des
+Habous concernée pour consultation et ce, pendant la durée
+de présentation des offres prévue à l'article 8 ci-dessus.
+
+*Citations :*
+
+- `l'article 8` → dahir n° 1-09-236 [✓]
+
+
+## Article 12
+
+*ART. 12. –*
+
+Les offres de l'échange en nature sont déposées
+auprès de la Nédharat des Habous concernée contre récépissé.
+
+
+## Article 13
+
+*ART. 13. –*
+
+Les offres de l'échange en nature doivent
+comporter ce qui suit :
+1 - Une demande datée, signée par le titulaire de l'offre
+et légalisée par les autorités compétentes, dans laquelle
+l'intéressé certifie être en connaissance de l'immeuble
+constitué Habous objet de l'appel d'offres de l'échange
+en nature ;
+2 - Une copie certifiée conforme à l'original de la carte
+nationale d'identité du titulaire de l'offre ou de son
+représentant juridique lorsqu'il s'agit d'une personne
+morale ;
+3 - Une attestation extraite du titre foncier relatif à
+l'immeuble proposé à l'échange contre le bien constitué
+Habous, assortie d'un plan topographique indiquant sa
+localisation, ses limites, sa contenance et ses contenants ;
+4 - Une pièce indiquant la nature d'affectation de
+l'immeuble à échanger contre le bien constitué Habous
+dans les documents d'urbanisme ;
+5 - Un rapport d'expertise établi par un expert assermenté
+indiquant la valeur estimative dudit immeuble.
+Lesdites pièces doivent porter une date ultérieure à celle
+de la publication prévue à l'article 10 ci-dessus.
+
+*Citations :*
+
+- `l'article 10` → dahir n° 1-09-236 [✓]
+
+
+## Article 14
+
+*ART.  14.  –*
+
+Les offres de l'échange en nature sont
+enregistrées dans un registre spécial ouvert à cet effet selon la
+date de leur réception par la Nédharat des Habous concernée.
+
+
+## Article 15
+
+*ART. 15. –*
+
+Le dossier de l'échange en nature est soumis,
+dans un délai de quinze jours de la date d'expiration de la
+durée de la présentation des offres, au service compétent
+à l'administration centrale du ministère des Habous et des
+affaires islamiques afin d'être soumis à la commission des
+transactions immobilières des Habous prévue ci-dessus, pour
+étude, examen et évaluation des offres de l'échange.
+
+
+## Article 16
+
+*ART. 16. –*
+
+La commission des transactions immobilières
+des Habous procède à l'étude du dossier de l'échange du point
+de vue du respect des dispositions juridiques régissant l'échange
+des biens constitués Habous et s'assure, en particulier, de la
+validité des mesures, de la valeur estimative des immeubles
+à échanger contre les immeubles constitués Habous et de la
+disposition desdits immeubles des caractéristiques requises
+et propose les meilleures offres concrétisant le plus l'intérêt
+du Habous.
+Ladite commission peut, le cas échéant, proposer
+l'annulation du résultat de l'appel d'offres pour violation d'une
+mesure procédurale ou son rejet lorsqu'aucun des immeubles
+ne dispose des caractéristiques fixées dans l'appel d'offres
+ou lorsque leur valeur estimative est inférieure à celle de
+l'immeuble constitué Habous.
+
+
+## Article 17
+
+*ART. 17. –*
+
+La commission des transactions immobilières
+des Habous émet des propositions conformément aux
+modalités prévues à l'article 25 de l'arrêté du ministre des
+Habous et des affaires islamiques susvisé n° 4139-12.
+TITRE III
+Procédure de l'entente directe
+
+*Entités :* `arrêté du ministre des` (ARRETE), `arrêté du ministre des
+Habous et des affaires` (ARRETE)
+
+*Citations :*
+
+- `l'article 25` → arrêté du ministre des [✓]
+
+
+## Article 18
+
+*ART. 18. –*
+
+La procédure de l'échange en nature des
+immeubles constitués Habous par l'entente directe est entamée
+en vertu d'une demande écrite de tout intéressé, adressée à la
+Nédharat des Habous concernée qui se charge de la soumettre
+au service compétent à l'administration centrale du ministère
+des Habous et des affaires islamiques.
+
+
+## Article 19
+
+*ART. 19. –*
+
+La demande prévue à l'article 18 ci-dessus
+doit répondre aux conditions suivantes :
+1 - être datée, signée par le demandeur de l'échange et
+légalisée ;
+2 - porter sur un immeuble constitué Habous qui
+correspond au cas lui permettant d'être échangé par
+entente directe, prévu au deuxième alinéa de l'article 61
+du dahir susvisé n° 1-09-236 ;
+3- être présentée dans un délai d'un an de la date
+d'organisation du dernier courtage ou appel d'offres ;
+4 - porter l'indication de la localisation de l'immeuble
+constitué Habous à échanger, ses limites, sa contenance,
+ses contenants et le numéro de son titre foncier lorsqu'il
+est immatriculé ou le numéro de la demande de son
+immatriculation lorsqu'il est en cours d'immatriculation ;
+5 - être assortie des pièces prévues aux alinéas 2, 3, 4 et
+5 de l'article 13 ci-dessus.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI), `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 18` → dahir n° 1-09-236 [✓]
+- `l'article 61` → dahir n° 1-09-236 [✓]
+- `l'article 13` → dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 20
+
+*ART. 20. –*
+
+La demande de l'échange en nature des
+immeubles constitués Habous par entente directe est transmise,
+dans un délai de dix jours de la date de sa réception, au service
+compétent à l'administration centrale du ministère des Habous
+et des affaires islamiques pour être soumise à la commission
+des transactions immobilières des Habous qui s'assure du
+respect des dispositions juridiques régissant l'échange des biens
+constitués Habous, notamment celles relatives à l'organisation
+de l'échange et à la valeur estimative de l'immeuble à échanger
+contre l'immeuble constitué Habous ainsi que celles fixant le
+cas de possibilité d'échange par entente directe.
+
+
+## Article 21
+
+*ART. 21. –*
+
+La commission des transactions immobilières
+des Habous peut proposer l'approbation ou le refus de la
+demande d'échange, pourvu que sa proposition soit motivée
+en cas d'approbation.
+La commission des transactions immobilières des
+Habous émet ses propositions et les consigne dans un procès-
+verbal conformément aux modalités prévues à l'article 17
+ci-dessus.
+
+*Citations :*
+
+- `l'article 17` → dahir n° 1-09-236 [✓]
+
+
+## Article 22
+
+*ART.  22.  –*
+
+La décision motivée d'organisation de
+l'échange en nature par entente directe, prévue à l'article
+61 du dahir susvisé n° 1-09-236, fait l'objet d'une publicité
+par affichage, pour une durée de 15 jours, conformément à
+la modalité prévue à l'article 10 ci-dessus et son contenu est
+notifié au demandeur de l'échange.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article
+61` → dahir n° 1-09-236 [✓]
+- `l'article 10` → dahir n° 1-09-236 [✓]
+
+
+## Article 23
+
+*ART. 23. –*
+
+La demande d'échange en nature prévue à
+l'article 18 ci-dessus ainsi que les nouvelles demandes d'échange
+en nature qui peuvent être présentées durant la période de la
+publicité, prévue à l'article 22 ci-dessus, sont soumises à la
+commission des transactions immobilières des Habous pour
+étude, évaluation et proposition de la demande concrétisant
+le plus l'intérêt du Habous.
+Dans ce cas, les dispositions de l'article 17 ci-dessus sont
+applicables.
+TITRE IV
+Dispositions diverses
+
+*Citations :*
+
+- `l'article 18` → dahir n° 1-09-236 [✓]
+- `l'article 22` → dahir n° 1-09-236 [✓]
+- `l'article 17` → dahir n° 1-09-236 [✓]
+
+
+## Article 24
+
+*ART. 24. –*
+
+N'est pas admis, l'échange des immeubles
+constitués Habous contre des immeubles en propriété
+indivise, ne disposant pas d'accès à la voie publique, affectés
+à l'instauration d'installations publiques, objet d'occupation
+temporaire ou d'expropriation pour cause d'utilité publique,
+grevés de droits réels au profti des tiers ou qui correspondent
+à l'un des cas d'échange prévus à l'article 5 ci-dessus.
+
+*Citations :*
+
+- `l'article 5` → dahir n° 1-09-236 [✓]
+
+
+## Article 25
+
+*ART. 25. –*
+
+Le Nadher des Habous, dans le ressort
+territorial duquel se situent les immeubles constitués Habous
+objet de l'échange, est chargé de l'exécution des dispositions
+des articles 7, 8, 10, 11, 15 et 22 du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 7, 8, 10, 11, 15 et 22` → arrêté [✓]
+
+
+## Article 26
+
+*ART. 26. –*
+
+Après enregistrement de l'acte d'échange aux
+titres fonciers, les immeubles constitués Habous échangés
+sont rayés du registre des biens constitués Habous et sont
+enregistrés simultanément à leur place les immeubles dont
+la propriété est transmise aux Habous en vertu de l'acte
+d'échange et ce, conformément aux modalités prévues pour
+la gestion des biens constitués Habous.
+
+
+## Article 27
+
+*ART. 27. –*
+
+Les services centraux relevant du ministère
+des Habous et des affaires islamiques chargés de la gestion,
+la préservation et l'investissement des biens constitués
+Habous, sont avisés des échanges en nature des immeubles
+constitués Habous dès accomplissement de la radiation et de
+l'enregistrement prévus à l'article 26 ci-dessus.
+
+*Citations :*
+
+- `l'article 26` → dahir n° 1-09-236 [✓]
+
+
+## Article 28
+
+*ART. 28. –*
+
+Le présent arrêté sera publié au Bulletin
+officiel.
+Rabat, le 5 safar 1434 (19 décembre 2012).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013).
+
+*Entités :* `arrêté` (ARRETE), `5 safar 1434` (DATE_HIJRI), `19 décembre 2012` (DATE_GREGORIAN), `Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 safar 1434, 19 décembre 2012
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Sont fixés conformément aux
+dispositions du présent arrêté, les mesures et les modalités
+d'organisation du courtage, de l'appel d'offres et de la
+procédure de l'entente directe ainsi que les dépens de courtage
+et le montant de cautionnement en couverture d'engagement
+à son résultat, relatifs aux louages et aux ventes des produits
+des arbres, des récoltes et des matériaux de carrières, prévus
+à l'article 61 du dahir susvisé n° 1-09-236.
+
+*Entités :* `arrêté` (ARRETE), `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 61` → arrêté [✓]
+
+
+## Article 2
+
+*ART.  2  –*
+
+Les dispositions du présent arrêté sont
+applicables aux :
+– louages relatifs aux biens constitués Habous public ou
+mixte ;
+– ventes des produits des arbres, des récoltes et des
+produits de carrières appartenant aux Habous public
+ou mixte.
+Titre II
+Mesures de courtage
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les mesures de courtage prévues à l'article
+premier ci-dessus comprennent ce qui suit :
+– la constitution du dossier de courtage ;
+– la publicité du courtage ;
+– l'organisation du courtage.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 4
+
+*ART. 4. –*
+
+Avant l'annonce du courtage, un dossier doit
+être constitué à cet effet, comportant ce qui suit :
+– une fcihe comportant les indications déterminant le bien
+objet de louage ou de vente ;
+– un projet de contrat de louage ou de vente ;
+– le cahier de prescriptions prévu à l'article 76 du dahir
+susvisé n° 1-09-236 ;
+– l'annonce d'organisation du courtage.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 76` → dahir n° 1-09-236 [✓]
+
+
+## Article 5
+
+*ART. 5. –*
+
+L'annonce d'organisation du courtage doit
+comporter ce qui suit :
+1- le bien objet du courtage et l'objet du courtage ;
+2 - des informations sur le bien objet du courtage ;
+3- le prix de lancement du courtage ;
+4- la valeur des dépens ;
+5 - le montant de cautionnement en couverture
+d'engagement au résultat du courtage ;
+6- le lieu, la date d'organisation du courtage et l'heure
+de son ouverture ;
+7- l'invitation du public d'y participer.
+Toutefois, les dispositions des alinéas 3 et 5 du présent
+article ne sont pas applicables aux louages des biens agricoles
+et aux ventes des récoltes.
+
+
+## Article 6
+
+*ART. 6. –*
+
+L'annonce d'organisation du courtage fait l'objet
+d'une publicité par tous les moyens appropriés, notamment
+par affichage au siège de la Nédharat concernée.
+
+
+## Article 7
+
+*ART. 7. –*
+
+Le courtage a lieu après au moins quinze jours
+de la date de son annonce.
+En cas de publication dans les journaux, ledit délai se
+compte du lendemain de la parution du dernier journal où
+l'annonce est publiée.
+
+
+## Article 8
+
+*ART. 8. –*
+
+Le courtage est organisé par une commission
+dénommée « commission du courtage », composée outre
+le Nadher des Habous dans le ressort territorial duquel se
+trouve le bien objet du courtage ou son suppléant président,
+des membres suivants :
+– le chef du service de la gestion des biens constitués
+Habous à la Nédharat ou son suppléant ;
+– un fonctionnaire au moins de la Nédharat, désigné par
+le Nadher ;
+– un représentant de l'administration centrale du ministère
+des Habous et des affaires islamiques, le cas échéant.
+Ladite commission est visée ci-après par
+« la commission ».
+
+
+## Article 9
+
+*ART. 9. –*
+
+Le courtage se déroule dans le lieu, la date et
+l'heure fixés dans l'annonce prévue à l'article 5 ci-dessus et
+débute par un rappel de son lieu, objet, prix de lancement et
+conditions de participation et des dispositions y afférentes
+prévues au code des Habous, ainsi que des autres indications
+que la commission juge utiles.
+
+*Citations :*
+
+- `l'article 5` → dahir n° 1-09-236 [✓]
+
+
+## Article 10
+
+*ART. 10. –*
+
+La participation au courtage est ouverte au
+public et se déroule publiquement par voie d'enchères par
+appellation en langue arabe.
+
+
+## Article 11
+
+*ART. 11. –*
+
+Le courtage est clôturé par le président de la
+commission, par l'annonce de son attribution à l'enchérisseur
+ayant présenté la dernière offre la plus élevée et par l'élaboration
+d'un procès-verbal comportant ce qui suit :
+– l'objet du courtage ;
+– les indications déterminant le bien objet du courtage ;
+– le prix de lancement du courtage et le prix sur lequel les
+enchères se sont fixées ;
+– les renseignements déterminant l'identité de la personne
+pour laquelle le courtage est attribué ;
+– un aperçu des faits et des circonstances de l'organisation
+du courtage.
+Le procès-verbal est signé par le président, les membres
+de la commission de courtage et la personne pour laquelle les
+enchères sont attribuées.
+
+
+## Article 12
+
+*ART. 12. –*
+
+Le courtage est annulé dans les cas suivants :
+– à la survenue de faits ayant empêché son organisation ;
+– lorsque le nombre de participants est inférieur à deux.
+
+
+## Article 13
+
+*ART. 13. –*
+
+En cas d'annulation, le courtage est réorganisé
+selon les mêmes formalités prévues aux articles de 5 à 11
+ci-dessus.
+
+
+## Article 14
+
+*ART. 14. –*
+
+Tout participant au courtage de vente des
+produits forestiers ou des matériaux de carrières doit justifier
+qu'il réponde aux conditions professionnelles et qu'il dispose
+de la capacité technique et financière d'exploitation fixées dans
+l'annonce d'organisation du courtage.
+Titre III
+Procédure d'appel d'offres
+
+*Personnes :* Titre III
+
+
+
+## Article 15
+
+*ART.  15.  –*
+
+L'appel d'offres est organisé par une
+commission dénommée « commission d'appel d'offres
+», composée outre le Nadher des Habous concerné ou son
+suppléant, président, des membres prévus à l'article 8 ci-dessus.
+
+*Citations :*
+
+- `l'article 8` → dahir n° 1-09-236 [✓]
+
+
+## Article 16
+
+*ART. 16. –*
+
+La procédure d'appel d'offres prévue à l'article
+premier ci-dessus comporte ce qui suit :
+– la constitution du dossier d'appel d'offres ;
+– la publicité de l'appel d'offres ;
+– le dépôt, l'examen, l'évaluation et l'approbation des
+offres.
+
+
+## Article 17
+
+*ART. 17. –*
+
+Le dossier d'appel d'offres se compose des
+pièces prévues à l'article 4 ci-dessus.
+
+*Citations :*
+
+- `l'article 4` → dahir n° 1-09-236 [✓]
+
+
+## Article 18
+
+*ART. 18. –*
+
+Une copie du dossier d'appel d'offres est mise
+à la disposition du public pendant la durée de la présentation
+des offres pour consultation et pour le retrait d'une copie du
+cahier des prescriptions, prévu à l'article 4 ci-dessus.
+
+*Citations :*
+
+- `l'article 4` → dahir n° 1-09-236 [✓]
+
+
+## Article 19
+
+*ART. 19. –*
+
+L'annonce d'appel d'offres doit comporter ce
+qui suit :
+– les indications prévues à l'article 5 ci-dessus avec
+introduction de la finalité ;
+– le lieu de consultation du dossier d'appel d'offres ;
+– le lieu de présentation ou de dépôt des offres ;
+– la durée de présentation des offres ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– les conditions de participation à la présentation des
+offres ;
+– la valeur estimative du louage ou de la vente du bien
+objet de l'appel d'offres ;
+– le lieu, la date et l'heure d'ouverture des offres.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 5` → dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 20
+
+*ART. 20. –*
+
+L'annonce d'appel d'offres fait l'objet d'une
+publicité conformément aux mêmes modalités de publicité de
+l'annonce d'organisation du courtage et pour la même durée.
+
+
+## Article 21
+
+*ART. 21. –*
+
+Sont enregistrés, par ordre, dans un registre
+ouvert à cet effet, les noms des personnes ayant consulté le
+dossier d'appel d'offres ou en ayant retiré une copie ainsi que
+les dates et les horaires de consultations ou de retrait.
+
+
+## Article 22
+
+*ART. 22. –*
+
+Les offres sont présentées sous pli fermé
+portant le nom, l'adresse, le lieu de résidence ou le siège social
+du titulaire de l'offres, l'objet de l'appel d'offres et l'expression
+« A n'ouvrir que par le président de la commission d'appel
+d'offres ».
+
+
+## Article 23
+
+*ART. 23. –*
+
+Les offres doivent comporter ce qui suit :
+– une demande datée, signée par le titulaire de l'offre et
+légalisée, y exprimant sa volonté de participer à l'appel
+d'offres et comportant le prix offert, pourvu qu'il ne soit
+pas inférieur à la valeur estimative du louage ou de la
+vente du bien objet de l'appel d'offres ;
+– une copie certifiée conforme à l'original de la carte
+nationale d'identité du titulaire de l'offre ou de son
+représentant juridique lorsqu'il s'agit d'une personne
+morale ;
+– une copie de l'annonce d'appel d'offres ;
+– le cahier des prescriptions prévu à l'article 4 ci-dessus,
+signé et légalisé ;
+– les pièces et les documents à fournir, mentionnés dans
+l'annonce ;
+– un document signé par le titulaire de l'offre et légalisé,
+attestant sa consultation du bien objet de l'appel d'offres ;
+– un chèque certifié en contrepartie des dépens de l'appel
+d'offres et du cautionnement de paiement.
+
+*Citations :*
+
+- `l'article 4` → dahir n° 1-09-236 [✓]
+
+
+## Article 24
+
+*ART.  24.  –*
+
+Les plis contenant les offres, prévus à
+l'article 22 ci-dessus, sont déposés contre récépissé dans le
+lieu fixé dans l'annonce d'appel d'offres ou adressés au même
+lieu par voie postale recommandée avec accusé de réception.
+Lesdits plis sont enregistrés, selon leur date d'arrivée,
+dans un registre spécial tenu à cet effet. Le pli doit porter le
+numéro d'enregistrement et la date de son arrivée.
+Les plis doivent rester fermés jusqu'à leur ouverture par
+le président de la commission d'appel d'offres lors de la séance
+publique prévue à l'article 27 ci-après.
+
+*Citations :*
+
+- `l'article 22` → dahir n° 1-09-236 [✓]
+- `l'article 27` → dahir n° 1-09-236 [✓]
+
+
+## Article 25
+
+*ART. 25. –*
+
+Toute personne peut retirer le pli qu'elle a
+déposé et présenter un nouveau conformément aux conditions
+prévues à l'article 22 ci-dessus, à condition de présenter une
+demande écrite en le sujet, signée et légalisée, avant l'heure
+fixée pour la séance publique.
+La Nédharat enregistre, le cas échéant, dans le registre
+prévu à l'article 24 ci-dessus, la date et l'heure de retrait et de
+présentation de nouveaux plis.
+
+*Citations :*
+
+- `l'article 22` → dahir n° 1-09-236 [✓]
+- `l'article 24` → dahir n° 1-09-236 [✓]
+
+
+## Article 26
+
+*ART. 26. –*
+
+Il est possible, le cas échéant, de modifier les
+indications et les contenus du dossier d'appel d'offres dans
+une annonce rectificative qui fait l'objet d'une publicité par
+les mêmes moyens que ceux de l'annonce d'appel d'offres et
+pour la même durée.
+
+
+## Article 27
+
+*ART. 27. –*
+
+La commission d'appel d'offres tient une
+séance publique dans le lieu, la date et l'heure indiqués
+dans l'annonce d'appel d'offres, afin d'examiner les offres et
+s'assurer que les conditions requises dans l'annonce d'appel
+d'offres sont remplies.
+Au début de la séance, le président de la commission
+donne lecture des noms des concurrents inscrits sur les plis et
+en dresse une liste, ouvre lesdits plis et s'assure de la présence
+des pièces requises dans chaque pli.
+
+
+## Article 28
+
+*ART. 28. –*
+
+La commission d'appel d'offres procède à
+l'examen et à l'évaluation des offres du point de vue du respect
+des dispositions juridiques et s'assure, en particulier, qu'elles
+remplissent les conditions requises et de la validité des mesures
+et annonce les offres à plus grandes valeurs.
+Ladite commission doit, en cas d'égalité des offres
+financières à plus grandes valeurs, solliciter les concurrents
+concernés à présenter de nouvelles offres dans un délai de
+quinze (15) jours de la date de leur réception d'un avis adressé
+en le sujet.
+La même procédure prévue aux articles 22, 24 et 27
+ci-dessus est applicable aux nouvelles offres.
+La procédure d'appel d'offres est annulée par la
+commission en cas d'expiration du délai des quinze (15) jours
+sans qu'aucune offre ne soit présentée ou en cas de présentation
+plus d'une fois d'offres à valeur égale.
+
+*Citations :*
+
+- `articles 22, 24 et 27` → dahir n° 1-09-236 [✓]
+
+
+## Article 29
+
+*ART. 29. –*
+
+La commission d'appel d'offres émet ses
+propositions et les consigne dans un procès-verbal en deux
+exemplaires comportant ce qui suit :
+– le bien objet de l'appel d'offres ;
+– l'objet de l'appel d'offres ;
+– la valeur estimative du louage ou de la vente du bien
+objet de l'appel d'offres ;
+– les noms et offres financières des concurrents ;
+– les noms des concurrents éliminés et les motifs de ladite
+élimination ;
+– la valeur financière de l'offre la plus haute ;
+–  le nom du concurrent ayant présenté l'offre la plus haute ;
+– un aperçu des faits et des circonstances de la tenue de
+la séance publique de l'appel d'offres.
+Ledit procès-verbal est signé au cours de la séance par
+le président et les membres de la commission.
+
+
+## Article 30
+
+*ART. 30. –*
+
+La commission procède à l'élimination des
+concurrents dont les offres :
+– ne sont pas conformes à l'objet de l'appel d'offres ;
+– ne sont pas signées ou sont signées par des personnes
+non habilitées légalement à engager le concurrent ;
+– expriment des restrictions ou des réserves ;
+– manquent de l'une de pièces requises dans l'annonce ;
+– sont inférieures à la valeur estimative du louage ou de
+la vente du bien objet de l'appel d'offres.
+
+
+## Article 31
+
+*ART. 31. –*
+
+Une copie du dossier d'appel d'offres, de
+l'offre à plus haute valeur et du procès-verbal de la séance de la
+commission d'appel d'offres est adressée au service compétent
+relevant de l'administration centrale du ministère des Habous
+et des affaires islamiques dans un délai de quinze (15) jours
+de la date d'ouverture des offres, afin d'être soumise à une
+commission créée à cet effet dénommée la commission « des
+louages et des ventes relatifs aux Habous publics ».
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+La commission examine lesdites pièces et émet ses
+propositions conformément aux modalités fixées dans son
+règlement intérieur.
+Lesdites propositions sont contenues dans un procès-
+verbal signé par le président et les membres de la commission
+et sont soumises au ministre des Habous et des affaires
+islamiques pour en décider.
+La composition et le règlement intérieur de la commission
+sont fixés par décision du ministre des Habous et des affaires
+islamiques.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 32
+
+*ART. 32. –*
+
+Le résultat de l'appel d'offres fait l'objet d'une
+publicité par affichage au siège de la Nédharat des Habous
+concernée, dans un délai de vingt (20) jours de la date à laquelle
+le ministre des Habous et des affaires islamiques statue sur les
+propositions contenues dans le procès-verbal de la commission
+des louages et des ventes relatifs aux Habous publics.
+En cas d'approbation, ledit résultat est notifié à la
+personne concernée.
+Titre IV
+Procédure de l'entente directe
+
+*Personnes :* Titre IV
+
+
+
+## Article 33
+
+*ART. 33. –*
+
+La procédure de l'entente directe est entamée
+par une demande écrite de tout intéressé, présentée à la
+Nédharat des Habous concernée qui se charge de le soumettre
+au service compétent relevant de l'administration centrale du
+ministère des Habous et des affaires islamiques.
+
+
+## Article 34
+
+*ART. 34. –*
+
+La demande prévue à l'article 33 ci-dessus
+doit répondre aux conditions suivantes :
+– être datée, signée et légalisée ;
+– comporter le nom et prénom du demandeur, son adresse,
+lieu de résidence ou siège social lorsqu'il s'agit d'une
+personne morale ;
+– mentionner le bien objet de la demande et les indications
+qui le déterminent ;
+– porter sur un bien constitué Habous qui correspond
+au cas permettant l'organisation de l'entente directe,
+prévu à l'article 61 du dahir n° 1-09-236 du 8 rabii I 1431
+(23 février 2010) portant code des Habous ;
+– être présentée dans un délai d'un an de la date
+d'organisation du dernier courtage ou appel d'offres ;
+– contenir le montant proposé par la personne concernée ;
+– être assortie d'une copie certifiée conforme à l'original
+de la carte nationale d'identité du demandeur ou de son
+représentant juridique lorsqu'il s'agit d'une personne
+morale.
+
+*Entités :* `dahir n° 1-09-236` (DAHIR), `8 rabii I 1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `l'article 33` → dahir n° 1-09-236 [✓]
+- `l'article 61` → dahir n° 1-09-236 [✓]
+
+*Dates :* 8 rabii I 1431, 23 février 2010
+
+
+## Article 35
+
+*ART. 35. –*
+
+La demande prévue à l'article 33 ci-dessus
+est adressée, dans un délai de dix (10) jours de la date de sa
+réception, au service compétent relevant de l'administration
+centrale du ministère des Habous et des affaires islamiques,
+afin d'être soumise à la commission des louages et des ventes
+relatifs aux Habous publics qui s'assure du respect des
+dispositions juridiques, notamment celles relatives au louage
+des biens constitués Habous public ou mixte et aux ventes
+des récoltes périssables et celles fixant le cas permettant leur
+louage ou leur vente par entente directe.
+
+*Citations :*
+
+- `l'article 33` → dahir n° 1-09-236 [✓]
+
+
+## Article 36
+
+*ART. 36. –*
+
+La commission des louages et des ventes
+relatifs aux Habous publics peut proposer l'approbation ou
+le refus d'organisation de l'entente directe, pourvu que sa
+proposition soit motivée en cas d'approbation.
+Ladite commission émet ses propositions, les consigne
+dans un procès-verbal et les soumet au ministre des Habous
+et des affaires islamiques pour en décider et ce, conformément
+aux modalités prévues à l'article 31 ci-dessus.
+
+*Citations :*
+
+- `l'article 31` → dahir n° 1-09-236 [✓]
+
+
+## Article 37
+
+*ART. 37. –*
+
+La décision motivée d'organisation de l'entente
+directe, prévue à l'article 61 du dahir susvisé n° 1-09-236, fait
+l'objet d'une publicité par affichage au siège de la Nédharat
+concernée pour une durée de quinze (15) jours. Son contenu
+est notifié au demandeur.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 61` → dahir n° 1-09-236 [✓]
+
+
+## Article 38
+
+*ART. 38. –*
+
+Après expiration de la durée de publicité
+prévue à l'article 37 ci-dessus, la demande d'organisation de
+l'entente directe est soumise à la commission des louages et
+des ventes relatifs aux Habous publics pour examen et étude
+et ce, tant que de nouvelles demandes ne sont pas présentées
+au cours de ladite durée.
+La commission émet ses propositions et les consigne
+dans un procès-verbal signé par son président et ses membres
+et les soumet au ministre des Habous et des affaires islamiques
+pour en décider.
+
+*Citations :*
+
+- `l'article 37` → dahir n° 1-09-236 [✓]
+
+
+## Article 39
+
+*ART. 39. –*
+
+En cas de présentation de nouvelles offres,
+le bien objet de la demande, prévue à l'article 33 ci-dessus,
+est soumis au courtage ou subit la procédure d'appel d'offres
+prévue aux titres II et III du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 33` → arrêté [✓]
+
+
+## Article 40
+
+*ART. 40. –*
+
+Les dispositions des articles 37, 38 et 39 ci-
+dessus ne sont pas applicables à la procédure de l'entente
+directe relative aux ventes des récoltes périssables.
+Titre V
+Dispositions diverses
+
+*Citations :*
+
+- `articles 37, 38 et 39` → dahir n° 1-09-236 [✓]
+
+
+## Article 41
+
+*ART. 41. –*
+
+Les dépens du courtage et de l'entente directe
+sont fixés à cinq pourcent (5%) de la redevance locative ou du
+prix de la vente et à un montant égal à celui sur lequel s'est fixé
+le courtage pour le montant de cautionnement en couverture
+d'engagement au résultat du courtage.
+Les dépens de l'appel d'offres sont fixés à cinq pourcent
+(5%) de la valeur de l'offre financière présentée et à un
+montant égal à la valeur de ladite offre pour le montant du
+cautionnement de paiement.
+
+
+## Article 42
+
+*ART. 42. –*
+
+Le montant prévu à l'article 41 ci-dessus est
+payable, contre récépissé, en numéraire ou par chèque certifié.
+Le non-paiement dudit montant entraine le refus de
+participation au courtage en cas de réorganisation.
+
+*Citations :*
+
+- `l'article 41` → dahir n° 1-09-236 [✓]
+
+
+## Article 43
+
+*ART.  43.  –*
+
+Le Nadher des Habous, dans le ressort
+territorial duquel se trouvent les biens constitués Habous objet
+de louage ou de vente, se charge de l'exécution des dispositions
+des articles 4, 5, 6, 13, 17, 18, 19, 20, 21, 24, 25, 26, 31, 32, 35, 37
+et 39 du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 4, 5, 6, 13, 17, 18, 19, 20, 21, 24, 25, 26, 31, 32, 35, 37
+et 39` → arrêté [✓]
+
+
+## Article 44
+
+*ART. 44. –*
+
+Le présent arrêté sera publié au Bulletin
+officiel.
+Rabat, le 27 joumada I 1434 (8 avril 2013).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `27 joumada I 1434` (DATE_HIJRI), `8 avril 2013` (DATE_GREGORIAN), `Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 27 joumada I 1434, 8 avril 2013, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER.*
+
+–Sont fixées tel qu'il est indiqué au
+cahier de prescriptions annexé au présent arrêté, les modalités
+de vente des produits des arbres appartenant aux Habous publics
+et aux Habous mixtes.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 27 joumada I 1434 (8 avril 2013).
+AHMED TOUFIQ.
+*
+cahier de prescriptions de vente des produits des arbres
+appartenant aux Habous publics at aux Habous mixtes
+TITRE PREMIER
+CONDITIONS GÉNÉRALES
+
+*Entités :* `arrêté` (ARRETE), `27 joumada I 1434` (DATE_HIJRI), `8 avril 2013` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 27 joumada I 1434, 8 avril 2013
+
+
+## Article premier
+
+*Article premier*
+
+Les produits des arbres appartenant aux Habous publics
+et aux Habous mixtes se vendent conformément aux modalités
+et conditions prévues aux articles ci-après.
+
+
+## Article 2
+
+*Article 2*
+
+Les modalités et les conditions contenues dans le présent
+cahier s'appliquent aux produits des arbres secs utilisés comme
+bois de chauffage, aux produits des arbres vivants utilisés en
+tant que bois et aux autres produits des arbres appartenant
+aux Habous publics ou aux Habous mixtes.
+
+
+## Article 3
+
+*Article 3*
+
+La vente des produits des arbres par voie de courtage
+ou d'appel d'offres s'opère conformément aux dispositions
+en la matière, prévues au dahir n° 1-09-236 du 8 rabii I 1431
+(23 février 2010) portant code des Habous et aux textes pris
+pour son application. Par sa participation aux formalités
+de leur vente, l'acquéreur desdits produits est réputé être en
+connaissance de leur emplacement et informé de leur état,
+nombre, type et de toutes les spécificités qui les caractérisent.
+
+*Entités :* `dahir n° 1-09-236` (DAHIR), `8 rabii I 1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN)
+
+*Dates :* 8 rabii I 1431, 23 février 2010
+
+
+## Article 4
+
+*Article 4*
+
+Les Habous publics ne garantissent pas l'acquéreur du
+trouble matériel que des tiers apportent par voie de fait au
+moment de l'exploitation et de l'exécution du contrat sans
+qu'ils ne prétendent à un quelconque droit sur les produits.
+Par ailleurs, les Habous publics ne lui garantissent pas le
+recours juridique opéré par l'Etat, les collectivités locales ou
+les personnes de droit commun à cause de sa violation des
+lois et des règlements en vigueur ou de son manquement aux
+obligations prévues au présent cahier.
+
+
+## Article 5
+
+*Article 5*
+
+La propriété des produits des arbres se transmet à
+l'acquéreur à compter de la date de la conclusion du contrat,
+lequel est, à compter de ladite date, tiers dépositaire ayant à
+sa charge les conséquences de leur dépérissement.
+
+
+## Article 6
+
+*Article 6*
+
+L'acquéreur des produits des arbres garantit l'application
+des dispositions prévues à la législation forestière et doit, à
+cet effet, obtenir les autorisations et prendre les mesures
+nécessaires à l'exécution du contrat de vente. L'administration
+des Habous n'est nullement responsable de son manquement
+à ladite obligation.
+TITRE II
+MODALITÉS DE DÉSIGNATION DES PRODUITS DES ARBRES
+OBJET DE VENTE
+
+
+## Article 7
+
+*Article 7*
+
+Les produits des arbres objet de vente sont désignés
+par localisation et indication de leur nombre et genre et le
+cas échéant, par leur marquage par marteau, peinture ou
+égratignure.
+Les arbres non désignés ou non marqués suivant ladite
+méthode sont maintenus et ne sont pas inclus dans l'opération
+de vente.
+
+
+## Article 8
+
+*Article 8*
+
+La désignation des produits des arbres par localisation
+et indication de leur nombre et genre est contenue dans :
+– l'annonce du courtage ou d'appel d'offres de vente des
+produits des arbres ;
+– le procès-verbal du déroulement du courtage ou
+d'ouverture des offres ;
+– le contrat conclu avec l'acquéreur.
+
+
+## Article 9
+
+*Article 9*
+
+Les Habous publics ne garantissent aucune diminution
+du nombre d'arbres, leur genre, ou qualité ainsi que leurs vices
+cachés.
+En cas de diminution ou d'augmentation du nombre
+d'arbres excédant dix pourcent (10%) du nombre total, chaque
+partie du contrat peut se rétracter uniquement sur le prix à
+proportion de la diminution ou de l'augmentation, sans droit
+à la résiliation du contrat.
+TITRE III
+CONDITIONS FINANCIÈRES
+
+
+## Article 10
+
+*Article 10*
+
+En sus du prix, des dépens et du montant de
+cautionnement en couverture d'engagement au résultat du
+courtage ou du montant de cautionnement d'acquittement,
+l'acquéreur s'acquitte d'un montant de cautionnement en
+satisfaction des obligations prévues aux articles 19 et 21 ci-
+après.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `articles 19 et 21` → dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 11
+
+*Article 11*
+
+L'acquéreur s'engage de s'acquitter des droits
+d'enregistrement et de timbre conformément à la législation
+en vigueur.
+
+
+## Article 12
+
+*Article 12*
+
+Sont à la charge de l'acquéreur, les frais et dépenses de :
+– découpage ou déracinement des arbres ;
+– leur évacuation ou transport en dehors du site.
+TITRE IV
+CONDITIONS D'EXPLOITATION
+
+
+## Article 13
+
+*Article 13*
+
+L'opération d'exploitation doit être menée avec diligence,
+selon les procédés adoptés dans l'exploitation des produits
+forestiers relevant de l'Etat, après l'obtention des autorisations
+et des permis légalement requis et sans porter préjudice aux
+installations, plantations et autres arbres non inclus dans
+l'opération de vente.
+
+
+## Article 14
+
+*Article 14*
+
+L'acquéreur doit, sous peine de suspension des travaux,
+exécuter le contrat par l'une des méthodes suivantes :
+- le découpage des arbres par une scie et selon les méthodes
+adoptées dans le découpage des produits forestiers
+appartenant à l'Etat, lorsqu'il s'agit de produits d'arbres
+vivants ;
+- le déracinement des arbres en préservant leurs racines
+ou leur déracinement avec les racines, lorsqu'il s'agit de
+produits d'arbres acquis en tant que bois de chauffage.
+
+
+## Article 15
+
+*Article 15*
+
+Les arbres peuvent être découpés tout au long de l'année.
+Concernant les arbres forestiers, les périodes fixées
+dans la législation forestière pour le découpage de chaque
+type d'arbres doivent être prises en considération.
+
+
+## Article 16
+
+*Article 16*
+
+Lorsque les arbres sont situés sur un terrain Habous,
+leurs produits sont évacués par les voies et les chemins
+disponibles. Il n'est possible d'y ouvrir de nouveaux passages
+et d'accès que sur autorisation des Habous publics.
+En cas de pluralité de voies et de chemins, les produits
+sont transportés à travers la voie la plus courte menant à la
+voie publique ou à travers la voie indiquée dans le contrat.
+
+
+## Article 17
+
+*Article 17*
+
+Lorsque les produits objet de la vente sont situés sur un
+terrain appartenant à autrui ou sur un terrain Habous n'ayant
+pas accès à la voie publique, l'administration des Habous n'est
+pas responsable de fournir des voies et des passages pour le
+transport ou l'évacuation desdits produits du site.
+
+
+## Article 18
+
+*Article 18*
+
+Le lot de terrain où se trouvent les produits des arbres
+ne peut être exploité en tant que chantier pour l'acquéreur ou
+entrepôt de ses produits.
+
+
+## Article 19
+
+*Article 19*
+
+L'acquéreur doit débarrasser le site des restes d'arbres,
+aplanir le terrain et le rétablir à l'état où il se trouvait au
+moment où il a entamé l'exécution du contrat.
+
+
+## Article 20
+
+*Article 20*
+
+L'acquéreur ne doit pas :
+– faire usage du feu ou établir des pompes sur le site ;
+– introduire du bétail ou des animaux sur le site, autres
+que ceux employés en remorque ou pour porter les
+objets lourds.
+
+
+## Article 21
+
+*Article 21*
+
+A l'expiration de la durée du contrat, l'acquéreur remet
+le site ou le lot de terrain Habous aux Habous publics, libre
+de toute occupation, sou peine d'indemnisation fixée dans le
+contrat conclu avec lui.
+TITRE V
+OBLIGATIONS DIVERSES
+
+
+## Article 22
+
+*Article 22*
+
+Le cautionnement prévu à l'article 10 ci-dessus n'est
+restituable qu'après vérification par la Nédharat des Habous
+concernée de l'exécution des obligations prévues aux articles
+19 et 21 ci-dessus.
+
+*Citations :*
+
+- `l'article 10` → dahir n° 1-09-236 [✓]
+- `articles
+19 et 21` → dahir n° 1-09-236 [✓]
+
+
+## Article 23
+
+*Article 23*
+
+A chaque fois qu'il s'agisse de vente de produits d'arbres
+forestiers, l'acquéreur doit, conformément à la législation en
+vigueur, souscrire à un contrat d'assurance contre les risques
+liés à l'exécution du contrat, relatifs aux accidents de travail
+encourus par le personnel ou aux préjudices pouvant affecter
+les tiers.
+
+
+## Article 24
+
+*Article 24*
+
+Lors de l'exécution du contrat, l'acquéreur s'engage à
+recruter des salariés et des employés conformément aux lois
+et règlements en vigueur en matière de travail.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont fixées conformément aux
+dispositions prévues au présent arrêté, la forme, les modalités
+d'émission des bons Habous et la formule d'y souscrire, ainsi
+que les modalités de collecte des dons en numéraire et en
+nature pour la réalisation de projets à caractère religieux,
+scientifique ou social.
+TITRE II
+BONS HABOUS
+Section première. – Forme des bons Habous
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2 –*
+
+La forme des bons Habous est fixée comme suit :
+– être imprimés sur papier ;
+– rédigés en langue arabe ;
+– être de forme rectangulaire de taille 18 cm sur 9 cm.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les bons Habous comporte obligatoirement
+les indications suivantes :
+– la dénomination « bon Habous » ;
+– la dénomination « Habous publics » en tant que partie
+supervisant l'opération de souscription aux bons
+Habous ;
+– le nom du projet à caractère religieux, scientifique ou
+social à financer par le biais des bons Habous ;
+– le numéro du bon Habous ;
+– la valeur du bon Habous ;
+– le sceau de l'administration des Habous ;
+– la teneur du premier paragraphe de l'article 140 du code
+des Habous
+
+*Citations :*
+
+- `l'article 140` → dahir n° 1-09-236 [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le nombre de bons Habous est fixé selon le
+coût du projet et la valeur nominative du bon.
+Des numéros de série sont attribués aux bons Habous en
+fonction du nombre de bons Habous proposés à la souscription.
+
+
+## Article 5
+
+*ART. 5. –*
+
+Les bons Habous peuvent être à valeur égale
+ou inégale.
+
+
+## Article 6
+
+*ART. 6. –*
+
+La période de souscription aux bons Habous
+ne peut être ultérieure à la date d'achèvement de la réalisation
+du projet prévu à l'article 3 ci-dessus.
+Section 2. – Modalités d'émission des bons Habous
+
+*Citations :*
+
+- `l'article 3` → dahir n° 1-09-236 [✓]
+
+
+## Article 7
+
+*ART. 7. –*
+
+Les bons Habous sont émis par décision de
+l'autorité gouvernementale chargée des Habous comportant
+les indications suivantes :
+1- le fondement juridique de l'opération de souscription ;
+2- l'objectif du projet à financer par le biais de bons
+Habous ;
+3- la partie bénéficiaire du projet, le cas échéant ;
+4- le coût du projet ;
+5- le montant global à recouvrer par la souscription aux
+bons Habous ;
+6- le nombre de bons Habous proposés à la souscription ;
+7- la valeur nominative du bon ;
+8- la date de début et de fin de la souscription ;
+9- la commission supervisant la souscription, prévue à
+l'article 10 ci-après ;
+10- les parties chargées de la répartition des bons Habous.
+
+*Citations :*
+
+- `l'article 10` → dahir n° 1-09-236 [✓]
+
+
+## Article 8
+
+*ART. 8. –*
+
+La commission supervisant la souscription
+aux bons Habous peut, le cas échéant, en proroger la durée.
+
+
+## Article 9
+
+*ART. 9. –*
+
+La décision d'émission des bons Habous fait
+l'objet d'une publicité par tous les moyens, notamment par
+affichage dans les édifices affectés au culte musulman et dans
+les locaux des services centraux et extérieurs du ministère des
+Habous et des affaires islamiques et par sa publication dans
+deux journaux au moins à diffusion nationale, autorisés à
+publier les annonces légales et judiciaires.
+Il est possible, le cas échéant, de procéder à la publication
+auprès des ressortissants marocains résidant à l'étranger en
+coordination avec les parties compétentes.
+
+
+## Article 10
+
+*ART.  10.  –*
+
+La souscription aux bons Habous est
+supervisée par une commission composée, outre le directeur
+des Habous ou son suppléant président, des membres suivants :
+– un membre du Conseil supérieur des Ouléma ;
+–  un expert-comptable inscrit à l'ordre des experts
+comptables ;
+– deux Adoul légalement habilités ;
+– deux Nadher des Habous.
+Les membres de la commission sont désignés par
+décision de l'autorité gouvernementale chargée des Habous
+sur proposition du directeur des Habous.
+La commission peut se faire assister dans
+l'accomplissement de ses missions par toute personne qu'elle
+juge utile.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Section 3. – Formule de souscription aux bons Habous
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* Conseil supérieur des Ouléma
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 11
+
+*ART. 11. –*
+
+Les bons Habous sont remis contre récépissé
+aux parties chargées de leur répartition.
+Au premier jour de la durée de souscription, les bons
+Habous sont soumis au public pour souscription, le reste est
+retiré, le cas échéant, au lendemain du dernier jour de ladite
+durée, à moins que la commission prévue à l'article 10 ci-
+dessus ne prévoie de prolonger la durée de souscription.
+
+*Citations :*
+
+- `l'article 10` → dahir n° 1-09-236 [✓]
+
+
+## Article 12
+
+*ART. 12. –*
+
+La commission arrête les montants recouvrés
+de l'opération de souscription et procède à leur dépôt dans un
+compte spécial créé conformément aux modalités prévues à
+l'article 139 du dahir susvisé n° 1-09-236.
+
+*Entités :* `arrête` (ARRETE), `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 139` → arrête [✓]
+
+
+## Article 13
+
+*ART. 13. –*
+
+Les faits et le bilan financier de l'opération de
+souscription aux bons Habous sont consignés dans un procès-
+verbal signé par le président et les membres de la commission
+supervisant la souscription.
+Une copie du procès-verbal est adressée au conseil
+supérieur du contrôle des finances des Habous publics.
+TITRE III
+COLLECTE DES DONS EN NUMÉRAIRE ET EN NATURE
+
+
+## Article 14
+
+*ART.  14.  –*
+
+Les opérations de collecte des dons en
+numéraire et en nature sont ouvertes par décision de l'autorité
+gouvernementale chargée des Habous.
+
+
+## Article 15
+
+*ART. 15. –*
+
+Sont contenues dans la décision d'ouverture
+des opérations de collecte des dons en numéraire et en nature,
+outre la partie chargée de la réception desdits dons, les
+indications prévues aux alinéas 1, 2, 3, 4, 5, 8 et 9 de l'article
+7 ci-dessus.
+
+*Citations :*
+
+- `l'article
+7` → dahir n° 1-09-236 [✓]
+
+
+## Article 16
+
+*ART. 16. –*
+
+Les dispositions prévues aux articles 8, 9, 10,
+12 et 13 ci-dessus sont applicables aux opérations de collecte
+des dons en numéraire et en nature.
+
+*Citations :*
+
+- `articles 8, 9, 10,
+12 et 13` → dahir n° 1-09-236 [✓]
+
+
+## Article 17
+
+*ART. 17. –*
+
+Les dons en numéraire et en nature recouvrés
+sont obligatoirement affectés au profti du projet Habous pour
+lequel ils ont été collectés, sous réserve des dispositions de
+l'article 19 ci-après.
+Toutefois, il est possible d'échanger tout don en nature
+ne pouvant être investi dans le projet Habous pour lequel il
+a été collecté et ce, conformément aux dispositions du dahir
+susvisé n° 1-09-236 et aux textes pris pour son application.
+Les montants recouvrés de l'opération d'échange sont
+arrêtés et déposés conformément aux modalités prévues à
+l'article 12 ci-dessus.
+TITRE IV
+DISPOSITIONS DIVERSES
+
+*Entités :* `arrêtés` (ARRETE), `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 19` → arrêtés [✓]
+- `l'article 12` → arrêtés [✓]
+
+
+## Article 18
+
+*ART. 18. –*
+
+Le bilan de toute opération de souscription
+aux bons Habous et de collecte de dons en numéraire et en
+nature est consigné dans un titre de constitution du Habous
+( ), lequel fait l'objet d'une publicité conformément
+aux modalités prévues à l'article 9 ci-dessus.
+
+*Citations :*
+
+- `l'article 9` → dahir n° 1-09-236 [✓]
+
+
+## Article 19
+
+*ART.  19.  –*
+
+L'excédent des fonds recouvrés par la
+souscription aux bons Habous et par la collecte des dons en
+numéraire et en nature est affecté au financement de projets
+similaires à ceux pour lesquels lesdits fonds ont été collectés.
+
+
+## Article 20
+
+*ART. 20. –*
+
+Le présent arrêté sera publié au Bulletin
+officiel.
+Rabat, le 29 joumada I 1434 (10 avril 2013).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013).
+
+*Entités :* `arrêté` (ARRETE), `29 joumada I 1434` (DATE_HIJRI), `10 avril 2013` (DATE_GREGORIAN), `Bulletin officiel » n° 6161 du 8 chaabane 1434 (17 juin 2013)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 29 joumada I 1434, 10 avril 2013
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est approuvé, le règlement intérieur
+du conseil supérieur du contrôle des finances des Habous
+publics, annexé au présent dahir.
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent dahir est publié au Bulletin officiel.
+Fait à Casablanca, le 8 ramadan 1432 (9 août 2011).
+*
+
+*Entités :* `8 ramadan 1432` (DATE_HIJRI), `9 août 2011` (DATE_GREGORIAN)
+
+*Dates :* 8 ramadan 1432, 9 août 2011
+
+
+## Article premier
+
+*Article premier*
+
+En application des dispositions de l'article 162 du dahir
+n° 1-09-236 du 8 rabii I 1431 (23 février 2010) portant code
+des Habous, sont fixées conformément aux dispositions du
+présent règlement, les règles d'organisation, les modalités de
+fonctionnement, les mesures et procédures spéciales relatives à
+l'exercice des missions et des attributions du conseil supérieur
+du contrôle des finances des Habous publics, créé auprès de Sa
+Majesté, ses rapports avec l'administration des Habous, ainsi
+que le statut et les obligations de ses membres.
+
+*Entités :* `dahir
+n° 1-09-236` (DAHIR), `8 rabii I 1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `l'article 162` → dahir n° 1-09-236 [✓]
+
+*Dates :* 8 rabii I 1431, 23 février 2010
+
+
+## Article 2
+
+*Article 2*
+
+Le siège permanent du conseil supérieur du contrôle des
+finances des Habous publics est à Rabat.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 3
+
+*Article 3*
+
+Le conseil supérieur du contrôle des finances des
+Habous publics, désigné ci-après par « le conseil », exerce les
+missions et les attributions qui lui sont assignées en vertu des
+dispositions du dahir n° 1-09-236 du 8 rabii I 1431 (23 février
+2010) portant code des Habous, conformément aux règles,
+procédures et mesures prévues au présent règlement intérieur.
+TITRE II
+Organisation et modalités de fonctionnement du conseil
+Chapitre premier
+Organes du conseil
+
+*Entités :* `dahir n° 1-09-236` (DAHIR), `8 rabii I 1431` (DATE_HIJRI), `23 février
+2010` (DATE_GREGORIAN)
+
+*Organisations :* Organisation
+
+*Dates :* 8 rabii I 1431, 23 février 2010
+
+
+## Article 4
+
+*Article 4*
+
+En application des dispositions des articles 159 et 161 du
+dahir susvisé n° 1-09-236 du 8 rabii I 1431 (23 février 2010), les
+organes du conseil se composent de :
+– la présidence du conseil ;
+– les commissions du conseil ;
+– l'assemblée générale du conseil ;
+– le secrétariat général ;
+– le bureau d'ordre.
+Le conseil dispose, également, de services administratifs,
+financiers et techniques.
+Section première . – Présidence du conseil
+
+*Entités :* `8 rabii I 1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `articles 159 et 161` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 8 rabii I 1431, 23 février 2010
+
+
+## Article 5
+
+*Article 5*
+
+Le président du conseil se charge de la supervision
+générale de l'ensemble des organes et de l'administration
+du conseil et de la prise de toutes les mesures nécessaires à
+l'organisation de ses travaux.
+Le président dispose, à cet effet, de tous les pouvoirs et
+prérogatives nécessaires à la gestion des affaires du conseil et
+à la garantie de sa bonne marche.
+A cet effet, il exerce les attributions suivantes :
+– représente le conseil vis-à-vis de l'autorité
+gouvernementale chargée des Habous, des autres
+administrations publiques, devant la justice et à l'égard
+des tiers ;
+– se charge de la gestion des affaires du conseil et
+l'administration de ses services ;
+– établit le programme annuel des travaux du conseil ;
+– élabore le projet de budget du conseil qui comporte
+les crédits nécessaires à son fonctionnement. Lesdits
+crédits sont inscrits au budget du ministère des Habous
+et des affaires islamiques après la Haute approbation
+de Sa Majesté ;
+– fixe l'ordre du jour, la date et le lieu de la tenue des
+sessions ordinaires et extraordinaires du conseil ;
+– adresse l'invitation aux membres du conseil pour qu'ils
+assistent à ses réunions, et peut, à titre consultatif,
+inviter toute personne experte dans l'une des questions
+soumises au conseil pour qu'elle assiste à ses réunions ;
+– préside l'assemblée générale du conseil prévue à
+l'article 15 ci-après et veille à l'exécution de ses décisions
+et peut, en cas d'absence ou d'empêchement, désigner
+l'un des membres du conseil pour le suppléer;
+– préside, à titre exceptionnel et chaque fois que
+nécessaire, les réunions des commissions permanentes
+et provisoires prévues à l'article 6 ci-après, et assure
+leur coordination ainsi que l'orientation et le suivi de
+leurs travaux ;
+– fait part à l'autorité gouvernementale chargée des
+Habous des décisions d'approbation ou d'opposition de
+l'assemblée générale quant aux demandes d'organisation
+des échanges qui lui sont soumises par ladite autorité
+gouvernementale ;
+– veille en coordination avec les commissions
+concernées à l'élaboration des projets de rapports, de
+recommandations, de propositions et de consultations
+émis par le conseil dans son domaine de spécialité et
+les soumet, le cas échéant, à l'autorité gouvernementale
+chargée des Habous pour suivi et exécution ;
+– soumet à l'autorité gouvernementale chargée des
+Habous pour adoption les projets de textes financiers et
+comptables de référence ou les modifciations proposées
+à y être introduites pour leur mise à jour ou révision
+et ce, après leur validation par l'assemblée générale du
+conseil ;
+– adresse à l'autorité gouvernementale chargée des Habous
+des copies des rapports établis par les délégations
+spéciales au sujet des opérations d'audit de l'état de la
+gestion financière des Habous publics, assorties de ses
+propositions et recommandations, après leur adoption
+par l'assemblée générale du conseil ;
+– porte à la connaissance de Sa Majesté le rapport annuel
+des résultats d'audit de l'état de la gestion financière
+des Habous publics comportant le bilan d'activité et les
+perspectives de travail du conseil et en soumet une copie,
+à titre d'information, à l'autorité gouvernementale
+chargée des Habous.
+Section 2 . – Commissions du conseil
+
+*Citations :*
+
+- `l'article 15` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 6` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Organisations :* Commissions du conseil
+
+
+## Article 6
+
+*Article 6*
+
+Les commissions du conseil se composent de :
+– commissions permanentes comprenant :
+• la commission d'audit financier ;
+• la commission consultative légale ;
+• la commission de promotion du Habous et
+d'amélioration des méthodes de gestion.
+– et de commissions provisoires comprenant :
+•la commission d'élaboration des projets de textes
+financiers et comptables de référence ;
+• la commission d'enquête, d'investigation et de
+constatation.
+Outre les commissions permanentes et provisoires
+prévues ci-dessus, le conseil peut créer d'autres commissions
+permanentes ou provisoires, pour l'étude de questions précises.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 7
+
+*Article 7*
+
+Sous réserve des dispositions prévues à l'article 13
+ci-après, les commissions permanentes et provisoires, prévues
+à l'article précédent, se composent d'au moins trois membres
+dont un coordinateur et un rapporteur désignés par le président
+du conseil parmi ses membres.
+Chaque commission peut comprendre des experts
+désignés par décision du président du conseil pour participer
+à ses travaux ou l'assister dans l'accomplissement de ses
+missions.
+Le président du conseil peut, également, à son initiative
+ou à la demande de la commission concernée, inviter aux
+réunions des commissions permanentes ou provisoires, toute
+personne pouvant enrichir les travaux desdites commissions,
+faciliter leurs tâches ou les assister dans l'accomplissement
+de leurs missions. Lesdits experts ou lesdites personnes ne
+disposent d'aucune qualité décisionnelle lors des délibérations
+des commissions concernées.
+
+*Citations :*
+
+- `l'article 13` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 8
+
+*Article 8*
+
+La présence d'au moins trois membres de chaque
+commission est obligatoire pour la tenue des réunions des
+commissions permanentes et provisoires. A défaut, lors de la
+première et de la deuxième réunion, la question est soumise au
+président du conseil en vue de prendre les mesures nécessaires
+pour garantir la tenue normale des commissions concernées.
+
+
+## Article 9
+
+*Article 9*
+
+La commission d'audit financier est chargée des missions
+suivantes :
+– étudier le projet de budget annuel des Habous soumis
+au conseil par l'autorité gouvernementale chargée
+des Habous ou son représentant pour émettre l'avis
+et débattre à son sujet, proposer les modifications à
+introduire le cas échéant et le soumettre à l'assemblée
+générale du conseil pour approbation, assorti d'un
+rapport spécial ;
+– étudier les rapports annuels du bilan d'activités
+du contrôleur financier central des Habous et des
+contrôleurs locaux qui les soumettent au conseil et
+émettre l'avis à leurs sujets à travers l'élaboration
+d'un rapport spécial soumis à l'assemblée générale du
+conseil comportant éventuellement les observations
+suscitées et pouvant contenir les recommandations
+et les propositions du conseil en vue de l'amélioration
+du rendement et du respect des normes et des règles
+relatives à la gestion des finances des Habous publics.
+Ledit rapport spécial doit être assorti de la proposition
+de la commission certifiant la régularité des opérations
+effectuées par les contrôleurs concernés et, le cas échéant, des
+recommandations afférentes à la responsabilité des personnes
+ayant manqué à leurs obligations quant à l'accomplissement
+des missions qui leur sont dévolues, après leur avoir adressé
+une demande d'explication :
+– effectuer l'opération d'audit annuel de l'état de la gestion
+financière des Habous publics ;
+– étudier, débattre et émettre l'avis sur le compte de gestion
+soumis au conseil par l'autorité gouvernementale
+chargée des Habous ou son représentant, relatif au
+bilan d'exécution du budget annuel des Habous publics
+et le soumettre à l'assemblée générale du conseil pour
+approbation, assorti d'un rapport spécial ;
+– élaborer le projet de rapport annuel sur l'état de la
+gestion financière des Habous publics et le soumettre
+à l'assemblée générale du conseil pour approbation.
+
+
+## Article 10
+
+*Article 10*
+
+La commission consultative légale  est chargée des
+missions suivantes :
+– d'étudier les demande d'accord préalable relatives
+à l'organisation des échanges des biens meubles
+et immeubles soumises au conseil par l'autorité
+gouvernementale chargée des Habous, en application
+des dispositions de l'article 64 du code des Habous et
+en établir un rapport, soumis à l'assemblée générale du
+conseil pour examen ;
+– d'étudier les demandes de consultation légales et
+juridiques présentées par l'autorité gouvernementale
+chargée des Habous, afférentes aux questions du
+Habous et aux méthodes de sa gestion, sa protection,
+sa préservation et sa promotion, et d'élaborer les projets
+de réponses du conseil à leur propos ;
+– de procéder à l'étude, du point de vue légal, de toute
+question du Habous qui lui est soumise par le président
+du conseil, son assemblée générale ou l'une de ses
+commissions permanentes ou provisoires et émettre
+un avis justifié à son sujet.
+
+*Citations :*
+
+- `l'article 64` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 11
+
+*Article 11*
+
+La commission de promotion du Habous et
+d'amélioration des méthodes de gestion se charge de la
+réalisation ou de la demande de réalisation de toute recherche
+ou étude sur les différents domaines de la promotion du Habous
+public, de l'amélioration de son rendement et des méthodes
+de sa gestion, ainsi que de l'élaboration des recommandations
+et des propositions du conseil qu'il soumet à l'autorité
+gouvernementale chargée des Habous après approbation de
+l'assemblée générale du conseil.
+
+
+## Article 12
+
+*Article 12*
+
+La commission provisoire chargée de l'élaboration
+des projets de textes financiers et comptables de référence se
+charge de l'élaboration des projets de textes suivants :
+– le projet de la nomenclature budgétaire annuelle des
+Habous publics ;
+– le projet de l'organisation financière et comptable relatif
+à l'élaboration du budget et les modes de contrôle de
+son exécution ;
+– le projet de la nomenclature des procédures comptables
+à suivre en matière de gestion des finances des Habous
+publics ;
+– le projet de règlement relatif aux marchés portant sur la
+réalisation des travaux, des services et des fournitures
+pour le compte de l'administration des Habous.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+La commission veille également, selon le cas et chaque
+fois que nécessaire, à la révision et à la mise à jour des textes
+susmentionnés, soit à l'initiative du président du conseil ou à
+la demande de l'autorité gouvernementale chargée des Habous.
+Les propositions du conseil en la matière sont
+communiquées à ladite autorité gouvernementale.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 13
+
+*Article 13*
+
+La commission d'enquête, d'investigation et de
+constatation, présidée par le président du conseil ou par un de
+ses membres par délégation du président, se charge d'effectuer
+toute opération d'enquête, d'investigation et de constatation
+nécessaire à la collecte des données et des informations, et
+d'examiner minutieusement les circonstances de toute affaire
+ayant trait à la gestion des finances des Habous publics dont
+le conseil est chargé sur ordre de Sa Majesté.
+
+
+## Article 14
+
+*Article 14*
+
+Les commissions permanentes et provisoires tiennent
+leurs réunions selon le programme fixé par le président du
+conseil.
+Section 3. –  Assemblée générale du conseil
+
+*Organisations :* Assemblée générale du conseil
+
+
+## Article 15
+
+*Article 15*
+
+L'assemblée générale du conseil se compose de tous ses
+membres.
+
+
+## Article 16
+
+*Article 16*
+
+L'assemblée générale du conseil exerce les attributions
+suivantes :
+– émettre l'avis sur toute question relevant des attributions
+du conseil qui lui est soumise par le président du conseil ;
+– prendre connaissance du programme annuel des travaux
+du conseil et émettre l'avis à son sujet ;
+– valider les projets de textes élaborés par la commission
+provisoire chargée de l'élaboration des projets de textes
+financiers et comptables de référence avant d'être soumis
+par le président du conseil à l'autorité gouvernementale
+chargée des Habous pour adoption ;
+– approuver le projet de budget annuel des Habous publics
+après son étude par la commission d'audit financier, et
+prendre connaissance du rapport spécial établi à cet
+effet par ladite commission ;
+– valider les résultats du rapport spécial établi par la
+commission d'audit financier sur les rapports annuels
+soumis au conseil par le contrôleur financier central et
+les contrôleurs locaux.
+L'arrêté d'approbation du rapport de la commission par
+l'assemblée générale du conseil doit être assorti de l'attestation
+de la régularité des opérations effectuées par les contrôleurs
+concernés et, le cas échéant, des recommandations relatives
+à leur responsabilité conformément aux dispositions de
+l'article 155 du code des Habous :
+– approuver le compte de gestion relatif à l'exécution
+du budget annuel des Habous publics, après étude
+par la commission d'audit financier et après avoir pris
+connaissance du rapport spécial qu'elle établit à cet
+effet.
+L'arrêté d'approbation dudit compte de gestion par
+l'assemblée générale du conseil doit être assorti d'une
+déclaration générale de la conformité des données contenues
+dans les rapports du contrôleur financier central et des
+contrôleurs locaux qui en relèvent et des données contenues
+dans le compte de gestion soumis au conseil par l'autorité
+gouvernementale chargée des Habous.
+En outre, ledit arrêté d'approbation doit être joint
+de l'attestation du conseil de la régularité des opérations
+effectuées, assortie, le cas échéant, de ses observations et
+recommandations relatives à l'exécution du budget annuel
+des Habous publics et des comptes y afférents et de la
+régularité des mesures suivies en la matière et de l'observation
+de l'administration des Habous des dispositions des textes
+juridiques applicables aux Habous publics :
+– valider les consultations légales et juridiques et les
+études de jurisprudence établies par la commission
+consultative légale conformément aux dispositions de
+l'article 10 du présent règlement intérieur ;
+– statuer sur les demandes d'organisation des échanges
+soumises au conseil par l'autorité gouvernementale
+chargée des Habous, conformément à l'article 64 du
+code des Habous, après leur étude par la commission
+consultative légale ;
+– prendre connaissance des rapports relatifs aux
+opérations d'audit de l'état de la gestion financière
+des Habous publics et approuver les propositions et
+recommandations ;
+– prendre connaissance des recherches et des études
+effectuées par la commission de promotion du Habous
+et d'amélioration des méthodes de gestion et approuver
+les projets de recommandations et de propositions
+qu'elle émet avant de les soumettre à l'autorité
+gouvernementale chargée des Habous ;
+– étudier le projet de rapport annuel des résultats d'audit
+de l'état de la gestion financière des Habous publics et
+le bilan d'activité du conseil et ses perspectives et son
+approbation ;
+– émettre toute recommandation ou proposition de
+nature à améliorer le rendement et à développer le mode
+de fonctionnement du conseil.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 155` → arrêté [✓]
+- `l'article 10` → arrêté [✓]
+- `l'article 64` → arrêté [✓]
+
+
+## Article 17
+
+*Article 17*
+
+conformément aux dispositions de l'article 160 du code
+des Habous, le conseil tient régulièrement son assemblée
+générale durant au moins quatre sessions par an, en mois de
+mars, juin, septembre et décembre de chaque année et chaque
+fois que nécessaire.
+Les mois de la tenue desdites sessions peuvent être
+modifiés par arrêté du président du conseil chaque fois que
+de besoin.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 160` → arrêté [✓]
+
+
+## Article 18
+
+*Article 18*
+
+Les membres du conseil sont informés de la date et du
+lieu de la tenue des réunions de l'assemblée générale par tous
+les moyens disponibles.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 19
+
+*Article 19*
+
+Le président du conseil adresse l'invitation aux membres
+pour qu'ils assistent aux réunions de l'assemblée générale
+une semaine au moins avant la date fixée pour la tenue de
+la réunion. L'invitation à la réunion doit être assortie de son
+ordre du jour.
+
+
+## Article 20
+
+*Article 20*
+
+Tous les membres du conseil sont tenus d'assister aux
+travaux de l'assemblée générale. En cas d'empêchement pour
+l'un d'entre eux, il en informe le président avant la date de la
+réunion.
+Le conseil se réunit valablement en présence des deux
+tiers des membres ; lorsque le quorum n'est pas atteint, le
+président adresse une seconde invitation pour la tenue de
+la réunion suivante après huit jours ; la réunion est dès lors
+valable quel que soit le nombre des membres présents.
+
+
+## Article 21
+
+*Article 21*
+
+Les délais d'invitation prévus aux articles 19 et 20
+ci-dessus ne sont pas applicables aux réunions à caractère
+urgent dont il est procédé à l'invitation par le moyen le plus
+rapide.
+Section 4. –  Secrétariat général
+
+*Citations :*
+
+- `articles 19 et 20` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 22
+
+*Article 22*
+
+Le secrétaire général assiste le président du conseil dans
+l'accomplissement de ses missions. A cet effet, il se charge sous
+l'autorité du président des missions suivantes :
+– assurer la gestion des services administratifs, financiers
+et techniques du conseil et coordonner leurs travaux ;
+– veiller à fournir les moyens financiers nécessaires
+permettant aux organes du conseil et à ses différents
+services d'accomplir leurs missions dans les meilleures
+conditions ;
+– assister le président dans la coordination de l'action
+entre les commissions permanentes et provisoires ;
+– veiller, en coordination et en coopération avec les
+coordinateurs des commissions permanentes et
+provisoires, à l'élaboration des actes et des pièces
+nécessaires aux travaux des réunions desdites
+commissions ;
+– veiller à la tenue des documents et des pièces du conseil
+et assurer leur entretien et leur conservation ;
+– accomplir toute mission spéciale dont il est chargé par
+le président dans le cadre des attributions du conseil ;
+Il peut, en outre, par délégation du président, signer
+certains documents et arrêtés à caractère administratif.
+Section 5. – Bureau d'ordre
+
+*Entités :* `arrêtés` (ARRETE)
+
+
+## Article 23
+
+*Article 23*
+
+Le bureau d'ordre se charge de l'enregistrement de
+toutes les pièces et de tous les documents entrants ou émis
+par le conseil.  Il procède également, à la documentation des
+réunions du conseil, à l'élaboration de leurs procès-verbaux
+et à la tenue et la conservation de leurs registres.
+Il assure également la conservation, la gestion et
+l'entretien de l'archive du conseil.
+Chapitre II
+Gestion du conseil
+Section première . – Organigramme administratif
+
+
+## Article 24
+
+*Article 24*
+
+L'administration du conseil se compose de services
+administratifs, financiers et techniques.
+Lesdits services sont organisés selon les sections
+suivantes :
+– section des ressources humaines et financières et du
+système informatique ;
+– section des études, du suivi des travaux des commissions
+et de l'élaboration des rapports ;
+– section du bureau d'ordre.
+
+
+## Article 25
+
+*Article 25*
+
+La section des ressources humaines et financières
+et du système informatique est chargée de la gestion des
+ressources humaines exerçant au conseil, de l'exécution
+de leurs programmes de formation et de réhabilitation, de
+l'élaboration de la proposition des crédits annuels nécessaires
+au fonctionnement du conseil et sa présentation au président
+pour l'élaboration du projet de budget du conseil dont elle
+assure la bonne exécution après approbation conformément
+à la procédure prévue à l'article 5 ci-dessus.
+La section assure également la gestion et l'entretien de
+tous les biens meubles et immeubles du conseil.
+Outres les missions susmentionnées, la section est
+chargée de la gestion, du développement et de la mise à jour
+du système informatique du conseil.
+
+*Citations :*
+
+- `l'article 5` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 26
+
+*Article 26*
+
+La section des ressources humaines et financières et du
+système informatique comprend les unités suivantes :
+– unité des ressources humaines ;
+– unité des affaires financières et de la gestion des biens ;
+– unité du système informatique.
+
+
+## Article 27
+
+*Article 27*
+
+La section des études, du suivi des travaux des
+commissions et de l'élaboration des rapports est chargée
+de fournir le soutien et l'assistance aux différents organes
+du conseil, notamment aux commissions permanentes et
+provisoires pour leur permettre d'accomplir leurs missions,
+de l'élaboration des documents et des pièces nécessaires à la
+mise en œuvre des études, des consultations et des rapports
+à réaliser et veille à la coordination et au suivi des travaux
+des commissions ainsi qu'à leur accompagnement dans
+l'accomplissement de leurs missions.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 28
+
+*Article 28*
+
+La section des études, du suivi des travaux des
+commissions et de l'élaboration des rapports comprend les
+unités suivantes :
+– unité des études et des consultations ;
+– unité de l'élaboration des rapports et des documents ;
+– unité de coordination et de suivi des travaux des
+commissions.
+
+
+## Article 29
+
+*Article 29*
+
+La section du bureau d'ordre est chargée des missions
+assignées au bureau d'ordre prévues à l'article 23 ci-dessus.
+
+*Citations :*
+
+- `l'article 23` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 30
+
+*Article 30*
+
+La section du bureau d'ordre comprend les deux unités
+suivantes :
+– unité d'ordre ;
+– unité de la documentation et de l'archive.
+
+
+## Article 31
+
+*Article 31*
+
+L'unité d'ordre assure l'enregistrement des pièces et des
+documents entrants et émis par le conseil, et procède à leur
+documentation et leur suivi.
+L'unité de la documentation et de l'archive assure la
+tenue d'un registre des réunions des commissions permanentes
+et provisoires et d'un autre registre des réunions de l'assemblée
+générale du conseil ainsi que l'élaboration, la tenue et la
+conservation des procès-verbaux desdites réunions.
+
+
+## Article 32
+
+*Article 32*
+
+Les chefs de sections sont désignés par décision du
+président du conseil parmi les cadres classés au moins à
+l'échelle onze, titulaires du diplôme des études supérieures
+approfondies ou spécialisées, du master, du diplôme
+d'ingénieur d'Etat ou d'un diplôme équivalent et disposant
+d'une expérience professionnelle d'au moins quatre ans de
+service effectif dans le domaine administratif, financier ou
+technique.
+
+
+## Article 33
+
+*Article 33*
+
+Les chefs d'unités sont désignés par décision du président
+du conseil parmi les cadres classés au moins à l'échelle onze et
+disposant d'une expérience professionnelle d'au moins quatre
+ans de service effectif dans le domaine administratif, financier
+ou technique.
+
+
+## Article 34
+
+*Article 34*
+
+En application des dispositions de l'article 165 du code
+des Habous, le ministère des Habous et des affaires islamiques
+met à la disposition du conseil, à la demande de son président,
+les fonctionnaires et les agents dont il a besoin pour accomplir
+ses missions.
+Les fonctionnaires et les agents mis à la disposition
+du conseil continuent de percevoir leurs salaires de leurs
+administrations d'origine et de bénéficier de tous leurs
+droits à l'avancement et à la retraite. Outre l'ancienneté au
+cadre, au cadre ou à l'échelon, selon le cas, la performance
+professionnelle et le taux de rendement quant à l'exercice des
+fonctions au conseil doivent être pris en considération lors de
+leur avancement.
+
+*Citations :*
+
+- `l'article 165` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 35
+
+*Article 35*
+
+En application des dispositions du dernier alinéa de
+l'article 159 du dahir susvisé n° 1-09-236, le président du
+conseil peut recruter, par contractualisation et pour une durée
+déterminée renouvelable, des experts parmi les spécialistes
+dans l'un des domaines de spécialité du conseil, pour la
+réalisation d'études précises ou la mise en œuvre d'expertises
+ou de consultations ou pour assister les organes du conseil
+dans l'accomplissement de leurs missions.
+En outre, des fonctionnaires exerçant aux administrations
+publiques peuvent être détachés auprès du conseil ou mis à
+sa disposition pour l'assister dans l'accomplissement de ses
+missions, conformément aux lois et aux règlements en vigueur.
+
+*Citations :*
+
+- `l'article 159` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 36
+
+*Article 36*
+
+Les fonctionnaires et agents exerçant au conseil,
+qu'ils soient mis à sa disposition, détachés ou contractuels,
+bénéficient, outre leurs salaires, d'indemnités de déplacement
+et d'une prime de rendement allouées à partir des crédits
+affectés au conseil et dont le montant et les critères d'octroi
+sont fixés par arrêté du président du conseil.
+Les chefs de sections et d'unités perçoivent, en outre, les
+indemnités accordées respectivement aux chefs de divisions
+et aux chefs de services des administrations centrales
+conformément aux textes réglementaires en vigueur.
+Section 2 . –  Organisation financière du conseil
+
+*Entités :* `arrêté` (ARRETE)
+
+*Organisations :* Organisation financière du conseil
+
+
+## Article 37
+
+*Article 37*
+
+En application des dispositions des articles 164 et 165 du
+dahir susvisé n° 1-09-236, sont imputés au conseil, les crédits
+nécessaires à son fonctionnement, lesquels constituent son
+budget.
+Lesdits crédits sont inscrits dans le budget du ministère
+des Habous et des affaires islamiques après la Haute
+approbation de Sa Majesté.
+
+*Citations :*
+
+- `articles 164 et 165` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Personnes :* Sa Majesté
+
+
+## Article 38
+
+*Article 38*
+
+Le président du conseil assure l'exécution du budget en
+qualité de sous-ordonnateur, conformément aux règles et aux
+mesures prévues au règlement de la comptabilité publique.
+
+
+## Article 39
+
+*Article 39*
+
+Une régie des dépenses est instituée au sein du conseil
+conformément aux règles en vigueur.
+
+
+## Article 40
+
+*Article 40*
+
+Un comptable public désigné par arrêté du ministre
+chargé des finances est investi, auprès du conseil, des
+attributions assignées aux comptables publics par les lois et
+les règlements.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+TITRE III
+Attributions et procédures
+Chapitre premier
+Etude et approbation du projet de budget annuel des Habous
+publics
+
+*Entités :* `arrêté du ministre` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 41
+
+*Article 41*
+
+En application des dispositions de l'article 143 du code
+des Habous, l'autorité gouvernementale chargée des Habous ou
+son représentant doit soumettre le projet de budget annuel des
+Habous publics au conseil, assorti d'une note de présentation,
+au plus tard avant la fin du mois d'octobre de chaque année.
+
+*Citations :*
+
+- `l'article 143` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 42
+
+*Article 42*
+
+Le président du conseil soumet le projet de budget annuel
+prévu à l'article précédent, dès sa réception, à la commission
+d'audit financier.
+Ladite commission doit tenir sa réunion pour entamer
+l'étude du projet de budget, au plus tard durant de la semaine
+qui suit sa remise au conseil.
+Le président du conseil fixe, en coordination avec
+l'autorité gouvernementale chargée des Habous ou son
+représentant, un calendrier pour l'étude et la discussion du
+projet de budget, l'étude des modifications à introduire et sa
+présentation au conseil pour approbation.
+
+
+## Article 43
+
+*Article 43*
+
+Doivent être joints au projet de budget soumis au conseil
+par l'autorité gouvernementale chargée des Habous tous les
+documents, pièces et indications relatifs au projet ou précisant
+son contenu.
+L'autorité gouvernementale chargée des Habous doit
+également faire part au conseil de tout document, données ou
+informations requis par le conseil par le biais de son président,
+s'avérant nécessaires à l'étude du projet.
+
+
+## Article 44
+
+*Article 44*
+
+L'autorité gouvernementale chargée des Habous ou son
+représentant présente un exposé général du projet de budget
+devant la commission d'audit financier à la date convenue,
+conformément aux dispositions de l'article 42 prévu ci-dessus.
+Ledit exposé comporte une revue générale des principales
+orientations et options du projet de budget, leurs motifs et
+objectifs, avec des indications et des tableaux comparatifs
+entre les données de l'année courante et, le cas échéant, celles
+des années antérieures et celles proposées dans le projet de
+budget de l'année suivante.
+
+*Citations :*
+
+- `l'article 42` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 45
+
+*Article 45*
+
+La commission d'audit financier consacre une séance
+spéciale à la discussion générale du projet de budget, en
+présence du représentant de l'autorité gouvernementale
+chargée des Habous. Ce dernier ou, le cas échéant, d'autres
+représentants peuvent fournir les éléments de réponse sur les
+questions et les observations suscitées au cours de la discussion
+générale.
+
+
+## Article 46
+
+*Article 46*
+
+La commission d'audit financier tient ses réunions
+suivantes selon le calendrier fixé pour la discussion détaillée du
+projet de budget selon ses parties, divisions, chapitres, articles
+et paragraphes, conformément aux dispositions de l'article 135
+du code des Habous et à la nomenclature du budget.
+A cet effet, le représentant de l'autorité gouvernementale
+chargée des Habous expose le projet de budget dans l'ordre
+susmentionné, en apportant les explications et les précisions
+nécessaires, suivi d'une discussion par les membres de la
+commission et la réponse aux questions et demande de
+précisions soulevées.
+
+*Citations :*
+
+- `l'article 135` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 47
+
+*Article 47*
+
+La commission d'audit financier peut, sur la base des
+résultats de la discussion, proposer des modifications sur le
+projet de budget qui lui est soumis. L'autorité gouvernementale
+chargée des Habous peut également proposer l'introduction
+de modifications sur le projet.
+
+
+## Article 48
+
+*Article 48*
+
+Les propositions de modifciations sur le projet de budget
+sont présentées assorties d'une note explicative contenant les
+motifs de la modification proposée.
+
+
+## Article 49
+
+*Article 49*
+
+Les membres de la commission d'audit financier
+présentent les propositions de modifications au nom de
+la commission. Aucun membre de la commission ne peut
+apporter de proposition de modification que lorsque
+celle-ci bénéficie de l'accord préalable de la commission pour
+sa présentation.
+A cet effet, la commission doit au préalable tenir une
+réunion spéciale présidée par le président du conseil pour
+arrêter les modifications à apporter et dont la présence est
+limitée au président du conseil, aux membres de la commission
+et le reste des membres du conseil.
+
+*Entités :* `arrêter` (ARRETE)
+
+
+## Article 50
+
+*Article 50*
+
+La commission d'audit financier consacre une réunion
+spéciale à l'étude des propositions de modifciations qui lui sont
+soumises et à la détermination de celles validées, en présence
+de l'autorité gouvernementale chargée des Habous et ses
+représentants. La priorité en matière d'étude et d'approbation
+est accordée aux propositions de modifications présentées par
+l'autorité gouvernementale chargée des Habous.
+
+
+## Article 51
+
+*Article 51*
+
+Les propositions de modifications présentées par
+la commission d'audit financier sont rejetées dans les cas
+suivants :
+– lorsque l'autorité gouvernementale chargée des Habous
+ou son représentant s'y oppose, à condition que ladite
+opposition soit suffisamment motivée ;
+– lorsque la modification proposée par la commission est
+susceptible de porter atteinte à l'équilibre financier du
+projet de budget soumis à l'approbation. Dans ce cas, le
+rejet de l'autorité gouvernementale chargée des Habous
+doit suffisamment être motivé.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 52
+
+*Article 52*
+
+Au terme de la discussion, la commission d'audit
+financier doit soumettre à l'approbation de l'assemblée générale
+du conseil, le projet de budget et les modifications admises,
+assorti d'un rapport spécial établi à cet effet, conformément
+aux stipulations prévues à l'article 9 visé ci-dessus.
+
+*Citations :*
+
+- `l'article 9` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 53
+
+*Article 53*
+
+L'assemblée générale du conseil approuve le projet de
+budget qui lui est soumis, après l'introduction des modifciations
+admises, l'audition du rapport de la commission d'audit
+financier présenté par son rapporteur et l'exposé de l'autorité
+gouvernementale chargée des Habous ou son représentant.
+Les dispositions du deuxième et du troisième alinéas
+de l'article 143 du code des Habous sont applicables en cas
+de non-approbation avant le début de l'année budgétaire.
+Dans ce cas, le projet de budget est remis à la commission
+d'audit financier pour le réétudier, après l'introduction des
+modifications proposées par l'autorité gouvernementale
+chargée des Habous, compte tenu des observations formulées
+par l'assemblée générale du conseil et qui constituent le motif
+de sa non-approbation du projet.
+
+*Citations :*
+
+- `l'article 143` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 54
+
+*Article 54*
+
+En application des dispositions de l'article 149 du code
+des Habous, toute modification proposée à être introduite
+par l'autorité gouvernementale chargée des Habous dans le
+budget annuel des Habous publics après approbation, doit
+être soumise, étudiée et approuvée conformément aux mêmes
+conditions et mesures prévues aux articles précédents.
+Chapitre II
+Audit des finances des Habous publics
+Section première. – Etude et examen des rapports des contrôleurs
+financiers
+
+*Citations :*
+
+- `l'article 149` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 55
+
+*Article 55*
+
+En application des dispositions du dernier alinéa de
+l'article 153 du code des Habous, le contrôleur financier central
+et les contrôleurs locaux soumettent séparément au conseil,
+un rapport annuel du bilan de leurs activités, avant la fin du
+mois de février de chaque année, signé, daté et contenant le
+compte rendu de l'ensemble des opérations réalisées dans
+le cadre de leurs attributions au titre de l'année budgétaire
+écoulée et les mesures relatives à leur exécution, en distinguant
+obligatoirement entre les opérations réalisées dans le cadre de
+l'exécution du budget annuel des Habous publics, les autres
+opérations, le cas échéant, et le restant des activités réalisées
+par le contrôleur concerné.
+
+*Citations :*
+
+- `l'article 153` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 56
+
+*Article 56*
+
+Le contrôleur financier central et les contrôleurs locaux
+établissent leurs rapports soumis au conseil conformément aux
+modalités prévues à l'organisation financière et comptable du
+budget des Habous publics.
+Tout contrôleur doit joindre son rapport des copies,
+certifiant lui-même de leur conformité à l'original, de toutes les
+pièces et tous les documents justifciatifs relatifs aux opérations
+financières effectuées dans le cadre de ses attributions,
+lesquelles étaient objet de visa de sa part.
+
+
+## Article 57
+
+*Article 57*
+
+Tout rapport annuel soumis par le contrôleur au conseil
+est assorti d'une note de présentation comportant une synthèse
+dudit rapport et, le cas échéant, toutes les observations et
+précisions pouvant aider le conseil à auditer les données
+contenues dans le rapport.
+
+
+## Article 58
+
+*Article 58*
+
+Les rapports annuels des contrôleurs sont soumis à la
+commission d'audit financier pour étude afin de s'assurer que
+les contrôleurs concernés ont exercé leurs attributions prévues
+à l'article 153 du code des Habous.
+
+*Citations :*
+
+- `l'article 153` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 59
+
+*Article 59*
+
+La commission d'audit financier établit, conformément
+aux directives du président du conseil, un calendrier fixe pour
+l'étude des rapports des contrôleurs soumis au conseil.
+Dans tous les cas, la commission doit entamer l'étude
+des rapports dès leur réception et l'achever, au plus tard, dans
+la dernière semaine du mois de mars.
+
+
+## Article 60
+
+*Article 60*
+
+La commission d'audit financier peut adresser à tout
+contrôleur, en cas de besoin, par le biais du président du
+conseil, une demande d'explications ou de pièces, à l'occasion
+de l'étude du rapport qu'il a soumis au conseil, afin d'obtenir
+les éléments de réponses nécessaires au sujet des observations
+pouvant être suscitées par la commission sur le contenu dudit
+rapport ou de certains points qui y fgiurent. Le conseil doit
+recevoir la réponse du contrôleur concerné dans le délai fixé
+par le conseil.
+
+
+## Article 61
+
+*Article 61*
+
+La commission d'audit financier peut demander qu'on
+lui communique toute pièce en possession du contrôleur,
+du Nadher des Habous ou de l'administration des Habous,
+séparément selon le cas, dont elle juge la consultation utile,
+pour l'examen des données relatives au contenu des rapports
+soumis au conseil.
+
+
+## Article 62
+
+*Article 62*
+
+La commission d'audit financier adresse la demande
+d'obtention des pièces requises par le biais du président
+du conseil au contrôleur concerné, ou à l'administration
+des Habous, selon le cas, lorsque la pièce demandée est en
+possession de cette dernière ou du Nadher des Habous.
+
+
+## Article 63
+
+*Article 63*
+
+Aucune partie concernée, qu'il s'agisse du contrôleur
+financier central, des contrôleurs locaux ou de l'administration
+des Habous, ne peut refuser, s'abstenir ni tergiverser pour
+remettre toute pièce au conseil dont le président a adressé
+officiellement une demande afin de l'obtenir.
+En cas de refus, d'abstention ou de tergiversation, le
+président du conseil adresse une note en la matière à l'autorité
+gouvernementale chargée des Habous pour la prise des mesures
+nécessaires, séparément selon le cas, pour faire parvenir les
+pièces requises au conseil.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Les cas précités sont, le cas échéant, mentionnés dans
+le rapport annuel soumis à Sa Majesté par le président du
+conseil, conformément aux dispositions de l'article 158 du
+code des Habous.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 158` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 64
+
+*Article 64*
+
+Au terme de l'étude des rapports soumis au conseil,
+la commission d'audit financier doit élaborer un rapport
+spécial et global soumis à l'approbation du conseil, assorti
+des propositions de la commission, attestant de la régularité
+des opérations réalisées par les contrôleurs concernés et,
+le cas échéant, de ses recommandations ayant trait à leur
+responsabilité, conformément aux dispositions des articles 9
+et 16 du présent règlement intérieur.
+Section 2. – Étude et approbation du compte de gestion relatif  à
+l'exécution du budget annuel
+
+*Citations :*
+
+- `articles 9
+et 16` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 65
+
+*Article 65*
+
+En application des dispositions de l'article 150 du code
+des Habous, le conseil veille à l'audit du compte de gestion
+relatif au bilan d'exécution du budget annuel des Habous et à
+la vérification de la conformité des données contenues dans
+les rapports du contrôleur financier central et des contrôleurs
+locaux qui en relèvent, à celles contenues dans ledit compte tel
+que soumis au conseil par l'autorité gouvernementale chargée
+des Habous.
+
+*Citations :*
+
+- `l'article 150` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 66
+
+*Article 66*
+
+Le compte de gestion est élaboré conformément aux
+modalités fixées dans l'organisation financière et comptable du
+budget des Habous publics. Il doit comporter, en application
+des dispositions du deuxième alinéa de l'article 150 du code des
+Habous, les détails du bilan de toutes les opérations financières
+réalisées au titre de l'année budgétaire concernée du premier
+janvier au 31 décembre et les totaux des ressources perçues et
+des dépenses ordonnées.
+Il doit, de manière synthétique, indiquer le résultat de
+l'état financier du budget exécuté, arrêté au 31 décembre de
+l'année au titre de laquelle ledit compte est présenté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 150` → arrêté [✓]
+
+
+## Article 67
+
+*Article 67*
+
+En application des dispositions du premier alinéa de
+l'article 150 du code des Habous, l'autorité gouvernementale
+chargée des Habous ou son représentant doit soumettre au
+conseil, le compte de gestion au titre de chaque année, avant la
+fin du mois de mars de l'année qui suit celle au titre de laquelle
+ledit compte est présenté.
+
+*Citations :*
+
+- `l'article 150` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 68
+
+*Article 68*
+
+Le compte de gestion soumis au conseil doit être joint
+d'une note de présentation détaillée, comportant les données
+de synthèse relatives à l'exécution du budget, une analyse
+desdites données et un compte rendu des principaux résultats
+obtenus. Ladite note comprend également, le cas échéant,
+toutes les observations que l'administration des Habous juge
+utile d'être suscitées ou susceptibles d'apporter des précisions
+permettant au conseil d'auditer le compte de gestion qui lui
+est soumis.
+
+
+## Article 69
+
+*Article 69*
+
+Le président du conseil soumet le compte de gestion dès
+réception à la commission d'audit financier.
+Ladite commission doit tenir sa réunion pour entamer
+l'étude du compte, au plus tard dans la semaine qui suit la
+réception dudit compte par le conseil.
+Le président du conseil fixe, en coordination avec
+l'autorité gouvernementale chargée des Habous ou son
+représentant, un calendrier pour l'étude et la discussion du
+compte et sa soumission à l'approbation du conseil.
+
+
+## Article 70
+
+*Article 70*
+
+L'autorité gouvernementale chargée des Habous doit
+communiquer au conseil, toute pièce, données ou informations
+qu'il demande par le biais de son président, considérées
+nécessaires à l'étude et à la discussion du compte de gestion.
+
+
+## Article 71
+
+*Article 71*
+
+L'autorité gouvernementale chargée des Habous ou son
+représentant présente, lors d'une séance spéciale, devant la
+commission d'audit financier et à la date convenue, un exposé
+général du compte de gestion.
+Ledit exposé comporte une revue générale des
+principales données relatives au bilan d'exécution du budget
+annuel objet du compte de gestion et les résultats réalisés.
+
+
+## Article 72
+
+*Article 72*
+
+La commission d'audit financier consacre des séances
+spéciales, selon le calendrier convenu, pour l'étude et la
+discussion du compte de gestion, en présence du ou des
+représentants de L'autorité gouvernementale chargée des
+Habous, qui peuvent apporter toutes les clarifications et
+répondre aux questions et aux observations des membres de
+la commission.
+
+
+## Article 73
+
+*Article 73*
+
+Au terme de l'étude et de la discussion, la commission
+d'audit financier doit établir un rapport spécial du bilan de ses
+travaux, assorti du compte de gestion soumis à l'approbation
+de l'assemblée générale du conseil, conformément aux
+dispositions des articles 9 et 16 du présent règlement intérieur.
+Section 3. – Audit annuel de l'état de la gestion financière des
+Habous publics
+
+*Citations :*
+
+- `articles 9 et 16` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 74
+
+*Article 74*
+
+En application des dispositions du troisième paragraphe
+du deuxième alinéa de l'article 158 du code des Habous, le
+conseil procède à un audit annuel de l'état de la gestion
+financière des Habous publics au niveau de l'administration
+centrale et des services extérieurs de l'administration des
+Habous, ainsi que des organes chargés de la gestion des
+finances des Habous publics.
+
+*Citations :*
+
+- `l'article 158` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 75
+
+*Article 75*
+
+L'audit annuel de l'état de la gestion financière des
+Habous publics vise à :
+– s'assurer de la légalité des opérations réalisées et
+l'exactitude des services présentés, des fournitures
+délivrées et des travaux réalisés et du respect de leur
+délai d'exécution ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– s'assurer du respect des règles de la Charia, lois,
+règlements et mesures devant être observés, notamment
+la conformité aux dispositions du code des Habous, des
+actes applicables aux propriétés Habous, à savoir le
+louage, l'échange et autres, ainsi que les opérations de
+courtage, d'appel d'offres ou d'entente directe ;
+– évaluer la proportion de réalisation des objectifs fixés
+par les projets Habous, à partir des résultats obtenus,
+leur coût et le mode d'emploi des moyens utilisés ;
+– évaluer l'utilité des moyens adoptés pour le recouvrement,
+l'accroissement et l'investissement des ressources
+Habous et les mesures prises pour la protection et la
+préservation des biens constitués Habous ;
+– présenter, le cas échéant, des propositions portant sur
+les moyens susceptibles d'améliorer les méthodes de
+gestion et d'en augmenter l'efficacité.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 76
+
+*Article 76*
+
+Il est procédé aux opérations d'audit d'annuel de l'état de
+la gestion financière des Habous, au niveau de l'administration
+centrale de l'administration des Habous ou des Nedharats qui
+en relèvent, conformément à un programme annuel fixé chaque
+année, notiféi à l'autorité gouvernementale chargée des Habous
+par le président du conseil, dans lequel sont fixées les parties
+concernées par l'audit, la date de son déroulement et la liste des
+responsables desdites parties, chargés de la coordination avec
+le conseil pour le déroulement des opérations d'audit prévues.
+Le président du conseil peut également, à la demande
+de l'autorité gouvernementale chargée des Habous, désigner
+une délégation spéciale pour mener une opération d'audit dans
+lesdites administrations, en dehors du cadre du programme
+convenu.
+
+
+## Article 77
+
+*Article 77*
+
+Pour toute opération d'audit, le président du conseil
+désigne, parmi les membres du conseil, une délégation spéciale
+d'au moins trois membres dont un président et un rapporteur.
+Chaque délégation peut, pour l'accomplissement de
+ses missions, après accord du président ou à son initiative, se
+faire assister par des experts et des cadres, appartenant ou
+non au conseil, à condition qu'ils ne soient pas en exercice à
+l'administration des Habous ou aux Nédharats qui en relèvent.
+
+
+## Article 78
+
+*Article 78*
+
+En application des dispositions de l'article 163 du code
+des Habous, la partie où l'opération d'audit est prévue met
+à la disposition de la délégation spéciale du conseil tous
+les documents, pièces, informations et données nécessaires
+permettant à ladite délégation d'accomplir son devoir dans les
+meilleures conditions et lui en fournit les copies, à sa demande.
+Tout refus, abstention ou tergiversation est consigné dans le
+rapport de mission de la délégation.
+En outre, le ou les responsables de la partie où l'opération
+d'audit est prévue doivent, dans la limite de leurs attributions,
+répondre à toutes les questions et à la demande de précisions
+formulées par les membres de la délégation spéciale.
+
+*Citations :*
+
+- `l'article 163` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 79
+
+*Article 79*
+
+La délégation spéciale chargée du déroulement de
+l'opération d'audit établit un rapport de mission comportant
+le bilan des travaux qu'elle a accomplis, la liste des pièces qui
+lui ont été remises ou dont elle s'est contentée de consulter et
+les entrevues réalisées, ainsi que l'ensemble des remarques
+dont elle juge utile de porter à la connaissance du conseil, les
+réponses reçues à leur sujet, le cas échéant, les constatations
+conclues ainsi que les propositions et les recommandations
+qu'elle lui soumet.
+Les rapports établis sont soumis par le président du
+conseil à la commission permanente d'audit financier pour
+l'élaboration d'un rapport soumis à l'assemblée générale du
+conseil.
+Chapitre III
+Rapport annuel du conseil
+
+*Organisations :* commission permanente d'audit financier pour
+l'élaboration d'un rapport
+
+
+## Article 80
+
+*Article 80*
+
+En application des dispositions du troisième paragraphe
+du deuxième alinéa de l'article 158 du code des Habous, le
+président du conseil porte à la connaissance de Sa Majesté, un
+rapport annuel sur les résultats des opérations d'audit annuel
+de la situation de la gestion financière des Habous publics,
+avant la fin du mois de juin de l'année budgétaire qui suit
+l'année de gestion objet du rapport.
+Le rapport comporte le bilan des opérations d'audit
+accomplies, assorti des conclusions, constatations,
+observations, propositions et recommandations approuvées
+par l'assemblée générale du conseil, visant la protection des
+biens Habous publics et le développement de leurs modes de
+gestion en vue de leur préservation et leur accroissement.
+Le rapport comporte également le bilan d'activité et les
+perspectives du travail du conseil.
+
+*Citations :*
+
+- `l'article 158` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 81
+
+*Article 81*
+
+Le président du conseil adresse, à titre d'information,
+une copie dudit rapport à l'autorité gouvernementale chargée
+des Habous.
+TITRE IV
+RAPPORT DU CONSEIL AVEC L'ADMINISTRATION DES HABOUS
+
+
+## Article 82
+
+*Article 82*
+
+Le président du conseil est le représentant juridique
+du conseil, son porte-parole. Il est également l'interlocuteur
+permanent de l'administration des Habous dans son rapport
+avec le conseil et peut le cas échéant, se faire déléguer par le
+secrétaire général.
+Il peut également désigner, à cet effet, d'autres
+interlocuteurs parmi les membres du conseil.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 83
+
+*Article 83*
+
+En application des dispositions des articles 163 et 165
+du code des Habous, et sous réserve des dispositions du
+titre III du présent règlement intérieur, sont adressées par le
+président du conseil à l'autorité gouvernementale chargée des
+Habous, toutes les demandes d'obtention de pièces, documents,
+informations et données, les demandes d'obtention des moyens
+financiers et des ressources humaines dont le conseil a besoin
+pour l'accomplissement de ses missions ainsi que les demandes
+d'imputation des crédits nécessaires à son fonctionnement.
+Aucun membre, responsable ou cadre du conseil ne
+peut communiquer ou correspondre avec l'administration
+des Habous sauf par l'intermédiaire du président du conseil,
+avec sa permission ou par sa délégation.
+
+*Citations :*
+
+- `articles 163 et 165` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 84
+
+*Article 84*
+
+Sous réserve des dispositions de l'article 34 du présent
+règlement intérieur, ne peuvent être cumulés, l'exercice, de
+manière permanente ou provisoire, aux cadres du ministère
+des Habous et des affaires islamiques et l'exercice à
+l'administration du conseil.
+Ladite interdiction s'applique à l'ensemble du personnel
+dudit ministère et du conseil, quels que soient ses qualités et
+ses statuts administratifs, qu'il soit en situation statutaire ou
+contractuelle.
+TITRE V
+STATUT ET OBLIGATIONS DES MEMBRES DU CONSEIL
+
+*Citations :*
+
+- `l'article 34` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 85
+
+*Article 85*
+
+Aucun membre du conseil ne peut cumuler l'exercice au
+ministère des Habous et des affaires islamiques et la qualité
+de membre au conseil. La qualité de membre au conseil
+est également incompatible avec la qualité de membre au
+gouvernement et avec toute mission électorale publique.
+
+
+## Article 86
+
+*Article 86*
+
+Les fonctionnaires exerçant au ministère des Habous
+et des affaires islamiques, désignés membres au conseil, sont
+mis à la disposition de ce dernier à la demande du président
+du conseil jusqu'au terme de leur qualité de membre.
+Tout fonctionnaire relevant d'une autre administration
+publique, désigné membre au conseil, est mis à la disposition
+de ce dernier, à la demande de son président et ce, jusqu'au
+terme de sa qualité de membre.
+
+
+## Article 87
+
+*Article 87*
+
+Les membres du conseil sont tenus du secret professionnel
+et de s'abstenir de tout acte ou comportement susceptible
+d'entraver leur autonomie et leur impartialité ou de porter
+atteinte à leur honnêteté ou à la noblesse de leurs missions.
+A cet effet, il leur est particulièrement interdit durant la
+période où ils sont membres de :
+– prendre toute position expresse, donner tout avis ou
+toute position ou émettre toute fatwa dans les affaires
+et les questions soumises à l'examen du conseil, celles
+qui lui ont déjà été soumises, ou au sujet desquelles le
+conseil a émis un arrêté, un rapport, une observation,
+une recommandation ou une proposition, ou a adopté
+une position à son égard ;
+– divulguer des informations ou des données, dévoiler
+ou publier des documents ou des pièces ayant trait ou
+relatives aux champs d'action du conseil ;
+– se servir de leur qualité de membres au conseil pour
+l'obtention d'intérêts matériels ou moraux, directs ou
+indirects, quelle qu'en soit la nature.
+Les dispositions de la législation en vigueur s'appliquent
+contre tout contrevenant.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 88
+
+*Article 88*
+
+Aucun membre du conseil ne doit avoir d'intérêt
+direct ou indirect auprès de toute administration ou tout
+organisme relevant de l'admiration des Habous soumis au
+contrôle du conseil. Le membre concerné doit, dès sa prise de
+connaissance de l'existence d'un intérêt de ce genre, le déclarer
+immédiatement au président du conseil pour qu'il prenne les
+mesures adéquates, à même d'éviter la continuation du cas
+susmentionné.
+En cas de non-déclaration et lorsque le président du
+conseil en est informé, ce dernier prend immédiatement les
+mesures adéquates susmentionnées et adresse une demande
+d'explication au membre concerné au sujet de sa non-
+déclaration.
+Lorsque la non-déclaration de manière intentionnée
+est prouvée, le président du conseil en adresse une note
+d'avertissement au membre concerné.
+
+
+## Article 89
+
+*Article 89*
+
+Le président et les membres du conseil sont soumis
+à la déclaration du patrimoine, prévue au Titre II de la loi
+n° 54-06 relative à l'institution d'une déclaration obligatoire du
+patrimoine de certains élus des conseils locaux et des chambres
+professionnelles et de certaines catégories de fonctionnaires
+ou agents publics, promulguée par le dahir n° 1-07-202 du
+20 chaoual 1429 (20 octobre 2008).
+
+*Entités :* `loi
+n° 54-06 relative à l'institution d'une déclaration obligatoire du` (LOI), `dahir n° 1-07-202 du
+20 chaoual 1429 (20 octobre 2008)` (DAHIR)
+
+
+## Article 90
+
+*Article 90*
+
+Les membres du conseil perçoivent des indemnités de
+missions et de déplacement, à l'occasion de l'exercice desdites
+missions, dont les montants et les modalités d'octroi sont
+fixés, après la Haute approbation de Sa Majesté, par arrêté
+du président du conseil.
+TITRE VI
+DISPOSITIONS FINALES
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 91
+
+*Article 91*
+
+Les conseillers, les experts et les fonctionnaires qui
+assistent le conseil sont tenus du secret total quant au contenu
+des délibérations et des décisions et de la discrétion absolue
+concernant les pièces qu'ils établissent ou dont ils prennent
+connaissance.
+
+
+## Article 92
+
+*Article 92*
+
+En application des dispositions de l'article 162 du code
+des Habous, le présent règlement intérieur est soumis à
+l'approbation de Sa Majesté.
+Toute modification ou complément de ses dispositions
+est soumise à la même mesure.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 162` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Personnes :* Sa Majesté
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 93
+
+*Article 93*
+
+Les dispositions du présent règlement intérieur entrent
+en vigueur de manière progressive à compter de la date de sa
+publication au Bulletin officiel.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5982 du 1er kaada 1432 (29 septembre 2011).
+
+*Entités :* `Bulletin officiel » n° 5982` (BULLETIN_OFFICIEL), `1er kaada 1432` (DATE_HIJRI), `29 septembre 2011` (DATE_GREGORIAN)
+
+*Dates :* 1er kaada 1432, 29 septembre 2011
+
+
+## Article unique
+
+*Article unique*
+
+Sont complétées comme suit, les dispositions de
+l'article 33 du règlement intérieur du conseil supérieur du
+contrôle des finances des Habous publics susvisé :
+« dans le domaine administratif, financier ou technique.
+«  Toutefois, à défaut de cadres disposant d'une
+« expérience professionnelle non  inférieure à 4 ans, le président
+« du conseil peut désigner, à titre exceptionnel, dans la  mission
+« de chef d'unité au conseil, ceux disposant d'une ancienneté
+« inférieure à celle  prévue à l'alinéa premier ci-dessus. »
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6088 du 17 kaada 1433 (4 octobre 2012).
+
+*Entités :* `Bulletin officiel » n° 6088 du 17 kaada 1433 (4 octobre 2012)` (BULLETIN_OFFICIEL)
+
+*Citations :*
+
+- `l'article 33` → Bulletin officiel » n° 6088 du 17 kaada 1433 (4 octobre 2012) [✓]
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est approuvé tel qu'annexé au
+présent dahir, le texte modifiant et complétant les dispositions
+du règlement intérieur du conseil supérieur du contrôle des
+finances des Habous publics, approuvé par le dahir susvisé
+n° 1-11-139.
+
+*Entités :* `1-11-139` (DAHIR)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent dahir est publié au Bulletin officiel.
+Fait à Rabat, le 23 joumada II 1440 (1er mars 2019).
+*
+Modification et complément du règlement intérieur du conseil
+supérieur du contrôle des finances des Habous publics
+
+*Entités :* `23 joumada II 1440` (DATE_HIJRI), `1er mars 2019` (DATE_GREGORIAN)
+
+*Dates :* 23 joumada II 1440, 1er mars 2019
+
+
+## Article premier
+
+*Article premier*
+
+Sont modiféies et complétées comme suit, les dispositions
+des articles 5 (alinéa 3), 6 (premier alinéa), 9, 10, 12, 16, 42
+(premier alinéa), 43 (premier alinéa), 44 (premier alinéa), 45,
+46 (premier alinéa), 47, 49 (premier alinéa), 50, 51, 52, 53, 58,
+59 (premier alinéa), 60, 61, 62, 64, 65, 66 (premier alinéa), 67,
+68, 69 (premier alinéa), 70, 71, 72, 73, 74, 75, 79 (alinéa 2) et 80
+du règlement intérieur du conseil supérieur du contrôle des
+finances des Habous publics, approuvé par le dahir n° 1-11-139
+du 8 ramadan 1432 (9 août 2011) :
+« Article 5 (alinéa 3). – A cet effet,  […texte non modifié…] suivantes :
+« – ……………………………………………… ;
+« – …………………………………………………… ;
+« – veille en coordination …………………. et exécution ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« –  soumet à l'autorité gouvernementale chargée des
+« Habous pour adoption, les projets de textes afférents
+« à l'organisation financière et comptable relative au
+« budget, à la nomenclature des procédures comptables
+«  et au règlement relatif aux marchés ou les
+« modifications proposées à y être introduites
+« ………………………………. du conseil ;
+« – soumet à l'autorité gouvernementale chargée des
+« Habous, les avis du conseil au sujet des projets de la
+« nomenclature du budget annuel des Habous publics
+« ou ses avis sur les modifications proposées à y être
+« introduites pour leur mise à jour ou révision et ce,
+« après leur validation par l'assemblée générale du
+« conseil ;
+« – adresse à l'autorité gouvernementale chargée des
+« – Habous des copies ……… […texte non modifié…]  du conseil ;
+« – porte ………………… perspectives de travail du conseil
+« ainsi que les observations et les réponses suscitées à
+« son sujet par l'autorité gouvernementale chargée des
+« Habous et en soumet une copie  […texte non modifié…]  à titre d'information,
+« à ladite autorité. »
+« Article 6 (alinéa premier). – Les commissions  […texte non modifié…]  de :
+« * commissions permanentes comprenant :
+« – la commission du budget ;
+« – la commission d'audit ;
+« – la commission des études et des recherches.
+« * et de commissions provisoires comprenant :
+« – la commission d'élaboration des projets de textes
+« financiers élaborés par le conseil  conformément
+« aux dispositions du code des Habous et du présent
+« règlement intérieur ;
+« – la commission ……………………… constatation. »
+« Article 9. –  La commission du budget est chargée,
+« sous réserve des objectifs et des contenus de la stratégie du
+« développement du Habous, prévue à l'article 2 bis du code
+« des Habous, des missions suivantes :
+« –  étudier le projet de budget ……………………………………
+« d'un rapport spécial ;
+« – étudier, débattre et émettre l'avis sur le compte Habous
+« soumis au conseil par l'autorité gouvernementale
+« ………………………… d'un rapport spécial ;
+« – élaborer le projet de rapport annuel ………………………
+« pour approbation. »
+« Article 10. – La commission des études et des recherches
+« est chargée des missions suivantes :
+« – d'étudier …………………………... pour examen ;
+« – d'étudier les demandes de consultation présentées par
+« l'autorité …………………….  à leur propos ;
+« – de procéder à l'étude, du point de vue légal, des
+« questions du Habous, de réaliser toute  recherche ou
+« étude sur les différents domaines du développement du
+« Habous public et  d'amélioration de son rendement
+«  et des moyens de sa gestion et élaborer les
+«  recommandations et les propositions du conseil
+« qu'il soumet à l'autorité gouvernementale chargée
+« des Habous après leur approbation par l'assemblée
+« générale du conseil. »
+«  Article 12. – La commission ………………. de
+« l'élaboration des projets de textes financiers entrant dans le
+« cadre des attributions du conseil, est chargée de l'élaboration
+« des projets de textes suivants :
+« – le projet de l'organisation financière et comptable
+« ………………. de son exécution ; »
+(Le reste sans changement)
+« Article 16. –  Sous réserve des dispositions du troisième
+« alinéa de l'article 158 du code des Habous, l'assemblée
+« générale du conseil exerce, les attributions suivantes :
+« – ……………………………………………………… […texte non modifié…]  ;
+« – prendre connaissance du programme …………………
+« à son sujet ;
+«  – valider les projets ………………………….. de
+« l'élaboration des projets de textes  financiers ayant
+« trait à l'organisation financière et comptable du
+« budget, à la nomenclature des procédures comptables
+« et au règlement relatif aux marchés, avant d'être
+« soumis …………………. pour adoption ;
+« – valider les avis du conseil portant sur les projets de
+« la nomenclature du budget annuel des Habous publics
+« avant leur soumission par le président du conseil à
+« l'autorité gouvernementale chargée des Habous ;
+« – approuver le projet de budget annuel des Habous
+« publics après son étude par la commission du budget,
+« et prendre connaissance ……………….. à cet effet par
+« ladite  commission ;
+« – valider les résultats …………. établi par la commission
+« d'audit sur les rapports  ………………………… locaux.
+« L'arrêté d'approbation ………………… des Habous ;
+« – approuver le compte Habous relatif à l'exécution
+« …………………… par la  commission du budget et
+« après avoir pris connaissance ………………… à cet
+« effet ;
+«  L'arrêté d'approbation dudit compte Habous
+«  ……………………. doit être assorti d'une déclaration
+«  …………………… dans le compte Habous soumis
+« ……………………… chargée des Habous.
+« En outre, ……………………………………………. aux
+« Habous publics.
+« – valider les consultations et les études établies par la
+« commission des études et des recherches conformément
+« aux dispositions de l'article 10 du présent règlement
+« intérieur ;
+« – statuer sur les demandes …………………………. par
+« la commission des études et des recherches ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« – prendre connaissance des rapports ………………………
+« et recommandations ;
+« – prendre connaissance des recherches ……………………
+« la commission des études et  des recherches et approuver
+« ……………………………………. des Habous.
+(Le reste sans changement.)
+« Article 42 (alinéa premier). – Le président du conseil
+« soumet ……………………, à la commission du budget. »
+« Article 43 (alinéa premier). – Doivent …………………
+« son contenu, notamment les pièces prévues à l'article 143 bis
+« du code des Habous. »
+« Article 44 (alinéa premier). – L'autorité …… […texte non modifié…] …...
+ « devant la commission du budget à la date …...….. ci-dessus. »
+« Article 45 – La commission du budget consacre une
+« séance …………………………... la discussion générale. »
+« Article 46 (alinéa premier). – La commission du budget
+« tient ses réunions ……………………………, conformément
+« aux dispositions des articles 135 et 138 du code des Habous
+« et à la nomenclature du budget. »
+« Article 47. – La commission du budget peut, sur la base
+« des résultats de la discussion, proposer des modifications
+« …………………… le projet. »
+«  Article 49 (alinéa premier).  –  Les membres de la
+« sa présentation. »
+« Article 50. – La commission du budget consacre une
+« réunion ………………………... par l'autorité gouvernementale
+« chargée des Habous. »
+«  Article 51.  –  Les propositions de modifications
+« présentées par la commission du budget sont rejetées dans
+« les cas suivants :
+(Le reste sans changement.)
+« Article 52. – Au terme de la discussion, la commission
+« du budget doit soumettre à l'approbation de l'assemblée
+« générale du conseil ………………………………………
+(Le reste sans changement.)
+« Article 53. – sous réserve des conditions prévues
+« au deuxième alinéa de l'article 143 du code des Habous,
+« l'assemblée générale du conseil approuve ……………………
+«  du rapport de la commission du budget présenté par
+« ………………… son représentant.
+« L'assemblée générale peut, le cas échéant, approuver
+« le projet de budget qui lui est soumis, en assortissant ladite
+« approbation de ses observations et propositions sur le projet
+« de budget.
+« Les dispositions du troisième et du quatrième alinéas
+« de l'article 143 du code des Habous sont applicables en cas
+« de non-approbation avant le début de l'année budgétaire,
+« conformément aux dispositions du deuxième alinéa du
+« même article. Dans ce cas, le projet de budget est remis à la
+« commission du budget pour le réétudier ………… […texte non modifié…] …….
+« du projet. »
+« Article 58. – Les rapports annuels des contrôleurs
+« sont soumis à la commission d'audit pour étude …………………
+« du code des Habous. »
+« Article 59 (alinéa premier). – La commission d'audit
+« établit, conformément aux directives ………………………….
+« au conseil. »
+« Article 60. – La commission d'audit peut adresser
+« ……………………………qui lui est fixé par le conseil. »
+« Article 61. – La commission d'audit peut demander
+« ……………………………… au conseil. »
+« Article 62. – La commission d'audit adresse la demande
+«  […texte non modifié…]  Nadher des Habous. »
+« Article 64. – Au terme de l'étude des rapports soumis
+« au conseil, la commission d'audit doit élaborer un rapport
+« ………………………… conformément aux dispositions des
+« articles 9 bis et 16 du présent règlement intérieur. »
+«  Article 65.  –  En application des dispositions de
+« l'article 150 du code des Habous, le conseil veille à l'audit du
+« compte Habous relatif ……………………………………………
+(Le reste sans changement.)
+« Article 66 (alinéa premier). – Le compte Habous est
+« ordonnées. »
+« Article 67. – En application ……………………………
+« soumettre au conseil, le compte Habous au titre de chaque
+« année, avant le 31 mars de l'année qui suit celle au titre de
+« laquelle ledit compte est présenté. »
+« Article 68. – Le compte Habous soumis au conseil
+« est assorti des pièces prévues aux troisième et quatrième
+« alinéas de l'article 150 du code des Habous et, le cas échéant,
+« de toutes les observations …………… […texte non modifié…] ……… d'auditer
+« le compte Habous qui lui est soumis. »
+« Article 69 (alinéa premier). – Le président du conseil
+« soumet le compte Habous dès réception à la commission
+« du budget. »
+« Article 70. – L'autorité gouvernementale chargée des
+« Habous doit …………. à l'étude et à la discussion du compte
+« Habous. »
+« Article 71. – L'autorité gouvernementale ………………
+« devant la commission du budget et à la date convenue,
+« un exposé général du compte Habous.
+« Ledit exposé comporte …………………………… objet
+« du compte Habous et les résultats réalisés. »
+« Article 72. – La commission du budget consacre des
+« séances spéciales, selon le calendrier convenu, pour l'étude
+« et la discussion du compte Habous ………………………. aux
+« observations des membres de la commission. »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+« Article 73. – Au terme de l'étude et de la discussion,
+« la commission du budget doit établir un rapport spécial
+« du bilan de ses travaux, assorti du compte Habous soumis
+« ………………… intérieur. »
+«  Article 74.  –  En application des dispositions du
+« quatrième paragraphe du …………… […texte non modifié…] ……… […texte non modifié…] ………
+« des finances des Habous publics. »
+« Article 75. – L'audit ………………………... vise à :
+« – ……………………………………………………… ;
+«  –  s'assurer du respect des règles de la Charia,
+« conformément aux dispositions du troisième alinéa
+« de l'article 158 du code des Habous, ainsi que des lois
+« …………… […texte non modifié…]  ;
+(Le reste sans changement.)
+« Article 79 (deuxième alinéa). – Les rapports établis
+« sont soumis par le président du conseil à la commission
+« d'audit pour l'élaboration d'un rapport soumis à l'assemblée
+« générale du conseil. »
+«  Article 80.  –  En application des dispositions du
+« quatrième paragraphe du deuxième alinéa de l'article 158 du
+« code des Habous……………………………… objet du rapport.
+« Le rapport comporte ………………………………………
+« et leur accroissement, ainsi que les observations et les
+« réponses suscitées à son sujet par l'autorité gouvernementale
+« chargée des Habous conformément aux dispositions de
+« l'article 158 ter du code des Habous.
+« ……………………………………………………
+(Le reste sans changement.)
+Article 2
+Est modifié comme suit, le titre de la section 2 du
+chapitre II du titre III du règlement intérieur du conseil
+supérieur du contrôle des finances des Habous publics,
+approuvé par le dahir susvisé n° 1-11-139 :
+« Section II. – Étude et approbation du compte Habous
+« relatif à l'exécution du budget annuel
+Article 3
+Sont complétées par l'article 9 bis suivante, les
+dispositions du règlement intérieur du conseil supérieur du
+contrôle des finances des Habous publics, approuvé par le
+dahir susvisé n° 1-11-139 :
+« Article 9 bis. – La commission d'audit est chargée des
+« missions suivantes :
+« – examiner les rapports annuels soumis par le contrôleur
+« financier central des Habous et les contrôleurs locaux,
+« sur le bilan de leurs activités et émettre l'avis à leurs
+« sujets à travers l'élaboration d'un rapport spécial
+« que la commission soumet à l'assemblée générale
+« du conseil, qui comporte les observations éventuelles
+« de l'autorité gouvernementale chargée des Habous
+« et qui peut, également, contenir les recommandations
+« et les propositions du conseil pour l'amélioration de
+« la performance et le respect des normes et des règles
+« relatives à la gestion des finances des Habous publics.
+«  –  ledit rapport spécial doit être assorti de la
+« proposition de la commission certifiant la régularité
+« des opérations effectuées par les contrôleurs concernés
+« et, le cas échéant, des recommandations afférentes
+« la responsabilité des personnes ayant manqué à leurs
+« obligations quant à l'accomplissement des missions
+« qui leur sont dévolues, après leur avoir adressé une
+« demande d'explication ;
+« – effectuer l'opération d'audit annuel de l'état de la
+« gestion financière des Habous publics. »
+
+*Entités :* `dahir n° 1-11-139
+du 8 ramadan 1432 (9 août 2011)` (DAHIR), `15 ramadan 1447` (DATE_HIJRI), `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 5` → dahir n° 1-11-139 du 8 ramadan 1432 (9 août 2011) [✓]
+- `l'article 2` → dahir n° 1-11-139 du 8 ramadan 1432 (9 août 2011) [✓]
+- `l'article 158` → arrêté [✓]
+- `l'article 10` → arrêté [✓]
+- `l'article 143` → arrêté [✓]
+- `articles 135 et 138` → arrêté [✓]
+- `l'article 143` → arrêté [✓]
+- `l'article 143` → arrêté [✓]
+- `articles 9` → arrêté [✓]
+- `l'article 150` → arrêté [✓]
+- `l'article 150` → arrêté [✓]
+- `l'article 158` → arrêté [✓]
+- `l'article 158` → arrêté [✓]
+- `l'article 158` → arrêté [✓]
+- `l'article 9` → arrêté [✓]
+
+*Dates :* 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article 4
+
+*Article 4*
+
+Sont abrogées et remplacées par les dispositions
+suivantes, les dispositions de l'article 77 du règlement intérieur
+du conseil supérieur du contrôle des finances des Habous
+publics, approuvé par le dahir susvisé n° 1-11-139 :
+« Article 77. – Pour toute opération d'audit, le président
+« du conseil désigne une délégation spéciale comportant
+« un membre unique du conseil, laquelle se fait assister dans
+« l'accomplissement de ses missions d'experts et de cadres
+« spécialisés, désignés par décision du président du conseil, à
+« condition qu'ils ne soient pas en exercice à l'administration
+« des Habous. »
+
+*Entités :* `1-11-139` (DAHIR)
+
+*Citations :*
+
+- `l'article 77` → Dahir n° 1-19-47 [✓]
+
+
+## Article 5
+
+*Article 5*
+
+Sont abrogées, les dispositions de l'article 11 du règlement
+intérieur du conseil supérieur du contrôle des finances des
+Habous publics, approuvé par le dahir susvisé n° 1-11-139.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6759 du 4 rejeb 1440 (11 mars 2019).
+
+*Entités :* `Bulletin officiel » n° 6759 du 4 rejeb 1440 (11 mars 2019)` (BULLETIN_OFFICIEL), `1-11-139` (DAHIR)
+
+*Citations :*
+
+- `l'article 11` → Bulletin officiel » n° 6759 du 4 rejeb 1440 (11 mars 2019) [✓]
+
+
+## Article premier
+
+*Article premier*
+
+Est approuvé, le règlement intérieur de la Fondation
+Mohammed VI des œuvres sociales du personnel du ministère
+des Habous et des affaires islamiques, annexé au présent dahir.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 2
+
+*Article 2*
+
+Le présent dahir sera publié au Bulletin officiel.
+Fait à Rabat, le 24 rejeb 1443 (26 février 2022).
+*
+
+*Entités :* `24 rejeb 1443` (DATE_HIJRI), `26 février 2022` (DATE_GREGORIAN)
+
+*Dates :* 24 rejeb 1443, 26 février 2022
+
+
+## Article premier
+
+*Article premier*
+
+Est fixé conformément aux dispositions prévues aux
+articles ci-après, le règlement intérieur de la Fondation
+Mohammed VI des œuvres sociales du personnel du ministère
+des Habous et des affaires islamiques, créée en vertu du dahir
+n° 1-19-51 du 29 rejeb 1440 (5 avril 2019).
+La Fondation Mohammed VI des œuvres sociales du
+personnel du ministère des Habous et des affaires islamiques
+est désignée ci-après par la « Fondation ».
+
+*Entités :* `dahir
+n° 1-19-51 du 29 rejeb 1440 (5 avril 2019)` (DAHIR)
+
+
+## Article 2
+
+*Article 2*
+
+Sont fixées conformément aux dispositions du présent
+règlement intérieur :
+– les modalités de gestion du conseil administratif de la
+Fondation ;
+–  les attributions, la composition et le mode de
+fonctionnement des commissions permanentes et des
+commissions spéciales ;
+– les conditions et les modalités de création de branches
+de la Fondation ;
+–  les conditions pour bénéficier des services de la
+Fondation ;
+–  les conditions d'octroi de prêts et de subventions
+financières aux adhérents ;
+– les conditions et les normes de délégation de gestion des
+installations créées par la Fondation aux personnes de
+droit privé ;
+– les indemnités pouvant être allouées aux membres
+du conseil administratif pour les missions et les
+déplacements exigés par l'intérêt de la Fondation.
+Titre II
+Modalités de gestion du conseil administratif
+de la Fondation
+
+
+## Article 3
+
+*Article 3*
+
+Le conseil tient ses réunions en mois de mars et octobre
+de chaque année.
+Ces dates peuvent être modifiées par décision du
+président du conseil chaque fois que nécessaire.
+
+
+## Article 4
+
+*Article 4*
+
+La convocation aux réunions est adressée par le président
+du conseil, par tous les moyens disponibles, une semaine au
+moins avant la date prévue pour la tenue de la réunion.
+
+
+## Article 5
+
+*Article 5*
+
+La date et le lieu de la tenue de la réunion sont consignés
+dans la convocation, laquelle est assortie de l'ordre du jour et
+des pièces relatives aux questions y fgiurant, le cas échéant.
+
+
+## Article 6
+
+*Article 6*
+
+Le conseil tient ses réunions au siège de la Fondation
+et peut les tenir dans tout autre lieu fixé par le président du
+conseil.
+
+
+## Article 7
+
+*Article 7*
+
+La présence aux réunions du conseil est obligatoire et
+aucun membre ne peut s'absenter sans motif valable.
+Titre III
+Commissions du conseil
+
+*Personnes :* Titre III
+
+*Organisations :* Commissions du conseil
+
+
+## Article 8
+
+*Article 8*
+
+Sont créées auprès du conseil les commissions
+permanentes suivantes :
+– la commission des affaires juridiques et financières ;
+– la commission des affaires sociales ;
+– la commission de l'équipement et de l'investissement.
+
+
+## Article 9
+
+*Article 9*
+
+Sont créées auprès du conseil les deux commissions
+spéciales suivantes :
+– la commission de coordination et de règlement ;
+– la commission d'enquête et d'investigation.
+
+
+## Article 10
+
+*Article 10*
+
+La commission des affaires juridiques et financières est
+chargée d'étudier tous les projets et documents à caractère
+juridique ou financier, y compris les projets suivants :
+– le projet du budget de la Fondation ;
+– les projets de contrats et de conventions à conclure par
+la Fondation ;
+–  le projet de l'organisation administrative de la
+Fondation ;
+–  le projet de règlement fixant les conditions et les
+modalités de passation des marchés de travaux, de
+fournitures et de services en relation avec les missions
+de la Fondation ;
+–  les projets de conventions de partenariat et de
+coopération avec les organismes et les associations
+ayant des objectifs communs avec la Fondation.
+
+
+## Article 11
+
+*Article 11*
+
+La commission des affaires sociales est chargée d'étudier
+les projets à caractère social, proposés au profti des adhérents,
+y compris les projets visant la réalisation des objectifs dévolus
+à la Fondation en vertu des articles 2 et 3 du dahir n° 1-19-51
+prévu à l'article premier ci-dessus.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `dahir n° 1-19-51` (DAHIR), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `articles 2 et 3` → dahir n° 1-19-51 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 12
+
+*Article 12*
+
+La commission de l'équipement et de l'investissement
+est chargée de l'examen et de l'étude, de faisabilité et du côté
+technique, des projets visant la fourniture et l'équipement des
+installations sociales, sportives et de divertissement proposées
+au profti des adhérents.
+
+
+## Article 13
+
+*Article 13*
+
+La commission de coordination et de règlement assure
+l'harmonisation des visions et des recommandations des
+commissions permanentes, la coordination des positions et
+des avis émis par chaque commission à l'occasion de leur étude
+des projets et des dossiers soumis par le conseil et consigne les
+solutions proposées dans un procès-verbal.
+
+
+## Article 14
+
+*Article 14*
+
+La commission d'enquête et d'investigation assure la
+mission d'enquête et de constatation des faits ainsi que de
+l'inspection des dossiers et des questions ayant trait aux
+attributions de la Fondation dont elle est chargée par le conseil.
+La commission accomplit sa mission dans les limites
+prévues par la décision la chargeant de ladite mission et
+consigne ses résultats dans un rapport.
+
+
+## Article 15
+
+*Article 15*
+
+Chaque commission permanente se compose au
+maximum de six membres, dont un président et un rapporteur,
+désignés par le président du conseil administratif parmi les
+membres dudit conseil.
+
+
+## Article 16
+
+*Article 16*
+
+Toute commission permanente peut, pour
+l'accomplissement de ses missions et à titre consultatif, se faire
+assister par des experts désignés par décision du président du
+conseil.
+
+
+## Article 17
+
+*Article 17*
+
+La commission de coordination et de règlement et
+celle d'enquête et d'investigation se compose chacune d'un
+représentant de chaque commission permanente, tous désignés
+par le président du conseil.
+La commission de coordination et de règlement est
+présidée par le représentant de la direction des affaires
+juridiques au conseil administratif de la Fondation, celle
+d'enquête et d'investigation, par le représentant de l'inspection
+générale audit conseil.
+
+
+## Article 18
+
+*Article 18*
+
+Le président du conseil peut, à titre consultatif, inviter
+aux réunions de toute commission permanente ou spéciale,
+toute personne qu'il juge utile de recourir à son expertise.
+
+
+## Article 19
+
+*Article 19*
+
+Le président de toute commission permanente ou
+spéciale peut charger l'un des membres de missions définies,
+dont les résultats sont soumis à la commission concernée pour
+examen.
+
+
+## Article 20
+
+*Article 20*
+
+Les commissions permanentes et spéciales tiennent
+valablement leurs réunions par la présence d'au moins trois
+membres de chacune.
+Lorsqu'à défaut de quorum, la réunion ne peut se tenir
+consécutivement à deux reprises, le président de la commission
+concernée saisit le président du conseil en vue de prendre les
+mesures nécessaires garantissant la tenue légale de la réunion.
+
+
+## Article 21
+
+*Article 21*
+
+Les commissions permanentes étudient les projets, les
+demandes et les questions qui leur sont soumis par le conseil,
+proposent le cas échéant, les modifications opportunes, et
+font consigner leurs avis et leurs recommandations dans un
+procès-verbal.
+
+
+## Article 22
+
+*Article 22*
+
+Les procès-verbaux et les rapports établis par les
+commissions permanentes et les deux commissions spéciales
+sont datés, signés par leurs présidents et membres concernés
+et soumis au conseil pour examen en séance plénière.
+Titre IV
+Conditions et modalités de création de branches
+de la Fondation
+
+*Personnes :* Titre IV
+
+
+
+## Article 23
+
+*Article 23*
+
+Des branches de la Fondation sont créées par décision
+de son conseil administratif, pris sur proposition d'un ou
+plusieurs membres du conseil et à la majorité absolue de ses
+membres.
+Lesdites branches sont régionales et peuvent être, le cas
+échéant, provinciales.
+
+
+## Article 24
+
+*Article 24*
+
+Sont requis pour la création de branches de la Fondation,
+une forte demande des adhérents sur le camping dans la
+région, l'existence d'installations sociales, sportives ou de
+divertissement dans ladite région ou que cette dernière dispose
+d'un nombre important d'adhérents.
+Le nombre minimal d'adhérents est fixé par décision du
+conseil administratif de la Fondation.
+
+
+## Article 25
+
+*Article 25*
+
+La branche de la Fondation est gérée, selon le cas, par le
+délégué régional ou provincial des affaires islamiques en tant
+que président, assisté dans la gestion des affaires de la branche
+par un ou plusieurs employés de la Fondation.
+
+
+## Article 26
+
+*Article 26*
+
+Le président de la branche est chargé, sous la supervision
+du directeur de la Fondation, d'accomplir les missions
+suivantes :
+– exécuter les décisions du conseil administratif ;
+–  assurer le suivi d'exécution des contrats et des
+conventions, conclus par la Fondation dans son ressort
+territorial ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+–  veiller à la bonne gestion des installations de la
+Fondation et assurer le suivi des projets d'installations
+en cours de réalisation ;
+– informer les adhérents des services fournis par la
+Fondation et leur y faciliter l'accès ;
+– élaborer un rapport annuel du bilan d'activités de la
+branche et le soumettre au directeur de la Fondation
+pour le faire consigner dans le rapport annuel relatif au
+bilan d'activités et de fonctionnement de la Fondation ;
+– proposer toute mesure susceptible de développer et
+d'améliorer les services de la branche.
+Titre V
+Conditions requises pour bénéficier des services
+de la Fondation
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Personnes :* Titre V
+
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 27
+
+*Article 27*
+
+Les conditions suivantes sont requises pour bénéficier
+des services de la Fondation :
+– s'acquitter régulièrement des droits d'adhésion et de
+cotisation ;
+– respecter les lois et les règlements applicables au sein de
+la Fondation et des installations y afférentes ;
+– préserver les installations, le matériel et les équipements
+de la Fondation ;
+– s'abstenir de pratiquer toute activité de nature à perturber
+ou d'impacter la bonne marche de la Fondation et des
+installations y afférentes.
+En cas de manquement à l'une des conditions
+susmentionnées, la jouissance de l'adhérent des services de
+la Fondation peut être suspendue pour une durée déterminée
+par décision du conseil administratif.
+
+
+## Article 28
+
+*Article 28*
+
+Le conseil administratif de la Fondation peut prévoir
+des conditions supplémentaires pour bénéfciier des services de
+la Fondation, autres que celles prévues à l'article 27 ci-dessus.
+Titre VI
+Conditions d'octroi de prêts et de subventions financières
+aux adhérents
+
+*Citations :*
+
+- `l'article 27` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Personnes :* Titre VI
+
+
+
+## Article 29
+
+*Article 29*
+
+Les conditions d'octroi de prêts aux adhérents, pour
+subvenir à des besoins urgents ou fortuits, sont fixées
+conformément aux dispositions prévues aux paragraphes 1,
+2 et 4 de l'article 31 ci-après.
+Les prêts sont octroyés aux adhérents conformément
+aux modalités prévues à l'article 32 ci-après.
+
+*Citations :*
+
+- `l'article 31` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 32` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 30
+
+*Article 30*
+
+Les montants des prêts sont remboursés conformément
+aux modalités de recouvrement des montants d'adhésion et de
+cotisation à la Fondation.
+
+
+## Article 31
+
+*Article 31*
+
+Les conditions d'octroi de subventions financières par la
+Fondation aux adhérents pour subvenir à des besoins urgents
+ou fortuits sont fixées comme suit :
+1 - que lesdits besoins soient d'ordre médical ou judiciaire,
+ou ayant trait à l'exécution d'engagements contractuels ou
+juridiques à caractère social ;
+2 - que leurs charges financières dépassent la capacité
+de paiement de l'adhérent ;
+3 - que lesdites charges ne soient pas couvertes par
+une assurance ou un cautionnement ou qu'elles soient
+remboursables au profti de l'adhérent ;
+4 - que les besoins fortuits ne soient pas susceptibles
+d'être reportés.
+
+
+## Article 32
+
+*Article 32*
+
+La priorité est accordée, en matière de prêts et de
+subventions, aux cas urgents, puis aux catégories les plus
+précaires du point de vue social. En cas de similitude ou de
+correspondance, elle est accordée à l'adhérent le plus âgé
+puis au plus ancien ayant rejoint le secteur des Habous et des
+affaires islamiques ou les établissements placés sous sa tutelle.
+Titre VII
+Conditions et normes de délégation
+de gestion des installations de la Fondation
+
+*Personnes :* Titre VII
+
+
+
+## Article 33
+
+*Article 33*
+
+Les normes de délégation de gestion des installations
+créées par la Fondation sont fixées comme suit :
+– que la gestion desdites installations nécessite une
+expertise spécifique dont la Fondation ne dispose pas ;
+– que les frais de gestion des installations dépassent les
+capacités financières de la Fondation ;
+– que la gestion déléguée offre de meilleurs services aux
+adhérents ;
+– que les frais de fonctionnement par gestion déléguée
+soient inférieurs à ceux de la gestion directe ;
+– que l'installation soit une copropriété de la Fondation
+et des tiers.
+
+
+## Article 34
+
+*Article 34*
+
+La personne à laquelle est déléguée la gestion des
+installations créées par la Fondation doit :
+– être une société créée conformément aux modalités
+légalement prévues ;
+– disposer d'une expertise en matière de gestion des
+installations objet de la délégation ;
+– disposer des équipements et des ressources humaines
+et matérielles requis pour la gestion de l'installation ;
+– ne pas être en situation de redressement ou de liquidation
+judiciaire.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 35
+
+*Article 35*
+
+La délégation de gestion des installations de la
+Fondation s'effectue par voie des procédures d'appel d'offres
+ou de l'entente directe, prévues à l'article 36 ci-après.
+
+*Citations :*
+
+- `l'article 36` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 36
+
+*Article 36*
+
+Les mesures de l'appel d'offres et la procédure de
+l'entente directe sont fixées par décision du président du conseil
+administratif de la Fondation, pris à la majorité absolue des
+membres du conseil.
+Les principes de transparence, d'égalité, de concurrence
+et de publicité préalable doivent être observés lors de la prise
+de ladite décision par le conseil.
+
+
+## Article 37
+
+*Article 37*
+
+La délégation de la gestion des installations de la
+Fondation par voie de la procédure de l'entente directe est
+possible dans les cas suivants :
+– effectuer l'appel d'offres à deux reprises consécutives
+sans aboutir à un résultat ;
+– la survenue d'un incident fortuit ou d'un cas de force
+majeure empêchant le déroulement des mesures de
+l'appel d'offres ;
+– en cas de besoin imminent et urgent aux services de
+l'installation ou de continuité desdits services.
+
+
+## Article 38
+
+*Article 38*
+
+La gestion des installations de la Fondation est déléguée
+sous forme d'un contrat écrit, comportant impérativement ce
+qui suit :
+– la durée du contrat ;
+– les obligations du délégataire ;
+– les contrats d'assurance à souscrire ;
+– les mesures et les mécanismes de suivi et de contrôle de
+l'exécution du contrat ;
+– les cas et les conditions de la résiliation.
+
+
+## Article 39
+
+*Article 39*
+
+Le cahier des charges, prévu à l'article 4 du dahir
+n° 1-19-51 visé à l'article premier ci-dessus, fait partie du contrat
+de la délégation de gestion des installations de la Fondation.
+
+*Entités :* `dahir
+n° 1-19-51` (DAHIR)
+
+*Citations :*
+
+- `l'article 4` → dahir n° 1-19-51 [✓]
+
+
+## Article 40
+
+*Article 40*
+
+Les tarifs des services offerts par la Fondation sont fixés
+par décision de son conseil administratif sous réserve de la
+situation administrative et financière des adhérents.
+Titre VIII
+Indemnités de missions et de déplacements
+
+
+## Article 41
+
+*Article 41*
+
+Sont fixés par décision du président du conseil, les
+montants des indemnités octroyées aux membres du conseil
+pour les missions et les déplacements qu'exige l'intérêt de la
+Fondation.
+
+
+## Article 42
+
+*Article 42*
+
+Les montants des indemnités, prévues à l'article 41
+ci-dessus, ne doivent pas dépasser les sommes des indemnités
+pour le déplacement en mission administrative, octroyées
+aux administrateurs du premier grade en vertu des textes
+réglementaires en vigueur.
+Titre IX
+Dispositions diverses
+
+*Citations :*
+
+- `l'article 41` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 43
+
+*Article 43*
+
+Le président du conseil peut proposer de modifier ou
+de compléter les dispositions du présent règlement intérieur
+après accord de la majorité absolue des membres.
+
+
+## Article 44
+
+*Article 44*
+
+La proposition prévue à l'article 43 ci-dessus est soumise
+à l'approbation de Sa Majesté le Roi.
+
+*Citations :*
+
+- `l'article 43` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 45
+
+*Article 45*
+
+Les dispositions du présent règlement intérieur entrent
+en vigueur, de manière progressive, à compter de la date de
+la publication du dahir portant son approbation au Bulletin
+officiel.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7074 du 14 chaabane 1443 (17 mars 2022).
+
+*Entités :* `Bulletin officiel » n° 7074 du 14 chaabane 1443 (17 mars 2022)` (BULLETIN_OFFICIEL)
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Sont fixés conformément aux
+modalités prévues au présent décret, la composition, les
+attributions et le fonctionnement de la commission royale du
+pèlerinage.
+TITRE II
+COMPOSITION DE LA COMMISSION ROYALE DU PÈLERINAGE
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le ministre chargé des Habous et des affaires
+islamiques ou son suppléant préside la commission royale
+du pèlerinage qui se compose des représentants des autorités
+gouvernementales suivantes :
+1 – Le premier ministre ;
+2 –  L'autorité gouvernementale chargée de l'extérieur
+et de la coopération ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+3 –  L'autorité gouvernementale chargée de l'intérieur ;
+4 –  l'autorité gouvernementale chargée des finances ;
+5 –  L'autorité gouvernementale chargée du transport ;
+6 –  L'autorité gouvernementale chargée du tourisme ;
+7 –  L'autorité gouvernementale chargée de la santé ;
+8 – L'autorité gouvernementale chargée de
+l'administration de la défense nationale ;
+9 –  L'autorité gouvernementale chargée des Marocains
+résidant à l'étranger.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le président de la commission peut inviter
+toute partie dont il juge la participation utile aux réunions
+de la commission.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Chaque autorité gouvernementale désigne son
+représentant à la commission royale du pèlerinage et en fait
+notifciation au ministère des Habous et des affaires islamiques.
+
+
+## Article 5
+
+*ART. 5. –*
+
+Le chef de la division du pèlerinage et des
+affaires sociales ou son suppléant est chargé de la mission de
+rapporteur de la commission royale du pèlerinage. Le chef
+du service du pèlerinage ou son suppléant assure la mission
+du secrétariat.
+TITRE III
+ATTRIBUTIONS DE LA COMMISSION ROYALE DU PÈLERINAGE
+
+
+## Article 6
+
+*ART. 6. –*
+
+La commission royale du pèlerinage est
+chargée des missions suivantes :
+1 – L'émission d'avis sur les programmes et les projets
+relatifs à l'organisation du pèlerinage et à l'amélioration des
+services rendus aux pèlerins ;
+2 – La proposition des mesures utiles à l'opération
+de coordination des programmes et de l'activité des parties
+intervenant dans l'organisation de la saison du pèlerinage ;
+3 – La proposition de solutions aux questions et
+problèmes relevés en matière d'organisation de la saison du
+pèlerinage.
+TITRE IV
+ORGANISATION DU TRAVAIL DE LA COMMISSION ROYALE DU
+
+
+## Article 7
+
+*ART. 7. –*
+
+La commission royale du pèlerinage tient ses
+réunions durant les dix derniers jours du mois de rabii II de
+chaque année et chaque fois que nécessaire.
+
+*Personnes :* rabii II
+
+
+## Article 8
+
+*ART. 8. –*
+
+La commission royale du pèlerinage adopte
+ses recommandations après étude de l'ordre du jour qui lui est
+soumis par le président.
+Les recommandations sont émises à la majorité des voix
+et en cas d'égalité, celle du président est prépondérante.
+
+
+## Article 9
+
+*ART. 9. –*
+
+Les recommandations de la commission royale
+du pèlerinage sont consignées dans un procès-verbal.
+
+
+## Article 10
+
+*ART. 10. –*
+
+Le président de la commission royale du
+pèlerinage peut constituer des sous-commissions relevant de
+la commission royale du pèlerinage pour l'étude de certaines
+questions relatives au pèlerinage.
+
+
+## Article 11
+
+*ART. 11. –*
+
+Le secrétaire de la commission royale du
+pèlerinage établit l'ordre du jour des réunions en coordination
+avec les membres de la commission et procède à cet effet, à la
+collecte des documents et des pièces nécessaires aux travaux
+de la commission.
+
+
+## Article 12
+
+*ART. 12. –*
+
+La présidence des délégations marocaines du
+pèlerinage procède à la présentation d'un rapport comportant
+les problèmes relevés durant la saison du pèlerinage de l'année
+précédente et donne ses propositions pour le perfectionnement
+de l'organisation de la saison du pèlerinage et l'amélioration
+du rendement des délégations.
+
+
+## Article 13
+
+*ART. 13. –*
+
+En coopération avec la direction des affaires
+islamiques, la présidence des délégations marocaines du
+pèlerinage assure la coordination des activités des parties
+intervenant dans l'organisation de la saison du pèlerinage,
+conformément aux recommandations de la commission royale
+du pèlerinage.
+
+
+## Article 14
+
+*ART. 14. –*
+
+Les modalités d'application des dispositions
+du présent décret sont fixées par arrêté du ministre des Habous
+et des affaires islamiques.
+
+*Entités :* `arrêté du ministre des Habous` (ARRETE)
+
+
+## Article 15
+
+*ART. 15. –*
+
+Le ministre des Habous et des affaires
+islamiques est chargé de l'exécution du présent décret qui est
+publié au Bulletin officiel.
+Fait à Rabat, le 16 kaada 1425 (29 décembre 2004).
+Driss Jettou.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5280 du 24 kaada 1425 (6 janvier 2005).
+
+*Entités :* `16 kaada 1425` (DATE_HIJRI), `29 décembre 2004` (DATE_GREGORIAN), `Bulletin officiel » n° 5280 du 24 kaada 1425 (6 janvier 2005)` (BULLETIN_OFFICIEL)
+
+*Personnes :* Driss Jettou
+
+*Dates :* 16 kaada 1425, 29 décembre 2004
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont abrogées et remplacées comme
+suit, les dispositions de l'article premier de l'arrêté susvisé
+n° 1814-05 du 14 chaabane 1426 (19 septembre 2005) :
+«  Article premier.  –  Sont fixées conformément aux
+« dispositions prévues au présent arrêté, les conditions de
+« sélection et les modalités de déroulement du concours d'accès
+« au cycle de la formation initiale spécialisée à l'établissement
+« Dar El Hadith El Hassania. »
+
+*Entités :* `arrêté susvisé
+n° 1814-05 du 14 chaabane 1426` (ARRETE), `19 septembre 2005` (DATE_GREGORIAN), `arrêté` (ARRETE), `établissement
+« Dar El Hadith El Hassania. »` (ORG), `1814-05` (ARRETE)
+
+*Dates :* 19 septembre 2005
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont modifiées et complétées comme suit, les
+dispositions des articles 2, 3 et 8 de l'arrêté susmentionné
+n° 1814-05 :
+«  Article 2.  –Sont admis à participer au concours
+«  […texte non modifié…]  les candidats et les candidates, mémorisant
+«  intégralement le Saint Coran et titulaires du diplôme
+«  […texte non modifié…]  les deux années du baccalauréat ne soit pas
+« inférieure à 12 sur 20. »
+« Article 3. – Le concours est organisé en trois étapes :
+«  la première étape  : il est procédé à la sélection
+«  […texte non modifié…]  et anglaise ;
+« la deuxième étape : une épreuve orale en matière de
+« mémorisation du Saint Coran, pour s'assurer que les candidats,
+« admis à la première étape, mémorisent intégralement le
+« Saint Coran. »
+« la troisième étape : il est procédé à des épreuves écrites
+« pour les candidats admis à la deuxième étape. »
+« Article 8. – La commission du concours procède
+« ci-dessus et dresse leur liste.
+« Elle supervise également l'épreuve orale et les épreuves
+« écrites, procède aux délibérations, arrête la liste des candidats
+« admis lors de la deuxième étape et la liste des candidats
+« admis  […texte non modifié…]   tous ses membres. »
+
+*Entités :* `arrêté` (ARRETE), `arrête` (ARRETE), `1814-05` (ARRETE)
+
+*Citations :*
+
+- `articles 2, 3 et 8` → arrêté [✓]
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 6 hija 1445 (13 juin 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7325 du 7 safar 1446 (12 août 2024).
+
+*Entités :* `arrêté` (ARRETE), `6 hija 1445` (DATE_HIJRI), `13 juin 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7325 du 7 safar 1446 (12 août 2024)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 6 hija 1445, 13 juin 2024
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Sont modifiées et complétées
+comme suit, les dispositions de l'article 9 de l'arrêté susvisé
+n° 930-08 du 12 kaada 1429 (11 novembre 2008) :
+« annuellement par l'établissement Dar El Hadith El Hassania. »
+« Peuvent être admis à l'inscription  […texte non modifié…]  les étudiants
+« mémorisant intégralement le Saint Coran et titulaires de
+« diplômes équivalents, après vérification de la mémorisation
+« du Saint Coran et étude du dossier  […texte non modifié…]  de l'étudiant
+«  concerné. »
+
+*Entités :* `arrêté susvisé
+n° 930-08 du 12 kaada 1429` (ARRETE), `11 novembre 2008` (DATE_GREGORIAN), `930-08` (ARRETE)
+
+*Citations :*
+
+- `l'article 9` → arrêté susvisé n° 930-08 du 12 kaada 1429 [✓]
+
+*Dates :* 11 novembre 2008
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 6 hija 1445 (13 juin 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7325 du 7 safar 1446 (12 août 2024).
+
+*Entités :* `arrêté` (ARRETE), `6 hija 1445` (DATE_HIJRI), `13 juin 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7325 du 7 safar 1446 (12 août 2024)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 6 hija 1445, 13 juin 2024
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Le ministre des Habous et des
+affaires islamiques est chargé de fixer en vertu d'arrêtés :
+– les programmes, les matières et les coefficients afférents
+à chaque matière ainsi que les méthodes d'évaluation
+et d'examens de chaque cycle d'enseignement aux
+établissements d'enseignement traditionnel ;
+– les modalités d'octroi de l'autorisation d'ouverture,
+d'extension ou de modification d'un établissement
+d'enseignement traditionnel ;
+– les modalités d'application de l'article 9 relatif aux aides
+accordées par l'Etat aux établissements d'enseignement
+traditionnel ;
+– les normes d'encadrement et d'équipement auxquelles
+sont soumis les établissements d'enseignement
+traditionnel ;
+– les qualifications pédagogiques auxquelles doivent
+répondre les directeurs et enseignants des établissements
+d'enseignement traditionnel ;
+– la composition du comité scientifique auprès de chaque
+commission régionale de l'enseignement traditionnel.
+
+*Entités :* `arrêtés` (ARRETE)
+
+*Citations :*
+
+- `l'article 9` → arrêtés [✓]
+
+
+## Article 2
+
+*ART.  2.  –*
+
+Le ministre des Habous et des affaires
+islamiques est chargé de l'exécution du présent décret qui est
+publié au Bulletin officiel.
+Fait à Rabat, le 29 chaoual 1426 (2 décembre 2005).
+DRISS JETTOU.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5378 du 13 kaada 1426 (15 décembre 2005).
+
+*Entités :* `29 chaoual 1426` (DATE_HIJRI), `2 décembre 2005` (DATE_GREGORIAN), `Bulletin officiel » n° 5378 du 13 kaada 1426 (15 décembre 2005)` (BULLETIN_OFFICIEL)
+
+*Dates :* 29 chaoual 1426, 2 décembre 2005
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER.  –*
+
+Les demandes d'autorisation
+d'ouverture, d'extension ou de modifciation des établissements
+d'enseignement traditionnel privé sont déposées auprès de
+la délégation des affaires islamiques du ressort territorial de
+laquelle dépend l'établissement.
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le demandeur de l'autorisation doit :
+– être de nationalité marocaine ;
+– être musulman ;
+– jouir de ses droits civiques ;
+– être légalement fondateur lorsqu'il s'agit d'une personne
+morale.
+
+
+## Article 3
+
+*ART. 3. –*
+
+La demande de l'autorisation est jointe des
+pièces suivantes :
+– le plan du bâtiment de l'établissement, indiquant
+son usage en tant qu'établissement d'enseignement
+traditionnel assorti de l'autorisation de construction
+et du certificat de conformité ;
+– une copie légalisée du document prouvant la propriété
+du bâtiment, de son contrat de location ou de toutes
+autres pièces attribuant au demandeur le droit de
+l'utiliser à cette fin ;
+– un exposé détaillé des différentes installations du
+bâtiment, comportant le nombre de pièces, leur
+capacité, et les installations sanitaires nécessaires aux
+élèves et étudiants ainsi que les classes et les bureaux
+administratifs ;
+– la liste des équipements et des moyens d'instruction et
+pédagogiques nécessaires ;
+– un dossier concernant le comité administratif et
+pédagogique démontrant que ses membres remplissent
+les conditions fixées à l'article 14 de la loi n° 13-01
+susvisée.
+
+*Entités :* `loi n° 13-01` (LOI), `13-01` (LOI), `13-01` (LOI)
+
+*Citations :*
+
+- `l'article 14` → loi n° 13-01 [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+L'ouverture d'une section d'internat au sein des
+établissements d'enseignement traditionnel privé est soumise
+à la condition de production du plan du bâtiment consacré
+à cet effet, indiquant la nature de l'utilisation de chaque
+salle, la superficie et la capacité des pièces et des installations
+sanitaires et préventives.
+
+
+## Article 5
+
+*ART.  5.  –*
+
+Le ministère des Habous et des affaires
+islamiques statue sur la demande d'ouverture, d'extension ou
+de modifciation des établissements d'enseignement traditionnel
+ou d'ouverture de sections d'internat ou les deux ensembles,
+sur la base d'un rapport détaillé soumis par la délégation des
+affaires islamiques concernée, dans un délai maximum de
+soixante (60) jours à compter de la date de dépôt de la demande.
+Tout rejet de la demande doit être motivé.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 6
+
+*ART. 6. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 5 rabii II 1427 (3 mai 2006).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5449 du 26 rejeb 1427 (21 août 2006).
+
+*Entités :* `arrêté` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `Bulletin officiel » n° 5449 du 26 rejeb 1427 (21 août 2006)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 rabii II 1427, 3 mai 2006
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Pour bénéficier des avantages
+et des aides prévus à l'article 9 de la loi susvisée n° 13-01, un
+des cas suivants doit avoir lieu :
+1 – la difficulté pour un établissement d'enseignement
+traditionnel à maintenir son activité par ses propres
+moyens, pour des raisons majeures ou imprévisibles
+postérieures à la date de son autorisation d'ouverture,
+d'extension ou de modification ;
+2 – l'incapacité pour l'établissement de répondre au besoin
+de la population de la région en termes d'enseignement
+traditionnel.
+
+*Entités :* `13-01` (LOI), `13-01` (LOI)
+
+*Citations :*
+
+- `l'article 9` → loi n° 13-01 [✓]
+
+
+## Article 2
+
+*ART. 2. –*
+
+Toute demande produite pour bénéficier des
+avantages et des aides susmentionnés n'est admise qu'après
+écoulement d'au moins 6 ans de la date d'ouverture de
+l'établissement.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les établissements d'enseignement traditionnel
+bénéficient des avantages et des aides en vertu d'un cahier des
+charges dans lequel sont fixées la nature desdits avantages et
+aides ainsi que la durée et les modalités d'en bénéficier.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 5 rabii II 1427 (3 mai 2006).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5449 du 26 rejeb 1427 (21 août 2006).
+
+*Entités :* `arrêté` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `Bulletin officiel » n° 5449 du 26 rejeb 1427 (21 août 2006)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 rabii II 1427, 3 mai 2006
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER.  –*
+
+Sont fixées conformément
+aux dispositions prévues au présent arrêté, les normes
+d'encadrement et d'équipement auxquelles sont soumis les
+établissements d'enseignement traditionnel.
+TITRE II
+NORMES D'ENCADREMENT
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les normes d'encadrement des établissements
+d'enseignement traditionnel sont fixées comme suit :
+1 –	 disposer d'un comité d'encadrement administratif
+et d'un comité d'encadrement pédagogique ;
+2 –	 le personnel de chaque établissement ne doit pas
+être inférieur aux nombres prévus ci-après.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le comité d'encadrement administratif aux
+établissements d'enseignement traditionnel primaire, collégial
+et secondaire est composé :
+– d'un directeur ;
+– d'un surveillant général pour chaque cycle selon la
+dimension de l'établissement et le nombre d'élèves ;
+– d'employés administratifs.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le comité d'encadrement administratif aux
+établissements d'enseignement traditionnel terminal est
+composé :
+– d'un directeur ;
+– d'un secrétaire général ;
+– d'employés administratifs.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 5
+
+*ART. 5. –*
+
+Le comité d'encadrement pédagogique aux
+établissements d'enseignement traditionnel est composé
+d'enseignants et de répétiteurs pour le cycle d'enseignement
+traditionnel terminal et d'enseignants pour les autres cycles.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Le nombre d'enseignants aux établissements
+d'enseignement traditionnel est fixé compte tenu de ce qui suit :
+1 –	 tout enseignant ne doit pas dépasser le nombre
+d'heures de travail réglementaires ;
+2 –	 le nombre de scolarisés ne doit pas dépasser trente
+élèves ou étudiants par séance.
+Le nombre des scolarisés est réduit à quinze élèves ou
+étudiants pour les matières scientifiques et les travaux dirigés.
+TITRE III
+NORMES D'ÉQUIPEMENT
+
+
+## Article 7
+
+*ART. 7. –*
+
+Les normes d'équipement des établissements
+d'enseignement traditionnel sont fixées comme suit :
+– que l'équipement comporte les installations
+administratives, pédagogiques et sanitaires ainsi que les
+moyens d'instruction et les équipements pédagogiques ;
+– que lesdits installations, moyens et équipements soient
+disponibles en nombre et selon les caractéristiques et
+conditions minimales prévues ci-après.
+
+
+## Article 8
+
+*ART. 8. –*
+
+À l'exception des établissements d'enseignement
+traditionnel primaire, tous les établissements d'enseignement
+traditionnel doivent disposer des installations administratives
+et pédagogiques suivantes :
+– un bureau pour le directeur avec un secrétariat ;
+– des bureaux pour le personnel administratif de
+l'établissement ;
+– une salle pour la documentation et l'archive ;
+– une salle réservée au comité d'encadrement pédagogique ;
+– une bibliothèque adaptée aux cycles d'enseignement à
+l'établissement ;
+– des classes selon le nombre d'élèves, pourvu que la
+superficie de chaque classe ne soit pas inférieure à
+vingt (20) mètres carrés et que la superficie consacrée
+à chaque scolarisé ne soit pas inférieure à un mètre
+carré et demi (1,5) ;
+– une salle d'activités pédagogiques et culturelles pour les
+cycles d'enseignement primaire, collégial, secondaire
+et terminal ;
+– une salle de prière ;
+– une cour de récréation non couverte au rez-de-chaussée
+dont la superficie ne doit pas, dans tous les cas, être
+inférieure à quarante (40) mètres carrés, avec une
+superficie d'au moins trois (3) mètres carrés pour
+chaque scolarisé.
+
+
+## Article 9
+
+*ART. 9. –*
+
+Les classes aux établissements d'enseignement
+traditionnel primaire, collégial, secondaire et terminal sont
+équipées :
+– d'un bureau et d'une chaise pour l'enseignant ;
+– d'un tableau ;
+– de tables et de chaises suffisantes et adaptées à l'âge
+des scolarisés ;
+– une bibliothèque.
+
+
+## Article 10
+
+*ART.  10.  –*
+
+Les établissements d'enseignement
+traditionnel collégial et secondaire sont dotés de salles et
+d'espaces équipés de ce qui est nécessaire à l'enseignement
+des différentes matières.
+
+
+## Article 11
+
+*ART. 11. –*
+
+Les établissements d'enseignement traditionnel
+doivent disposer, au minimum, des outils, des moyens
+pédagogiques et des équipements des laboratoires scientifqiues
+existant aux établissements d'enseignement public similaires.
+
+
+## Article 12
+
+*ART. 12. –*
+
+Les salles et les classes prévues aux articles
+8, 9 et 10 ci-dessus doivent disposer des moyens d'aération et
+remplir les conditions pédagogiques requises.
+
+*Citations :*
+
+- `articles
+8, 9 et 10` → loi n° 13-01 [✓]
+
+
+## Article 13
+
+*ART. 13. –*
+
+Les établissements d'enseignement traditionnel
+sont équipés par les installations sanitaires et le matériel
+préventif suivants :
+– des installations sanitaires adéquates, de manière à
+isoler celles réservées aux sexe féminin ;
+– des extincteurs dans toutes les installations de
+l'établissement ;
+– une salle pour les premiers secours.
+Les directives des services médicaux provinciaux doivent
+être prises en compte concernant les zones qui ne disposent
+pas d'un réseau de distribution d'eau et d'égouts.
+
+
+## Article 14
+
+*ART. 14. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 5 rabii II 1427 (3 mai 2006).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5449 du 26 rejeb 1427 (21 août 2006).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `Bulletin officiel » n° 5449 du 26 rejeb 1427 (21 août 2006)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 rabii II 1427, 3 mai 2006, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Le comité scientifique prévu à
+l'article 20 de la loi susvisée n° 13-01 se compose :
+1. du délégué régional des affaires islamiques, président ;
+2. d'un représentant du conseil local des ouléma
+concerné, membre ;
+3. d'un représentant de l'académie régionale de
+l'éducation et de la formation, membre ;
+4. du plus ancien directeur d'un établissement privé
+d'enseignement traditionnel à la région ou celui qui le suit en
+termes d'ancienneté lorsque l'établissement qu'il administre
+est concerné.
+Le président du comité peut, après avis du ministère,
+inviter toute personne dont il juge la présence utile aux
+réunions dudit comité.
+
+*Entités :* `13-01` (LOI), `13-01` (LOI)
+
+*Citations :*
+
+- `l'article 20` → loi n° 13-01 [✓]
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le comité scientifique se réunit à la fin de
+chaque session scolaire sur convocation de son président et
+chaque fois que nécessaire.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le comité scientifique émet son avis sur les
+demandes qui lui sont soumises par la délégation des affaires
+islamiques concernée.
+Le comité se réunit valablement en présence de son
+président et deux de ses membres.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 5 rabii II 1427 (3 mai 2006).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5449 du 26 rejeb 1427 (21 août 2006).
+
+*Entités :* `arrêté` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `Bulletin officiel » n° 5449 du 26 rejeb 1427 (21 août 2006)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 rabii II 1427, 3 mai 2006
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Est abrogé l'article 2 de l'arrêté
+susvisé n° 875-06 du 5 rabii II 1427 (3 mai 2006).
+
+*Entités :* `arrêté
+susvisé n° 875-06` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `875-06` (ARRETE)
+
+*Citations :*
+
+- `l'article 2` → arrêté susvisé n° 875-06 [✓]
+
+*Dates :* 5 rabii II 1427, 3 mai 2006
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 21 moharrem 1432 (27 décembre 2010).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5917 du 10 rabii I 1432 (14 février 2011).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `21 moharrem 1432` (DATE_HIJRI), `27 décembre 2010` (DATE_GREGORIAN), `Bulletin officiel » n° 5917` (BULLETIN_OFFICIEL), `10 rabii I 1432` (DATE_HIJRI), `14 février 2011` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 21 moharrem 1432, 27 décembre 2010, 10 rabii I 1432, 14 février 2011, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Les dispositions des articles 3 et
+4 de l'arrêté susvisé n° 876-06 sont complétées comme suit :
+« Article 3. – Le comité d'encadrement administratif …
+«  –  ……………………………………………… […texte non modifié…]  ;
+« – d'un surveillant général pour chaque cycle …………… ;
+« – d'un surveillant général d'internat et d'un économe
+«lorsque l'établissement dispose d'un internat ;
+« – d'employés administratifs. »
+« Article 4. – Le comité d'encadrement administratif
+« ……………………………………………………………………….
+« –  …………………………………………………... ;
+« –  d'un secrétaire général…………………………… ;
+« –  d'un surveillant général d'internat et d'un économe
+« lorsque l'établissement dispose d'un internat ;
+« –  d'employés administratifs. »
+
+*Entités :* `arrêté susvisé n° 876-06` (ARRETE)
+
+*Citations :*
+
+- `articles 3 et
+4` → arrêté susvisé n° 876-06 [✓]
+
+
+## Article 2
+
+*ART.  2.  –*
+
+Les dispositions de l'article 6 de l'arrêté
+susvisé n° 876-06 sont modifiées comme suit :
+« Article 6. – Le nombre d'enseignants aux établissements
+« d'enseignement traditionnel est fixé sous réserve de ce
+« qui suit :
+« 1 –  …………………………………………… ;
+« 2 –  le nombre de scolarisés ne doit pas dépasser dans la
+« séance soixante étudiants pour le cycle traditionnel terminal
+« et trente élèves pour les autres cycles. »
+
+*Entités :* `arrêté
+susvisé n° 876-06` (ARRETE)
+
+*Citations :*
+
+- `l'article 6` → arrêté susvisé n° 876-06 [✓]
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les dispositions de l'article 8 de l'arrêté susvisé
+n° 876-06 sont modifiées comme suit :
+« Article 8. – À l'exception des établissements d'enseignement
+« traditionnel primaire, tous les établissements ………………….
+« des installations administratives et pédagogiques suivantes :
+« –  ……………………………………….;
+« –  une bibliothèque adaptée aux cycles d'enseignement,
+« comportant un espace multimédia ;
+« –  des classes selon le nombre d'élèves et d'étudiants,
+«  pourvu que la superficie de chaque classe ne soit pas
+« inférieure à cinquante-six (56) mètres carrés et sa largeur
+« à sept (7) mètres, et que la superficie consacrée à chaque
+« scolarisé ne soit pas être inférieure à un mètre quatre-vingts
+« (1,80) centimètres carrés ;
+« –  une salle des activités pédagogiques et culturelles
+« pour les cycles d'enseignement primaire, collégial, secondaire
+« et terminal ;
+« –  une salle de prière ;
+« –  une salle d'éducation physique équipée du matériel
+« et des appareils nécessaires ;
+« –  des terrains des sports collectifs ;
+« –  une cour de récréation …………… […texte non modifié…] …… pour
+« chaque scolarisé. »
+
+*Entités :* `arrêté susvisé
+n° 876-06` (ARRETE)
+
+*Citations :*
+
+- `l'article 8` → arrêté susvisé n° 876-06 [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 23 joumada I 1432 (27 avril 2011).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5976 du 9 chaoual 1432 (8 septembre 2011).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `23 joumada I 1432` (DATE_HIJRI), `27 avril 2011` (DATE_GREGORIAN), `Bulletin officiel » n° 5976 du 9 chaoual 1432 (8 septembre 2011)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 23 joumada I 1432, 27 avril 2011, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Sont fixées selon les modalités
+prévues au présent arrêté, les qualifications pédagogiques
+auxquelles doivent répondre les directeurs et les enseignants
+des établissements d'enseignement traditionnel.
+TITRE II
+QUALIFICATIONS PÉDAGOGIQUES DES DIRECTEURS
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le directeur d'un établissement d'enseignement
+traditionnel primaire doit remplir les conditions suivantes :
+1.	 être titulaire, au moins, d'un baccalauréat de
+l'enseignement traditionnel secondaire ou de son
+équivalent ;
+2.	avoir exercé l'enseignement aux établissements
+d'enseignement traditionnel ou de l'enseignement
+public ou privé pendant au moins cinq ans, ou y avoir
+exercé la mission de directeur pour une durée d'au
+moins trois ans.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le directeur d'un établissement d'enseignement
+traditionnel collégial doit :
+1.	 être titulaire, au moins, du diplôme d'Al-Alimiya
+de l'enseignement traditionnel ou d'un diplôme
+équivalent ;
+2.	avoir exercé l'enseignement dans un des établissements
+prévus à l'article 2 ci-dessus pendant au moins cinq
+ans, ou y avoir exercé la mission de directeur pour une
+durée d'au moins trois ans.
+
+*Citations :*
+
+- `l'article 2` → loi n° 13-01 [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le directeur d'un établissement d'enseignement
+traditionnel secondaire doit :
+1.	 être titulaire, au moins, du diplôme d'Al-Alimiya
+de l'enseignement traditionnel ou d'un diplôme
+équivalent ;
+2.	avoir exercé l'enseignement à l'un des établissements
+prévus à l'article 2 ci-dessus pendant au moins six ans,
+ou y avoir exercé la mission de directeur pour une
+durée d'au moins quatre ans.
+
+*Citations :*
+
+- `l'article 2` → loi n° 13-01 [✓]
+
+
+## Article 5
+
+*ART. 5. –*
+
+Le directeur d'un établissement d'enseignement
+traditionnel terminal doit :
+1.	 être titulaire d'un doctorat ou d'au moins un master
+délivré par l'une des universités marocaines ou d'un
+diplôme équivalent à l'un d'eux ;
+2.	avoir exercé l'enseignement à l'un des établissements
+prévus à l'article 2 ci-dessus pendant au moins six ans,
+ou y avoir exercé la mission de directeur pour une
+durée d'au moins cinq ans.
+
+*Citations :*
+
+- `l'article 2` → loi n° 13-01 [✓]
+
+
+## Article 6
+
+*ART. 6. –*
+
+Il est possible de permettre d'occuper les missions
+de directeur d'un établissement d'enseignement traditionnel
+privé, à titre exceptionnel, aux personnes ne disposant pas
+des diplômes prévus aux articles 2, 3, 4 et 5 ci-dessus, qui
+ont exercé les missions de l'administration pédagogique
+pour une durée d'au moins huit ans à l'un des établissements
+d'enseignement traditionnel ou de l'enseignement public ou
+privé, chacune selon le cycle d'enseignement dans lequel elle
+a exercé l'administration pédagogique.
+
+*Citations :*
+
+- `articles 2, 3, 4 et 5` → loi n° 13-01 [✓]
+
+
+## Article 7
+
+*ART. 7. –*
+
+Les services compétents au ministère des
+Habous et des affaires islamiques s'assurent que les personnes
+ayant exercé l'enseignement aux établissements d'enseignement
+traditionnel ou de l'enseignement public ou privé, prévues aux
+articles 2, 3, 4, 5 et 6 ci-dessus, disposent de la compétence
+professionnelle requise pour l'administration de l'établissement
+d'enseignement traditionnel concerné.
+TITRE III
+QUALIFICATIONS PÉDAGOGIQUES DES ENSEIGNANTS
+
+*Citations :*
+
+- `articles 2, 3, 4, 5 et 6` → loi n° 13-01 [✓]
+
+
+## Article 8
+
+*ART. 8. –*
+
+L'enseignant au Kuttab coranique, hormis les
+Moudarirrine imams préposés aux mosquées, doit mémoriser
+intégralement et parfaitement le Saint Coran.
+La mémorisation du Saint Coran est justifiée par une
+attestation délivrée par l'un des conseils locaux des Ouléma.
+
+
+## Article 9
+
+*ART. 9. –*
+
+L'enseignant des matières de la Charia au cycle
+d'enseignement traditionnel primaire doit être titulaire au
+moins du baccalauréat d'enseignement traditionnel secondaire
+ou compter parmi ceux qui exercent l'enseignement dans ce
+niveau à la publication du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 10
+
+*ART. 10. –*
+
+L'enseignant des matières de la Charia au
+cycle d'enseignement traditionnel collégial doit être titulaire
+du diplôme d'Al-Alimiya de l'enseignement traditionnel ou de
+la licence délivrée par l'Institut Dar El Hadith El Hassania,
+l'université Al Quaraouiyine ou par l'une des facultés des lettres
+et des sciences humaines (filière des études islamiques), ou
+d'un diplôme équivalent, ou compter parmi ceux qui exercent
+l'enseignement dans ce niveau d'enseignement traditionnel à
+la publication du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Organisations :* Institut Dar El Hadith El Hassania
+
+
+## Article 11
+
+*ART. 11. –*
+
+L'enseignant des matières de la Charia au cycle
+d'enseignement traditionnel secondaire doit être titulaire de
+l'un des diplômes prévus à l'article 10 ci-dessus ou compter
+parmi ceux qui exercent l'enseignement dans ce niveau
+d'enseignement traditionnel à la publication du présent arrêté.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 10` → arrêté [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 12
+
+*ART. 12. –*
+
+L'enseignant des matières de la Charia au
+cycle d'enseignement traditionnel terminal doit être titulaire
+du doctorat délivré par l'Institut Dar El Hadith El Hassania,
+l'université Al Quaraouiyine ou par l'une des facultés des lettres
+et des sciences humaines (filière des études islamiques), ou
+d'un diplôme équivalent, ou compter parmi ceux qui exercent
+l'enseignement dans ce niveau d'enseignement traditionnel à
+la publication du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Organisations :* Institut Dar El Hadith El Hassania
+
+
+## Article 13
+
+*ART. 13. –*
+
+Les enseignants des matières hors la Charia
+aux différents cycles dans les établissements d'enseignement
+traditionnel sont soumis aux mêmes conditions requises pour
+les enseignants desdites matières aux cycles similaires dans les
+établissements de l'enseignement public.
+TITRE IV
+DISPOSITIONS DIVERSES
+
+
+## Article 14
+
+*ART.  14.  –*
+
+Les missions d'administration et
+d'enseignement aux établissements d'enseignent traditionnel
+primaire, collégial, secondaire et terminal ne peuvent être
+cumulées.
+Toutefois, il peut être permis, à titre exceptionnel, aux
+directeurs des établissements d'enseignement traditionnel
+terminal d'enseigner dans lesdits établissements dans la
+limite de vingt heures par mois, pourvu qu'ils disposent des
+conditions prévues à l'article 12 ci-dessus.
+
+*Citations :*
+
+- `l'article 12` → loi n° 13-01 [✓]
+
+
+## Article 15
+
+*ART. 15. –*
+
+Le présent arrêté, qui est publié au Bulletin
+officiel, entre en vigueur à compter de l'année scolaire 2011-
+2012 et est abrogé à compter de la même année scolaire l'arrêté
+du ministre des Habous et des affaires islamiques n° 877-06 du
+5 rabii II 1427 (3 mai 2006) fixant les qualifciations pédagogiques
+auxquelles doivent répondre les directeurs et les enseignants
+des établissements d'enseignement traditionnel.
+Rabat, le 23 joumada I 1432 (27 avril 2011).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5976 du 9 chaoual 1432 (8 septembre 2011).
+
+*Entités :* `arrêté` (ARRETE), `arrêté
+du ministre des Habous et des affaires islamiques n° 877-06 du` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `23 joumada I 1432` (DATE_HIJRI), `27 avril 2011` (DATE_GREGORIAN), `Bulletin officiel » n° 5976 du 9 chaoual 1432 (8 septembre 2011)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 rabii II 1427, 3 mai 2006, 23 joumada I 1432, 27 avril 2011
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont modifiées et complétées
+comme suit, les dispositions des articles 3 et 5 de l'arrêté du
+ministre des Habous et des affaires islamiques susvisé n° 874-06
+du 5 rabii II 1427 (3 mai 2006) :
+« Article 3. – La demande d'autorisation d'ouverture des
+« établissements « d'enseignement traditionnel privé est jointe
+« des pièces suivantes :
+« 1- les plans architecturaux du bâtiment de l'établissement,
+« indiquant son usage en tant qu'établissement d'enseignement
+« traditionnel assorti de l'autorisation de construction, des
+« plans autorisés et du certificat de conformité ;
+(Le reste sans modification.)
+« Article 5. – Le ministère des Habous et des affaires
+« islamiques statue  […texte non modifié…]  d'enseignement traditionnel
+« ou d'ouverture d'internats, leur extension ou modification,
+« sur la base des données de la carte scolaire et du rapport
+«  […texte non modifié…]  dépôt de la demande.
+« Tout rejet  […texte non modifié…]  motivé. »
+« La carte scolaire de l'enseignement traditionnel est
+« fixée par décision du ministre des Habous et des affaires
+« islamiques. »
+
+*Entités :* `arrêté du
+ministre des Habous et des affaires islamiques susvisé n° 874-06` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `arrêté` (ARRETE), `874-06` (ARRETE)
+
+*Citations :*
+
+- `articles 3 et 5` → arrêté du ministre des Habous et des affaires islamiques susvisé n° 874-06 [✓]
+
+*Dates :* 5 rabii II 1427, 3 mai 2006
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont abrogées et remplacées comme suit, les
+dispositions de l'article 4 de l'arrêté susvisé n° 874-06 :
+« Article 4. – L'ouverture d'un internat au sein des
+« établissements d'enseignement traditionnel privé est soumise
+« à la présentation des pièces suivantes :
+« 1- les plans architecturaux du bâtiment de l'internat,
+« assortis de l'autorisation de construire, des plans autorisés
+« et du certificat de conformité ;
+« 2- un état détaillé des différentes installations de
+« l'internat, indiquant la nature de l'utilisation de chacune
+« desdites installations ainsi que la superficie et la capacité
+« des pièces ;
+« 3- la liste du matériel, des outils et des équipements
+« nécessaires ;
+« 4- un dossier du personnel de l'internat. »
+
+*Entités :* `arrêté susvisé n° 874-06` (ARRETE), `arrêté` (ARRETE), `874-06` (ARRETE)
+
+*Citations :*
+
+- `l'article 4` → arrêté susvisé n° 874-06 [✓]
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 27 moharrem 1446 (2 août 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7355 du 22 joumada I 1446 (25 novembre 2024).
+
+*Entités :* `arrêté` (ARRETE), `27 moharrem 1446` (DATE_HIJRI), `2 août 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7355` (BULLETIN_OFFICIEL), `22 joumada I 1446` (DATE_HIJRI), `25 novembre 2024` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 27 moharrem 1446, 2 août 2024, 22 joumada I 1446, 25 novembre 2024
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont modifiées et complétées
+comme suit, les dispositions des articles 8, 11 et 13 de l'arrêté
+du ministre des Habous et des affaires islamiques susvisé
+n° 876-06 du 5 rabii II 1427 (3 mai 2006) :
+«  Article 8.  –  A l'exception des établissements
+« d'enseignement traditionnel  […texte non modifié…]  des installations
+« administratives et pédagogiques suivantes :
+« – un bureau pour le directeur dont la superficie est
+« d'au moins quinze (15) mètres carrés avec un secrétariat
+« dont la superficie ne soit pas inférieure à dix (10)
+« mètres carrés ;
+« – des bureaux pour le personnel administratif de
+« l'établissement, pourvu que la superficie de chaque
+« bureau ne soit pas inférieure à douze (12) mètres
+« carrés ;
+« – une salle pour la documentation et l'archive dont
+« la superficie ne soit pas inférieure à vingt (20) mètres
+« carrés et la largeur à quatre (4) mètres ;
+«  –  une salle réservée au comité d'encadrement
+« pédagogique dont la superficie ne soit pas inférieure à
+« vingt (20) mètres carrés et la largeur à quatre (4) mètres ;
+« – une bibliothèque adaptée aux cycles d'enseignement
+« dont la superficie ne soit pas inférieure à soixante (60)
+« mètres carrés et la largeur à six (6) mètres, comportant
+« un espace multimédia et un espace de lecture ;
+« – des classes selon le nombre d'élèves et d'étudiants,
+« pourvu que la superficie de chaque classe ne soit
+« pas inférieure à quarante-cinq (45) mètres carrés et
+« la largeur à six (6) mètres et que la superfciie consacrée
+« à chaque scolarisé ne soit pas inférieure à un mètre
+« carré et demi (1,5) ;
+« – une salle d'informatique dont la superficie ne soit pas
+« inférieure à vingt-cinq (25) mètres carrés et la largeur
+« à cinq (5) mètres pour les cycles collégial et secondaire ;
+« – une salle de sciences dont la superficie ne soit pas
+«  inférieure à quarante-cinq (45) mètres carrés et
+« la largeur à six (6) mètres et un laboratoire dont la
+« superficie ne soit pas inférieure à vingt (20) mètres
+« carrés et la largeur à quatre (4) mètres pour le cycle
+« collégial ;
+« – une salle d'activités pédagogiques et culturelles
+« pour les cycles d'enseignement collégial, secondaire
+« et terminal dont la superficie ne soit pas inférieure à
+« soixante (60) mètres carrés et la largeur à six (6)
+« mètres ;
+« – une salle de prière dont la superficie ne soit pas
+« inférieure à vingt (20) mètres carrés ;
+« – un terrain d'éducation physique comportant une salle
+« équipée de matériel nécessaire, des espaces des sports
+« collectifs, des vestiaires dont la superficie consacrée
+« à chaque élève ne soit pas inférieure à deux (2) mètres
+« carrés. A défaut de terrain, une convention doit
+« être conclue avec les établissements scolaires publics
+« ou d'autres organismes pour l'exploitation de leurs
+« installations sportives ;
+« – une cour de récréation …………………… pour chaque
+« scolarisé. »
+«  Article 11.  –  Les établissements d'enseignement
+«  […texte non modifié…]  d'enseignement public similaires.
+« Les installations des internats doivent également
+«  disposer, au minimum, des outils, du matériel et des
+« équipements dont disposent les internats de l'enseignement
+« public similaires, ainsi que des moyens d'aération, d'éclairage
+« et des conditions de sécurité nécessaires. »
+«  Article 13.  –  Les établissements d'enseignement
+« traditionnel et les internats sont équipés par les installations
+« ………………… suivants :
+« féminin et de manière à ce que celles réservées aux
+« scolarisés soient indépendantes de celles réservées
+« au personnel, et pour les internats, de consacrer, pour
+« chaque dix scolarisés, des toilettes dont la superficie
+« ne soit pas inférieure à un mètre carré et demi (1.5)
+« et une douche ;
+«  –  des extincteurs dans toutes les installations de
+« l'établissement et à l'internat ;
+« – une salle pour les premiers secours dont la superficie
+« ne soit pas inférieure à vingt (20) mètres carrés et la
+« largeur à quatre (4) mètres.
+(Le reste sans modification.)
+ART. 2. – L'arrêté du ministre des Habous et des affaires
+islamiques n° 876-06 susvisé est complété, comme suit, par
+l'article 13 bis :
+«  Article 13 bis.  –  l'internat aux établissements
+d'enseignement traditionnel doit disposer, outre les
+installations prévues à l'article 13 ci-dessus, des installations
+suivantes :
+« – des bureaux pour le personnel administratif de
+« l'internat, pourvu que la superficie de chaque bureau
+« soit d'au moins douze (12) mètres carrés ;
+« – un logement pour le surveillant général de l'internat ;
+« – des dortoirs comprenant des chambres pouvant
+« accueillir quatre élèves et étudiants au maximum,
+« pourvu que les dortoirs des filles soient séparés des
+« autres et que la superficie de chaque chambre soit d'au
+« moins douze (12) mètres carrés et la largeur soit d'au
+« moins trois (3) mètres ;
+«  –  un espace réservé au lavage et au séchage des
+« vêtements ;
+«  –  une salle à manger, une cuisine et une salle de
+« stockage, dans le cas où l'internat fournit un service
+« de restauration, pourvu que la salle à manger soit d'une
+« superficie adéquate pour le nombre de bénéficiaires
+« et équipée de lavabos suffisants, que la cuisine soit
+« séparée de l'espace destiné à la gestion des déchets ainsi
+« que de la zone réservée aux bombonnes de gaz et que
+« la salle de stockage inclue une chambre de réfrigération,
+« un entrepôt pour les denrées alimentaires et un espace
+« pour les produits de nettoyage. »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté
+du ministre des Habous et des affaires islamiques susvisé` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `arrêté du ministre des Habous et des affaires` (ARRETE), `15 ramadan 1447` (DATE_HIJRI), `876-06` (ARRETE)
+
+*Citations :*
+
+- `articles 8, 11 et 13` → arrêté du ministre des Habous et des affaires islamiques susvisé [✓]
+- `l'article 13` → arrêté du ministre des Habous et des affaires [✓]
+- `l'article 13` → arrêté du ministre des Habous et des affaires [✓]
+
+*Dates :* 5 rabii II 1427, 3 mai 2006, 15 ramadan 1447
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 27 moharrem 1446 (2 août 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7355 du 22 joumada I 1446 (25 novembre 2024).
+
+*Entités :* `arrêté` (ARRETE), `27 moharrem 1446` (DATE_HIJRI), `2 août 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7355` (BULLETIN_OFFICIEL), `22 joumada I 1446` (DATE_HIJRI), `25 novembre 2024` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 27 moharrem 1446, 2 août 2024, 22 joumada I 1446, 25 novembre 2024
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Une prime forfaitaire est octroyée
+aux enseignants et aux directeurs des établissements
+d'enseignement traditionnel dont les montants mensuels sont
+fixés suivant le tableau (A) annexé au présent décret.
+
+
+## Article 2
+
+*ART. 2. –*
+
+Une bourse d'études forfaitaire est octroyée aux
+élèves et étudiants poursuivant régulièrement leurs études aux
+établissements d'enseignement traditionnel, dont les montants
+mensuels sont fixés suivant le tableau (B) annexé au présent
+décret.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Tout bénéficiaire de la prime ou de la bourse
+d'études qui, sans motif valable, a cessé de travailler ou de
+poursuivre ses études de manière définitive ou pour une durée
+temporaire dépassant trente jours, doit restituer les sommes
+de la prime ou de la bourse dont il a bénéficié au titre de la
+durée de sa suspension ou de sa cessation.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent décret entre en vigueur à compter
+du 1er octobre 2007.
+
+*Entités :* `1er octobre 2007` (DATE_GREGORIAN)
+
+*Dates :* 1er octobre 2007
+
+
+## Article 5
+
+*ART.  5.  –*
+
+Le ministre des Habous et des affaires
+islamiques et le ministre de l'économie et des finances sont
+chargés chacun en ce qui le concerne de l'exécution du présent
+décret qui est publié au Bulletin officiel.
+Fait à Rabat, le 5 rejeb 1429 (9 juillet 2008).
+ABBAS EL FASSI.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie
+et des finances,
+SALAHEDDINE MEZOUAR.
+*
+Tableau (A)
+Montants de la prime forfaitaire mensuelle consacrée
+aux enseignants et aux directeurs des établissements
+d'enseignement traditionnel
+******
+Tableau (B)
+Montants de la bourse forfaitaire mensuelle consacrée
+aux élèves et étudiants des établissements d'enseignement
+traditionnel
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5646 du 6 rejeb 1429 (10 juillet 2008).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `5 rejeb 1429` (DATE_HIJRI), `9 juillet 2008` (DATE_GREGORIAN), `Bulletin officiel » n° 5646 du 6 rejeb 1429 (10 juillet 2008)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Personnes :* ABBAS EL FASSI
+
+*Dates :* 5 rejeb 1429, 9 juillet 2008, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Les tableaux (A) et (B) annexés au
+décret susvisé n° 2-07-155, sont successivement modifiés par
+les tableaux (A) et (B) annexés au présent décret.
+
+*Entités :* `2-07-155` (DECRET)
+
+
+## Article 2
+
+*ART.  2.  –*
+
+Le ministre des Habous et des affaires
+islamiques et le ministre de l'économie et des finances sont
+chargés, chacun en ce qui le concerne, de l'exécution du présent
+décret qui est publié au Bulletin officiel et qui prend effet à
+compter du 1er janvier 2012.
+Fait à Rabat, le 22 kaada 1432 (20 octobre 2011).
+ABBAS EL FASSI.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie
+et des finances,
+SALAHEDDINE MEZOUAR.
+*
+« Tableau (A)
+« Montants de la prime forfaitaire mensuelle consacrée
+«aux enseignants et aux directeurs des établissements
+«d'enseignement traditionnel
+******
+«Tableau (B)
+«Montants de la bourse forfaitaire mensuelle consacrée
+«aux élèves et étudiants des établissements d'enseignement
+«traditionnel
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5991 du 3 hija 1432 (31 octobre 2011).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `1er janvier 2012` (DATE_GREGORIAN), `22 kaada 1432` (DATE_HIJRI), `20 octobre 2011` (DATE_GREGORIAN), `Bulletin officiel » n° 5991 du 3 hija 1432 (31 octobre 2011)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Personnes :* ABBAS EL FASSI
+
+*Dates :* 1er janvier 2012, 22 kaada 1432, 20 octobre 2011, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Le décret susvisé n° 2-07-155 est complété par l'article premier-bis comme suit :
+« Article premier bis. – Une prime forfaitaire est octroyée aux secrétaires généraux, surveillants généraux
+« de l'externat et ceux de l'internat, économes et personnel administratif exerçant aux établissements d'enseignement
+« traditionnel, ainsi qu'aux contrôleurs des katatibs coraniques et inspecteurs administratifs et pédagogiques
+« desdits établissements ;
+« Les montants mensuels de ladite prime sont fixés suivant le tableau (C) annexé au présent décret. »
+
+*Entités :* `2-07-155` (DECRET)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le ministre des Habous et des affaires islamiques et le ministre de l'économie et des finances sont
+chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui est publié au Bulletin officiel.
+Fait à Rabat, le 13 safar 1434 (27 décembre 2012).
+ABDEL-ILAH BENKIRAN.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie
+et des finances,
+NIZAR BARAKA.
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Montants de la prime forfaitaire mensuelle consacrée aux secrétaires
+généraux, surveillants généraux de l'externat et ceux de l'internat,
+économes et personnel administratif exerçant aux établissements
+d'enseignement traditionnel ainsi qu'aux contrôleurs des Katatibs
+coraniques, inspecteurs administratifs et pédagogiques
+Tableau (C)
+desdits établissements
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6114 du 20 safar 1434 (3 janvier 2013).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `13 safar 1434` (DATE_HIJRI), `27 décembre 2012` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `Bulletin officiel » n° 6114 du 20 safar 1434 (3 janvier 2013)` (BULLETIN_OFFICIEL)
+
+*Dates :* 13 safar 1434, 27 décembre 2012, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Le régime des études et des examens
+aux cycles d'études dans les établissements d'enseignement
+traditionnel, est fixé conformément aux modalités prévues
+au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les délégués des affaires islamiques supervisent
+l'application des dispositions du présent arrêté en coordination
+avec les services centraux compétents relevant du ministère
+des Habous et des affaires islamiques.
+TITRE II
+RÉGIME DES ÉTUDES
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 3
+
+*ART.  3.  –*
+
+L'année scolaire aux établissements
+d'enseignement traditionnel débute la deuxième semaine du
+mois de septembre et s'achève le huitième jour du mois de
+juillet.
+L'année scolaire peut être prolongée jusqu'à la fin des
+sessions de rattrapage prévues aux articles 52 et 60 ci-après.
+
+*Citations :*
+
+- `articles 52 et 60` → loi n° 13-01 [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+L'inscription des élèves et des étudiants aux
+établissements d'enseignement traditionnel expire à la fin de la
+deuxième semaine du mois de septembre et les études débutent
+directement après.
+
+
+## Article 5
+
+*ART. 5. –*
+
+Les vacances dont bénéficient les élèves et les
+étudiants des établissements d'enseignement traditionnel sont
+fixées par décision de l'autorité gouvernementale chargée des
+Habous et des affaires islamiques.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Sont admis au cycle d'enseignement traditionnel
+préscolaire, les enfants âgés d'au moins quatre ans révolus au
+premier septembre de l'année de l'inscription.
+Les études au cycle d'enseignement traditionnel
+préscolaire durent deux ans dédiés à l'apprentissage de la
+lecture et de l'écriture et à la mémorisation du Saint Coran.
+
+
+## Article 7
+
+*ART. 7. –*
+
+Sont admis au cycle d'enseignement traditionnel
+primaire, les enfants âgés d'au moins six ans à la date prévue
+à l'article 6 ci-dessus.
+
+*Citations :*
+
+- `l'article 6` → loi n° 13-01 [✓]
+
+
+## Article 8
+
+*ART. 8. –*
+
+Peuvent être admis à l'un des niveaux du cycle
+d'enseignement traditionnel primaire, les élèves mémorisant le
+Saint Coran appartenant aux établissements d'enseignement
+traditionnel existant antérieurement à la date de la publication
+des textes d'application des dispositions de la loi n° 13-01
+relative à l'enseignement traditionnel.
+La durée d'application des dispositions du présent
+article s'étend jusqu'à intégration des élèves et des étudiants
+des établissements d'enseignement traditionnel susmentionnés.
+
+*Entités :* `loi n° 13-01
+relative à l'enseignement traditionnel` (LOI), `13-01` (LOI)
+
+
+## Article 9
+
+*ART.  9.  –*
+
+Les élèves, prévus à l'article 8 ci-dessus,
+accèdent à l'une des années d'études au cycle d'enseignement
+traditionnel primaire qui correspond à leur niveau scolaire
+après avoir passé un test de niveau organisé par l'école à
+intégrer selon des modalités fixées par décision du ministre
+des Habous et des affaires islamiques.
+Sont consacrés aux élèves intégrés selon les modalités
+prévues au premier alinéa du présent article, le cas échéant,
+des classes indépendantes et un soutien pédagogique au
+sein d'établissements qualifiés, dans la limite des moyens
+disponibles.
+
+*Citations :*
+
+- `l'article 8` → loi n° 13-01 [✓]
+
+
+## Article 10
+
+*ART. 10. –*
+
+Accèdent au cycle d'enseignement traditionnel
+collégial, les élèves officiels titulaires du certificat de
+l'enseignement traditionnel primaire, au cycle d'enseignement
+traditionnel secondaire, les élèves officiels titulaires du
+certificat de l'enseignement traditionnel collégial et au cycle
+d'enseignement traditionnel terminal, les élèves titulaires du
+baccalauréat de l'enseignement traditionnel secondaire ou
+son équivalent.
+Accèdent au cycle d'enseignement traditionnel collégial,
+les élèves non officiels titulaires du certificat de l'enseignement
+traditionnel primaire dont l'âge ne dépasse pas 24 ans et au
+cycle d'enseignement traditionnel secondaire, les élèves non
+officiels titulaires du certificat de l'enseignement traditionnel
+collégial dont l'âge ne dépasse pas 28 ans.
+Pour l'application des dispositions du présent article,
+on entend par élèves officiels, les élèves ayant participé
+aux examens d'obtention du certificat de l'enseignement
+traditionnel primaire ou aux examens d'obtention du certifciat
+de l'enseignement traditionnel collégial en tant que candidats
+officiels.
+
+
+## Article 11
+
+*ART. 11. –*
+
+Les études au cycle d'enseignement traditionnel
+primaire durent six années et trois années aux cycles
+d'enseignement traditionnel collégial, secondaire et terminal, et
+sont sanctionnées par les certifciats prévus au dernier alinéa de
+l'article 4 de la loi n° 13-01 relative à l'enseignement traditionnel.
+
+*Entités :* `loi n° 13-01 relative à l'enseignement traditionnel` (LOI), `13-01` (LOI)
+
+*Citations :*
+
+- `l'article 4` → loi n° 13-01 relative à l'enseignement traditionnel [✓]
+
+
+## Article 12
+
+*ART. 12. –*
+
+Les matières enseignées aux établissements
+d'enseignement traditionnel et le volume horaire hebdomadaire
+et annuel consacré à chaque matière sont fixés tel qu'il est
+indiqué aux tableaux numéros 1, 2, 3 et 4 annexés au présent
+arrêté.
+TITRE III
+RÉGIME DES EXAMENS
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 13
+
+*ART. 13. –*
+
+Les enfants passent d'office de la première
+à la deuxième année du cycle d'enseignement traditionnel
+préscolaire.
+
+
+## Article 14
+
+*ART. 14. –*
+
+Les élèves du cycle traditionnel primaire
+passent, pendant les trois premières années dudit cycle, d'un
+niveau à un autre supérieur sur la base des résultats du contrôle
+continu.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Les élèves de la quatrième année passent à la cinquième
+et de la cinquième à la sixième du même cycle sur la base
+des résultats du contrôle continu, ainsi que des résultats
+de l'examen normalisé au niveau de l'école d'enseignement
+traditionnel primaire.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 15
+
+*ART. 15. –*
+
+Les examens d'obtention du certificat de
+l'enseignement traditionnel primaire sont organisés à la
+sixième année du cycle d'enseignement traditionnel primaire.
+
+
+## Article 16
+
+*ART. 16. –*
+
+Les examens d'obtention du certificat de
+l'enseignement traditionnel primaire comportent :
+– un contrôle continu des matières de la sixième année
+d'enseignement traditionnel primaire ;
+– un examen écrit normalisé au niveau de l'école
+d'enseignement traditionnel primaire à la sixième
+année ;
+– un examen normalisé à l'échelle nationale.
+
+
+## Article 17
+
+*ART. 17. –*
+
+Les épreuves de l'examen écrit normalisé
+au niveau de l'école de l'enseignement traditionnel primaire
+portent, lors de la quatrième et de la cinquième année de
+l'enseignement traditionnel primaire, sur l'intégralité du
+programme. Ledit examen est organisé à la fin de l'année.
+Les épreuves de l'examen écrit normalisé au niveau de
+l'école de l'enseignement traditionnel primaire portent, lors de
+la sixième année, sur le programme de la première moitié de
+l'année scolaire, et les épreuves de l'examen écrit normalisé à
+l'échelle nationale sur l'intégralité du programme. Le premier
+examen est organisé à la fin de la première moitié de l'année
+scolaire, le deuxième à sa fin.
+
+
+## Article 18
+
+*ART. 18. –*
+
+Sont fixés selon les tableaux numéros 5 et 6
+annexés au présent arrêté, les matières des examens d'obtention
+du certificat de l'enseignement traditionnel primaire, leurs
+coefficients et leurs durées de réalisation, pour les candidats
+officiels et libres prévus à l'article 25 ci-après.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 25` → arrêté [✓]
+
+
+## Article 19
+
+*ART. 19. –*
+
+Les candidats libres aux examens d'obtention
+du certificat de l'enseignement traditionnel primaire sont
+dispensés du contrôle continu et de l'examen écrit normalisé
+au niveau de l'école de l'enseignement traditionnel primaire.
+
+
+## Article 20
+
+*ART. 20. –*
+
+Le directeur de l'école de l'enseignement
+traditionnel primaire fixe les dates de déroulement des
+examens normalisés au niveau de l'école de l'enseignement
+traditionnel primaire conformément aux dispositions de
+l'article 17 ci-dessus, selon le calendrier défini par le ministère
+des Habous et des affaires islamiques.
+Des commissions veillent sur l'examen, supervisées par
+le directeur de l'école qui se charge d'imposer l'ordre et de
+prendre les mesures nécessaires à la répression et au repérage
+de la fraude et à la sanction de ses auteurs conformément aux
+textes législatifs et réglementaires en vigueur.
+
+*Citations :*
+
+- `l'article 17` → loi n° 13-01 [✓]
+
+
+## Article 21
+
+*ART. 21. –*
+
+Le directeur de l'école de l'enseignement
+traditionnel primaire choisit les sujets des examens écrits
+normalisés au niveau de l'école de l'enseignement traditionnel
+primaire parmi des sujets proposés par les enseignants de
+ladite école à raison d'un sujet par enseignant, ainsi qu'un
+résumé succinct de la réponse et un barème de notation.
+
+
+## Article 22
+
+*ART. 22. –*
+
+Les sujets prévus à l'article 21 ci-dessus sont
+remis au directeur de l'école de l'enseignement traditionnel
+primaire qui veille à leur impression et à leur confidentialité.
+
+*Citations :*
+
+- `l'article 21` → loi n° 13-01 [✓]
+
+
+## Article 23
+
+*ART. 23. –*
+
+Des commissions pédagogiques sont chargées
+de proposer les sujets de l'examen écrit normalisé à l'échelle
+nationale, dont les membres sont désignés par décision du
+ministère des Habous et des affaires islamiques, laquelle fixe
+également les sièges desdites commissions ainsi que les dates
+et les heures de déroulement de l'examen.
+
+
+## Article 24
+
+*ART. 24. –*
+
+Des commissions présidées par le directeur
+de l'enseignement traditionnel au ministère des Habous et des
+affaires islamiques supervisent l'examen normalisé à l'échelle
+nationale.
+
+
+## Article 25
+
+*ART.  25.  –*
+
+Sont candidats d'office aux examens
+d'obtention du certificat de l'enseignement traditionnel
+primaire, les candidats officiels inscrits sur des listes que
+les établissements de l'enseignement traditionnel primaire
+joignent à leurs dossiers et remettent à la délégation des
+affaires islamiques concernée dans un délai ne dépassant pas
+le 30 novembre. Pour participer auxdits examens, les candidats
+libres doivent présenter leurs demandes de candidature à la
+délégation des affaires islamiques dont relève leur lieu de
+résidence avant le 30 novembre de l'année scolaire pendant
+laquelle l'examen a lieu.
+Le dossier de candidature des candidats officiels et
+libres comporte une attestation délivrée par l'un des conseils
+locaux des Ouléma justifiant que l'élève candidat mémorise
+parfaitement au moins quarante (40) hizb du Saint Coran.
+Tout dossier de candidature ne comportant pas ladite
+pièce est rejeté.
+
+
+## Article 26
+
+*ART. 26. –*
+
+Le coefficient (1) est appliqué à la moyenne
+annuelle du contrôle continu et à la moyenne de l'examen écrit
+normalisé au niveau de l'école de l'enseignement traditionnel
+primaire.
+Le coefficient (4) est appliqué à la moyenne de l'examen
+écrit normalisé à l'échelle nationale pour les candidats offciiels
+et le coefficient (1) pour les candidats libres.
+
+
+## Article 27
+
+*ART. 27. –*
+
+Sont chargées de corriger les réponses aux
+sujets de l'examen écrit normalisé à l'échelle nationale, des
+commissions composées d'enseignants des établissements de
+l'enseignement traditionnel primaire, désignées par le directeur
+de l'enseignement traditionnel au ministère des Habous et des
+affaires islamiques.
+
+
+## Article 28
+
+*ART. 28. –*
+
+Il est permis de redoubler deux fois au cycle
+d'enseignement traditionnel primaire, les élèves de moins de
+quinze ans sont autorisés, à titre exceptionnel, à redoubler
+une troisième fois.
+
+
+## Article 29
+
+*ART. 29. –*
+
+Les élèves du cycle d'enseignement traditionnel
+collégial passent de la première à la deuxième année et de la
+deuxième à la troisième sur la base des résultats du contrôle
+continu et des résultats de l'examen normalisé au niveau de
+l'école.
+
+
+## Article 30
+
+*ART. 30. –*
+
+Des examens d'obtention du certificat de
+l'enseignement traditionnel collégial sont organisés à la
+troisième année du cycle d'enseignement traditionnel collégial.
+
+
+## Article 31
+
+*ART. 31. –*
+
+Les examens d'obtention du certificat de
+l'enseignement traditionnel collégial comportent :
+– un contrôle continu des matières de la troisième année
+du cycle d'enseignement traditionnel collégial ;
+– un examen écrit normalisé au niveau de l'école de
+l'enseignement traditionnel collégial à la troisième
+année ;
+– un examen écrit normalisé à l'échelle nationale.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 32
+
+*ART. 32. –*
+
+Les épreuves de l'examen écrit normalisé
+au niveau de l'école de l'enseignement traditionnel collégial
+portent, lors de la première et de la deuxième année de
+l'enseignement traditionnel collégial, sur l'intégralité du
+programme. Ledit examen est organisé à la fin de l'année.
+Les épreuves de l'examen écrit normalisé au niveau de
+l'école de l'enseignement traditionnel collégial portent, lors de
+la troisième année, sur le programme de la première moitié de
+l'année scolaire, et les épreuves de l'examen écrit normalisé à
+l'échelle nationale sur l'intégralité du programme. Le premier
+examen est organisé à la fin de la première moitié de l'année
+scolaire, le deuxième à sa fin.
+
+
+## Article 33
+
+*ART. 33. –*
+
+Pour les candidats officiels et libres prévus à
+l'article 36 ci-après, les matières des examens pour l'obtention
+du certificat de l'enseignement traditionnel collégial, leurs
+coefficients et leurs durées de réalisation sont fixés selon les
+tableaux numéros 7 et 8 annexés au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 36` → arrêté [✓]
+
+
+## Article 34
+
+*ART. 34. –*
+
+Les candidats libres aux examens d'obtention
+du certificat de l'enseignement traditionnel collégial sont
+dispensés du contrôle continu et de l'examen écrit normalisé
+au niveau de l'école de l'enseignement traditionnel collégial.
+
+
+## Article 35
+
+*ART. 35. –*
+
+Les dispositions des articles 20, 21, 22, 23
+et 24 du présent arrêté sont applicables aux examens écrits
+normalisés prévus aux articles 31 et 32 ci-dessus.
+Le directeur et les enseignants de l'école de l'enseignement
+traditionnel collégial remplacent le directeur et les enseignants
+de l'école de l'enseignement traditionnel primaire dans
+l'application desdites dispositions.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 20, 21, 22, 23
+et 24` → arrêté [✓]
+- `articles 31 et 32` → arrêté [✓]
+
+
+## Article 36
+
+*ART. 36. –*
+
+Participent aux examens d'obtention du
+certificat de l'enseignement traditionnel collégial en qualité
+de candidat officiel, les élèves inscrits en troisième année du
+cycle d'enseignement traditionnel collégial.
+Peuvent participer en qualité de candidat libre, les
+personnes non inscrites au cycle d'enseignement traditionnel
+collégial titulaires du certificat de l'enseignement traditionnel
+primaire ou son équivalent.
+
+
+## Article 37
+
+*ART. 37. –*
+
+Les listes et les dossiers des élèves inscrits
+en troisième année du cycle d'enseignement traditionnel
+collégial sont remis à la délégation des affaires islamiques
+dans un délai ne dépassant pas le 30 novembre. Ladite remise
+est considérée comme une candidature d'office aux examens
+d'obtention du certificat de l'enseignement traditionnel
+collégial. Les personnes désirant passer lesdits examens en
+qualité de candidats libres doivent déposer leurs demandes
+de candidature auprès de la délégation des affaires islamiques
+concernée avant le 30 novembre de l'année scolaire au titre de
+laquelle elles se portent candidats pour participer aux examens.
+Le dossier de candidature des candidats officiels et
+libres comporte une attestation délivrée par l'un des conseils
+locaux des ouléma justifiant que les candidats mémorisent
+parfaitement et intégralement le Saint Coran.
+Tout dossier de candidature ne comportant pas ladite
+pièce est rejeté.
+
+
+## Article 38
+
+*ART. 38. –*
+
+Le coefficient (1) est appliqué à la moyenne
+annuelle du contrôle continu et à la moyenne de l'examen écrit
+normalisé au niveau de l'école de l'enseignement traditionnel
+collégial.
+Le coefficient (4) est appliqué à la moyenne de l'examen
+écrit normalisé à l'échelle nationale pour les candidats offciiels
+et le coefficient (1) pour les candidats libres.
+
+
+## Article 39
+
+*ART.  39.  –*
+
+Sont chargées de corriger les réponses
+aux sujets de l'examen écrit normalisé à l'échelle nationale,
+prévu à l'article 31 ci-dessus, des commissions composées
+d'enseignants du cycle d'enseignement traditionnel collégial,
+désignées par le directeur de l'enseignement traditionnel au
+ministère des Habous et des affaires islamiques.
+
+*Citations :*
+
+- `l'article 31` → loi n° 13-01 [✓]
+
+
+## Article 40
+
+*ART. 40. –*
+
+Il est permis de redoubler une fois au cycle
+d'enseignement traditionnel collégial.
+À titre exceptionnel, un deuxième redoublement peut être
+autorisé après accord de l'administration de l'établissement.
+
+
+## Article 41
+
+*ART. 41. –*
+
+Les élèves du cycle d'enseignement traditionnel
+secondaire passent de la première à la deuxième année et de la
+deuxième à la troisième sur la base des résultats du contrôle
+continu et des résultats de l'examen normalisé au niveau de
+l'école de l'enseignement traditionnel secondaire.
+
+
+## Article 42
+
+*ART. 42. –*
+
+Des examens pour l'obtention du baccalauréat
+de l'enseignement traditionnel secondaire se déroulent pendant
+la troisième année du cycle d'enseignement traditionnel
+secondaire.
+
+
+## Article 43
+
+*ART. 43. –*
+
+Les examens d'obtention du baccalauréat de
+l'enseignement traditionnel secondaire comportent :
+– un contrôle continu des matières de la troisième année
+du cycle d'enseignement traditionnel  secondaire ;
+– un examen écrit normalisé au niveau de l'école de
+l'enseignement traditionnel secondaire à la troisième
+année ;
+– un examen écrit normalisé à l'échelle nationale.
+
+
+## Article 44
+
+*ART. 44. –*
+
+Les épreuves de l'examen écrit normalisé au
+niveau de l'école de l'enseignement traditionnel secondaire
+portent, lors de la première et de la deuxième année de
+l'enseignement secondaire, sur l'intégralité du programme.
+Ledit examen est organisé à la fin de l'année.
+Les épreuves de l'examen écrit normalisé au niveau de
+l'école de l'enseignement traditionnel secondaire portent, lors
+de la troisième année, sur le programme de la première moitié
+de l'année scolaire, et les épreuves de l'examen écrit normalisé
+à l'échelle nationale sur l'intégralité du programme. Le premier
+examen est organisé à la fin de la première moitié de l'année
+scolaire, le deuxième à sa fin.
+
+
+## Article 45
+
+*ART. 45. –*
+
+Sont fixées tel qu'il est indiqué aux tableaux
+numéros 9 et 10 annexés au présent arrêté, les matières qui
+font l'objet des deux examens normalisés prévus à l'article 43
+ci-dessus, leurs coefficients et leurs durées de réalisation ainsi
+que les coefficients des matières du contrôle continu.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 43` → arrêté [✓]
+
+
+## Article 46
+
+*ART. 46. –*
+
+Peuvent participer aux examens d'obtention
+du baccalauréat de l'enseignement traditionnel secondaire :
+– des candidats officiels ;
+– des candidats libres.
+
+
+## Article 47
+
+*ART. 47. –*
+
+Au sens de l'article 46 ci-dessus, on entend
+par :
+– candidats officiels, les élèves des établissements
+d'enseignement traditionnel public secondaire et les
+élèves des établissements d'enseignement traditionnel
+privé secondaire, inscrits à la troisième année du cycle
+d'enseignement traditionnel secondaire ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– candidats libres, les personnes non inscrites aux
+établissements de l'enseignement traditionnel prévus
+au premier alinéa du présent article, titulaires du
+certificat de l'enseignement traditionnel collégial ou
+d'un certificat équivalent depuis au moins deux ans.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 46` → loi n° 13-01 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 48
+
+*ART.  48.  –*
+
+Les candidats libres sont dispensés du
+contrôle continu relatif aux matières de la troisième année
+et des épreuves de l'examen normalisé au niveau de l'école de
+l'enseignement traditionnel secondaire.
+
+
+## Article 49
+
+*ART. 49. –*
+
+Les personnes désirant passer les examens
+d'obtention du baccalauréat de l'enseignement traditionnel
+secondaire en qualité de candidats officiels, doivent
+déposer leurs demandes de candidature à l'administration
+de l'établissement dont elles relèvent avant le 30 novembre
+de l'année de leur admission à la troisième année du cycle
+d'enseignement traditionnel secondaire.
+Les personnes désirant passer lesdits examens en
+qualité de candidats libres doivent déposer leurs demandes
+de candidature à la délégation des affaires islamiques dont
+relève leur lieu de résidence, avant le 30 novembre de l'année
+scolaire au titre de laquelle elles se portent candidats pour
+participer aux examens.
+Le dossier de candidature des candidats officiels et
+libres comporte une attestation délivrée par l'un des conseils
+locaux des ouléma justifiant que les candidats mémorisent
+parfaitement et intégralement le Saint Coran.
+Tout dossier de candidature ne comportant pas ladite
+pièce est rejeté.
+
+
+## Article 50
+
+*ART. 50. –*
+
+Les dispositions des articles 20, 21, 22, 23 et
+24 du présent arrêté sont applicables aux examens normalisés
+prévus aux article 43 et 44 ci-dessus.
+Le directeur et les enseignants de l'école de l'enseignement
+traditionnel secondaire remplacent le directeur et les
+enseignants de l'école de l'enseignement traditionnel primaire
+dans l'application desdites dispositions.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 20, 21, 22, 23 et
+24` → arrêté [✓]
+
+
+## Article 51
+
+*ART. 51. –*
+
+Sont chargées de corriger les réponses aux
+sujets de l'examen écrit normalisé à l'échelle nationale, des
+commissions composées d'enseignants des établissements
+de l'enseignement traditionnel secondaire, désignées par le
+directeur de l'enseignement traditionnel au ministère des
+Habous et des affaires islamiques.
+
+
+## Article 52
+
+*ART.  52.  –*
+
+Une session de rattrapage de l'examen
+normalisé à l'échelle nationale est organisée au profit des
+candidats officiels et libres qui, pour une raison de force
+majeure, n'ont pas pu subir certaines ou l'ensemble des
+épreuves de la session normale, ou ceux qui n'ont pas réussi
+ladite session et ont obtenu une moyenne générale d'au moins 8
+sur 20, sans l'obtention de la note éliminatoire prévue à l'article
+73 ci-après et ce, deux semaines après l'annonce des résultats
+des examens du baccalauréat.
+
+*Citations :*
+
+- `l'article
+73` → loi n° 13-01 [✓]
+
+
+## Article 53
+
+*ART. 53. –*
+
+Le coefficient (1) est appliqué à la moyenne
+annuelle du contrôle continu et à la moyenne de l'examen écrit
+normalisé au niveau de l'école de l'enseignement traditionnel
+secondaire.
+Le coefficient (4) est appliqué à la moyenne de l'examen
+écrit normalisé à l'échelle nationale pour les candidats offciiels
+et le coefficient (1) pour les candidats libres.
+
+
+## Article 54
+
+*ART. 54. –*
+
+Les élèves du cycle d'enseignement traditionnel
+terminal passent de la première à la deuxième année et de la
+deuxième à la troisième sur la base des résultats du contrôle
+continu et des résultats de l'examen normalisé au niveau de
+l'établissement de l'enseignement traditionnel terminal.
+
+
+## Article 55
+
+*ART. 55. –*
+
+Des examens pour l'obtention du certifciat d'Al-
+Alimiya de l'enseignement traditionnel se déroulent pendant la
+troisième année du cycle d'enseignement traditionnel terminal.
+
+
+## Article 56
+
+*ART. 56. –*
+
+Les examens pour l'obtention du certificat
+d'Al-Alimiya de l'enseignement traditionnel comportent :
+– un contrôle continu des matières de la troisième année
+du cycle d'enseignement traditionnel terminal ;
+– un examen écrit normalisé au niveau de l'établissement
+de l'enseignement traditionnel terminal à la troisième
+année ;
+– un examen écrit normalisé à l'échelle nationale.
+
+
+## Article 57
+
+*ART. 57. –*
+
+Les épreuves de l'examen écrit normalisé
+à l'échelle de l'établissement d'enseignement traditionnel
+terminal portent, lors de la première et de la deuxième
+année d'enseignement traditionnel terminal, sur tout
+le programme. Ledit examen est organisé à la fin de l'année.
+Les épreuves de l'examen écrit normalisé au niveau de
+l'établissement d'enseignement traditionnel terminal portent,
+lors de la troisième année, sur le programme de la première
+moitié de l'année scolaire et les épreuves de l'examen écrit
+normalisé à l'échelle nationale sur l'intégralité du programme.
+Le premier examen est organisé à la fin de la première moitié
+de l'année scolaire, le deuxième à sa fin.
+
+
+## Article 58
+
+*ART. 58. –*
+
+Sont fixées tel qu'il est indiqué au tableau
+numéro 11 annexé au présent arrêté, les matières qui font
+l'objet des deux examens normalisés prévus à l'article 56 ci-
+dessus, leurs coefficients et leurs durées de réalisation ainsi
+que les coefficients des matières du contrôle continu.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 56` → arrêté [✓]
+
+
+## Article 59
+
+*ART. 59. –*
+
+Sont chargées de corriger les réponses des
+sujets de l'examen écrit normalisé à l'échelle nationale, des
+commissions composées d'enseignants des établissements de
+l'enseignement traditionnel terminal, désignées par le directeur
+de l'enseignement traditionnel au ministère des Habous et des
+affaires islamiques.
+
+
+## Article 60
+
+*ART.  60.  –*
+
+Une session de rattrapage de l'examen
+normalisé au niveau de l'établissement de l'enseignement
+traditionnel terminal est organisée à la première et à la
+deuxième année, et de l'examen normalisé à l'échelle nationale
+à la troisième année,  au profti des candidats qui, pour une
+raison de force majeure, n'ont pas pu subir certaines ou
+l'ensemble des épreuves de la session normale, ou ceux qui
+n'ont pas réussi ladite session et ont obtenu une moyenne
+générale inférieure à 10 sur 20, sans l'obtention de la note
+éliminatoire prévue à l'article 73 ci-après, et ce, deux semaines
+après l'annonce des résultats des examens.
+
+*Citations :*
+
+- `l'article 73` → loi n° 13-01 [✓]
+
+
+## Article 61
+
+*ART. 61. –*
+
+En session de rattrapage, l'étudiant passe un
+examen dans les matières où il obtient une note inférieure à
+10 sur 20.
+
+
+## Article 62
+
+*ART. 62. –*
+
+Le coefficient (1) est appliqué à la moyenne
+annuelle du contrôle continu et à la moyenne de l'examen
+écrit normalisé au niveau de l'établissement de l'enseignement
+traditionnel terminal, et le coefficient (4) à la moyenne de
+l'examen écrit normalisé à l'échelle nationale.
+
+
+## Article 63
+
+*ART. 63. –*
+
+Les dispositions des articles 20, 21, 22, 23 et
+24 du présent arrêté sont applicables aux examens normalisés
+prévus aux article (56) et (57) ci-dessus.
+Le directeur et les enseignants de l'établissement de
+l'enseignement traditionnel terminal remplacent le directeur
+et les enseignants de l'école de l'enseignement traditionnel
+primaire dans l'application desdites dispositions.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `articles 20, 21, 22, 23 et
+24` → arrêté [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 64
+
+*ART. 64. –*
+
+Les étudiants de la troisième année du cycle
+d'enseignement traditionnel terminal sont chargés d'élaborer
+un projet de recherche dans un sujet qu'ils choisissent après
+accord du professeur encadrant, réalisé dans la limite de
+cinquante pages imprimées ou saisies en trois exemplaires et
+remis à l'administration un mois au moins avant la date des
+épreuves de la session normale de l'examen national normalisé.
+
+
+## Article 65
+
+*ART. 65.-*
+
+Seuls les étudiants inscrits en troisième année
+du cycle d'enseignement traditionnel terminal participent
+aux examens d'obtention du certificat d'Al-Alimiya de
+l'enseignement traditionnel.
+
+
+## Article 66
+
+*ART. 66. –*
+
+Les listes et les dossiers des étudiants inscrits en
+troisième année du cycle d'enseignement traditionnel terminal
+sont remis à la délégation des affaires islamiques concernée
+dans un délai maximum du 30 novembre. Ladite remise est
+considérée comme une candidature d'office aux examens
+d'obtention du certificat d'Al-Alimiya de l'enseignement
+traditionnel.
+Le dossier de candidature comporte une attestation
+délivrée par l'un des conseils locaux des ouléma justifiant
+que les candidats mémorisent parfaitement et intégralement
+le Saint Coran.
+Tout dossier de candidature ne comportant pas ladite
+pièce est rejeté.
+TITRE IV
+DISPOSITIONS DIVERSES
+
+
+## Article 67
+
+*ART. 67. –*
+
+Le contrôle continu prévu aux articles 14, 29,
+41 et 54 ci-dessous a lieu dans toutes les matières et sont fixées
+par décision du ministre des Habous et des affaires islamiques,
+les modalités de son déroulement.
+
+*Citations :*
+
+- `articles 14, 29,
+41 et 54` → loi n° 13-01 [✓]
+
+
+## Article 68
+
+*ART. 68. –*
+
+Sont fixés par décision du ministre des Habous
+et des affaires islamiques, les matières des examens normalisés
+au niveau de l'établissement de l'enseignement traditionnel
+en quatrième et cinquième année du cycle d'enseignement
+traditionnel primaire et en première et deuxième année des
+cycles d'enseignement traditionnel collégial, secondaire et
+terminal, leurs coefficients et leurs durées de réalisation.
+
+
+## Article 69
+
+*ART.  69.  –*
+
+Sont dispensés de l'épreuve d'éducation
+physique, les élèves ou les étudiants qui présentent un certifciat
+médical justifiant leur incapacité de pratiquer le sport.
+Ledit certificat doit être délivré par un médecin de la
+santé scolaire.
+
+
+## Article 70
+
+*ART. 70. –*
+
+Les établissements d'enseignement traditionnel
+où sont organisés les examens écrits normalisés, prévus dans
+le présent arrêté, sont fixés au début de chaque année scolaire.
+Les directeurs desdits établissements sont chargés
+de superviser l'organisation des examens, de désigner les
+contrôleurs et de prendre les mesures nécessaires à la
+répression, au repérage de la fraude et à la sanction de ses
+auteurs conformément aux textes législatifs et réglementaires
+en vigueur.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 71
+
+*ART. 71. –*
+
+Les élèves ou étudiants des établissements
+d'enseignement traditionnel, chacun selon son cycle, ne
+peuvent s'absenter de l'ensemble ou d'une partie des épreuves
+de l'examen écrit normalisé à l'échelle nationale.
+Est redoublant, le candidat qui a manqué aux épreuves
+prévues à chacun des cycles d'études aux établissements
+d'enseignement traditionnel, quelles que soient les raisons
+d'absence et les notes obtenues dans le reste des épreuves et
+perd, par conséquent, ce qui suit :
+– les résultats du contrôle continu pour les élèves des
+cycles d'enseignement traditionnel primaire, collégial,
+secondaire et terminal ;
+– les résultats de l'examen écrit normalisé au niveau de
+l'école de l'enseignement traditionnel primaire, de
+l'école de l'enseignement traditionnel collégial, de
+l'école de l'enseignement traditionnel secondaire et de
+l'établissement de l'enseignement traditionnel terminal.
+
+
+## Article 72
+
+*ART. 72. –*
+
+Par dérogation aux dispositions en la matière
+prévues ci-dessus, il est permis de redoubler une année
+supplémentaire, aux élèves et étudiants qui, pour des raisons
+de santé, se sont absentés des études pour une durée de deux
+mois ou plus, ou des examens, et qui ont présenté un certificat
+médical dans un délai de 20 jours de la date d'absence.
+
+
+## Article 73
+
+*ART. 73. –*
+
+Une note entre zéro et vingt est attribuée pour
+chaque épreuve, la fraction de la note étant une note entière.
+La note zéro est éliminatoire aux examens prévus à
+l'article 71 ci-dessus et ne l'est pas au contrôle continu et aux
+autres épreuves. Elle est comptabilisée dans le calcul de la
+moyenne générale.
+
+*Citations :*
+
+- `l'article 71` → loi n° 13-01 [✓]
+
+
+## Article 74
+
+*ART. 74. –*
+
+Les notes obtenues en contrôle continu et
+en examen normalisé au niveau de l'établissement ne sont
+pas comptabilisées lorsque la somme de leurs moyennes est
+supérieure au quadruple de la moyenne de l'examen normalisé
+à l'échelle nationale. Dans ce cas, seule la moyenne de l'examen
+normalisé à l'échelle nationale est comptabilisée pour la
+réussite ou l'échec.
+
+
+## Article 75
+
+*ART. 75. –*
+
+Est admis, tout candidat ayant obtenu une
+moyenne générale d'au moins 10 sur 20 dans l'ensemble des
+épreuves prévues au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 76
+
+*ART. 76. –*
+
+Les certificats prévus à l'article 4 de la loi
+n° 13-01 relative à l'enseignement traditionnel sont remis avec
+l'une des mentions suivantes :
+– « Passable » lorsque le candidat obtient une moyenne
+inférieure à 12 sur 20 ;
+– « Assez bien » lorsque le candidat obtient une moyenne
+d'au moins 12 sur 20 et inférieure à 14 sur 20 ;
+– « Bien » lorsque le candidat obtient une moyenne d'au
+moins 14 sur 20 et inférieure à 16 sur 20 ;
+– « Très bien » lorsque le candidat obtient une moyenne
+d'au moins 16 sur 20.
+
+*Entités :* `loi
+n° 13-01 relative à l'enseignement traditionnel sont remis avec` (LOI), `loi
+n° 13-01 relative à l'enseignement traditionnel` (LOI), `13-01` (LOI)
+
+*Citations :*
+
+- `l'article 4` → loi n° 13-01 relative à l'enseignement traditionnel sont remis avec [✓]
+
+
+## Article 77
+
+*ART. 77. –*
+
+À compter de la date de sa publication au
+Bulletin officiel, le présent arrêté abroge l'arrêté du ministre
+des Habous et des affaires islamiques n° 873-06 du 5 rabii II
+1427 (3 mai 2006) relatif au régime des études et des examens
+aux établissements d'enseignement traditionnel.
+Est valable, le régime des études et des examens appliqué
+aux établissements d'enseignement traditionnel publics au
+cours des années scolaires 2002-2003, 2003-2004, 2004-2005
+et 2005-2006 en vue de préparer le certificat d'enseignement
+traditionnel primaire, le certifciat d'enseignement traditionnel
+collégial, le baccalauréat de l'enseignement traditionnel
+secondaire et le certificat d'Al-Alimiya en enseignement
+traditionnel.
+Rabat, le 5 kaada 1431 (14 octobre 2010).
+AHMED TOUFIQ.
+*
+*   *
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 1
+Matières et volume horaire hebdomadaire et annuel
+au cycle traditionnel primaire
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 2
+Matières et volume horaire hebdomadaire et annuel
+au cycle traditionnel collégial
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 3
+Matières et volume horaire hebdomadaire et annuel
+au cycle traditionnel secondaire
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Matières et volume horaire hebdomadaire et annuel au cycle d'enseignement
+Première Année
+Deuxième Année
+Troisième Année
+Matières
+VHH VHA
+Matières
+VHH VHA
+Matières
+VHH VHA
+Exégèse
+Exégèse
+Exégèse
+Hadith
+Hadith
+Hadith
+Fiqh
+Fiqh
+Fiqh
+Fondements du
+Règles de Fiqh
+Règles de Fiqh
+Finalités de la
+Philologie
+Philologie
+Fiqh de la
+biographie du
+Informatique
+Informatique
+Histoire
+Tableau 4
+traditionnel terminal
+Total
+Total
+Langue
+étrangère : 2
+Total
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 5
+Examens du certificat de l'enseignement traditionnel primaire
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 6
+Examen du certificat de l'enseignement traditionnel primaire
+- Candidats libres-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 7
+Examens du certificat de l'enseignement traditionnel collégial
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 8
+Examen du certificat de l'enseignement traditionnel collégial
+- Candidats libres-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 9
+Examens du certificat du baccalauréat de l'enseignement traditionnel secondaire
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 10
+Examen du certificat du baccalauréat de l'enseignement traditionnel secondaire
+- Candidats libres-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 11
+Examen du certificat d'Al-Alimiya en enseignement traditionnel
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 5902 du 17 moharrem 1432 (23 décembre 2010).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `arrêté du ministre` (ARRETE), `5 rabii II
+1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `Bulletin officiel » n° 5902 du 17 moharrem 1432 (23 décembre 2010)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 rabii II 1427, 3 mai 2006, 5 kaada 1431, 14 octobre 2010, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Sont modifiées ou complétées
+comme suit, les dispositions des articles 25 (deuxième alinéa),
+36 (deuxième alinéa), 37 (deuxième alinéa), 49 (troisième alinéa),
+52, 60, 66 (deuxième alinéa), 70 (alinéa premier) et 73 (alinéa
+premier) de l'arrêté du ministre des Habous et des affaires
+islamiques susvisé n° 2022-10 du 5 kaada 1431 (14 octobre 2010).
+«  Article 25 (deuxième alinéa). – Le dossier de
+« candidature des candidats officiels et libres comporte une
+« attestation délivrée au titre de l'année de candidature par
+« l'un des conseils locaux des ouléma justifiant que le candidat
+« mémorise intégralement le Saint Coran. »
+« Article 36 (deuxième alinéa). – Peuvent participer en
+« qualité de candidat libre, les personnes non inscrites au
+« cycle d'enseignement traditionnel collégial titulaires, depuis
+« au moins deux ans, du certifciat de l'enseignement traditionnel
+« primaire ou son équivalent. »
+« Article 37 (deuxième alinéa). – Le dossier de
+« candidature des candidats officiels et libres comporte une
+« attestation délivrée au titre de l'année de candidature par
+« l'un des conseils locaux des ouléma justifiant que le candidat
+« mémorise intégralement le Saint Coran. »
+«  Article 49 (troisième alinéa). – Le dossier de
+« candidature des candidats officiels et libres comporte une
+« attestation délivrée au titre de l'année de candidature par l'un
+« des conseils locaux des ouléma justifiant que le candidat
+« mémorise intégralement le Saint Coran. »
+« Article 52. – Une session de rattrapage de l'examen
+« normalisé à l'échelle nationale est organisée dans toutes
+« les matières dudit examen au profti des candidats officiels et
+« libres …… […texte non modifié…] …
+(Le reste sans changement.)
+« Article 60. – Une session de rattrapage de l'examen
+« normalisé au niveau de l'établissement de l'enseignement
+« traditionnel terminal est organisée à la première et à la
+« deuxième année, et de l'examen normalisé à l'échelle nationale
+« à la troisième année, dans toutes les matières desdits examens,
+« au profti des candidats qui, pour une raison de force majeure,
+« n'ont pas pu subir………
+(Le reste sans changement.)
+«  Article 66 (deuxième alinéa). – Le dossier de
+« candidature comporte une attestation délivrée au titre de
+« l'année de candidature par l'un des conseils locaux des
+« ouléma justifiant que le candidat mémorise intégralement
+« le Saint Coran. »
+« Article 70 (alinéa premier). – Les établissements de
+« l'enseignement traditionnel où sont organisés les examens
+« écrits normalisés à l'échelle nationale, prévus dans le présent
+« arrêté, sont fixés avant la fin du mois d'avril de chaque année
+« scolaire. »
+« Article 73 (alinéa premier). – Une notre entre zéro et
+« vingt est attribuée pour chaque épreuve. »
+
+*Entités :* `arrêté du ministre des Habous et des affaires` (ARRETE), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `arrêté` (ARRETE), `2022-10` (ARRETE)
+
+*Citations :*
+
+- `articles 25` → arrêté du ministre des Habous et des affaires [✓]
+
+*Dates :* 5 kaada 1431, 14 octobre 2010
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont abrogées et remplacées comme suit, les
+dispositions de l'article 61 de l'arrêté du ministre des Habous
+et des affaires islamiques susvisé n° 2022-10 du 5 kaada 1431
+(14 octobre 2010) :
+« Article 61. – Concernant les candidats en rattrapage,
+« la moyenne des examens prévus à l'article 60 ci-dessus est
+« calculée en considération de la meilleure note obtenue dans
+« chacune des épreuves de la session normale et de la session
+« de rattrapage, sans l'obtention de la note éliminatoire prévue
+« à l'article 73 ci-après. »
+
+*Entités :* `arrêté du ministre des Habous` (ARRETE), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `2022-10` (ARRETE), `arrêté du ministre des Habous
+et des affaires` (ARRETE)
+
+*Citations :*
+
+- `l'article 61` → arrêté du ministre des Habous [✓]
+- `l'article 60` → arrêté du ministre des Habous [✓]
+- `l'article 73` → arrêté du ministre des Habous [✓]
+
+*Dates :* 5 kaada 1431, 14 octobre 2010
+
+
+## Article 3
+
+*ART. 3. –*
+
+Sont abrogés et remplacés successivement par
+les tableaux portant les mêmes numéros annexés au présent
+arrêté, les tableaux de 1 à 5 et de 7 à 11 annexés à l'arrêté du
+ministre des Habous et des affaires islamiques susvisé n° 2022-10
+du 5 kaada 1431 (14 octobre 2010).
+
+*Entités :* `arrêté` (ARRETE), `arrêté du
+ministre des Habous et des affaires islamiques susvisé n° 2022-10` (ARRETE), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `2022-10` (ARRETE), `arrêté du
+ministre des Habous et des affaires` (ARRETE)
+
+*Dates :* 5 kaada 1431, 14 octobre 2010
+
+
+## Article 4
+
+*ART. 4. –*
+
+L'arrêté du ministre des Habous et des affaires
+islamiques susvisé n° 2022-10 du 5 kaada 1431 (14 octobre 2010)
+est complété par l'article 72 bis suivante :
+« Article 72 bis. – Il est permis aux candidats à l'examen
+« écrit normalisé à l'échelle nationale pour l'obtention du
+« certificat du baccalauréat de l'enseignement traditionnel
+« secondaire et du certificat d'Al-Alimiya en enseignement
+« traditionnel qui, pour cause de maladie, ont manqué à la
+« participation à l'ensemble ou à certaines des épreuves de la
+« session normale dudit examen, de participer à la session de
+« rattrapage, à condition qu'ils produisent un certifciat médical
+« dans un délai maximum de sept (7) jours de la date d'absence
+« et sans l'obtention de la note éliminatoire prévue à l'article
+« 73 ci-après. »
+
+*Entités :* `arrêté du ministre des Habous et des affaires` (ARRETE), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `2022-10` (ARRETE)
+
+*Citations :*
+
+- `l'article 72` → arrêté du ministre des Habous et des affaires [✓]
+
+*Dates :* 5 kaada 1431, 14 octobre 2010
+
+
+## Article 5
+
+*ART. 5. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 12 ramadan 1433 (1er août 2012).
+AHMED TOUFIQ.
+*
+*   *
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 1
+Matières et volume horaires hebdomadaire et annuel
+au cycle traditionnel primaire
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 2
+Matières et volume horaire hebdomadaire et annuel
+au cycle traditionnel collégial
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 3
+Matières et volume horaire hebdomadaire et annuel
+au cycle traditionnel secondaire
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Matières et volume horaire hebdomadaire et annuel au cycle
+Première Année
+Deuxième Année
+Troisième Année
+Matières
+VHH
+VHA
+Matières
+VHH
+VHA
+Matières
+VHH
+VHA
+Exégèse
+Exégèse
+Exégèse
+Le Hadith et ses
+Fiqh
+Fiqh
+Fiqh
+Fondements du
+Règles de Fiqh
+Règles de Fiqh
+Finalités de la
+Philologie
+Philologie
+Fiqh de la
+biographie
+du Prophète
+Informatique
+Informatique
+Histoire
+Tableau 4
+d'enseignement traditionnel terminal
+Total
+Total
+Langue
+étrangère : 2
+Total
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 5
+Examens du certificat de l'enseignement traditionnel primaire
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 7
+Examens du certificat de l'enseignement traditionnel collégial
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 8
+Examen du certificat de l'enseignement traditionnel collégial
+- Candidats libres-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 9
+Examens du certificat du baccalauréat de l'enseignement
+traditionnel secondaire
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 10
+Examen du certificat du baccalauréat de l'enseignement traditionnel
+secondaire
+- Candidats libres-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 11
+Examen du certificat d'Al-Alimiya en enseignement traditionnel
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6119 du 9 rabii I 1434 (21 janvier 2013).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `12 ramadan 1433` (DATE_HIJRI), `1er août 2012` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `Bulletin officiel » n° 6119` (BULLETIN_OFFICIEL), `9 rabii I 1434` (DATE_HIJRI), `21 janvier 2013` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 12 ramadan 1433, 1er août 2012, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 9 rabii I 1434, 21 janvier 2013, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Sont modifiées comme suit, les
+dispositions de l'article 25 (deuxième alinéa) de l'arrêté du
+ministre des Habous et des affaires islamiques susvisé n° 2022-10
+du 5 kaada 1431 (14 octobre 2010) :
+n° 3826-14 du 10 moharrem 1436 (4 novembre 2014)
+modifiant l'arrêté n° 2022-10 du 5 kaada 1431 (14 octobre
+2010) relatif au régime des études et des examens aux
+«  Article 25 (deuxième alinéa). – Le dossier de
+« candidature des candidats officiels et libres comporte une
+« attestation délivrée au titre de l'année de candidature par
+« l'un des conseils locaux des Ouléma justifiant que le candidat
+« mémorise 40 hizb du Saint Coran. »
+établissements d'enseignement traditionnel.
+LE MINISTRE DES HABOUS ET DES AFFAIRES ISLAMIQUES,
+
+*Entités :* `arrêté du
+ministre des Habous et des affaires islamiques susvisé n° 2022-10` (ARRETE), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `10 moharrem 1436` (DATE_HIJRI), `4 novembre 2014` (DATE_GREGORIAN), `arrêté n° 2022-10 du 5 kaada 1431` (ARRETE), `arrêté du
+ministre des Habous et des affaires` (ARRETE)
+
+*Citations :*
+
+- `l'article 25` → arrêté n° 2022-10 du 5 kaada 1431 [✓]
+
+*Dates :* 5 kaada 1431, 14 octobre 2010, 10 moharrem 1436, 4 novembre 2014, 14 octobre 2010
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Vu l'arrêté du ministre des Habous et des affaires
+Rabat, le 10 moharrem 1436 (4 novembre 2014).
+islamiques n° 2022-10 du 5 kaada 1431 (14 octobre 2010)
+AHMED TOUFIQ.
+relatif au régime des études et des examens aux établissements
+Le texte en langue arabe a été publié dans l'édition générale du
+d'enseignement traditionnel, tel qu'il a été modifié et complété,
+« Bulletin officiel » n° 6317 du 22 safar 1436 (15 décembre 2014).
+
+*Entités :* `arrêté` (ARRETE), `arrêté du ministre des Habous et des affaires` (ARRETE), `10 moharrem 1436` (DATE_HIJRI), `4 novembre 2014` (DATE_GREGORIAN), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `Bulletin officiel » n° 6317 du 22 safar 1436 (15 décembre 2014)` (BULLETIN_OFFICIEL), `2022-10` (ARRETE)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 10 moharrem 1436, 4 novembre 2014, 5 kaada 1431, 14 octobre 2010
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Sont complétées comme suit, les dispositions de l'article 6 (deuxième alinéa) de l'arrêté du ministre
+des Habous et des affaires islamiques susvisé n° 2022-10 du 5 kaada 1431 (14 octobre 2010) :
+« Article 6 (deuxième alinéa). – Les études durent  […texte non modifié…]  à la mémorisation du Saint Coran, ainsi qu'à des activités
+« pédagogiques contribuant à faciliter la croissance physique, mentale et émotionnelle des enfants à travers le développement de
+« leurs habiletés sensori-motrices, spatiales, temporelles, imaginatives et expressives et en leurs inculquant les valeurs religieuses,
+« civiques et humaines fondamentales. »
+
+*Entités :* `arrêté du ministre` (ARRETE), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `2022-10` (ARRETE), `2022-10` (ARRETE)
+
+*Citations :*
+
+- `l'article 6` → arrêté du ministre [✓]
+
+*Dates :* 5 kaada 1431, 14 octobre 2010
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont abrogés et remplacés successivement par les tableaux portant les mêmes numéros annexés au présent arrêté,
+les tableaux de 1 à 3 et de 5 à 10 annexés à l'arrêté du ministre des Habous et des affaires islamiques susvisé n° 2022-10 du 5 kaada
+1431 (14 octobre 2010).
+
+*Entités :* `arrêté` (ARRETE), `arrêté du ministre des Habous et des affaires islamiques susvisé n° 2022-10 du 5 kaada` (ARRETE), `14 octobre 2010` (DATE_GREGORIAN), `2022-10` (ARRETE), `2022-10` (ARRETE)
+
+*Dates :* 14 octobre 2010
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté qui est publié au Bulletin officiel entre en vigueur à compter de l'année scolaire 2016/2017.
+Rabat, le 10 safar 1438 (10 novembre 2016).
+AHMED TOUFIQ.
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 1
+Matières et volume horaire hebdomadaire et annuel
+au cycle traditionnel primaire
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 2
+Matières et volume horaire hebdomadaire et annuel
+au cycle traditionnel collégial
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 3
+Matières et volume horaire hebdomadaire et annuel
+au cycle traditionnel secondaire
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 5
+Examens du certificat de l'enseignement traditionnel primaire
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 6
+Examen du certificat de l'enseignement traditionnel primaire
+- Candidats libres-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 7
+Examens du certificat de l'enseignement traditionnel collégial
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 8
+Examens du certificat de l'enseignement traditionnel collégial
+- Candidats libres-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 9
+Examens du certificat du baccalauréat de l'enseignement traditionnel
+secondaire
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 10
+Examens du certificat du baccalauréat de l'enseignement traditionnel
+secondaire
+- Candidats libres-
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6533 du 10 rabii II 1438 (9 janvier 2017).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `10 safar 1438` (DATE_HIJRI), `10 novembre 2016` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `Bulletin officiel » n° 6533` (BULLETIN_OFFICIEL), `10 rabii II 1438` (DATE_HIJRI), `9 janvier 2017` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 10 safar 1438, 10 novembre 2016, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 10 rabii II 1438, 9 janvier 2017, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont modifiées et complétées
+comme suit, les dispositions des articles 8, 9, 14, 25, 37, 49 et
+66 de l'arrêté du ministre des Habous et des affaires islamiques
+susvisé n° 2022-10 du 5 kaada 1431 (14 octobre 2010) :
+« Article 8. – Peuvent être admis à l'un des niveaux du
+« cycle d'enseignement traditionnel primaire, les élèves dont
+« l'âge varie entre 9 et 20 ans, au 1er septembre de l'année
+« d'inscription, mémorisant le nombre défini de Hizb du Saint
+« Coran, conformément aux conditions et modalités prévues
+« à l'article 9 ci-après. »
+« Article 9. – Les élèves, prévus à l'article 8 ci-dessus,
+«  accèdent  […texte non modifié…]  selon des conditions et des
+« modalités fixées par décision du ministre des Habous et des
+« affaires islamiques.
+« Sont consacrés ……………………………………………
+« des moyens disponibles.
+« Est fixée annuellement par décision du ministre des
+« Habous et des affaires islamiques, la liste des établissements
+« qualifiés, prévus au deuxième alinéa du présent article. »
+« Article 14. – Les élèves  […texte non modifié…]  continu.
+« Les élèves  […texte non modifié…]  d'enseignement
+« traditionnel primaire.
+« Outre les résultats du contrôle continu et ceux de
+«  l'examen normalisé, les élèves du cycle traditionnel
+« primaire ne peuvent accéder à un niveau supérieur qu'après
+« vérification, par une commission créée à cet effet au niveau
+« de chaque école d'enseignement traditionnel primaire, de
+« la mémorisation par l'élève, à la fin de l'année scolaire, du
+« nombre requis de Hizb du Saint Coran, fixés au tableau
+« n° 12 annexé au présent arrêté.
+« A défaut de mémorisation du nombre requis, l'élève
+« subit, à partir de l'année suivante, une épreuve en matière de
+« Saint Coran, dont les résultats sont décisifs pour qu'il accède
+« au niveau supérieur ou pour qu'il redouble l'année scolaire. »
+« Article 25. – Sont candidats  […texte non modifié…]  l'examen a lieu.
+« Le dossier de candidature des candidats officiels
+« et libres doit comporter une attestation justifiant que le
+« candidat mémorise entièrement le Saint Coran, délivrée
+« suite à des épreuves, au titre de l'année de candidature,
+« par une commission créée au niveau de la délégation des
+« affaires islamiques concernée, désignée par le directeur de
+« l'enseignement traditionnel au ministère des Habous et des
+« affaires islamiques.
+« Sont fixées par décision du ministre des Habous et des
+« affaires islamiques, les modalités et les dates d'organisation
+« des épreuves de mémorisation du Saint Coran, prévues au
+« présent article. »
+« Article 37. – Les listes  […texte non modifié…]  examens.
+« Le dossier de candidature des candidats officiels et
+« libres doit comporter une attestation justifaint que le candidat
+« mémorise entièrement le Saint Coran, délivrée suite à des
+« épreuves, au titre de l'année de candidature, par la commission
+« prévue à l'article 25 ci-dessus.
+« Sont fixées par décision du ministre des Habous et des
+« affaires islamiques, les modalités et les dates d'organisation
+« des épreuves de mémorisation du Saint Coran, prévues au
+« présent article. »
+« secondaire.
+« Les personnes  […texte non modifié…]  aux examens.
+« Le dossier de candidature des candidats officiels et
+« libres doit comporter une attestation justifaint que le candidat
+« mémorise entièrement le Saint Coran, délivrée suite à des
+« épreuves, au titre de l'année de candidature, par la commission
+« prévue à l'article 25 ci-dessus.
+« Sont fixées par décision du ministre des Habous et des
+« affaires islamiques, les modalités et les dates d'organisation
+« des épreuves de mémorisation du Saint Coran, prévues au
+« présent article. »
+« Article 66. – Les listes  […texte non modifié…]  de l'enseignement
+« traditionnel.
+« Le dossier de candidature des candidats officiels et
+«  libres doit comporter une attestation justifiant que le
+« candidat mémorise entièrement le Saint Coran, délivrée
+« suite à des épreuves, au titre de l'année de candidature, par
+« la commission prévue à l'article 25 ci-dessus.
+« Sont fixées par décision du ministre des Habous et des
+« affaires islamiques, les modalités et les dates d'organisation
+« des épreuves de mémorisation du Saint Coran, prévues au
+« présent article. »
+
+*Entités :* `arrêté du ministre des Habous et des affaires islamiques` (ARRETE), `5 kaada 1431` (DATE_HIJRI), `14 octobre 2010` (DATE_GREGORIAN), `arrêté` (ARRETE), `2022-10` (ARRETE), `arrêté du ministre des Habous et des affaires` (ARRETE)
+
+*Citations :*
+
+- `articles 8, 9, 14, 25, 37, 49 et
+66` → arrêté du ministre des Habous et des affaires islamiques [✓]
+- `l'article 9` → arrêté du ministre des Habous et des affaires islamiques [✓]
+- `l'article 8` → arrêté du ministre des Habous et des affaires islamiques [✓]
+- `l'article 25` → arrêté [✓]
+- `l'article 25` → arrêté [✓]
+- `l'article 25` → arrêté [✓]
+
+*Personnes :* Hizb du Saint, Hizb du Saint Coran
+
+*Dates :* 5 kaada 1431, 14 octobre 2010
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont complétées par l'article 72 ter, comme suit,
+les dispositions de l'arrêté susvisé n° 2022-10 :
+« Article 72 ter. – Est échouant, le candidat officiel
+« n'ayant pas obtenu l'attestation prévue aux articles 25, 37, 49
+« et 66 ci-dessus, et poursuit la mémorisation du Saint Coran
+« pendant le reste de l'année scolaire. »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté susvisé n° 2022-10` (ARRETE), `15 ramadan 1447` (DATE_HIJRI), `2022-10` (ARRETE)
+
+*Citations :*
+
+- `l'article 72` → arrêté susvisé n° 2022-10 [✓]
+- `articles 25, 37, 49` → arrêté susvisé n° 2022-10 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 3
+
+*ART. 3. –*
+
+Sont abrogés et remplacés par les tableaux
+portant les mêmes numéros, annexés au présent arrêté, les
+tableaux portant les numéros 1, 5 et 6 annexés à l'arrêté susvisé
+n° 2022-10.
+
+*Entités :* `arrêté` (ARRETE), `arrêté susvisé
+n° 2022-10` (ARRETE), `2022-10` (ARRETE)
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté sera publié au Bulletin Offciiel
+et entre en vigueur à compter de l'année scolaire 2024-2025,
+sous réserve des dispositions suivantes :
+Les dispositions du troisième alinéa de l'article 14 sont
+applicables au quatrième niveau de l'enseignement traditionnel
+primaire à compter de l'année scolaire 2025-2026, au cinquième
+niveau à compter de l'année scolaire 2026-2027 et au sixième
+niveau à compter de l'année scolaire 2027-2028 ;
+Par dérogation aux dispositions du deuxième alinéa
+de l'article 25, le dossier de candidature comporte, au titre
+des années scolaires 2024-2025 et 2025-2026, une attestation
+justifiant la mémorisation par le candidat de quarante Hizb
+du Saint Coran.
+Rabat, le 22 ramadan 1445 (2 avril 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7292 du 9 chaoual 1445 (18 avril 2024).
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 1
+Matières et volume horaires hebdomadaire et annuel
+au cycle traditionnel primaire
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 5
+Examens du certificat de l'enseignement traditionnel primaire
+- Candidats officiels-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 6
+Examen du certificat de l'enseignement traditionnel primaire
+- Candidats libres-
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau 12
+Nombre de Hizb du Saint Coran dont la mémorisation est requise pour
+accéder d'un niveau à un autre supérieur au cycle de l'enseignement
+traditionnel primaire
+* On entend par « consolidation » : engagement de l'élève à confirmer la
+mémorisation du nombre de Hizb requis au titre des années précédentes.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `22 ramadan 1445` (DATE_HIJRI), `2 avril 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7292 du 9 chaoual 1445 (18 avril 2024)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 14` → arrêté [✓]
+- `l'article 25` → Bulletin officiel » n° 7292 du 9 chaoual 1445 (18 avril 2024) [✓]
+
+*Personnes :* Hizb du Saint Coran
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 22 ramadan 1445, 2 avril 2024, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Les études et les examens aux
+établissements d'enseignement traditionnel sont organisés
+au titre de l'année scolaire 2019-2020, à titre exceptionnel,
+conformément aux dispositions prévues au présent arrêté.
+TITRE II
+RÉGIME DES ÉTUDES
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART.  2.  –*
+
+L'année scolaire aux établissements
+d'enseignement traditionnel prend fin par l'achèvement des
+sessions de rattrapage prévues aux articles 52 et 60 de l'arrêté
+du ministre des Habous et des affaires islamiques susvisé
+n° 2022-10.
+
+*Entités :* `arrêté
+du ministre des Habous et des affaires islamiques susvisé` (ARRETE), `arrêté
+du ministre des Habous et des affaires` (ARRETE)
+
+*Citations :*
+
+- `articles 52 et 60` → arrêté du ministre des Habous et des affaires islamiques susvisé [✓]
+
+
+## Article 3
+
+*ART.  3.  –*
+
+Les cours présentiels aux établissements
+d'enseignement traditionnel prennent fin le 14 mars 2020. Des
+cours à distance sont organisés pour achever le programme
+scolaire à compter de la date de suspension des cours
+présentiels et jusqu'au 8 juillet 2020.
+TITRE III
+RÉGIME DES EXAMENS
+
+*Entités :* `14 mars 2020` (DATE_GREGORIAN), `8 juillet 2020` (DATE_GREGORIAN)
+
+*Dates :* 14 mars 2020, 8 juillet 2020
+
+
+## Article 4
+
+*ART. 4. –*
+
+Est adopté un régime particulier des examens
+aux établissements d'enseignement traditionnel, au titre de
+l'année scolaire 2019-2020, comportant les examens prévus
+au titre III et aux articles de 67 à 76 du titre IV de l'arrêté
+du ministre des Habous et des affaires islamiques susvisé
+n° 2022-10, à l'exception des examens prévus à l'article 5
+ci-après.
+
+*Entités :* `arrêté
+du ministre des Habous et des affaires islamiques susvisé` (ARRETE), `arrêté
+du ministre des Habous et des affaires` (ARRETE)
+
+*Citations :*
+
+- `l'article 5` → arrêté du ministre des Habous et des affaires islamiques susvisé [✓]
+
+
+## Article 5
+
+*ART. 5. –*
+
+N'ont pas lieu au titre de l'année scolaire 2019-2020,
+pour les candidats officiels, les examens suivants, prévus
+respectivement aux articles 14,16,29,31, 41 et 54 de l'arrêté
+du ministre des Habous et des affaires islamiques susvisé
+n° 2022-10 :
+– l'examen écrit normalisé au niveau de l'école
+d'enseignement traditionnel primaire relatif à la
+quatrième et à la cinquième année du cycle de
+l'enseignement traditionnel primaire ;
+– l'examen écrit normalisé à l'échelle nationale pour
+l'obtention du certificat de l'enseignement traditionnel
+primaire ;
+– l'examen écrit normalisé au niveau de l'école de
+l'enseignement traditionnel collégial relatif à la première
+et à la deuxième année du cycle de l'enseignement
+traditionnel collégial ;
+– l'examen écrit normalisé à l'échelle nationale pour
+l'obtention du certificat de l'enseignement traditionnel
+collégial ;
+– l'examen écrit normalisé au niveau de l'école de
+l'enseignement traditionnel secondaire relatif à
+la première et à la deuxième année du cycle de
+l'enseignement traditionnel secondaire ;
+– l'examen écrit normalisé au niveau de l'établissement de
+l'enseignement traditionnel terminal relatif à la première
+et à la deuxième année du cycle de l'enseignement
+traditionnel terminal.
+
+*Entités :* `arrêté
+du ministre des Habous et des affaires islamiques susvisé` (ARRETE), `arrêté
+du ministre des Habous et des affaires` (ARRETE)
+
+*Citations :*
+
+- `articles 14,16,29,31, 41 et 54` → arrêté du ministre des Habous et des affaires islamiques susvisé [✓]
+
+
+## Article 6
+
+*ART. 6. –*
+
+Les dispositions afférentes, non contraires,
+prévues à l'arrêté du ministre des Habous et des affaires
+islamiques susvisé n° 2022-10, s'appliquent aux examens
+organisés aux établissements d'enseignement traditionnel au
+titre de l'année scolaire 2019-2020, y compris les dispositions
+relatives aux modalités d'organisation desdits examens et aux
+conditions d'y participer.
+
+*Entités :* `arrêté du ministre des Habous et des affaires` (ARRETE)
+
+
+## Article 7
+
+*ART. 7. –*
+
+Ont lieu dans le programme scolaire relatif
+à la période s'étalant entre le début de l'année scolaire et la
+suspension des cours présentiels, les épreuves des examens
+écrits normalisés à l'échelle nationale pour l'obtention des
+certificats de l'enseignement traditionnel primaire et collégial
+pour les candidats libres, du baccalauréat de l'enseignement
+traditionnel secondaire pour les candidats officiels et libres
+et du certificat d'Al-Alimiya en enseignement traditionnel.
+
+
+## Article 8
+
+*ART.  8.  –*
+
+Le directeur de Jamia Al-Quaraouiyine
+et le directeur de l'école des sciences islamiques œuvrent,
+chacun en ce qui le concerne, à l'application des dispositions
+du présent arrêté à Jamia Al-Quaraouiyine et à l'école des
+sciences islamiques étant des établissements de l'enseignement
+traditionnel terminal.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 9
+
+*ART. 9. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 30 chaoual 1441 (22 juin 2020).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6912 du 7 moharrem 1442 (27 août 2020).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `30 chaoual 1441` (DATE_HIJRI), `22 juin 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6912 du 7 moharrem 1442 (27 août 2020)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 30 chaoual 1441, 22 juin 2020, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Etant Habous publics, les
+installations indiquées ci-après ainsi que leurs dépendances
+dont la liste est fixée dans l'inventaire annexé à l'original du
+présent décret, sont transférées du ministère de la culture au
+ministère des Habous et des affaires islamiques :
+– la bibliothèque de Jamia Al Quaraouiyine à Fès ;
+– la medersa Attarine à Fès ;
+– la medersa Charratine à Fès ;
+– la medersa Sbaiyine à Fès ;
+– la medersa Sahrij à Fès ;
+– la medersa Bou'inania à Fès ;
+– la medersa Al Mesbahia à Fès ;
+– la bibliothèque Ibn Youssef à Marrakech ;
+– la medersa Ibn Youssef à Marrakech.
+
+*Personnes :* Jamia Al Quaraouiyine, Ibn Youssef, Ibn Youssef
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le ministère des Habous et des affaires
+islamiques subroge le ministère de la culture dans tous les
+droits et obligations relatifs au fonctionnement et à la gestion
+des installations susmentionnées et leurs dépendances, y
+compris tous les contrats, conventions et marchés conclus à
+leur sujet ou à leur profti avant l'entrée en vigueur du présent
+décret.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les fonctionnaires et agents exerçant auxdites
+installations sont détachés, à leur demande, auprès du
+ministère des Habous et des affaires islamiques conformément
+aux procédures légales en vigueur.
+
+
+## Article 4
+
+*ART. 4.  –*
+
+Le ministre des Habous et des affaires
+islamiques et le ministre de la culture sont chargés, chacun
+en ce qui le concerne, de l'exécution du présent décret qui sera
+publié au Bulletin officiel.
+Fait à Rabat, le 28 hija 1432 (25 novembre 2011).
+ABBAS EL FASSI.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de la culture,
+BENSALEM HIMMICH.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6006 du 26 moharrem 1433 (22 décembre 2011).
+
+*Entités :* `28 hija 1432` (DATE_HIJRI), `25 novembre 2011` (DATE_GREGORIAN), `Bulletin officiel » n° 6006 du 26 moharrem 1433 (22 décembre 2011)` (BULLETIN_OFFICIEL)
+
+*Personnes :* ABBAS EL FASSI, BENSALEM HIMMICH
+
+*Dates :* 28 hija 1432, 25 novembre 2011
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Sont modiféis comme suit, l'intitulé
+ainsi que l'article premier du décret susvisé n° 2-96-127 du
+24 hija 1416 (13 mai 1996) :
+« L'intitulé. - décret n° 2-96-127 du 24 hija 1416 (13 mai
+« 1996) autorisant la  rémunération des services rendus par le
+« ministère des Habous et des affaires islamiques  (division du
+« pèlerinage) pour l'encadrement des pèlerins. »
+« Article premier. –  Le ministère des Habous et des
+« affaires islamiques (division du pèlerinage) est autorisé à
+« percevoir  […texte non modifié…]  leur encadrement administratif,
+« sanitaire et religieux. »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `24 hija 1416` (DATE_HIJRI), `13 mai 1996` (DATE_GREGORIAN), `décret n° 2-96-127` (DECRET), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 24 hija 1416, 13 mai 1996, 24 hija 1416, 15 ramadan 1447
+
+
+## Article 2
+
+*ART. 2.  –*
+
+Le ministre des Habous et des affaires
+islamiques et le ministre de l'économie et des finances sont
+chargés, chacun en ce qui le concerne, de l'exécution du présent
+décret qui est publié au Bulletin officiel.
+Fait à Rabat, le 15 kaada 1438 (8 août 2017).
+SAAD DINE EL OTMANI.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie et
+des finances,
+MOHAMED BOUSSAID.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6598 du 2 hija 1438 (24 août 2017).
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `15 kaada 1438` (DATE_HIJRI), `8 août 2017` (DATE_GREGORIAN), `Bulletin officiel » n° 6598 du 2 hija 1438 (24 août 2017)` (BULLETIN_OFFICIEL), `4 août 2017` (DATE_GREGORIAN)
+
+*Dates :* 15 kaada 1438, 8 août 2017
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Le tarif des prestations de services
+rendus par le ministère des Habous et des affaires islamiques
+(division du pèlerinage) pour l'encadrement des pèlerins est
+fixé à huit cent (800) dirhams pour les pèlerins de l'organisation
+officielle et à quatre cent (400) dirhams pour les pèlerins des
+agences de voyage.
+
+
+## Article 2
+
+*ART. 2. –*
+
+Est abrogé l'arrêté conjoint du ministre des
+Habous et des affaires islamiques et du ministre de l'économie
+et des finances n° 691-08 du 23 rabii I 1429 (31 mars 2008) fixant
+le tarif des prestations de services rendus par le ministère des
+Habous et des affaires islamiques (division du pèlerinage et
+des affaires sociales) pour l'encadrement des pèlerins.
+
+*Entités :* `arrêté conjoint du ministre des` (ARRETE), `23 rabii I 1429` (DATE_HIJRI), `31 mars 2008` (DATE_GREGORIAN), `ministre de l'économie
+et des finances` (MINISTERE)
+
+*Dates :* 23 rabii I 1429, 31 mars 2008
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté conjoint est publié au Bulletin
+officiel.
+Rabat, le 16 kaada 1438 (9 août 2017).
+Le ministre des Habous et
+Le ministre de l'économie
+des affaires islamiques,
+et des finances,
+MOHAMED BOUSSAID.
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6598 du 2 hija 1438 (24 août 2017).
+
+*Entités :* `arrêté conjoint` (ARRETE), `16 kaada 1438` (DATE_HIJRI), `9 août 2017` (DATE_GREGORIAN), `Bulletin officiel » n° 6598 du 2 hija 1438 (24 août 2017)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 16 kaada 1438, 9 août 2017
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Le tarif des prestations de services
+rendus par le ministère des Habous et des affaires islamiques
+(division du pèlerinage) pour l'encadrement des pèlerins est
+fixé à huit cent (800) dirhams pour les pèlerins de l'organisation
+officielle et à six cent (600) dirhams pour les pèlerins des
+agences de voyage.
+
+
+## Article 2
+
+*ART. 2. –*
+
+Est abrogé l'arrêté conjoint du ministre des
+Habous et des affaires islamiques et du ministre de l'économie
+et des finances n° 1854-17 du 16 kaada 1438 (9 août 2017) fixant
+le tarif des prestations de services rendus par le ministère des
+Habous et des affaires islamiques (division du pèlerinage) pour
+l'encadrement des pèlerins.
+
+*Entités :* `arrêté conjoint du ministre des` (ARRETE), `16 kaada 1438` (DATE_HIJRI), `9 août 2017` (DATE_GREGORIAN)
+
+*Dates :* 16 kaada 1438, 9 août 2017
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté conjoint est publié au Bulletin
+officiel.
+Rabat, le 22 safar 1446 (27 août 2024).
+Le ministre délégué auprès
+de la ministre de l'économie
+et des finances, chargé du budget,
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+FOUZI LEKJAA.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7338 du 22 rabii I 1446 (26 septembre 2024).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté conjoint` (ARRETE), `22 safar 1446` (DATE_HIJRI), `27 août 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7338` (BULLETIN_OFFICIEL), `22 rabii I 1446` (DATE_HIJRI), `26 septembre 2024` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 22 safar 1446, 27 août 2024, 22 rabii I 1446, 26 septembre 2024, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Est instituée une rémunération
+des services rendus par le ministère des Habous et des
+affaires islamiques concernant la visite et l'exploitation des
+installations du Musée Mohammed VI de la civilisation de
+l'eau au Maroc.
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les tarifs de la rémunération prévue à l'article
+premier ci-dessus sont fixés par arrêté conjoint du ministre des
+Habous et des affaires islamiques et du ministre de l'économie,
+des finances et de la réforme de l'administration.
+
+*Entités :* `arrêté conjoint du ministre des` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les recettes provenant des services prévus à
+l'article premier ci-dessus sont recouvrées au profti du service
+de l'Etat géré de manière autonome (Musée Mohammed VI
+de la civilisation de l'eau au Maroc).
+
+
+## Article 4
+
+*ART. 4. –*
+
+Est abrogé le décret n° 2-17-26 du 4 ramadan 1438
+(30 mai 2017) instituant une rémunération des services rendus
+par le ministère des Habous et des affaires islamiques (Musée
+Mohammed VI de la civilisation de l'eau au Maroc).
+
+*Entités :* `décret n° 2-17-26` (DECRET), `4 ramadan 1438` (DATE_HIJRI), `30 mai 2017` (DATE_GREGORIAN)
+
+*Dates :* 4 ramadan 1438, 30 mai 2017
+
+
+## Article 5
+
+*ART. 5.  –*
+
+Le ministre des Habous et des affaires
+islamiques et le ministre de l'économie, des finances et de la
+réforme de l'administration sont chargés, chacun en ce qui le
+concerne, de l'exécution du présent décret qui est publié au
+Bulletin officiel.
+Fait à Rabat, le 2 rejeb 1441 (26 février 2020).
+SAAD DINE EL OTMANI.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie,
+des finances et de la réforme
+de l'administration,
+MOHAMED BENCHAABOUN.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6864 du 17 rejeb 1441 (12 mars 2020).
+
+*Entités :* `2 rejeb 1441` (DATE_HIJRI), `26 février 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6864 du 17 rejeb 1441 (12 mars 2020)` (BULLETIN_OFFICIEL)
+
+*Dates :* 2 rejeb 1441, 26 février 2020
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Les tarifs de la rémunération perçue
+au titre des services rendus par le ministère des Habous et des
+affaires islamiques en ce qui concerne la visite et l'exploitation
+des installations du musée Mohammed VI de la civilisation
+de l'eau au Maroc, Sont fixés comme suit :
+– une personne : quarante-cinq (45) dirhams ;
+– les groupes (plus de dix (10) personnes) : trente trois (33)
+dirhams par personne ;
+– les élèves et les étudiants : dix (10) dirhams ;
+– la salle multidisciplinaire : six mille (6.000) dirhams
+par journée.
+
+*Personnes :* Mohammed VI
+
+
+## Article 2
+
+*ART. 2. –*
+
+Est abrogé l'arrêté conjoint du ministre des
+Habous et des affaires islamiques et du ministre de l'économie
+et des finances n° 1737-17 du 12 chaoual 1438 (7 juillet 2017)
+fixant les tarifs de la rémunération perçue au titre des services
+rendus par le ministère des Habous et des affaires islamiques
+(visite et exploitation des installations du musée Mohammed VI
+de la civilisation de l'eau au Maroc).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté conjoint du ministre des` (ARRETE), `12 chaoual 1438` (DATE_HIJRI), `7 juillet 2017` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI)
+
+*Personnes :* Mohammed VI
+
+*Dates :* 12 chaoual 1438, 7 juillet 2017, 15 ramadan 1447
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté conjoint est publié au Bulletin
+officiel.
+Rabat, le 19 chaoual 1441 (11 juin 2020).
+Le ministre de l'économie,
+des finances et de la réforme
+Le ministre des Habous et
+de l'administration,
+des affaires islamiques,
+AHMED TOUFIQ.
+BENCHAABOUNE.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6899 du 21 kaada 1441 (13 juillet 2020).
+
+*Entités :* `arrêté conjoint` (ARRETE), `19 chaoual 1441` (DATE_HIJRI), `11 juin 2020` (DATE_GREGORIAN), `Bulletin officiel » n° 6899 du 21 kaada 1441 (13 juillet 2020)` (BULLETIN_OFFICIEL)
+
+*Dates :* 19 chaoual 1441, 11 juin 2020
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Est complétée tel qu'indiqué
+au tableau annexé au présent décret, la liste des diplômes
+et certificats préparés et délivrés par les instituts et les
+établissements relevant de l'Université Al Quaraouiyine,
+indiquée au tableau annexé au décret susvisé n° 2-17-226 du
+4 chaoual 1438 (29 juin 2017).
+
+*Entités :* `4 chaoual 1438` (DATE_HIJRI), `29 juin 2017` (DATE_GREGORIAN), `2-17-226` (DECRET)
+
+*Dates :* 4 chaoual 1438, 29 juin 2017
+
+
+## Article 2
+
+*ART.  2.  –*
+
+Le ministre des Habous et des affaires
+islamiques est chargé de l'exécution du présent décret qui sera
+publié au Bulletin officiel.
+Fait à Rabat, le 18 joumada I 1446 (21 novembre 2024).
+AZIZ AKHANNOUCH.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+*
+*
+*
+La liste des diplômes et des certificats préparés
+et délivrés par les instituts et les établissements
+relevant de l'Université Al Quaraouiyine
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7360 du 10 joumada II 1446 (12 décembre 2024).
+
+*Entités :* `18 joumada I 1446` (DATE_HIJRI), `21 novembre 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7360` (BULLETIN_OFFICIEL), `10 joumada II 1446` (DATE_HIJRI), `12 décembre 2024` (DATE_GREGORIAN)
+
+*Dates :* 18 joumada I 1446, 21 novembre 2024, 10 joumada II 1446, 12 décembre 2024
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+En application des dispositions
+du dahir susvisé n° 1-84-150 du 6 moharrem 1405 (2 octobre
+1984), l'ouverture des mosquées et des lieux affectés au culte
+musulman au profti de tous les musulmans, quelle qu'en soit
+la partie édificatrice, est soumise à une déclaration écrite
+préalable, adressée par le demandeur au ministère des Habous
+et des affaires islamiques.
+Toute affectation de tout autre lieu à l'accomplissement
+de la prière, ouvert à l'ensemble des musulmans, autre que ceux
+susmentionnés, est soumise au régime de déclaration prévue
+à l'alinéa premier ci-dessus.
+Est également soumise à l'accord du ministère des Habous
+et des affaires islamiques, l'affectation de toute mosquée, où
+sont pratiquées les cinq prières, à l'accomplissement de la
+prière du vendredi.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `6 moharrem 1405` (DATE_HIJRI), `2 octobre
+1984` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `1-84-150` (DAHIR)
+
+*Dates :* 6 moharrem 1405, 2 octobre 1984, 15 ramadan 1447
+
+
+## Article 2
+
+*ART.  2.  –*
+
+La déclaration ou la demande d'accord
+susmentionnées sont déposées, selon le cas, auprès de la
+délégation des affaires islamiques du ressort territorial de
+laquelle relève la mosquée (ou le lieu de prière).
+
+
+## Article 3
+
+*ART. 3. –*
+
+Est attribué à toute mosquée du Royaume,
+un nom qui lui est propre, fixé par décision du ministre des
+Habous et des affaires islamiques, sur proposition du délégué
+des affaires islamiques du ressort territorial duquel relève la
+mosquée, après consultation de la partie ayant construit la
+mosquée ou ayant supervisé sa construction.
+Les noms des mosquées sont choisis parmi les Noms les
+plus beaux et les attributs les plus sublimes d'Allah, les noms
+des compagnons et des suiveurs, les noms des érudits, des
+savants, des martyrs et des personnalités de renom reconnues
+pour leurs bonnes œuvres à travers l'histoire et le présent du
+Maroc, ou les noms d'événements et de commémorations
+islamiques, de principes moraux ou tout autre nom admis
+par le ministère des Habous et des affaires islamiques.
+Une mosquée ne peut porter le nom de son édificateur,
+lequel peut toutefois être mentionné sur la plaque
+commémorative relative à l'édification de la mosquée.
+Le nom de la mosquée ne peut être reproduit au niveau
+de la même commune, préfecture ou province.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Doivent fgiurer sur la plaque commémorative
+relative à la construction de toute mosquée, son nom, son
+matricule, la date de son édification et le cas échéant, le nom
+du bienfaiteur édificateur.
+Ladite plaque est fixée sur la façade de la mosquée
+concernée.
+
+
+## Article 5
+
+*ART. 5. –*
+
+Toute modification de nom d'une mosquée du
+Royaume est soumise à l'accord préalable du ministère des
+Habous et des affaires islamiques.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Les noms des mosquées du Royaume, existant
+avant la date d'entrée en vigueur du présent arrêté, peuvent
+le cas échéant, être révisés en vue de les mettre en conformité
+avec les dispositions de l'article 3 ci-dessus.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 3` → arrêté [✓]
+
+
+## Article 7
+
+*ART. 7. –*
+
+Est créé auprès du ministère des Habous et des
+affaires islamiques, un registre national des mosquées, dans
+lequel sont inscrites les informations et les données relatives
+à chaque mosquée dont notamment, le nom et l'adresse de la
+mosquée, la commune, la préfecture ou la province du ressort
+territorial de laquelle elle relève, ainsi que la partie édificatrice
+et la date d'édification.
+La direction des mosquées au ministère des Habous
+et des affaires islamiques assure la tenue, la conservation et
+l'actualisation du registre national des mosquées.
+
+
+## Article 8
+
+*ART. 8. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 9 safar 1427 (10 mars 2006).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5407 du 26 safar 1427 (27 mars 2006).
+
+*Entités :* `arrêté` (ARRETE), `9 safar 1427` (DATE_HIJRI), `10 mars 2006` (DATE_GREGORIAN), `Bulletin officiel » n° 5407 du 26 safar 1427 (27 mars 2006)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 9 safar 1427, 10 mars 2006
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+En application des dispositions
+de l'article 8 du décret susvisé n° 2-08-74, sont ouverts auprès
+de la Trésorerie générale du Royaume par les associations
+concernées, sur demande écrite signée par le président et le
+trésorier de l'association, des comptes de dépôts des fonds
+collectés par voie d'appel à la générosité publique pour la
+construction ou l'entretien des lieux affectés au culte musulman.
+
+*Entités :* `2-08-74` (DECRET)
+
+*Citations :*
+
+- `l'article 8` → dahir n° 1-58-376 [✓]
+
+
+## Article 2
+
+*ART. 2. –*
+
+La demande d'ouverture du compte prévu
+à l'article premier ci-dessus est assortie, outre les pièces
+prévues aux réglementations en vigueurs, des copies certifiées
+conformes à l'original :
+– de l'autorisation d'appel à la générosité publique délivrée
+par le gouverneur de la préfecture ou de la province
+concernée ;
+– du statut de l'association conforme au statut-type
+fixé par l'arrêté du ministre des Habous et des affaires
+islamiques n° 70-10 du 21 chaoual 1431 (30 septembre 2010).
+
+*Entités :* `arrêté du ministre des Habous et des affaires` (ARRETE), `21 chaoual 1431` (DATE_HIJRI), `30 septembre 2010` (DATE_GREGORIAN)
+
+*Dates :* 21 chaoual 1431, 30 septembre 2010
+
+
+## Article 3
+
+*ART. 3 –*
+
+Les comptes de dépôt auprès de de la Trésorerie
+générale du Royaume, prévus à l'article premier ci-dessus,
+portent les noms des associations concernées.
+
+
+## Article 4
+
+*ART.  4.  –*
+
+Le président de l'association adresse au
+Gouverneur de la préfecture ou de la province du ressort
+territorial de laquelle relève le siège de l'association, ainsi
+qu'à la délégation des affaires islamiques concernée, une
+déclaration d'ouverture du compte de dépôt auprès de la
+Trésorerie générale du Royaume, assortie des copies certifiées
+conformes aux originaux des pièces justifiant l'ouverture du
+compte.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 5
+
+*ART. 5. –*
+
+Les fonds déposés sont exploités dans les
+œuvres pour lesquelles ils ont été collectés, conformément
+aux modalités prévues au statut-type de l'association prévu à
+l'article 2 ci-dessus.
+
+*Citations :*
+
+- `l'article 2` → dahir n° 1-58-376 [✓]
+
+
+## Article 6
+
+*ART. 6. –*
+
+Au terme de chaque année budgétaire, le
+président de l'association adresse au ministère des Habous
+et des affaires islamiques, un compte final, comportant un
+état des opérations de dépôt et de retrait sur le compte, ainsi
+que les fins pour lesquelles les fonds retirés ont été dépensés.
+
+
+## Article 7
+
+*ART. 7. –*
+
+Les comptes de dépôt auprès de la Trésorerie
+générale du Royaume, prévus à l'article premier ci-dessus, sont
+clôturés dès achèvement des opérations de construction ou
+d'entretien relatives aux grands ouvrages.
+
+
+## Article 8
+
+*ART. 8. –*
+
+Le présent arrêté conjoint est publié au Bulletin
+officiel.
+Rabat, le 21 chaoual 1431 (30 septembre 2010).
+Le ministre des Habous et
+Le ministre de l'économie
+des affaires islamiques,
+et des finances,
+AHMED TOUFIQ.
+SALAHEDDINE  MEZOUAR.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5888 du 26 kaada 1431 (4 novembre 2010).
+
+*Entités :* `arrêté conjoint` (ARRETE), `21 chaoual 1431` (DATE_HIJRI), `30 septembre 2010` (DATE_GREGORIAN), `Bulletin officiel » n° 5888 du 26 kaada 1431 (4 novembre 2010)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 21 chaoual 1431, 30 septembre 2010
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER.*
+
+–Est fixé conformément au modèle
+annexé au présent arrêté, le statut-type des associations
+constituées par les bienfaiteurs désirant édifier un lieu affecté
+au culte musulman.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 21 chaoual 1431 (30 septembre 2010).
+AHMED TOUFIQ.
+*
+Statut-type des associations constituées par les bienfaiteurs
+désirant édifier un lieu affecté au culte musulman
+TITRE I
+CONSTITUTION, DÉNOMINATION, SIÈGE, OBJECTIFS
+
+*Entités :* `arrêté` (ARRETE), `21 chaoual 1431` (DATE_HIJRI), `30 septembre 2010` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 21 chaoual 1431, 30 septembre 2010
+
+
+## Article premier
+
+*Article premier*
+
+Est constituée le …….  à la préfecture ….…. (ou à
+la province…….), une association dénommée «……. » et
+ce, conformément aux dispositions du dahir n° 1-58-376
+du 3 joumada I 1378 (15 novembre 1958) réglementant le
+droit d'association, tel qu'il a été modifié et complété, aux
+dispositions du dahir portant loi n° 1-84-150 du 6 moharrem
+1405 (2 octobre 1984) relatif aux édifices affectés au culte
+musulman, tel qu'il a été modifié et complété, au décret n°
+2-08-74 du 5 rejeb 1429 (9 juillet 2008), pris pour l'application
+du dahir portant loi susvisé n° 1-84-150 et à l'arrêté du ministre
+des Habous et des affaires islamiques n° 70-10 du 21 chaoual
+1431 (30 septembre 2010) fixant le statut-type des associations
+constituées par les bienfaiteurs désirant édifier un lieu affecté
+au culte musulman.
+
+*Entités :* `dahir n° 1-58-376` (DAHIR), `3 joumada I 1378` (DATE_HIJRI), `15 novembre 1958` (DATE_GREGORIAN), `dahir portant loi n° 1-84-150 du 6 moharrem
+1405 (2 octobre 1984)` (DAHIR), `décret n°
+2-08-74` (DECRET), `5 rejeb 1429` (DATE_HIJRI), `9 juillet 2008` (DATE_GREGORIAN), `arrêté du ministre` (ARRETE), `21 chaoual
+1431` (DATE_HIJRI), `30 septembre 2010` (DATE_GREGORIAN), `70-10` (ARRETE)
+
+*Dates :* 3 joumada I 1378, 15 novembre 1958, 5 rejeb 1429, 9 juillet 2008, 21 chaoual 1431, 30 septembre 2010
+
+
+## Article 2
+
+*Article 2*
+
+Le siège de l'association est établi à ………………………….
+Il peut être transféré vers tout autre siège par décision
+du bureau de l'association.
+
+
+## Article 3
+
+*Article 3*
+
+L'association vise l'édification de ………… (1) à la
+commune (2) ………. et la préfecture ou la province de
+……………
+
+
+## Article 4
+
+*Article 4*
+
+L'association œuvre pour atteindre ses objectifs en étroite
+collaboration avec la Nédharat des Habous et la délégation
+des affaires islamiques concernées et s'engage à œuvrer dans le
+cadre et dans les limites desdits objectifs et indépendamment
+de toute autre organisation politique ou civile, quelle qu'en
+soit la nature ou le genre.
+TITRE II
+QUALITÉ DE MEMBRE
+
+
+## Article 5
+
+*Article 5*
+
+L'association se compose de deux catégories de membres :
+– des membres honoraires ;
+– des membres actifs.
+La qualité de membre honoraire est attribuée, par
+décision de l'assemblée générale de l'association, à toute
+personne physique ou morale ayant rendu des services
+financiers ou moraux à l'association en vue de lui permettre
+de réaliser ses objectifs, sans avoir contribué directement ou
+indirectement à la gestion de ses activités. Ledit membre ne
+jouit pas du droit d'éligibilité, de candidature et de vote.
+La qualité de membre actif est attribuée, par décision
+du bureau de l'association, à toute personne physique s'étant
+acquitté de ses droits d'adhésion et s'acquitte régulièrement
+des droits d'adhésion mensuels, contribue de manière effective
+à la gestion des activités de l'association à travers ses organes
+et lui apporte son soutien matériel et moral pour la réalisation
+de ses objectifs. Ledit membre jouit du droit d'éligibilité, de
+candidature et de vote.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+1) Mentionner le type de construction (mosquée, zaouia,
+sanctuaire…)
+2) Introduire le nom de la commune concernée tel qu'il
+fgiure dans le découpage administratif territorial du Royaume.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 6
+
+*Article 6*
+
+Le montant de la cotisation, payable au début de
+chaque mois, est fixé par décision de l'assemblée générale de
+l'association.
+
+
+## Article 7
+
+*Article 7*
+
+La qualité de membre se perd par :
+– le décès ;
+– la démission ;
+– la radiation.
+
+
+## Article 8
+
+*Article 8*
+
+Les demandes de démission sont adressées au président
+de l'association par courrier recommandé avec accusé de
+réception et n'est définitive qu'après approbation du bureau
+exécutif de l'association.
+L'association a le droit d'exiger du membre démissionnaire
+qu'il s'acquitte des redevances qui lui sont dues.
+
+
+## Article 9
+
+*Article 9*
+
+La décision de radiation peut être prise à l'encontre de
+tout membre de l'association auteur d'actes incompatibles
+avec les objectifs de l'association, ayant commis des actes
+susceptibles de lui causer un préjudice matériel ou moral
+ou ne s'étant pas acquitté des droits de cotisation pour une
+durée de trois mois malgré la mise en demeure par courrier
+recommandé avec accusé de réception.
+La radiation a lieu par décision motivée de l'assemblée
+générale, sur proposition du bureau exécutif de l'association
+ou du quart des membres de l'assemblée générale disposant
+du droit de vote.
+
+
+## Article 10
+
+*Article 10*
+
+Le membre évincé doit être avisé par courrier
+recommandé avec accusé de réception, dans un mois de la
+date d'approbation de la démission ou de la date d'émission
+de la décision de radiation.
+
+
+## Article 11
+
+*Article 11*
+
+La qualité de membre peut être restituée aux membres
+qui ont été radiés pour défaut de paiement du droit de
+cotisation, à leur demande et après s'être acquitté de toutes
+les redevances.
+
+
+## Article 12
+
+*Article 12*
+
+Le membre ayant perdu sa qualité de membre ainsi que
+les ayants-droits du membre décédé ne peuvent prétendre à la
+restitution des versements effectués au profti de l'association.
+TITRE III
+ORGANES DE L'ASSOCIATION ET LEURS ATTRIBUTIONS
+
+
+## Article 13
+
+*Article 13*
+
+Les organes de l'association se composent de l'assemblée
+générale et du bureau exécutif.
+I- : l'assemblée générale.
+
+
+## Article 14
+
+*Article 14*
+
+L'assemblée générale se compose de tous les membres
+de l'association, qu'ils soient honoraires ou actifs.
+
+
+## Article 15
+
+*Article 15*
+
+L'assemblée générale se réunit en session ordinaire
+au moins une fois par an sur invitation du président de
+l'association. Elle peut, chaque fois que nécessaire, se réunir
+en sessions extraordinaires, soit à l'initiative du président ou
+à la demande du quart des membres de l'association disposant
+du droit de vote.
+Les membres de l'association doivent être notifiés de la
+date et du lieu de tenue de l'assemblée générale ainsi que de
+son ordre du jour, quinze jours au moins avant la date fixée.
+
+
+## Article 16
+
+*Article 16*
+
+L'assemblée générale se réunit valablement en présence
+au moins de plus de la moitié de ses membres. A défaut de
+quorum, la réunion est reportée à une séance ultérieure, tenue
+au cours des quinze jours suivant la date de la première réunion.
+La deuxième réunion se tient valablement quel que soit
+le nombre des membres présents.
+
+
+## Article 17
+
+*Article 17*
+
+L'assemblée générale prend ses décisions par concertation
+de ses membres et à défaut, à la majorité proportionnelle des
+membres présents. En cas d'égalité des voix, celle du président
+est prépondérante.
+
+
+## Article 18
+
+*Article 18*
+
+L'assemblée générale exerce les prérogatives suivantes :
+1 –  étudier et approuver le programme d'action soumis
+par le bureau exécutif ;
+2 – lire les rapports moral et financier de l'association
+et en débattre pour approbation ;
+3 – présenter toute proposition ou recommandation de
+nature à réaliser les objectifs de l'association ;
+4 – émettre l'avis sur les projets ou les propositions qui
+lui sont soumis pour étude ;
+5 – élire les membres du bureau exécutif.
+
+
+## Article 19
+
+*Article 19*
+
+Toute réunion de l'assemblée générale est établie dans
+un procès-verbal signé par le président et le secrétaire général
+et consignée dans un registre spécial.
+Une copie dudit procès-verbal est adressée à la délégation
+des affaires islamiques du ressort territorial de laquelle relève
+le siège de l'association.
+
+
+## Article 20
+
+*Article 20*
+
+Les décisions de l'assemblée générale sont signées par
+le président et par le secrétaire général et sont consignées par
+ordre chronologique dans un registre spécial.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+II- : le bureau exécutif.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 21
+
+*Article 21*
+
+Le bureau exécutif se compose des membres élus par
+l'assemblée générale pour l'occupation des fonctions suivantes :
+1 –  le président ;
+2 –  le vice-président ;
+3 –  le secrétaire général ;
+4 –  le vice-secrétaire général ;
+5 –  le trésorier ;
+6 –  le vice-trésorier ;
+7 –  des conseillers.
+
+
+## Article 22
+
+*Article 22*
+
+Le bureau exécutif est élu pour une durée de trois ans.
+
+
+## Article 23
+
+*Article 23*
+
+Lorsqu'un membre du bureau exécutif perd sa qualité de
+membre, il doit être pourvu à son remplacement dans un délai
+de 30 jours suivants, conformément aux modalités prévues à
+l'article 21 ci-dessus et ce, pour la durée restant à courir.
+
+*Citations :*
+
+- `l'article 21` → loi n° 1-84-150 [✓]
+
+
+## Article 24
+
+*Article 24*
+
+Le bureau exécutif se réunit sur invitation de son
+président une fois au moins tous les trois mois ou à la demande
+de la majorité absolue de ses membres et chaque fois que
+nécessaire.
+
+
+## Article 25
+
+*Article 25*
+
+Le bureau exécutif se réunit valablement en présence
+d'au moins la moitié de ses membres. Il prend ses décisions
+par concertation de ses membres et à défaut, à la majorité
+absolue des membres présents. En cas d'égalité des voix, celle
+du président est prépondérante.
+
+
+## Article 26
+
+*Article 26*
+
+Les délibérations du bureau exécutif sont établies dans
+un procès-verbal signé par le président et par le secrétaire
+général et consigné dans un registre spécial.
+
+
+## Article 27
+
+*Article 27*
+
+Les décisions du bureau exécutif sont signées par le
+président et par le secrétaire général et sont consignées par
+ordre chronologique dans un registre spécial.
+
+
+## Article 28
+
+*Article 28*
+
+Le bureau exécutif est chargé de gérer les affaires de
+l'association et d'accomplir tous les actes la concernant à
+l'exception de ceux qui relèvent des attributions de l'assemblée
+générale.
+Il assure notamment l'élaboration et l'exécution du
+programme d'action de l'association après son approbation
+par l'assemblée générale ainsi que l'étude des rapports moral
+et financier et leur approbation avant de les soumettre à
+l'assemblée générale.
+
+
+## Article 29
+
+*Article 29*
+
+Le président de l'association veille à l'exécution des
+décisions du bureau exécutif et de l'assemblée générale de
+l'association et prend, à cet effet, toutes les mesures nécessaires
+et se charge notamment de :
+– présider les réunions de l'assemblée générale et du
+bureau exécutif ;
+– représenter l'association devant les autorités publiques
+et vis-à-vis des tiers ;
+– signer tous les contrats et conventions au nom de
+l'association ;
+– signer, conjointement avec le secrétaire général de
+l'association, les procès-verbaux des réunions de
+l'assemblée générale et du bureau exécutif  et les
+décisions qui y sont prises ;
+– signer, conjointement avec le trésorier de l'association,
+tous les chèques et pièces financières ;
+– décider des questions urgentes qui ne peuvent être
+reportées jusqu'à la réunion du bureau exécutif, à
+condition qu'il  les soumette ainsi que les décisions y
+afférentes au bureau exécutif lors de la réunion la plus
+proche.
+
+
+## Article 30
+
+*Article 30*
+
+Le secrétaire général de l'association est chargé des
+missions suivantes :
+1 – établir et conserver l'ensemble des pièces
+administratives relatives à l'association ;
+2 – conserver l'ensemble des permis, pièces, documents
+et plans relatifs au projet ;
+3 – conserver les procès-verbaux des chantiers ;
+4 – établir les procès-verbaux des réunions de l'assemblée
+générale et du bureau exécutif, les enregistrer sur des registres
+spéciaux, les tenir, les signer et les soumettre au président
+pour signature ;
+5 – élaborer le rapport moral annuel du bilan des
+activités de l'association et le présenter devant l'assemblée
+générale après approbation du bureau exécutif ;
+6 – notifier les procès-verbaux des réunions du
+bureau exécutif et de l'assemblée générale au gouverneur
+de la préfecture ou de la province et au délégué des affaires
+islamiques concerné ;
+7 – accomplir toute autre mission dont il est chargé par
+le président ou par le bureau exécutif de l'association.
+
+
+## Article 31
+
+*Article 31*
+
+Le trésorier se charge de la gestion des affaires
+financières de l'association, de la tenue de ses comptes et de la
+conservation des pièces et des documents financiers y afférents.
+Il se charge notamment de :
+– la perception des recettes et l'extraction des récépissés y
+afférents et leur dépôt auprès de la Trésorerie générale
+du Royaume dès réception ;
+– la tenue d'un registre spécial des recettes et des dépenses
+dans lequel sont enregistrées respectivement toutes :
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+• les ressources , leur origine, la date de leur réception
+et celle de leur dépôt au compte de l'association ;
+•  les dépenses, les modalités et la date de leur affectation.
+– la signature, conjointement avec le président, des
+chèques et des autres pièces financières ainsi que de
+tous les documents et pièces relatifs à la perception des
+ressources et au contrôle des dépenses ;
+– l'élaboration du rapport financier annuel ;
+– la conservation au siège de l'association de l'ensemble
+des pièces et documents relatifs aux ressources et aux
+dépenses et le dépôt de leurs copies au chantier.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 32
+
+*Article 32*
+
+Les suppléants du président de l'association, du
+secrétaire général et du trésorier exercent les attributions de
+ceux qu'ils suppléent en cas d'absence ou d'empêchement.
+
+
+## Article 33
+
+*Article 33*
+
+Le bureau exécutif peut créer une ou plusieurs
+commissions pour l'assister dans l'accomplissement de ses
+missions.
+Chaque commission se compose d'au moins deux
+membres du bureau exécutif.
+TITRE IV
+BUDGET, CONTRÔLE
+
+
+## Article 34
+
+*Article 34*
+
+Le budget de l'association se compose des :
+Recettes :
+qui se composent des :
+• droits d'adhésion et cotisations des membres ;
+• subventions octroyées à l'association par les personnes
+physiques ou morales ;
+• ressources perçues à partir des opérations d'appel à la
+générosité publique ;
+• ressources diverses.
+Dépenses :
+qui comportent les frais :
+• d'acquisition de biens immobiliers ;
+• d'immatriculation foncière et de permis de construire ;
+• d'études ;
+• de construction ;
+• d'équipement ;
+• de liaison au réseau d'eau, d'électricité et d'assainissement ;
+• de gestion de l'association.
+
+
+## Article 35
+
+*Article 35*
+
+Un compte bancaire est ouvert au nom de l'association
+auprès de la Trésorerie générale du Royaume sur demande
+écrite signée par le président et le trésorier de l'association.
+
+
+## Article 36
+
+*Article 36*
+
+Tous les fonds de l'association sont déposés en son nom
+auprès de la Trésorerie générale du Royaume, sous réserve
+des dispositions de l'arrêté conjoint du ministre des Habous
+et des affaires islamiques et du ministre de l'économie et des
+finances n° 69-10 du 21 chaoual 1431 (30 septembre 2010)
+fixant les modalités d'ouverture de comptes de dépôt auprès
+de de la Trésorerie générale du Royaume pour le dépôt de
+fonds collectés par voie d'appel à la générosité publique
+pour la construction ou l'entretien des lieux affectés au culte
+musulman.
+
+*Entités :* `arrêté conjoint du ministre des Habous` (ARRETE), `21 chaoual 1431` (DATE_HIJRI), `30 septembre 2010` (DATE_GREGORIAN)
+
+*Dates :* 21 chaoual 1431, 30 septembre 2010
+
+
+## Article 37
+
+*Article 37*
+
+Pour la dépense de toute somme des fonds de
+l'association, l'autorisation de dépense doit obligatoirement
+porter la signature du trésorier et du président de l'association
+ou leurs suppléants.
+
+
+## Article 38
+
+*Article 38*
+
+L'association conserve l'ensemble des registres, pièces,
+correspondances et documents au siège de son administration.
+Le sceau du délégué des affaires islamiques concerné
+doit être apposé sur les registres avant usage.
+
+
+## Article 39
+
+*Article 39*
+
+Le trésorier de l'association tient un registre spécial
+dont lequel il inscrit, de manière détaillée, les ressources et
+leur origine ainsi que les dépenses et leurs voies d'affectation,
+assorties des pièces justificatives.
+
+
+## Article 40
+
+*Article 40*
+
+L'association met à la disposition du ministère des
+Habous et des affaires islamiques l'ensemble des registres,
+pièces, correspondances et documents.
+
+
+## Article 41
+
+*Article 41*
+
+L'association autorise les inspecteurs du ministère des
+Habous et des affaires islamiques et les fonctionnaires désignés
+pour effectuer le contrôle, à consulter, à tout moment, les
+registres, pièces, correspondances et documents de l'association.
+Ils ont, en outre, le droit de requérir les renseignements et les
+éclaircissements qu'ils jugent nécessaires à l'accomplissement
+de leur mission, ainsi que le droit de consulter l'avancement
+des travaux au chantier de construction.
+TITRE V
+MODALITÉS D'OCTROI DE LA SUBVENTION DE L'ETAT
+
+
+## Article 42
+
+*Article 42*
+
+Les subventions pouvant être octroyées par l'Etat
+sont allouées sur demande de l'association, assortie d'un
+état détaillé de la nature et du volume des fournitures et des
+travaux réalisés et d'un état détaillé de la nature et du volume
+des fournitures et des travaux restants, signés par l'ingénieur
+chargé du projet.
+
+
+## Article 43
+
+*Article 43*
+
+En cas d'approbation de la demande, la subvention
+prévue à l'article 42 ci-dessus est octroyée en un versement
+unique ou par tranches ; la première tranche est livrée après
+l'achèvement des travaux des fondations de construction au
+moins.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 42` → loi n° 1-84-150 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 44
+
+*Article 44*
+
+La subvention en numéraire est déposée au compte
+de l'association, ouvert auprès de la Trésorerie générale du
+Royaume.
+
+
+## Article 45
+
+*Article 45*
+
+L'ingénieur chargé du projet établit un état de la situation
+des fournitures et des travaux financés à partir du montant de
+la subvention, signé par le trésorier.
+
+
+## Article 46
+
+*Article 46*
+
+Une copie de l'état prévu à l'article 45 ci-dessus est
+adressée au délégué des affaires islamiques concerné.
+TITRE VI
+DISPOSITIONS FINALES
+
+*Citations :*
+
+- `l'article 45` → loi n° 1-84-150 [✓]
+
+
+## Article 47
+
+*Article 47*
+
+Les membres de l'association exercent leurs missions à
+titre gratuit.
+
+
+## Article 48
+
+*Article 48*
+
+Dès achèvement des travaux de la construction, le
+bureau exécutif de l'association désigne une commission
+composée de trois membres dont le président de l'association
+et le trésorier, chargée de recenser les fonds et les biens de
+l'association. Ladite commission doit dresser un procès-verbal
+de ses travaux.
+
+
+## Article 49
+
+*Article 49*
+
+Le projet ainsi que les biens réels de l'association sont
+livrés, après recensement, au ministère des Habous et des
+affaires islamiques.
+Le solde du compte ouvert auprès de la Trésorerie
+générale du Royaume est transféré, à l'initiative du président
+et du trésorier de l'association ou sur la base du procès-verbal
+portant dissolution de l'association, vers un compte spécial
+au nom du ministère des Habous et des affaires islamiques,
+ouvert à cet effet.
+Lesdits fonds et biens doivent être affectés à la réalisation
+des mêmes objectifs pour lesquels l'association a été constituée
+ou à des objectifs similaires.
+
+
+## Article 50
+
+*Article 50*
+
+L'association tient une assemblée générale en session
+extraordinaire, consacrée à la dissolution de l'association ou
+le cas échéant, à la modification du statut en vue de le mettre
+en conformité avec le contenu de la convention qu'elle pourrait
+conclure avec le ministère des Habous et des affaires islamiques
+dans le but de gérer un lieu affecté au culte musulman.
+(1) Mentionner le type de construction (mosquée, zaouia,
+sanctuaire…)
+(2) Introduire le nom de la commune concernée tel qu'il fgiure
+dans le découpage administratif territorial du Royaume.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5888 du 26 kaada 1431 (4 novembre 2010).
+
+*Entités :* `Bulletin officiel » n° 5888 du 26 kaada 1431 (4 novembre 2010)` (BULLETIN_OFFICIEL)
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Sont fixés conformément aux
+dispositions prévues au présent arrêté, le statut du contrôleur
+financier central, des contrôleurs financiers adjoints et des
+contrôleurs locaux chargés du contrôle des comptes Habous,
+ainsi que les modalités et les conditions de leur désignation.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le contrôleur financier central est désigné parmi
+les administrateurs du premier grade ou les fonctionnaires
+appartenant à un grade à indices au moins similaires, justifiant
+d'une expérience d'au moins cinq ans dans la gestion financière.
+
+
+## Article 3
+
+*ART.  3  –*
+
+Les contrôleurs financiers adjoints sont
+désignés parmi les administrateurs du deuxième grade ou
+les fonctionnaires appartenant à un grade à indices au moins
+similaires, disposant d'une ancienneté de cinq ans de service
+effectif dans l'un desdits grades et justifiant d'une expérience
+d'au moins trois ans dans la gestion du Habous.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Les contrôleurs locaux sont désignés parmi
+les administrateurs du troisième grade ou les fonctionnaires
+appartenant à un grade à indices au moins similaires,
+disposant d'une ancienneté de cinq ans de service effectif dans
+l'un desdits grades et justifiant d'une expérience d'au moins
+trois ans dans la gestion du Habous.
+
+
+## Article 5
+
+*ART. 5. –*
+
+Le contrôleur financier central, les contrôleurs
+financiers adjoints et les contrôleurs locaux bénéficient
+d'indemnités de missions forfaitaires mensuelles dont les
+montants sont fixés comme suit :
+– le contrôleur financier central : 5.000 dirhams ;
+– les contrôleurs financiers adjoints : 4.000 dirhams
+chacun ;
+– les contrôleurs locaux : 3.000 dirhams chacun.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Le contrôleur financier central, les contrôleurs
+financiers adjoints et les contrôleurs locaux sont désignés par
+arrêté du ministre des Habous et des affaires islamiques.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté du ministre des Habous et des affaires islamiques` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 7
+
+*ART. 7. –*
+
+Le nombre des contrôleurs locaux est fixé en
+proportion du nombre des Nédharat des Habous.
+
+
+## Article 8
+
+*ART. 8. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 3 joumada I 1432 (7 avril 2011).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5941 du 5 joumada II 1432 (9 mai 2011).
+
+*Entités :* `arrêté` (ARRETE), `3 joumada I 1432` (DATE_HIJRI), `7 avril 2011` (DATE_GREGORIAN), `Bulletin officiel » n° 5941` (BULLETIN_OFFICIEL), `5 joumada II 1432` (DATE_HIJRI), `9 mai 2011` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 3 joumada I 1432, 7 avril 2011, 5 joumada II 1432, 9 mai 2011
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Sont modifiées et complétées
+comme suit les dispositions de l'article 5 de l'arrêté susvisé n°
+367-11 du 3 joumada I 1432 (7 avril 2011) :
+« Article 5. – Le contrôleur financier central, les
+« contrôleurs financiers adjoints et les contrôleurs locaux
+« bénéficient d'indemnités de missions mensuelles dont les
+« montants sont fixés comme suit :
+« – le contrôleur financier central : 5.000 dirhams ;
+« – les contrôleurs financiers adjoints : 4.000 dirhams
+« chacun ;
+« – les contrôleurs locaux : 3.000 dirhams chacun.
+« Lesdites indemnités visent à couvrir certains frais
+«  spéciaux et toutes les dépenses liées à la mission non
+« incluses dans le salaire. »
+
+*Entités :* `arrêté susvisé n°
+367-11` (ARRETE), `3 joumada I 1432` (DATE_HIJRI), `7 avril 2011` (DATE_GREGORIAN), `367-11` (ARRETE)
+
+*Citations :*
+
+- `l'article 5` → arrêté susvisé n° 367-11 [✓]
+
+*Dates :* 3 joumada I 1432, 7 avril 2011
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté qui sera publié au Bulletin
+officiel entre en vigueur à compter de la date de désignation
+des personnes concernées.
+Rabat, le 12 kaada 1434 (19 septembre 2013).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6200 du 25 hija 1434 (31 octobre 2013).
+
+*Entités :* `arrêté` (ARRETE), `12 kaada 1434` (DATE_HIJRI), `19 septembre 2013` (DATE_GREGORIAN), `Bulletin officiel » n° 6200 du 25 hija 1434 (31 octobre 2013)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 12 kaada 1434, 19 septembre 2013
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont fixées conformément aux
+dispositions prévues au présent arrêté, la composition et les
+modalités de fonctionnement de la commission de liquidation
+des Habous de famille, prévue à l'article 123 du dahir susvisé
+n° 1-09-236.
+Titre II
+Composition de la commission de liquidation
+
+*Entités :* `arrêté` (ARRETE), `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 123` → arrêté [✓]
+
+*Personnes :* Titre II
+
+
+
+## Article 2
+
+*ART. 2 –*
+
+La commission de liquidation des Habous de
+famille se compose, outre le directeur des Habous président,
+des membres suivants :
+– un spécialiste en successions ;
+– un magistrat d'au moins le premier degré ;
+– un conservateur de la propriété foncière d'au moins le
+degré supérieur ;
+– le chef de la division de la conservation des biens
+Habous ;
+– le chef de la division de la législation au ministère des
+Habous et des affaires islamiques.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le président de la commission peut inviter
+toute personne dont il juge la participation utile aux réunions
+de la commission.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le chef du service des Habous de famille ou son
+suppléant assure les missions du secrétariat de la commission
+de liquidation.
+Titre III
+Modalités de fonctionnement
+de la commission de liquidation
+
+*Personnes :* Titre III
+
+
+## Article 5
+
+*ART. 5. –*
+
+La commission de liquidation tient ses réunions
+sur invitation de son président une fois au moins tous les six
+mois et chaque fois que nécessaire.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Le secrétaire de la commission de liquidation
+se charge, sous la supervision du président, d'établir l'ordre du
+jour des réunions ; il prépare à cet effet les dossiers, collecte
+les pièces et les documents nécessaires au déroulement de ses
+travaux, dresse les procès-verbaux de ses réunions et conserve
+les rapports et les pièces afférents à ses travaux.
+
+
+## Article 7
+
+*ART. 7. –*
+
+La commission de liquidation tient ses réunions
+en présence de la majorité de ses membres et prend ses
+recommandations à la majorité des voix. En cas de partage
+égal des voix, la voix du président est prépondérante.
+
+
+## Article 8
+
+*ART. 8. –*
+
+Les recommandations de la commission de
+liquidation sont consignées dans un rapport, signé par le
+président de la commission et ses membres présents.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 9
+
+*ART. 9. –*
+
+Sont consignées dans le rapport prévu à l'article
+8 ci-dessus, en cas d'adoption de recommandation portant non
+approbation de la liquidation :
+–  la désignation du bien constitué Habous objet de
+liquidation ;
+– l'indication du motif de la demande de liquidation ;
+– l'indication des raisons d'adoption d'une recommandation
+portant non approbation de la liquidation.
+
+*Citations :*
+
+- `l'article
+8` → dahir n° 1-09-236 [✓]
+
+
+## Article 10
+
+*ART. 10. –*
+
+Sont consignées dans le rapport de la commission
+de liquidation, en cas d'adoption de recommandation portant
+approbation de la liquidation :
+–  la désignation du bien constitué Habous objet de
+liquidation ;
+– l'indication du motif de liquidation ;
+– la détermination du droit des Habous publics au tiers ;
+– l'arrêté de la liste des bénéficiaires de la liquidation ;
+– la définition de la part de chaque bénéficiaire de la
+liquidation.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 11
+
+*ART. 11. –*
+
+Le rapport de la commission de liquidation
+est soumis à l'autorité gouvernementale chargée des Habous
+par le président de la commission dans un délai de dix jours
+de la date de sa signature.
+Titre IV
+Dispositions diverses
+
+
+## Article 12
+
+*ART. 12. –*
+
+La décision de liquidation dépossède les biens
+constitués Habous objet de liquidation de leur statut Habous
+et les convertit en biens indivis entre les Habous publics, le cas
+échéant, et les bénéficiaires de la liquidation, selon les parts
+qui y sont fixées.
+
+
+## Article 13
+
+*ART. 13. –*
+
+La décision de liquidation n'est exécutable
+qu'après :
+–  échéance du délai de recours en annulation sans
+qu'aucun recours ne soit formulé ;
+– jugements définitifs prononcés dans les demandes de
+recours visant son annulation.
+
+
+## Article 14
+
+*ART. 14. –*
+
+Il est interdit de disposer des parts indivises,
+prévues à l'article 12 ci-dessus, durant la période de sursis à
+l'exécution de la décision de liquidation.
+
+*Citations :*
+
+- `l'article 12` → dahir n° 1-09-236 [✓]
+
+
+## Article 15
+
+*ART. 15. –*
+
+La Nédharat des Habous désignée par la
+commission de liquidation des Habous de famille est chargée
+de :
+– la gestion des biens indivis jusqu'à exécution de la
+décision de liquidation ;
+– la répartition des revenus découlant de la gestion des
+biens indivis prévus à l'article 12 ci-dessus entre les
+bénéfciiaires dès l'exécution de la décision de liquidation.
+
+*Citations :*
+
+- `l'article 12` → dahir n° 1-09-236 [✓]
+
+
+## Article 16
+
+*ART. 16. –*
+
+Le présent arrêté sera publié au Bulletin offciiel.
+Rabat, le 10 safar 1433 (4 janvier 2012).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6129 du 14 rabii II 1434 (25 février 2013).
+
+*Entités :* `arrêté` (ARRETE), `10 safar 1433` (DATE_HIJRI), `4 janvier 2012` (DATE_GREGORIAN), `Bulletin officiel » n° 6129` (BULLETIN_OFFICIEL), `14 rabii II 1434` (DATE_HIJRI), `25 février 2013` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 10 safar 1433, 4 janvier 2012, 14 rabii II 1434, 25 février 2013
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont modifiées comme suit, les
+dispositions des articles 2 et 10 de l'arrêté susvisé n° 69-12 :
+« Article 2. – La commission de liquidation des Habous
+«  de famille se compose, outre le directeur des Habous
+« président, des membres suivants :
+« – un spécialiste en successions ;
+« –  […texte non modifié…]  ;
+« – un cadre supérieur parmi le personnel de l'agence
+« nationale de la conservation foncière, du cadastre et
+« de la cartographie ;
+« – le chef de la division de la conservation des biens
+« Habous.
+(Le reste sans modification.)
+« Article 10. – Sont contenus dans le rapport de la
+« commission de liquidation  […texte non modifié…]  :
+« –  […texte non modifié…]  ;
+« – l'arrêté de la liste des bénéficiaires de la liquidation ;
+« – la définition de la part, ou ce qui en tient lieu, des
+« Habous publics et des bénéficiaires. »
+
+*Entités :* `arrêté susvisé n° 69-12` (ARRETE), `arrêté` (ARRETE), `69-12` (ARRETE)
+
+*Citations :*
+
+- `articles 2 et 10` → arrêté susvisé n° 69-12 [✓]
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 12 joumada I 1437 (3 mars 2016).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6457 du 10 rejeb 1437 (18 avril 2016).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `12 joumada I 1437` (DATE_HIJRI), `3 mars 2016` (DATE_GREGORIAN), `Bulletin officiel » n° 6457 du 10 rejeb 1437 (18 avril 2016)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 12 joumada I 1437, 3 mars 2016, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont modifiées et complétées
+comme suit, les dispositions des articles 5, 9, 12 et 14 de l'arrêté
+susvisé n° 2932-13 du 16 hija 1434 (22 octobre 2013) :
+« Article 5. – La durée des études  […texte non modifié…]  dans
+« la limite de (30) heures par semaine. »
+« annuellement par l'Institut.
+« suivant l'ordre de mérite. »
+« Article 12. – L'admissibilité des étudiants du cycle
+«  […texte non modifié…]  d'épreuves finales.
+« Lesdites épreuves portent  […texte non modifié…]  de chaque année
+« universitaire.
+« La durée de réalisation de chacune des matières des
+« épreuves finales est fixée à deux heures. »
+« Article 14. – Les coefficients des matières du contrôle
+« continu et des épreuves finales sont fixés tel qu'il est indiqué
+« aux tableaux prévus à l'article 6 ci-dessus. »
+
+*Entités :* `arrêté
+susvisé n° 2932-13 du 16 hija 1434` (ARRETE), `22 octobre 2013` (DATE_GREGORIAN), `2932-13` (ARRETE)
+
+*Citations :*
+
+- `articles 5, 9, 12 et 14` → arrêté susvisé n° 2932-13 du 16 hija 1434 [✓]
+- `l'article 6` → arrêté susvisé n° 2932-13 du 16 hija 1434 [✓]
+
+*Dates :* 22 octobre 2013
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les tableaux de 1 à 16, annexés à l'arrêté susvisé
+n° 2932-13 sont abrogés et remplacés par les tableaux portant
+les numéros de 1 à 8 annexés au présent arrêté.
+
+*Entités :* `arrêté susvisé
+n° 2932-13` (ARRETE), `arrêté` (ARRETE), `2932-13` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 26 kaada 1445 (4 juin 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7324 du 3 safar 1446 (8 août 2024).
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau (1)
+Les matières au cycle de la licence, le volume horaire hebdomadaire et annuel
+qui leur est consacré et les coefficients appliqués aux matières du contrôle
+continu et des épreuves finales
+Spécialité : Etudes coraniques
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau (2)
+Les matières au cycle de la licence, le volume horaire hebdomadaire et annuel
+qui leur est consacré et les coefficients appliqués aux matières du contrôle
+continu et des épreuves finales
+Spécialité : Etudes coraniques
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau (3)
+Les matières au cycle de la licence, le volume horaire hebdomadaire et annuel
+qui leur est consacré et les coefficients appliqués aux matières du contrôle
+continu et des épreuves finales
+Spécialité : Etudes coraniques
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau (4)
+Les matières au cycle de la licence, le volume horaire hebdomadaire et annuel
+qui leur est consacré et les coefficients appliqués aux matières du contrôle
+continu et des épreuves finales
+Spécialité : Etudes coraniques
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau (5)
+Les matières au cycle de la licence, le volume horaire hebdomadaire et annuel
+qui leur est consacré et les coefficients appliqués aux matières du contrôle
+continu et des épreuves finales
+Spécialité : Lectures coraniques
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau (6)
+Les matières au cycle de la licence, le volume horaire hebdomadaire et annuel
+qui leur est consacré et les coefficients appliqués aux matières du contrôle
+continu et des épreuves finales
+Spécialité : Lectures coraniques
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau (7)
+Les matières au cycle de la licence, le volume horaire hebdomadaire et annuel
+qui leur est consacré et les coefficients appliqués aux matières du contrôle
+continu et des épreuves finales
+Spécialité : Lectures coraniques
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Tableau (8)
+Les matières au cycle de la licence, le volume horaire hebdomadaire et annuel
+qui leur est consacré et les coefficients appliqués aux matières du contrôle
+continu et des épreuves finales
+Spécialité : Lectures coraniques
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `26 kaada 1445` (DATE_HIJRI), `4 juin 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7324 du 3 safar 1446 (8 août 2024)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 26 kaada 1445, 4 juin 2024, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont modifiées comme suit, les
+dispositions de l'article 13 de l'arrêté susvisé n° 3532-18 du
+14 rabii I 1440 (22 novembre 2018) :
+« sur l'ensemble des matières programmées.
+« La durée de réalisation ………………………………….
+« est fixée à deux heures. »
+
+*Entités :* `arrêté susvisé n° 3532-18` (ARRETE), `14 rabii I 1440` (DATE_HIJRI), `22 novembre 2018` (DATE_GREGORIAN), `3532-18` (ARRETE)
+
+*Citations :*
+
+- `l'article 13` → arrêté susvisé n° 3532-18 [✓]
+
+*Dates :* 14 rabii I 1440, 22 novembre 2018
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les tableaux numéros 1, 2, 3 et 4, annexés
+à l'arrêté susvisé n° 3532-18, sont abrogés et remplacés,
+respectivement, par les tableaux portant les mêmes numéros,
+annexés au présent arrêté.
+
+*Entités :* `arrêté susvisé n° 3532-18` (ARRETE), `arrêté` (ARRETE), `3532-18` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 26 kaada 1445 (4 juin 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7324 du 3 safar 1446 (8 août 2024).
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Les modules, les matières de chaque module et le volume horaire qui leur est
+consacré, et les coefficients des matières du contrôle continu des
+Tableau (1)
+connaissances et de l'épreuve écrite
+« Filière des lectures coraniques approfondies »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Les modules, les matières de chaque module et le volume horaire qui leur est
+consacré, et les coefficients des matières du contrôle continu des
+Tableau (2)
+connaissances et de l'épreuve écrite
+« Filière des lectures coraniques approfondies »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Les modules, les matières de chaque module et le volume horaire qui leur est
+consacré, et les coefficients des matières du contrôle continu des
+Tableau (3)
+connaissances et de l'épreuve écrite
+« Filière des études coraniques approfondies »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Les modules, les matières de chaque module et le volume horaire qui leur est
+consacré, et les coefficients des matières du contrôle continu des
+Tableau (4)
+connaissances et de l'épreuve écrite
+« Filière des études coraniques approfondies »
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `26 kaada 1445` (DATE_HIJRI), `4 juin 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7324 du 3 safar 1446 (8 août 2024)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 26 kaada 1445, 4 juin 2024, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Les conditions de sélection et les
+modalités de déroulement du concours d'accès au cycle de
+doctorat à Jamia Al Quaraouiyine sont fixées conformément
+aux dispositions prévues au présent arrêté.
+Jamia Al Quaraouiyine est désigné ci-après par « Jamia ».
+
+*Entités :* `arrêté` (ARRETE)
+
+*Personnes :* Jamia Al Quaraouiyine, Jamia Al
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont admis à participer au concours d'accès
+à la première année du cycle de doctorat, les candidates et
+candidats titulaires de l'attestation d' « Al Alimiya supérieure »
+en sciences islamiques, délivrée par Jamia Al Quaraouiyine
+ou l'école des sciences islamiques relevant de l'Université
+Al Quaraouiyine, ou du diplôme de master des arts en études
+islamiques (Master of Arts  in Islamic Religious Studies)
+délivré par l'Université Al Akhawayn à Ifrane ou d'un
+diplôme reconnu équivalent, à condition que les deux derniers
+diplômes soient assortis de l'attestation d' « Al Alimiya » de
+l'enseignement traditionnel.
+
+*Personnes :* Al Alimiya
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le dossier de candidature à la participation
+au concours se compose des pièces suivantes :
+– une demande écrite dans laquelle le candidat indique
+son prénom, nom et adresse ;
+– une copie des diplômes prévus à l'article 2 ci-dessus,
+assortie, le cas échéant, de l'arrêté d'équivalence ;
+– une copie de la carte nationale d'identité électronique ;
+– les originaux des relevés de notes obtenues au cycle
+d' « Al Alimiya supérieure » ou au cycle de l'enseignement
+traditionnel terminal et au cycle du master, prévus à
+l'article 2 ci-dessus ;
+– quatre photos récentes du candidat ;
+– deux enveloppes timbrées portant l'adresse personnelle
+du candidat.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 2` → arrêté [✓]
+- `l'article 2` → arrêté [✓]
+
+*Personnes :* Al Alimiya
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le concours se déroule en trois étapes :
+La première étape : il est procédé à la sélection des
+candidats après étude de leurs dossiers, sur la base de critères
+fixés par la commission du concours prévue à l'article 6
+ci-après ;
+La seconde étape : il est procédé à une épreuve écrite
+d'une durée de trois heures au profti des candidats admis à
+la première étape, dans un sujet portant sur les sciences de la
+Charia et la pensée islamique ;
+La troisième étape : il est procédé à une épreuve orale,
+sous forme d'entretien scientifique, pour les candidats admis
+à la deuxième étape, pour évaluer leurs compétences et
+connaissances et leur aptitude à poursuivre la formation et
+les études au cycle du doctorat.
+
+*Citations :*
+
+- `l'article 6` → dahir n° 1-16-158 [✓]
+
+
+## Article 5
+
+*ART. 5. –*
+
+Toute épreuve est évaluée par une note de 0 à
+20, et toute note inférieure à 8 sur 20 est éliminatoire.
+Le candidat n'est admis que s'il obtient une moyenne
+non inférieure à 12 sur 20, et ce dans la limite du nombre de
+sièges mis en compétition.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Le concours est supervisé par une commission
+dénommée « commission du concours », composée d'au
+moins trois membres dont un président, choisis parmi les
+enseignants-chercheurs de Jamia Al Quaraouiyine ou de tout
+autre établissement relevant de l'Université Al Quaraouiyine,
+et désignés par décision du ministre des Habous et des
+affaires islamiques sur proposition du directeur de Jamia
+Al Quaraouiyine.
+
+
+## Article 7
+
+*ART. 7.  –*
+
+La commission du concours supervise
+l'organisation du concours d'accès à la première année du
+cycle du doctorat en ses étapes prévues à l'article 4 ci-dessus, et
+établit, à cet effet, une liste des candidats admis en première et
+deuxième étape, une liste des candidats définitivement admis
+et une liste d'attente, classés dans les deux dernières listes par
+ordre de mérite.
+Les noms des candidats admis à chaque étape sont
+consignés dans un procès-verbal signé par tous les membres
+de la commission.
+
+*Citations :*
+
+- `l'article 4` → dahir n° 1-16-158 [✓]
+
+
+## Article 8
+
+*ART. 8.  –*
+
+La commission du concours est assistée
+dans l'organisation de l'épreuve écrite par des comités de
+surveillance, composés chacun d'au moins trois membres,
+dont un président, désignés par décision du directeur de Jamia
+Al Quaraouiyine.
+
+
+## Article 9
+
+*ART. 9. –*
+
+La liste des candidats définitivement admis et la
+liste d'attente sont affcihées au siège de Jamia Al Quaraouiyine
+et, le cas échéant, sur le portail de l'Université Al Quaraouiyine.
+
+
+## Article 10
+
+*ART. 10. –*
+
+Est considéré comme abandonnant l'accès
+au cycle du doctorat, tout candidat admis n'ayant pas
+rejoint Jamia Al Quaraouiyine dans les deux semaines qui
+suivent la date du début des études. Le directeur de Jamia
+Al Quaraouiyine peut, dans ce cas, le rayer de la liste des
+candidats admis et le remplacer par un autre candidat de la
+liste d'attente, par ordre de mérite.
+
+*Personnes :* Jamia Al Quaraouiyine
+
+
+## Article 11
+
+*ART. 11. –*
+
+Le présent arrêté, qui sera publié au Bulletin
+officiel, entre en vigueur à partir de l'année universitaire 2023-
+2024.
+Rabat, le 10 joumada II 1446 (12 décembre 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7367 du 5 rejeb 146 (6 janvier 2025).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `10 joumada II 1446` (DATE_HIJRI), `12 décembre 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7367 du 5 rejeb 146 (6 janvier 2025)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 10 joumada II 1446, 12 décembre 2024, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Les conditions de sélection et
+les modalités de déroulement du concours d'accès au cycle
+de doctorat à l'Ecole des sciences islamiques sont fixées
+conformément aux dispositions prévues au présent arrêté.
+L'Ecole des sciences islamiques est désigné ci-après par
+« l'Ecole ».
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont admis à participer au concours d'accès
+à la première année du cycle de doctorat, les candidates
+et candidats titulaires de l'attestation d'  «  Al Alimiya
+supérieure » en sciences islamiques, délivrée par l'Ecole des
+sciences islamiques ou Jamia Al Quaraouiyine, relevant de
+l'Université Al Quaraouiyine, ou du diplôme de master des
+arts en études islamiques (Master of Arts  in Islamic Religious
+Studies) délivré par l'Université Al Akhawayn à Ifrane ou d'un
+diplôme reconnu équivalent, à condition que les deux derniers
+diplômes soient assortis de l'attestation d' « Al Alimiya » de
+l'enseignement traditionnel.
+
+*Personnes :* Al Alimiya
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le dossier de candidature à la participation
+au concours se compose des pièces suivantes :
+– une demande écrite dans laquelle le candidat indique
+son prénom, nom et adresse ;
+– une copie des diplômes prévus à l'article 2 ci-dessus,
+assortie, le cas échéant, de l'arrêté d'équivalence ;
+– une copie de la carte nationale d'identité électronique ;
+– les originaux des relevés de notes obtenues au cycle
+d' « Al Alimiya supérieure » ou au cycle de l'enseignement
+traditionnel terminal et au cycle du master, prévus à
+l'article 2 ci-dessus ;
+– quatre photos récentes du candidat ;
+– deux enveloppes timbrées portant l'adresse personnelle
+du candidat.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 2` → arrêté [✓]
+- `l'article 2` → arrêté [✓]
+
+*Personnes :* Al Alimiya
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le concours se déroule en trois étapes :
+La première étape : il est procédé à la sélection des
+candidats après étude de leurs dossiers, sur la base de critères
+fixés par la commission du concours prévue à l'article 6
+ci-après ;
+La deuxième étape : il est procédé à une épreuve écrite
+d'une durée de trois heures pour les candidats admis à la
+première étape, dans un sujet portant sur les sciences de la
+Charia et la pensée islamique ;
+La troisième étape : il est procédé à une épreuve orale,
+sous forme d'entretien scientifique, pour les candidats admis
+à la deuxième étape, pour évaluer leurs compétences et
+connaissances et leur aptitude à poursuivre la formation et
+les études au cycle du doctorat.
+
+*Citations :*
+
+- `l'article 6` → dahir n° 1-16-159 [✓]
+
+
+## Article 5
+
+*ART. 5. –*
+
+Toute épreuve est évaluée par une note de 0 à
+20, et toute note inférieure à 8 sur 20 est éliminatoire.
+Le candidat n'est admis que s'il obtient une moyenne
+non inférieure à 12 sur 20, et ce dans la limite du nombre de
+sièges mis en compétition.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Le concours est supervisé par une commission
+dénommée « commission du concours », composée d'au moins
+trois membres, dont un président, choisis parmi les enseignants-
+chercheurs de l'Ecole ou de tout autre établissement relevant
+de l'Université Al Quaraouiyine, et désignés par décision du
+ministre des Habous et des affaires islamiques sur proposition
+du directeur de l'Ecole.
+
+
+## Article 7
+
+*ART.  7.  –*
+
+La commission du concours  supervise
+l'organisation du concours d'accès à la première année du
+cycle du doctorat en ses étapes prévues à l'article 4 ci-dessus, et
+établit, à cet effet, une liste des candidats admis en première et
+deuxième étape, une liste des candidats définitivement admis
+et une liste d'attente, classés dans les deux dernières listes par
+ordre de mérite.
+Les noms des candidats admis à chaque étape sont
+consignés dans un procès-verbal signé par tous les membres
+de la commission.
+
+*Citations :*
+
+- `l'article 4` → dahir n° 1-16-159 [✓]
+
+
+## Article 8
+
+*ART. 8.  –*
+
+La commission du concours est assistée
+dans l'organisation de l'épreuve écrite par des comités de
+surveillance, composés chacun d'au moins trois membres, dont
+un président, désignés par décision du directeur de l'Ecole.
+
+
+## Article 9
+
+*ART. 9. –*
+
+La liste des candidats définitivement admis
+et la liste d'attente sont affichées au siège de l'Ecole et, le cas
+échéant, sur le portail de l'Université Al Quaraouiyine.
+
+
+## Article 10
+
+*ART. 10. –*
+
+Est considéré comme abandonnant l'accès
+au cycle du doctorat, tout candidat admis n'ayant pas rejoint
+l'Ecole dans les deux semaines qui suivent la date du début des
+études. Le directeur de l'Ecole peut, dans ce cas, le rayer de
+la liste des candidats admis et le faire remplacer par un autre
+candidat de la liste d'attente, par ordre de mérite.
+
+
+## Article 11
+
+*ART. 11. –*
+
+Le présent arrêté, qui sera publié au Bulletin
+officiel, entre en vigueur à partir de l'année universitaire 2023-
+2024.
+Rabat, le 10 joumada II 1446 (12 décembre 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7367 du 5 rejeb 1446 (6 janvier 2024).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `10 joumada II 1446` (DATE_HIJRI), `12 décembre 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7367 du 5 rejeb 1446 (6 janvier 2024)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 10 joumada II 1446, 12 décembre 2024, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Les étudiants du cycle de doctorat à Jamia Al Quaraouiyine et à l'Ecole des
+sciences islamiques, poursuivant régulièrement leur formation, perçoivent une bourse d'études mensuelle
+nette d'un montant de quatre mille (4.000) dirhams.
+
+
+## Article 2
+
+*ART. 2. –*
+
+Tout étudiant ayant définitivement et volontairement cessé de suivre sa formation, ou l'ayant
+temporairement suspendu pendant une durée dépassant trente jours, sans motif valable au regard du directeur
+de Jamia Al Quaraouiyine ou du directeur de l'Ecole, selon le cas, doit restituer les montants de la bourse
+qu'il a perçue avant ou pendant la cessation de la formation ou pendant la durée de la suspension.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 10 joumada II 1446 (12 décembre 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7367 du 5 rejeb 1446 (6 janvier 2025)..
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `10 joumada II 1446` (DATE_HIJRI), `12 décembre 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7367 du 5 rejeb 1446 (6 janvier 2025)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 10 joumada II 1446, 12 décembre 2024, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Sont fixées conformément aux dispositions prévues aux articles ci-après, les modalités
+d'élaboration de la programmation budgétaire au moins triennale des Habous publics.
+
+
+## Article 2
+
+*ART. 2. –*
+
+La programmation prévue à l'article premier ci-dessus est réalisée par l'administration des Habous
+conformément au modèle du tableau annexé au présent arrêté et soumise au conseil supérieur du contrôle des
+finances des Habous publics conjointement avec les pièces du projet de budget.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+La programmation est élaborée sur la base des estimations prévisionnelles de la somme des recettes
+et des dépenses au cours de la période indiquée à l'article premier ci-dessus, conformément aux programmes et
+projets de la stratégie prévue à l'article 2-bis du dahir n° 1-09-236 susvisé.
+
+*Entités :* `dahir n° 1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 2` → dahir n° 1-09-236 [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+Les estimations prévisionnelles de la somme des recettes et des dépenses, au titre de la première
+année de la programmation, doivent être conformes aux estimations du projet de budget de la même année.
+
+
+## Article 5
+
+*ART. 5. –*
+
+La programmation doit être assortie des objectifs et des indicateurs de performance et comporter
+les programmes et les projets, classés par ordre de priorité, ainsi que les ressources nécessaires à sa réalisation.
+Ladite programmation doit également être conforme au contenu de la stratégie prévue ci-dessus.
+
+
+## Article 6
+
+*ART. 6. –*
+
+La programmation est actualisée chaque année, le cas échéant, en vue de l'adapter avec l'évolution
+de la conjoncture financière, économique et sociale.
+
+
+## Article 7
+
+*ART. 7. –*
+
+En cas de changement des estimations prévisionnelles de la somme des recettes et des dépenses,
+la programmation est modifiée et sont révisés, les objectifs, les indicateurs de performance et le classement des
+projets qui y sont contenus.
+
+
+## Article 8
+
+*ART. 8. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 9 rabii II 1443 (15 novembre 2021).
+AHMED TOUFIQ.
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Modèle du tableau de la programmation triennale relative au budget des
+Habous publics au titre des années …., ….. et …….
+1-
+Ressources et dépenses de fonctionnement
+2-
+Ressources et dépenses d'investissement
+3-
+Total des ressources et des dépenses (fonctionnement et
+investissement)
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7069 du 26 rejeb 1443 (28 février 2022).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `9 rabii II 1443` (DATE_HIJRI), `15 novembre 2021` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `Bulletin officiel » n° 7069 du 26 rejeb 1443 (28 février 2022)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 9 rabii II 1443, 15 novembre 2021, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Sont fixés conformément aux
+dispositions prévues à la présente décision, la composition et
+le mode de fonctionnement de la commission des transactions
+immobilières des Habous, prévue à l'article 23 de l'arrêté
+susvisé n° 4139-12.
+Titre II
+Composition de la commission des transactions
+immobilières des Habous
+
+*Entités :* `arrêté
+susvisé n° 4139-12` (ARRETE)
+
+*Citations :*
+
+- `l'article 23` → arrêté susvisé n° 4139-12 [✓]
+
+*Personnes :* Titre II
+
+
+
+## Article 2
+
+*ART. 2. –*
+
+La commission des transactions immobilières
+des Habous se compose du directeur des Habous au ministère
+des Habous et des affaires islamiques président et des chefs
+des divisions à la direction des Habous au même ministère,
+membres.
+Le président de la commission peut, à titre consultatif,
+inviter toute personne dont l'avis est jugé utile pour assister
+aux réunions de ladite commission.
+
+
+## Article 3
+
+*ART.  3.  –*
+
+En cas d'absence des réunions, ou
+d'empêchement, pour un membre de la commission des
+transactions immobilières des Habous, le président peut le
+faire suppléer par un des chefs de services compétens qui lui
+sont rattachés.
+En cas de vacance du poste de chef de division membre
+de la commission, le président de la commission charge un
+des chefs de services qui lui sont rattachés pour le subroger
+en qualité de membre.
+Titre III
+Mode de fonctionnement de la commission
+des transactions immobilières des Habous
+
+*Personnes :* Titre III
+
+
+
+## Article 4
+
+*ART. 4. –*
+
+La commission des transactions immobilières
+des Habous tient ses réunions une fois au moins chaque mois,
+sur invitation de son président et chaque fois que nécessaire
+pour l'examen des dossiers qui lui sont soumis conformément
+aux dispositions prévues aux arrêtés susvisés n° 4139-12 et
+4140-12.
+
+*Entités :* `arrêtés` (ARRETE)
+
+
+## Article 5
+
+*ART. 5. –*
+
+La commission des transactions immobilières
+des Habous se réunit valablement en présence d'au moins
+quatre membres.
+
+
+## Article 6
+
+*ART. 6. –*
+
+La commission des transactions immobilières
+des Habous adopte ses propositions à la majorité des voix des
+membres présents et en cas d'égalité, celle du président est
+prépondérante.
+
+
+## Article 7
+
+*ART. 7. –*
+
+Le chef du service des transactions immobilières
+des Habous ou son suppléant assure la mission de secrétariat
+de la commission des transactions immobilières des Habous.
+
+
+## Article 8
+
+*ART. 8. –*
+
+Le chargé de mission de secrétariat de la
+commission des transactions immobilières des Habous se
+charge, sous la supervision du président, d'élaborer l'ordre
+du jour des réunions et à cet effet, prépare les dossiers, collecte
+les pièces et les documents nécessaires à son fonctionnement,
+dresse les procès-verbaux des réunions et conserve les pièces
+afférentes à ses travaux.
+Titre IV
+Dispositions diverses
+
+
+## Article 9
+
+*ART. 9. –*
+
+La présente décision sera publiée au Bulletin
+officiel.
+Rabat, le 25 chaabane 1435 (23 juin 2014).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6280 du 10 chaoual 1435 (7 août 2014).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `25 chaabane 1435` (DATE_HIJRI), `23 juin 2014` (DATE_GREGORIAN), `Bulletin officiel » n° 6280 du 10 chaoual 1435 (7 août 2014)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 25 chaabane 1435, 23 juin 2014, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est complétée, comme suit, la liste
+des prestations pouvant faire l'objet de bons de commande,
+fgiurant à l'annexe n°4 de l'arrêté susvisé n° 258-13 :
+« – Fournitures :
+« –  […texte non modifié…]  ;
+« – pièces de rechange et pneumatiques pour véhicules
+« et engins ;
+« – tapis et paillassons ;
+« estrades des mosquées ;
+« chaires consacrées pour donner les cours (chaires
+scientifiques) ;
+« séparateurs ().
+«  Services :
+«  ………………………………………….. »
+(Le reste sans modification.)
+
+*Entités :* `arrêté susvisé n° 258-13` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+La présente décision sera publiée au Bulletin
+officiel.
+Rabat, le 4 moharrem 1436 (29 octobre 2014).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6310 du 26 moharrem 1436 (20 novembre 2014)
+
+*Entités :* `4 moharrem 1436` (DATE_HIJRI), `29 octobre 2014` (DATE_GREGORIAN), `Bulletin officiel » n° 6310 du 26 moharrem 1436 (20 novembre 2014)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 4 moharrem 1436, 29 octobre 2014
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est complétée, comme suit, la liste
+des prestations pouvant faire l'objet de marchés reconductibles,
+fgiurant à l'annexe n°3 de l'arrêté susvisé n° 258-13 :
+« 5– Services :
+« –  […texte non modifié…]  ;
+« – gardiennage et surveillance des bâtiments administratifs ;
+« – entretien et nettoyage des mosquées ;
+« – gardiennage des mosquées.
+« – Prestations pouvant faire l'objet de marchés
+« reconductibles pour une durée de cinq (5) ans :
+(Le reste sans modification.)
+ART. 2. – La présente décision sera publiée au Bulletin
+officiel.
+Rabat, le 11 joumada I 1436 (2 mars 2015).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6385 du 24 chaoual 1436 (10 août 2015).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté susvisé n° 258-13` (ARRETE), `11 joumada I 1436` (DATE_HIJRI), `2 mars 2015` (DATE_GREGORIAN), `Bulletin officiel » n° 6385 du 24 chaoual 1436 (10 août 2015)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 11 joumada I 1436, 2 mars 2015, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont fixées conformément aux
+dispositions de la présente décision, les modalités d'élaboration
+des rapports annuels relatifs au bilan d'activités du contrôleur
+financier central et des contrôleurs locaux, prévus à l'article 104
+de l'arrêté du ministre des Habous et des affaires islamiques
+susvisé n° 2685-13.
+
+*Entités :* `arrêté du ministre des Habous et des affaires islamiques` (ARRETE), `arrêté du ministre des Habous et des affaires` (ARRETE)
+
+*Citations :*
+
+- `l'article 104` → arrêté du ministre des Habous et des affaires islamiques [✓]
+
+
+## Article 2
+
+*ART. 2 –*
+
+Le rapport du contrôleur financier central et
+les rapports des contrôleurs locaux sont établis en un original
+et deux copies au moins.
+
+
+## Article 3
+
+*ART. 3 –*
+
+Les rapports prévus à l'article 2 ci-dessus
+comportent une introduction générale et deux titres.
+Le premier titre est consacré aux recettes perçues au
+titre de l'exercice concerné et le deuxième aux dépenses dont
+l'ordonnancement est visé au titre du même exercice.
+
+*Citations :*
+
+- `l'article 2` → dahir n° 1-09-236 [✓]
+
+
+## Article 4
+
+*ART. 4 –*
+
+Le premier et le deuxième titre du rapport
+sont subdivisés en sections. La première est consacrée, en
+général, aux opérations et aux mesures relatives à l'exécution
+du budget, la deuxième aux deux catégories des comptes
+spéciaux et la troisième aux échanges et aux bons Habous et
+ce, conformément au modèle n° 1 annexé à la présente décision.
+
+
+## Article 5
+
+*ART. 5 –*
+
+Le rapport fixe les recettes perçues dans la
+première section du premier titre suivant les deux modes
+suivants :
+– à travers leur répartition de manière générale selon la
+catégorisation et la classifciation prévues au paragraphe
+« a » de l'article 136 du dahir susvisé n° 1-09-236 ;
+– à travers leur répartition de manière détaillée
+conformément au tableau n° 2 annexé à la présente
+décision.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 136` → dahir n° 1-09-236 [✓]
+
+
+## Article 6
+
+*ART. 6 –*
+
+Sont mentionnées à la première section du
+premier titre du rapport, les recettes urgentes et les recettes
+n'ayant pas été perçues conformément à la modalité indiquée
+au tableau n° 3 annexé à la présente décision.
+
+
+## Article 7
+
+*ART. 7 –*
+
+Le rapport établit les dépenses payées dans la
+première section du deuxième titre suivant les deux modes
+suivants :
+–	à travers leur répartition de manière générale selon la
+catégorisation et la classifciation prévues au paragraphe
+« b » de l'article 136 prévu à l'article 5 ci-dessus ;
+– à  travers leur répartition de manière détaillée
+conformément au tableau n° 4 annexé à la présente
+décision pour le contrôleur financier central et
+conformément au tableau n° 5 pour les contrôleurs
+locaux.
+
+*Citations :*
+
+- `l'article 136` → dahir n° 1-09-236 [✓]
+- `l'article 5` → dahir n° 1-09-236 [✓]
+
+
+## Article 8
+
+*ART. 8 –*
+
+Sont mentionnés à la première section du
+deuxième titre du rapport :
+– les crédits non utilisés ;
+– les dépassements dans les crédits ouverts ;
+– les crédits ouverts supplémentaires ;
+– les crédits objet de migration ;
+–.les crédits engagés et non payés en fin d'exercice.
+Les derniers crédits sont fixés conformément au tableau
+n° 6 annexé à la présente décision.
+
+
+## Article 9
+
+*ART. 9 –*
+
+Le rapport est assorti des copies :
+– .de l'arrêté de désignation du contrôleur concerné ;
+– .des décisions de création de comptes spéciaux ;
+– des décisions de délégation de crédits.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 10
+
+*ART. 10 –*
+
+Les copies des pièces prévues au deuxième
+alinéa de l'article 56 du règlement intérieur du conseil supérieur
+du contrôle des finances des Habous publics susmentionné,
+sont classées selon les lignes budgétaires.
+
+*Citations :*
+
+- `l'article 56` → dahir n° 1-09-236 [✓]
+
+
+## Article 11
+
+*ART. 11 –*
+
+La présente décision est publiée au Bulletin
+officiel et prend effet à compter de la date de sa publication.
+Rabat, le 12 rabii II 1436 (2 février 2015).
+AHMED TOUFIQ.
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Modèle du rapport du contrôleur financier central et des rapports
+des contrôleurs locaux
+Introduction générale
+Titre premier
+Recettes
+Section première
+Recettes de manière générale
+- les recettes sont réparties selon la catégorisation générale prévue au paragraphe
+« a » de l'article 136 du dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010) ;
+- les recettes sont réparties selon les tableaux n° 1 et 2, prévus respectivement aux
+articles 4 et 5 ci-dessus.
+Section II
+Comptes spéciaux
+Section III
+Echanges et bons Habous
+Titre II
+Dépenses
+Section première
+Dépenses de manière générale
+- les dépenses sont réparties selon la catégorisation générale prévue au paragraphe
+« b » de l'article 136 du dahir n° 1-09-236 du 8 rabii I 1431 (23 février 2010) ;
+- les dépenses sont réparties selon les tableaux n° 3, 4, 5 et 6, prévus respectivement
+aux articles 6, 7 et 8 ci-dessus.
+Section II
+Comptes spéciaux
+Section III
+Echanges et bons Habous
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Modèle du tableau n° 1
+Recettes perçues au titre de l'année budgétaire ………….
+1) Recettes de fonctionnement
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Ministère des Habous et des affaires islamiques
+Inspection générale
+Contrôleur ………
+Modèle du tableau n° 2
+Recettes urgentes et recettes visées non recouvrées au titre de l'année
+budgétaire ………….
+1) Recettes de fonctionnement
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Dépenses payées au titre de l'année budgétaire ………….
+Modèle du tableau n° 3
+1)Dépenses de fonctionnement
+Ministère des Habous et des affaires islamiques
+Contrôleur financier central
+Inspection générale
+Royaume du Maroc
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Dépenses payées au titre de l'année budgétaire ………….
+Modèle du tableau n° 4
+1)Nédharat des Habous : ………….
+ A)Dépenses de fonctionnement
+Contrôleur local au Nédharat des Habous …….
+Ministère des Habous et des affaires islamiques
+Inspection générale
+Royaume du Maroc
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+2)Délégation des affaires islamiques à ………….
+ A)Dépenses de fonctionnement
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Crédits engagés non payés jusqu'au 31 décembre
+Modèle du tableau n° 5
+1)Dépenses de fonctionnement
+Ministère des Habous et des affaires islamiques
+Dépenses de fonctionnement
+Inspection générale
+Royaume du Maroc
+Contrôleur ……….
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6348 du 12 joumada II 1436 (2 avril 2015).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `12 rabii II 1436` (DATE_HIJRI), `2 février 2015` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `dahir n° 1-09-236` (DAHIR), `8 rabii I 1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN), `Bulletin officiel » n° 6348` (BULLETIN_OFFICIEL), `12 joumada II 1436` (DATE_HIJRI), `2 avril 2015` (DATE_GREGORIAN)
+
+*Citations :*
+
+- `l'article 136` → dahir n° 1-09-236 [✓]
+- `articles 4 et 5` → dahir n° 1-09-236 [✓]
+- `l'article 136` → dahir n° 1-09-236 [✓]
+- `articles 6, 7 et 8` → dahir n° 1-09-236 [✓]
+
+*Organisations :* Ministère des Habous et des affaires islamiques
+, Ministère des Habous et des affaires islamiques
+Dépenses de fonctionnement
+, AHMED TOUFIQ
+
+*Dates :* 12 rabii II 1436, 2 février 2015, 15 ramadan 1447, 8 rabii I 1431, 23 février 2010, 8 rabii I 1431, 23 février 2010, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 12 joumada II 1436, 2 avril 2015, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est complétée, comme suit, la
+liste des prestations pouvant faire l'objet de contrats ou de
+conventions de droit commun, figurant à l'annexe n°1 de
+l'arrêté susvisé n° 258-13 :
+« –  […texte non modifié…]  ;
+« – contrats d'architectes ;
+« – prestations de reliure, de calligraphie et de décoration
+« relatives aux causeries hassaniennes ramadaniennes. »
+
+*Entités :* `arrêté susvisé n° 258-13` (ARRETE)
+
+
+## Article 2
+
+*ART  2. –*
+
+La présente décision sera publiée au Bulletin
+officiel.
+Rabat, le 11 rejeb 1436 (30 avril 2015).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6366 du 16 chaabane 1436 (4 juin 2015).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `11 rejeb 1436` (DATE_HIJRI), `30 avril 2015` (DATE_GREGORIAN), `Bulletin officiel » n° 6366 du 16 chaabane 1436 (4 juin 2015)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 11 rejeb 1436, 30 avril 2015, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Le présent arrêté fixe la nomenclature des procédures comptables décrivant les
+pièces et documents justificatifs des recettes et des dépenses des Habous publics et ce, conformément à la
+liste qui lui est annexée.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2 –*
+
+Les pièces et documents fixés dans la liste prévue à l'article premier ci-dessus, annexée au présent
+un arrêté, sont, selon le cas :
+– les pièces et documents qui doivent être fournis par l'ordonnateur ou le sous-ordonnateur, justifiant
+les opérations de recettes et de dépenses des Habous publics, dont il s'engage ou ordonne l'exécution ;
+– ou les pièces et documents établis par le contrôleur, à son initiative ;
+– ou les pièces et documents à fournir par les bénéficiaires des dépenses objet de l'engagement ou par les
+créanciers ;
+– ou les pièces et les documents qui doivent être conservés par l'ordonnateur ou le sous-ordonnateur
+concerné pour les présenter aux organes de contrôle conformément aux lois et règlements en vigueur.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+Sont fixés par décisions de l'autorité gouvernementale chargée des Habous, la forme et le contenu
+des pièces et des documents justificatifs, prévus à la liste annexée au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 22 joumada I 1434 (3 avril 2013).
+AHMED TOUFIQ.
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Liste des pièces documents justificatifs des recettes et des dépenses des Habous publics
+Première partie- liste des pièces et documents justificatifs relatifs aux recettes des Habous publics
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+applicable au personnel du ministère des Habous et des affaires islamiques dans l'attente de l'élaboration d'un statut juridique qui lui
+Observation : le dahir n° 1-58-008- du 24 février 1958 portant statut général de la fonction publique, tel que modifié et complété, est
+I.
+Dépenses des fonctionnaires : liste des pièces et documents justificatifs des propositions d'engagement et de paiement
+Deuxième partie- liste des pièces et documents justificatifs relatifs aux dépenses des Habous publics
+est propre.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+II.
+Pièces et documents justificatifs des propositions d'engagement et de paiement
+relatives aux dépenses de matériel et de services
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+III.
+Pièces et documents justificatifs des propositions d'engagement et de paiement
+des dépenses relatives aux marchés et aux contrats d'architectes
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+IV.
+Pièces et documents justificatifs relatifs à la modification et la perte de pièces
+ou du dossier d'engagement de la dépense
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+V.
+Pièces et documents justificatifs divers
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6153 du 9 rejeb 1434 (20 mai 2013).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `22 joumada I 1434` (DATE_HIJRI), `3 avril 2013` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `dahir n° 1-58-008-` (DAHIR), `24 février 1958` (DATE_GREGORIAN), `Bulletin officiel » n° 6153 du 9 rejeb 1434 (20 mai 2013)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 22 joumada I 1434, 3 avril 2013, 15 ramadan 1447, 15 ramadan 1447, 24 février 1958, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Le présent arrêté fixe la nomenclature
+budgétaire indiquant l'entité budgétaire des recettes et
+des dépenses relatives au budget des Habous publics et ce,
+conformément à la liste annexée au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2 –*
+
+conformément à l'article 138 du dahir susvisé
+n° 1-09-236, le budget spécial des Habous publics se divise en
+deux parties, une partie réservée aux recettes et une partie
+aux dépenses.
+La partie des dépenses est structurée hiérarchiquement
+en divisions, titres, chapitres, articles, paragraphes et lignes.
+Les recettes sont structurées hiérarchiquement en
+divisions et titres.
+
+*Entités :* `1-09-236` (DAHIR)
+
+*Citations :*
+
+- `l'article 138` → dahir n° 1-09-236 [✓]
+
+
+## Article 3
+
+*ART. 3 –*
+
+La structure hiérarchique prévue à l'article 2
+ci-dessus et la codification de ses clauses sont appliquées, tel
+qu'il est indiqué au tableau suivant :
+Concernant les dépenses :
+Concernant les recettes :
+
+*Citations :*
+
+- `l'article 2` → dahir n° 1-09-236 [✓]
+
+
+## Article 4
+
+*ART. 4 –*
+
+La nomenclature des dépenses et des recettes
+relatives aux comptes spéciaux et aux comptes de la trésorerie
+est fixée par une note détaillée qui y est annexée.
+
+
+## Article 5
+
+*ART. 5 –*
+
+L'ordonnateur peut, le cas échéant, introduire
+de nouvelles clauses ou modifier la codification de certaines
+clauses, à condition de respecter la structure générale de la
+nomenclature telle qu'elle est fixée à l'article 3 ci-dessus, en
+conformité à la nature des programmes établis.
+Toute modifciation de la codifciation des clauses d'année
+en année est accompagnée d'un tableau de concordance, lequel
+est assorti du projet du budget annuel soumis au conseil
+supérieur du contrôle des finances des Habous publics pour
+approbation.
+
+*Citations :*
+
+- `l'article 3` → dahir n° 1-09-236 [✓]
+
+
+## Article 6
+
+*ART. 6 –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 22 joumada I 1434 (3 avril 2013).
+AHMED TOUFIQ.
+*
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 6153 du 9 rejeb 1434 (20 mai 2013).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `22 joumada I 1434` (DATE_HIJRI), `3 avril 2013` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `Bulletin officiel » n° 6153 du 9 rejeb 1434 (20 mai 2013)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 22 joumada I 1434, 3 avril 2013, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Champ d'application
+Le présent arrêté régit le régime et le contrôle des
+marchés de travaux, de fournitures et de services relatifs aux
+Habous publics.
+Sont exclus du champ d'application du présent arrêté :
+– les conventions et les contrats que l'administration
+des Habous publics doit passer dans les formes et
+conformément aux règles du droit commun  ;
+– les cessions de biens et de prestations conclus entre
+l'administration des Habous publics et les autres services
+publics soumis aux textes législatifs et réglementaires
+en vigueur.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2 –*
+
+Définitions
+Au sens du présent arrêté, on entend par :
+– marché  : tout contrat écrit à titre onéreux conclu
+entre, d'une part, l'administration des Habous publics,
+et d'autre part, une personne physique ou morale
+dénommée entrepreneur, fournisseur ou prestataire
+de services, ayant pour objet l'exécution de travaux, la
+livraison de fournitures ou la réalisation de prestations
+de services tels que définis ci-après  ;
+– marché de travaux : tout contrat ayant pour objet
+l'exécution de travaux relatifs à la construction, à la
+reconstruction, à la démolition, à la restauration ou
+à la rénovation d'un bâtiment, d'un ouvrage ou d'une
+structure, tel que la préparation du chantier, les travaux
+de sablage, d'édification, de construction, l'installation
+d'équipements ou de matériels, les travaux de décoration
+ou de finition ainsi que les services accessoires relatifs
+aux prestations tels que la réalisation des forages, les
+levées topographiques, la prise de photographie et
+de film, les études sismiques et les services similaires
+fournis dans le cadre du marché lorsque la valeur
+desdits services ne dépasse pas celle des travaux  ;
+–  marché de fournitures  : contrat ayant pour objet
+l'achat, l'acquisition par crédit-bail, ou la location
+avec intention de vente avec ou sans option d'achat
+de produits ou de matériels, conclu entre un maître
+d'ouvrage et un fournisseur. La livraison des produits
+peut éventuellement comprendre les travaux de pose
+et d'installation desdits produits, nécessaires à la
+réalisation de la prestation. La notion de marchés de
+fournitures englobe ce qui suit :
+* Les marchés de fournitures courantes ayant
+pour objet l'acquisition par le maître d'ouvrage
+de produits existant dans le commerce et qui ne
+sont pas fabriqués sur spécifications techniques
+particulières  ;
+* Les marchés de fournitures non courantes qui ont
+pour objet principal l'achat de produits qui ne se
+trouvent pas dans le commerce et que le titulaire
+doit réaliser sur spécifications techniques propres
+au maître d'ouvrage  ;
+* Les marchés par crédit-bail, leur location ou
+location avec intention de vente et avec ou sans
+option d'achat. Toutefois, la notion de marchés
+de fournitures n'englobe pas l'acquisition ou
+la location avec intention de vente de biens
+immobiliers ni les contrats de crédit-bail y
+afférents  ;
+– marché de services : contrat ayant pour objet la réalisation
+de prestations de services qui ne peuvent être qualifiés
+ni de travaux ni de fournitures. Ladite notion englobe
+notamment :
+* Les marchés de prestations d'études et de
+maîtrise d'œuvre qui comportent le cas échéant,
+des obligations spécifiques liées à la notion de
+propriété intellectuelle  ;
+* Les marchés de services courants ayant pour
+objet l'acquisition par le maître d'ouvrage de
+services pouvant être fournis sans spécifications
+techniques exigées par le maître d'ouvrage  ;
+* Les marchés portant notamment sur les prestations
+d'entretien et de réparation des équipements,
+des installations et de matériel, les prestations
+de nettoyage et de gardiennage des locaux
+administratifs et les prestations de jardinage.
+– attributaire : soumissionnaire dont l'offre a été retenue
+avant que l'approbation du marché ne lui soit notifiée  ;
+– titulaire : l'attributaire auquel l'approbation du marché a
+été notifiée  ;
+– autorité compétente : le ministre des Habous et des
+affaires islamiques, le sous-ordonnateur ou la personne
+pouvant être déléguée pour l'approbation du marché  ;
+–  bordereau des prix : document qui contient une
+décomposition par poste des prestations à exécuter et
+indique, pour chacun de ces postes, le prix qui lui est
+applicable  ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– candidat : personne physique ou morale qui participe
+à un appel d'offres ou à un concours dans sa phase
+antérieure à la remise des offres ou des propositions
+ou qui participe à une procédure négociée avant
+l'attribution du marché  ;
+– concurrent : candidat ou soumissionnaire  ;
+– contrats ou conventions de droit commun : contrats ou
+conventions dont l'objet est notamment l'obtention de
+prestations déjà définies quant aux conditions de leur
+fourniture et de leurs prix et que l'administration des
+Habous ne peut modifier ou qu'elle n'a pas intérêt à
+modifier.
+La liste des prestations qui peuvent faire l'objet de
+contrats ou de conventions de droit commun est prévue à
+l'annexe n°1 du présent arrêté.
+Ladite liste peut-être modiféie ou complétée par décision
+du ministre des Habous et des affaires islamiques après avis du
+conseil supérieur du contrôle des finances des Habous publics.
+Toutefois, afin de choisir des fournisseurs de services
+ayant trait aux procurations, aux consultations juridiques,
+scientifiques ou médicales ou à l'architecture, un appel à
+manifestation d'intérêt peut être émis ou un concours peut
+être organisé et ce, dans la mesure du possible  ;
+– décomposition du montant global : document qui, pour
+un marché à prix global, contient une répartition des
+prestations à exécuter par poste, effectuée sur la base de
+la nature de ces prestations. Ce document peut indiquer
+les quantités forfaitaires pour les différents postes  ;
+– détail estimatif : document qui, pour un marché à prix
+unitaires, contient une décomposition de prestations
+à exécuter par poste et indique, pour chaque poste, la
+quantité présumée et le prix unitaire correspondant
+fgiurant sur le bordereau des prix. Le détail estimatif et
+le bordereau des prix peuvent constituer un document
+unique  ;
+–  groupement : deux ou plusieurs concurrents qui
+souscrivent un engagement unique, dans les conditions
+indiquées à l'article 110 ci-après  ;
+– maître d'ouvrage : autorité qui passe le marché avec
+l'entrepreneur, le fournisseur ou le prestataire de
+services au nom de l'administration des Habous
+publics  ;
+– maître d'ouvrage délégué : administration publique
+ou organisme public auxquels sont confiées certaines
+missions de l'administration des Habous publics en tant
+que maître d'ouvrage, conformément aux conditions
+prévues à l'article 123 ci-après  ;
+– prestations : travaux, fournitures ou services  ;
+– signataire au nom du maître d'ouvrage : le ministre des
+Habous et des affaires islamiques, la personne déléguée
+par lui ou le sous-ordonnateur désigné conformément
+aux dispositions du code des Habous et des textes pris
+pour son application  ;
+–  soumissionnaire  : personne physique ou morale
+proposant une offre en vue de passer un marché  ;
+– sous détail des prix : document qui fait apparaître, pour
+chacun des prix du bordereau, ou seulement pour ceux
+d'entre eux désignés dans le cahier des prescriptions
+spéciales, les quantités et le montant des matériaux et
+fournitures, la main d'œuvre, les frais de fonctionnement
+du matériel, les frais généraux, les taxes et les marges.
+Sauf stipulation contraire du marché, ce document n'a
+pas de valeur contractuelle.
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 110` → arrêté [✓]
+- `l'article 123` → arrêté [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 3
+
+*ART. 3. –*
+
+Clauses du marché
+Le marché prévoit au moins les mentions suivantes :
+– le mode de passation  ;
+– la référence expresse aux alinéas, paragraphes et articles
+du présent arrêté en application desquels le marché est
+passé  ;
+– l'indication des parties contractantes, les noms et
+qualités des signataires agissant au nom du maître
+d'ouvrage et au nom du cocontractant  ;
+– l'objet du marché avec indication de la ou des préfectures
+et de la ou des provinces du lieu d'exécution des
+prestations  ;
+–  l'énumération par ordre de priorité des pièces
+incorporées au marché  ;
+– le prix, sous réserve des dispositions relatives aux marchés
+à prix provisoires ou les modalités de désignation du
+prix concernant les prestations rémunérées sur la base
+des dépenses de contrôle ;
+– le délai d'exécution ou la date d'achèvement du marché  ;
+– les conditions de réception et, le cas échéant, de livraison
+des prestations ;
+–  les conditions de règlement conformément aux
+dispositions du code des Habous et des textes prix pour
+son application  ;
+– les clauses de nantissement  ;
+– les conditions de résiliation  ;
+– l'approbation du marché par l'autorité compétente.
+Les engagements réciproques que les marchés constatent
+sont conclus sur la base de l'acte d'engagement souscrit
+par l'attributaire du marché et sur la base du cahier des
+prescriptions spéciales.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 4
+
+*ART. 4. –*
+
+Validité de la passation du marché
+Le marché n'est valable et définitif qu'après signature des
+parties contractantes, l'accomplissement des visas préalables
+nécessaires et son approbation par l'autorité compétente.
+L'approbation des marchés doit avoir lieu avant
+d'entamer l'exécution des prestations objet desdits marchés.
+
+
+## Article 5
+
+*ART. 5. –*
+
+Notification de l'approbation du marché
+L'approbation du marché doit être notiféie à l'attributaire
+dans un délai maximum de soixante (60) jours à compter de la
+date fixée pour l'ouverture des plis ou de la date de la signature
+du marché par l'attributaire lorsque ledit marché est négocié.
+Toutefois, ledit délai peut être prorogé à quatre-vingt-dix (90)
+jours lorsque le cahier des prescriptions spéciales le prévoit.
+Lorsque l'approbation n'est pas notifiée dans ledit
+délai, l'attributaire est libéré de son engagement vis-à-vis du
+maître d'ouvrage. Dans ce cas, mainlevée lui est donnée de
+son cautionnement provisoire, à sa demande, le cas échéant.
+Toutefois, le maître d'ouvrage peut, dans un délai de dix (10)
+jours avant l'expiration du délai prévu à l'alinéa premier ci-
+dessus, proposer à l'attributaire par lettre recommandée,
+de maintenir son offre pour une période supplémentaire
+déterminée.
+L'attributaire dispose d'un délai de dix (10) jours de
+la date de réception de la lettre du maître d'ouvrage pour
+faire connaître sa réponse. En cas de refus de l'attributaire,
+mainlevée lui est donnée de son cautionnement provisoire, le
+cas échéant.
+
+
+## Article 6
+
+*ART. 6. –*
+
+Cahiers des charges
+Les marchés sont des contrats écrits dont les cahiers
+des charges précisent les conditions en application desquelles
+les marchés sont exécutés. Lesdits cahiers des charges
+comprennent les cahiers des clauses administratives générales
+(CCAG), les cahiers des prescriptions communes (CPC) et les
+cahiers des prescriptions spéciales (CPS).
+– les cahiers des clauses administratives générales fixent
+les dispositions administratives applicables à tous
+les marchés de travaux, fournitures ou services ou à
+une catégorie particulière de ces marchés. Lorsqu'un
+marché comporte plusieurs catégories de prestations, le
+cahier des clauses administratives générales applicable
+est celui correspondant à la catégorie prépondérante
+de ces prestations.
+– sont applicables aux marchés relatifs aux Habous
+publics les cahiers des clauses administratives générales
+applicables aux marchés réalisés pour le compte de
+l'Etat.
+– en cas d'absence d'un cahier des clauses administratives
+générales propre aux prestations objet du marché, ledit
+marché doit faire référence à l'un des cahiers des clauses
+administratives générales en vigueur le plus adapté en
+procédant aux ajustements nécessaires.
+–  Les cahiers des prescriptions communes fixent
+essentiellement, par décision du ministre des Habous
+et des affaires islamiques, les dispositions techniques
+applicables à tous les marchés portant sur la même
+catégorie de travaux, de fournitures ou de services ou
+sur tous les marchés passés par l'administration des
+Habous publics.
+– les cahiers des prescriptions communes propres à un
+département ministériel peuvent également être étendus
+à l'administration des Habous publics par décision du
+ministre des Habous et des affaires islamiques.
+–  les cahiers des prescriptions spéciales fixent les
+conditions propres à chaque marché et comportent la
+référence aux textes généraux applicables et l'indication
+des articles des cahiers des prescriptions communes
+et, le cas échéant, de ceux des cahiers des clauses
+administratives générales auxquels il est éventuellement
+dérogé en vertu des dispositions desdits cahiers.
+– lesdits cahiers des prescriptions spéciales sont signés par
+l'ordonnateur, son délégué ou par le sous-ordonnateur
+avant le lancement de la procédure de passation du
+marché.
+– les cahiers des prescriptions spéciales sont approuvés par
+l'autorité compétente conformément aux dispositions
+de l'article 4 ci-dessus.
+
+*Citations :*
+
+- `l'article 4` → dahir n° 1-09-236 [✓]
+
+
+## Article 7
+
+*ART. 7. –*
+
+Modèles des pièces
+Les modèles des pièces en vigueur en matière des
+marchés de l'Etat peuvent être adoptés en introduisant les
+modifications nécessaires en ce qui concerne :
+– l'acte d'engagement  ;
+– le cadre du bordereau des prix et le cadre du détail
+estimatif  ;
+– le cadre de la décomposition du montant global  ;
+– le cadre du sous-détail des prix  ;
+– la déclaration sur l'honneur  ;
+– Le cadre du programme prévisionnel  ;
+– l'avis de publicité  ;
+– la demande d'admission  ;
+– la lettre circulaire de consultation  ;
+– le cadre du procès-verbal de la séance d'appel d'offres
+ou du concours  ;
+– le cadre de l'extrait du procès-verbal de la séance d'appel
+d'offres ou du concours  ;
+– le cadre des résultats définitifs de l'appel d'offres ou du
+concours  ;
+– le cadre du marché passé conformément aux usages
+commerciaux  ;
+– le cadre du rapport de présentation du marché.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Chapitre II
+Principes généraux
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 8
+
+*ART. 8. –*
+
+Concurrence
+La passation des marchés relatifs aux Habous publics
+est régie par les principes fondamentaux suivants :
+– l'égalité à l'égard des commandes de l'administration
+des Habous publics et l'égalité des chances  ;
+– la transparence des procédures  ;
+– la mise en concurrence.
+Lesdits principes se concrétisent par le respect des règles
+de la non-discrimination entre les participants, l'autonomie de
+l'administration des Habous publics et l'adoption de mesures
+claires et détaillées pour toutes les étapes de la passation du
+marché.
+Les exceptions contenues dans le présent règlement,
+issues de la nature spécifqiue de certains marchés, n'empêchent
+guère de se soumettre aux règles de la transparence et d'égalité.
+L'administration des Habous publics doit justifier le
+caractère spécifqiue de tout marché dont la passation nécessite
+l'application de mesures exceptionnelles, lesquelles n'entravent
+nullement le recours à la concurrence, chaque fois que possible.
+
+
+## Article 9
+
+*ART. 9. –*
+
+Détermination des besoins et bonne gestion
+Les prestations qui font l'objet des marchés doivent
+répondre à la nature et à l'étendue des besoins à satisfaire.
+Les spécifications techniques desdits besoins sont fixées par
+référence aux normes marocaines homologuées ou, à défaut,
+aux normes internationales de manière garantissant la qualité
+de la commande objet du marché et assurant son efficacité
+ainsi que le bon usage des biens des Habous publics.
+
+
+## Article 10
+
+*ART. 10. –*
+
+Spécifications techniques
+Les spécifications techniques contenues dans le cahier
+des prescriptions spéciales ne doivent mentionner aucune
+marque commerciale, appellation, brevet, type, origine ou
+producteurs déterminés, à moins qu'il n'y ait aucun autre
+moyen suffisamment précis et intelligible pour décrire les
+caractéristiques des travaux, fournitures ou services requis
+et à condition que l'appellation utilisée soit suivie du terme
+« ou son équivalent ».
+Tout participant potentiel considérant que les
+spécifications techniques contenues dans le cahier des
+prescriptions spéciales sont contraires aux dispositions prévues
+au présent article, peut, dans un délai maximum de quinze (15)
+jours de la date d'annonce de l'appel d'offres, soumettre un
+rapport détaillé au maître d'ouvrage indiquant les irrégularités
+ou les griefs et assorti des justificatifs nécessaires.
+
+
+## Article 11
+
+*ART. 11. –*
+
+Estimation des coûts du marché
+Avant tout appel à la concurrence ou toute négociation,
+le maître d'ouvrage est tenu d'établir une estimation des
+coûts des prestations à réaliser sur la base de la définition
+et de la consistance des prestations objet du marché et des
+prix pratiqués sur le marché en tenant compte de toutes
+les considérations et sujétions concernant notamment les
+conditions et le délai d'exécution. Ladite estimation est établie
+selon les modalités d'allotissement des prestations adoptées
+par le maître d'ouvrage, conformément aux dispositions de
+l'article 16 ci-après. Le prix estimatif doit être consigné sur un
+support écrit établi sur la base de l'estimation des différents
+prix contenus dans le bordereau des prix. Ledit support doit
+être signé par le maître d'ouvrage.
+
+*Citations :*
+
+- `l'article 16` → dahir n° 1-09-236 [✓]
+
+
+## Article 12
+
+*ART. 12. –*
+
+Publication du programme prévisionnel
+préalable
+Le maître d'ouvrage est tenu de publier au début de
+chaque année budgétaire et au plus tard avant la fin du premier
+trimestre, dans un journal à diffusion nationale au moins
+et dans le site électronique du ministère des Habous et des
+affaires islamiques chaque fois que possible, le programme
+prévisionnel des marchés qu'il compte passer au titre de l'année
+considérée. Il peut également procéder à sa publication par
+tout autre moyen de publication.
+Le maître d'ouvrage doit afficher le programme
+prévisionnel des marchés dans ses locaux pendant une durée
+de trente (30) jours au moins.
+Des programmes prévisionnels rectificatifs ou
+complémentaires peuvent être publiés ultérieurement à cette
+date, au besoin, dans les conditions prévues ci-dessus.
+
+
+## Article 13
+
+*ART. 13. –*
+
+Indivisibilité
+Les commandes ne peuvent être divisées de manière
+entravant la passation du marché ou empêchant qu'il soit
+soumis à la commission d'ouverture des plis compétente.
+
+
+## Article 14
+
+*ART. 14. –*
+
+Conditions requises des concurrents
+Seuls peuvent participer aux marchés, dans le cadre
+des conditions prévues à cet effet à l'article 33 ci-dessous, les
+personnes physiques ou morales qui :
+–  justifient des capacités juridiques, techniques et
+financières requises  ;
+– sont en situation fiscale régulière, pour avoir souscrit
+leurs déclarations et réglé les sommes exigibles ou, à
+défaut de règlement, constitué des garanties jugées
+suffisantes par le comptable chargé du recouvrement  ;
+– sont affiliées à la caisse nationale de sécurité sociale,
+souscrivent de manière régulière leurs déclarations de
+salaires auprès de cet établissement et sont en situation
+régulière vis-à-vis de ladite caisse.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Ne sont pas admises à participer aux marchés, les
+personnes :
+– en liquidation judiciaire  ;
+– en redressement judiciaire, sauf autorisation spéciale
+délivrée par l'autorité judiciaire compétente  ;
+– ayant été temporairement ou définitivement exclues
+dans les conditions fixées à l'article 40 ou à l'article 112
+ci-après, selon le cas.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 33` → dahir n° 1-09-236 [✓]
+- `l'article 40` → dahir n° 1-09-236 [✓]
+- `l'article 112` → dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 15
+
+*ART. 15. –*
+
+Frais de déplacement et de missions
+Lorsque la nature du marché, à l'étape de réalisation ou
+d'admission, exige l'accomplissement, en dehors des locaux
+relevant de l'administration des Habous publics, d'un contrôle
+de conformité du type des commandes aux prescriptions
+contractuelles, le cahiers des prescriptions spéciales doit
+prévoir que l'administration des Habous publics prend en
+charge les frais de missions ou de transport au titre dudit
+contrôle, au profti des agents qui en relèvent ou au profti des
+agents relevant de bureaux ou d'établissements spécialisés
+chargés de la même mission par l'administration des Habous
+publics.
+Le marché ne peut en aucun cas prévoir de faire supporter
+au titulaire, même partiellement, les frais de missions, de
+transport ou d'hébergement au titre dudit contrôle au profti
+des agents susmentionnés.
+
+
+## Article 16
+
+*ART. 16. –*
+
+Allotissement du marché
+L'administration des Habous publics peut, lors de
+l'élaboration des cahiers des prescriptions spéciales objet
+du marché, tenir compte des moyens et des capacités des
+entrepreneurs, fournisseurs et prestataires de services. Les
+commandes sont réparties en lots lorsque cette répartition est
+de nature à solliciter la participation des entreprises nationales
+ou offre des avantages financiers, techniques ou sociaux. La
+nature et le volume de chaque lot sont fixés par les cahiers des
+prescriptions spéciales.
+Tout concurrent peut contribuer dans un lot unique
+ou dans un ensemble de lots, pourvu que les cahiers des
+prescriptions spéciales fixent le nombre maximal de lots
+pouvant être attribués à un seul participant. Lorsqu'un
+ou plusieurs lots ne peuvent être attribués, ou en cas de
+modification du contenu des lots non attribués ou de certaines
+dispositions du cahier des prescriptions spéciales, les mesures
+relatives à la passation du marché portant sur les lots non
+attribués doivent être refaites.
+
+
+## Article 17
+
+*ART. 17. –*
+
+Préférence en faveur des entreprises nationales
+Aux seules fins de comparaison des offres relatives
+aux marchés de travaux et d'études y afférentes, et après
+que la commission d'ouverture des plis ait arrêté la liste des
+concurrents admissibles et éliminé les soumissionnaires dont
+les offres ne sont pas conformes aux spécifications exigées
+et lorsque des entreprises étrangères soumissionnent à ces
+marchés, à moins que le règlement de consultation ne prévoie
+de se limiter aux entreprises nationales, une préférence peut
+être accordée aux offres présentées par des entreprises
+nationales.
+Dans ces conditions, les montants des offres présentées
+par les entreprises étrangères sont majorés d'un pourcentage
+ne dépassant pas quinze pour cent (15%).
+Le règlement de consultation relatif aux procédures de
+passation de ces marchés fixe le pourcentage à appliquer pour
+la comparaison des offres lors de leur évaluation.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 18
+
+*ART. 18. –*
+
+Obligation de réserve et de secret professionnel
+Sans préjudice des dispositions législatives en
+vigueur concernant le secret professionnel, les membres
+des commissions d'ouverture des plis, des commissions
+d'admission pour l'appel d'offres par présélection ou concours
+et des commissions des concours sont tenus de garder le secret
+professionnel pour tout ce qui concerne les éléments portés à
+leur connaissance à l'occasion du déroulement des procédures
+prévues au présent arrêté.
+Il en est de même pour toute personne, fonctionnaire,
+expert ou technicien, appelée à participer aux travaux des
+commissions prévues ci-dessous.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 19
+
+*ART. 19. –*
+
+Lutte contre la fraude et la corruption
+Les intervenants dans les procédures de passation
+des marchés doivent tenir une indépendance vis-à-vis des
+concurrents, n'accepter de leur part aucun avantage ni
+gratification et s'abstenir d'entretenir avec eux toute relation
+de nature à compromettre leur objectivité et leur impartialité.
+TITRE II
+TYPES DE MARCHÉS
+Chapitre premier
+Selon le mode d'exécution
+
+
+## Article 20
+
+*ART. 20. –*
+
+Marchés-cadre
+Par dérogation aux articles 9, 10 et 11 ci-dessus, il
+peut être passé des marchés dits « marchés-cadre » lorsque
+la quantification et le rythme d'exécution d'une prestation,
+revêtant un caractère prévisible et permanent, ne peuvent être
+entièrement déterminés à l'avance.
+Les marchés-cadre ne portent que sur le minimum
+et le maximum des prestations, arrêtées en valeur ou en
+quantité, susceptibles d'être commandées au cours d'une
+période déterminée n'excédant pas l'année en cours de leur
+passation. Ces minimum et maximum doivent être fixés par
+le maître d'ouvrage avant tout appel à la concurrence ou toute
+négociation.
+Le maximum des prestations ne peut être supérieur à
+deux fois le minimum.
+Les marchés-cadre déterminent, notamment, les
+spécifications et le prix des prestations ou les modalités de
+détermination dudit prix.
+La liste des prestations qui peuvent faire l'objet de
+« marchés-cadre » figure à l'annexe n° 2 du présent arrêté.
+Elle peut être modifiée ou complétée par décision du ministre
+des Habous et des affaires islamiques, après avis du conseil
+supérieur du contrôle des finances des Habous publics.
+Les marchés-cadre sont conclus pour une période
+déterminée n'excédant pas l'année en cours.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Les cahiers des prescriptions spéciales afférents aux
+marchés-cadre comportent une clause de tacite reconduction.
+Les marchés-cadre sont reconduits tacitement d'année en
+année, dans la limite d'une durée totale de trois (3) années
+consécutives pour les prestations fgiurant au paragraphe A de
+l'annexe 2 prévue ci-dessus et de cinq (5) années consécutives
+pour les prestations figurant au paragraphe B de la même
+annexe.
+La durée du marché-cadre court à compter de la date
+de commencement de l'exécution des prestations prévue par
+ordre de service.
+Une décision de non-reconduction du marché-cadre
+peut être prise à l'initiative de l'une des deux parties au marché,
+moyennant un avis dont les conditions sont fixées par le cahier
+des prescriptions spéciales afférent au marché. En cas de non-
+reconduction, le marché est résilié.
+L'engagement comptable du marché-cadre porte, chaque
+année, sur le montant maximum. Toutefois, pour la première
+année, cet engagement peut, éventuellement, porter sur le
+montant correspondant aux besoins à satisfaire ou au prorata
+de la période considérée, et ce dans la limite des crédits de
+paiement disponibles au titre de l'année budgétaire en cours.
+Pour la dernière année, l'engagement comptable doit
+porter sur le montant correspondant aux besoins à satisfaire
+ou au prorata de la période restante pour atteindre la durée
+totale dudit marché-cadre, sans toutefois que le montant
+cumulé des engagements du marché-cadre ne puisse dépasser
+trois (3) fois le montant maximum pour les prestations fgiurant
+au paragraphe A de l'annexe 2 prévue ci-dessus et cinq (5)
+fois le montant maximum pour les prestations figurant au
+paragraphe B de ladite annexe.
+Lorsque l'engagement comptable au montant du marché-
+cadre n'a pas été effectué au titre d'une année déterminée, le
+réengagement du marché au titre de l'année suivante ne peut
+être effectué.
+Le maître d'ouvrage établit, à la fin de chaque année
+budgétaire et au terme de la dernière période du marché-cadre
+un décompte définitif à hauteur du montant des prestations
+réalisées au titre de la période considérée.
+Pendant la durée du marché-cadre, les quantités des
+prestations à exécuter et leur délai d'exécution sont précisés
+pour chaque commande par le maître d'ouvrage en fonction
+des besoins à satisfaire.
+Les quantités des prestations que le maître d'ouvrage
+doit commander ne peuvent être inférieures au seuil minimum
+prévu au marché.
+Toutefois, lorsque le marché-cadre le prévoit, chacune
+des parties contractantes peut demander qu'il soit procédé à
+la révision des conditions d'exécution du marché. Dans ce cas,
+le cahier des prescriptions spéciales afférent au marché-cadre
+prévoit les conditions qui peuvent faire l'objet de ladite révision.
+Au cas où aucun accord n'intervient sur cette révision,
+le marché est résilié.
+Le minimum et le maximum des prestations à
+réaliser peuvent être réajustés, dans les limites prévues à
+l'alinéa 3 du présent article. Ledit réajustement ne doit, en
+aucun cas, dépasser 10% du maximum des prestations en
+cas d'augmentation de la quantité ou de la valeur desdites
+prestations et ne doit pas être inférieur à plus de 25% en cas
+de diminution de la valeur ou de la quantité minimale desdites
+prestations. Les taux de 10% et de 25% doivent être pris en
+considération dans le cadre de la durée totale du marché-cadre.
+Ledit réajustement est introduit, le cas échéant, par
+avenant à chaque reconduction du marché-cadre.
+La possibilité dudit réajustement ne fait pas obstacle
+à l'application de la révision des prix, prévue aux articles 29,
+30, 31 et 32.
+
+*Entités :* `arrêtées` (ARRETE), `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `articles 9, 10 et 11` → arrêtées [✓]
+- `articles 29,
+30, 31 et 32` → arrêté [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 21
+
+*ART. 21. –*
+
+Marchés reconductibles
+Il peut être passé des marchés dits «  marchés
+reconductibles » lorsque les quantités qui revêtent un caractère
+prévisible, répétitif et permanent, peuvent être déterminées,
+aussi exactement que possible, à l'avance par le maître
+d'ouvrage.
+Les marchés reconductibles doivent déterminer,
+notamment, les spécifications, la consistance, les modalités
+d'exécution et le prix des prestations susceptibles d'être
+réalisées au cours d'une période n'excédant pas l'année en
+cours de leur passation.
+La liste des prestations qui peuvent faire l'objet
+de marchés reconductibles est prévue à l'annexe n° 3 du présent
+arrêté. Elle peut être modifiée ou complétée par décision du
+ministre des Habous et des affaires islamiques, après avis du
+conseil supérieur du contrôle des finances des Habous publics.
+Les marchés reconductibles sont conclus pour une
+période déterminée n'excédant pas l'année en cours.
+Les cahiers des prescriptions spéciales comportent une
+condition de tacite reconduction. Les marchés reconductibles
+sont reconduits tacitement, d'année en année dans la limite
+d'une durée totale de trois (3) années consécutives au titre
+des prestations figurant au paragraphe A de l'annexe 3
+susmentionné et de cinq (5) années consécutives au titre des
+prestations fgiurant au paragraphe B de la même annexe.
+La durée du marché reconductible court à compter de
+la date de commencement de l'exécution des prestations fixée
+par ordre de service.
+La décision de non-reconduction du marché
+reconductible peut être prise à l'initiative de l'une des deux
+parties au marché moyennant un avis dont les conditions sont
+fixées par le cahier des prescriptions spéciales afférent au
+marché. En cas de non-reconduction, le marché reconductible
+est résilié.
+Pendant la durée du marché reconductible, les quantités
+des prestations à exécuter et leur délai d'exécution sont précisés
+pour chaque commande par le maître d'ouvrage en fonction
+des besoins à satisfaire.
+Si le marché reconductible le prévoit, chacune des
+parties contractantes peut demander qu'il soit procédé à une
+révision des conditions d'exécution du marché. Dans ce cas, le
+marché reconductible prévoit les conditions qui peuvent faire
+l'objet de ladite révision.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Au cas où aucun accord n'intervient sur cette révision,
+le marché est résilié.
+L'engagement comptable du marché reconductible porte,
+chaque année, sur le montant total du marché reconductible.
+Toutefois, pour la première année, cet engagement peut, le cas
+échéant, porter sur le montant correspondant aux besoins à
+satisfaire ou au prorata de la période considérée, dans la limite
+des crédits de paiement disponibles pour l'année budgétaire
+en cours.
+Pour la dernière année, l'engagement correspond à la
+période restante pour atteindre la durée totale du marché
+reconductible.
+Lorsque l'engagement n'a pas eu lieu au titre d'une année,
+le marché est résilié.
+Le maître d'ouvrage établit, à la fin de chaque année
+budgétaire et à la fin de la dernière période du marché
+reconductible, un décompte définitif à hauteur du montant
+des prestations réalisées au titre de la période considérée.
+Les prestations à réaliser dans le cadre d'un marché
+reconductible peuvent faire l'objet de modifications. Ces
+modifications sont effectuées dans les conditions prévues au
+cahier des clauses administratives et générales applicable à la
+prestation objet du marché reconductible.
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 22
+
+*ART. 22. –*
+
+Marchés à tranches conditionnelles
+Les marchés à tranches conditionnelles sont des marchés
+pour lesquels il est prévu une tranche ferme couverte par
+les crédits disponibles, exécutée dès l'émission de l'ordre de
+service du commencement des prestations, et une ou plusieurs
+tranches conditionnelles dont l'exécution est subordonnée à
+la disponibilité des crédits d'une part, et à la notification d'un
+ou de plusieurs ordres de service prescrivant son (ou leur)
+exécution dans les délais prévus par le marché, d'autre part.
+La tranche ferme et les tranches conditionnelles
+constituent chacune un ensemble de prestations cohérent,
+autonome et fonctionnel.
+Le marché à tranches conditionnelles porte sur la
+totalité de la prestation et définit la consistance, le prix et les
+modalités d'exécution de chaque tranche.
+Lorsque l'ordre de service afférent à une ou à plusieurs
+tranches conditionnelles n'a pu être donné dans les délais
+prévus, le titulaire peut à sa demande :
+– soit bénéficier d'une indemnité d'attente si le marché le
+prévoit et dans les conditions qu'il définit  ;
+– soit renoncer à la réalisation de la ou des tranches
+conditionnelles concernées.
+La renonciation par le maître d'ouvrage à réaliser une
+tranche conditionnelle est notifiée, par ordre de service, au
+titulaire. Dans ce cas, une indemnité dite « indemnité de
+dédit » est accordée au titulaire, si le marché le prévoit et
+dans les conditions qu'il définit.
+
+
+## Article 23
+
+*ART. 23. –*
+
+Marchés allotis
+1 – Les travaux, fournitures ou services peuvent faire
+l'objet d'un marché unique ou d'un marché alloti, sous réserve
+des dispositions de l'article 16 ci-dessus.
+Le maître d'ouvrage choisit entre ces deux modalités
+de réalisation des prestations en fonction des avantages
+économiques, financiers ou techniques que procure chaque
+modalité.
+Dans le cas où plusieurs lots sont attribués à un même
+concurrent, il peut être signé avec ce concurrent un seul
+marché regroupant l'ensemble de ces lots.
+Il est également possible, le cas échéant, de limiter le
+nombre de lots pouvant être attribués à un même concurrent.
+Le règlement de consultation doit comporter à cet égard toutes
+précisions utiles.
+Les offres de remise sur le prix, présentées par les
+concurrents en fonction du nombre de lots susceptibles de
+leur être attribués, sont prises en considération.
+2 – Au sens du présent article, on entend par lot :
+–  en ce qui concerne les fournitures  : un ensemble
+d'articles, d'objets homogènes ou de marchandises qui
+se vendent ensemble  ;
+– en ce qui concerne les autres catégories de prestations :
+une partie de tout corps d'état ou un groupe de
+prestations appartenant à un ensemble plus ou moins
+homogène et présentant des spécifications techniques
+semblables ou complémentaires.
+3 – l'examen des offres des concurrents est effectué selon
+un lot unique lorsqu'il s'agit d'un marché à lot unique et selon
+chaque lot lorsqu'il s'agit d'un marché alloti.
+Chapitre II
+Selon les prix
+
+*Citations :*
+
+- `l'article 16` → dahir n° 1-09-236 [✓]
+
+
+## Article 24
+
+*ART. 24. –*
+
+Nature et modalités de définition des prix
+Le marché peut être à :
+– prix global  ;
+– prix unitaires  ;
+– prix mixtes.
+Le marché peut comporter également, par subordination,
+des prestations exécutées sur la base des dépenses contrôlées
+prévues à l'article 28 ci-après.
+
+*Citations :*
+
+- `l'article 28` → dahir n° 1-09-236 [✓]
+
+
+## Article 25
+
+*ART. 25. –*
+
+Marché à prix global
+Le marché à prix global est celui dans lequel un prix
+forfaitaire couvre l'ensemble des prestations qui font l'objet
+du marché. Ce prix forfaitaire est calculé, le cas échéant, sur
+la base de la décomposition du montant global. Dans ce cas,
+chacun des postes de la décomposition est affecté d'un prix
+forfaitaire.
+Le montant global est calculé par addition des différents
+prix forfaitaires indiqués pour tous ces postes.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Dans le cas où les postes sont affectés de quantités, il
+s'agit de quantités forfaitaires établies par le maître d'ouvrage.
+Une quantité forfaitaire est la quantité pour laquelle le titulaire
+a présenté un prix forfaitaire qui lui est payé quelle que soit la
+quantité réellement exécutée.
+Lorsqu'au cours de l'exécution, la consistance du marché
+original est modifiée par ordre de service, sans que l'objet
+du marché ne soit modifié, les modifications introduites sont
+évaluées conformément aux cahiers des charges.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 26
+
+*ART. 26. –*
+
+Marché à prix unitaires
+Le marché à prix unitaires est celui dans lequel les
+prestations sont décomposées, sur la base d'un détail estimatif
+établi par le maître d'ouvrage, en différents postes avec
+indication pour chacun d'eux du prix unitaire proposé. Les
+prix unitaires sont forfaitaires.
+Les sommes dues au titre du marché sont calculées
+par application des prix unitaires aux quantités réellement
+exécutées conformément au marché.
+
+
+## Article 27
+
+*ART. 27. –*
+
+Marché à prix mixtes
+Le marché est dit à prix mixtes lorsqu'il comprend
+des prestations rémunérées en partie sur la base d'un prix
+global et en partie sur la base de prix unitaires, dans ce cas
+le règlement s'effectue conformément aux modalités prévues
+respectivement aux articles 25 et 26 ci-dessus.
+
+*Citations :*
+
+- `articles 25 et 26` → dahir n° 1-09-236 [✓]
+
+
+## Article 28
+
+*ART. 28. –*
+
+Marché de travaux comportant des prestations
+à dépenses contrôlées
+En outre et à titre exceptionnel, justifié par des
+considérations d'ordre technique imprévisibles au moment de
+de leur passation, les marchés de travaux peuvent comporter
+des prestations rémunérées sur la base de dépenses contrôlées.
+Dans ce cas, lesdits marchés doivent mentionner la
+nature et les modalités du décompte et le cas échéant, la
+valeur des différents éléments contribuant à la détermination
+du prix de règlement ainsi qu'au contrôle auquel le titulaire
+sera soumis.
+Le montant des prestations rémunérées sur la base de
+dépenses contrôlées ne peut en aucun cas excéder deux pour
+cent (2%) du prix initial du marché.
+
+
+## Article 29
+
+*ART. 29. –*
+
+Marché à prix fermes
+Le prix du marché est ferme lorsqu'il ne peut être modiféi
+en raison des variations économiques intervenues pendant le
+délai d'exécution du marché.
+Toutefois, si le taux de la taxe sur la valeur ajoutée est
+modifié postérieurement à la date limite de remise des offres,
+le maître d'ouvrage doit répercuter cette modification sur le
+prix de règlement.
+Pour les marchés portant sur l'acquisition de produits
+ou services dont les prix sont réglementés, le maître d'ouvrage
+doit répercuter la différence résultant de la modification du
+prix desdits produits ou services, intervenue entre la date de
+remise des offres et la date de livraison, sur le prix de règlement
+prévu au marché.
+Les marchés de fournitures et de services autres que les
+études, sont passés à prix fermes.
+
+
+## Article 30
+
+*ART. 30. –*
+
+Révision du prix
+Le prix du marché est révisable lorsqu'il peut être modiféi
+en raison des variations économiques durant l'exécution de
+la prestation. Les marchés de travaux et d'études sont passés
+à prix révisable lorsque le délai prévu à leur exécution est
+supérieur ou égal à quatre (4) mois. Toutefois, ces marchés
+peuvent également être passés à prix révisable lorsque ledit
+délai est inférieur à quatre (4) mois.
+Lorsque le prix est révisable, les cahiers de charges
+indiquent expressément les modalités de la révision et la date
+de son exigibilité, conformément aux règles et aux conditions
+de révision des prix en vigueur dans les marchés de l'Etat.
+Toutefois, la valeur des prestations réalisées au cours des
+trois mois qui suivent la date limite de remise des offres ou la
+date de la signature du marché, en cas de marché négocié, est
+réglée sans révision et au prix prévu au marché, sauf stipulation
+contraire prévue au cahier des prescriptions spéciales.
+Lorsque le marché prévoit une clause relative à la
+révision du prix, il doit :
+– indiquer la date à laquelle le prix convenu est appliqué  ;
+– déterminer les modes, les conditions et les critères de
+révision dudit prix, ainsi que les pièces et les références
+justificatives.
+A compter de la date d'expiration du délai de trois mois
+susmentionné, les prix du marché peuvent être révisés par
+application d'une ou de plusieurs règles de révision des prix.
+La révision des prix des prestations, réalisées après
+l'expiration du délai de réalisation contractuelle, s'effectue sur
+la base du dernier prix révisé à la date d'expiration dudit délai.
+
+
+## Article 31
+
+*ART. 31. –*
+
+Actualisation du prix
+Le titulaire du marché à prix fermes peut demander
+l'actualisation de son offre financière, chaque fois que le cahier
+des prescriptions spéciales le prévoit, lorsque la période qui
+sépare la date de présentation de l'offre financière d'une part
+et la date de notification de l'approbation du marché ou la
+date d'émission de l'ordre de service du commencement des
+prestations d'autre part, dépasse une durée de six mois.
+L'actualisation du prix s'opère par application de la
+formule de révision des prix, laquelle doit être prévue, ainsi
+que les modalités de son calcul et les dates retenues, au cahier
+des prescriptions spéciales.
+
+
+## Article 32
+
+*ART. 32. –*
+
+Prix provisoire
+Le marché est passé à prix provisoire lorsque l'exécution
+de la prestation doit être entamée alors que toutes les conditions
+nécessaires à la fixation d'un prix initial et définitif ne sont pas
+remplies, en raison de la complexité et du caractère urgent de
+la prestation objet du marché.
+Un avenant régissant les clauses définitives du marché,
+notamment le prix définitif ou au moins les conditions fixant
+les modalités de sa détermination, doit être conclu dans un
+délai maximum de quatre (4) mois, à compter de la date du
+commencement de l'exécution de la prestation ou à la prise
+de connaissance desdites conditions.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+TITRE III
+MODES ET procédures DE PASSATION DES MARCHÉS
+Chapitre premier
+Modes de passation des marchés
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 33
+
+*ART. 33. –*
+
+Modes de passation des marchés
+Les modes de passation des marchés sont :
+– l'appel d'offres  ;
+– le concours  ;
+– la procédure négociée  ;
+– les bons de commande.
+Le recours à la procédure des bons de commande
+permet l'acquisition ou l'accomplissement de prestations après
+consultation de trois candidats, si c'est possible, conformément
+à l'article 104 ci-après. L'appel d'offres peut être ouvert ou
+restreint. Il est dit « ouvert » lorsque tout candidat peut obtenir
+le dossier de consultation et présenter sa candidature. Il est dit
+« restreint » lorsque seuls les candidats que le maître d'ouvrage
+a décidé de consulter peuvent remettre des offres.
+L'appel d'offres est dit « avec présélection » lorsque
+seuls sont autorisés à présenter des offres, après avis d'une
+commission d'admission, les candidats présentant des
+capacités suffisantes, notamment du point de vue technique
+et financier.
+Le concours met en concurrence des candidats, sur des
+prestations évaluées après avis du jury de concours, lesquelles
+constitueront les prestations à commander au titre du marché.
+La procédure négociée permet au maître d'ouvrage
+de négocier les conditions du marché avec un ou plusieurs
+candidats dans les conditions prévues aux articles 101 et 102
+ci-après.
+La procédure des bons de commande permet l'acquisition
+ou l'accomplissement de prestations après consultation,
+chaque fois que possible, de trois candidats, conformément
+à l'article 104 ci-après.
+Chapitre II
+procédures de passation des marchés
+Section première. – Appel d'offres ouvert ou restreint
+
+*Citations :*
+
+- `l'article 104` → dahir n° 1-09-236 [✓]
+- `articles 101 et 102` → dahir n° 1-09-236 [✓]
+- `l'article 104` → dahir n° 1-09-236 [✓]
+
+
+## Article 34
+
+*ART. 34. –*
+
+Principes et modalités
+1 – L'appel d'offres ouvert ou restreint obéit aux principes
+suivants :
+a)	un appel à la concurrence  ;
+b)	l'ouverture des plis en séance publique  ;
+c)	l'examen des offres par une commission d'appel
+d'offres  ;
+d)	la désignation par la commission d'appel d'offres
+du soumissionnaire dont l'offre est à accepter par
+le maître d'ouvrage ;
+e)	l'obligation pour le maître d'ouvrage qui procède
+à l'appel d'offres de communiquer aux membres
+de la commission d'appel d'offres, à titre indicatif,
+le montant de l'estimation prévue à l'article 11 ci-
+dessus. Cette communication doit être faite dans les
+conditions prévues à l'article 51 ci-après.
+2 – Il ne peut être passé de marchés sur appel d'offres
+restreint que pour les prestations dont le montant est inférieur
+ou égal à un million (1.000.000) de dirhams toutes taxes
+comprises, et qui ne peuvent être exécutées que par un nombre
+limité d'entrepreneurs, fournisseurs ou prestataires de services,
+en raison de leur nature, de leur complexité ou de l'importance
+de l'outillage à utiliser.
+L'appel d'offres restreint doit être adressé à au moins
+trois (3) candidats susceptibles de répondre au mieux aux
+besoins à satisfaire.
+3 – L'appel d'offres peut être effectué au « rabais » ou
+« sur offres de prix ».
+Pour les appels d'offres dit « au rabais », les concurrents
+souscrivent l'engagement d'effectuer les travaux ou les services
+ou de livrer les fournitures dont le prix estimatif est établi par
+le maître d'ouvrage, moyennant un rabais (ou une majoration)
+exprimé en pourcentage.
+Pour les appels d'offres sur « offres de prix », le dossier
+d'appel d'offres ne donne indication aux concurrents que sur
+la nature et l'importance des travaux, fournitures ou services
+pour lesquels le soumissionnaire fixe les prix et en arrête le
+montant.
+
+*Entités :* `arrête` (ARRETE)
+
+*Citations :*
+
+- `l'article 11` → arrête [✓]
+- `l'article 51` → arrête [✓]
+
+
+## Article 35
+
+*ART. 35. –*
+
+Règlement de consultation
+I – Tout appel d'offres fait l'objet d'un règlement établi
+par le maître d'ouvrage, comportant notamment :
+1 – La liste des pièces à fournir par les concurrents
+conformément à l'article 39 ci-après  ;
+2 – Les critères d'admissibilité des concurrents, qui
+prennent en compte notamment les garanties et les capacités
+juridiques, techniques et financières, ainsi que les références
+professionnelles des concurrents, le cas échéant  ;
+3 – Les critères de choix et de classification des offres
+pour l'attribution du marché au concurrent qui présente l'offre
+la plus avantageuse économiquement, lesquels varient selon
+l'objet du marché et peuvent porter notamment sur :
+a)	le coût d'utilisation  ;
+b)	la valeur technique de l'offre, notamment la méthode
+proposée et les moyens à employer ;
+c)	le caractère innovant de l'offre  ;
+d)	l'efficacité en matière de protection de
+l'environnement  ;
+e)	le délai d'exécution pour les marchés de travaux
+comportant une variante ;
+f)	les spécifications esthétiques et fonctionnelles  ;
+g)	le service après-vente  ;
+h)	 l'assistance technique  ;
+i)	 la date ou le délai de livraison  ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+j)	 le coût des prestations et les garanties fournies.
+D'autres critères peuvent être pris en compte lorsqu'ils
+sont justifiés par l'objet du marché.
+Il est possible, le cas échéant, d'établir un équilibre
+entre les critères de choix et de classification des offres, ou les
+hiérarchiser lorsque l'équilibre n'est pas pris en considération
+pour les marchés d'études. Lesdits critères doivent être
+objectifs, non discriminatoires et en lien direct avec l'objet
+du marché à conclure.
+Lorsque le règlement de consultation ne prévoit pas
+de critères de choix et de classification des offres, le maître
+d'ouvrage ne tient compte que du critère du prix pour attribuer
+le marché.
+4 – Le cas échéant, le nombre minimum ou maximum
+de lots pouvant être attribués à un seul concurrent, lorsque
+les prestations sont alloties conformément aux articles 16 et
+23 ci-dessus.
+5 – Le cas échéant, les conditions selon lesquelles les
+variantes sont admises par rapport à la solution de base prévue
+au cahier des prescriptions spéciales ;
+6 – La ou les monnaies dans lesquelles le prix des
+offres doit être formulé et exprimé, lorsque le concurrent
+n'est pas installé au Maroc. Dans ce cas, pour l'évaluation et
+la comparaison des offres, les montants des offres exprimés
+en monnaies étrangères sont convertis en dirham. Cette
+conversion s'effectue sur la base du cours vendeur du dirham
+en vigueur, adopté par Bank Al-Maghrib, le premier jour
+ouvrable de la semaine précédant celle du jour d'ouverture
+des plis.
+7  –  La ou les langues dans lesquelles doivent être
+établies les pièces contenues dans les dossiers et les offres des
+concurrents.
+II.–  le règlement de consultation est signé par
+l'ordonnateur, son suppléant ou le sous-ordonnateur avant le
+lancement de la procédure de passation du marché.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 39` → dahir n° 1-09-236 [✓]
+- `articles 16 et
+23` → dahir n° 1-09-236 [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 36
+
+*ART. 36. –*
+
+Dossier d'appel d'offres
+1 – Tout appel d'offres fait l'objet d'un dossier établi par
+le maître d'ouvrage qui comprend :
+a)	 une copie de l'avis d'appel d'offres ou de la circulaire,
+selon le cas  ;
+b)	un exemplaire du cahier des prescriptions spéciales  ;
+c)	les plans et les documents techniques, le cas
+échéant  ;
+d)	le modèle de l'acte d'engagement prévu à l'article
+42 ci-après  ;
+e)	les modèles du bordereau des prix et du détail
+estimatif lorsqu'il s'agit d'un marché à prix
+unitaires  ;
+f)	le modèle de la décomposition du montant global
+par poste avec ou sans indication des quantités
+forfaitaires, le cas échéant, lorsqu'il s'agit d'un
+marché à prix global  ;
+g)	le modèle du cadre du sous-détail des prix, le cas
+échéant  ;
+h)	le modèle de la déclaration sur l'honneur prévue à
+l'article 39 ci-après  ;
+i)	 le règlement de consultation prévu à l'article 35 ci-
+dessus.
+2 – Le maître d'ouvrage doit faire parvenir aux membres
+de la commission d'appel d'offres le dossier d'appel d'offres
+au moins huit (8) jours avant l'envoi de l'avis pour publication.
+Les membres susmentionnés disposent d'un délai de huit
+(8) jours francs pour faire part au maître d'ouvrage de leurs
+observations.
+3 – Les dossiers d'appel d'offres doivent être disponibles
+avant la publication de l'avis d'appel d'offres prévu à l'article
+37 ci-après et mis à la disposition des candidats dès la parution
+du premier avis d'appel d'offres et jusqu'à la date limite de
+remise des offres.
+Les dossiers d'appel d'offres peuvent être envoyés aux
+candidats par voie postale, sur demande écrite de leur part, à
+leur frais et sous leur responsabilité. Toutefois, cette possibilité
+n'est pas applicable aux dossiers d'appel d'offres comportant
+des plans ou des documents techniques.
+En ce qui concerne les modalités d'application de ladite
+possibilité quant aux marchés de l'administration des Habous
+publics, il est fait référence aux dispositions de l'arrêté du
+ministre chargé des finances, en vigueur dans les marchés
+de l'Etat.
+Le maître d'ouvrage doit tenir un registre dans lequel
+il inscrit les noms des candidats ayant procédé au retrait du
+dossier d'appel d'offres, avec indication de l'heure et de la
+date du retrait.
+Lorsque le dossier d'appel d'offres n'est pas remis,
+pour quelque raison que ce soit, au concurrent ou à son
+représentant qui s'est présenté sur le lieu indiqué dans l'avis
+d'appel d'offres, le maître d'ouvrage doit lui délivrer, le même
+jour, une attestation exposant le motif de la non remise du
+dossier et indiquant le jour prévu pour son retrait en vue de
+lui permettre la préparation de son dossier. Une copie de cette
+attestation est conservée dans l'archive.
+En cas de non remise du dossier au jour indiqué dans
+l'attestation qui lui a été délivrée, le concurrent peut saisir,
+par lettre recommandée avec accusé de réception, l'autorité
+dont relève le maître d'ouvrage concerné pour lui exposer les
+circonstances de présentation de sa demande pour l'obtention
+d'un dossier et la réponse qu'il a reçue.
+Lorsque le bien-fondé de la requête est établi, ladite
+autorité ordonne au maître d'ouvrage la remise immédiate
+du dossier d'appel d'offres au requérant ou ordonne, le cas
+échéant, le report de la date d'ouverture des plis lorsque le
+délai restant ne permet pas au candidat de préparer son dossier.
+4 – Le dossier d'appel d'offres est remis gratuitement aux
+concurrents, à l'exception des plans et documents techniques
+dont la reproduction nécessite un matériel technique spécifqiue.
+L'arrêté du ministre chargé des finances fixant le prix de remise
+desdits documents est applicable dans ce cas.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+5  – Le maître d'ouvrage peut, à titre exceptionnel,
+introduire des modifications dans le dossier d'appel d'offres
+sans changer l'objet du marché. Ces modifications doivent
+être communiquées à tous les concurrents ayant retirés ledit
+dossier et introduites dans les dossiers mis à la disposition des
+autres concurrents.
+Lorsque les modifciations nécessitent la publication d'un
+avis rectificatif, celui-ci doit être publié conformément aux
+dispositions du paragraphe 2-I du premier alinéa de l'article
+37 ci-après.
+Ces modifications peuvent intervenir à tout moment
+à l'intérieur du délai initial de la publication de l'avis, à
+condition que la séance d'ouverture des plis ne soit tenue
+qu'après expiration d'un délai minimum de dix (10) jours à
+compter du lendemain de la date de la dernière publication
+de modification, sans que la date de la nouvelle séance ne soit
+antérieure à celle prévue par la première.
+Les modifications susmentionnées peuvent être
+introduites dans les cas suivants :
+– lorsque le maître d'ouvrage décide d'introduire des
+modifications dans le dossier d'appel d'offres qui
+nécessitent un délai supplémentaire pour la préparation
+des offres  ;
+– lorsqu'il s'agit de redresser des erreurs manifestes
+constatées dans l'avis publié  ;
+– lorsque le maître d'ouvrage constate, après publication
+de l'avis, que le délai qui doit courir entre la date de
+publication et la séance d'ouverture des plis n'est pas
+conforme au délai légal.
+
+*Entités :* `arrêté du
+ministre chargé des finances` (ARRETE), `arrêté du ministre chargé des finances fixant le prix de remise` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article
+42` → arrêté du ministre chargé des finances [✓]
+- `l'article 39` → arrêté du ministre chargé des finances [✓]
+- `l'article 35` → arrêté du ministre chargé des finances [✓]
+- `l'article
+37` → arrêté du ministre chargé des finances [✓]
+- `l'article
+37` → arrêté du ministre chargé des finances fixant le prix de remise [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 37
+
+*ART. 37. –*
+
+Publicité de l'appel d'offres
+I – Appel d'offres ouvert
+1 – Tout appel d'offres ouvert doit faire l'objet d'un avis
+indiquant :
+a)	l'objet de l'appel d'offres avec indication, le cas
+échéant, du lieu d'exécution  ;
+b)	l'autorité qui procède à l'appel d'offres  ;
+c)	le ou les bureaux et l'adresse du maître d'ouvrage
+d'où le dossier d'appel d'offres peut être retiré  ;
+d)	le bureau et l'adresse du maître d'ouvrage où les
+offres sont déposées ou adressées  ;
+e)	le lieu, le jour et l'heure fixés pour la tenue de la
+séance publique d'ouverture des plis, en précisant
+que les concurrents peuvent remettre, directement,
+leurs plis au président de la commission d'appel
+d'offres à l'ouverture de la séance  ;
+f)	les pièces justificatives prévues au dossier d'appel
+d'offres, que tout concurrent doit fournir  ;
+g)	le montant en valeur du cautionnement provisoire,
+le cas échéant  ;
+h)	la ou les qualités requises  et la ou les catégories dans
+lesquelles le concurrent doit être classé ou le ou les
+domaines d'activité, tel que fixés conformément à
+la réglementation en vigueur  ;
+i)	 le cas échéant, le lieu, le jour et l'heure fixés pour
+la réception des échantillons, prospectus et notices,
+dans les conditions prévues à l'article 49 ci-après  ;
+j)	 le cas échéant, la date de la réunion ou de la visite des
+lieux que le maître d'ouvrage envisage d'organiser
+à l'intention des concurrents, avec mention que la
+date de cette réunion ou de cette visite doit se situer
+au cours du deuxième tiers du délai qui court entre
+la publication de l'avis dans le deuxième journal et
+la date fixée pour l'ouverture des plis  ;
+k)	l'adresse électronique, le cas échéant, du site utilisé
+pour la publicité de l'appel d'offres ;
+l)	 le cas échéant, la mention du journal et du site
+électronique ayant publié le programme prévisionnel
+annonçant le lancement du marché objet de l'avis
+d'appel d'offres, à moins que le marché concerné ne
+soit pas inclus dans ledit programme.
+2 – L'avis d'appel d'offres ouvert, prévu au paragraphe
+1 ci-dessus, doit être publié dans deux journaux à diffusion
+nationale, au moins, choisis par le maître d'ouvrage, dont l'un
+est en langue arabe et l'autre en langue étrangère.
+L'avis peut également être publié, chaque fois que
+possible, sur le site du ministère des Habous et des affaires
+islamiques.
+Il peut être parallèlement porté à la connaissance des
+concurrents éventuels et, le cas échéant, des organismes
+professionnels, par publication dans le Bulletin officiel des
+annonces légales, judiciaires et administratives, par des
+publications spécialisées ou par tout autre moyen de publicité,
+notamment par voie électronique.
+Ledit avis doit être publié vingt et un (21) jours francs
+au moins avant la date fixée pour la réception des offres. Ce
+délai court à partir du lendemain de la date de publication de
+l'avis dans le journal paru le deuxième.
+Toutefois, le délai de vingt et un (21) jours précité est
+porté à quarante (40) jours au moins dans les cas suivants :
+– pour les marchés de travaux dont le prix estimé est égal
+ou supérieur à soixante-trois millions (63.000.000) de
+dirhams hors taxes  ;
+– pour les marchés de fournitures et de services dont le
+prix estimé est égal ou supérieur à un million cinq cent
+mille (1.500.000) dirhams hors taxes.
+Les seuils prévus ci-dessus peuvent être modifiés par
+arrêté du ministre des Habous et des affaires islamiques, après
+avis du conseil supérieur du contrôle des finances des Habous
+publics.
+II – Appel d'offres restreint
+L'appel d'offres restreint fait l'objet d'une circulaire
+adressée par lettre recommandée avec accusé de réception,
+le même jour, à tous les concurrents que le maître d'ouvrage
+décide de consulter. Ladite circulaire doit contenir les mêmes
+indications prévues au paragraphe 1- I du présent article.
+Cet envoi doit être effectué quinze (15) jours francs au
+moins avant la date prévue pour la séance d'ouverture des plis.
+Ce délai court à compter du lendemain de la date d'envoi
+de la circulaire.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté du ministre des Habous et des affaires islamiques` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 49` → arrêté du ministre des Habous et des affaires islamiques [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 38
+
+*ART. 38. –*
+
+Information des concurrents
+Tout concurrent peut demander au maître d'ouvrage,
+par lettre recommandée avec accusé de réception ou par fax
+confirmé, de lui fournir des éclaircissements ou renseignements
+concernant l'appel d'offres ou les documents y afférents.
+Cette demande n'est recevable que si elle parvient au maître
+d'ouvrage au moins sept (7) jours avant la date prévue pour
+la séance de l'ouverture des plis.
+Tout éclaircissement ou renseignement, fourni par le
+maître d'ouvrage à un concurrent à la demande de ce dernier
+doit être communiqué, le même jour et dans les mêmes
+conditions, trois (3) jours au moins avant la date prévue pour
+la séance de l'ouverture des plis, aux autres concurrents ayant
+retiré le dossier d'appel d'offres et ce, par lettre recommandée
+avec accusé de réception, par fax confirmé ou par voie
+électronique. Il est également mis à la disposition de tout autre
+concurrent et communiqué aux membres de la commission
+d'appel d'offres.
+Lorsqu'il est procédé à une réunion ou à une visite des
+lieux, conformément à l'alinéa (j) du paragraphe 1- I de l'article
+37 ci-dessus, le maître d'ouvrage dresse un procès-verbal
+mentionnant les demandes d'éclaircissement et les réponses
+formulées lors de cette réunion ou visite. Ce procès-verbal
+est communiqué à l'ensemble des concurrents ainsi qu'aux
+membres de la commission d'appel d'offres.
+Les concurrents qui n'ont pas assisté à la réunion ou qui
+n'ont pas participé à la visite des lieux ne peuvent, en aucun
+cas, introduire une réclamation au sujet du déroulement de la
+réunion ou de la visite des lieux tels que relatés dans le procès-
+verbal qui leur a été communiqué ou mis à leur disposition
+par le maître d'ouvrage.
+
+*Citations :*
+
+- `l'article
+37` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 39
+
+*ART. 39. –*
+
+Justification des capacités et des qualités
+conformément aux dispositions de l'article 36 ci-dessus,
+le concurrent est tenu, aux fins de justifier ses capacités et ses
+compétences, de présenter un dossier administratif, un dossier
+technique et, le cas échéant, un dossier additif.
+A) Le dossier administratif comprend :
+1– 	 Une déclaration sur l'honneur, en un exemplaire
+unique, indiquant le nom, le prénom, la qualité et
+le domicile du concurrent et s'il agit au nom d'une
+société, la raison sociale, la forme juridique de la
+société, le capital social, l'adresse du siège social,
+ainsi que la qualité en laquelle il agit et les pouvoirs
+qui lui sont conférés.
+La déclaration indique également le numéro d'inscription
+au registre de commerce, le numéro de la taxe professionnelle,
+le numéro d'affiliation à la caisse nationale de sécurité sociale
+pour les concurrents installés au Maroc et le numéro de
+compte courant postal, bancaire ou à la trésorerie générale
+du Royaume.
+La déclaration sur l'honneur doit contenir également
+les indications suivantes :
+a)	l'engagement du concurrent à couvrir, dans les
+limites et les conditions fixées dans  les cahiers des
+charges, par une police d'assurance, les risques
+découlant de son activité professionnelle  ;
+b)	l'engagement du concurrent, s'il envisage de recourir
+à la sous-traitance, à veiller à ce qu'elle ne dépasse
+pas cinquante pour cent (50%) du montant du
+marché et qu'elle ne porte pas sur le lot ou le corps
+d'état principal du marché et à s'assurer que ses
+sous-traitants remplissent également les conditions
+prévues à l'article 14 ci-dessus  ;
+c)	l'attestation qu'il n'est pas en liquidation judiciaire ou
+en redressement judiciaire, et s'il est en redressement
+judiciaire, qu'il est autorisé par l'autorité judiciaire
+compétente à poursuivre l'exercice de son activité  ;
+d)	l'engagement à ne pas recourir par lui-même ou
+par personne interposée à des pratiques de fraude
+ou de corruption des personnes qui interviennent,
+à quelque titre que ce soit, dans les différentes
+procédures de passation, de gestion ou d'exécution
+d'un marché  ;
+e)	l'engagement à ne pas faire, par lui-même ou par
+personne interposée, de promesses, de dons ou
+de présents, en vue d'influer sur les différentes
+procédures de passation d'un marché et au cours
+des étapes de son exécution  ;
+f)	la certification de l'exactitude des renseignements
+contenus dans la déclaration sur l'honneur et dans
+les pièces fournies dans son dossier de candidature.
+2– 	 La ou les pièces justifiant les pouvoirs conférés à la
+personne agissant au nom du concurrent. Ces pièces
+varient selon les formes juridiques du concurrent :
+– s'il s'agit d'une personne physique agissant pour son
+propre compte, aucune pièce n'est exigée  ;
+– s'il s'agit d'un représentant, celui-ci doit présenter,
+selon le cas :
+•	 une copie conforme de la procuration légalisée,
+lorsqu'il agit au nom d'une personne physique  ;
+•	 un extrait du statut de la société ou du procès-
+verbal de l'organe compétent conférant le pouvoir,
+selon la forme juridique de la société, ou des deux
+lorsqu'il agit au nom d'une personne morale  ;
+•	 le cas échéant, l'acte par lequel la personne
+habilitée délègue son pouvoir à une tierce
+personne.
+3– 	 Une attestation ou sa copie certifiée conforme
+à l'original délivrée depuis moins d'un an par
+l'administration compétente du lieu d'imposition
+certifiant que le concurrent est en situation fiscale
+régulière ou à défaut de paiement, qu'il a constitué
+les garanties prévues à l'article 14 ci-dessus. Cette
+attestation doit mentionner l'activité au titre de
+laquelle le concurrent est imposé  ;
+4– 	 une attestation ou sa copie certifiée conforme
+à l'original délivrée depuis moins d'un an par la
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+caisse nationale de sécurité sociale certifiant que
+le concurrent est en situation régulière envers cet
+organisme conformément aux dispositions prévues
+à cet effet à l'article 14 ci-dessus  ;
+5– 	 Le récépissé du cautionnement provisoire ou le cas
+échéant, l'attestation de la caution personnelle et
+solidaire en tenant lieu ;
+6– 	 Le certificat d'immatriculation au registre de
+commerce pour les personnes assujetties à
+l'obligation d'immatriculation conformément à la
+législation en vigueur.
+Toutefois, les concurrents non installés au Maroc doivent
+fournir l'équivalent des attestations prévues aux paragraphes
+3, 4 et 6 ci-dessus, délivrées par les administrations ou
+les organismes compétents de leurs pays d'origine ou de
+provenance.
+A défaut de la délivrance des documents susmentionnés
+par les administrations ou les organismes compétents de leur
+pays d'origine ou de provenance concerné, lesdites attestations
+peuvent être remplacées par une déclaration faite par l'intéressé
+devant une autorité judiciaire ou administrative, un notaire
+ou un organisme professionnel habilité du pays d'origine ou
+de provenance.
+B) Le dossier technique comprend :
+1– 	 Une note indiquant les moyens humains et
+techniques dont dispose le concurrent, le lieu, la
+date, la nature et l'importance des prestations qu'il a
+exécutées ou à l'exécution desquelles il a contribué  ;
+2– 	 Ladite note est assortie, lorsque le dossier d'appel
+d'offres le prévoit, des attestations délivrées par
+les hommes de l'art sous la direction desquels
+lesdites prestations ont été exécutées, ou par les
+bénéficiaires publics ou privés desdites prestations.
+Chaque attestation précise, notamment, la nature
+et le montant des prestations, les délais et dates de
+réalisation, l'appréciation ainsi que le nom et la
+qualité du signataire.
+Lorsqu'un système de qualification et de classification
+est prévu pour les marchés concernés par les prestations, le
+certifciat délivré dans le cadre dudit système tient lieu du dossier
+technique, conformément aux dispositions réglementaires
+régissant ledit système, sauf stipulation contraire du règlement
+de consultation.
+Lorsqu'un système d'agrément est prévu pour les marchés
+concernés par les prestations, le certificat délivré dans le cadre
+dudit système tient lieu du dossier technique, conformément
+aux dispositions réglementaires régissant ledit système, sauf
+stipulation contraire du règlement de consultation.
+C) Le dossier additif comprend toutes les pièces
+complémentaires exigées par le dossier d'appel d'offres en raison
+de l'importance ou de la complexité de la prestation objet du
+marché.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 36` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 14` → BO_7488-bis_Fr [✓]
+- `l'article 14` → BO_7488-bis_Fr [✓]
+- `l'article 14` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 40
+
+*ART. 40. –*
+
+Inexactitude de la déclaration sur l'honneur
+L'inexactitude de la déclaration sur l'honneur peut
+entraîner les sanctions suivantes ou l'une d'entre elles seulement,
+sans préjudice, le cas échéant, des poursuites pénales :
+a)	Par décision du ministre des Habous et des affaires
+islamiques, après avis du Conseil supérieur du
+contrôle des finances des Habous publics, l'exclusion
+temporaire ou définitive du concurrent des marchés
+lancés par les services de l'administration des
+Habous.
+Ladite décision peut être publiée sur le site électronique
+du ministère des Habous et des affaires islamiques.
+b)	Par décision de l'autorité compétente et aux frais et
+risques du déclarant :
+– soit le recours à l'exécution directe  ;
+– soit la résiliation du marché avec passation ou non d'un
+nouveau marché.
+Les excédents des dépenses résultant de l'exécution
+directe ou de la passation d'un nouveau marché après
+résiliation sont prélevés sur les sommes qui peuvent être dues
+au déclarant sans préjudice des droits à exercer contre lui en
+cas d'insuffisance. Les diminutions éventuelles des dépenses
+restent acquises au maître d'ouvrage.
+Dans les cas prévus aux paragraphes a) et b) ci-dessus, le
+concurrent est invité, au préalable, à présenter ses observations
+dans le délai imparti par le maître d'ouvrage et qui ne peut être
+inférieur à quinze (15) jours.  La décision de sanction, qui doit
+être motivée, est notifié au concurrent.
+
+*Organisations :* Conseil supérieur du
+contrôle des finances
+
+
+## Article 41
+
+*ART. 41. –*
+
+Pièces à fournir par les organismes publics
+Lorsque le concurrent est une personne morale de droit
+public, les dispositions des articles 14, 39 (A), 40 et 112 du
+présent arrêté ne lui sont pas applicables.
+Toutefois, il doit fournir ce qui suit :
+– une copie du texte l'habilitant à exécuter les prestations
+objet du marché  ;
+– une attestation ou sa copie certiféie conforme à l'original
+délivrée depuis moins d'un an par l'administration
+compétente du lieu d'imposition, certifiant que le
+concurrent est en situation fiscale régulière ou à défaut
+de paiement, qu'il a constitué les garanties prévues à
+l'article 14 ci-dessus. Cette attestation qui n'est exigée
+que pour les organismes soumis au régime fiscal, doit
+mentionner l'activité au titre de laquelle le concurrent
+est imposé  ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– une attestation ou sa copie certiféie conforme à l'original
+délivrée depuis moins d'un an par la caisse nationale
+de sécurité sociale, certifiant que le concurrent est
+en situation régulière vis-à-vis de cet organisme,
+conformément aux dispositions prévues à cet effet à
+l'article 14 ci-dessus. Toutefois, ladite attestation n'est
+exigée que pour les organismes dont le personnel est
+affilié à la caisse nationale de sécurité sociale  ;
+– le récépissé du cautionnement provisoire ou le cas
+échéant, l'attestation de la caution personnelle et
+solidaire en tenant lieu.
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `articles 14, 39` → arrêté [✓]
+- `l'article 14` → arrêté [✓]
+- `l'article 14` → arrêté [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 42
+
+*ART. 42. –*
+
+Contenu des dossiers des concurrents
+Les dossiers présentés par les concurrents doivent
+comporter, outre le cahier des prescriptions spéciales paraphé
+et signé, les dossiers administratif et technique et le cas
+échéant, le dossier additif, prévus à l'article 39 ci-dessus, une
+offre financière, et lorsque le règlement de consultation l'exige,
+une offre technique au titre de la solution de base et/ou au titre
+de la solution variante.
+1 – L'offre financière comprend :
+a)	L'acte d'engagement par lequel le concurrent
+s'engage à réaliser les prestations objet du marché
+conformément aux conditions prévues au cahier des
+charges et moyennant un prix qu'il propose. Ledit
+acte est établi en un seul exemplaire sur la base ou
+selon l'imprimé-type en vigueur dans les marchés
+de l'Etat.
+Cet acte, dûment rempli et qui doit comporter le relevé
+d'identité bancaire (RIB), est signé par le concurrent ou son
+représentant habilité. Ledit représentant ne peut suppléer plus
+d'un concurrent à la fois pour le même marché.
+Lorsque l'acte est souscrit par un groupement tel que
+prévu à l'article 110 ci-dessous, il doit porter la signature de
+chaque membre du groupement  ;
+b)	Le bordereau des prix et le détail estimatif pour les
+marchés à prix unitaires ou la décomposition du
+montant global, le cas échéant, pour les marchés à
+prix global, établis conformément aux modèles fixés
+par le maître d'ouvrage et fgiurant dans le dossier
+d'appel d'offres.
+Le montant de l'acte d'engagement et les prix unitaires
+du bordereau des prix et du détail estimatif doivent être libellés
+en chiffres et en toutes lettres. Il en est de même pour les prix
+indiqués dans la décomposition du montant global. Lorsque
+le même prix est indiqué en chiffres et en lettres et qu'une
+discordance entre ces deux modes d'expression est constatée,
+le prix indiqué en toutes lettres prévaut.
+En cas de discordance entre les indications du prix dans
+ces différents documents, les prix écrits en toutes lettres dans
+le bordereau des prix ou, le cas échéant, dans la décomposition,
+doivent être considérés exactes pour établir le montant réel de
+l'acte d'engagement.
+2 – L'offre technique prévue à l'article 43 ci-dessous
+comporte, notamment, les pièces techniques relatives à
+l'exécution des prestations.
+
+*Citations :*
+
+- `l'article 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 110` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 43` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 43
+
+*ART. 43. –*
+
+Présentation d'une offre technique
+Le règlement de consultation peut exiger des concurrents
+la présentation d'une offre technique lorsque la nature
+particulière des prestations à exécuter le justifie, du fait de
+leur complexité ou de l'importance des moyens à mettre en
+œuvre pour leur réalisation.
+L'offre technique peut, selon l'objet du marché, porter
+notamment sur la méthodologie en précisant les avantages
+techniques qu'elle apporte et la méthode d'évaluation de
+leur impact financier, les moyens à mettre en œuvre pour
+l'exécution des prestations, le planning de réalisation et les
+garanties offertes au titre de la prestation.
+À cet effet, le règlement de consultation doit prévoir
+les pièces devant constituer l'offre technique et les critères
+d'admissibilité, de choix et de classification des offres.
+L'offre technique peut être établie pour la solution de
+base, pour la solution variante le cas échéant, ou pour les
+deux ensembles.
+
+
+## Article 44
+
+*ART. 44. –*
+
+Présentation des dossiers des concurrents
+Le dossier présenté par chaque concurrent est mis dans
+un pli fermé portant ce qui suit :
+– le nom et l'adresse du concurrent  ;
+– l'objet du marché et, le cas échéant, l'indication du lot
+en cas de marché alloti  ;
+– la date et l'heure de la séance d'ouverture des plis  ;
+– l'avertissement que « le pli ne doit être ouvert que par
+le président de la commission d'appel d'offres lors de
+la séance publique d'ouverture des plis ».
+Ledit pli contient :
+1 – Deux enveloppes distinctes lorsque l'offre technique
+n'est pas exigée :
+– la première enveloppe contient les dossiers administratif
+et technique, le cahier des prescriptions spéciales signé
+et paraphé par le concurrent ou la personne habilitée
+à cet effet et le cas échéant, le dossier additif prévu à
+l'article 39 ci-dessus. Cette enveloppe doit être fermée
+et porter de façon apparente la mention « dossiers
+administratif et technique » ;
+– la deuxième enveloppe contient l'offre financière. Elle
+doit être fermée et porter de façon apparente la mention
+« offre financière ».
+2 – Trois enveloppes distinctes lorsque la présentation
+d'une offre technique, incluant ou non une offre variante, est
+exigée :
+a) la première enveloppe contient les dossiers
+administratif et technique, le cahier des prescriptions spéciales
+signé et paraphé par le concurrent ou la personne habilitée à
+cet effet et le cas échéant, le dossier additif prévu à l'article 39
+ci-dessus. Cette enveloppe doit être fermée et porter de façon
+apparente la mention « dossiers administratif et financier »  ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+b) la deuxième enveloppe contient l'offre financière
+du soumissionnaire. Elle doit être fermée et porter de façon
+apparente la mention « offre financière »  ;
+c) la troisième enveloppe contient l'offre technique. Elle
+doit être fermée et porter de façon apparente la mention « offre
+technique ».
+Les enveloppes prévues aux paragraphes 1 et 2 ci-dessus
+doivent porter de manière apparente les mentions suivantes :
+– le nom et l'adresse du concurrent  ;
+– l'objet du marché et, le cas échéant, l'indication du lot  ;
+– la date et l'heure de la séance d'ouverture des plis.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 39` → BO_7488-bis_Fr [✓]
+- `l'article 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 45
+
+*ART. 45. –*
+
+Offres comportant des variantes
+Lorsque le règlement de consultation prévoit la
+présentation d'offres variantes par rapport à la solution de
+base prévue au cahier des prescriptions spéciales, ce règlement
+doit en préciser l'objet, les limites et les conditions de base.
+Sauf stipulations contraires du règlement de consultation,
+la présentation d'offres variantes n'implique pas l'obligation
+pour le soumissionnaire de présenter une offre pour la solution
+de base initialement prévue.
+Le règlement de consultation doit fixer les modalités
+d'examen des solutions de base et des offres variantes.
+Les offres variantes présentées par les concurrents
+font l'objet d'un pli distinct de l'offre de base éventuellement
+proposée. Lesdites offres doivent comporter les mêmes pièces
+que celles prévues à l'article 42 ci-dessus, à l'exception des
+pièces du dossier administratif. Dans le cas où le candidat ne
+présente que des offres variantes, le pli contenant celles-ci doit
+répondre aux conditions de présentation des offres prévues
+à l'article 44 ci-dessus et porter en outre la mention « offre
+variante ».
+
+*Citations :*
+
+- `l'article 42` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 44` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 46
+
+*ART. 46. –*
+
+Dépôt des plis des concurrents
+Les plis sont, au choix du concurrent, soit :
+– déposés, contre récépissé, dans le bureau du maître
+d'ouvrage indiqué dans l'avis d'appel d'offres  ;
+– envoyés, par courrier recommandé avec accusé de
+réception, au bureau précité  ;
+– remis, séance tenante, au président de la commission
+d'appel d'offres au début de la séance et avant l'ouverture
+des plis.
+Le délai pour la réception des plis expire à la date
+et à l'heure fixées par l'avis d'appel d'offres pour la séance
+d'ouverture des plis.
+Les plis déposés ou reçus postérieurement au jour et à
+l'heure fixés ne sont pas admis.
+A leur réception, les plis sont enregistrés par le maître
+d'ouvrage dans leur ordre d'arrivée, sur un registre spécial.
+Le numéro d'enregistrement ainsi que la date et l'heure
+d'arrivée sont portés sur le pli remis.
+Les plis doivent rester fermés et tenus en lieu sûr jusqu'à
+leur ouverture dans les conditions prévues à l'article 51
+ci-après.
+
+*Citations :*
+
+- `l'article 51` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 47
+
+*ART. 47. –*
+
+Retrait des plis
+Tout pli déposé ou reçu peut être retiré antérieurement
+au jour et à l'heure fixés pour l'ouverture des plis.
+Le retraît du pli fait l'objet d'une demande écrite et
+signée par le concurrent ou son représentant dûment habilité.
+La date et l'heure du retrait sont enregistrées par le maître
+d'ouvrage sur le registre spécial prévu à l'article 46 ci-dessus.
+Les concurrents ayant procédé au retrait de leurs plis
+peuvent, dans les conditions prévues à l'article 46 ci-dessus,
+présenter d'autres plis.
+
+*Citations :*
+
+- `l'article 46` → BO_7488-bis_Fr [✓]
+- `l'article 46` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 48
+
+*ART. 48. –*
+
+Délai de validité de l'offre
+Sous réserve des dispositions de l'article 47 ci-dessus, les
+soumissionnaires demeurent engagés par leurs offres pendant
+un délai de soixante (60) jours, à compter de la date d'ouverture
+des plis. Toutefois, ledit délai peut être prorogé à quatre-vingt-
+dix (90) jours lorsque le cahier des prescriptions spéciales le
+prévoit.
+Lorsque la commission d'appel d'offres estime ne pas
+être en mesure d'effectuer son choix pendant ledit délai, le
+maître d'ouvrage peut, par lettre recommandée avec accusé
+de réception, proposer une prorogation de ce délai. Seuls
+les soumissionnaires ayant donné leur accord, par lettre
+recommandée avec accusé de réception adressée au maître
+d'ouvrage, demeurent engagés pendant ce nouveau délai.
+
+*Citations :*
+
+- `l'article 47` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 49
+
+*ART. 49. –*
+
+Dépôt des échantillons
+Le dossier d'appel d'offres peut prévoir le dépôt
+d'échantillons et/ou la présentation de prospectus, notices ou
+tout autre document technique.
+Le dépôt d'échantillons ne doit être requis des
+concurrents que si la nature des prestations l'exige et en cas
+d'absence de tout autre moyen de nature à décrire et à définir,
+de manière claire et suffisamment précise, les caractéristiques
+techniques et les spécifications de la prestation requise.
+Les échantillons, prospectus, notices ou autres
+documents techniques doivent être déposés au plus tard le jour
+ouvrable précédant la date et l'heure fixées pour l'ouverture
+des plis, prévues à l'avis d'appel d'offres, contre un accusé de
+réception délivré par le maître d'ouvrage.
+Aucun échantillons, prospectus, notices ou autre
+document technique n'est accepté au-delà de cette date.
+Il est procédé à l'examen des échantillons, prospectus,
+notices ou autres documents techniques dans les conditions
+prévues à l'article 53 ci-après.
+
+*Citations :*
+
+- `l'article 53` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 50
+
+*ART. 50. –*
+
+Commission d'appel d'offres
+1 – La commission d'appel d'offres se compose des
+membres ci-après dont la présence est obligatoire :
+– un représentant du maître d'ouvrage, président  ;
+– deux autres représentants du maître d'ouvrage dont l'un,
+au moins, relève du service concerné par la prestation
+objet du marché  ;
+– un représentant du contrôleur financier central ou un
+représentant du contrôleur local concerné  ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– un représentant de l'inspection générale des Habous
+lorsque le montant estimé du marché est supérieur
+à cinq millions (5.000.000) de dirhams toutes taxes
+comprises.
+La commission peut également comprendre, sur
+demande du maître d'ouvrage ou d'un de ses membres, toute
+autre personne, expert ou technicien, dont la participation
+est jugée utile.
+En cas d'absence d'un membre de la commission dont la
+présence est obligatoire à la tenue de la séance, le président de
+la commission d'appel d'offres reporte la date de l'ouverture
+des plis de quarante-huit heures et informe tous les membres
+de la commission ainsi que les concurrents de la nouvelle date
+et du lieu de la séance d'ouverture des plis. En cas de nouvelle
+absence, la commission peut procéder à l'ouverture des plis.
+2  –  L'autorité compétente ou le sous-ordonnateur
+désigne, par décision, soit nommément soit par fonction, le
+président de la commission d'appel d'offres et la personne
+chargée de le suppléer en cas d'absence ou d'empêchement  ;
+3 – Les membres de la commission sont convoqués à la
+diligence du maître d'ouvrage. La convocation et le dossier
+d'appel d'offres, tenant compte le cas échéant, des observations
+formulées par les membres de la commission ainsi que tout
+document remis aux concurrents, doivent être déposés dans
+les services des membres concernés de ladite commission sept
+(7) jours francs au moins avant la date fixée pour la séance
+d'ouverture des plis.
+Toute observation à l'issu d'un réexamen desdits dossiers
+doit être formulée avant la séance d'ouverture des plis.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* Commission d'appel d'offres
+1
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 51
+
+*ART. 51. –*
+
+Ouverture des plis des concurrents en séance
+publique
+I – Dispositions communes :
+1– 	 L'ouverture des plis des concurrents est effectuée
+en séance publique. Avant l'ouverture de la séance
+publique, le président remet aux membres de la
+commission le support écrit contenant l'estimation
+du coût des prestations, établie conformément à
+l'article 11 ci-dessus.
+2– 	 Le président ouvre la séance au lieu, au jour et à
+l'heure fixée  ; si ce jour est déclaré férié ou chômé,
+la réunion se tient le jour ouvrable suivant à la même
+heure.
+3– 	 Le président demande aux membres de la
+commission de formuler leurs observations sur les
+vices éventuels qui entachent la procédure. Après
+s'être assuré du bien-fondé desdites observations,
+il doit mettre fin à la procédure et en aviser à haute
+voix les différents concurrents.
+Lorsque le président ne s'assure pas du bien-fondé de
+l'observation relevée par l'un des membres de la commission,
+il ordonne que la réserve soit inscrite au procès-verbal de la
+séance et demande, sous sa responsabilité, de poursuivre la
+procédure.
+4– 	 Le président cite, le cas échéant, les journaux et les
+publications ayant publié l'avis d'appel d'offres.
+5– 	 Le président dépose sur le bureau tous les plis reçus,
+invite les concurrents présents qui n'auraient pas
+encore déposés leurs plis à les remettre séance
+tenante et invite également les concurrents
+dont les dossiers sont incomplets, à produire les
+pièces manquantes sous enveloppes fermées. La
+commission arrête, dès lors, définitivement la liste
+des plis reçus.
+6– 	 Le président ouvre les plis contenant les dossiers des
+concurrents et y vérifie l'existence des enveloppes
+prévues au paragraphe 1 de l'article 44 ci-dessus.
+7– 	 Le président ouvre ensuite l'enveloppe portant la
+mention « dossiers administratif et technique »,
+s'assure que ladite enveloppe contienne les pièces
+requises pour ces deux dossiers et, le cas échéant,
+pour le dossier additif et dresse un état des pièces
+fournies par chaque concurrent.
+8– 	 Après l'accomplissement de cette formalité, la
+séance publique est levée, les concurrents et le public
+se retirent de la salle.
+9– 	 La commission se réunit à huis clos pour l'examen
+des dossiers administratif et technique et écarte :
+a)	les concurrents exclus temporairement ou
+définitivement conformément aux dispositions
+de l'article 40 ou de l'article 112 du présent arrêté  ;
+b)	les concurrents qui n'ont pas respecté les
+dispositions de l'article 44 ci-dessus quant à la
+présentation de leurs dossiers  ;
+c)	les concurrents non habilités pour soumissionner  ;
+d)	les concurrents dont les capacités financières et
+techniques sont jugées insuffisantes eu égard aux
+critères figurant au règlement de consultation
+prévu à l'article 35 ci-dessus, sachant que l'activité
+des concurrents doit être évaluée sur la base de
+l'ensemble des pièces contenues dans les dossiers
+administratif et technique.
+10– 	Lorsque la commission constate l'inexistence
+de l'une des pièces constitutives du dossier
+administratif, à l'exception du récépissé du
+cautionnement provisoire ou de l'attestation de la
+caution personnelle et solidaire en tenant lieu, ou
+lorsqu' elle relève des erreurs matérielles ou des
+discordances dans les pièces dudit dossier, elle
+retient l'offre du ou des concurrents concernés,
+sous réserve qu'ils fournissent lesdites pièces ou
+qu'ils procèdent aux rectifications nécessaires
+conformément aux conditions prévues à l'article
+55 ci-après.
+11– 	La séance publique est reprise, le président donne
+lecture de la liste des soumissionnaires admissibles,
+sans faire connaître les motifs de l'élimination.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Le président rend, contre décharge, aux concurrents
+écartés présents leurs dossiers sans ouvrir les enveloppes
+contenant les offres techniques et financières et les invite,
+le cas échéant, à récupérer les échantillons, prospectus,
+notices et documents techniques, à l'exception des éléments
+d'informations ayant été à l'origine de l'élimination du
+concurrent, conformément à l'article 61 ci-après.
+II – Lorsque ni l'offre technique, ni l'offre variante, ni
+le dépôt d'échantillons ne sont exigés, la commission poursuit
+ses travaux et procède à l'ouverture et à l'examen des offres
+financières dans les conditions prévues à l'article 55 ci-après.
+III – Lorsque le dépôt des échantillons ou la présentation
+d'une offre technique incluant ou non une offre variante ou
+les deux ensembles sont exigés :
+1– 	 Le président ouvre les enveloppes contenant les
+offres techniques et donne lecture des pièces
+contenues dans chaque enveloppe.
+2– 	 Les membres de la commission paraphent les
+enveloppes contenant les offres financières des
+concurrents à cheval sur les rabats et sur les parties
+sur lesquelles ils s'appliquent. Ces enveloppes
+doivent rester fermées et mises en lieu sûr jusqu'à
+leur ouverture dans les conditions prévues à l'article
+54 ci-après.
+3– 	 Le président fixe, en concertation avec les membres
+de la commission, la date et l'heure de la reprise de la
+séance publique, qu'il communique aux concurrents
+et au public présent.
+4– 	 Cette formalité accomplie, il est mis fin à la séance
+publique et les concurrents et le public se retirent
+de la salle.
+5– 	 A l'issue de cette séance, le président demande au
+maître d'ouvrage de procéder à l'affichage dans
+ses locaux de la date et de l'heure retenues pour la
+prochaine séance publique.
+
+*Entités :* `arrête` (ARRETE), `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 11` → arrête [✓]
+- `l'article 44` → arrête [✓]
+- `l'article 40` → arrêté [✓]
+- `l'article 112` → arrêté [✓]
+- `l'article 44` → arrêté [✓]
+- `l'article 35` → arrêté [✓]
+- `l'article
+55` → arrêté [✓]
+- `l'article 61` → arrêté [✓]
+- `l'article 55` → arrêté [✓]
+- `l'article
+54` → arrêté [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 52
+
+*ART. 52. –*
+
+Examen et évaluation des offres techniques
+Seules sont examinées, les offres techniques présentées
+par les candidats admis à l'issue de l'examen des dossiers
+administratif et technique.
+La commission procède, à huis clos, à l'évaluation des
+offres techniques.
+Elle écarte les soumissionnaires qui ont présentés des
+offres techniques non conformes aux spécifciations exigées par
+le règlement de consultation ou qui ne satisfont pas aux critères
+qui y sont prévus et arrête la liste des soumissionnaires admis.
+Avant d'émettre son avis, la commission d'appel d'offres
+peut consulter tout expert ou technicien ou instituer une sous-
+commission pour analyser les offres techniques. Elle peut
+également demander par écrit à un ou à plusieurs concurrents
+des éclaircissements sur leurs offres techniques.
+Ces éclaircissements doivent se limiter aux documents
+contenus dans les offres techniques.
+Lorsqu'il est fait appel à un expert, à un technicien
+ou à une sous-commission, les conclusions de ceux-ci sont
+consignées dans des rapports signés.
+
+*Entités :* `arrête` (ARRETE)
+
+
+## Article 53
+
+*ART. 53. –*
+
+Examen des échantillons
+Après examen des pièces des dossiers administratif et
+technique, la commission d'appel d'offres se réunit à huis clos
+pour examiner les échantillons, prospectus, notices ou autres
+documents techniques dont la présentation est exigée par le
+dossier d'appel d'offres.
+Seuls sont examinés, les échantillons, prospectus, notices
+ou autres documents présentés par les concurrents admis à
+l'issu de l'examen des dossiers administratif et technique.
+La commission peut, le cas échéant, avant d'émettre
+son avis, consulter tout expert ou technicien ou instituer
+une sous-commission pour apprécier la qualité technique
+des échantillons proposés, prospectus, notices ou autres
+documents techniques.
+Elle peut également demander par écrit à un ou à
+plusieurs concurrents des éclaircissements sur les échantillons
+qu'ils ont proposés, prospectus, notices ou autres documents
+techniques présentés.
+Elle arrête la liste des concurrents dont les échantillons,
+prospectus, notices ou autres documents techniques présentés
+répondent aux spécifciations exigées. Elle arrête, également, la
+liste des concurrents dont les offres sont à écarter, en indiquant
+les insuffisances relevées dans les échantillons, prospectus,
+notices ou autres documents techniques présentés et dresse
+un procès-verbal de ses travaux, signé par le président et les
+membres de la commission.
+
+*Entités :* `arrête` (ARRETE)
+
+
+## Article 54
+
+*ART. 54. –*
+
+Ouverture des enveloppes contenant  les offres
+financières en séance publique
+La séance publique est reprise à l'issu de l'examen
+des dossiers administratif et technique pour le cas prévu au
+paragraphe I de l'article 51 ci-dessus, à la date et à l'heure
+annoncées par le président de la commission d'appel d'offres,
+telles qu'elles ont été affichées par le maître d'ouvrage, pour
+les cas prévus au paragraphe III du même article.
+A la reprise de la séance publique, le président donne
+lecture de la liste des soumissionnaires admis et de celle des
+soumissionnaires non retenus, sans énoncer les motifs de
+l'élimination.
+Le président ouvre ensuite les enveloppes des concurrents
+admis portant la mention « offre financière » et donne lecture
+du contenu des actes d'engagement.
+Les membres de la commission paraphent les actes
+d'engagement ainsi que le bordereau des prix, le détail estimatif
+et la décomposition du montant global, le cas échéant.
+Cette formalité accomplie, la séance publique prend fin.
+Les concurrents et le public se retirent de la salle.
+
+*Citations :*
+
+- `l'article 51` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 55
+
+*ART. 55. –*
+
+Evaluation des offres des concurrents à huis
+clos
+La commission poursuit dès lors ses travaux à huis clos.
+Elle peut consulter tout expert ou technicien qui pourrait
+l'éclairer sur des points particuliers des offres présentées.
+Elle peut également, avant de se prononcer, charger une sous-
+commission pour analyser les offres proposées.
+La commission écarte les soumissionnaires dont les
+offres financières :
+– ne sont pas conformes à l'objet du marché  ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– ne sont pas signées ou sont signées par des personnes
+non habilitées à engager le concurrent  ;
+– expriment des restrictions ou des réserves.
+La commission vérifie ensuite le résultat des opérations
+arithmétiques des offres des soumissionnaires retenus,
+procède, le cas échéant, à la rectifciation des erreurs matérielles
+apparentes et demande au soumissionnaire concerné présent,
+après la suspension de la séance à huis clos, de confirmer le
+montant de son offre tel que rectifié. En cas d'absence du
+soumissionnaire concerné, la commission l'invite par lettre
+recommandée avec accusé de réception et par fax confirmé
+ou par tout autre moyen de communication, à confirmer les
+rectifications susmentionnées. Elle fixe une date à cet effet,
+laquelle ne peut être inférieure à cinq (5) jours à compter du
+lendemain de la date de la séance.
+La commission se réunit à la date et à l'heure fixées,
+s'assure de l'envoi de la lettre recommandée et du fax confirmé
+aux concurrents concernés et procède à l'examen des réponses
+reçues.
+Lorsque le soumissionnaire refuse de rectifier le
+montant de son offre ou qu'il ne répond pas à la demande de
+confirmation dans le délai fixé, la commission écarte son offre
+et son cautionnement temporaire reste, le cas échéant, acquis
+à l'administration des Habous publics.
+La même mesure est, également, applicable lorsque le
+soumissionnaire ne produit pas les pièces manquantes de
+son dossier ou ne procède pas à la rectification des erreurs
+matérielles ou des discordances relevées dans les pièces de
+son dossier, tel que prévu à l'article 51 ci-dessus.
+Dans tous les cas, la commission reprend ses travaux
+et propose au maître d'ouvrage l'acceptation de l'offre
+qu'elle juge la plus avantageuse parmi les offres des autres
+concurrents retenus. Pour les marchés de travaux, l'offre la
+plus avantageuse est la moins-disante.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 51` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 56
+
+*ART. 56. –*
+
+Offre excessive ou anormalement basse
+1 – Offre excessive :
+L'offre la plus avantageuse est jugée excessive lorsqu'elle
+est supérieure de plus de :
+– vingt pour cent (20%) par rapport à l'estimation du coût
+des prestations établie par le maître d'ouvrage pour les
+marchés de travaux  ;
+– vingt-cinq pour cent (25%) par rapport à l'estimation
+du coût des prestations établie par le maître d'ouvrage
+pour les marchés de fournitures et de services.
+Lorsqu'une offre est jugée excessive, elle est écartée par
+la commission d'appel d'offres.
+2 – Offre anormalement basse :
+L'offre la plus avantageuse est jugée anormalement basse
+lorsqu'elle est inférieure de plus de :
+– vingt-cinq pour cent (25%) par rapport à l'estimation
+du coût des prestations établie par le maître d'ouvrage
+pour les marchés de travaux  ;
+– trente-cinq pour cent (35%) par rapport à l'estimation
+du coût des prestations établie par le maître d'ouvrage
+pour les marchés de fournitures et de services.
+Lorsqu'une offre est jugée anormalement basse,
+la commission d'appel d'offres demande, par écrit aux
+concurrents concernés, les précisions qu'elle juge opportunes.
+Après examen des justifications fournies, la commission
+d'appel d'offres peut retenir ou écarter ladite offre en motivant
+sa décision dans le procès-verbal.
+3 – Offre comportant un ou des prix unitaires excessifs
+ou anormalement bas :
+En cas de marché à prix unitaires et lorsqu'un ou
+plusieurs prix unitaires, parmi les prix figurant dans le
+bordereau des prix et/ou dans le détail estimatif de l'offre la
+plus avantageuse, est anormalement bas ou excessif sur la
+base des critères prévus aux paragraphes 1 et 2 du présent
+article, la commission invite le concurrent concerné, par écrit,
+à justifier ce ou ces prix.
+4 – Avant de statuer sur le rejet ou l'acceptation de l'offre
+anormalement basse ou comportant un ou des prix unitaires
+excessifs ou anormalement bas, la commission peut désigner
+une sous-commission pour examiner les justifciations fournies.
+Au vu du rapport établi sous la responsabilité de la sous-
+commission, la commission est fondée à retenir ou à écarter
+ladite offre.
+Les justifciations pouvant être prises en compte se basent
+notamment sur les aspects suivants :
+– l'économie générée par les modèles de fabrication des
+produits, les modalités de la prestation des services et
+les procédés de construction  ;
+– le caractère exceptionnellement favorable des conditions
+d'exécution dont dispose le concurrent  ;
+– l'originalité du projet ou de l'offre  ;
+– la nécessité d'utiliser les ressources au lieu de les laisser
+sans utilisation.
+5 – Les dispositions du présent article ne s'appliquent
+pas aux marchés de services portant sur les études.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 57
+
+*ART. 57. –*
+
+Consultation des concurrents et comparaison
+des offres
+Avant d'émettre son avis, la commission peut, par écrit,
+inviter les soumissionnaires desquels elle juge la nécessité
+d'obtenir tout éclaircissement au sujet de leurs offres. Ces
+éclaircissements, qui doivent être formulés par écrit, doivent
+se limiter aux pièces contenues dans les plis.
+Lorsque la commission considère que les offres les
+plus avantageuses sont équivalentes au vu de l'ensemble des
+éléments, elle peut, pour départager les soumissionnaires, leur
+demander de présenter de nouvelles offres, par écrit.
+Lorsque les soumissionnaires concernés refusent de
+présenter de nouvelles offres à prix inférieurs ou lorsque
+les réductions proposées sont également équivalentes, la
+commission procède à un tirage au sort pour désigner le
+soumissionnaire admissible.
+En cas d'équivalence des offres, la priorité est accordée
+à l'offre présentée par une coopérative de production régie par
+la législation en vigueur.
+
+
+## Article 58
+
+*ART. 58. –*
+
+Appel d'offres infructueux
+1 – La commission déclare l'appel d'offres infructueux si :
+a)	aucune offre n'a été présentée ou déposée  ;
+b)	aucun concurrent n'a été retenu à l'issu de l'examen
+des dossiers administratif et technique  ;
+c)	aucun concurrent n'a été retenu à l'issu de l'examen
+de l'offre technique ou des échantillons  ;
+d)	aucune des offres n'est jugée acceptable au regard
+des critères fixés par le règlement de consultation.
+2 – La déclaration de l'appel d'offres infructueux pour
+le motif cité au a) du premier paragraphe ci-dessus ne peut
+justifier le recours à la procédure négociée.
+
+
+## Article 59
+
+*ART. 59. –*
+
+Caractère confidentiel de la procédure
+Après l'ouverture des plis en séance publique,
+aucun renseignement concernant l'examen des plis, les
+éclaircissements demandés, l'évaluation des offres ou les
+recommandations relatives à l'attribution du marché ne
+doit être communiqué ni aux soumissionnaires ni à toute
+autre personne non habilitée à participer à la procédure de
+concurrence ou de sélection, tant que les résultats d'examen
+des offres n'ont pas été affichés dans les locaux du maître
+d'ouvrage tel que prévu à l'article 61 ci-après.
+
+*Citations :*
+
+- `l'article 61` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 60
+
+*ART. 60. –*
+
+Procès-verbal de la séance d'examen des offres
+La commission d'appel d'offres dresse, séance tenante,
+un procès-verbal de toutes ses réunions. Ce procès-verbal, qui
+ne doit être ni publié ni communiqué aux soumissionnaires,
+indique l'estimation faite par la maître d'ouvrage et enregistre,
+le cas échéant, les observations ou objections présentées au
+cours des opérations d'examen des offres par les membres ou
+par les concurrents ainsi que l'avis de la commission au sujet
+desdites observations ou objections. Il indique également les
+motifs d'élimination des soumissionnaires écartés. Lorsque
+la commission estime que la proposition de désignation
+du moins-disant n'est pas obligatoire, le procès-verbal doit
+contenir les éléments précis sur lesquels elle s'est fondée pour
+recommander à l'autorité compétente de retenir l'offre qu'elle
+juge la plus avantageuse, sur la base des critères fgiurant dans
+le règlement de consultation.
+Ce procès-verbal est signé, séance tenante, par le
+président et les membres de la commission.
+Il est joint, le cas échéant, au procès-verbal de la
+séance d'examen des offres, tout rapport établi par une sous-
+commission, expert ou technicien désigné par la commission
+d'appel d'offres après sa signature.
+Un extrait du procès-verbal est affiché aux locaux du
+maître d'ouvrage dans les vingt-quatre (24) heures qui suivent
+la date d'achèvement des travaux de la commission et ce, pour
+une durée d'au moins quinze (15) jours francs et est également
+publié, chaque fois que possible, au site électronique du
+ministère des Habous et des affaires islamiques.
+
+
+## Article 61
+
+*ART. 61. –*
+
+Résultats définitifs de l'appel d'offres ouvert
+ou restreint
+1 – Les résultats d'examen des offres sont affichés aux
+locaux du maître d'ouvrage et publiés, le cas échéant, sur
+le site électronique du ministère des Habous et des affaires
+islamiques, conformément au modèle en vigueur dans les
+marchés de l'Etat, tel que prévu à l'article 7 du présent arrêté,
+après avis de la commission d'ouverture des plis, dans les
+vingt-quatre (24) heures qui suivent la date d'achèvement des
+travaux de la commission et pour une durée d'au moins quinze
+(15) jours francs.
+2 – Le maître d'ouvrage informe le soumissionnaire
+de l'acceptation de son offre, par lettre recommandée avec
+accusé de réception ou le cas échéant, par fax confirmé, par
+voie électronique ou par tout autre moyen approprié. Cette
+lettre doit lui être adressée dans un délai ne dépassant pas
+dix (10) jours francs à compter de la date d'achèvement des
+travaux de la commission. Dans le même délai, il informe
+également, par lettre recommandée avec accusé de réception,
+les soumissionnaires éliminés du rejet de leurs offres, en leur
+indiquant les motifs de du rejet. Cette lettre est assortie, le
+cas échéant, du récépissé du cautionnement provisoire ou de
+l'attestation de la caution personnelle et solidaire en tenant
+lieu.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Le maître d'ouvrage doit conserver les éléments ayant
+été à l'origine de l'écartement des concurrents pour une durée
+d'au moins cinq ans.
+3 – Aucun soumissionnaire ne peut prétendre à indemnité
+si son offre n'a pas été acceptée ou si l'appel d'offre n'a pas
+été adopté.
+4 – Le choix arrêté par la commission conformément
+aux articles précédents ne peut être modifié par l'autorité
+compétente.
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 7` → arrêté [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 62
+
+*ART. 62. –*
+
+Annulation de l'appel d'offres
+1 – L'autorité compétente peut, sans de ce fait encourir
+aucune responsabilité à l'égard des concurrents et quel que
+soit le stade de la procédure de passation du marché, annuler
+l'appel d'offres dans les cas suivants :
+a)	lorsque les données économiques ou techniques
+des prestations objet de l'appel d'offres ont été
+fondamentalement modifiées  ;
+b)	lorsque des circonstances exceptionnelles rendent
+impossible l'exécution normale du marché  ;
+c)	lorsque le montant des offres reçues dépasse les
+crédits budgétaires alloués au marché  ;
+d)	lorsqu'un vice de procédure a été décelé  ;
+e)	 en l'absence de concurrence  ;
+f)	 en cas de réclamation fondée introduite par un
+concurrent dans les conditions prévues à l'article
+109 ci-après.
+2 – Le maître d'ouvrage doit en informer, par écrit,
+l'attributaire du marché en lui indiquant le ou les motifs
+d'annulation de l'appel d'offres.
+
+*Citations :*
+
+- `l'article
+109` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 63
+
+*ART. 63. –*
+
+Irrecevabilité du recours à la procédure
+négociée
+L'annulation d'un appel d'offres ne justifie pas le recours
+à la procédure négociée.
+Section 2. – Appel d'offres avec présélection
+
+
+## Article 64
+
+*ART. 64. –*
+
+Principes et modalités
+Il peut être passé des marchés par appel d'offres
+avec présélection, lorsque les prestations objet du marché
+nécessitent, en raison de leur complexité ou de leur nature
+particulière, une sélection préalable des candidats, dans une
+première étape, avant d'inviter ceux admis, à déposer des
+offres.
+
+
+## Article 65
+
+*ART. 65. –*
+
+Publicité de l'appel d'offre avec présélection
+L'avis d'appel d'offres avec présélection est publié dans
+les mêmes conditions prévues à l'article 37 ci-dessus pour
+l'appel d'offres ouvert.
+Cet avis indique :
+a)	l'objet de l'appel d'offres avec présélection avec
+indication, le cas échéant, du lieu d'exécution ;
+b)	l'autorité qui procède à l'appel d'offres avec
+présélection  ;
+c)	le ou les bureaux et l'adresse du maître d'ouvrage
+d'où le dossier d'appel d'offres avec présélection peut
+être retiré  ;
+d)	le bureau et l'adresse du maître d'ouvrage où les
+demandes d'admission sont déposées ou adressées  ;
+e)	le lieu, le jour et l'heure fixés pour la tenue de la
+séance d'admission, en précisant que les candidats
+peuvent remettre directement leurs demandes
+d'admission au président de la commission  ;
+f)	les pièces justificatives fixées dans le dossier de la
+présélection que tout candidat doit fournir  ;
+g)	la (ou les) qualités (s) requise (s) et la (ou les)
+catégorie (s) dans laquelle (lesquelles) le concurrent
+doit être classé, pour les marchés de travaux et le
+(ou les) domaine (s) d'activité pour les marchés
+d'études et de maîtrise d'œuvre, conformément à la
+réglementation en vigueur.
+
+*Citations :*
+
+- `l'article 37` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 66
+
+*ART. 66. –*
+
+Règlement de présélection
+Tout appel d'offres avec présélection fait l'objet d'un
+règlement de présélection, établi par le maître d'ouvrage,
+comprenant notamment :
+a)	la liste des pièces à fournir par les candidats
+conformément à l'article 39 ci-dessus, à l'exception
+du récépissé du cautionnement provisoire ou de
+l'attestation de la caution personnelle et solidaire
+en tenant lieu  ;
+b)	les critères d'évaluation des qualités techniques et
+financières des candidats, le cas échéant.
+
+*Citations :*
+
+- `l'article 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 67
+
+*ART. 67. –*
+
+Dossier de présélection
+1 – Tout appel d'offres avec présélection fait l'objet d'un
+dossier établi par le maître d'ouvrage, qui comprend :
+a)	une copie de l'avis de présélection  ;
+b)	une note de présentation de l'objet du marché  ;
+c)	le modèle de la demande d'admission  ;
+d)	le modèle de la déclaration sur l'honneur prévu au
+paragraphe A- alinéa 1 de l'article 39 ci-dessus  ;
+e)	le règlement de présélection prévu à l'article 66 ci-
+dessus.
+2 – Les dossiers de présélection doivent être communiqués
+aux membres de la commission d'admission prévue à l'article
+70 ci-après dans les mêmes conditions prévues au paragraphe
+2 de l'article 36 ci-dessus.
+3 – Les dossiers de présélection doivent être mis à la
+disposition des candidats dès la parution du premier avis
+d'appel d'offres avec présélection et jusqu'à la date limite de
+remise des demandes d'admission des candidats.
+4 – Les dossiers de présélection doivent être remis aux
+candidats dans les mêmes conditions prévues aux paragraphes
+3 et 4 de l'article 36 ci-dessus.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+5  –  Le maître d'ouvrage peut, à titre exceptionnel,
+introduire des modifciations dans le dossier sans changer l'objet
+du marché. Ces modifications doivent être communiquées à
+tous les candidats ayant retiré ledit dossier et mises également
+à la disposition des autres candidats.
+Lorsque lesdites modifications nécessitent le report de
+la date prévue pour la réunion de la commission d'admission,
+ce report doit être publié conformément aux dispositions du
+paragraphe 5 de l'article 36 ci-dessus.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 66` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article
+70` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 36` → BO_7488-bis_Fr [✓]
+- `l'article 36` → BO_7488-bis_Fr [✓]
+- `l'article 36` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 68
+
+*ART.  68.  –*
+
+Conditions requises des candidats
+et justification des capacités et des qualités
+Les conditions requises des candidats pour participer
+à l'appel d'offres avec présélection et les pièces à fournir pour
+justifier leurs capacités et leurs qualités sont les mêmes que
+celles prévues aux articles 14 et 39 pour l'appel d'offres.
+
+*Citations :*
+
+- `articles 14 et 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 69
+
+*ART. 69. –*
+
+Dépôt et retrait de la demande d'admission
+La demande d'admission, accompagnée des dossiers
+administratif et technique et du dossier additif, lorsque ce
+dernier est requis, est mise dans un pli qui est déposé ou remis
+dans les conditions prévues à l'article 46 ci-dessus.
+Le pli contenant la demande d'admission et les dossiers
+qui y sont joints doit être fermé et porter les indications
+suivantes :
+– le nom et l'adresse du candidat  ;
+– l'objet de l'appel d'offres avec présélection  ;
+– la date et l'heure de la séance d'admission.
+Les candidats ayant déposé leurs plis peuvent les retirer
+conformément aux conditions fixées à l'article 47 ci-dessus.
+
+*Citations :*
+
+- `l'article 46` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 47` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 70
+
+*ART. 70. –*
+
+Commission d'admission
+La commission d'admission des candidats est constituée
+conformément aux mêmes conditions et modalités prévues à
+l'article 50 ci-dessus pour la commission d'appel d'offres.
+
+*Citations :*
+
+- `l'article 50` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Organisations :* Commission d'admission
+
+
+
+## Article 71
+
+*ART. 71. –*
+
+Séance d'admission :
+– la commission procède à l'ouverture des plis en séance
+publique ;
+– le président ouvre la séance au jour et à l'heure fixés.
+Toutefois, si ce jour est déclaré férié ou chômé, la
+réunion se tient à la même heure du jour ouvrable
+suivant ;
+– le président cite, le cas échéant, les journaux et les
+publications ayant publié l'avis d'appel d'offres avec
+présélection ;
+– il dépose tous les plis reçus sur le bureau et invite les
+candidats présents qui n'auraient pas déposé leurs plis
+à les remettre séance tenante. Il invite également les
+concurrents ayant des dossiers incomplets à produire
+les pièces manquantes sous enveloppe fermée. La liste
+des plis reçus est alors définitivement arrêtée par la
+commission ;
+–  le président ouvre les plis contenant la demande
+d'admission et vérifie l'existence, pour chacun, des
+pièces prévues au paragraphe a) de l'article 66 ci-dessus
+et en dresse un état.
+Après l'accomplissement de cette formalité, la séance
+publique prend fin. Les candidats et le public se retirent
+de la salle. La commission poursuit ses travaux à huis clos.
+Elle peut consulter tout expert ou technicien qui pourrait
+l'éclairer sur des points précis des candidatures présentées.
+Elle peut également, avant de se prononcer, charger une sous-
+commission pour examiner lesdites candidatures.
+La commission écarte les candidats :
+a)	ayant fait l'objet d'une exclusion temporaire ou
+définitive conformément aux dispositions de l'article
+40 ou 112 du présent arrêté ;
+b)	n'ayant pas respecté les dispositions de l'article 55
+ci-dessus quant à la présentation de leurs dossiers  ;
+c)	qui ne sont pas habilités pour soumissionner  ;
+d)	dont les qualités financières et techniques sont jugées
+insuffisantes eu égard aux critères fgiurant dans le
+règlement de présélection prévu à l'article 66 ci-
+dessus. Etant précisé que l'activité des concurrents
+est évaluée sur la base de l'ensemble des pièces des
+dossiers administratif et technique.
+Avant d'émettre son avis, la commission peut convoquer,
+par écrit, les candidats afin qu'ils lui présentent tous les
+éclaircissements concernant leurs capacités du point de vue
+technique et financier. Lesdits éclaircissements, qui doivent
+être produits par écrit, doivent se limiter aux pièces contenues
+dans les plis. La commission arrête la liste des candidats admis.
+
+*Entités :* `arrêtée` (ARRETE), `arrêté` (ARRETE), `arrête` (ARRETE)
+
+*Citations :*
+
+- `l'article 66` → arrêtée [✓]
+- `l'article
+40` → arrêté [✓]
+- `l'article 55` → arrêté [✓]
+- `l'article 66` → arrêté [✓]
+
+
+## Article 72
+
+*ART. 72. –*
+
+Procès-verbal de la commission d'admission
+La commission d'admission dresse, séance tenante, un
+procès-verbal de chacune de ses réunions et enregistre dans
+ledit procès, qui ne doit être ni rendu public ni communiqué
+aux candidats, les observations ou les objections formulées
+par les membres ou par les candidats au cours de la séance
+d'admission ainsi que l'avis de la commission sur ces
+observations ou objections.
+Le procès-verbal doit également comporter la liste
+des candidats admis et ceux écartés en indiquant les motifs
+d'élimination de leurs offres.
+Ledit procès-verbal est signé, séance tenante, par le
+président et les membres de la commission.
+Le procès-verbal est assorti, le cas échéant, de tout
+rapport signé établi par une sous-commission, un expert ou
+un technicien désignés par la commission d'admission.
+Un extrait du procès-verbal est affiché dans les locaux
+du maître d'ouvrage dans les vingt-quatre heures qui suivent
+l'achèvement des travaux de la commission, pour une durée
+d'au moins quinze (15) jours francs. Il est également publié,
+chaque fois que possible, au site électronique du ministère des
+Habous et des affaires islamiques.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 73
+
+*ART. 73. –*
+
+Résultats définitifs de l'admission
+Le maître d'ouvrage informe les candidats éliminés des
+motifs de leur éviction par lettre recommandée avec accusé
+de réception et par fax confirmé ou par courrier électronique
+confirmé ou par tout autre moyen de communication pouvant
+donner date certaine. Cette lettre doit leur être adressée dans
+un délai qui ne doit pas dépasser dix (10) jours, à compter de la
+date d'achèvement des travaux de la commission d'admission.
+Les éléments d'information ayant été à l'origine de
+l'élimination des concurrents doivent être conservés par le
+maître d'ouvrage pour une durée d'au moins cinq ans.
+Dans le même délai de dix (10) jours et de trente (30) jours,
+au moins, avant la date prévue pour la séance d'ouverture
+des plis, le maître d'ouvrage informe également les candidats
+admis, par lettre recommandée avec accusé de réception, ou
+par fax confirmé, courrier électronique confirmé ou par tout
+autre moyen de communication pouvant donner date certaine.
+Cette lettre, qui doit indiquer le lieu de réception des
+offres ainsi que la date et le lieu de la réunion de la commission,
+comporte une invitation des candidats sélectionnés à retirer
+le dossier d'appel d'offres, conformément aux dispositions
+des paragraphes 3 et 4 de l'article 36 ci-dessus et à déposer
+leurs offres accompagnées, le cas échéant, du récépissé du
+cautionnement provisoire ou de l'attestation de la caution
+personnelle et solidaire en tenant lieu.
+
+*Citations :*
+
+- `l'article 36` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 74
+
+*ART.  74.  –*
+
+Pièces et informations à fournir aux
+concurrents admis
+Sont applicables à l'appel d'offres avec présélection, les
+dispositions relatives au règlement de consultation, au dossier
+d'appel d'offres et à l'information des concurrents, prévues
+respectivement aux articles 35-I (3, 4, 5, 6 et 7) et II, 36 (à
+l'exception de h du paragraphe 1) et 38 du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 35` → arrêté [✓]
+
+
+## Article 75
+
+*ART.  75.  –*
+
+Contenu et présentation des dossiers,
+présentation des offres variantes, dépôt et retrait des plis et
+délai de validité
+Sont également applicables à l'appel d'offres avec
+présélection, les dispositions des articles 42, 44, 45, 46, 47 et
+48 du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 42, 44, 45, 46, 47 et
+48` → arrêté [✓]
+
+
+## Article 76
+
+*ART. 76. –*
+
+Commission d'appel d'offres avec présélection
+La commission d'appel d'offres avec présélection se
+compose dans les mêmes conditions et formes prévues à
+l'article 50 pour la commission d'appel d'offres.
+
+*Citations :*
+
+- `l'article 50` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Organisations :* Commission d'appel d'offres avec présélection
+
+
+
+## Article 77
+
+*ART. 77. –*
+
+Ouverture des plis des concurrents en séance
+publique
+Les plis des concurrents sont ouverts en séance publique.
+Avant l'ouverture de la séance publique, le président remet
+aux membres de la commission le support écrit contenant
+l'estimation du coût des prestations, établie conformément
+aux dispositions de l'article 11 ci-dessus.
+Le président ouvre la séance au lieu, au jour et à l'heure
+fixés. Toutefois, si ce jour est déclaré férié ou chômé, la réunion
+se tient à la même heure du jour ouvrable suivant.
+Le président demande aux membres de la commission
+de formuler leurs observations sur les vices éventuels pouvant
+entacher la procédure. Après s'être assuré du bien-fondé
+desdites observations, il doit mettre fin à la procédure et en
+aviser à haute voix les différents concurrents. Dans le cas
+contraire, il poursuit la procédure.
+Le président donne lecture de la liste des soumissionnaires
+admis sans citer les motifs d'élimination des candidats évincés.
+Le président dépose tous les plis reçus sur le bureau et
+invite les concurrents présents qui n'auraient pas encore déposé
+leurs plis à les remettre séance tenante. Il invite également les
+concurrents qui se sont rendus compte que leurs dossiers sont
+incomplets à produire les pièces manquantes sous enveloppes
+fermées. La liste des plis reçus est alors définitivement arrêtée
+par la commission.
+conformément aux dispositions des articles 52 et 54
+ci-dessus, la commission procède, le cas échéant, à l'examen
+des échantillons et à l'évaluation des offres techniques des
+concurrents admis. Le président ouvre, par la suite, les plis
+portant la mention « offre financière » et donne lecture du
+contenu des actes d'engagements.
+Les membres de la commission paraphent les actes
+d'engagement ainsi que le bordereau des prix, le détail estimatif
+et la décomposition du montant global, le cas échéant.
+Après l'accomplissement de cette formalité, la séance
+publique prend fin. Les concurrents et le public se retirent
+de la salle.
+
+*Entités :* `arrêtée` (ARRETE)
+
+*Citations :*
+
+- `l'article 11` → arrêtée [✓]
+- `articles 52 et 54` → arrêtée [✓]
+
+
+## Article 78
+
+*ART. 78. –*
+
+Evaluation des offres des concurrents et
+résultats de l'appel d'offres avec présélection
+Les dispositions des articles 55 à 62 et 109 du présent
+arrêté sont applicables à l'appel d'offres avec présélection.
+Section 3. – Marchés sur concours
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 55 à 62` → arrêté [✓]
+
+
+## Article 79
+
+*ART. 79. –*
+
+Principes et modalités
+1 – Un marché peut être passé sur concours, lorsque des
+motifs d'ordre technique, esthétique ou financier justifient la
+réalisation de recherches particulières.
+2 – Le concours peut porter soit :
+a)	à la fois sur la conception d'un projet et la réalisation
+de l'étude y afférente  ;
+b)	sur la réalisation d'un projet déjà conçu et la
+réalisation de l'étude y afférente  ;
+c)	à la fois sur la conception et la réalisation d'un
+projet.
+3 – Le concours est organisé sur la base d'un programme
+établi par le maître d'ouvrage, lequel peut prévoir l'allocation
+de primes, de récompenses ou d'avantages aux auteurs des
+projets les mieux classés et fixe le nombre maximum de projets
+qui peuvent bénéficier des primes.
+4  –  Le concours comporte un appel public à la
+concurrence. Les candidats désirant y participer peuvent
+déposer une demande d'admission. Seuls sont admis à
+déposer des projets, les candidats retenus par une commission
+d'admission dans les conditions fixées aux articles de 81 à 93
+ci-après.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+5 – Les projets proposés par les concurrents retenus sont
+examinés et classés par un jury.
+6 – Le concours comprend l'ouverture des plis en séance
+publique.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 80
+
+*ART. 80. –*
+
+Programme du concours
+Le programme du concours indique la consistance et les
+besoins prévisionnels auxquels doit répondre la prestation et
+fixe le montant maximal de la dépense prévue pour l'exécution
+de ladite prestation.
+Il indique, également, les éléments suivants :
+– l'énoncé de l'objectif recherché par le concours et
+l'exposé des principaux aspects à considérer  ;
+– une définition des composantes et de la consistance
+du projet.
+Le programme prévoit l'allocation de primes aux trois
+(3) projets les mieux classés parmi les projets retenus. Les
+montants desdites primes sont fixés par décision du ministre
+des Habous et des affaires islamiques.
+Le montant de la prime allouée à l'attributaire du marché
+est déduit des sommes qui lui sont dues au titre dudit marché.
+Les projets ayant obtenu une prime demeurent acquis
+au maître d'ouvrage.
+
+
+## Article 81
+
+*ART. 81. –*
+
+Publicité du concours
+L'avis du concours est publié dans les mêmes conditions
+prévues à l'article 37 ci-dessus. Toutefois, la publication de cet
+avis doit intervenir quinze (15) jours au moins avant la date
+fixée pour la séance d'admission.
+Cet avis indique :
+a)	l'objet du concours et, le cas échéant, le lieu
+d'exécution  ;
+b)	l'autorité qui organise le concours  ;
+c)	le ou les bureaux et l'adresse du maître d'ouvrage
+d'où le dossier du concours peut être retiré  ;
+d)	le bureau et l'adresse du maître d'ouvrage où les
+dossiers d'admission sont déposés ou adressés  ;
+e)	le lieu, le jour et l'heure fixés pour la tenue de la
+séance d'admission, en précisant que les concurrents
+peuvent remettre directement leurs dossiers
+d'admission au président du jury du concours  ;
+f)	les pièces justificatives prévues au règlement du
+concours que tout concurrent doit fournir  ;
+g)	la ou les qualités requises et la ou les catégories dans
+lesquelles le concurrent doit être classé, pour les
+marchés de travaux et le ou les domaines d'activité
+pour les marchés d'études et de maîtrise d'œuvre,
+conformément à la réglementation en vigueur.
+
+*Citations :*
+
+- `l'article 37` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 82
+
+*ART. 82. –*
+
+Règlement du concours
+Le concours fait l'objet d'un règlement du concours
+établi par le maître d'ouvrage qui prévoit notamment :
+a)	la liste des pièces à fournir par les concurrents
+conformément à l'article 39 ci-dessus, à l'exception
+du récépissé du cautionnement provisoire ou de
+l'attestation de la caution personnelle et solidaire
+en tenant lieu  ;
+b)	les critères de sélection des concurrents qui prennent
+en compte notamment :
+– les garanties et les capacités juridiques, techniques
+et financières des concurrents  ;
+– les références professionnelles des concurrents, le
+cas échéant.
+Ces critères sont appréciés en fonction des éléments et
+des pièces, contenus dans les dossiers administratif, technique
+et additif, le cas échéant.
+c) les critères d'évaluation et de classement des projets :
+Les critères d'évaluation des projets et des offres portent
+notamment sur :
+– le coût prévisionnel du projet  ;
+– la méthodologie proposée  ;
+– les ressources humaines et les moyens matériels
+à mettre en œuvre pour la prestation à réaliser  ;
+– le chronogramme d'affectation des ressources
+humaines  ;
+– le caractère innovant du projet  ;
+– la qualité de l'assistance technique  ;
+– le degré de transfert des compétences  ;
+– les garanties fournies  ;
+– le planning de réalisation proposé  ;
+– l'expérience spécifqiue et le profil du personnel par
+rapport à la nature des prestations  ;
+– les qualités esthétiques et fonctionnelles  ;
+–  l'efficacité en matière de protection de
+l'environnement  ;
+– le développement des énergies renouvelables et de
+l'efficacité énergétique.
+Une note est attribuée à chaque critère.
+Le règlement du concours exige l'obtention d'une
+note technique minimale globale pour l'admission et,
+éventuellement, une note minimale d'admission par critère.
+Les critères choisis par le maître d'ouvrage doivent être
+objectifs, non discriminatoires et proportionnés par rapport
+à la consistance de la prestation et être en lien direct avec
+l'objet du concours.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+d) la ou les monnaies convertibles dans lesquelles le
+prix des offres doit être formulé et exprimé, lorsque
+le concurrent n'est pas installé au Maroc. Dans ce
+cas, pour l'évaluation et la comparaison des offres,
+les montants des offres exprimées en monnaie
+étrangère doivent être convertis en dirhams.
+Cette conversion s'effectue sur la base du cours vendeur
+du dirham en vigueur, donné par Bank Al-Maghrib, le premier
+jour ouvrable de la semaine précédant celle du jour d'ouverture
+des plis.
+e) la ou les langues dans lesquelles doivent être établies
+les pièces contenues dans les dossiers et les offres
+présentés par les concurrents.
+Le règlement du concours est signé par le maître
+d'ouvrage avant le lancement de la procédure de passation
+du marché. Cette signature prend, chaque fois que possible, la
+forme d'une signature scannée en ce qui concerne le règlement
+du concours publié sur le site électronique du ministère des
+Habous et des affaires islamiques.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 83
+
+*ART. 83. –*
+
+Dossier du concours
+Le concours fait l'objet d'un dossier établi par le maître
+d'ouvrage qui comprend :
+a) une copie de l'avis de concours  ;
+b) le programme du concours  ;
+c) le modèle de la demande d'admission  ;
+d) le modèle de la déclaration sur l'honneur, prévue au
+paragraphe A) alinéa 1 de l'article 39 ci-dessus  ;
+e) le règlement du concours, prévu à l'article 82 ci-
+dessus  ;
+f) la note de présentation du concours.
+Les dossiers du concours doivent parvenir aux membres
+du jury prévu à l'article 86 ci-après dans les mêmes conditions
+prévues au paragraphe 2 de l'article 36 ci-dessus.
+Les dossiers du concours sont remis aux concurrents
+dans les mêmes conditions prévues aux paragraphes 3 et 4 de
+l'article 36 ci-dessus.
+Le maître d'ouvrage peut, à titre exceptionnel, introduire
+des modifications dans le dossier du concours sans en changer
+l'objet. Ces modifciations doivent être communiquées à tous les
+concurrents ayant retiré ledit dossier et mises à la disposition
+des autres concurrents.
+Lorsque lesdites modifciations nécessitent le report de la
+date prévue pour la séance d'admission, ce report fait l'objet
+d'un avis publié dans les conditions prévues au paragraphe 5
+de l'article 36 ci-dessus.
+
+*Citations :*
+
+- `l'article 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 82` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 86` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 36` → BO_7488-bis_Fr [✓]
+- `l'article 36` → BO_7488-bis_Fr [✓]
+- `l'article 36` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 84
+
+*ART.  84.  –*
+
+Conditions requises des concurrents et
+justifications de leurs capacités et qualités
+Les conditions requises des concurrents pour participer
+au concours sont les mêmes que celles prévues à l'article 14
+ci-dessus.
+Les pièces et les documents à produire pour justifier
+les capacités et les qualités sont les mêmes que ceux prévus à
+l'article 39 ci-dessus.
+
+*Citations :*
+
+- `l'article 14` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 85
+
+*ART. 85. –*
+
+Contenu, dépôt et retrait de la demande
+d'admission
+Le dossier d'admission présenté par chaque concurrent
+comprend un dossier administratif, un dossier technique et, le
+cas échéant, un dossier additif. Tout dossier peut être assorti
+d'un état des pièces qui le constituent.
+a)	le dossier administratif contient :
+– la demande d'admission  ;
+– la déclaration sur l'honneur  ;
+– une copie légalisée de la convention constitutive
+du groupement, prévue à l'article 110 ci-dessous,
+le cas échéant  ;
+–  une copie du texte l'habilitant à exécuter les
+prestations objet du marché, lorsque le concurrent
+est un établissement public.
+b)	le dossier technique  ;
+c)	le dossier additif, le cas échéant.
+Les pièces du dossier d'admission sont mises dans un
+pli, lequel est déposé ou remis dans les conditions prévues à
+l'article 46 ci-dessus.
+Le pli contenant le dossier d'admission doit être fermé
+et porter les indications suivantes :
+– le nom et l'adresse du concurrent  ;
+– l'objet du concours  ;
+– la date et l'heure de la séance d'admission  ;
+– l'avertissement que « le pli ne doit être ouvert que
+par le président du jury du concours lors de la séance
+d'admission ».
+Les concurrents ayant déposé leurs plis peuvent les
+retirer dans les conditions fixées à l'article 47 ci-dessus.
+
+*Citations :*
+
+- `l'article 110` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 46` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 47` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 86
+
+*ART. 86. –*
+
+Jury du concours
+La composition du jury du concours est fixée dans les
+conditions prévues à l'article 50 ci-dessus.
+Toutefois, les représentants du maître d'ouvrage
+au jury susmentionné doivent disposer de la compétence
+professionnelle en relation avec l'objet du concours. A défaut,
+le jury doit comprendre, outre ses membres, deux experts
+disposant de ladite compétence, désignés par l'ordonnateur,
+son suppléant ou par le sous-ordonnateur.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 50` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 87
+
+*ART. 87. –*
+
+Séance d'admission
+La séance d'admission se déroule conformément aux
+dispositions de l'article 71 ci-dessous.
+
+*Citations :*
+
+- `l'article 71` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 88
+
+*ART. 88. –*
+
+Procès-verbal de la séance d'admission
+Le procès-verbal de la séance d'admission est établi
+conformément aux dispositions de l'article 72 ci-dessous.
+
+*Citations :*
+
+- `l'article 72` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 89
+
+*ART. 89. –*
+
+Résultats définitifs de la séance d'admission
+Le maître d'ouvrage informe les concurrents éliminés
+des motifs de leur éviction, par lettre recommandée avec
+accusé de réception et par fax confirmé ou par tout moyen de
+communication pouvant donner date certaine. Cette lettre doit
+leur être adressée dans un délai n'excédant pas cinq (5) jours
+à compter de la date d'achèvement de la séance d'admission.
+Les éléments d'information ayant été à l'origine de
+l'élimination des concurrents doivent être conservés par le
+maître d'ouvrage pour une durée d'au moins cinq (5) ans.
+Le maître d'ouvrage informe également, dans le même
+délai de cinq (5) jours à compter de la date d'achèvement
+des travaux de la séance d'admission, les concurrents admis,
+par lettre recommandée avec accusé de réception et par fax
+confirmé ou par tout autre moyen de communication pouvant
+donner date certaine.
+Cette lettre est adressée aux concurrents admis au
+moins quarante (40) jours avant la date fixée pour la séance
+d'ouverture des plis. Elle indique le lieu de réception des
+projets et, le cas échéant, les offres ainsi que la date, l'heure
+et le lieu de la réunion du jury du concours.
+Le maître d'ouvrage invite également les concurrents
+admis à retirer le dossier du concours et à déposer :
+– leurs projets appuyés d'une estimation du coût global
+desdits projets  ;
+– leurs offres financières  ;
+– les pièces du dossier administratif, prévues à l'article
+39 ci-dessus.
+Les projets et le dossier administratif prévu ci-dessus,
+peuvent être assortis d'un état des pièces qui les constituent.
+Lorsqu'un concurrent estime que le délai prévu par
+la lettre d'admission n'est pas suffisant pour la préparation
+des projets et, le cas échéant, des offres, compte tenu de la
+complexité des prestations, il peut, au cours de la première
+moitié dudit délai, demander au maître d'ouvrage, par courrier
+porté avec accusé de réception, par lettre recommandée
+avec accusé de réception, par fax confirmé ou par courrier
+électronique confirmé, le report de la date de la séance
+d'ouverture des plis. La lettre du concurrent doit comporter
+tous les éléments permettant au maître d'ouvrage d'évaluer
+sa demande.
+Si le maître d'ouvrage reconnaît le bien-fondé de la
+demande du concurrent, il peut procéder au report de la date
+de la séance d'ouverture des plis. Dans ce cas, le report, dont
+la durée est laissée à l'appréciation du maître d'ouvrage, fait
+l'objet d'une lettre de report, indiquant la nouvelle date de la
+séance d'ouverture des plis.
+Le report de la date de la séance d'ouverture des plis
+pour ledit motif, ne peut intervenir qu'une seule fois, quel que
+soit le concurrent qui le demande.
+Le maître d'ouvrage informe tous les concurrents admis
+de ce report.
+
+*Citations :*
+
+- `l'article
+39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 90
+
+*ART. 90. –*
+
+Documents et informations à fournir aux
+concurrents admis
+Le maître d'ouvrage met à la disposition des concurrents
+admis un dossier contenant les pièces suivantes :
+– un exemplaire du projet de marché à conclure  ;
+– les plans, schémas et les documents techniques et
+toute autre donnée que le maître d'ouvrage juge utile
+pour l'élaboration du projet objet du concours, le cas
+échéant  ;
+– le modèle de l'acte d'engagement  ;
+– les modèles, selon le cas, du bordereau des prix, du
+détail estimatif, du bordereau des prix-détail estimatif,
+du bordereau du prix global ou de la décomposition
+du montant global.
+Le maître d'ouvrage peut tenir des réunions d'information
+et/ou organiser des visites des lieux, le cas échéant, dans les
+conditions fixées à j) de l'article 37 ci-dessus.
+
+*Citations :*
+
+- `l'article 37` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 91
+
+*ART. 91. –*
+
+Contenu et présentation des dossiers
+Les dossiers des concurrents admis doivent comporter
+les projets et les pièces exigés par la lettre d'admission prévue
+à l'article 89 ci-dessus et doivent être présentés selon la forme
+et dans les conditions fixées à l'article 44 ci-dessus.
+
+*Citations :*
+
+- `l'article 89` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 44` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 92
+
+*ART. 92. –*
+
+Dépôt et retrait des plis des concurrents
+Le dépôt et le retrait des plis des concurrents s'effectuent
+conformément aux dispositions des articles 46 et 47 ci-dessus.
+
+*Citations :*
+
+- `articles 46 et 47` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 93
+
+*ART. 93. –*
+
+Délai de validité des offres
+Les concurrents restent engagés par leurs offres pendant
+le délai fixé à l'article 48 ci-dessus. Toutefois, le délai de validité
+des offres court à compter de la date d'ouverture des plis
+prévue à l'article 94 ci-après.
+
+*Citations :*
+
+- `l'article 48` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+- `l'article 94` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 94
+
+*ART. 94. –*
+
+Ouverture des plis contenant les projets
+proposés par les concurrents
+La séance d'ouverture des plis est publique.
+Elle se tient au lieu, au jour et à l'heure prévus par le
+règlement du concours. Si ce jour est déclaré férié ou chômé,
+la réunion se tient le jour ouvrable suivant à la même heure.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+2 – Le président du jury du concours ouvre la séance
+et invite les concurrents présents qui n'auraient pas déposé
+leurs plis à les remettre séance tenante. Il invite, ensuite, les
+concurrents qui se sont rendus compte que leurs dossiers
+sont incomplets, à produire les pièces manquantes sous
+enveloppe fermée précisant la nature des pièces manquantes,
+et arrête définitivement la liste des plis reçus. Aucun dépôt ou
+retrait de pli ou de complément de pièces n'est accepté après
+l'accomplissement de cette formalité.
+Il s'assure de la présence des membres dont la présence
+est obligatoire.
+En cas d'absence de l'un desdits membres et après
+l'accomplissement des formalités prévues à l'alinéa premier du
+présent paragraphe, le président invite les membres présents à
+parapher les plis reçus à cheval sur les rabats et sur les parties
+sur lesquelles ils s'appliquent. Ces plis doivent rester fermés et
+mis en lieu sûr jusqu'à leur ouverture.
+Le président reporte la séance d'ouverture des plis de
+quarante-huit (48) heures et informe les concurrents et les
+membres du jury du lieu, de la date et de l'heure prévus pour
+la reprise de la séance d'ouverture des plis.
+3 – Le président s'assure ensuite, ou à la reprise de la
+séance en cas du report prévu ci-dessus, de l'existence de la
+lettre recommandée avec accusé de réception ayant servi de
+moyen d'invitation des concurrents admis.
+4 – Le président donne lecture de la liste des concurrents
+admis sans faire connaître les motifs d'élimination des
+concurrents non admis.
+Le président ouvre les plis des concurrents admis, vérifie
+la présence dans chacun d'eux des pièces exigées et en dresse
+un état.
+Cette formalité accomplie, la séance publique prend fin.
+Les concurrents et le public se retirent de la salle.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI), `arrête` (ARRETE)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 95
+
+*ART. 95. –*
+
+Evaluation des projets proposés par les
+concurrents à huis clos
+1 – Le jury du concours procède à l'évaluation des projets
+proposés par les concurrents. Il peut consulter tout expert ou
+technicien qui pourrait l'éclairer sur des points particuliers
+des projets proposés. Il peut également, avant de se prononcer,
+charger une sous-commission de l'analyse desdits projets.
+Avant d'émettre son avis, le jury peut convoquer, par
+écrit ou par tout autre moyen approprié, les concurrents
+afin d'obtenir tout éclaircissement sur leurs projets. Il peut
+également demander à un ou plusieurs concurrents d'apporter
+certaines modifications à leurs projets.
+Ces modifications peuvent se rapporter à la conception
+et/ou à la réalisation des projets en tenant compte, le cas
+échéant, des différences de coût qui en découlent. Les procédés
+et les coûts proposés par les concurrents ne peuvent être
+divulgués aux autres concurrents lors du débat.
+Le jury écarte tout projet dont le coût de réalisation
+dépasse le maximum de la dépense prévu au programme du
+concours pour la réalisation du projet.
+Le jury procède ensuite, à l'évaluation et au classement
+des projets sur la base des critères fgiurant au règlement du
+concours comme suit :
+Le jury procède à l'examen et à l'évaluation desdits
+projets en tenant compte de la valeur technique et esthétique
+de chaque projet, de son coût global ainsi que des conditions
+de sa réalisation éventuelle et ce, conformément aux critères
+fixés dans le règlement du concours.
+Le jury écarte les projets jugés inacceptables eu égard
+aux critères fixés dans le règlement du concours et arrête les
+projets retenus.
+Le jury du concours finalise, le cas échéant, avec les
+concurrents retenus, les termes du projet de marché à remettre
+au maître d'ouvrage et négocie les répercussions éventuelles
+des modifications citées ci-dessus sur le coût du projet.
+Le jury du concours procède à la notation du projet en
+fonction des critères fixés dans le règlement du concours, en
+attribuant une notre sur cent (100) à chaque critère.
+Le jury du concours procède à la notation de l'estimation
+du coût du projet proposé, hors taxes, en attribuant une note
+de cent (100) points à celle la moins-disante et des notes
+inversement proportionnelles à leur montant aux autres
+estimations, lorsque le concours porte sur la conception d'un
+projet et la réalisation de l'étude y afférente.
+Le jury du concours procède ensuite, à l'ouverture des
+plis comportant les offres financières des concurrents, dans
+les conditions fixées à l'article 54 ci-dessus.
+Le jury procède à l'évaluation et à la notation des offres
+financières en attribuant une note de cent (100) points à l'offre
+la moins-disante et des notes inversement proportionnelles
+aux autres offres.
+Le jury procède à l'évaluation des offres en vue de choisir
+l'offre la plus avantageuse.
+A cet effet, il procède à la pondération des notes
+obtenues par chaque concurrent en fonction du projet proposé,
+de l'estimation du coût global hors taxes du projet et de l'offre
+financière.
+Lorsque le concours porte sur la conception d'un projet
+et la réalisation de l'étude y afférente, la note globale sera
+obtenue par l'addition de la note technique, de la note de
+l'estimation du coût global du projet, hors taxes, et de la note
+financière, après l'introduction d'une pondération.
+La pondération est appliquée comme suit :
+– 70 % pour le projet proposé  ;
+– 20 % pour le coût global proposé du projet, hors taxes  ;
+– 10 % pour l'offre financière.
+Dans ce cas, le marché fixe le seuil de tolérance par
+rapport à l'estimation du coût global du projet ayant été à la
+base de l'attribution du marché ainsi que les conséquences
+pour le concurrent retenu, en cas de dépassement dudit seuil
+de tolérance.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Lorsque le concours porte sur la réalisation d'un projet
+déjà conçu et la réalisation de l'étude y afférente ou sur
+un marché de conception et de réalisation, la note globale
+sera obtenue par l'addition de la note technique et de la
+note financière après introduction d'une pondération. La
+pondération est appliquée selon les pourcentages suivants :
+– 70 % pour le projet proposé  ;
+– 30 % pour l'offre financière.
+Le jury procède, ensuite, au classement des projets des
+concurrents selon l'offre la plus avantageuse. Le concurrent
+ayant obtenu la note globale la plus élevée, est classé premier.
+2 – A l'issue de ce classement, le jury du concours invite,
+par lettre recommandée avec accusé de réception et par fax
+confirmé ou par tout autre moyen de communication pouvant
+donner date certaine, le concurrent classé premier à :
+– confirmer les rectifications des erreurs matérielles
+relevées  ;
+– régulariser les discordances constatées.
+Le jury lui fixe un délai qui ne peut être inférieur à
+sept (7) jours à compter de la date d'achèvement des travaux
+d'évaluations des projets proposés.
+Les éléments de réponse du concurrent doivent être
+produits dans un pli fermé qui doit comporter, de façon
+apparente, les mentions suivantes :
+– le nom et l'adresse du concurrent  ;
+– l'objet du concours  ;
+– l'avertissement que « le pli ne doit être ouvert que par
+le président du jury » et porter la mention apparente
+« complément de dossier et éléments de réponse ».
+Ce pli doit être soit déposé, contre récépissé, dans le
+bureau du maître d'ouvrage indiqué dans la lettre d'invitation,
+soit envoyé, par courrier recommandé avec accusé de réception,
+audit bureau ;
+Le dépôt de ce pli est inscrit au registre spécial prévu à
+l'article 36 ci-dessus.
+3 – Le président du jury suspend la séance d'évaluation
+et de classement des projets et fixe la date et l'heure pour la
+poursuite de ses travaux.
+4 – Le jury se réunit au lieu, au jour et à l'heure fixés,
+s'assure de l'existence du support ayant servi de moyen
+d'invitation du concurrent concerné et procède à la vérifciation
+des réponses et des pièces reçues.
+Après examen des pièces et des réponses reçues, le jury
+décide soit :
+a)	de proposer au maître d'ouvrage de retenir le
+concurrent concerné  ;
+b)	d'écarter le concurrent concerné lorsque celui-ci :
+– ne répond pas dans le délai imparti, ne produit
+pas les pièces exigées ou produit des pièces non
+conformes aux règlementations en vigueur, ne
+confirme pas les rectifications demandées ou ne
+régularise pas les discordances relevées  ;
+–  produit une offre financière signée par une
+personne non habilitée à l'engager ou qui comporte
+des restrictions ou des réserves.
+Dans ce cas, le jury invite le concurrent dont l'offre est
+classée la deuxième dans les mêmes conditions prévues au
+paragraphe 2) ci-dessus, examine les pièces et réponses reçues
+et décide soit de le retenir ou de l'écarter dans les conditions
+fixées au b) ci-dessus.
+Si le jury ne retient pas le concurrent concerné, il invite
+le concurrent dont l'offre est classée la suivante et examine ses
+réponses et ses pièces, dans les mêmes conditions indiquées
+ci-dessus, jusqu'à l'aboutissement de la procédure ou de la
+déclaration du concours infructueux.
+5 – Le jury arrête le classement définitif des projets
+retenus et fait ses propositions au maître d'ouvrage d'allouer
+les primes prévues au programme du concours et d'attribuer
+le marché au concurrent retenu.
+Le classement arrêté par le jury ne peut être modifié.
+
+*Entités :* `arrête` (ARRETE), `15 ramadan 1447` (DATE_HIJRI), `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 54` → arrête [✓]
+- `l'article 36` → arrête [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 96
+
+*ART. 96. –*
+
+Concours infructueux
+Le jury déclare le concours infructueux dans les cas
+suivants :
+a)	si aucune offre n'a été présentée ou déposée  ;
+b)	si aucun concurrent n'a été retenu à l'issu de la
+séance d'admission  ;
+c)	si le coût global proposé pour chaque projet dépasse
+le maximum de la dépense prévue pour l'exécution
+de la prestation  ;
+d)	si toutes les offres financières dépassent le
+maximum de la dépense prévue pour l'exécution
+de la prestation, lorsqu'il s'agit d'un concours
+portant sur la réalisation d'un projet déjà conçu et
+la réalisation de l'étude y afférente ou sur un marché
+de conception-réalisation  ;
+e)	si aucun projet n'est jugé acceptable au regard des
+critères fixés dans le règlement du concours.
+La déclaration du concours infructueux ne justifie pas
+le recours à la procédure négociée.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 97
+
+*ART. 97. –*
+
+Procès-verbal du concours
+Le jury du concours dresse, séance tenante, un procès-
+verbal de chacune de ses réunions. Ce procès-verbal, qui
+n'est ni rendu public ni communiqué aux concurrents, fait
+état des discussions que le jury a eues avec les concurrents et,
+le cas échéant, les observations ou objections formulées par
+les membres ou par les concurrents ainsi que le point de vue
+du jury sur ces observations ou objections. Il doit, en outre,
+comprendre les résultats définitifs du concours et indiquer les
+motifs d'écartement des concurrents évincés et ceux justifiant
+le choix effectué par le jury.
+Ce procès-verbal est signé, séance tenante, par le
+président et les membres du jury.
+Sont joints, le cas échéant, au procès-verbal, le rapport
+établi par les experts, les techniciens ou les sous-commissions
+ainsi que le projet de marché que le jury propose au maître
+d'ouvrage de passer avec le concurrent retenu.
+Le procès-verbal comportant les résultats définitifs du
+concours est soumis à l'autorité compétente pour signature.
+Un extrait du procès-verbal est publié, chaque fois que
+possible, sur le site électronique du ministère des Habous et
+des affaires islamiques et affiché, pour une durée d'au moins
+quinze (15) jours, dans les locaux du maître d'ouvrage dans
+les vingt-quatre (24) heures qui suivent la date d'achèvement
+des travaux du jury.
+Les modèles du procès-verbal et de l'extrait sont fixés
+par décision du ministre des Habous et des affaires islamiques.
+
+
+## Article 98
+
+*ART. 98. –*
+
+Résultats définitifs du concours
+Les dispositions de l'article 61 ci-dessus s'appliquent
+également au concours.
+
+*Citations :*
+
+- `l'article 61` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 99
+
+*ART. 99. –*
+
+Annulation du concours
+1 – L'autorité compétente peut annuler le concours,
+sans de ce fait encourir aucune responsabilité à l'égard des
+concurrents et quel que soit le stade de la procédure de
+passation du marché,. Cette annulation intervient dans les
+cas suivants :
+a)	lorsque les données économiques ou techniques
+des prestations objet du concours ont été
+fondamentalement modifiées  ;
+b)	lorsque des circonstances exceptionnelles ne
+permettent pas d'assurer l'exécution normale du
+marché.
+2  –  L'autorité compétente annule dans les mêmes
+conditions, le concours dans les cas suivants :
+a)	lorsqu'un vice de procédure a été décelé  ;
+b)	en cas de réclamation fondée d'un concurrent, sous
+réserve des dispositions de l'article 109 ci-dessous.
+3 – L'annulation du concours fait l'objet d'une décision
+signée par l'autorité compétente, indiquant les motifs de ladite
+annulation.
+La décision d'annulation est publiée, chaque fois que
+possible, au site électronique du ministère des Habous et des
+affaires islamiques.
+4 – Le maître d'ouvrage en informe les concurrents
+et l'attributaire du marché par écrit, en indiquant le ou les
+motifs d'annulation du concours et communique une copie
+de la décision d'annulation aux membres du jury du concours.
+5 – L'annulation du concours ne justifie pas le recours à
+la procédure négociée.
+6 – En cas d'annulation du concours, le maître d'ouvrage
+attribue aux concurrents les mieux classés les primes prévues
+au programme du concours.
+Section 4. – Marchés négociés
+
+*Citations :*
+
+- `l'article 109` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 100
+
+*ART. 100. –*
+
+Principes et modalités
+1  –  Le marché négocié est un moyen par lequel le
+maître d'ouvrage choisit l'attributaire, après consultation de
+candidats et négociation sur les conditions du marché avec
+un ou plusieurs d'entre eux, conformément aux conditions
+prévues ci-après. Ces négociations, qui ne peuvent porter
+sur l'objet et la consistance du marché, peuvent concerner
+notamment le prix de la prestation et le délai d'exécution ou
+la date d'achèvement ou de livraison.
+2 – Le marché négocié est passé avec publicité préalable
+et après une mise en concurrence ou sans publicité préalable
+et sans mise en concurrence.
+3 – Lorsqu'il est décidé de procéder à un avis d'appel à
+la concurrence, le délai minimal entre la date de publication
+de l'avis de publicité dans un journal au moins à diffusion
+nationale choisi par le maître d'ouvrage et la date limite de
+réception des candidatures, doit être de dix (10) jours au moins.
+Cet avis peut être également communiqué aux candidats
+éventuels et, le cas échéant, aux organismes professionnels,
+par des publications spécialisées ou par tout autre moyen de
+publicité, notamment par voie électronique au site électronique
+du ministère des Habous et des affaires islamiques, chaque
+fois que possible.
+L'avis de publicité doit indiquer :
+a)	l'objet du marché  ;
+b)	l'autorité qui procède à la procédure négociée  ;
+c)	l'adresse du maître d'ouvrage et le bureau où l'on
+peut retirer le dossier du marché  ;
+d)	les pièces à fournir par les candidats  ;
+e)	l'adresse du maître d'ouvrage et le bureau où sont
+déposées ou adressées les offres des candidats ;
+f)	le site électronique utilisé pour la publicité  ;
+g)	la date limite de dépôt des candidatures.
+Les candidatures peuvent être notifiées par tout moyen
+permettant de déterminer, de manière certaine, la date de leur
+réception et de garantir leur confidentialité.
+Le maître d'ouvrage établit la liste des candidats invités
+à la négociation et leur adresse, en même temps, une lettre
+de consultation et, le cas échéant, le cahier des prescriptions
+spéciales et le règlement de consultation établi conformément
+à l'article 35 ci-dessus.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Le maître d'ouvrage engage les négociations avec les
+candidats dont les capacités juridiques et financières sont
+jugées suffisantes. Le nombre de candidats admis à négocier
+ne doit pas être inférieur à trois (3), à moins que le nombre
+de candidats ayant répondu favorablement ne soit inférieur
+audit nombre.
+Au terme des négociations, le marché est attribué au
+concurrent retenu par le maître d'ouvrage et ayant présenté
+l'offre la plus avantageuse.
+Les négociations font l'objet d'un rapport, signé par le
+maître d'ouvrage et annexé au dossier du marché.
+Le maître d'ouvrage peut, à tout moment, mettre fin aux
+négociations pour des motifs d'intérêt général.
+La passation de tout marché négocié donne lieu à
+l'établissement, par l'autorité compétente ou par le sous-
+ordonnateur, d'un certificat administratif indiquant la
+procédure adoptée et visant le chef d'exception qui justifie la
+passation du marché sous cette forme et explicitant notamment
+les raisons qui, dans ce cas, ont conduit à son application.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 35` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 101
+
+*ART. 101. –*
+
+Cas de recours aux marchés négociés
+Il ne peut être passé de marchés négociés que dans les
+cas suivants :
+I – Peuvent faire l'objet de marchés négociés après
+publicité préalable et mise en concurrence :
+1 – Les prestations ayant fait l'objet d'une procédure
+d'appel d'offres ou de concours pour lesquelles il n'a été présenté
+que des offres jugées inacceptables par la commission d'appel
+d'offres ou le jury du concours, eu égard aux critères prévus au
+règlement de consultation. Dans ce cas, les conditions initiales
+du marché ne doivent subir aucune modification et la durée
+entre la date où la procédure a été déclarée infructueuse et
+celle de la publication de l'avis du marché négocié ne doit pas
+excéder vingt et un (21) jours  ;
+2 – Les prestations que le maître d'ouvrage doit faire
+exécuter par des tiers dans les conditions prévues par le marché
+initial, à la suite de la défaillance de son titulaire.
+II – Peuvent faire l'objet de marchés négociés sans
+publicité préalable et sans mise en concurrence :
+1 – Les prestations dont l'exécution ne peut, en raison des
+exigences techniques ou de leur caractère complexe nécessitant
+une expertise particulière, être confiée qu'à un prestataire
+déterminé  ;
+2 – Les objets dont la fabrication est exclusivement
+réservée à des porteurs de brevets d'invention  ;
+3 – Les prestations supplémentaires à confier à un
+entrepreneur, fournisseur ou prestataire de services déjà
+attributaire d'un marché, s'il y a intérêt, au point de vue du
+délai d'exécution ou de la bonne marche de cette exécution
+à ne pas introduire un nouvel entrepreneur, fournisseur ou
+prestataire de services et lorsque les prestations en question,
+imprévues au moment de la passation du marché principal, sont
+considérées comme l'accessoire dudit marché et ne dépassent
+pas dix pour cent (10 %) de son montant. En ce qui concerne
+les travaux, il faut en plus, que leur exécution implique un
+matériel déjà installé ou utilisé sur place par l'entrepreneur.
+Ces marchés sont passés sous forme d'avenants aux marchés
+initiaux y afférents  ;
+4 – Les prestations à réaliser en cas d'extrême urgence
+impérieuse résultant de circonstances imprévisibles pour
+le maître d'ouvrage et n'étant pas de son fait et qui ne sont
+pas compatibles avec les délais exigés pour une publicité
+et une mise en concurrence préalables. Ces prestations ont
+pour objet de faire face notamment à une pénurie ou à la
+survenance d'un événement catastrophique tels que le séisme,
+les inondations, le raz de marée, la sécheresse, l'épidémie, la
+pandémie, l'épizootie, les maladies végétales dévastatrices,
+l'invasion d'acridiens, les incendies, ou bâtiments ou ouvrages
+menaçant ruine ou à la survenance d'un événement mettant en
+péril la santé du consommateur ou le patrimoine animal ou
+naturel. Les marchés correspondants à ces prestations doivent
+être strictement limités aux besoins nécessaires pour faire face
+à la situation d'urgence  ;
+5  –  Les prestations relatives à l'organisation de
+cérémonies ou visites officielles revêtant un caractère urgent
+et imprévisible et qui ne sont pas compatibles avec les délais
+exigés pour la publicité et la mise en concurrence préalables.
+
+
+## Article 102
+
+*ART. 102. –*
+
+Formes des marchés négociés
+Les marchés négociés sont conclus :
+a – soit sur la base de l'acte d'engagement souscrit par
+celui qui se propose de contracter et du cahier des prescriptions
+spéciales  ;
+b  –  soit sur une correspondance selon les usages
+commerciaux, fixant les conditions de réalisation de la
+prestation.
+
+
+## Article 103
+
+*ART. 103. –*
+
+Justifications à fournir par les candidats
+Tout candidat appelé à signer un marché négocié doit
+fournir un dossier administratif et un dossier technique,
+constitués tel qu'il est prévu à l'article 39 ci-dessus.
+Section 5. –  Prestations sur bons de commande
+
+*Citations :*
+
+- `l'article 39` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 104
+
+*ART. 104. –*
+
+Champ d'application
+1 – Il peut être procédé, par bons de commande, à
+l'acquisition de fournitures et à la réalisation de travaux ou
+services, dans la limite de deux cent mille (200.000) dirhams
+toutes taxes comprises.
+2 – La limite de deux cent mille (200.000) dirhams,
+visée ci-dessus, est à considérer dans le cadre d'une année
+budgétaire, par type de budget, en fonction de toute personne
+habilitée à engager les dépenses et selon des prestations de
+même nature.
+Pour l'application du présent article, on entend par
+« personne habilitée à engager les dépenses », l'ordonnateur
+ou le sous-ordonnateur.
+La liste des prestations pouvant faire l'objet de bons
+de commande est annexée au présent arrêté (annexe 4). Elle
+peut être modifiée ou complétée par décision du ministre
+des Habous et des affaires islamiques, après avis du conseil
+supérieur du contrôle des finances des Habous publics.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+3  –  Les bons de commande déterminent les
+caractéristiques et la consistance des prestations à satisfaire,
+le délai d'exécution ou la date de livraison et les conditions
+de garantie, outre les pénalités de retard et, le cas échéant,
+toutes les conditions administratives, financières et techniques
+susceptibles de réglementer l'exécution des prestations objet
+du bon de commande.
+4 – Les prestations objet de bons de commande sont
+soumis à une concurrence préalable, sauf lorsque celle-ci n'est
+pas possible ou qu'elle est incompatible avec la prestation.
+A cet effet, le maître d'ouvrage est tenu de consulter, par
+écrit, au moins trois concurrents et de présenter trois devis
+contradictoires.
+5  –  A titre exceptionnel et pour tenir compte des
+spécifciités de certaines prestations ayant trait à la conservation
+et au développement des biens Habous, le ministre des Habous
+et des affaires islamiques peut, par décision prise après avis du
+conseil supérieur du contrôle des finances des Habous publics,
+autoriser, en ce qui concerne lesdites prestations, de rehausser
+la limite de deux cent mille (200.000) dirhams toutes taxes
+comprises prévue ci-dessus, sans toutefois dépasser cinq cent
+mille (500.000) dirhams toutes taxes comprises.
+Chapitre III
+Appel à manifestation d'intérêt
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 105
+
+*ART. 105. –*
+
+Appel à manifestation d'intérêt
+L'appel à manifestation d'intérêt a pour objet de
+permettre au maître d'ouvrage d'identifier les concurrents
+potentiels, préalablement au lancement d'un appel à la
+concurrence.
+Lorsque le maître d'ouvrage décide de recourir à la
+procédure d'appel à manifestation d'intérêt, cet appel fait
+l'objet d'un avis publié dans un journal à diffusion nationale
+au moins et dans le site électronique du ministère des Habous
+et des affaires islamiques, chaque fois que possible, pendant
+un délai fixé par le maître d'ouvrage.
+L'avis d'appel à manifestation d'intérêt comprend
+notamment :
+– l'objet de la prestation à réaliser  ;
+– les pièces à produire par les concurrents  ;
+– le lieu de retrait des dossiers  ;
+– le lieu de réception des candidatures  ;
+– la date limite de la réception des candidatures.
+L'appel à manifestation d'intérêt ne doit pas avoir pour
+effet de limiter le nombre des concurrents.
+L'appel à manifestation d'intérêt n'ouvre aucun droit
+aux concurrents potentiels et ne justifie pas le recours à la
+procédure négociée, ni à l'appel d'offre restreint, à moins que
+les conditions de recours à ces procédures ne soient remplies.
+TITRE IV
+DISPOSITIONS RELATIVES AUX MARCHÉS D'ÉTUDES
+
+
+## Article 106
+
+*ART. 106. –*
+
+Marchés d'études
+A) Lorsque le maître d'ouvrage ne peut effectuer par ses
+propres moyens les études nécessaires, il peut recourir à des
+marchés d'études.
+Les marchés d'études doivent être nettement définis
+quant à leur objet, leur étendue et leur délai d'exécution pour
+permettre la mise en concurrence des prestataires.
+Le marché doit prévoir la possibilité d'arrêter l'étude
+soit à l'issu d'un délai déterminé, soit lorsque les dépenses
+atteignent un montant fixé.
+Lorsque sa nature et son importance le justifient, l'étude
+est scindée en plusieurs phases, chacune étant assortie d'un
+prix. Dans ce cas, le marché peut prévoir l'arrêté de son
+exécution au terme de chacune de ces phases.
+Le maître d'ouvrage dispose des résultats de l'étude pour
+ses propres besoins et pour ceux des collectivités et organismes
+mentionnés par le marché. Ce dernier prévoit les droits
+réservés au titulaire dans le cas de fabrication ou d'ouvrage à
+réaliser. Les droits de propriété industrielle qui peuvent naître
+à l'occasion ou au cours de l'étude sont acquis au titulaire de
+l'étude, sauf dans le cas où le maître d'ouvrage se réserve tout
+ou partie de ces droits en vertu des dispositions du marché.
+B) Evaluation des offres :
+1 –  Pour les études complexes nécessitant des recherches
+spéciales et dans le but d'obtenir une étude de haute qualité,
+le règlement de consultation doit préciser que l'évaluation des
+offres se fait en deux étapes : la première, du point de vue de
+la qualité technique et la deuxième, du point de vue financier.
+A cet effet, le règlement de consultation doit prévoir
+que l'évaluation de la qualité technique se fait sur la base
+de plusieurs critères, notamment l'expérience du concurrent
+quant à la mission concernée, la qualité de la méthodologie
+proposée, le programme d'action, le niveau de qualification
+des experts proposés et, le cas échéant, le degré de transfert
+des connaissances et le taux de participation des nationaux
+parmi le personnel clé proposé pour l'exécution de la mission.
+Une note est attribuée à chaque critère. Les notes des
+critères sont, ensuite, pondérées pour aboutir à une note
+globale sur cent (100). Les pondérations varient en fonction
+des situations. Les pondérations applicables doivent être fixées
+au règlement de consultation.
+A l'issue de cette première phase, un rapport d'évaluation
+technique des propositions est établi. Ce rapport justifie les
+résultats de l'évaluation, en décrivant les points forts et les
+points faibles respectifs des offres.
+Pour l'évaluation financière, l'offre financière comprend
+les accises, taxes et impôts et les frais remboursables, tels que
+les déplacements, la traduction et l'impression des rapports
+ou les frais de secrétariat ainsi que les frais généraux et les
+bénéfices.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Une note financière de 100 peut être attribuée à l'offre
+la moins chère et sont attribués aux autres propositions, des
+notes financières inversement proportionnelles à leur montant.
+Les notes financières peuvent également être déterminées selon
+d'autres méthodes. La méthode à utiliser doit être prévue au
+règlement de consultation.
+La note globale est obtenue par l'addition des notes
+techniques et financières, après introduction d'une pondération.
+La pondération attribuée à l'offre financière est déterminée
+compte tenu de la complexité de la mission et du niveau de
+qualité technique voulu. La pondération attribuée à l'offre
+financière varie généralement entre 10 et 20 points, mais ne
+peut, en aucun cas, dépasser 40 points sur une note globale
+de 100. Les pondérations proposées pour la qualité technique
+et le coût sont fixées dans le règlement de consultation. Est
+désigné attributaire du marché, le concurrent qui a obtenu la
+note globale la plus élevée.
+2 – Pour les études courantes, le règlement de consultation
+peut prévoir une note technique minimale d'admission. Est
+désigné attributaire du marché, tout concurrent ayant présenté
+l'offre la moins-disante et qui a obtenu ladite note technique
+minimale d'admission.
+
+*Entités :* `arrêter` (ARRETE), `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 107
+
+*ART. 107. –*
+
+Marchés de définition
+Les marchés d'études peuvent être précédés de marchés
+de définition qui permettent de fixer les objectifs et les résultats
+à atteindre, les techniques de base à utiliser, les moyens
+humains et matériels à mettre en œuvre pour la réalisation
+des études, les éléments du prix et les différentes phases que
+peuvent traverser les études.
+Plusieurs marchés de définition, relatifs aux détails de
+l'étude, peuvent être passés dans le même objet.
+Les marchés de définition peuvent être passés avec un
+ou plusieurs prestataires.
+Le titulaire d'un marché de définition est choisi après
+recours à la concurrence conformément aux dispositions du
+présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 108
+
+*ART. 108. –*
+
+Incompatibilité entre marché d'études et
+marché de définition
+Le maître d'ouvrage ne peut attribuer l'exécution des
+marchés d'études découlant de marchés de définition aux
+prestataires qui ont réalisé lesdits marchés de définition.
+TITRE V
+DROITS DES CONCURRENTS ET GARANTIES DE
+Chapitre premier
+Droits des concurrents
+
+
+## Article 109
+
+*ART. 109. –*
+
+Réclamations des concurrents et suspension
+de la procédure
+Tout concurrent peut saisir le maître d'ouvrage concerné
+par écrit, lorsqu'il constate que l'une des règles de la procédure
+de passation des marchés, prévues au présent arrêté, n'a pas
+été respectée.
+Le concurrent doit présenter sa réclamation entre la date
+de la publication de l'avis d'appel d'offres et sept (7) jours après
+l'affichage du résultat de l'appel d'offres.
+Il en est de même, lorsqu'un concurrent conteste les
+motifs qui ont été à l'origine de l'élimination de son offre
+par la commission, portés à sa connaissance par le maître
+d'ouvrage en application de l'article 61 ci-dessus. Dans ce cas,
+le concurrent doit présenter sa réclamation dans un délai de
+dix (10) jours, à compter de la date de réception de la lettre
+recommandée, prévue à l'alinéa trois du deuxième paragraphe
+de l'article 61 ci-dessus.
+Le maître d'ouvrage doit communiquer au concurrent
+concerné, la réponse accordée à la réclamation, dans un délai
+de sept (7) jours, à compter de la date de réception de ladite
+réclamation.
+S'il n'est pas satisfait de la réponse du maître d'ouvrage,
+le concurrent peut saisir le ministre des Habous et des affaires
+islamiques. Dans ce cas, le ministre peut soit :
+a)	ordonner de procéder au redressement du vice
+constaté ;
+b)	décider d'annuler la procédure. Toutefois, avant
+de prendre cette décision, il peut suspendre la
+procédure d'appel d'offres pour une durée maximale
+de vingt (20) jours, sous réserve que :
+–  la réclamation soit fondée et qu'elle comporte des
+arguments valables, démontrant que le concurrent subira
+un dommage si la procédure n'est pas suspendue  ;
+– la suspension ne causera pas de préjudice disproportionné
+au maître d'ouvrage ou aux autres concurrents. La
+suspension prévue au présent article n'est pas applicable,
+lorsque le ministre décide, pour des considérations
+urgentes d'intérêt général, la nécessité de poursuivre
+la procédure de passation du marché. La décision du
+ministre des Habous et des affaires islamiques doit
+indiquer les motifs ayant amené à conclure l'existence
+de telles considérations urgentes.
+Toute décision prise en vertu du présent article est versée
+dans le dossier de la procédure de passation du marché et doit
+mentionner les motifs et les circonstances de son adoption
+et être portée à la connaissance du concurrent auteur de la
+réclamation.
+Toutefois, les concurrents ne peuvent contester :
+a)	le choix d'une procédure de passation du marché
+ou de sélection de candidats  ;
+b)	la décision de la commission d'appel d'offres
+d'éliminer l'ensemble des offres conformément aux
+dispositions de l'article 58 ci-dessus  ;
+c)	la décision de l'autorité compétente d'annuler l'appel
+d'offres dans les conditions prévues à l'article 62
+ci-dessus.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 61` → arrêté [✓]
+- `l'article 61` → arrêté [✓]
+- `l'article 58` → arrêté [✓]
+- `l'article 62` → arrêté [✓]
+
+
+## Article 110
+
+*ART. 110. –*
+
+Constitution des groupements
+Les concurrents peuvent constituer des groupements
+pour présenter une offre unique. Le groupement peut être soit
+conjoint, soit solidaire.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+A) Groupement conjoint :
+Le groupement est dit « conjoint » lorsque chaque
+prestataire, membre du groupement, s'engage à exécuter
+une ou plusieurs parties, distinctes tant en définition qu'en
+rémunération, des prestations prévues au marché.
+L'un des membres du groupement, désigné dans l'acte
+d'engagement comme leur mandataire, représente l'ensemble
+des membres vis-à-vis du maître d'ouvrage.
+Ce mandataire est également solidaire de chacun des
+membres du groupement pour ses obligations contractuelles
+à l'égard du maître d'ouvrage pour l'exécution du marché.
+Chaque membre du groupement conjoint, y compris
+le mandataire, doit, individuellement, justifier les capacités
+juridiques, techniques et financières requises pour la réalisation
+des prestations pour lesquelles il s'engage à exécuter.
+Le groupement conjoint doit présenter un acte
+d'engagement unique qui indique le montant total du marché
+et précise, la ou les parties des prestations que chacun des
+membres du groupement conjoint s'engage à réaliser.
+B) Groupement solidaire :
+Le groupement est dit « solidaire » lorsque l'ensemble
+de ses membres s'engagent solidairement, à l'égard du maître
+d'ouvrage, pour la réalisation de la totalité du marché.
+L'un des membres du groupement, désigné dans l'acte
+d'engagement comme leur mandataire, représente l'ensemble
+des membres vis-à-vis du maître d'ouvrage et coordonne
+l'exécution des prestations par tous les membres du groupement.
+Le groupement solidaire doit présenter un acte
+d'engagement unique qui indique le montant total du marché
+et l'ensemble des prestations que les membres du groupement
+s'engagent solidairement à réaliser, étant précisé que cet acte
+d'engagement peut, le cas échéant, indiquer les prestations
+que chacun des membres s'engage à réaliser dans le cadre du
+marché concerné.
+Les capacités financières et techniques du groupement
+solidaire sont évaluées sur la base de la mise en commun des
+moyens et des compétences de l'ensemble de ses membres
+pour satisfaire, de manière complémentaire et cumulative,
+aux exigences fixées à cet effet dans le cadre de la procédure
+de passation du marché.
+C) Dispositions communes aux groupements conjoint
+et solidaire :
+Le cahier des prescriptions spéciales, l'offre financière et,
+le cas échéant, l'offre technique présentés par un groupement
+sont signés soit par l'ensembles des membres du groupement,
+soit uniquement par le mandataire, si celui-ci justifie des
+habilitations sous forme de procurations légalisées pour
+représenter les membres du groupement lors de la procédure
+de passation du marché.
+Lorsque le marché est passé par appel d'offres avec
+présélection ou sur concours, la composition du groupement
+ne peut être modiféie entre la date de la remise des candidatures
+et celle de la remise des offres.
+Un même concurrent ne peut, à titre individuel ou en
+tant que membre d'un groupement, présenter plus d'une offre
+dans le cadre d'une même procédure de passation des marchés.
+Chaque groupement doit présenter, parmi les pièces du
+dossier administratif, une copie légalisée de la convention de
+constitution du groupement, laquelle doit être accompagnée
+d'une note indiquant notamment l'objet de la convention, la
+nature du groupement, le mandataire, la durée de la convention
+et la répartition des prestations, le cas échéant.
+En cas de groupement, le cautionnement provisoire et
+le cautionnement définitif peuvent être souscrits sous l'une
+des formes suivantes :
+a)	au nom collectif du groupement  ;
+b)	par un ou plusieurs membres du groupement pour
+la totalité du cautionnement  ;
+c)	en partie par chaque membre du groupement, de
+telle sorte que le montant du cautionnement soit
+souscrit en totalité par l'ensemble de ces parties.
+Pour les cas prévus aux b) et c) ci-dessus, le récépissé
+du cautionnement provisoire et définitif ou l'attestation de la
+caution personnelle et solidaire en tenant lieu doivent préciser
+qu'ils sont délivrés dans le cadre d'un groupement et en cas de
+défaillance, le montant dudit cautionnement demeure acquis à
+l'administration des Habous publics quel que soit le membre
+défaillant.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 111
+
+*ART. 111. –*
+
+Sous-traitance
+La sous-traitance est un contrat écrit par lequel le
+titulaire confie, à un tiers, l'exécution d'une partie de son
+marché. Le titulaire choisit librement ses sous-traitants à
+condition qu'il notifie au maître d'ouvrage la nature des
+prestations qu'il envisage de sous-traiter, l'identité, la raison
+sociale ou la dénomination sociale et l'adresse des sous-
+traitants ainsi qu'une copie légalisée dudit contrat.
+Les sous-traitants doivent satisfaire aux conditions
+requises des concurrents, prévues à l'article 14 ci-dessus.
+Le maître d'ouvrage peut, dans un délai de quinze (15)
+jours à compter de la date de l'accusé de réception, exercer
+un droit de récusation par lettre motivée, notamment lorsque
+les sous-traitants ne remplissent pas les conditions prévues à
+l'article 14 susvisé.
+Le titulaire demeure personnellement responsable de
+toutes les obligations résultant du marché tant à l'égard du
+maître d'ouvrage que vis-à-vis des ouvriers et des tiers.
+Le maître d'ouvrage ne se reconnaît aucun lien juridique
+avec les sous-traitants.
+La sous-traitance ne peut, en aucun cas, dépasser
+cinquante pour cent (50 %) du montant du marché, ni porter
+sur le lot ou le corps d'état principal du marché.
+Toutefois, le maître d'ouvrage peut fixer, dans le
+règlement de consultation ou dans le cahier des prescriptions
+spéciales, les prestations qui ne peuvent pas faire l'objet de
+sous-traitance.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 14` → BO_7488-bis_Fr [✓]
+- `l'article 14` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 112
+
+*ART. 112. –*
+
+Exclusion de la participation aux marchés
+Lorsque des actes frauduleux, infractions réitérées
+aux conditions de travail ou des manquements graves aux
+engagements pris ont été relevés à la charge du titulaire du
+marché, le ministre des Habous et des affaires islamiques peut,
+par décision motivée prise après avis du conseil supérieur
+du contrôle des finances des Habous publics, publiée sur le
+site du ministère des Habous et des affaires islamiques, sans
+préjudice des poursuites judiciaires et des sanctions dont le
+titulaire est passible, l'exclure temporairement ou définitivement
+de la participation aux marchés passés par l'administration
+des Habous publics. Le titulaire est invité, au préalable, par
+lettre recommandée avec accusé de réception, à formuler ses
+observations au sujet des griefs qui lui sont reprochés et ce, dans
+un délai qui ne peut être inférieur à dix (10) jours.
+Chapitre II
+Garanties de participation
+
+
+## Article 113
+
+*ART. 113. –*
+
+Garanties pécuniaires
+Les cahiers des prescriptions spéciales, prévus à l'article
+6 ci-dessus, régissent les garanties pécuniaires à produire par
+chaque concurrent à titre de cautionnement provisoire et par
+le titulaire du marché à titre de cautionnement définitif, outre
+le montant de la pénalité découlant de sa non constitution
+dans les délais légaux.
+Le maître d'ouvrage fixe la valeur du cautionnement
+provisoire de manière forfaitaire en fonction du degré
+d'importance et de complexité du marché.
+Le montant du cautionnement définitif est fixé à 3 % du
+montant initial du marché, majoré, le cas échéant, du montant
+des avenants.
+Toutefois, un cautionnement définitif ne peut être exigé
+pour certains marchés de services ou de fournitures, lorsque
+les circonstances de passation du marché ou sa nature le
+justifient.
+
+*Citations :*
+
+- `l'article
+6` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 114
+
+*ART. 114. –*
+
+Disposer de la garantie pécuniaire
+L'ordonnateur ou le sous-ordonnateur fournit, s'il est
+nécessaire, au contrôleur financier central ou au contrôleur
+local concerné, la garantie quelle qu'en soit la forme. Ladite
+garantie est saisie, le cas échéant, auprès du contrôleur l'ayant
+reçue.
+
+
+## Article 115
+
+*ART. 115. –*
+
+Caution personnelle et solidaire
+La garantie pécuniaire ou la retenue de garantie peut,
+à la demande du titulaire du marché, être remplacée par un
+engagement de caution solidaire conformément à la législation
+en vigueur.
+
+
+## Article 116
+
+*ART. 116. –*
+
+Cautionnement provisoire
+conformément aux dispositions de l'article 55 du présent
+arrêté, le maître d'ouvrage restitue le cautionnement provisoire
+à tous les participants dont les offres ont été écartées ou il est
+procédé à la libération de la caution personnelle et solidaire
+en tenant lieu. Sous réserve du délai d'engagement des offres,
+le cautionnement provisoire est restitué aux participants dont
+les offres n'ont pas été retenues après le choix de l'attributaire,
+à condition que le cautionnement provisoire souscrit par ce
+dernier ne soit restitué qu'après qu'il souscrive le cautionnement
+définitif et ce, dans un délai maximum de trente (30) jours à
+compter de la date de notification de l'approbation du marché
+lorsque la souscription du cautionnement définitif est exigée.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 55` → arrêté [✓]
+
+
+## Article 117
+
+*ART. 117. –*
+
+Cautionnement définitif
+Le cautionnement définitif ou la caution personnelle et
+solidaire en tenant lieu est consacré à la garantie de la bonne
+exécution du marché et au recouvrement des montants dont
+le titulaire du marché serait reconnu débiteur au titre dudit
+marché.
+
+
+## Article 118
+
+*ART. 118. –*
+
+Restitution du cautionnement définitif
+Le cautionnement définitif ou son reliquat est restitué
+au titulaire du marché ou il est procédé à la libération de la
+caution personnelle et solidaire en tenant lieu ou son reliquat,
+à condition que le titulaire du marché soit acquitté de toutes
+ses obligations et ce, dans les trente jours qui suivent la date
+de la réception définitive des prestations.
+
+
+## Article 119
+
+*ART. 119. –*
+
+Retenue de garantie
+Lorsque les cahiers des prescriptions prévoient une durée
+de garantie susceptible de comprendre, outre le cautionnement
+définitif, la retenue de garantie, cette dernière est déduite des
+montants versés au titre du relevé de compte afin de garantir la
+bonne exécution du marché et le recouvrement des montants
+dont le titulaire du marché serait reconnu débiteur au titre du
+marché qui lui est attribué.
+
+
+## Article 120
+
+*ART. 120. –*
+
+Valeur de la retenue de garantie
+Un pourcentage de dix pour cent (10 %) est déduit
+des montants versés au titre des relevés de compte relatifs
+au marché et ses avenants, le cas échéant. Ladite retenue de
+garantie cesse d'augmenter, le cas échéant, lorsqu'elle atteint
+un taux de sept pour cent (7 %) du prix initial du marché et ses
+avenants et ce, en l'absence de toutes dispositions particulières
+dans le cahier des prescriptions spéciales.
+
+
+## Article 121
+
+*ART. 121. –*
+
+Restitution de la retenue de garantie
+Le montant de la retenue de garantie est versé au titulaire
+du marché ou il est procédé à la libération de la caution
+personnelle et solidaire en tenant lieu une fois que le titulaire
+du marché a rempli toutes ses obligations et ce, dans les trente
+jours suivant la date de la réception définitive des prestations.
+
+
+## Article 122
+
+*ART. 122. –*
+
+Autres garanties
+Les cahiers de charges régissent, le cas échéant, les autres
+garanties, autres que celles prévues ci-dessus, pouvant être
+exigées, à titre exceptionnel, des titulaires des marchés pour
+garantir l'exécution de leurs obligations. Dans ce cas, Lesdits
+cahiers des charges fixent les droits que l'administration des
+Habous peut exercer sur lesdites garanties.
+TITRE VI
+DISPOSITIONS RELATIVES À LA GOUVERNANCE
+DE L'EXÉCUTION DES MARCHÉS
+
+
+## Article 123
+
+*ART. 123. –*
+
+Marchés par maîtrise déléguée
+1 – Le ministre des Habous et des affaires islamiques peut
+confier, par convention, l'exécution en son nom et pour son
+compte de tout ou partie des missions de maîtrise d'ouvrage,
+soit à une administration publique habilitée conformément à
+la réglementation en vigueur ou à un organisme public.
+Les missions de maîtrise d'ouvrage qui peuvent faire
+l'objet de délégation sont :
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– la définition des conditions administratives et techniques
+selon lesquelles l'ouvrage sera étudié et exécuté  ;
+– le suivi et la coordination des études  ;
+– l'examen des avant-projets et des projets  ;
+– l'agrément des avant-projets et des projets  ;
+– l'élaboration des dossiers de consultation  ;
+– la passation des marchés conformément aux dispositions
+du présent arrêté  ;
+– la gestion du marché après son approbation par l'autorité
+compétente  ;
+– le suivi, la coordination et le contrôle des travaux  ;
+– la réception de l'ouvrage.
+Le maître d'ouvrage délégué n'est responsable envers le
+maître d'ouvrage que de la bonne exécution des attributions
+que ce dernier lui a confiées à titre personnel.
+Il représente le maître d'ouvrage à l'égard des tiers dans
+l'exercice des attributions qui lui incombent jusqu'à ce que le
+maître d'ouvrage ait constaté l'achèvement de la mission qui
+lui est confiée dans les conditions définies par la convention.
+2 – La convention précitée prévoit notamment :
+a)	le ou les ouvrages objet de la convention  ;
+b)	les attributions confiées au maître d'ouvrage
+délégué  ;
+c)	les conditions dans lesquelles le maître d'ouvrage
+constate l'achèvement de la mission du maître
+d'ouvrage délégué  ;
+d)	les modalités de paiement d'honoraires au maître
+d'ouvrage délégué et les conditions éventuelles de
+paiement d'honoraires progressifs en fonction de
+l'état d'avancement de la réalisation du projet objet
+de ladite délégation de maîtrise d'ouvrage  ;
+e)	les conditions dans lesquelles la convention peut
+être résiliée  ;
+f)	le mode de financement de l'ouvrage conformément
+à la réglementation en vigueur  ;
+g)	les modalités du contrôle technique, financier
+et comptable exercé par le maître d'ouvrage aux
+différentes phases de l'opération  ;
+h)	les conditions d'agrément des avant-projets et de
+réception de l'ouvrage  ;
+i)	 les obligations de l'administration ou de l'organisme
+public vis-à-vis du maître d'ouvrage en cas d'un litige
+né de l'exécution de la mission de maîtrise d'ouvrage
+déléguée ou d'un dommage causé aux tiers.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI), `arrêté` (ARRETE)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 124
+
+*ART. 124. –*
+
+Personne chargée du suivi de l'exécution du
+marché
+Le maître d'ouvrage peut, par décision, confier la
+mission de suivi de l'exécution du marché à un fonctionnaire
+dit, « personne chargée du suivi de l'exécution du marché ».
+Dans ce cas, le cahier des prescriptions spéciales doit
+expressément fixer les missions que le maître d'ouvrage confie
+à la personne chargée du suivi de l'exécution du marché, ainsi
+que les mesures dont il est habilité à prendre pour l'exécution
+de sa mission sans préjudice aux attributions accordées aux
+ordonnateurs, à leurs délégués et aux sous-ordonnateurs.
+La décision de désignation de la personne chargée du
+suivi de l'exécution du marché est notifiée au titulaire du
+marché.
+
+
+## Article 125
+
+*ART. 125. –*
+
+Rapport de présentation du marché
+Tout projet de marché doit faire l'objet d'un rapport de
+présentation établi par le maître d'ouvrage qui fait ressortir
+notamment :
+– la nature et l'étendue des besoins à satisfaire  ;
+– l'exposé de l'économie générale du marché ainsi que le
+montant de son estimation  ;
+– les motifs ayant déterminé le choix du mode de passation  ;
+– la justification du choix des critères de sélection des
+candidatures et d'évaluation des offres  ;
+– la justification du choix de l'attributaire.
+En ce qui concerne les marchés négociés, le rapport
+de présentation mentionne également, dans la mesure du
+possible, les justifications des prix proposés par rapport aux
+prix normalement pratiqués dans la profession.
+
+
+## Article 126
+
+*ART. 126. –*
+
+Rapport d'achèvement de l'exécution du
+marché
+Tout marché dont le montant est supérieur à un million
+(1.000.000) de dirhams, toutes taxes comprises, doit faire l'objet
+d'un rapport d'achèvement établi par le maître d'ouvrage,
+comportant entre autres, les mentions suivantes :
+– l'objet du marché  ;
+– les parties contractantes  ;
+– la nature des prestations sous-traitées et l'identité des
+sous-traitants  ;
+–  le délai d'exécution, avec indication des dates de
+commencement et d'achèvement des prestations et
+justification des dépassements éventuels par rapport
+à la date initialement prévue pour l'achèvement des
+prestations  ;
+– le ou les lieux de réalisation  ;
+–  le bilan physique et financier faisant ressortir les
+changements apportés au programme initial, les
+variations dans la masse et la nature des prestations et,
+le cas échéant, la révision des prix.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Ce rapport est adressé au ministre des Habous et
+des affaires islamiques dès l'achèvement de l'exécution des
+prestations et est publié, chaque fois que possible, au site
+électronique du ministère des Habous et des affaires islamiques.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 127
+
+*ART. 127. –*
+
+Contrôle et audit interne
+Sans préjudice des audits effectués par le conseil
+supérieur du contrôle des finances des Habous publics, les
+marchés et leurs avenants sont, à l'initiative du ministre des
+Habous et des affaires islamiques, soumis à des contrôles
+et à des audits internes effectués par l'inspection générale
+des Habous. Ces contrôles et audits peuvent porter sur la
+préparation, la passation et l'exécution des marchés.
+Les contrôles et les audits sont obligatoires pour les
+marchés dont le montant excède cinq millions (5.000.000)
+de dirhams, toutes taxes comprises et doivent faire l'objet
+d'un rapport soumis au ministre des Habous et des affaires
+islamiques.
+Ledit seuil peut être modifié par décision du ministre
+des Habous et des affaires islamiques.
+TITRE VII
+
+
+## Article 128
+
+*ART. 128. –*
+
+Avis du conseil supérieur du contrôle des
+finances des Habous publics
+Tout concurrent qui conteste les résultats d'un appel
+d'offres ou de concours pour vice de procédure et qui n'exprime
+pas son consentement sur la décision prise par le ministre des
+Habous et des affaires islamiques dans les conditions prévues à
+l'article 109 ci-dessus, peut adresser une réclamation détaillée
+au président du conseil supérieur du contrôle des finances des
+Habous publics.
+Ce dernier peut soumettre ladite réclamation à une
+commission provisoire du conseil.
+L'avis émis par le conseil supérieur du contrôle des
+finances des Habous publics au sujet de ladite réclamation
+est notifié au ministre des Habous et des affaires islamiques.
+
+*Citations :*
+
+- `l'article 109` → Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005) [✓]
+
+
+## Article 129
+
+*ART. 129. –*
+
+Règlement à l'amiable
+Est créée auprès de l'administration des Habous publics,
+une commission provisoire pour le règlement des litiges à
+l'amiable.
+Ladite commission est créée par décision du ministre
+des Habous et des affaires islamiques qui fixe son mode de
+fonctionnement.
+TITRE VIII
+DATE D'ENTRÉE EN VIGUEUR
+
+
+## Article 130
+
+*ART. 130. –*
+
+Entrée en vigueur
+Le présent arrêté sera publié au Bulletin officiel et entrera
+en vigueur après six (6) mois de la date de sa publication.
+Rabat, le 6 kaada 1434 (13 septembre 2013).
+AHMED TOUFIQ.
+*
+
+*Entités :* `arrêté` (ARRETE), `6 kaada 1434` (DATE_HIJRI), `13 septembre 2013` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 6 kaada 1434, 13 septembre 2013
+
+
+## Article Annexe
+
+*Annexe N° 1*
+
+Annexe N° 1
+Liste des prestations pouvant faire l'objet de contrats
+ou de conventions de droit commun
+– abonnement aux réseaux de télécommunication ;
+–  achat et abonnement aux journaux, revues et
+publications diverses ;
+– abonnement aux services internet ;
+– abonnement d'accès à des bases de données en ligne ;
+– achat d'objets d'art, d'antiquité ou de collection ;
+– mandats légaux ;
+– consultations médicales ;
+– consultations ou recherches juridiques, scientifiques
+ou littéraires qui, compte tenu de leur nature et de
+la qualité de leurs auteurs, ne peuvent faire l'objet de
+marché ;
+– achat de spectacles ;
+– prestations de formation donnant lieu à un diplôme,
+assurées par les universités ou par les établissements
+d'enseignement public ;
+– prestations de formation nécessitant des compétences
+ou expertises particulières ;
+– achat de véhicules et d'engins ;
+– acquisition de vignettes pour le règlement des redevances
+d'eau, d'électricité et de téléphone ;
+– acquisition de vignettes pour l'achat de carburant,
+lubrifiant et réparation du parc automobile des Habous
+publics ;
+– acquisition des vignettes pour frais de transport du
+personnel à l'intérieur du Royaume du Maroc ;
+– prestations postales et frais d'affranchissement ;
+– actes d'achat ou de location d'immeubles ;
+– assurance des véhicules du parc automobile des Habous
+publics ;
+–  assurance de la couverture médicale de base et
+complémentaire ;
+– assurance des fonctionnaires ou personnalités autorisés
+à emprunter la voie aérienne à l'occasion de missions
+officielles ;
+– hôtellerie, hébergement, réception et restauration ;
+– participation des artistes, techniciens et conférenciers
+dans des actions culturelles, scientifqiues ou littéraires ;
+– transport des invités à l'intérieur du Royaume du Maroc,
+du Maroc vers l'étranger ou de l'étranger vers le Maroc ;
+– transport du mobilier, du matériel, des matériaux de
+construction et produits de l'artisanat, des livres, et
+ouvrages destinés aux centres culturels marocains à
+l'étranger.
+– recours à des experts pour l'évaluation des dommages
+résultant d'événements exceptionnels ;
+– contrats d'architectes.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article Annexe
+
+*Annexe N° 2*
+
+Annexe N° 2
+Liste des prestations pouvant faire l'objet de marchés-cadre
+•	 Liste de prestations pouvant faire l'objet de marchés-
+cadre pour une durée de trois (3) ans :
+1–	 Travaux :
+– travaux d'entretien des réseaux d'irrigation ;
+– travaux de reboisement.
+2–	 Fournitures :
+– fourniture de bandes magnétiques et de fournitures
+nécessaires au fonctionnement des équipements de
+production vidéo ;
+–  fourniture de carburant et lubrifiant, des
+pneumatiques et chambres à air et des accumulateurs ;
+–  fourniture de combustibles (charbon, bois de
+chauffage, fuel, gaz) ;
+– fourniture de gaz divers ;
+– fourniture de logiciels informatiques ;
+– fourniture des matériaux de construction ;
+– fourniture de matériel et de produits de lutte contre
+l'incendie ;
+– fourniture de pièces de rechange du parc automobile
+et d'engins ;
+– fourniture de plantes, de plants, de noyers greffés et
+sélectionnés, de graines et d'engrais ;
+– fourniture de portoirs pour culture de plants ;
+– fourniture de produits alimentaires pour usage
+humain ou animal ;
+–  fourniture de produits consommables pour
+équipements informatiques ;
+–  fourniture de produits consommables pour
+prestations d'impression.
+3–	 Services :
+– assistance technique en matière de logiciels ;
+– contrôle et analyse des échantillons prélevés sur les
+produits, matériel et matériaux soumis à des normes
+obligatoires ;
+– contrôle technique du matériel et du mobilier ;
+– essais de génie civil ;
+– étude et analyse des eaux ;
+– essais et contrôles de la conformité des matériaux
+de construction aux normes et règles techniques ;
+– études géotechniques ;
+– études relatives aux choix des terrains et analyses
+du sol ;
+– expertise et contrôle technique des bâtiments et
+ouvrages d'art ;
+– expertise des ouvrages hydrauliques ;
+– formation du personnel ;
+– location de véhicules automobiles y compris le
+matériel roulant et engins avec ou sans fourniture
+de carburant et de lubrifiant ;
+–  location d'équipements (matériel et logiciels)
+médicotechniques et d'hémodialyse y compris
+la fourniture des produits consommables
+d'hémodialyse (Kits) ;
+– location des équipements informatiques ;
+– location du matériel et d'engins ;
+– opérations de mise à quai, de transit, de manutention,
+d'acconage, de magasinage du matériel, meubles
+et produits divers et les interventions y afférentes ;
+– prestations de dialyse rénale ;
+– prestations d'impression ;
+– recherches périodiques pour mise à jour des données
+des systèmes informatiques ;
+– restauration et hébergement ;
+– transport de fonds ;
+– transport du matériel, du mobilier et des produits
+par voie aérienne, maritime ou terrestre ;
+– transport et manutention du matériel, du mobilier
+et de documents.
+•	 Prestations pouvant faire l'objet de marchés-cadre pour
+une période de cinq (5) ans :
+– gestion des archives.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article Annexe
+
+*Annexe N° 3*
+
+Annexe N° 3
+Liste des prestations pouvant faire l'objet de marchés
+reconductibles
+•	 Liste de prestations pouvant faire l'objet de marchés
+reconductibles pour une durée de trois (3) ans :
+4–	 Travaux :
+– travaux d'entretien et maintenance des espaces verts.
+5–	 Services :
+– Assurance contre :
+* les accidents de travail et la responsabilité civile
+du personnel, étudiants et élèves ;
+* les explosions et incendies des bâtiments, magasins
+et entrepôts ;
+* les dégâts dus aux eaux.
+* entretien et maintenance des équipements
+informatiques (matériel, logiciels et progiciels) ;
+* Entretien et maintenance des équipements
+techniques, électriques, électroniques,
+scientifiques et de télécommunication y compris
+avec ou sans la fourniture des pièces de rechange ;
+* entretien des engins et matériel de chantier ;
+* entretien et réparation du mobilier ;
+* entretien et nettoyage des bâtiments administratifs ;
+* gardiennage et surveillance des bâtiments
+administratifs.
+•	 Prestations pouvant faire l'objet de marchés
+reconductibles pour une durée de cinq (5) ans :
+–  hébergement et infogérance des systèmes
+d'information ;
+– location de véhicules automobiles avec ou sans
+fourniture de carburant et de lubrifiant ;
+–  location de licences d'utilisation de logiciels
+informatiques.
+
+
+## Article Annexe
+
+*Annexe N° 4*
+
+Annexe N° 4
+Liste des prestations pouvant faire l'objet de bons de
+commande
+– Travaux :
+– travaux d'aménagement, d'entretien et de restauration
+des bâtiments;
+– travaux d'aménagement, d'entretien et de restauration
+des ouvrages, voies et réseaux ;
+– travaux d'aménagement des espaces verts avec ou sans
+fourniture de graines et plants ;
+– travaux d'installation de matériel divers.
+– Fournitures :
+– fournitures d'animaux ;
+– articles de correction de la vue et articles pour personnes
+à besoins spécifiques ;
+– carburants et lubrifiants ;
+– cartes géographiques, topographiques et géologiques
+et photographies aériennes ;
+– détergents et produits de nettoyage ;
+– documentation ;
+– engrais ;
+– fourniture de badge, articles similaires et accessoires ;
+– fourniture d'équipements techniques et les pièces de
+rechange y afférentes;
+– fourniture de sacs et produits d'emballage ;
+– fournitures de bureau ;
+– fournitures électriques ;
+– fournitures pour matériel technique et informatique ;
+– fourniture de graines, plantes, plants et portoirs ;
+– habillement ;
+– imprimés, prestations d'impression, de reproduction et
+de photographie ;
+– manuels et fournitures scolaires et d'enseignement ;
+– matériel de bureau ;
+– matériaux de construction ;
+– matériel de transport ;
+– matériel et articles de sport ;
+– matériels et articles de literie et de couchage et matériels
+de cuisine et de buanderie ;
+– matériel informatique, pièces de rechange et logiciels ;
+– matériel technique ;
+– médailles, effgiies, drapeaux et fanions ;
+– médicaments ;
+– mobilier de bureau ;
+– outillage et quincaillerie ;
+– produits alimentaires pour usage animal ;
+– produits alimentaires pour usage humain ;
+– produits chimiques et de laboratoire, pesticides et
+insecticides ;
+– produits de chauffage ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– produits et matériels de lutte contre l'incendie ;
+–  produits d'impression, de reproduction et de
+photographie ;
+– pièces de rechange pour matériel technique ;
+– pièces de rechange et pneumatiques pour véhicules et
+engins.
+Services :
+– entretien des logiciels et progiciels ;
+– entretien et réparation de matériel et de mobilier ;
+– études, conseil et formation ;
+– hôtellerie, hébergement, réception et restauration ;
+– location de matériel et de mobilier ;
+– location de moyens de transport des personnes (voitures
+et autocars) ;
+– essais et contrôle de la conformité des matériaux de
+construction aux normes et règles techniques ;
+– expertise et contrôle technique des bâtiments ;
+– location d'engins et de moyens de transport de matériels,
+matériaux et engins ;
+– location de camions citernes ;
+– location de salles et de stands ;
+– montage et démontage du matériel hydraulique et
+électromécanique ;
+– organisation de manifestations culturelles, scientifqiues
+et religieuses ;
+–  prestations d'assistance et de conseil juridique et
+comptable ;
+– prestations de contrôle et d'analyse des échantillons
+prélevés sur les produits, matériel ou matériaux soumis
+à des normes obligatoires ;
+– prestations de nettoyage des bâtiments administratifs ;
+– prestations de gardiennage des bâtiments administratifs ;
+– prestations de publicité ;
+– prestations topographiques ;
+– réparation et maintenance des équipements techniques ;
+– traduction des documents et correspondances ;
+– transport, acconage, magasinage et transit ;
+– prestations géotechniques ;
+– prestations d'études et de maîtrise d'œuvres relatives aux
+bâtiments ou aux ouvrages menaçant ruine.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin Officiel » n° 6198 du 18 hija 1434 (24 octobre 2013).
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI), `18 hija 1434` (DATE_HIJRI), `24 octobre 2013` (DATE_GREGORIAN)
+
+*Dates :* 15 ramadan 1447, 18 hija 1434, 24 octobre 2013
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est complétée, comme suit, la
+liste des prestations pouvant faire l'objet de contrats ou de
+conventions de droit commun, figurant à l'annexe n°1 de
+l'arrêté susvisé n° 258-13 :
+« Annexe n°1
+« Liste des prestations pouvant faire l'objet de contrats
+« ou de conventions de droit commun :
+« – abonnement aux réseaux de télécommunication ;
+« – contrats d'architectes ;
+« – prestations de reliure, de calligraphie et de décoration
+« relatives aux causeries hassaniennes ramadaniennes ;
+« – traduction des causeries hassaniennes ramadaniennes
+« et des documents y afférents.»
+
+*Entités :* `arrêté susvisé n° 258-13` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+La présente décision sera publiée au Bulletin
+officiel.
+Rabat, le 3 rabii II 1440 (11 décembre 2018).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6757 du 26 joumada II 1440 (4 mars 2019).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `3 rabii II 1440` (DATE_HIJRI), `11 décembre 2018` (DATE_GREGORIAN), `Bulletin officiel » n° 6757` (BULLETIN_OFFICIEL), `26 joumada II 1440` (DATE_HIJRI), `4 mars 2019` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 3 rabii II 1440, 11 décembre 2018, 26 joumada II 1440, 4 mars 2019, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Est complétée, comme suit, la liste
+des prestations pouvant faire l'objet de bons de commande,
+fgiurant à l'annexe n°4 de l'arrêté susvisé n° 258-13 :
+« – Travaux :
+« – …………………… […texte non modifié…] …………………….. ;
+« – ………………… […texte non modifié…] ……………………….. ;
+« – travaux d'installation de matériel divers ;
+« – restauration, traitement, entretien et numérisation
+des manuscrits et des documents Habous.
+« – Fournitures :
+« – animaux ; »
+(Le reste sans modification.)
+
+*Entités :* `arrêté susvisé n° 258-13` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+La présente décision sera publiée au Bulletin
+officiel.
+Rabat, le 21 kaada 1440 (24 juillet 2019).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6819 du 8 safar 1441 (7 octobre 2019).
+
+*Entités :* `21 kaada 1440` (DATE_HIJRI), `24 juillet 2019` (DATE_GREGORIAN), `Bulletin officiel » n° 6819 du 8 safar 1441 (7 octobre 2019)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 21 kaada 1440, 24 juillet 2019
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Est modifiée et complétée, comme
+suit, la liste des prestations pouvant faire l'objet de contrats
+ou de conventions de droit commun, fgiurant à l'annexe n°1
+de l'arrêté susvisé n° 258-13 :
+« – transport des invités ……………… vers le Maroc ;
+«  –  transport du mobilier, matériel, matériaux de
+« construction, produits de l'artisanat, livres, ouvrages
+« et outils ;
+« – recours à des experts………………………………
+(Le reste sans modification.)
+ART. 2. – La présente décision sera publiée au Bulletin
+officiel.
+Rabat, le 8 joumada II 1442 (22 janvier 2021).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6982 du 16 ramadan 1442 (29 avril 2021).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté susvisé n° 258-13` (ARRETE), `8 joumada II 1442` (DATE_HIJRI), `22 janvier 2021` (DATE_GREGORIAN), `Bulletin officiel » n° 6982 du 16 ramadan 1442 (29 avril 2021)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 8 joumada II 1442, 22 janvier 2021, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+L'organisation financière et
+comptable des Habous publics est fixée conformément aux
+dispositions du présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART.  2  –*
+
+On entend par «  organisation financière
+et comptable des Habous publics », l'ensemble des règles
+régissant l'élaboration, l'approbation et l'exécution du budget
+spécial des Habous publics, le contrôle de ses opérations
+financières et comptables ainsi que la tenue de sa comptabilité
+et la détermination des obligations et des responsabilités des
+personnes chargées de son application.
+
+
+## Article 3
+
+*ART. 3. –*
+
+Au sens du présent arrêté, décisions et notes
+directives prises pour développer certaines de ses dispositions,
+on entend par :
+– ordonnateur : le ministre des Habous et des affaires
+islamiques chargé, en vertu de l'article 144 du code
+des Habous, de l'encaissement des recettes et de
+l'ordonnancement des dépenses inscrites au budget
+annuel des Habous publics ;
+– sous–ordonnateurs : les Nadher des Habous, agents et
+fonctionnaires de l'administration des Habous désignés
+en cette qualité par l'ordonnateur, dans les limites qu'il
+indique dans les ordres de délégation de crédits ;
+– ordonnateurs–délégués : les agents et fonctionnaires de
+l'administration des Habous, délégués en cette qualité
+par l'ordonnateur, pour l'exécution des opérations
+financières au nom et sous la responsabilité de ce
+dernier ;
+– régisseur  : agent désigné par l'administration des
+Habous dans les conditions fixées par décision de
+l'autorité gouvernementale chargée des Habous, chargé,
+le cas échéant, du paiement de certaines dépenses sous
+la supervision du contrôleur financier concerné ;
+– receveur : agent désigné par le ministre des Habous et
+des affaires islamiques conformément aux modalités et
+conditions fixées par décision du ministre, chargé, sous
+la responsabilité du contrôleur financier concerné, de
+la perception directe des recettes exigibles auprès des
+débiteurs.
+TITRE II
+ORGANISATION FINANCIÈRE DES HABOUS PUBLICS
+Chapitre premier
+Structure du budget
+Section première. –  Principes généraux
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 144` → arrêté [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+Il est procédé à la perception des recettes
+sans compensation entre les recettes et les dépenses relatives
+à la première division du budget ; la somme des recettes de
+la première division est imputée à l'exécution l'ensemble des
+dépenses dans la même division.
+Toutefois, une recette peut être imputée à une dépense
+de la deuxième division, dans le budget ou dans les comptes
+spéciaux.
+
+
+## Article 5
+
+*ART. 5. –*
+
+Les engagements des dépenses doivent rester
+dans la limite des autorisations budgétaires des Habous
+publics.
+Lesdits engagements dépendent de la disponibilité
+des crédits budgétaires alloués à l'acquisition des biens, aux
+services et aux salaires des fonctionnaires et des agents.
+Toutefois, il est possible, en cas d'obtention de ressources
+supplémentaires au cours de l'année, sous réserve des
+dispositions de l'article 140 du Code des Habous, d'affecter
+lesdites ressources à l'ouverture de nouveaux crédits
+pour la couverture des dépenses de fonctionnement ou
+d'investissement, selon le cas.
+Lorsque les ressources imputées à la couverture des
+dépenses de fonctionnement s'avèrent insuffisantes, l'autorité
+gouvernementale chargée des Habous peut, conformément aux
+dispositions de l'article 149 du Code des Habous, autoriser,
+par décision spéciale, d'effectuer des virements, dans la même
+division, d'un chapitre à un autre ou d'une section à une autre,
+sous réserve des règles prévues à l'article 22 ci–après.
+
+*Citations :*
+
+- `l'article 140` → dahir n° 1-09-236 [✓]
+- `l'article 149` → dahir n° 1-09-236 [✓]
+- `l'article 22` → dahir n° 1-09-236 [✓]
+
+
+## Article 6
+
+*ART. 6. –*
+
+Les conventions financières de l'administration
+des Habous, les garanties accordées et les crédits d'engagement
+peuvent engager les finances des années ultérieures.
+Section 2. –  Budget spécial des Habous publics
+
+
+## Article 7
+
+*ART. 7. –*
+
+Le budget spécial des Habous publics se
+compose d'un budget principal et de comptes spéciaux.
+Les équilibres du budget, y compris les comptes spéciaux,
+sont introduits dans un état consolidé, conformément aux
+modalités fixées par décision de l'autorité gouvernementale
+chargée des Habous.
+Section 3. –  Comptes spéciaux
+
+
+## Article 8
+
+*ART. 8. –*
+
+Les comptes spéciaux sont créés sur la base d'un
+programme établi par le ministre des Habous et des affaires
+islamiques en sa qualité d'ordonnateur. Ledit programme
+est soumis au conseil supérieur du contrôle des finances des
+Habous publics pour approbation.
+
+
+## Article 9
+
+*ART. 9. –*
+
+Les comptes spéciaux ont pour objet :
+– soit de décrire des opérations qui, en raison de leur
+caractère ou d'un lien de cause à effet réciproque entre
+la recette et la dépense, ne peuvent être commodément
+incluses dans le cadre du budget ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– soit de décrire des opérations en conservant leur
+spécificité et en assurant leur continuité d'une année
+budgétaire sur l'autre ;
+– soit de garder trace, sans distinction d'année budgétaire,
+d'opérations qui se poursuivent pendant plus d'une
+année.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 10
+
+*ART. 10. –*
+
+Des comptes spéciaux peut être créés au
+cours de l'année budgétaire, par décision de l'autorité
+gouvernementale chargée des Habous.
+La décision de création desdits comptes est approuvée
+par le conseil supérieur du contrôle des finances des Habous
+publics dans un délai de quinze (15) jours à compter de la date
+de sa réception par le conseil.
+
+
+## Article 11
+
+*ART. 11. –*
+
+Les comptes spéciaux sont divisés en comptes
+d'affectation spéciale et comptes de dépenses sur dotations.
+
+
+## Article 12
+
+*ART.  12.  –*
+
+Les comptes d'affectation spéciale sont
+des comptes qui retracent la prise en recettes de ressources
+affectées au financement d'une catégorie déterminée de
+dépenses et l'emploi donné à ces ressources. Ces comptes
+sont créés par arrêté de l'autorité gouvernementale chargée
+des Habous.
+Le montant des prévisions est inscrit à la récapitulation
+générale du budget spécial des Habous. Les crédits de
+paiement sont ouverts dans la limite des recettes réalisées
+sur autorisation de l'autorité gouvernementale chargée des
+Habous.
+Lorsque les recettes réalisées sont supérieures aux
+prévisions, des crédits supplémentaires peuvent être ouverts
+dans la limite de cet excédent.
+Les disponibilités des comptes d'affectation spéciale sont
+reportées dans l'année budgétaire suivante pour permettre la
+continuation des opérations d'une année sur l'autre.
+Tout compte d'affectation spéciale qui n'a pas donné
+lieu à dépenses pendant trois années consécutives peut être
+soldé au terme de la troisième année et le solde pris en recette
+est inscrit à la deuxième partie du budget.
+Le compte d'affectation spéciale est soldé et clôturé par
+décision de l'autorité gouvernementale chargée des Habous.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 13
+
+*ART. 13. –*
+
+Les comptes de dépenses sur dotation sont des
+comptes où sont inscrites des opérations dont le financement
+est assuré par des ressources préalablement définies à la
+dépense. Lesdits comptes sont créés par arrêté de l'autorité
+gouvernementale chargée des Habous.
+L'excédent des ressources des comptes de dépenses sur
+dotations de chaque année budgétaire est reporté sur l'année
+suivante. S'il n'est pas consommé l'année suivante, il est pris
+en recette à la deuxième partie du deuxième budget qui suit
+celui au cours duquel il est réalisé.
+Lorsque l'excédent n'est pas consommé l'année suivante,
+les dispositions de l'article 12 ci–dessus lui sont appliquées, à
+l'exception des comptes de dépenses sur dotation relatifs aux
+opérations de souscriptions aux bons Habous et à la collecte
+des dons en numéraire.
+Les comptes de dépenses sur dotations sont élaborés,
+approuvés, exécutés et contrôlés selon les mêmes modalités
+que celles prévues pour le budget.
+Chapitre II
+Elaboration du budget spécial des Habous publics
+Section première. –  Programmation pluriannuelle
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 12` → arrêté [✓]
+
+
+## Article 14
+
+*ART.  14.  –*
+
+Le budget est établi sur la base d'une
+programmation triennale de l'ensemble des ressources et
+des charges de l'administration des Habous. Les modalités
+d'élaboration de ladite programmation sont fixées par décision
+de l'autorité gouvernementale chargée des Habous.
+
+
+## Article 15
+
+*ART. 15. –*
+
+Les programmes pluriannuels d'investissement
+découlant de la programmation triennale, prévue à l'article 14
+ci–dessus, peuvent faire l'objet d'autorisations établies sur la
+base des excédents prévisionnels dans les conditions fixées par
+décision de l'autorité gouvernementale chargée des Habous.
+
+*Citations :*
+
+- `l'article 14` → dahir n° 1-09-236 [✓]
+
+
+## Article 16
+
+*ART. 16. –*
+
+Le budget doit comprendre les crédits relatifs
+aux dépenses obligatoires et les ressources nécessaires à leur
+couverture.
+Sont obligatoires pour l'administration des Habous, les
+dépenses afférentes aux objets suivants :
+– Les primes des préposés religieux ;
+– Les traitements et indemnités des fonctionnaires inscrits
+au budget spécial des Habous publics ;
+– La contribution de l'administration des Habous aux
+organismes de prévoyance sociale et caisses de retraite ;
+– Les frais de consommation d'eau, d'électricité et des
+télécommunications ;
+– Les frais d'actions en justice ;
+– Les dettes exigibles ;
+– Les engagements financiers résultants des conventions
+et contrats conclus par l'administration des Habous.
+Section 2. –  Elaboration et approbation du budget
+
+
+## Article 17
+
+*ART. 17. –*
+
+Le projet de budget est soumis au conseil
+supérieur du contrôle des finances des Habous publics pour
+approbation, au plus tard avant la fin du mois d'octobre de
+chaque année.
+Le projet est assorti d'une note de présentation et
+des pièces, données et indications précisant ses contenus,
+notamment les pièces relatives aux dépenses budgétaires et
+aux opérations des comptes spéciaux, ainsi que d'un rapport
+comportant les grandes lignes de l'équilibre financier du
+budget annuel des Habous publics, les résultats obtenus, les
+perspectives et les modifications apportées aux ressources et
+aux dépenses.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 18
+
+*ART. 18. –*
+
+Les dotations budgétaires affectées aux
+dépenses d'investissement comprennent :
+Des crédits d'engagement qui constituent la limite
+maximale des dépenses que les ordonnateurs sont autorisés
+à engager pour l'exécution des investissements et des travaux
+prévus ;
+Des crédits de paiement qui constituent la limite
+supérieure des dépenses susceptibles d'être mandatées au cours
+de l'année pour la couverture des engagements contractés par
+l'administration des Habous.
+
+
+## Article 19
+
+*ART. 19. –*
+
+Les autorisations du budget d'investissement
+demeurent valables jusqu'à ce qu'il soit procédé à leur
+annulation. Leur révision éventuelle est approuvée dans les
+mêmes conditions et formes que le budget.
+Chapitre III
+Exécution du budget spécial des Habous publics
+Section première. –  Modification des crédits
+
+
+## Article 20
+
+*ART. 20. –*
+
+Le budget spécial des Habous publics peut
+être modifié en cours d'année par l'élaboration de budgets
+rectificatifs. Les modifications doivent être apportées dans
+les mêmes formes et conditions que celles prévues pour
+l'adoption et l'approbation du budget, à l'exception des cas
+de modification prévus à l'article 21 ci–après.
+
+*Citations :*
+
+- `l'article 21` → dahir n° 1-09-236 [✓]
+
+
+## Article 21
+
+*ART. 21. –*
+
+Les virements de crédits de fonctionnement,
+dans le même chapitre, peuvent être opérés par décision du
+sous–ordonnateur.
+Les virements de crédits de fonctionnement, dans le
+même titre, peuvent être opérés par décision de l'ordonnateur.
+Toutefois, les crédits prévus au titre des dépenses des
+fonctionnaires ainsi que des engagements financiers résultant
+des conventions et contrats conclus par l'administration des
+Habous, ne peuvent faire l'objet de prélèvements au profit
+d'autres dépenses qu'après approbation du conseil supérieur
+du contrôle des finances des Habous publics.
+Les décisions de virement des crédits susmentionnées
+sont notifiées au conseil supérieur du contrôle des finances des
+Habous publics et au contrôleur financier concerné.
+
+
+## Article 22
+
+*ART. 22. –*
+
+En cas de reversement pour trop perçus, des
+rétablissements de crédits peuvent intervenir. Toutefois, ces
+rétablissements ont lieu pendant les deux années qui suivent
+l'exercice qui a supporté la dépense correspondante.
+Section 2. –  Report de crédits
+
+
+## Article 23
+
+*ART. 23. –*
+
+Les crédits ouverts au titre du budget ne créent
+aucun droit au titre du budget suivant. Toutefois, les crédits
+de paiement concernant les dépenses d'investissement de la
+deuxième division du budget et les crédits de fonctionnement,
+prévus à l'article 22 ci–dessus, sont reportés sur le budget de
+l'année suivante.
+
+*Citations :*
+
+- `l'article 22` → dahir n° 1-09-236 [✓]
+
+
+## Article 24
+
+*ART. 24. –*
+
+Les crédits de fonctionnement engagés et qui
+n'ont pas donné lieu à paiement à la clôture de l'exercice sont
+reportés sur l'année suivante.
+Les crédits de fonctionnement engagés et qui n'ont
+pas donné lieu à paiement ainsi que les crédits de paiement
+reportés concernant les dépenses d'investissement, ouvrent
+droit à une dotation de même montant s'ajoutant aux dotations
+de l'année.
+
+
+## Article 25
+
+*ART. 25. –*
+
+Le report des crédits est réalisé au vu d'un
+état détaillé établi par l'ordonnateur et visé par le contrôleur
+financier.
+Un exemplaire dudit état est adressé au conseil supérieur
+du contrôle des finances des Habous publics.
+Section 3. –  Annulation et suspension de crédits
+
+
+## Article 26
+
+*ART. 26. –*
+
+Sont annulés, les crédits de fonctionnement
+ouverts au titre du budget et non engagés à la clôture de
+l'exercice budgétaire.
+TITRE III
+ORGANISATION COMPTABLE DES HABOUS PUBLICS
+Chapitre premier
+Règles générales de la comptabilité des Habous publics
+Section première. –  Principes généraux
+
+
+## Article 27
+
+*ART. 27. –*
+
+On entend par « procédures comptables
+relatives à la gestion des finances des Habous publics »,
+l'ensemble des règles qui régissent l'exécution et le contrôle des
+opérations financières, la tenue de la comptabilité y afférente,
+ainsi que l'ensemble des obligations et responsabilités des
+personnes qui sont chargées de l'application desdites règles.
+Les opérations financières et comptables des Habous
+publics comprennent les opérations budgétaires annuelles y
+afférentes.
+
+
+## Article 28
+
+*ART. 28. –*
+
+L'ordonnateur, les sous–ordonnateurs et les
+contrôleurs financiers sont chargés des opérations financières
+et comptables émanant de l'exécution du budget des Habous
+publics.
+
+
+## Article 29
+
+*ART.  29.  –*
+
+La fonction d'ordonnateur et de sous–
+ordonnateur est incompatible avec celle du contrôleur financier
+central, du contrôleur financier adjoint et du contrôleur local.
+Le conjoint d'un ordonnateur ou d'un sous–ordonnateur
+ne peut assurer la fonction de contrôleur de l'administration
+des Habous auprès de laquelle ledit ordonnateur ou sous–
+ordonnateur exerce sa fonction. La même incompatibilité
+s'applique à ses ascendants et descendants.
+Section 2. –  Règles applicables à l'ordonnateur
+
+
+## Article 30
+
+*ART. 30. –*
+
+L'ordonnateur peut, sous sa responsabilité,
+déléguer sa signature par voie d'arrêté établi en deux originaux,
+dont l'un est notifié au contrôleur financier central. Lesdits
+originaux doivent comporter le spécimen de signature des
+ordonnateurs délégués.
+En outre, l'ordonnateur peut, par arrêté, désigner des
+sous–ordonnateurs et leurs délégués, auxquels il délègue ses
+pouvoirs dans les limites fixées par l'ordonnance de délégation
+des crédits.
+Les ordonnateurs délégués, les sous–ordonnateurs et
+leurs délégués agissent sous la responsabilité et le contrôle
+de l'ordonnateur.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 31
+
+*ART. 31. –*
+
+L'ordonnateur est ses délégués ainsi que les
+sous–ordonnateurs doivent se faire accréditer auprès des
+contrôleurs chargés des recettes et des dépenses dont ils
+ordonnent l'exécution, et leur communiquer les spécimens
+de leurs signatures.
+
+
+## Article 32
+
+*ART. 32. –*
+
+Les ordres de recouvrement des recettes ou
+de paiement émis par l'ordonnateur sont inscrites dans des
+comptabilités tenues suivant les règles fixées par le présent
+arrêté et les décisions prises pour son application.
+Chapitre II
+Règles relatives à l'exécution des opérations financières
+Section première. –  Règles relatives à l'exécution des recettes
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 33
+
+*ART.  33.  –*
+
+Les créances des Habous publics sont
+constatées et liquidées, selon leur nature, dans les conditions
+fixées par les lois et règlements en vigueur.
+
+
+## Article 34
+
+*ART. 34. –*
+
+Le recouvrement des créances des Habous
+publics est effectué dans les conditions fixées par décision de
+l'autorité gouvernementale chargée des Habous.
+
+
+## Article 35
+
+*ART. 35. –*
+
+Toute créance liquidée doit être appuyée de
+tous les documents justifiant la régularité de la perception.
+
+
+## Article 36
+
+*ART. 36. –*
+
+Tout ordre de recettes doit indiquer les bases
+de liquidation de la créance ainsi que les éléments permettant
+l'identification du débiteur.
+
+
+## Article 37
+
+*ART. 37. –*
+
+Le contrôleur financier concerné vise et
+exécute les ordres de recouvrement des recettes émis par le
+sous–ordonnateur.
+Les ordres de recettes individuels sont récapitulés sur
+un bordereau d'émission ou dans une fiche informatique,
+communiqué au contrôleur concerné qui procède au
+rapprochement du total cumulé avec les charges qu'il a admises.
+Il en est de même pour les réductions et les annulations d'ordres
+de recettes.
+
+
+## Article 38
+
+*ART. 38. –*
+
+Le contrôleur financier concerné est tenu,
+avant d'effectuer le visa prévu à l'article ci–dessus, de vérifier
+les pièces justificatives fixées par décision de l'autorité
+gouvernementale chargée des Habous.
+Il s'assure, dans les mêmes conditions, de la régularité
+des réductions et des annulations de recettes.
+Lorsque le contrôleur financier concerné découvre, au
+cours du contrôle prévu à l'alinéa premier du présent article,
+une omission ou une erreur matérielle, il renvoie l'ordre de
+recettes ou l'ordre d'annulation ou de réduction à l'ordonnateur
+ou au sous–ordonnateur, appuyé d'une note dûment motivée,
+aux fins de régularisation.
+
+
+## Article 39
+
+*ART.  39.  –*
+
+Tout accord, contrat ou engagement
+comportant la perception de recettes échelonnées sur plusieurs
+années, donne lieu à l'émission par l'ordonnateur ou le sous–
+ordonnateur compétent d'un ordre de recettes pour le montant
+dû au titre de chaque année, qu'il adresse, pour visa, au
+contrôleur chargé du recouvrement, deux mois avant la date
+de l'échéance.
+L'ordre de recette émis au titre de la première année doit
+être appuyé d'un exemplaire de l'acte ayant donné naissance
+à la créance.
+En cas de modification, l'acte modificatif est annexé à
+l'ordre de recette émis au titre de l'année concernée.
+
+
+## Article 40
+
+*ART. 40. –*
+
+Le contrôleur financier concerné est tenu,
+lors de tout versement instantané, de remettre un reçu ou une
+quittance qui forme titre envers l'administration des Habous.
+Lesdits titres peuvent être édités sous forme électronique.
+
+
+## Article 41
+
+*ART. 41. –*
+
+Toute erreur de liquidation, double ou faux
+usage, constaté au préjudice du débiteur, donne lieu à l'émission
+d'un ordre d'annulation ou de réduction de recettes. Ledit
+ordre précise les motifs d'annulation et, en cas de réduction,
+les bases de la nouvelle liquidation.
+Lorsqu'il s'agit de falsification, double usage ou erreur
+dans les bases du calcul, les décisions d'annulation ou de
+dégrèvement total ou partiel sont établies d'office ou à la
+demande des débiteurs.
+Lesdites décisions sont adressées au contrôleur financier
+concerné dans les conditions prévues pour les ordres de
+recettes, prévues à l'article 40 ci–dessus, pour réduction de
+ses charges.
+Les restitutions consécutives à une annulation ou à un
+dégrèvement doivent faire l'objet d'un ordonnancement sur le
+budget de l'administration des Habous.
+Les créances ayant fait l'objet d'une annulation, à la
+suite d'une décision judiciaire définitive, donnent lieu à une
+réduction des charges au niveau des indications comptables
+dans les cahiers du contrôleur financier concerné.
+Section 2. –  Perception des recettes
+
+*Citations :*
+
+- `l'article 40` → dahir n° 1-09-236 [✓]
+
+
+## Article 42
+
+*ART. 42. –*
+
+Le percepteur procède, sous la responsabilité
+du contrôleur financier concerné, à la perception des recettes
+dont il a l'ordre d'assurer le recouvrement.
+
+
+## Article 43
+
+*ART. 43. –*
+
+Les receveurs sont désignés par décision du
+ministre chargé des Habous, laquelle fixe leurs missions et
+leurs champs d'intervention, tout en précisant la nature des
+recettes qu'ils sont autorisés à percevoir.
+
+
+## Article 44
+
+*ART. 44. –*
+
+Les recettes encaissées par versement spontané
+au titre des droits au comptant sont immédiatement versées
+par les percepteurs qui en assurent la perception au contrôleur
+financier concerné, lequel est tenu d'en imputer le montant, dès
+réception, au budget de l'administration des Habous.
+
+
+## Article 45
+
+*ART. 45. –*
+
+Dès l'arrêté des écritures du mois, et au plus
+tard le huitième jour du mois suivant, le contrôleur financier
+concerné notifie à l'ordonnateur ou au sous–ordonnateur
+concerné, le montant des recettes réalisées au cours du mois
+écoulé, au moyen d'un certificat global de recettes appuyé des
+justifications requises, aux fins d'émettre un ordre de recettes
+de « régularisation » au titre du mois de constatation des
+recettes. L'émission, par l'ordonnateur ou le sous–ordonnateur
+concerné, dudit ordre de recettes doit intervenir avant le
+quinzième jour du mois qui suit.
+A défaut d'émission de l'ordre de recettes, ledit contrôleur
+joint au compte de l'administration des Habous, une copie du
+certificat de recettes précité.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 46
+
+*ART. 46. –*
+
+Le contrôleur financier concerné procède,
+sans préavis et chaque fois qu'il le juge opportun ou à la
+demande de l'ordonnateur ou du sous–ordonnateur, à :
+– l'audit de la comptabilité du percepteur ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– l'inventaire des registres de quittances ;
+– l'appréciation du fonctionnement et de la performance
+de la perception.
+Ledit audit et ledit inventaire doivent être effectués au
+moins une fois par mois.
+Le percepteur est tenu de présenter toutes les pièces lors
+de tout audit.
+Les percepteurs sont, en outre, soumis aux contrôles
+prévus à l'article 47 ci–après.
+Toute irrégularité ou infraction aux règlements relevée
+au cours d'une opération d'audit, est signalée, immédiatement,
+par le contrôleur à l'ordonnateur ou au sous–ordonnateur
+concerné.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 47` → dahir n° 1-09-236 [✓]
+
+*Personnes :* Ledit audit
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 47
+
+*ART.  47.  –*
+
+Les percepteurs sont responsables des
+détournements, malversations, déficit et débet commis ou
+constatés dans leur caisse.
+Ils sont déclarés débiteurs par décision du ministre des
+Habous et des affaires islamiques, prise soit à son initiative,
+soit sur proposition du sous–ordonnateur concerné, soit sur la
+base du procès–verbal d'audit des organes de contrôle habilités.
+Le percepteur qui a comblé le déficit ou le débet subroge
+les Habous publics quant à leurs droits pour le recouvrement
+des avances payés.
+
+
+## Article 48
+
+*ART. 48. –*
+
+En cas de faute du percepteur, le contrôleur
+concerné est tenu de demander à l'ordonnateur ou au sous–
+ordonnateur de prendre les mesures susceptibles de mettre fin
+aux irrégularités enregistrées.
+La responsabilité du contrôleur concerné peut être
+engagée s'il n'exécute pas les tâches de contrôle qui lui sont
+confiées ou n'exige pas immédiatement le versement des
+recettes non réalisées dans le délai imparti.
+Le contrôleur financier, dont la responsabilité financière
+est engagée, a le droit de se substituer aux Habous publics
+dans leurs droits et d'exercer un recours contre le percepteur
+des recettes pour ce qu'il a payé.
+
+
+## Article 49
+
+*ART. 49. –*
+
+Au terme des missions du percepteur, un
+quitus lui est délivré par l'autorité gouvernementale chargée
+des Habous, au vu d'une attestation du contrôleur concerné,
+constatant que le percepteur n'est redevable d'aucune somme
+à l'administration des Habous.
+Chapitre III
+Règles relatives aux opérations de dépenses
+Section première. –  Règles générales
+
+
+## Article 50
+
+*ART. 50. –*
+
+Sauf dispositions contraires prévues aux lois
+et règlements en vigueur, les dépenses sont engagées, liquidées,
+ordonnancées et payées dans les conditions fixées au présent
+chapitre.
+
+
+## Article 51
+
+*ART. 51. –*
+
+L'engagement est l'acte administratif par
+lequel l'ordonnateur ou le sous–ordonnateur crée ou constate
+une obligation de nature à entraîner une charge de dépense.
+
+
+## Article 52
+
+*ART. 52. –*
+
+La liquidation a pour objet de vérifier la
+véracité de la dette et d'arrêter le montant de la dépense.
+La liquidation est effectuée par la personne habilitée, sous
+la responsabilité de l'ordonnateur ou du sous–ordonnateur
+concerné et du contrôleur concerné, au vu des titres établissant
+les droits acquis aux créanciers.
+
+*Entités :* `arrêter` (ARRETE)
+
+
+## Article 53
+
+*ART. 53. –*
+
+L'ordonnancement est l'acte administratif
+donnant, conformément aux résultats de la liquidation,
+l'ordre de payer la dette des Habous publics. Il incombe à
+l'ordonnateur ou au sous–ordonnateur concerné.
+Toutefois, certaines dépenses peuvent être payées sans
+ordonnancement préalable. La liste desdites dépenses est
+fixée par décision de l'autorité gouvernementale chargée des
+Habous.
+Section 2. –  procédures d'engagement et modalités d'exercice du
+contrôle budgétaire
+Sous-section première. –  procédures d'engagement
+
+
+## Article 54
+
+*ART. 54. –*
+
+Toute proposition d'engagement, d'annulation
+ou de réduction d'engagement est immédiatement notifiée au
+contrôleur concerné, aux fins d'authentification et de prise en
+charge comptable.
+
+
+## Article 55
+
+*ART. 55. –*
+
+Les dépenses permanentes sont engagées dès
+le début de l'année budgétaire.
+La liste des dépenses permanentes est fixée par décision
+de l'autorité gouvernementale chargée des Habous.
+Au mois de Janvier de chaque année, l'ordonnateur ou
+le sous–ordonnateur concerné établit ce qui suit :
+– une liste nominative des fonctionnaires des Habous
+inscrits au budget spécial des Habous, comportant le
+montant de leurs rémunérations. Deux exemplaires
+de ladite liste sont remises au contrôleur financier
+concerné ;
+– une liste détaillée des autres dépenses permanentes.
+Les modifications, éventuellement intervenues en cours
+d'année au titre des dépenses permanentes ou de la liste des
+fonctionnaires, font l'objet de relevés rectificatifs légalement
+certifiés par l'ordonnateur ou le sous–ordonnateur et adressés,
+sans retard, en double exemplaire, au contrôleur concerné.
+Sous-section 2. –  Modalités d'exercice du contrôle budgétaire
+
+
+## Article 56
+
+*ART. 56. –*
+
+Le contrôle budgétaire est exercé avant que
+l'engagement ne devienne définitif.
+Le contrôleur financier concerné exerce ledit contrôle
+qui porte sur :
+– la disponibilité des crédits et des postes budgétaires ;
+– l'imputation budgétaire de la dépense ;
+– l'exactitude des calculs du montant de l'engagement.
+
+
+## Article 57
+
+*ART. 57. –*
+
+Aux fins d'effectuer le contrôle budgétaire
+susmentionné, les propositions d'engagement de dépenses,
+élaborées par l'ordonnateur ou le sous–ordonnateur concerné,
+sont accompagnées d'une « fiche navette », dont le modèle est
+fixé par décision de l'autorité gouvernementale chargée des
+Habous pour certification et prise en charge comptable.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Les pièces justifciatives afférentes à la fcihe susmentionnée
+sont gardées par l'ordonnateur ou le sous–ordonnateur
+concerné pour être jointes au dossier d'ordonnancement y
+afférent.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 58
+
+*ART. 58. –*
+
+Le contrôle budgétaire s'exerce :
+– soit par certification de la proposition d'engagement
+de dépenses ;
+– soit par suspension de certifciation de la « fcihe navette »,
+laquelle est renvoyée à l'ordonnateur ou au sous–
+ordonnateur concerné.
+En cas de suspension de certification, les observations
+relevées par la proposition d'engagement sont contenues dans
+une seule pièce et font l'objet d'un envoi unique à l'ordonnateur
+ou au sous–ordonnateur concerné.
+
+
+## Article 59
+
+*ART. 59. –*
+
+Le délai dont dispose le contrôleur financier
+concerné, pour apposer sa certification ou la suspendre, est
+fixée à huit (8) jours ouvrables francs pour les marchés et à cinq
+(5) jours ouvrables francs pour les autres dépenses, à compter
+de la date de dépôt de la proposition d'engagement.
+A défaut de réponse dans le délai prescrit, le contrôleur
+concerné est tenu d'apposer sa certification sur la proposition
+d'engagement dès l'expiration dudit délai et d'en faire retour à
+l'ordonnateur ou au sous–ordonnateur concerné.
+
+
+## Article 60
+
+*ART.  60.  –*
+
+L'ordonnateur ou le sous–ordonnateur
+concerné est tenu, avant tout commencement d'exécution de
+travaux, de services ou de livraison de fournitures, de notifeir à
+l'entrepreneur, fournisseur ou prestataire de services concerné,
+les références de la certification apposée sur « la fiche navette »
+relative aux marchés, bons de commande, conventions et
+contrats ainsi qu'aux avenants éventuels.
+
+
+## Article 61
+
+*ART. 61. –*
+
+Lorsque l'ordonnateur ou le sous–ordonnateur
+concerné maintient une proposition d'engagement d'une
+dépense dont la certification a été suspendue, l'autorité
+gouvernementale chargée des Habous peut, par décision,
+passer outre à la suspension de ladite certifciation, à moins que
+la suspension de certification ne soit motivée par l'insuffisance
+ou l'indisponibilité de crédits ou de postes budgétaires.
+Section 3. –  Opérations de trésorerie
+
+
+## Article 62
+
+*ART. 62. –*
+
+Sont définis comme opérations de trésorerie,
+tous les mouvements de numéraire, de valeurs mobilisables et
+déposées, de comptes courants et les opérations afférentes aux
+comptes des différentes dettes relatives aux Habous publics.
+
+
+## Article 63
+
+*ART. 63. –*
+
+Un compte unique doit être ouvert par décision
+du ministre des Habous et des affaires islamiques, à travers
+lequel sont exécutées toutes les opérations de trésorerie par les
+contrôleurs financiers concernés sur ordre de l'ordonnateur
+ou des sous–ordonnateurs auprès desquels ils sont accrédités.
+Toutes les opérations d'affectation de dépenses et de
+recouvrement de recettes sont effectuées par double signature
+de l'ordonnateur ou du sous–ordonnateur concerné et du
+contrôleur financier concerné.
+
+
+## Article 64
+
+*ART. 64. –*
+
+Toutes les opérations de trésorerie sont
+présentées, par nature, dans des comptes de trésorerie sans
+compensation entre elles. Les charges et les produits résultant
+de l'exécution des opérations de trésorerie sont imputés aux
+comptes budgétaires.
+Section 4. –  Régie des dépenses
+
+*Organisations :* Régie des dépenses
+
+
+## Article 65
+
+*ART.  65.  –*
+
+Sont instituées des régies de dépenses,
+dont l'organisation, le fonctionnement, les relations avec le
+contrôleur financier ainsi que les conditions d'accomplissement
+des opérations de paiement par les régisseurs, sont fixés par
+décision de l'autorité gouvernementale chargée des Habous.
+
+
+## Article 66
+
+*ART. 66. –*
+
+Le contrôleur concerné procède, au bureau
+du régisseur de dépenses, sans préavis et chaque fois qu'il le
+juge opportun ou à la demande de l'ordonnateur ou du sous–
+ordonnateur, à l'audit de sa comptabilité et de la caisse de la
+régie.
+Le régisseur de dépenses est tenu de présenter toutes les
+pièces à l'occasion de tout audit.
+Toute irrégularité ou infraction aux règlements relevée
+au cours de l'opération d'audit est immédiatement signalée
+par le contrôleur financier concerné à l'ordonnateur ou au
+sous–ordonnateur concerné.
+
+
+## Article 67
+
+*ART. 67. –*
+
+Le régisseur de dépenses et ses suppléants
+sont responsables des détournements, malversations, déficits
+et débets commis ou constatés dans leur caisse ou dans la
+caisse des agents placés sous leur autorité, sauf recours contre
+ces derniers.
+Ils sont déclarés débiteurs par décision du ministre des
+Habous et des affaires islamiques, prise, soit sur proposition
+de l'ordonnateur concerné, soit sur la base d'un procès–verbal
+d'audit établi par l'un des corps d'audit habilités.
+Le régisseur qui a comblé le déficit ou le débet est
+substitué aux droits des Habous publics pour le recouvrement
+des montants avancés.
+
+
+## Article 68
+
+*ART. 68. –*
+
+En cas de faute commise par le régisseur des
+dépenses, le contrôleur financier concerné peut demander à
+l'ordonnateur ou au sous–ordonnateur concerné d'engager les
+mesures susceptibles de mettre fin aux irrégularités constatées.
+La responsabilité du contrôleur financier concerné peut
+être engagée s'il n'effectue pas les contrôles qui lui sont confiés
+ou s'il n'exige pas immédiatement le paiement des dépenses
+qui ne sont pas effectuées dans le délai imparti.
+Le contrôleur financier, dont la responsabilité financière
+est engagée, a le droit de se substituer aux Habous publics
+dans leurs droits et d'exercer un recours contre le régisseur
+des dépenses pour ce qu'il a payé.
+
+
+## Article 69
+
+*ART. 69. –*
+
+Au terme des missions du régisseur ou en
+cas de mutation, un quitus lui est délivré par le ministre des
+Habous et des affaires islamiques, au vu d'une attestation
+du contrôleur, attestant que ledit régisseur n'est redevable
+d'aucune somme à l'administration des Habous.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Chapitre IV
+Règles relatives à la comptabilité et à l'exercice du contrôle
+Section première. –  Règles générales
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 70
+
+*ART. 70. –*
+
+La comptabilité des Habous publics décrit :
+– les opérations budgétaires ;
+– les opérations de trésorerie ;
+– les mouvements du patrimoine.
+Elle dégage les résultats de l'année budgétaire et permet
+d'établir les situations de gestion et les états financiers.
+Les états financiers et les situations de gestion
+susmentionnés doivent donner une image réelle de l'état
+d'exécution du budget et de la situation du patrimoine Habous.
+Des états informatifs complémentaires peuvent être fournis,
+au besoin, pour les consolider.
+
+
+## Article 71
+
+*ART.  71.  –*
+
+La comptabilité des Habous publics se
+compose d'une :
+– comptabilité administrative ;
+– comptabilité budgétaire ;
+– comptabilité des fonds;
+– comptabilité du patrimoine et des matières.
+Section 2. –  Comptabilité administrative
+
+
+## Article 72
+
+*ART.  72.  –*
+
+La comptabilité administrative de
+l'ordonnateur et des sous–ordonnateurs est tenue sur la base
+d'une nomenclature budgétaire, fixée par l'arrêté du ministre
+des Habous et des affaires islamiques n°257–13 du 22 joumada
+I 1434 (3 avril 2013).
+
+*Entités :* `arrêté du ministre` (ARRETE), `3 avril 2013` (DATE_GREGORIAN)
+
+*Dates :* 3 avril 2013
+
+
+## Article 73
+
+*ART. 73. –*
+
+La comptabilité administrative comprend
+l'exécution des autorisations budgétaires. Elle est tenue par
+l'ordonnateur et les sous–ordonnateurs.
+Les opérations exécutées par les sous–ordonnateurs sont
+introduites dans les comptes de l'ordonnateur.
+
+
+## Article 74
+
+*ART.  74.  –*
+
+La comptabilité administrative décrit,
+également, les opérations relatives à :
+– la constatation et la liquidation des recettes ainsi que
+l'émission des ordres de recettes y correspondant ;
+– l'engagement et l'ordonnancement des dépenses.
+La comptabilité administrative est tenue de manière
+à distinguer l'exécution des opérations relatives au budget
+principal des Habous publics et aux comptes spéciaux.
+
+
+## Article 75
+
+*ART. 75. –*
+
+Les livres de la comptabilité administrative
+utilisés pour le suivi de l'exécution des recettes se composent
+du :
+– livre journal des droits constatés au profti des Habous
+publics ;
+– livre des comptes par nature de recettes.
+Le livre journal retrace, dans des colonnes distinctes,
+le numéro d'ordre, la date d'inscription, l'imputation de la
+créance et son objet, la désignation du débiteur et le montant
+de la recette.
+Le livre des comptes retrace les sommes à recouvrir,
+réparties selon le titre, le chapitre et le paragraphe au budget
+des recettes.
+Lesdites opérations sont, le cas échéant, détaillées sur
+des livres auxiliaires dont le nombre et la forme sont fixés
+selon le besoin.
+
+
+## Article 76
+
+*ART. 76. –*
+
+Les livres de la comptabilité administrative
+utilisés pour le suivi de l'exécution des dépenses se composent
+du :
+livre d'enregistrement des droits des créanciers ;
+livre journal des ordonnances de paiement émises ;
+livre des comptes par titre de dépenses.
+Lesdits livres sont tenus par l'ordonnateur et les sous–
+ordonnateurs.
+
+
+## Article 77
+
+*ART. 77. –*
+
+Le livre journal des ordonnances de paiement
+émises est utilisé pour l'enregistrement immédiat et successif,
+par ordre numérique, de toutes les ordonnances de paiement
+émises pendant la durée de la gestion.
+Les ordonnateurs et les sous–ordonnateurs transmettent,
+mensuellement, au contrôleur assignataire une situation
+indiquant, par rubrique budgétaire ou compte spécial, tous
+les crédits ouverts et le montant des émissions jusqu'au dernier
+jour du mois écoulé.
+Après s'être assuré de la concordance des renseignements
+fournis avec ses propres écritures, le contrôleur assignataire
+renvoie la situation visée à l'ordonnateur ou au sous–
+ordonnateur concerné.
+
+
+## Article 78
+
+*ART. 78. –*
+
+Les ordres de recettes émis par l'ordonnateur
+ou le sous–ordonnateur concerné établissent les droits
+constatés au profti de l'administration des Habous publics.
+Ils sont enregistrés sur le livre des comptes qui comporte,
+par rubrique budgétaire :
+– le numéro d'ordre ;
+– la date d'émission ;
+– la nature du titre ;
+– la désignation de la recette ;
+– le numéro du titre foncier ;
+– le nom du débiteur;
+– le montant de l'ordre de recettes ;
+– la date d'envoi au contrôleur financier concerné;
+– le numéro du bordereau d'émission sur lequel le titre
+est porté.
+
+
+## Article 79
+
+*ART. 79. –*
+
+La comptabilité administrative relative à
+l'exécution des dépenses d'investissement comprend deux
+parties :
+– la première partie décrit, par année budgétaire, les
+autorisations d'engagement accordées et les crédits
+ouverts en conséquence de ces autorisations ;
+– la deuxième partie décrit l'utilisation réservée par
+l'ordonnateur ou le sous–ordonnateur concerné aux
+autorisations d'engagement et aux crédits alloués au
+titre de l'année budgétaire.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+La première partie est tenue, sur un livre des crédits
+ouverts par autorisations de programmes. Ce livre décrit par
+autorisation et par nature de dépense, le montant initial de
+l'autorisation de dépense, les modifications ultérieures et le
+montant définitif.
+Il décrit, en outre, pour chaque autorisation de
+programmes :
+– les engagements nouvellement autorisés pour l'année et
+découlant du montant cumulé des autorisations et des
+crédits ordinaires alloués au titre de l'année ;
+– les paiements nouvellement autorisés pour l'année
+et découlant du montant cumulé des crédits de
+paiement relatifs aux autorisations de programmes au
+titre des années antérieures, des crédits de paiement
+correspondant aux autorisations de programmes au
+titre de l'année en cours et des crédits ordinaires alloués
+au titre de la même année ;
+– le montant cumulé des autorisations d'engagement et
+des autorisations de paiement depuis la première année
+d'exécution de l'autorisation des programmes.
+La deuxième partie est tenue sur un livre des comptes
+par nature de dépenses d'investissement.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 80
+
+*ART. 80. –*
+
+Le registre de comptabilité des dépenses
+engagées comprend, pour chaque rubrique budgétaire :
+– le montant des crédits ouverts ;
+– l'enregistrement des engagements de dépenses admis ;
+– le montant des crédits disponibles.
+Pour chaque engagement de dépense admis, le registre
+retrace, selon un numéro d'ordre : la date de réception de
+l'engagement visé, la nature de la dépense, le nom du créancier,
+le montant de la dépense et le numéro du titre foncier et, le
+cas échéant, la modification de l'évaluation initiale ainsi que
+la référence de l'ordonnancement.
+La proposition d'engagement, constituée de la « fiche
+navette » prévue ci–dessus, est inscrite sur le registre comptable
+visé au premier alinéa ci–dessus, qui comporte :
+– le numéro d'ordre ;
+– le montant des crédits ouverts ;
+– le montant des dépenses déjà engagées ;
+– le montant des crédits disponibles ;
+– l'imputation budgétaire ;
+– la date de réception de la proposition d'engagement ;
+– la nature de la dépense ;
+– le nom du créancier ;
+– le montant de la dépense.
+
+
+## Article 81
+
+*ART. 81. –*
+
+Le livre d'enregistrement des commandes,
+fournitures ou travaux, tenu par l'ordonnateur et les sous–
+ordonnateurs, comprend, par chapitre :
+– le numéro d'ordre ;
+– le numéro de visa  de la « fiche navette »;
+– la date de la commande ;
+– le nom du fournisseur, du prestataire de service ou de
+l'entrepreneur ;
+– la nature de la dépense ;
+– le montant de la dépense ;
+– la date de réception des factures et mémoires ;
+– la date d'envoi du dossier liquidé au service de la
+comptabilité.
+
+
+## Article 82
+
+*ART. 82. –*
+
+L'ordonnateur et les sous–ordonnateurs
+tiennent, en outre :
+– le livre–journal des ordonnances de paiement émises,
+lesquelles sont inscrites sous une série unique de
+numéros par année budgétaire ;
+– le registre des droits des créanciers qui comporte, par
+rubrique budgétaire, le montant des crédits ouverts,
+la date, le numéro et le montant des ordonnances de
+paiement émises, ainsi que la référence des bordereaux
+d'émission correspondants.
+
+
+## Article 83
+
+*ART.  83.  –*
+
+A la clôture de l'année budgétaire,
+l'ordonnateur et les sous–ordonnateurs établissent le compte
+administratif de gestion écoulé, conformément au modèle fixé
+par le ministre des Habous et des affaires islamiques.
+Ce document doit présenter dans des colonnes distinctes :
+En recettes :
+– les numéros d'ordre des sections du compte et du budget ;
+– la désignation des rubriques budgétaires ou des comptes
+spéciaux ;
+– le montant des produits, d'après les titres et actes
+justificatifs, déduction faite des annulations et des
+admissions en non–valeur ;
+– le total des recettes, par rubrique.
+En dépenses :
+– les numéros d'ordre des chapitres du compte et du budget ;
+– la désignation des rubriques budgétaires ou des comptes
+spéciaux ;
+– les crédits ouverts au budget avec les modifications qui
+leur ont été apportées en cours d'année ;
+– les dépenses imputées ;
+– les ordres de paiement émis et visés ;
+– les crédits à reporter aux dépenses d'investissement ;
+– les crédits annulés.
+Une copie certifiée conforme à l'original du compte
+administratif est adressée au contrôleur concerné.
+L'ordonnateur établit un compte administratif général
+de l'administration des Habous, dans lequel sont inscrites
+les opérations exécutées par les sous–ordonnateurs et qui est
+certifié par le contrôleur financier central.
+
+
+## Article 84
+
+*ART. 84. –*
+
+L'ordonnateur et les sous–ordonnateurs
+sont soumis au contrôle du conseil supérieur du contrôle des
+finances des Habous publics.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Section 3. –  Comptabilité budgétaire
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 85
+
+*ART. 85. –*
+
+Le contrôleur financier concerné tient une
+comptabilité relative à l'ensemble des crédits ouverts par
+rubrique budgétaire et, le cas échéant, par programme, en ce
+qui concerne les comptes spéciaux.
+Cette comptabilité fait ressortir, par mois :
+– les crédits ouverts par le budget principal et les comptes
+spéciaux ainsi que les modifications qui leur sont
+apportées en cours d'année ;
+– les engagements pris sur lesdits crédits par l'ordonnateur
+ou le sous - ordonnateur concerné ;
+– les dépenses sans ordonnancement préalable effectuées
+au cours du mois considéré.
+Le contrôleur financier concerné tient, également,
+une comptabilité des engagements des dépenses pris par
+l'ordonnateur ou le sous–ordonnateur concerné.
+Cette comptabilité fait ressortir, par mois :
+– les crédits délégués et les réductions de ces crédits;
+– les engagements pris sur lesdits crédits par l'ordonnateur
+ou le sous–ordonnateur concerné ;
+– les dépenses sans ordonnancement préalable effectuées
+au cours du mois considéré.
+En ce qui concerne les dépenses sans ordonnancement
+préalable, le contrôleur concerné tient la comptabilité des
+crédits ouverts, des crédits délégués et des dépenses effectuées.
+Il tient, en outre, la comptabilité des postes budgétaires
+inscrits au budget et ouverts par le tableau des effectifs, annexé
+au budget, qui fait ressortir :
+– les postes budgétaires ouverts ;
+– les postes budgétaires occupés ;
+– les postes budgétaires vacants.
+Section 4. –  Comptabilité des fonds
+
+*Organisations :* Comptabilité des fonds
+
+
+## Article 86
+
+*ART. 86. –*
+
+Le contrôleur financier tient une comptabilité
+auxiliaire qui comporte :
+– les dépenses étalées sur plusieurs années ;
+– les dépenses permanentes ;
+– les crédits bloqués au titre des régies de dépenses;
+– les engagements reportés de l'année précédente.
+Ladite comptabilité est tenue sur la base, des états
+d'engagement de dépenses et des états de dépenses permanentes
+établis par l'ordonnateur ou le sous–ordonnateur et qui lui
+sont notifiés.
+
+
+## Article 87
+
+*ART. 87. –*
+
+Le contrôleur financier concerné constate
+toutes les opérations de recettes et de dépenses, qu'il a
+exécutées ou centralisées, sur des journaux divisionnaires.
+Les recettes et les dépenses du budget principal et celles
+des comptes spéciaux sont développées sur des registres
+auxiliaires.
+
+
+## Article 88
+
+*ART. 88. –*
+
+Le recouvrement des créances des Habous
+publics est décrit, par le contrôleur financier, par nature de
+recettes, dans une comptabilité qui retrace, distinctement par
+rubrique, pour l'année en cours et les années antérieures, la
+prise en charge des ordres de recettes et les recouvrements
+effectués.
+Ladite comptabilité peut être tenue et éditée sous forme
+électronique.
+
+
+## Article 89
+
+*ART. 89. –*
+
+Le paiement des dépenses est décrit dans
+une comptabilité qui comporte, distinctement, par rubrique
+budgétaire, les crédits ouverts et les émissions d'ordres de
+paiement.
+
+
+## Article 90
+
+*ART.  90.  –*
+
+Après chaque arrêté de fin de mois, le
+contrôleur financier est tenu de notifier à l'ordonnateur ou
+au sous–ordonnateur concerné, avant le dixième jour (10) du
+mois suivant, une situation résumée des opérations de recettes
+et de dépenses et une situation des fonds disponibles auprès de
+l'administration des Habous. Les modèles desdites situations
+sont fixés par décision du ministre des Habous et des affaires
+islamiques.
+La notification des situations susmentionnées, par le
+contrôleur financier à l'ordonnateur ou au sous–ordonnateur
+concerné, peut faire l'objet d'échange électronique
+conformément aux modalités fixées par décision de l'autorité
+gouvernementale chargée des Habous.
+Le contrôleur est tenu, en outre, de fournir, chaque
+lundi, à l'ordonnateur ou au sous–ordonnateur concerné, une
+situation hebdomadaire, dont le modèle est fixé par la décision
+prévue à l'alinéa premier du présent article.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 91
+
+*ART. 91. –*
+
+Le contrôleur financier tient, en outre, une
+comptabilité qui comporte :
+– la comptabilité des droits constatés et des recettes
+réalisées par rubrique et par année budgétaire ;
+– le registre des frais de recouvrement engagés ;
+– le registre des frais de recouvrement encaissés ;
+– les bons qui lui sont confiées au moyen d'un compte
+de placement.
+Les modalités de tenue de ladite comptabilité sont
+fixées par décision de l'autorité gouvernementale chargée des
+Habous.
+
+
+## Article 92
+
+*ART.  92.  –*
+
+Après chaque arrêté de fin de mois, le
+contrôleur local est tenu de notifier au contrôleur financier
+central et à l'ordonnateur, avant le cinquième jour du mois
+suivant :
+– la situation des fonds disponibles (caisse et comptes
+extérieurs des fonds disponibles) au centre comptable
+dont il assure la gestion ;
+– la situation des titres ;
+– la situation du compte «frais de recouvrement » ;
+– la situation résumée des prises en charge, des
+recouvrements et des restes à recouvrer, en indiquant
+les mesures qu'il a prises au cours du mois écoulé.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Section 5. –  Comptabilité du patrimoine et des matières
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 93
+
+*ART. 93. –*
+
+La comptabilité des matières et du patrimoine
+a pour objet d'arrêter, de documenter, et d'enregistrer tous
+les biens Habous et matières, de suivre leur mouvement et
+connaître leur valeur et leur quantité et de contrôler leur usage.
+Le sous–ordonnateur concerné et le contrôleur financier
+concerné sont tenus d'assurer le suivi des biens Habous situés
+dans le ressort territorial de la Nédharat.
+A cet effet, un fichier est établi pour chaque bien,
+comportant notamment les informations suivantes :
+a) le statut juridique du bien (numéro du titre foncier,
+valeur de l'actif, adresse ……..) ;
+b) l'exploitation du bien (contrat de louage, durée de
+validité, redevance locative, ressources recouvrées, le reste
+à recouvrer et les mesures prises pour le recouvrement de la
+créance, réparations et maintenance ……) ;
+c) la réparation et la maintenance du bien.
+Par ailleurs, il est procédé chaque début d'année à la
+mise à jour de l'inventaire des biens Habous publics, matériels,
+stocks et titres.
+Une copie dudit fichier est adressée à l'ordonnateur et
+au contrôleur financier central.
+Section 6. –  Justification des opérations de recettes et de dépenses
+
+*Entités :* `arrêter` (ARRETE)
+
+
+## Article 94
+
+*ART. 94. –*
+
+La liste des pièces justifciatives des opérations
+de recettes et de dépenses des Habous publics est celle prévue
+au présent arrêté et à toutes les dispositions en vigueur en
+matière des Habous publics.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 95
+
+*ART. 95. –*
+
+En cas de perte, destruction ou vol des
+justifications remises à l'un des contrôleurs financiers,
+l'autorité gouvernementale chargée des Habous peut autoriser
+leur remplacement.
+
+
+## Article 96
+
+*ART. 96. –*
+
+Les livres comptables, les journaux, les
+registres et les différents documents utilisés pour les recettes,
+les dépenses et la trésorerie, peuvent être édités et tenus sous
+forme électronique, conformément aux décisions du ministre
+des Habous et des affaires islamiques.
+Chapitre V
+Bilan d'exécution du budget, présentation des comptes et
+exercice de contrôle
+Section première. –  Bilan d'exécution du budget
+
+
+## Article 97
+
+*ART. 97. –*
+
+Le résultat général du budget est arrêté à la
+fin de chaque année dans les conditions fixées à l'article 150
+du code des Habous.
+Le règlement du budget est effectué par le contrôleur
+financier, après l'arrêté des comptes au 31 décembre de l'année
+considérée. Ledit règlement doit intervenir, au plus tard, le 31
+janvier de l'année qui suit.
+Une copie dudit règlement est communiquée à
+l'ordonnateur avant le dixième jour du mois suivant.
+L'excédent, qui résulte de l'arrêté des comptes de gestion
+de clôture de l'année budgétaire, est repris, dans l'année
+suivante, au titre des recettes de la deuxième division, à la
+rubrique intitulée « excédent de l'année précédente ».
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article 150` → arrêté [✓]
+
+
+## Article 98
+
+*ART. 98. –*
+
+Les ordres de paiement visés par le contrôleur
+financier et non payés avant le 31 décembre de l'année de leur
+émission sont imputés aux chapitres budgétaires concernées,
+au vu d'un état établi par le contrôleur financier et appuyé des
+pièces justificatives correspondantes.
+Le montant desdits ordres de paiement est repris en
+recettes à un compte de trésorerie intitulé « restes à payer »,
+auquel seront imputés les ordres de paiement susmentionnés,
+lors de leur règlement.
+Il est procédé de la même manière pour les ordres de
+paiement émis sur les comptes spéciaux n'ayant pas fait l'objet
+de règlement au 31 décembre.
+
+
+## Article 99
+
+*ART. 99. –*
+
+L'excédent est affecté à la couverture des
+crédits reportés et peut, dans les limites du montant disponible,
+conduire à l'ouverture de crédits supplémentaires destinés au
+financement des dépenses d'investissement.
+L'excédent des comptes spéciaux clôturés est reporté, au
+31 décembre, à la deuxième division du budget.
+Les disponibilités des comptes spéciaux en activité sont
+automatiquement reportées à la gestion suivante, pour assurer
+la continuité des opérations d'une année budgétaire à l'autre.
+
+
+## Article 100
+
+*ART. 100. –*
+
+Le résultat budgétaire de la gestion est
+déterminé par comparaison des recettes et des dépenses de la
+première division du budget d'une part, et des recettes et des
+dépenses de la deuxième division d'autre part.
+
+
+## Article 101
+
+*ART. 101. –*
+
+Les opérations prévues aux articles 99 et
+100 ci–dessus sont constatées avant l'arrêté des écritures de
+la gestion qui s'achève et à l'issue duquel l'excédent général
+de gestion est dégagé. Lesdites opérations sont justifiées par
+des autorisations d'encaissement établies par le contrôleur
+financier et signées par lui et par l'ordonnateur.
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `articles 99 et
+100` → arrêté [✓]
+
+
+## Article 102
+
+*ART. 102. –*
+
+L'excédent de la première division est reporté
+à la deuxième division du budget principal, après avoir mis en
+réserve les disponibilités des comptes spéciaux.
+En cas de déficit de la première division du budget
+principal, il est procédé à sa couverture, par arrêté
+motivé de l'autorité gouvernementale chargée des Habous,
+après approbation du conseil supérieur du contrôle des
+finances des Habous publics, par le biais d'un prélèvement
+complémentaire des crédits de couverture de déficit du budget
+de fonctionnement, repris à la deuxième division, à condition
+de se limiter aux dépenses obligatoires, prévues à l'article
+16 ci–dessus, et restituer le crédit prélevé au titre de l'année
+budgétaire suivante.
+Le résultat budgétaire général de clôture est repris dans
+la gestion suivante au titre des opérations d'investissement, au
+titre intitulé « Excédent de l'année précédente ».
+
+*Entités :* `arrêté` (ARRETE)
+
+*Citations :*
+
+- `l'article
+16` → arrêté [✓]
+
+
+## Article 103
+
+*ART. 103. –*
+
+Au début du mois de janvier, le contrôleur
+financier concerné établit, en triple exemplaire, un état
+récapitulatif des restes à recouvrer au 31 décembre, arrêté
+par titres et pour chaque titre, par année d'origine des créances,
+le signe et le soumet au visa de l'ordonnateur ou du sous–
+ordonnateur concerné, qui en conserve un exemplaire pour
+sa comptabilité administrative.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Ledit état récapitulatif est appuyé d'un état nominatif.
+Au vu du deuxième exemplaire, le contrôleur financier
+concerné prend en charge, dans ses écritures, le montant
+des créances restant à recouvrer, aux titres budgétaires
+correspondants au budget de l'année suivante.
+Section 2. –  Présentation des comptes
+
+*Entités :* `arrêté` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 104
+
+*ART. 104. –*
+
+En application des dispositions de l'article
+153 du code des Habous, le contrôleur financier central et
+les contrôleurs locaux, élaborent, séparément, un rapport
+annuel du bilan de leur activité, soumis au conseil supérieur
+du contrôle des finances des Habous publics et dont une copie
+est adressée, pour information, à l'administration des Habous.
+Les modalités d'élaboration desdits rapports sont fixées
+par décision de l'autorité gouvernementale chargée des Habous.
+
+*Citations :*
+
+- `l'article
+153` → dahir n° 1-09-236 [✓]
+
+
+## Article 105
+
+*ART. 105. –*
+
+L'ordonnateur établit une attestation négative
+à propos des titres budgétaires au sujet desquels aucun titre
+de recettes n'est émis.
+
+
+## Article 106
+
+*ART. 106. –*
+
+Le compte de gestion doit être exact et
+sincère, tant en recettes qu'en dépenses, daté et signé par
+l'ordonnateur et le contrôleur financier. Les renvois ou ratures
+sont approuvés et signés.
+Aucune modification ne peut être introduite audit
+compte après sa présentation au conseil supérieur du contrôle
+des finances des Habous publics.
+
+
+## Article 107
+
+*ART.  107.  –*
+
+Le compte est constitué des pièces
+justificatives et des pièces générales suivantes :
+– une copie du budget et les copies certifiées conformes
+aux originaux des décisions autorisant les virements
+de crédits ;
+– les autorisations spéciales autorisant l'inscription de
+crédits supplémentaires, annexées à un état récapitulatif
+desdites autorisations ;
+– une copie certifiée conforme à l'original du compte de
+gestion relatif au bilan d'exécution du budget annuel
+des Habous publics ;
+– une annexe à l'état des actifs, expliquant l'origine des
+différences d'une année à l'autre pour chacun des
+chapitres de recettes fgiurant à l'état des actifs.
+
+
+## Article 108
+
+*ART. 108. –*
+
+Les comptes de gestion sont présentés
+conformément aux mêmes mesures prévues à la section 2 du
+chapitre IV du présent arrêté et ce, avant la fin du mois de mars
+de l'année qui suit celle au titre de laquelle lesdits comptes
+sont présentés.
+TITRE IV
+DISPOSITIONS FINALES
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 109
+
+*ART. 109. –*
+
+Le présent arrêté sera publié au Bulletin
+officiel.
+Rabat, le 12 kaada 1434 (19 septembre 2013).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6198 du 18 hijja 1434 (24 octobre 2013).
+
+*Entités :* `arrêté` (ARRETE), `12 kaada 1434` (DATE_HIJRI), `19 septembre 2013` (DATE_GREGORIAN), `Bulletin officiel » n° 6198 du 18 hijja 1434 (24 octobre 2013)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 12 kaada 1434, 19 septembre 2013
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER.*
+
+–Sont fixées tel qu'il est indiqué au
+cahier de prescriptions annexé au présent arrêté, les modalités
+de vente des matériaux de carrières appartenant aux Habous
+publics et aux Habous mixtes.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 22 joumada I 1434 (3 avril 2013).
+AHMED TOUFIQ.
+*
+cahier des prescriptions de vente des matériaux de carrières
+appartenant aux Habous publics at aux Habous mixtes
+TITRE PREMIER
+CONDITIONS GÉNÉRALES
+
+*Entités :* `arrêté` (ARRETE), `22 joumada I 1434` (DATE_HIJRI), `3 avril 2013` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 22 joumada I 1434, 3 avril 2013
+
+
+## Article premier
+
+*Article premier*
+
+Les matériaux de carrières appartenant aux Habous
+publics et aux Habous mixtes se vendent conformément aux
+modalités et conditions prévues aux articles suivants.
+
+
+## Article 2
+
+*Article 2*
+
+Les modalités et conditions contenues dans le présent
+cahier s'appliquent aux différents types et matériaux de
+carrières appartenant aux Habous publics ou aux Habous
+mixtes, à l'exception du sel extrait par voie de séchage.
+
+
+## Article 3
+
+*Article 3*
+
+Les matériaux de carrières sont vendus par voie de
+courtage ou d'appel d'offres conformément aux dispositions
+en la matière, prévues au dahir n° 1-09-236 du 8 rabii I 1431
+(23 février 2010) portant code des Habous et aux textes pris
+pour son application. Par sa participation aux formalités de
+leur vente, l'acquéreur desdits matériaux est réputé être en
+connaissance de leur emplacement et informé de leur état,
+leur genre ou type, leur quantité et de toutes les spécificités
+qui les caractérisent.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `dahir n° 1-09-236` (DAHIR), `8 rabii I 1431` (DATE_HIJRI), `23 février 2010` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 8 rabii I 1431, 23 février 2010, 15 ramadan 1447
+
+
+## Article 4
+
+*Article 4*
+
+Les Habous publics ne garantissent pas l'acquéreur du
+trouble matériel que des tiers apportent par voie de fait au
+moment de l'exploitation et de l'exécution du contrat sans qu'ils
+ne prétendent à un quelconque droit sur les matériaux objet de
+la vente. Par ailleurs, les Habous publics ne lui garantissent pas
+l'opposition juridique opérée par l'Etat, les collectivités locales
+ou les personnes de droit commun à cause de sa violation des
+lois et des règlements en vigueur ou de son manquement aux
+obligations prévues au présent cahier.
+
+
+## Article 5
+
+*Article 5*
+
+La propriété des matériaux de carrières se transmet à
+l'acquéreur à compter de la date de la conclusion du contrat,
+lequel en est, à compter de ladite date, tiers dépositaire et
+responsable de tous les faits survenus à la carrière et des
+dommages qui en résultent.
+
+
+## Article 6
+
+*Article 6*
+
+L'acquéreur des matériaux de carrières garantit
+l'application des dispositions prévues à la législation relative
+aux carrières et doit, à cet effet, obtenir les autorisations,
+accomplir les études et prendre les mesures nécessaires à
+l'exécution du contrat de vente. L'administration des Habous
+n'est nullement responsable de son manquement à ladite
+obligation.
+TITRE II
+MODALITÉS DE DÉSIGNATION DES MATÉRIAUX DE
+CARRIÈRES OBJET DE VENTE
+
+
+## Article 7
+
+*Article 7*
+
+Les matériaux de carrières objet de vente sont désignés
+par localisation et délimitation de la carrière et par indication
+du genre, du type et de la quantité du matériau brute en mètre
+cube.
+La localisation de la carrière est indiquée par un
+plan établi par un ingénieur topographe, comportant les
+coordonnées des limites, le chemin reliant la carrière à la voie
+publique la plus proche et les panneaux de signalisation qui
+doivent être installés sur le chemin et sur la voie publique.
+
+
+## Article 8
+
+*Article 8*
+
+Les informations relatives à la désignation des matériaux
+de carrières sont contenues, conformément à la modalité
+prévue au premier alinéa de l'article 7 ci-dessus, dans :
+– l'annonce du courtage ou d'appel d'offres de vente des
+matériaux de carrières ;
+– le procès-verbal du déroulement du courtage ou
+d'ouverture des offres ;
+– Le contrat conclu avec l'acquéreur.
+
+*Citations :*
+
+- `l'article 7` → dahir n° 1-12-01 [✓]
+
+
+## Article 9
+
+*Article 9*
+
+Les Habous publics ne garantissent aucune diminution
+des matériaux de carrières existants dans la quantité brute
+vendue, prévue au premier alinéa de l'article 7 ci-dessus, en
+termes de quantité, de genre, de type et de qualité.
+
+*Citations :*
+
+- `l'article 7` → dahir n° 1-12-01 [✓]
+
+
+## Article 10
+
+*Article 10*
+
+L'acquéreur n'a pas le droit de prétendre à la résiliation
+du contrat ou à la réduction du prix pour les raisons prévues
+à l'article 9 ci-dessus.
+TITRE III
+CONDITIONS FINANCIÈRES
+
+*Citations :*
+
+- `l'article 9` → dahir n° 1-12-01 [✓]
+
+
+## Article 11
+
+*Article 11*
+
+En plus du prix, des dépens et du montant de
+cautionnement en couverture d'engagement au résultat du
+courtage ou du montant de cautionnement d'acquittement,
+l'acquéreur s'acquitte d'un montant de cautionnement en
+satisfaction des obligations prévues aux articles 18 et 20 ci-
+après.
+
+*Citations :*
+
+- `articles 18 et 20` → dahir n° 1-12-01 [✓]
+
+
+## Article 12
+
+*Article 12*
+
+L'acquéreur s'engage de s'acquitter des droits
+d'enregistrement et de timbre, des impôts et des taxes exigibles
+aux collectivités territoriales.
+
+
+## Article 13
+
+*Article 13*
+
+Sont à la charge de l'acquéreur, les frais et dépenses :
+– d'extraction des matériaux vendus de la carrière ;
+– d'évacuation ou de transport en dehors de la carrière
+desdits matériaux.
+TITRE IV
+CONDITIONS TECHNIQUES
+
+
+## Article 14
+
+*Article 14*
+
+L'opération d'exploitation doit être menée avec diligence,
+selon les procédés suivis ou prévus pour l'exploitation des
+carrières, après la réalisation des études et l'obtention des
+autorisations et des permis et la prise de toutes les mesures
+légalement requises pour l'exploitation de la carrière, y compris
+celles relatives à la protection de l'environnement.
+
+
+## Article 15
+
+*Article 15*
+
+L'acquéreur des matériaux de carrières doit, avant
+d'entamer leur extraction, procéder à ce qui suit :
+– implanter des bornes en béton, sous la supervision
+technique d'un ingénieur géomètre topographe inscrit
+à l'ordre des ingénieurs géomètres topographes, sur tous
+les bords et côtés de la carrière en déterminant leurs
+coordonnées topographiques, pourvu que la distance
+les séparant ne dépasse pas vingt (20) mètres ;
+– placer une pancarte à l'entrée de la carrière portant
+l'identité de l'acquéreur des matériaux de la carrière
+et le numéro du récépissé du permis d'ouverture de la
+carrière ;
+– cerner la carrière d'un grillage pour empêcher les
+animaux et les intrus d'y accéder ;
+– aménager une voie spéciale pour le passage des camions
+et s'engager de l'entretenir régulièrement ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– placer les panneaux de signalisation sur les deux côtés
+de la voie publique à distance de 300, 150 et 80 mètres
+de l'entrée de la carrière ainsi qu'un panneau « stop »
+sur le chemin de la carrière au point d'accès à la voie
+publique ;
+– équiper la carrière d'une balance offrant la possibilité
+d'émettre automatiquement le bon de cargaison des
+matériaux de la carrière et faire contenir ledit bon de la
+dénomination de la carrière, la date, l'heure et le numéro
+de série de la cargaison et le numéro d'immatriculation
+du camion ;
+– équiper un bureau pour les agents chargés de contrôler
+l'application des lois et des règlements en vigueur en
+matière d'exploitation des carrières.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 16
+
+*Article 16*
+
+L'acquéreur doit, sous peine de résiliation du contrat et
+d'évacuation de la carrière avec dédommagement, respecter
+les dispositions prévues audit contrat relatives au :
+– non dépassement de la superficie et de la profondeur
+fixées pour l'extraction des matériaux ;
+– non dépassement de la quantité vendue ;
+– respect de la durée fixée pour l'extraction des matériaux
+vendus de la carrière ;
+– respect des conditions prévues pour l'usage des explosifs.
+
+
+## Article 17
+
+*Article 17*
+
+L'acquéreur s'engage à :
+– tenir un registre spécial de la carrière, numéroté, dans
+lequel sont inscrites les quantités quotidiennes extraites
+de la carrière ;
+– délivrer un bon de cargaison aux camionneurs
+transportant les matériaux vendus lors de leur départ
+de la carrière, portant la date et le numéro de série de
+la cargaison.
+TITRE V
+OBLIGATIONS DIVERSES
+
+
+## Article 18
+
+*Article 18*
+
+A l'expiration de la durée du contrat, l'acquéreur est
+tenu d'aménager la carrière selon les procédés prévus pour
+l'aménagement des carrières relevant de l'Etat.
+
+
+## Article 19
+
+*Article 19*
+
+Lors de l'exécution du contrat, l'acquéreur s'engage à :
+– recruter des salariés et des employés conformément aux
+lois et règlements en vigueur en matière de travail ;
+– souscrire à un contrat d'assurance contre les risques liés
+à l'exécution du contrat relatifs aux accidents de travail
+encourus par le personnel ou aux préjudices pouvant
+affecter les tiers ;
+– prendre les mesures nécessaires pour garantir la sécurité
+du personnel ;
+– permettre aux agents chargés du contrôle d'accéder à
+la carrière et de consulter les documents professionnels
+nécessaires à l'accomplissement des opérations de
+contrôle.
+
+
+## Article 20
+
+*Article 20*
+
+A l'expiration de la durée du contrat, l'acquéreur remet
+la carrière aux Habous publics, libre de toute occupation, sous
+peine d'indemnisation fixée dans le contrat conclu avec lui.
+
+
+## Article 21
+
+*Article 21*
+
+Le cautionnement prévu à l'article 11 ci-dessus n'est
+restituable qu'après vérification par les services extérieurs du
+ministère des Habous et des affaires islamiques de l'exécution
+des obligations prévues aux articles 18 et 20 ci-dessus.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6153 du 9 rejeb 1434 (20 mai 2013).
+
+*Entités :* `Bulletin officiel » n° 6153 du 9 rejeb 1434 (20 mai 2013)` (BULLETIN_OFFICIEL)
+
+*Citations :*
+
+- `l'article 11` → Bulletin officiel » n° 6153 du 9 rejeb 1434 (20 mai 2013) [✓]
+- `articles 18 et 20` → Bulletin officiel » n° 6153 du 9 rejeb 1434 (20 mai 2013) [✓]
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont modifiées et complétées
+comme suit, les dispositions de l'article premier et 2 de l'arrêté
+susvisé n° 3111-13 du 3 moharrem 1435 (7 novembre 2013) :
+« à trois services :
+« –  […texte non modifié…]  ;
+« – le service des affaires pédagogiques ;
+«  –  le service des activités scientifiques et de la
+« bibliothèque ».
+« au décret n° 2-11-681 susvisé.
+« Les chefs des services bénéficient des indemnités
+« ……………………. en vigueur. »
+
+*Entités :* `arrêté
+susvisé n° 3111-13 du 3 moharrem 1435` (ARRETE), `7 novembre 2013` (DATE_GREGORIAN), `décret n° 2-11-681` (DECRET), `3111-13` (ARRETE)
+
+*Dates :* 7 novembre 2013
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 4 moharrem 1446 (10 juillet 2024).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 7324 du 3 safar 1446 (8 août 2024).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `4 moharrem 1446` (DATE_HIJRI), `10 juillet 2024` (DATE_GREGORIAN), `Bulletin officiel » n° 7324 du 3 safar 1446 (8 août 2024)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 4 moharrem 1446, 10 juillet 2024, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Sont fixés conformément aux
+dispositions prévues à la présente décision, la composition
+et le règlement intérieur de la commission des louages et des
+ventes relatifs aux Habous publics, prévue à l'article 31 de
+l'arrêté susvisé n° 365-13.
+Titre II
+Composition de la commission des louages et des ventes
+relatifs aux Habous publics
+
+*Entités :* `arrêté susvisé n° 365-13` (ARRETE)
+
+*Citations :*
+
+- `l'article 31` → arrêté susvisé n° 365-13 [✓]
+
+*Personnes :* Titre II
+
+
+
+## Article 2
+
+*ART. 2 –*
+
+La commission des louages et des ventes relatifs
+aux Habous publics se compose, outre le chef de la division
+de gestion des biens Habous ou son suppléant président, des
+membres suivants :
+– le chef du service de la gestion des biens urbains ;
+– le chef du service de la gestion des biens agricoles ;
+– le chef du service de la conservation des biens.
+
+
+## Article 3
+
+*ART. 3 –*
+
+Le président de la commission des louages et
+des ventes relatifs aux Habous publics peut inviter, à titre
+consultatif, toute personne dont l'avis est jugé utile pour
+assister aux réunions de ladite commission.
+
+
+## Article 4
+
+*ART. 4 –*
+
+En cas d'absence des réunions, ou d'empêchement,
+d'un membre de la commission des louages et des ventes relatifs
+aux Habous publics, le président peut le faire suppléer par tout
+fonctionnaire de la division qu'il juge compétent.
+En cas de vacance du poste de chef de service membre
+de la commission, le président de la commission charge un
+fonctionnaire dudit service pour le subroger en qualité de
+membre.
+Titre III
+
+*Personnes :* Titre III
+
+
+## Article 5
+
+*ART. 5 –*
+
+La commission des louages et des ventes
+relatifs aux Habous publics tient ses réunions sur invitation
+de son président chaque fois que nécessaire pour l'examen des
+dossiers qui lui sont soumis conformément aux dispositions
+de l'arrêté susvisé n° 365-13.
+
+*Entités :* `arrêté susvisé n° 365-13` (ARRETE)
+
+
+## Article 6
+
+*ART.  6  –*
+
+La commission se réunit valablement en
+présence d'au moins trois membres.
+
+
+## Article 7
+
+*ART. 7 –*
+
+La commission adopte ses propositions à la
+majorité des voix des membres présents et en cas d'égalité,
+celle du président est prépondérante.
+
+
+## Article 8
+
+*ART. 8 –*
+
+Le procès-verbal prévu aux articles 31 et 36 de
+l'arrêté susvisé n° 365-13 est soumis, dans un délai de huit jours
+de la date de sa signature, par le président de la commission
+des louages et des ventes relatifs aux Habous publics au
+ministre des Habous et des affaires islamiques pour statuer
+sur les propositions qui y sont contenues.
+
+*Entités :* `arrêté susvisé n° 365-13` (ARRETE)
+
+*Citations :*
+
+- `articles 31 et 36` → arrêté susvisé n° 365-13 [✓]
+
+
+## Article 9
+
+*ART. 9 –*
+
+Le président de la commission des louages et
+des ventes relatifs aux Habous publics charge un fonctionnaire
+de la division de gestion des biens Habous des missions de
+secrétariat de la commission.
+
+
+## Article 10
+
+*ART. 10 –*
+
+Le secrétaire de la commission se charge, sous
+la supervision du président, d'élaborer l'ordre du jour des
+réunions et à cet effet, prépare les dossiers et l'ensemble des
+pièces et des documents nécessaires à ses travaux, dresse les
+procès-verbaux des réunions et conserve les pièces afférentes
+à ses travaux.
+Titre IV
+Dispositions diverses
+
+
+## Article 11
+
+*ART. 11 –*
+
+La présente décision sera publiée au Bulletin
+officiel.
+Rabat, le 17 rabii II 1435 (17 février 2014).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6249 du 21 joumada II 1435 (21 avril 2014).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+ORGANISATION ET PERSONNEL DES ADMINISTRATIONS PUBLIQUES
+
+*Entités :* `17 rabii II 1435` (DATE_HIJRI), `17 février 2014` (DATE_GREGORIAN), `Bulletin officiel » n° 6249` (BULLETIN_OFFICIEL), `21 joumada II 1435` (DATE_HIJRI), `21 avril 2014` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 17 rabii II 1435, 17 février 2014, 21 joumada II 1435, 21 avril 2014, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+Une prime est octroyée aux
+prédicateurs exerçant dans les différentes provinces du
+Royaume, imputée sur des crédits ouverts dans le budget du
+ministère des Habous et des affaires islamiques.
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les prédicateurs sont désignés par arrêté du
+ministre des Habous et des affaires islamiques.
+
+*Entités :* `arrêté du
+ministre des Habous et des affaires islamiques` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le montant de la prime prévue à l'article
+premier est fixé comme suit :
+– les prédicateurs ambulants : 300 dirhams par mois
+chacun ;
+– les prédicateurs permanents : 225 dirhams par mois
+chacun ;
+– les prédicateurs en déplacement à l'étranger pendant le
+mois de Ramadan : 4500 dirhams chacun.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent décret qui est publié au Bulletin
+officiel entre en vigueur à compter du premier janvier 1985.
+Fait à Rabat, le 29 rabii I 1407 (2 décembre 1986).
+DR. AZZEDDINE LARAKI.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+ABDELKEBIR M'DAGHRI ALAOUI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 3899 du 25 kaada 1407 (22 juillet 1987).
+Article unique
+
+*Entités :* `29 rabii I 1407` (DATE_HIJRI), `2 décembre 1986` (DATE_GREGORIAN), `Bulletin officiel » n° 3899 du 25 kaada 1407 (22 juillet 1987)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AZZEDDINE LARAKI
+
+*Dates :* 29 rabii I 1407, 2 décembre 1986
+
+
+## Article UNIQUE
+
+*ARTICLE UNIQUE. –*
+
+Est complété comme suit, l'article 3
+du décret n° 2-85-738 du 29 rabii I 1407 (2 décembre 1986) portant
+octroi d'une prime aux prédicateurs exerçant dans les différentes
+provinces du Royaume :
+« les prédicateurs aux provinces sahariennes : 400.00
+« dirhams par mois chacun. »
+Fait à Rabat, le 26 kaada 1413 (18 mai 1993).
+MOHAMED KARIM AMRANI.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+ABDELKEBIR M'DAGHRI ALAOUI.
+Le ministre des finances,
+MOHAMED BERRADA.
+Le ministre délégué auprès
+du premier ministre, chargé
+ des affaires administratives,
+AZIZ HASBI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 4214 du 14 safar 1414 (4 août 1993).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `décret n° 2-85-738` (DECRET), `29 rabii I 1407` (DATE_HIJRI), `2 décembre 1986` (DATE_GREGORIAN), `26 kaada 1413` (DATE_HIJRI), `18 mai 1993` (DATE_GREGORIAN), `Bulletin officiel » n° 4214 du 14 safar 1414 (4 août 1993)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Citations :*
+
+- `l'article 3` → décret n° 2-85-738 [✓]
+
+*Dates :* 29 rabii I 1407, 2 décembre 1986, 26 kaada 1413, 18 mai 1993, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Est modifié et complété comme
+suit, l'article 3 du décret susvisé n° 2-85-738 du 29 rabii I 1407
+(2 décembre 1986) :
+« –  les prédicateurs ambulants : 540 dirhams par mois
+« chacun ;
+« – les prédicateurs permanents : 410 dirhams par mois
+« chacun ;
+« – les prédicateurs pendant le mois de ramadan : 270
+« dirhams par mois chacun ;
+« – les prédicateurs en déplacement  […texte non modifié…]  chacun ;
+« – les prédicateurs aux provinces sahariennes : 720
+« dirhams par mois chacun.
+« Ladite prime est octroyée aux concernés en contrepartie
+« de leur accomplissement des missions de prédication. »
+
+*Entités :* `29 rabii I 1407` (DATE_HIJRI), `2 décembre 1986` (DATE_GREGORIAN), `2-85-738` (DECRET)
+
+*Citations :*
+
+- `l'article 3` → décret n° 2-05-1577 [✓]
+
+*Personnes :* Ladite prime
+
+*Dates :* 29 rabii I 1407, 2 décembre 1986
+
+
+## Article 2
+
+*ART. 2.*
+
+–Le ministre des Habous et des affaires
+islamiques, le ministre des finances et de la privatisation et
+le ministre chargé de la modernisation des secteurs publics
+sont chargés, chacun en ce qui le concerne, de l'exécution du
+présent décret qui entre en vigueur à compter de la date de sa
+publication au Bulletin officiel.
+Fait à Rabat, le 5 rabii II 1427 (3 mai 2006).
+Driss Jettou.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre des finances
+et de la privatisation,
+FATHALLAH OUALALOU.
+Le ministre chargé de la
+modernisation des secteurs publics,
+MOHAMED BOUSSAID.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5425 du 1er joumada I 1427 (29 mai 2006).
+
+*Entités :* `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `Bulletin officiel » n° 5425` (BULLETIN_OFFICIEL), `1er joumada I 1427` (DATE_HIJRI), `29 mai 2006` (DATE_GREGORIAN)
+
+*Personnes :* Driss Jettou
+
+*Dates :* 5 rabii II 1427, 3 mai 2006, 1er joumada I 1427, 29 mai 2006
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Sont modifiées comme suit, les
+dispositions de l'article 3 du décret susvisé n° 2-85-738 :
+« – les prédicateurs ambulants : 810 dirhams par mois
+« chacun ;
+« – les prédicateurs permanents : 535 dirhams par mois
+« chacun ;
+« – les prédicateurs pendant le mois de ramadan : 400
+« dirhams par mois chacun ;
+« – les prédicateurs en déplacement  […texte non modifié…]  chacun ;
+« – les prédicateurs aux provinces sahariennes : 1080
+« dirhams par mois chacun.
+«………………………………………………………………. »
+
+*Entités :* `2-85-738` (DECRET)
+
+*Citations :*
+
+- `l'article 3` → décret n° 2-09-494 [✓]
+
+
+## Article 2
+
+*ART. 2.  –*
+
+Le ministre des Habous et des affaires
+islamiques et le ministre de l'économie et des finances sont
+chargés, chacun en ce qui le concerne, de l'exécution du
+présent décret qui entre en vigueur à compter de la date de sa
+publication au Bulletin officiel.
+Fait à Rabat, le 17 rejeb 1431 (30 juin 2010).
+Abbas El Fassi.
+Pour contreseing :
+Le ministre des Habous et des
+affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie et
+des finances,
+SALAHEDDINE MEZOUAR.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5856 du 2 chaabane 1431 (15 juillet 2010).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `17 rejeb 1431` (DATE_HIJRI), `30 juin 2010` (DATE_GREGORIAN), `Bulletin officiel » n° 5856 du 2 chaabane 1431 (15 juillet 2010)` (BULLETIN_OFFICIEL), `15 ramadan 1447` (DATE_HIJRI)
+
+*Personnes :* Abbas El Fassi
+
+*Dates :* 17 rejeb 1431, 30 juin 2010, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Sont modifiées et complétées
+comme suit, les dispositions de l'article 3 du décret susvisé
+n° 2-85-738 :
+« –  […texte non modifié…]  ;
+« –  les prédicateurs pendant le mois de ramadan  […texte non modifié…]  ;
+« – les prédicateurs en déplacement à l'étranger pendant
+« le mois de Ramadan : mille (1000) dirhams pour
+« chaque jour et un billet de voyage aller-retour chacun. »
+(Le reste sans changement.)
+
+*Entités :* `2-85-738` (DECRET)
+
+*Citations :*
+
+- `l'article 3` → décret n° 2-13-66 [✓]
+
+
+## Article 2
+
+*ART. 2.  –*
+
+Le ministre des Habous et des affaires
+islamiques et le ministre de l'économie et des finances sont
+chargés, chacun en ce qui le concerne, de l'exécution du présent
+décret qui est publié au Bulletin officiel.
+Fait à Rabat, le 11 joumada II 1434 (22 avril 2013).
+ABDEL-ILAH BENKIRAN.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie
+et des finances,
+NIZAR BARAKA.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6150 du 28 joumada II 1434 (9 mai 2013).
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `11 joumada II 1434` (DATE_HIJRI), `22 avril 2013` (DATE_GREGORIAN), `Bulletin officiel » n° 6150` (BULLETIN_OFFICIEL), `28 joumada II 1434` (DATE_HIJRI), `9 mai 2013` (DATE_GREGORIAN)
+
+*Dates :* 11 joumada II 1434, 22 avril 2013, 28 joumada II 1434, 9 mai 2013
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.  –*
+
+Outre l'inspecteur général,
+l'inspection générale du ministère des Habous et des affaires
+islamiques comprend deux catégories d'inspecteurs :
+– catégorie d'inspecteur ;
+– catégorie d'inspecteur-adjoint.
+
+
+## Article 2
+
+*ART. 2.  –*
+
+Les inspecteurs sont désignés selon les
+conditions et conformément à la procédure de désignation
+des chefs des divisions dans les administrations centrales et
+les inspecteurs-adjoints, selon les conditions et conformément
+à la procédure de désignation des chefs des services dans
+les administrations centrales, prévues au décret n° 2-75-832
+du 27 hija 1395 (30 décembre 1975) relatif aux fonctions
+supérieures propres aux départements ministériels.
+
+*Entités :* `décret n° 2-75-832` (DECRET), `27 hija 1395` (DATE_HIJRI), `30 décembre 1975` (DATE_GREGORIAN)
+
+*Dates :* 27 hija 1395, 30 décembre 1975
+
+
+## Article 3
+
+*ART. 3. –*
+
+Les inspecteurs bénéficient des indemnités
+allouées aux chefs des divisions dans les administrations
+centrales et les inspecteurs-adjoints, des indemnités allouées
+aux chefs des services dans les administrations centrales en
+vertu des textes réglementaires en vigueur.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le nombre d'inspecteurs et d'inspecteurs-
+adjoints est fixé par arrêté du ministre des Habous et des
+affaires islamiques, visé par les autorités gouvernementales
+chargées des finances et de la modernisation des secteurs
+publics.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté du ministre des Habous et des` (ARRETE), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 5
+
+*ART. 5.  –*
+
+Le ministre des Habous et des affaires
+islamiques, le ministre des finances et de la privatisation et
+le ministre chargé de la modernisation des secteurs publics
+sont chargés, chacun en ce qui le concerne, de l'exécution du
+présent décret qui entre en vigueur à compter de la date de sa
+publication au Bulletin officiel.
+Fait à Rabat, le 5 rabii II 1427 (3 mai 2006).
+DRISS JETTOU.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre des finances
+et de la privatisation,
+FATHALLAH OUALALOU.
+Le ministre chargé de la
+modernisation des secteurs
+publics,
+MOHAMED BOUSSAID.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5425 du 1er joumada I 1427 (29 mai 2006).
+
+*Entités :* `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `Bulletin officiel » n° 5425` (BULLETIN_OFFICIEL), `1er joumada I 1427` (DATE_HIJRI), `29 mai 2006` (DATE_GREGORIAN)
+
+*Dates :* 5 rabii II 1427, 3 mai 2006, 1er joumada I 1427, 29 mai 2006
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER.*
+
+–Le nombre d'inspecteurs et
+d'inspecteurs-adjoints exerçant au ministère des Habous et des
+affaires islamiques est fixé à quatorze (14) répartis comme suit :
+– les inspecteurs : quatre (4) ;
+– les inspecteurs-adjoints : dix (10).
+
+
+## Article 2
+
+*ART. 2.*
+
+–Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 5 rabii II 1427 (3 mai 2006).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5425 du 1er joumada I 1427 (29 mai 2006).
+
+*Entités :* `arrêté` (ARRETE), `5 rabii II 1427` (DATE_HIJRI), `3 mai 2006` (DATE_GREGORIAN), `Bulletin officiel » n° 5425` (BULLETIN_OFFICIEL), `1er joumada I 1427` (DATE_HIJRI), `29 mai 2006` (DATE_GREGORIAN)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 5 rabii II 1427, 3 mai 2006, 1er joumada I 1427, 29 mai 2006
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Les agents publics relevant du
+ministère des Habous et des affaires islamiques exerçant à
+l'administration centrale, aux services extérieurs, au conseil
+supérieur des Ouléma, aux conseils locaux des Ouléma, au
+conseil marocain des ouléma pour l'Europe, à l'établissement
+Dar El Hadith El Hassania, à l'institut royal pour la recherche
+sur l'histoire du Maroc et au conseil supérieur du contrôle des
+finances des Habous publics, bénéfciient d'une tenue de travail
+dans la limite des crédits inscrits à cet effet dans le budget du
+ministère des Habous et des affaires islamiques.
+Les fonctionnaires chargés de l'encadrement des pèlerins
+marocains aux lieux saints bénéficient d'une tenue de travail
+dans la limite des crédits inscrits à cet effet dans le budget de
+la division du pèlerinage et des affaires sociales (service de
+l'Etat géré de manière autonome).
+
+
+## Article 2
+
+*ART. 2. –*
+
+L'administration procède gratuitement à la
+remise d'une tenue de travail :
+– aux fonctionnaires chargés de l'encadrement des
+pèlerins marocains aux lieux saints ;
+– aux agents publics exerçant à l'administration centrale,
+aux services extérieurs, au conseil supérieur des
+ouléma, aux conseils locaux des Ouléma, au conseil
+marocain des Ouléma pour l'Europe, à l'établissement
+Dar El Hadith El Hassania, à l'institut royal pour la
+recherche sur l'histoire du Maroc et au conseil supérieur
+du contrôle des finances des Habous publics, exerçant
+les fonctions suivantes :
+– les techniciens des appareils électriques et informatiques ;
+– les bibliothécaires ;
+– les chauffeurs ;
+– les vaguemestres ;
+– les mécaniciens ;
+– les électriciens ;
+– les menuisiers ;
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+– les peintres ;
+– les plombiers ;
+– les maçons ;
+– les jardiniers ;
+– les portiers ;
+– les gardiens d'immeubles ;
+– les agents publics chargés de l'hygiène et de l'entretien ;
+– les employés de la cantine ;
+– les employés de l'imprimerie et de la photocopie.
+
+*Entités :* `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 15 ramadan 1447
+
+
+## Article 3
+
+*ART. 3. –*
+
+Il est procédé à la remise de la tenue de travail
+relatif aux agents publics prévus à l'article 2 ci-dessus au début
+de chaque année grégorienne.
+La tenue de travail des fonctionnaires chargés de
+l'encadrement des pèlerins aux lieux saints est remise au début
+de chaque saison de pèlerinage.
+
+*Citations :*
+
+- `l'article 2` → décret n° 2-10-552 [✓]
+
+
+## Article 4
+
+*ART. 4. –*
+
+En application du présent décret, les agents
+publics et les fonctionnaires chargés de l'encadrement des
+pèlerins aux lieux saints prévus à l'article 2 ci-dessus doivent
+porter et prendre soin de tenue de travail qui leur est remise,
+tout au long de la durée d'exercice de leurs missions.
+En cas de perte injustifiée, totale ou partielle, de tenue
+de travail, un avis de remboursement selon le prix fixé par
+l'administration est adressé à l'agent public ou au fonctionnaire
+concerné.
+
+*Citations :*
+
+- `l'article 2` → décret n° 2-10-552 [✓]
+
+
+## Article 5
+
+*ART. 5. –*
+
+La nature et les conditions de remise de la tenue
+de travail pour chacune des catégories prévues à l'article 2
+ci-dessus sont fixées par arrêté du ministre des Habous et des
+affaires islamiques visé par le ministre de l'économie et des
+finances et le ministre chargé de la modernisation des secteurs
+publics.
+
+*Entités :* `arrêté du ministre des Habous et des` (ARRETE)
+
+*Citations :*
+
+- `l'article 2` → arrêté du ministre des Habous et des [✓]
+
+
+## Article 6
+
+*ART. 6. –*
+
+Sont abrogées, les dispositions du décret
+n° 2-05-85 du 27 hija 1425 (7 février 2005) portant remise
+d'uniformes à certains agents du ministère des Habous et des
+affaires islamiques.
+
+*Entités :* `décret
+n° 2-05-85` (DECRET), `27 hija 1425` (DATE_HIJRI), `7 février 2005` (DATE_GREGORIAN)
+
+*Dates :* 27 hija 1425, 7 février 2005
+
+
+## Article 7
+
+*ART. 7.  –*
+
+Le ministre des Habous et des affaires
+islamiques, le ministre de l'économie et des finances et le
+ministre délégué auprès du premier ministre chargé de la
+modernisation des secteurs publics sont chargés, chacun en
+ce qui le concerne, de l'exécution du présent décret qui est
+publié au Bulletin officiel.
+Fait à Rabat, le 27 safar 1432 (1er février 2011).
+ABBAS EL FASSI.
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie et
+des finances,
+SALAHEDDINE MEZOUAR.
+Le ministre délégué auprès
+du premier ministre, chargé
+de la modernisation des
+secteurs publics,
+MOHAMED SAAD ALAMI.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5924 du 5 rabii II 1432 (10 mars 2011).
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `27 safar 1432` (DATE_HIJRI), `1er février 2011` (DATE_GREGORIAN), `Bulletin officiel » n° 5924` (BULLETIN_OFFICIEL), `5 rabii II 1432` (DATE_HIJRI), `10 mars 2011` (DATE_GREGORIAN)
+
+*Personnes :* ABBAS EL FASSI
+
+*Dates :* 27 safar 1432, 1er février 2011, 5 rabii II 1432, 10 mars 2011
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER.*
+
+–Les membres du Conseil supérieur
+des Ouléma et des conseils locaux des Ouléma perçoivent une
+indemnité représentative de sujétion dont les montants nets
+mensuels sont fixés comme suit :
+– les membres du Conseil supérieur des Ouléma :
+– les présidents des conseils locaux des Ouléma : 13.000
+dirhams ;
+– les membres désignés intuitu personnae : 10.000 dirhams ;
+– les membres des conseils locaux des Ouléma : 5.000
+dirhams.
+
+*Organisations :* Conseil supérieur
+des Ouléma, Conseil supérieur des Ouléma
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent décret entre en vigueur à compter
+du 1er janvier 2013 et sont abrogées à compter de la même
+date, les dispositions du décret n° 2-04-890 du 6 hija 1425
+(17 janvier 2005) instituant des indemnités au profit des
+membres du Conseil supérieur des Ouléma, des présidents et
+des membres des conseils locaux des Ouléma et des membres
+de leurs annexes.
+
+*Entités :* `1er janvier 2013` (DATE_GREGORIAN), `décret n° 2-04-890` (DECRET), `6 hija 1425` (DATE_HIJRI), `17 janvier 2005` (DATE_GREGORIAN)
+
+*Organisations :* Conseil supérieur des Ouléma
+
+*Dates :* 1er janvier 2013, 6 hija 1425, 17 janvier 2005
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le ministre des Habous et des affaires
+islamiques et le ministre de l'économie et des finances sont
+chargés, chacun en ce qui le concerne, de l'exécution du présent
+décret qui est publié au Bulletin officiel.
+Fait à Rabat, le 23 rabii II 1434 (6 mars 2013).
+ABDEL-ILAH BENKIRAN.
+Pour contreseing :
+Le ministre des Habous
+et des affaires islamiques,
+AHMED TOUFIQ.
+Le ministre de l'économie
+et des finances,
+NIZAR BARAKA.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6136 du 9 joumada I 1434 (21 mars 2013).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `ministre de l'économie et des finances` (MINISTERE), `23 rabii II 1434` (DATE_HIJRI), `6 mars 2013` (DATE_GREGORIAN), `Bulletin officiel » n° 6136` (BULLETIN_OFFICIEL), `9 joumada I 1434` (DATE_HIJRI), `21 mars 2013` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI)
+
+*Dates :* 23 rabii II 1434, 6 mars 2013, 9 joumada I 1434, 21 mars 2013, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+Des tenues de travail sont remises
+gratuitement aux :
+– agents relevant du ministère des Habous et des affaires
+islamiques  exerçant à l'administration centrale, aux
+services extérieurs, au conseil supérieur des Ouléma,
+aux conseils locaux des Ouléma, au conseil marocain
+des Ouléma pour l'Europe, à l'établissement Dar El
+Hadith El Hassania, à l'institut royal pour la recherche
+sur l'histoire du Maroc et au conseil supérieur du
+contrôle des finances des Habous publics, dans la limite
+des crédits inscrits à cet effet au budget du ministère
+des Habous et des affaires islamiques ;
+*
+
+
+## Article PREMIER
+
+*ARTICLE  PREMIER. –*
+
+En application des dispositions
+de l'article 24 du règlement intérieur du Conseil supérieur
+des Ouléma susvisé, les chefs de départements au sein de
+l'administration du Conseil supérieur des Ouléma perçoivent
+une indemnité de responsabilité dont le montant mensuel est
+fixé à mille cinq cent dirhams (1.500).
+
+*Citations :*
+
+- `l'article 24` → dahir n° 1-03-300 [✓]
+
+*Organisations :* Conseil supérieur
+des Ouléma, Conseil supérieur des Ouléma
+
+
+## Article 2
+
+*ART. 2. –*
+
+Le présent arrêté est publié au Bulletin officiel.
+Rabat, le 7 rabii II 1426 (16 mai 2005).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 5342 du 5 rejeb 1426 (11 août 2005).
+– fonctionnaires chargés de l'encadrement des pèlerins
+marocains aux lieux saints dans la limite des crédits
+inscrits à cet effet au budget de la division du pèlerinage
+et des affaires sociales (service de l'Etat géré de manière
+autonome).
+
+*Entités :* `arrêté` (ARRETE), `7 rabii II 1426` (DATE_HIJRI), `16 mai 2005` (DATE_GREGORIAN), `Bulletin officiel » n° 5342 du 5 rejeb 1426 (11 août 2005)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 7 rabii II 1426, 16 mai 2005
+
+
+## Article 2
+
+*ART. 2. –*
+
+Les conditions et la nature des tenues prévues
+à l'article premier ci-dessus sont fixées conformément
+à la liste annexée au présent arrêté.
+
+*Entités :* `arrêté` (ARRETE)
+
+
+## Article 3
+
+*ART. 3. –*
+
+Sont chargés de l'acquisition desdites tenues,
+à partir du compte des dépenses prévues à cet effet, les
+services compétents à l'administration centrale, les services
+extérieurs, le conseil supérieur des Ouléma, les conseils locaux
+des Ouléma, le conseil marocain des Oulémas pour l'Europe,
+l'établissement Dar El Hadith El Hassania, l'institut royal pour
+la recherche sur l'histoire du Maroc et le conseil supérieur du
+contrôle des finances des Habous publics.
+
+
+## Article 4
+
+*ART. 4. –*
+
+Le présent arrêté est publié au Bulletin officiel
+et est abrogé à compter de la date de publication, l'arrêté du
+ministre des Habous et des affaires islamiques  n° 1479-05 du
+22 joumada II 1426 (29 juillet 2005) fixant les conditions de
+remise de tenues de travail à certains agents du ministère des
+Habous et des affaires islamiques.
+Rabat, le 16 kaada 1432 (14 octobre 2011).
+AHMED TOUFIQ.
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+Liste des tenues de travail par catégorie de bénéficiaires
+Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 5997 du 24 hija 1432 (21 novembre 2011).
+Nº 7488 bis – 15 ramadan 1447 (5-3-2026)
+
+*Entités :* `arrêté` (ARRETE), `arrêté du
+ministre des Habous et des affaires islamiques  n° 1479-05 du` (ARRETE), `22 joumada II 1426` (DATE_HIJRI), `29 juillet 2005` (DATE_GREGORIAN), `16 kaada 1432` (DATE_HIJRI), `14 octobre 2011` (DATE_GREGORIAN), `15 ramadan 1447` (DATE_HIJRI), `Bulletin officiel » n° 5997 du 24 hija 1432 (21 novembre 2011)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 22 joumada II 1426, 29 juillet 2005, 16 kaada 1432, 14 octobre 2011, 15 ramadan 1447, 15 ramadan 1447
+
+
+## Article PREMIER
+
+*ARTICLE PREMIER. –*
+
+Sont complétées comme suit, les
+dispositions de l'article 8 de l'arrêté susvisé n° 679-16 du
+1er joumada II 1437 (10 mars 2016) :
+« Article 8. – Les délégations régionales …… suivants :
+« –  […texte non modifié…]  ;
+« – le service de la construction et de l'équipement ;
+« – le service de la planification et de la programmation ;
+« – le centre de documentation et des activités culturelles. »
+
+*Entités :* `arrêté susvisé n° 679-16` (ARRETE), `1er joumada II 1437` (DATE_HIJRI), `10 mars 2016` (DATE_GREGORIAN), `679-16` (ARRETE)
+
+*Citations :*
+
+- `l'article 8` → arrêté susvisé n° 679-16 [✓]
+
+*Dates :* 1er joumada II 1437, 10 mars 2016
+
+
+## Article 2
+
+*ART. 2. –*
+
+Sont complétées par les articles 8 bis, 12 bis
+et 17 bis, comme suit, les dispositions de l'arrêté du ministre
+des Habous et des affaires islamiques susvisé n° 679-16 du
+1er joumada II 1437 (10 mars 2016) :
+« Article 8 bis. – La délégation régionale des affaires
+« islamiques de la région Fès-Meknès comprend, outre les
+«  services prévus à l'article 8 ci-dessus, un service de
+« restauration des manuscrits ».
+« Article 12 bis. – le service de la planification et de
+la « programmation est chargé de  l'élaboration des études,
+la «  collecte des données, la proposition des projets de
+plans « régionaux et des projets de contrats d'objectifs, de
+l'efficience « et de programmes, l'émission d'avis sur les
+propositions de « répartition des crédits budgétaires et des
+projets de « conventions et de contrats relatifs à l'exécution des
+« programmes, ainsi que  du suivi  de l'exécution des différents
+« plans et projets avec les délégations provinciales des affaires
+« islamiques. »
+«  Article 17 bis. – Le service de restauration des
+« manuscrits est chargé de :
+« – restaurer et entretenir les manuscrits Habous ;
+« – photographier, numériser et stocker les manuscrits
+« restaurés ;
+« – faire connaitre la valeur scientifique et historique des
+« manuscrits restaurés. »
+
+*Entités :* `arrêté du ministre` (ARRETE), `1er joumada II 1437` (DATE_HIJRI), `10 mars 2016` (DATE_GREGORIAN), `679-16` (ARRETE), `arrêté du ministre
+des Habous et des affaires` (ARRETE)
+
+*Citations :*
+
+- `articles 8` → arrêté du ministre [✓]
+- `l'article 8` → arrêté du ministre [✓]
+
+*Dates :* 1er joumada II 1437, 10 mars 2016
+
+
+## Article 3
+
+*ART. 3. –*
+
+Le présent arrêté sera publié au Bulletin officiel.
+Rabat, le 8 chaabane 1442 (22 mars 2021).
+AHMED TOUFIQ.
+Le texte en langue arabe a été publié dans l'édition générale du
+« Bulletin officiel » n° 6990 du 15 chaoual 1442 (27 mai 2021).
+
+*Entités :* `arrêté` (ARRETE), `8 chaabane 1442` (DATE_HIJRI), `22 mars 2021` (DATE_GREGORIAN), `Bulletin officiel » n° 6990 du 15 chaoual 1442 (27 mai 2021)` (BULLETIN_OFFICIEL)
+
+*Organisations :* AHMED TOUFIQ
+
+*Dates :* 8 chaabane 1442, 22 mars 2021
+
+
+---
+
+## Entités du préambule
+
+
+- `Dahir n° 1-04-231 du 7 moharrem 1426 (16 février 2005)` → DAHIR
+- `dahir n° 1-03-300` → DAHIR
+- `2 rabii I 1425` → DATE_HIJRI
+- `22 avril 2004` → DATE_GREGORIAN

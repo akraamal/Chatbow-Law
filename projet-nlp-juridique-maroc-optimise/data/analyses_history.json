@@ -1,0 +1,35 @@
+[
+  {
+    "doc_id": "BO_7470_Fr_5f0a97a6",
+    "task_id": "7187514966e8",
+    "filename": "",
+    "bo_number": "7470",
+    "date_publication": "2026-01-01",
+    "n_instruments": 27,
+    "n_articles": 103,
+    "result_path": "C:\\Users\\yahia\\Downloads\\projet-nlp-juridique-maroc-optimise-v5\\projet-nlp-juridique-maroc-optimise\\data\\annotated\\fr_BO_7470_Fr_5f0a97a6_entities.json",
+    "created_at": 1786532350.3161354
+  },
+  {
+    "doc_id": "BO_6718_Fr_657b9d47",
+    "task_id": "f159aafe5253",
+    "filename": "",
+    "bo_number": "6718",
+    "date_publication": "2018-10-18",
+    "n_instruments": 12,
+    "n_articles": 73,
+    "result_path": "C:\\Users\\yahia\\Downloads\\projet-nlp-juridique-maroc-optimise-v5\\projet-nlp-juridique-maroc-optimise\\data\\annotated\\fr_BO_6718_Fr_657b9d47_entities.json",
+    "created_at": 1786530336.143824
+  },
+  {
+    "doc_id": "BO_6804_Fr_692ac82f",
+    "task_id": "24d938f4b4a5",
+    "filename": "",
+    "bo_number": null,
+    "date_publication": "2019-08-15",
+    "n_instruments": 33,
+    "n_articles": 52,
+    "result_path": "C:\\Users\\yahia\\Downloads\\projet-nlp-juridique-maroc-optimise-v5\\projet-nlp-juridique-maroc-optimise\\data\\annotated\\fr_BO_6804_Fr_692ac82f_entities.json",
+    "created_at": 1786458092.5722156
+  }
+]
