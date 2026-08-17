@@ -14035,8 +14035,10 @@
       "type": "DECRET",
       "reference_label": "décret n° 2-22-721",
       "title": "décret n°2-22-721 du 2 rabii I 1444 (29 septembre 2022) approuvant le contrat de crédit d'un montant de quatre- vingt-quinze millions d'euros (95.000.000,00 d'euros), conclu le 31 août 2022 entre le Royaume du Maroc et BANCO SANTANDER S.A. pour le financement du contrat commercial conclu entre l'Administration de la défense nationale et la société NAVANTIA S.A. LE CHEF DU GOUVERNEMENT,",
-      "decree_date_hijri": null,
-      "decree_date_gregorian": null,
+      "date_hijri": "2 rabii I 1444",
+      "date_gregorian": "2022-09-29",
+      "decree_date_hijri": "2 rabii I 1444",
+      "decree_date_gregorian": "2022-09-29",
       "bo_date_publication": "2022-10-06",
       "signatories": [
         {

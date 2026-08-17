@@ -10934,8 +10934,10 @@
       "type": "ARRETE",
       "reference_label": "arrêté n° 2938-25",
       "title": "Arrêté du ministre de l'industrie et du commerce n° 2938-25 du 26 joumada II 1447 (17 décembre 2025) rendant d'application obligatoire une norme marocaine.",
-      "decree_date_hijri": null,
-      "decree_date_gregorian": null,
+      "date_hijri": "26 joumada II 1447",
+      "date_gregorian": "2025-12-17",
+      "decree_date_hijri": "26 joumada II 1447",
+      "decree_date_gregorian": "2025-12-17",
       "bo_date_publication": "2026-02-05",
       "signatories": [
         {

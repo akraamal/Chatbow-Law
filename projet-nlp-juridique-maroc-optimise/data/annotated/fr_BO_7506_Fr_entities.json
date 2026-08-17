@@ -11980,8 +11980,10 @@
       "type": "ARRETE",
       "reference_label": "arrêté n° 1687-24",
       "title": "Arrêté du ministre du transport et de la logistique n° 1687-24 du 22 joumada II 1446 (24 décembre 2024) relatif à la signalisation des obstacles à la navigation aérienne",
-      "decree_date_hijri": null,
-      "decree_date_gregorian": null,
+      "date_hijri": "22 joumada II 1446",
+      "date_gregorian": "2024-12-24",
+      "decree_date_hijri": "22 joumada II 1446",
+      "decree_date_gregorian": "2024-12-24",
       "bo_date_publication": "2026-05-07",
       "signatories": [
         {

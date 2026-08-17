@@ -1001,7 +1001,7 @@ _ISSUER_ROLE_MAP = {
 
 def _fr_date_to_iso(text: str) -> str | None:
     """Convertit '8 mai 2026' -> '2026-05-08' (ou None)."""
-    m = re.match(r"^(\d{1,2})(?:er)?\s+([\wà-ÿ]+)\s+(\d{4})$", text.strip(), re.IGNORECASE)
+    m = re.match(r"^(\d{1,2})(?:er)?\s+([\wà-ÿ]+)\s*(\d{4})$", text.strip(), re.IGNORECASE)
     if not m:
         return None
     day, month_name, year = int(m.group(1)), m.group(2).lower(), m.group(3)
@@ -1045,7 +1045,8 @@ def _instrument_title(preamble: str, instr_type: str, reference: str | None) -> 
 
 
 def _instrument_dates(preamble: str, reference: str | None,
-                      article_texts: list[str] | None = None
+                      article_texts: list[str] | None = None,
+                      sommaire: str | None = None,
                       ) -> tuple[str | None, str | None]:
     """
     (date_hijri, date_gregorian_iso) de l'instrument, extraites de son
@@ -1062,10 +1063,20 @@ def _instrument_dates(preamble: str, reference: str | None,
             # Ancre sur le numéro propre de l'instrument pour éviter de
             # capturer la date d'un instrument cité (« n° 3151-13 du … »).
             ref_pat = re.sub(r"[-–—.]", "[-–—.]", reference)
+            # Hijri date: day month [month_num] year
+            # day: Arabic digits (1, 1er, 2) or Roman I with OCR artifacts (I*, I', 1°)
+            # month_num: Arabic digits, Roman numerals (I, II, III), or OCR artifacts (T)
+            day_suffix = r"(?:er|[\*\'\"]|°)?"
+            hijri_pat = (
+                r"([IVXLCT\d]{1,3}" + day_suffix + r"\s+[\wà-ÿ]+"
+                r"(?:\s+[IVXLCT\d]+)?\s+\d{3,4})"
+            )
+            # Gregorian: allow optional space between month and year (OCR: 'septembre2019')
+            greg_pat = r"(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s*\d{4})"
             return re.search(
-                r"\bN\s*[°º]\s*" + ref_pat +
-                r"\s*du\s+(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{3,4})\s*\(\s*"
-                r"(\d{1,2}(?:er)?\s+[\wà-ÿ]+\s+\d{4})\s*\)",
+                r"[Nn]\s*[°º]\s*" + ref_pat +
+                r"\s*du\s+" + hijri_pat +
+                r"\s*\(\s*" + greg_pat + r"\s*\)",
                 heading,
                 re.IGNORECASE,
             )
@@ -1075,14 +1086,29 @@ def _instrument_dates(preamble: str, reference: str | None,
         m = _search(preamble, anchored=False)
         if m:
             return m.group(1).strip(), _fr_date_to_iso(m.group(2))
-    # Repli : la ligne « n° … du … » peut manquer dans le préambule stocké
-    # (ex. BO_7510 instr_180_26) mais figurer dans les articles (annexe).
+    # Repli 1 : la ligne « n° … du … » peut manquer dans le préambule
+    # stocké (ex. BO_7510 instr_180_26) mais figurer dans les articles
+    # (annexe).
     if reference:
         texts = [re.sub(r"\s+", " ", t) for t in (article_texts or [])]
         for t in texts:
             m = _search(t, anchored=True)
             if m:
                 return m.group(1).strip(), _fr_date_to_iso(m.group(2))
+    # Repli 2 : le sommaire du bulletin cite systématiquement chaque
+    # instrument avec sa date complète (hégirien + grégorien entre
+    # parenthèses) au moment de sa première mention, même quand la
+    # citation reprise dans le corps du texte (préambule d'un instrument
+    # suivant, article de rappel) est tronquée et n'a que le hégirien
+    # (audit 2026-08 : BO_6758 décret 2-19-40 — corps « du 17 joumada I
+    # 1440 » sans parenthèse, alors que le sommaire porte « du 17 joumada
+    # 1 1440 (24 janvier 2019) »). Ancré sur la référence propre, comme
+    # le repli 1, pour ne pas confondre avec un autre instrument cité
+    # dans le même sommaire.
+    if reference and sommaire:
+        m = _search(re.sub(r"\s+", " ", sommaire), anchored=True)
+        if m:
+            return m.group(1).strip(), _fr_date_to_iso(m.group(2))
     return None, None
 
 
@@ -1489,6 +1515,7 @@ def _enrich_instrument_schema(
     lang: str = "fr",
     bo_date_publication: str | None = None,
     classify_domain: bool = True,
+    sommaire: str | None = None,
 ) -> list[dict]:
     """
     Enrichit chaque instrument avec les champs du schéma optimal v2
@@ -1523,6 +1550,7 @@ def _enrich_instrument_schema(
             preamble,
             ref,
             article_texts=[a.get("text", "") or "" for a in instrument_articles],
+            sommaire=sommaire,
         )
         if hijri:
             instr["date_hijri"] = hijri
@@ -1636,6 +1664,7 @@ def enrich_json(
             lang=data.get("lang", "fr"),
             bo_date_publication=data.get("date_publication"),
             classify_domain=classify_domain,
+            sommaire=data.get("sommaire"),
         )
         for instr in instruments:
             instr.pop("_preamble", None)  # internal field, not for output
