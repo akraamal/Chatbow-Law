@@ -1,4 +1,4 @@
-# Bulletin Officiel None
+# Bulletin Officiel 3559
 **Source :** `data\processed\ar\BO_3559_Ar.txt`
 **Langue :** ar
 **Nombre d'articles :** 0
@@ -2251,303 +2251,282 @@ _- _1اااا تت ليس ساك
 ## Entités du préambule
 
 
-- `54 يناير 5981` → DATE_HIJRI
+- `54 يناير 5981` → DATE_GREGORIAN
 - `مرسوم رقم 2.80.` → DECRET
-- `4 دجتبر 15980` → DATE_HIJRI
 - `قرار لوزير الشغل والتكوين المهنى رقم 80.` → ARRETE
 - `5 صفر 5401` → DATE_HIJRI
-- `13 دجنبر 2980` → DATE_HIJRI
+- `13 دجنبر 2980` → DATE_GREGORIAN
 - `مرسوم رقم 2.80.` → DECRET
-- `22 دجثبر 1980` → DATE_HIJRI
+- `14 من صفر 5405` → DATE_HIJRI
 - `الديوانة` → INSTITUTION
 - `مرسوم رقم 2.50.` → DECRET
-- `22 دجنبر 1980` → DATE_HIJRI
-- `2 دجئير 1980` → DATE_HIJRI
-- `22 دجتثير 1980` → DATE_HIJRI
-- `154 ينابر 9834` → DATE_HIJRI
+- `22 دجنبر 1980` → DATE_GREGORIAN
+- `24 من محرم 5401` → DATE_HIJRI
 - `قرار لوزير الدولة المكاسف باجري 2 ادا ار` → ARRETE
-- `27 نونير 149350` → DATE_HIJRI
 - `10 صفر 5401` → DATE_HIJRI
-- `18 دجنبر 1980` → DATE_HIJRI
-- `9 دجنبر 1980` → DATE_HIJRI
-- `9 دجئبر 1980` → DATE_HIJRI
+- `18 دجنبر 1980` → DATE_GREGORIAN
+- `9 دجنبر 1980` → DATE_GREGORIAN
 - `وزارة الفلاحة` → MINISTERE
 - `قرار لوزير الفلاحة والاصلاح الزراعى رقم 1470.80` → ARRETE
 - `5 محرم 3401` → DATE_HIJRI
-- `33 توئبر 19080` → DATE_HIJRI
-- `9 صقر 14015` → DATE_HIJRI
-- `17 دجتبر 1980` → DATE_HIJRI
-- `ر2 تونير 1974` → DATE_HIJRI
-- `0 صفمي 405` → DATE_HIJRI
-- `57 دجنبر 1980` → DATE_HIJRI
-- `9 مججرم 3395` → DATE_HIJRI
-- `22 ينايبر 1975` → DATE_HIJRI
-- `26 تجثير 1989` → DATE_HIJRI
+- `57 دجنبر 1980` → DATE_GREGORIAN
 - `قرار لوزير الفلاحة والاصلاح الزراعى رقم 1437.80` → ARRETE
-- `25 توثير 1080` → DATE_HIJRI
 - `قرار لوزير الفلاحة» والاصلاح الزراعى رقم 50 1438 بتدار بس 17 مسن` → ARRETE
-- `25 نونبر 1980` → DATE_HIJRI
+- `25 نونبر 1980` → DATE_GREGORIAN
 - `قرار لوزير الفلاحة` → ARRETE
-- `25 ترئير 1080` → DATE_HIJRI
-- `3 صقبي 1401` → DATE_HIJRI
 - `قرار لوزير الاوقاف والشؤون الاسلامية رقم 80.` → ARRETE
 - `5 صفر 1401` → DATE_HIJRI
-- `13 دجثير 2980` → DATE_HIJRI
 - `قرار لوزير الاوقاف والشؤون الاسلامية رقم 5404.80` → ARRETE
-- `5 صغر 1401` → DATE_HIJRI
-- `13 دجثير 1980` → DATE_HIJRI
-- `27 نونبر 1980` → DATE_HIJRI
-- `27 لونبر 1980` → DATE_HIJRI
-- `27 نوئبر 1980` → DATE_HIJRI
-- `27 فوتبر 1080` → DATE_HIJRI
-- `27 نونس 1980` → DATE_HIJRI
+- `9 من محرم 1401` → DATE_HIJRI
+- `27 نونبر 1980` → DATE_GREGORIAN
+- `19 من محرم 1401` → DATE_HIJRI
 - `قرار لوزير الشغل والتكوين المهنى رقم 1402.80` → ARRETE
 - `5 صفر 1401` → DATE_HIJRI
-- `13 دجثبر 1980` → DATE_HIJRI
-- `25 دجئبر 2968` → DATE_HIJRI
 - `5 صفر 1401` → DATE_HIJRI
-- `13 دجنبر 5980).` → DATE_HIJRI
-- `2 دحثبر 1980` → DATE_HIJRI
+- `13 دجنبر 5980).` → DATE_GREGORIAN
 - `7 رمضان 1399` → DATE_HIJRI
 - `51 محرم 1400` → DATE_HIJRI
-- `3 ابريل 2955` → DATE_HIJRI
 - `7 رجب 1350` → DATE_HIJRI
 - `الجماعة القروية لاولات ربيعة` → INSTITUTION
 - `الجماعة القروية لاولاد ربيعة` → INSTITUTION
 - `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاؤلات ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاد رببعة` → INSTITUTION
+- `الجماعة القروية لاؤلات
+ربيعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+رببعة` → INSTITUTION
 - `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاولان رسعة` → INSTITUTION
+- `الجماعة القروية لاولان
+رسعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+ربيعة` → INSTITUTION
+- `الجماعة التروية لاولاد
+ربيعة` → INSTITUTION
 - `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة التروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاد رببعة` → INSTITUTION
-- `الجماعة القروية لاولاد رسعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+رببعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+رسعة` → INSTITUTION
 - `الهجماعة القروية لاولاد رديعة` → INSTITUTION
 - `الجماعة القروية لاولاثك ربيعة` → INSTITUTION
 - `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاد ر سعة` → INSTITUTION
-- `الجماعة القروية لاولاد ربعة` → INSTITUTION
-- `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `1 مندد 3339ت` → DATE_HIJRI
-- `24 يناير 981` → DATE_HIJRI
-- `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاك رببعة` → INSTITUTION
-- `الجماعة القروسة لاولاد رببعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+ر سعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+ربعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+ربيعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+ربيعة` → INSTITUTION
+- `الجماعة القروية لاولاك
+رببعة` → INSTITUTION
+- `الجماعة القروسة لاولاد
+رببعة` → INSTITUTION
 - `الجماعة القروية لاولاد` → INSTITUTION
-- `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاد سسبت` → INSTITUTION
+- `الجماعة القروية لاولاد
+ربيعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+سسبت` → INSTITUTION
 - `الجماعة القروية لاولاد` → INSTITUTION
-- `الجماعة القروية لاولاد رسعة` → INSTITUTION
-- `الجماعة القروية لااولاد ربمعة` → INSTITUTION
-- `14 ينابر 19851` → DATE_HIJRI
-- `الجماعة القروية لالرلاد ربمعة` → INSTITUTION
-- `الجماعة القروية لاولاد سبيت` → INSTITUTION
+- `الجماعة القروية لاولاد
+رسعة` → INSTITUTION
+- `الجماعة القروية لااولاد
+ربمعة` → INSTITUTION
+- `الجماعة القروية لالرلاد
+ربمعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+سبيت` → INSTITUTION
 - `الجماعة القروية لااولاد` → INSTITUTION
-- `الجماعة القروية لاولادا سبيت` → INSTITUTION
+- `الجماعة القروية لاولادا
+سبيت` → INSTITUTION
 - `الجماعة القروية لاولاد` → INSTITUTION
-- `الجماعة القروية لاولادا ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاد سعسلمة` → INSTITUTION
-- `الجماعة القروبية لاولاد رتمعة` → INSTITUTION
-- `354 ينايبر 1081` → DATE_HIJRI
-- `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاد مسبت` → INSTITUTION
+- `الجماعة القروية لاولادا
+ربيعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+سعسلمة` → INSTITUTION
+- `الجماعة القروبية لاولاد
+رتمعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+ربيعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+مسبت` → INSTITUTION
 - `الجماعة القرويسة لاولات` → INSTITUTION
-- `الجماعة القروية لاولاد دواد اولاد` → INSTITUTION
-- `الجماعة القر وية لادلاه رببعة` → INSTITUTION
-- `الجماعة القرونة لاولاد متبيت` → INSTITUTION
-- `الجماعة القروية لاولاد اسميك` → INSTITUTION
-- `الجماعة القرويسة لاولاد ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاد سمبيت` → INSTITUTION
-- `الجماعة القروية لااولاد سمبيت` → INSTITUTION
-- `الجماعة القروية لاولاد رسعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+دواد اولاد` → INSTITUTION
+- `الجماعة القر وية لادلاه
+رببعة` → INSTITUTION
+- `الجماعة القرونة لاولاد
+متبيت` → INSTITUTION
+- `الجماعة القروية لاولاد
+اسميك` → INSTITUTION
+- `الجماعة القرويسة لاولاد
+ربيعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+سمبيت` → INSTITUTION
+- `الجماعة القروية لااولاد
+سمبيت` → INSTITUTION
+- `الجماعة القروية لاولاد
+رسعة` → INSTITUTION
 - `الجماعة القروية لاولاد` → INSTITUTION
-- `5 دوه 261` → DATE_HIJRI
 - `الجماعة القروية لاولاد1` → INSTITUTION
-- `الجماعة القروية ياوناد سبيت` → INSTITUTION
-- `154 يناير 1981` → DATE_HIJRI
-- `الجماعة القروية لاولاد رببعة` → INSTITUTION
-- `الجماعة المروية لاولاد رببعة ء.` → INSTITUTION
+- `الجماعة القروية ياوناد
+سبيت` → INSTITUTION
+- `154 يناير 1981` → DATE_GREGORIAN
+- `الجماعة القروية لاولاد
+رببعة` → INSTITUTION
+- `الجماعة المروية لاولاد
+رببعة ء.` → INSTITUTION
 - `الجماعة القروية لاولاد` → INSTITUTION
-- `الجماعة المروية لاولاد ربيعة داترة الزمامرة` → INSTITUTION
+- `الجماعة المروية لاولاد
+ربيعة داترة الزمامرة` → INSTITUTION
 - `الجماعة القروية لاولاد` → INSTITUTION
 - `الجماعة القروية لاولاد` → INSTITUTION
-- `99 مراء 205` → DATE_HIJRI
-- `الجماعة القروبة لاولاد ربيعة ء دائرة الزمامرة` → INSTITUTION
-- `الجماعة القروية لاولاد رسعة` → INSTITUTION
-- `الجماعة القروية لاولاد مميييه` → INSTITUTION
-- `الجماعة القروية لاولاة سبيت` → INSTITUTION
-- `الجماعة القروية لادولاد سبيت` → INSTITUTION
+- `الجماعة القروبة لاولاد
+ربيعة ء دائرة الزمامرة` → INSTITUTION
+- `الجماعة القروية لاولاد
+رسعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+مميييه` → INSTITUTION
+- `الجماعة القروية لاولاة
+سبيت` → INSTITUTION
+- `الجماعة القروية لادولاد
+سبيت` → INSTITUTION
 - `الجماعة القرووبة لاولاد1` → INSTITUTION
-- `الجماعة القروية لاولاد رميعة` → INSTITUTION
+- `الجماعة القروية لاولاد
+رميعة` → INSTITUTION
 - `الجماعة القروية لاولاد ربيعة` → INSTITUTION
-- `الجماعة التروية لاولات ربيعة` → INSTITUTION
-- `الجماعة القروية لالاولات ربيعة` → INSTITUTION
-- `الجماعة القروية لاولاك رديمة` → INSTITUTION
-- `الجماعة القروية لاولاد ربيعة` → INSTITUTION
+- `الجماعة التروية لاولات
+ربيعة` → INSTITUTION
+- `الجماعة القروية لالاولات
+ربيعة` → INSTITUTION
+- `الجماعة القروية لاولاك
+رديمة` → INSTITUTION
+- `الجماعة القروية لاولاد
+ربيعة` → INSTITUTION
 - `الجماعة القروية لاولاد` → INSTITUTION
-- `الجماعة القروية لاولاد رييعة` → INSTITUTION
-- `الجماعة ذلقروية لاولام ممبيت` → INSTITUTION
+- `الجماعة القروية لاولاد
+رييعة` → INSTITUTION
+- `الجماعة ذلقروية لاولام
+ممبيت` → INSTITUTION
 - `الجماعة القروية لاولاذ` → INSTITUTION
 - `الجماعة القروية لاولاها` → INSTITUTION
-- `1 للللششطصئيا 002020200` → DATE_HIJRI
-- `الجماعة القروبية لاولاد ربيعة` → INSTITUTION
+- `الجماعة القروبية لاولاد
+ربيعة` → INSTITUTION
 - `الجماعة` → INSTITUTION
-- `الجماعة القردبة لاولاد رسعة دائرة الزمامرة` → INSTITUTION
-- `الجماعة القروية لادلاد دوار اولادت تميم` → INSTITUTION
-- `2 دجئبر 2980` → DATE_HIJRI
+- `الجماعة القردبة لاولاد
+رسعة دائرة الزمامرة` → INSTITUTION
+- `الجماعة القروية لادلاد
+دوار اولادت تميم` → INSTITUTION
+- `24 من محرم 1401` → DATE_HIJRI
 - `الوزير الاول بالنبابة` → INSTITUTION
-- `4 دجثير 1980` → DATE_HIJRI
-- `|1357 غضت 32979` → DATE_HIJRI
 - `الوزير الاول` → INSTITUTION
-- `3 ابريل 1951` → DATE_HIJRI
 - `7 رجب 1386` → DATE_HIJRI
-- `22 اكتوبر 3966` → DATE_HIJRI
-- `0000000 اسم 00000` → DATE_HIJRI
-- `3 الريصانى 3125` → DATE_HIJRI
-- `5 الريصانى 3131` → DATE_HIJRI
-- `4 دجئير 75980).` → DATE_HIJRI
+- `26 من محرم 73405` → DATE_HIJRI
 - `الديوانة` → INSTITUTION
-- `222 دجثبر 1980` → DATE_HIJRI
 - `البلدية بزنقة الديوانة` → INSTITUTION
 - `الوزير الاول` → INSTITUTION
-- `26 مارس 5980` → DATE_HIJRI
-- `2 مابو 1980` → DATE_HIJRI
-- `53 ير 22222222` → DATE_HIJRI
+- `26 مارس 5980` → DATE_GREGORIAN
 - `الجماعة الحضرية لعين الذئاب بتنفيذ هذا المرسوم` → INSTITUTION
 - `الوزير الاول` → INSTITUTION
-- `2 ابريل 15855` → DATE_HIJRI
-- `23 يبراير 72980` → DATE_HIJRI
-- `12 ابريل 15980` → DATE_HIJRI
-- `22 دجنبر 1980` → DATE_HIJRI
-- `22 دجثبر 1980` → DATE_HIJRI
+- `14 من صفر 2401` → DATE_HIJRI
+- `22 دجنبر 1980` → DATE_GREGORIAN
+- `4 من صفر 1401` → DATE_HIJRI
 - `الوزير الاول` → INSTITUTION
-- `0 الااخرة 5370` → DATE_HIJRI
-- `3 ابريل 5951` → DATE_HIJRI
-- `8 نونبر 1978` → DATE_HIJRI
-- `10 يناير 15979` → DATE_HIJRI
-- `14 ينابير 951` → DATE_HIJRI
-- `22 دجئبر 5980).` → DATE_HIJRI
+- `8 نونبر 1978` → DATE_GREGORIAN
+- `7 من صفر 53998` → DATE_HIJRI
+- `10 يناير 15979` → DATE_GREGORIAN
+- `14 من صفر 1401` → DATE_HIJRI
 - `مرسوم رقم 2.80.` → DECRET
-- `26 دجغبر 1980` → DATE_HIJRI
-- `الوزير الاول ة بمقتضى الظهير الشريف الصادر` → INSTITUTION
-- `3 ابرهل 29515` → DATE_HIJRI
-- `26 ابريل 2976` → DATE_HIJRI
-- `20 دحلسر 1980` → DATE_HIJRI
+- `الوزير الاول ة
+بمقتضى الظهير الشريف الصادر` → INSTITUTION
 - `الوزارة` → INSTITUTION
 - `30 محرم 1387` → DATE_HIJRI
-- `وزارة القلاحة والاصلاح الزراعى الااتية اسماؤعم تميمة` → INSTITUTION
-- `26 دجنبر 1979` → DATE_HIJRI
-- `25 نونير 1980).` → DATE_HIJRI
-- `14 ينابر 1984` → DATE_HIJRI
-- `22 ابريل 396` → DATE_HIJRI
-- `14 ينابر 5981` → DATE_HIJRI
-- `25 ثبير 1980` → DATE_HIJRI
+- `وزارة القلاحة والاصلاح الزراعى الااتية اسماؤعم
+تميمة` → INSTITUTION
+- `26 من صفر 1400` → DATE_HIJRI
+- `26 دجنبر 1979` → DATE_GREGORIAN
+- `57 من محرم 5405` → DATE_HIJRI
 - `الوزارة` → INSTITUTION
 - `10 محرم 1387` → DATE_HIJRI
-- `23 ابريل 35967` → DATE_HIJRI
 - `وزارة الفلاحة` → MINISTERE
 - `الصندوق الوطنى الفابوى` → INSTITUTION
-- `55 يناير 1980` → DATE_HIJRI
-- `25 نونبر 5980).` → DATE_HIJRI
-- `25 توتيبر 1980` → DATE_HIJRI
+- `26 من صفر 1400` → DATE_HIJRI
+- `55 يناير 1980` → DATE_GREGORIAN
+- `157 من محرم 1403` → DATE_HIJRI
+- `25 نونبر 5980).` → DATE_GREGORIAN
 - `الوزارة` → INSTITUTION
 - `وزارة الفلاحة` → MINISTERE
-- `14 ينايبر 1981` → DATE_HIJRI
 - `الصندوق الوطنى الفايوى` → INSTITUTION
-- `20 مارس 2980` → DATE_HIJRI
-- `25 نونبر 5980).` → DATE_HIJRI
+- `20 مارس 2980` → DATE_GREGORIAN
+- `57 من محرم 1405` → DATE_HIJRI
+- `25 نونبر 5980).` → DATE_GREGORIAN
 - `3 صفر 1401` → DATE_HIJRI
-- `11 دجنبر 1980` → DATE_HIJRI
+- `11 دجنبر 1980` → DATE_GREGORIAN
 - `5 صفر 1401` → DATE_HIJRI
-- `13 دجنبر 1980` → DATE_HIJRI
+- `13 دجنبر 1980` → DATE_GREGORIAN
 - `الوزير الاول ووزير العدل` → INSTITUTION
 - `الظهير الشريف رقم 1.79.77` → DAHIR
-- `29 مارس 1979` → DATE_HIJRI
+- `29 مارس 1979` → DATE_GREGORIAN
 - `الظهير الشريف رقم 1.79.77` → DAHIR
-- `291 دس 0079` → DATE_HIJRI
 - `9 صفر 1378` → DATE_HIJRI
 - `10 محرم 1387` → DATE_HIJRI
 - `بوزارة العدل` → INSTITUTION
 - `الوزير الاول ووذير العدل على جميع الرسوم` → INSTITUTION
 - `3 صفر 5405` → DATE_HIJRI
-- `55 دجنبر 5980).` → DATE_HIJRI
-- `لوزارة الاوقاف الامضاء` → INSTITUTION
-- `2 الاولى 1708` → DATE_HIJRI
-- `22 ابريل 078` → DATE_HIJRI
+- `55 دجنبر 5980).` → DATE_GREGORIAN
+- `لوزارة الاوقاف
+الامضاء` → INSTITUTION
 - `5 صفر 1401` → DATE_HIJRI
-- `213 دجنير 1980).` → DATE_HIJRI
-- `27 نونبر 1980` → DATE_HIJRI
+- `18 من محرم 1405` → DATE_HIJRI
+- `27 نونبر 1980` → DATE_GREGORIAN
 - `5 صفر 1401` → DATE_HIJRI
-- `13 دجنبر 1980` → DATE_HIJRI
-- `10 عترم 5401` → DATE_HIJRI
-- `18 نونبر 1950).` → DATE_HIJRI
+- `13 دجنبر 1980` → DATE_GREGORIAN
+- `18 نونبر 1950).` → DATE_GREGORIAN
 - `الظهير الشريف رقم 1.79.77` → DAHIR
-- `29 مارس 1979).` → DATE_HIJRI
+- `29 مارس 1979).` → DATE_GREGORIAN
 - `9 رمضان 21376` → DATE_HIJRI
-- `50 ابريل 5937` → DATE_HIJRI
-- `27 نوثئبر 5980` → DATE_HIJRI
 - `10 محرم 5401` → DATE_HIJRI
-- `18 نونبر 5980).` → DATE_HIJRI
-- `22 ابريل 2978` → DATE_HIJRI
-- `27 تونير 2980` → DATE_HIJRI
+- `18 نونبر 5980).` → DATE_GREGORIAN
+- `29 من محرم 2401` → DATE_HIJRI
 - `0 محرم 3401` → DATE_HIJRI
-- `18 نونبر 1980).` → DATE_HIJRI
+- `18 نونبر 1980).` → DATE_GREGORIAN
 - `5 صفر 1401` → DATE_HIJRI
-- `13 دجنيبر 1980).` → DATE_HIJRI
-- `27 نونبر 2950` → DATE_HIJRI
-- `27 نونبر 980` → DATE_HIJRI
+- `29 من محرم 1405` → DATE_HIJRI
+- `27 نونبر 2950` → DATE_GREGORIAN
+- `59 من محرم 2402` → DATE_HIJRI
 - `10 محرم 1401` → DATE_HIJRI
-- `18 نوفبر 1980` → DATE_HIJRI
 - `0 محرم 1405` → DATE_HIJRI
-- `18 وير 980` → DATE_HIJRI
-- `9 قدد 3339` → DATE_HIJRI
-- `14 ينابر 1081` → DATE_HIJRI
-- `27 نونبر 1980` → DATE_HIJRI
-- `9 دجتبر 7980` → DATE_HIJRI
-- `9 دجثير 21980` → DATE_HIJRI
+- `19 من محرم 1401` → DATE_HIJRI
+- `27 نونبر 1980` → DATE_GREGORIAN
 - `10 صفر 5405` → DATE_HIJRI
-- `18 دجنير 1980` → DATE_HIJRI
 - `9 محرم 2401` → DATE_HIJRI
-- `27 توثير 1980).` → DATE_HIJRI
-- `26 يونيه 2967` → DATE_HIJRI
-- `57 يوليوز 1967` → DATE_HIJRI
-- `4 يونيه 5980` → DATE_HIJRI
-- `9 دجنبر 1980` → DATE_HIJRI
-- `22 ابريل 72980` → DATE_HIJRI
-- `2 الاول 5357` → DATE_HIJRI
-- `26 يونية 2967` → DATE_HIJRI
-- `26 دونيه 106` → DATE_HIJRI
-- `30 مارس 1989` → DATE_HIJRI
-- `9 دجنير 5980).` → DATE_HIJRI
-- `14 ينايبر 1981` → DATE_HIJRI
-- `2 نونبر 1974` → DATE_HIJRI
-- `2 نونير 3974` → DATE_HIJRI
+- `57 يوليوز 1967` → DATE_GREGORIAN
+- `9 دجنبر 1980` → DATE_GREGORIAN
+- `30 مارس 1989` → DATE_GREGORIAN
+- `20 من شوال 1397` → DATE_HIJRI
+- `17 من شوال 1394` → DATE_HIJRI
+- `2 نونبر 1974` → DATE_GREGORIAN
+- `357 من شوال 13984` → DATE_HIJRI
 - `2 صفر 5399` → DATE_HIJRI
-- `9 صقر 154015` → DATE_HIJRI
-- `27 دجنبر 1980).` → DATE_HIJRI
-- `9 صغر 1401` → DATE_HIJRI
-- `172 دجنبر 1980` → DATE_HIJRI
-- `9 ترم 1395` → DATE_HIJRI
-- `22 يناير 1975` → DATE_HIJRI
-- `2 نونبر 2974` → DATE_HIJRI
+- `27 دجنبر 1980).` → DATE_GREGORIAN
+- `172 دجنبر 1980` → DATE_GREGORIAN
+- `22 يناير 1975` → DATE_GREGORIAN
+- `37 من شوال 5394` → DATE_HIJRI
+- `2 نونبر 2974` → DATE_GREGORIAN
 - `وزارة الفلاحة` → MINISTERE
-- `13 نونبر 1980` → DATE_HIJRI
-- `9 مارس 5967` → DATE_HIJRI
-- `9 مارس 1967` → DATE_HIJRI
+- `13 نونبر 1980` → DATE_GREGORIAN
+- `9 مارس 5967` → DATE_GREGORIAN
+- `9 مارس 1967` → DATE_GREGORIAN
 - `5 محرم 1405` → DATE_HIJRI
-- `53 نونبر 15980).` → DATE_HIJRI
+- `53 نونبر 15980).` → DATE_GREGORIAN
 - `9 صفر 1401` → DATE_HIJRI
-- `17 دجنبر 1980` → DATE_HIJRI
-- `2 نونبر 1974` → DATE_HIJRI
+- `17 دجنبر 1980` → DATE_GREGORIAN
+- `17 من
+شوال 1394` → DATE_HIJRI
+- `2 نونبر 1974` → DATE_GREGORIAN
 - `المرسوم رقم 2.59.` → DECRET
-- `5 عابيو 1959` → DATE_HIJRI
+- `26 من شوال 1378` → DATE_HIJRI
 - `2 صفر 5399` → DATE_HIJRI
-- `9 صقر 1401` → DATE_HIJRI
-- `37 دجنير 1980).` → DATE_HIJRI
 - `9 محرم 5395` → DATE_HIJRI
-- `22 ينايسر 1975` → DATE_HIJRI
 - `9 محرم 1395` → DATE_HIJRI
 - `وزارة الصحة` → MINISTERE
 - `وزارة الصحة` → MINISTERE
@@ -2557,11 +2536,9 @@ _- _1اااا تت ليس ساك
 - `وزارة الصحة` → MINISTERE
 - `وزارة الصحة` → MINISTERE
 - `وزارة` → INSTITUTION
-- `54 ينايبر 1981` → DATE_HIJRI
 - `وزارة الشؤون الادازية` → INSTITUTION
-- `وزارة الاوقاف والشسؤون الاسلامية ننائج مباراة لتوظيف` → INSTITUTION
-- `4 اكتوبر 1980` → DATE_HIJRI
+- `وزارة الاوقاف والشسؤون الاسلامية
+ننائج مباراة لتوظيف` → INSTITUTION
 - `وزارة الداخلية` → MINISTERE
-- `9 يناير 1980` → DATE_HIJRI
-- `137 شتثبر 1978` → DATE_HIJRI
+- `9 يناير 1980` → DATE_GREGORIAN
 - `وزارة الصحة` → MINISTERE

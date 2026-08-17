@@ -1,6 +1,6 @@
 # Bulletin Officiel 6718
 **Source :** `data\processed\fr\BO_6718_Fr.txt`
-**Langue :** ar
+**Langue :** fr
 **Nombre d'articles :** 75
 
 ## Préambule
@@ -1035,8 +1035,6 @@ Le ministre de l'équipement,
 du transport, de la logistique
 et de l'eau,
 ABDELKADER AMARA.
-1730 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)
-N° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1731
 1732 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)
 EE pm rpm may
 mme
@@ -1072,7 +1070,7 @@ oo
 *Entités :* `22 moharrem 1440` (DATE_HIJRI), `2 octobre 2018` (DATE_GREGORIAN), `8 safar 1440` (DATE_HIJRI), `décret n° 2-17-788` (DECRET), `25 février 1961` (DATE_GREGORIAN), `décret
 n° 2-60-389` (DECRET), `9 ramadan 1380` (DATE_HIJRI)
 
-*Dates :* 22 moharrem 1440, 2 octobre 2018, 8 safar 1440, 8 safar 1440, 8 safar 1440, 25 février 1961, 9 ramadan 1380, 25 février 1961, 9 ramadan 1380, 25 février 1961
+*Dates :* 22 moharrem 1440, 2 octobre 2018, 8 safar 1440, 25 février 1961, 9 ramadan 1380, 25 février 1961, 9 ramadan 1380, 25 février 1961
 
 
 ## Article ANNEXE
@@ -1451,7 +1449,6 @@ Rurale maladie de
 bayoud
 N° POINT X
 x *% *%
-1740 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)
 N° 6718 - 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL VAT
 Modèle du laissez-passer des vitro-plants, des
 palmiers dattiers des zones protég
@@ -1533,7 +1530,7 @@ l'agriculture` (MINISTERE), `arrêté` (ARRETE)
 *Organisations :* Office National de Sécurité Sanitaire, Alimentaires
 Service de la Protection des Végétaux
 
-*Dates :* 8 safar 1440, 8 safar 1440, 3 ramadan 1436, 20 juin 2015, 11 octobre 2018, 8 safar 1440
+*Dates :* 8 safar 1440, 3 ramadan 1436, 20 juin 2015, 11 octobre 2018, 8 safar 1440
 
 
 ## Article PREMIER

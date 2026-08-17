@@ -1,12 +1,12 @@
 {
   "source": "data\\processed\\fr\\BO_6718_Fr.txt",
-  "lang": "ar",
+  "lang": "fr",
   "doc_id": "BO_6718_Fr",
   "bo_number": "6718",
-  "bo_number_source": "filename",
-  "bo_number_confidence": "low",
-  "bo_number_header": null,
-  "date_publication": null,
+  "bo_number_source": "filename+header",
+  "bo_number_confidence": "high",
+  "bo_number_header": "6718",
+  "date_publication": "2018-10-18",
   "edition_label": "Cent-septième",
   "preamble_text": "Dabhir n° 1-18-78 du 23 kaada 1439 (6 août 2018) portant\npromulgation de la loi n° 27-18 portant approbation\ndu décret-loi n° 2-18-117 du 6 joumada IT 1439\n(23 février 2018) édictant des dispositions transitoires\nrelatives à l'échange automatique d'informations\nà des fins fiscales.\nLOUANGE A DIEU SEUL !\n(Grand Sceau de Sa Majesté Mohammed VI)\nQue l'on sache par les présentes - puisse Dieu en élever\net en fortifier la teneur !\nQue Notre Majesté Chérifienne ;\nVu la Constitution, notamment ses articles 42 et 50,\nÀ DÉCIDÉ CE QUI SUIT :\nEst promulguée et sera publiée au Bulletin officiel,\nà la suite du présent dahir, la loi n° 27-18 portant\napprobation du décret-loi n° 2-18-117 du 6 joumada IT 1439\n(23 février 2018) édictant des dispositions transitoires relatives\nà l'échange automatique d'informations à des fins fiscales, telle\nqu'adoptée par la Chambre des représentants et la Chambre\ndes conseillers.\nFait à Tétouan, le 23 kaada 1439 (6 août 2018).\nPour contreseing :\nLe Chef du gouvernement,\nSAAD DINE EL OTMANI.\n*\n+ %\nLoi n° 27-18\nportant approbation du décret-loi n° 2-18-117\ndu 6 joumada II 1439 (23 février 2018)\nédictant des dispositions transitoires relatives à l'échange\nautomatique d'informations à des fins fiscales",
   "preamble_entities": [
@@ -1104,6 +1104,12 @@
           "end": 558
         },
         {
+          "label": "DATE_HIJRI",
+          "text": "17 joumada 1 1429",
+          "start": 562,
+          "end": 579
+        },
+        {
           "label": "DATE_GREGORIAN",
           "text": "23 mai 2008",
           "start": 581,
@@ -2096,26 +2102,26 @@
         {
           "label": "DECRET",
           "text": "décret n° 2-17-788",
-          "start": 538,
-          "end": 556
+          "start": 420,
+          "end": 438
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "25 février 1961",
-          "start": 649,
-          "end": 664
+          "start": 531,
+          "end": 546
         },
         {
           "label": "DECRET",
           "text": "décret\nn° 2-60-389",
-          "start": 733,
-          "end": 751
+          "start": 615,
+          "end": 633
         },
         {
           "label": "DATE_HIJRI",
           "text": "9 ramadan 1380",
-          "start": 755,
-          "end": 769
+          "start": 637,
+          "end": 651
         }
       ],
       "dates": [
@@ -2138,50 +2144,38 @@
           "end": 384
         },
         {
-          "label": "DATE_HIJRI",
-          "text": "8 safar 1440",
-          "start": 408,
-          "end": 420
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "8 safar 1440",
-          "start": 490,
-          "end": 502
-        },
-        {
           "label": "DATE_GREGORIAN",
           "text": "25 février 1961",
-          "start": 649,
-          "end": 664
+          "start": 531,
+          "end": 546
         },
         {
           "label": "DATE_HIJRI",
           "text": "9 ramadan 1380",
-          "start": 755,
-          "end": 769
+          "start": 637,
+          "end": 651
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "25 février 1961",
-          "start": 771,
-          "end": 786
+          "start": 653,
+          "end": 668
         },
         {
           "label": "DATE_HIJRI",
           "text": "9 ramadan 1380",
-          "start": 1172,
-          "end": 1186
+          "start": 1054,
+          "end": 1068
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "25 février 1961",
-          "start": 1188,
-          "end": 1203
+          "start": 1070,
+          "end": 1085
         }
       ],
       "preamble": "",
-      "text": "Le ministre de l'équipement, du transport, de\nla logistique et de l'eau est chargé de l'application du présent\ndécret qui sera publié au Bulletin officiel.\nFait à Rabat, le 22 moharrem 1440 (2 octobre 2018),\nSAAD DINE EL OTMANI.\nPour contreseing :\nLe ministre de l'équipement,\ndu transport, de la logistique\net de l'eau,\nABDELKADER AMARA.\n1730 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)\nN° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1731\n1732 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)\nEE pm rpm may\nmme\n_au décret n° 2-17-788 du 22 moharre\nd'aptitude et aux conditions requises [\nTableaux de correspondance entre les\n(25 février 1961) et les\nBrevets du service pont :\nBrevets délivrés dans le cadre du décret\nn° 2-60-389 du 9 ramadan 1380\n(25 février 1961)\nBrevet de capitaine au long cours\nBrevet de lieutenant au long cours\nBrevet de capitaine de 2°\" classe de la\nmarine marchande\nBrevet de lieutenant de 2?\" classe de la\nmarine marchande\nBrevet de capitaine de 3°\" classe de la\nmarine marchande\n(*) Ce brevet d'aptitude est délivré dans le cas où la ca\nBrevets du service machine :\nBrevets délivrés dans le cadre du décret\nn° 2-60-389 du 9 ramadan 1380\n(25 février 1961)\nBrevet d'officier mécanicien de 1°\" classe\nde la marine marchande\nBrevet de Lieutenant mécanicien de 1°\nclasse de la marine marchande\nBrevet d'officier mécanicien de 2% classe\nde la marine marchande\noo",
+      "text": "Le ministre de l'équipement, du transport, de\nla logistique et de l'eau est chargé de l'application du présent\ndécret qui sera publié au Bulletin officiel.\nFait à Rabat, le 22 moharrem 1440 (2 octobre 2018),\nSAAD DINE EL OTMANI.\nPour contreseing :\nLe ministre de l'équipement,\ndu transport, de la logistique\net de l'eau,\nABDELKADER AMARA.\n1732 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)\nEE pm rpm may\nmme\n_au décret n° 2-17-788 du 22 moharre\nd'aptitude et aux conditions requises [\nTableaux de correspondance entre les\n(25 février 1961) et les\nBrevets du service pont :\nBrevets délivrés dans le cadre du décret\nn° 2-60-389 du 9 ramadan 1380\n(25 février 1961)\nBrevet de capitaine au long cours\nBrevet de lieutenant au long cours\nBrevet de capitaine de 2°\" classe de la\nmarine marchande\nBrevet de lieutenant de 2?\" classe de la\nmarine marchande\nBrevet de capitaine de 3°\" classe de la\nmarine marchande\n(*) Ce brevet d'aptitude est délivré dans le cas où la ca\nBrevets du service machine :\nBrevets délivrés dans le cadre du décret\nn° 2-60-389 du 9 ramadan 1380\n(25 février 1961)\nBrevet d'officier mécanicien de 1°\" classe\nde la marine marchande\nBrevet de Lieutenant mécanicien de 1°\nclasse de la marine marchande\nBrevet d'officier mécanicien de 2% classe\nde la marine marchande\noo",
       "citations": [],
       "persons": [],
       "organizations": [],
@@ -2692,112 +2686,106 @@
         {
           "label": "DATE_HIJRI",
           "text": "8 safar 1440",
-          "start": 345,
-          "end": 357
+          "start": 322,
+          "end": 334
         },
         {
           "label": "ARRETE",
           "text": "arrêté du ministre de",
-          "start": 835,
-          "end": 856
+          "start": 776,
+          "end": 797
         },
         {
           "label": "DATE_HIJRI",
           "text": "3 ramadan 1436",
-          "start": 908,
-          "end": 922
+          "start": 849,
+          "end": 863
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "20 juin 2015",
-          "start": 924,
-          "end": 936
+          "start": 865,
+          "end": 877
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "11 octobre 2018",
-          "start": 2707,
-          "end": 2722
+          "start": 2648,
+          "end": 2663
         },
         {
           "label": "MINISTERE",
           "text": "ministre de\nl'agriculture",
-          "start": 845,
-          "end": 870
+          "start": 786,
+          "end": 811
         },
         {
           "label": "ARRETE",
           "text": "arrêté",
-          "start": 835,
-          "end": 841
+          "start": 776,
+          "end": 782
         }
       ],
       "dates": [
         {
           "label": "DATE_HIJRI",
           "text": "8 safar 1440",
-          "start": 345,
-          "end": 357
-        },
-        {
-          "label": "DATE_HIJRI",
-          "text": "8 safar 1440",
-          "start": 381,
-          "end": 393
+          "start": 322,
+          "end": 334
         },
         {
           "label": "DATE_HIJRI",
           "text": "3 ramadan 1436",
-          "start": 908,
-          "end": 922
+          "start": 849,
+          "end": 863
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "20 juin 2015",
-          "start": 924,
-          "end": 936
+          "start": 865,
+          "end": 877
         },
         {
           "label": "DATE_GREGORIAN",
           "text": "11 octobre 2018",
-          "start": 2707,
-          "end": 2722
+          "start": 2648,
+          "end": 2663
         },
         {
           "label": "DATE_HIJRI",
           "text": "8 safar 1440",
-          "start": 2760,
-          "end": 2772
+          "start": 2701,
+          "end": 2713
         }
       ],
       "preamble": "",
-      "text": "Annexe 1\nzones protégées de la maladie du bayoud publiée sur le site web de\naational de sécurité sanitaire des produits alimentaires\nkkkkkkkkkk\nzées de la maladie du Bayoud (Fusarium oxysporium f. sp. albedinis)\nZone reconnue Coordonnées Lambert\nCommune indemne de la\nRurale maladie de\nbayoud\nN° POINT X\nx *% *%\n1740 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)\nN° 6718 - 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL VAT\nModèle du laissez-passer des vitro-plants, des\npalmiers dattiers des zones protég\nOffice National de Sécurité Sanitaire des produits\nAlimentaires\nService de la Protection des Végétaux de  […texte non modifié…] …\nLAISSEZ-PASSER\nValable pour le transport des vitro-plants, des\npalmiers dattiers ou des rejets issus de palmiers\n. , . o\ndatiicrs des zones protégées de la maladie de N …\nbayoud (article 4 de l'arrêté du ministre de\nl'agriculture et de la pêche maritime n°2027-15\ndu 3 ramadan 1436 (20 juin 2015))\nVitro-plants [1\nPalmier dattier [1\nRejets C1]\nLes vitro-plants, les palmier dattiers ou les rejets qui ils\nfont l'objet de l'expédition détaillée ci dessous en\nprovenance de (1)... ponnenrsenesnsrsseseensens\nSIUÉE À (2): eee cerner neurrerreupeure\ndéstinés à (3}:  […texte non modifié…] ,.., […texte non modifié…] , […texte non modifié…] ,.,.,,,,, ponrenesessenpores\nont été soumis au contrôle phytosanitaire et sont\naulorisés à circuler.\n, Ê\nSR en nn areas entre ms tt\ntone ere eme mnnsteeessssst\nNOMBRE DE VITRO\nPLANTS / PALMIER\nDATTIER/ REJET *\n*Barrer la mention inutile\nNom et signature du propriétaire ou gérant\nJanuall sf clilatf pli pruil\nDate él\n(1) nom ou raison sociale\n(2) emplacement exact du lieu de provencance\n(3) nom et adresse exacte du destinataire\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin o\n+\n[3\npalmiers dattier ou des rejets issus des\nées de la maladie de bayoud\nAl ia cslérrelt Lentille gli ai all\nJ ill Ajban Labs\nCLREIELELEEEE) CERRELEELL)\nJa Ji\ngai us 9! Rail ul Jill AS\nChatialls Sast salt hall jlantf cp Atial Jihilt\nsous 835 Dé ge 4 Bi) Le sul ui 3e ds Apan-all\nçsè ball 2027.15 88) 6.724 ul ÿ ADM\n((2015 su 20) 1436 db) 3\nAspuuil dt A\ndituuill\nall Jhu NT € ga ge lui sf peill dass sf tisauill COHEN CH\n: (1) os Léidll ; all aitu\nPRET PEER EE EEE EEE TEE EEE TETE TES ETES ETES IT ETES IT ETSEETE EEE EEEET\nAPPRENTI TETE ES ET EEE EEE ETEEEEEE IEEE ET ETES\n.\nmn nn nn pres ouest seras nues es ouse ' .) 41 2)\n4) anuill ML sie\n* Jill 9 paill Jui\npie gall old cle let *\nNom et signature de l'inspecteur\nCachet du service de la protection des végétaux\ncal all sl] 3 paul\nŒULUN Aban abus ail\nDate A)\nLuuspall au (1)\nbull aie Hill GISall ai ge (2)\nAÏ au pal Ggie 9 pal (3)\nfficiel » n° 6716 du 1° safar 1440 (11 octobre 2018).\n1742 BULLETIN OFFICIEL | N° 6718 — 8 safar 1440 (18-10-2018)",
+      "text": "Annexe 1\nzones protégées de la maladie du bayoud publiée sur le site web de\naational de sécurité sanitaire des produits alimentaires\nkkkkkkkkkk\nzées de la maladie du Bayoud (Fusarium oxysporium f. sp. albedinis)\nZone reconnue Coordonnées Lambert\nCommune indemne de la\nRurale maladie de\nbayoud\nN° POINT X\nx *% *%\nN° 6718 - 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL VAT\nModèle du laissez-passer des vitro-plants, des\npalmiers dattiers des zones protég\nOffice National de Sécurité Sanitaire des produits\nAlimentaires\nService de la Protection des Végétaux de  […texte non modifié…] …\nLAISSEZ-PASSER\nValable pour le transport des vitro-plants, des\npalmiers dattiers ou des rejets issus de palmiers\n. , . o\ndatiicrs des zones protégées de la maladie de N …\nbayoud (article 4 de l'arrêté du ministre de\nl'agriculture et de la pêche maritime n°2027-15\ndu 3 ramadan 1436 (20 juin 2015))\nVitro-plants [1\nPalmier dattier [1\nRejets C1]\nLes vitro-plants, les palmier dattiers ou les rejets qui ils\nfont l'objet de l'expédition détaillée ci dessous en\nprovenance de (1)... ponnenrsenesnsrsseseensens\nSIUÉE À (2): eee cerner neurrerreupeure\ndéstinés à (3}:  […texte non modifié…] ,.., […texte non modifié…] , […texte non modifié…] ,.,.,,,,, ponrenesessenpores\nont été soumis au contrôle phytosanitaire et sont\naulorisés à circuler.\n, Ê\nSR en nn areas entre ms tt\ntone ere eme mnnsteeessssst\nNOMBRE DE VITRO\nPLANTS / PALMIER\nDATTIER/ REJET *\n*Barrer la mention inutile\nNom et signature du propriétaire ou gérant\nJanuall sf clilatf pli pruil\nDate él\n(1) nom ou raison sociale\n(2) emplacement exact du lieu de provencance\n(3) nom et adresse exacte du destinataire\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin o\n+\n[3\npalmiers dattier ou des rejets issus des\nées de la maladie de bayoud\nAl ia cslérrelt Lentille gli ai all\nJ ill Ajban Labs\nCLREIELELEEEE) CERRELEELL)\nJa Ji\ngai us 9! Rail ul Jill AS\nChatialls Sast salt hall jlantf cp Atial Jihilt\nsous 835 Dé ge 4 Bi) Le sul ui 3e ds Apan-all\nçsè ball 2027.15 88) 6.724 ul ÿ ADM\n((2015 su 20) 1436 db) 3\nAspuuil dt A\ndituuill\nall Jhu NT € ga ge lui sf peill dass sf tisauill COHEN CH\n: (1) os Léidll ; all aitu\nPRET PEER EE EEE EEE TEE EEE TETE TES ETES ETES IT ETES IT ETSEETE EEE EEEET\nAPPRENTI TETE ES ET EEE EEE ETEEEEEE IEEE ET ETES\n.\nmn nn nn pres ouest seras nues es ouse ' .) 41 2)\n4) anuill ML sie\n* Jill 9 paill Jui\npie gall old cle let *\nNom et signature de l'inspecteur\nCachet du service de la protection des végétaux\ncal all sl] 3 paul\nŒULUN Aban abus ail\nDate A)\nLuuspall au (1)\nbull aie Hill GISall ai ge (2)\nAÏ au pal Ggie 9 pal (3)\nfficiel » n° 6716 du 1° safar 1440 (11 octobre 2018).\n1742 BULLETIN OFFICIEL | N° 6718 — 8 safar 1440 (18-10-2018)",
       "citations": [],
       "persons": [
         {
           "text": "Ja Ji",
-          "start": 1939,
-          "end": 1944,
+          "start": 1880,
+          "end": 1885,
           "label": "PERSON"
         },
         {
           "text": "anuill ML sie",
-          "start": 2415,
-          "end": 2428,
+          "start": 2356,
+          "end": 2369,
           "label": "PERSON"
         }
       ],
       "organizations": [
         {
           "text": "Office National de Sécurité Sanitaire",
-          "start": 511,
-          "end": 548,
+          "start": 452,
+          "end": 489,
           "label": "ORGANIZATION"
         },
         {
           "text": "Alimentaires\nService de la Protection des Végétaux",
-          "start": 562,
-          "end": 612,
+          "start": 503,
+          "end": 553,
           "label": "ORGANIZATION"
         }
       ],
@@ -4722,7 +4710,7 @@
       "date_gregorian": "2018-05-21",
       "decree_date_hijri": "5 ramadan 1439",
       "decree_date_gregorian": "2018-05-21",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": "Le ministre de l'industrie",
@@ -4763,7 +4751,7 @@
       "date_gregorian": "2015-06-20",
       "decree_date_hijri": "3 ramadan 1436",
       "decree_date_gregorian": "2015-06-20",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": null,
@@ -4772,7 +4760,7 @@
         }
       ],
       "signatory": "AZIZ AKHANNOUCH",
-      "content": "Arrêté du ministre de l'agriculture, de la pêche maritime, du « La liste des zones protégées de la maladie du bayoud est\ndéveloppement rural et des eaux et forêts n° 1812-18 du « fixée par le directeur général de PONSSA et publiée sur le site\n27 ramadan 1439 (12 juin 2018) modifiant et complétant « web de cet Office selon le modèle fixé à l'annexe 1 du présent\nl'arrêté du ministre de l'agriculture et de la pêche maritime «arrêté.\nn° 2027-15 du 3 ramadan 1436 (20 juin 2015) fixant les\nconditions de production, de circulation, de cession et « Article 3. — Toute pépinière n° 1129-13.\nde plantation du palmier dattier dans certaines zones « Les personnes visées au VIII du règlement technique\nLA D] AL CL L] . k\nL t copine rare 84 du “ mg l a « relatif à la production, au contrôle, au conditionnement et à\nANS OIUe PSTAUS FU | du 5 jouma 2 I «la certification des plants de palmier dattier, tel qu'homologué\n(19 mars 1984) relatif aux contrôles phytosanitaires des , nue = > + a …:\n«par l'arrêté du ministre de l'agriculture et de la pêche maritime\nlant ties de plant tibles d'être infesté\nplantes où parties 6e p'antes SUBepER Es Here HERTEES «n° 3229-15 du 18 hija 1436 (2 octobre 2015) doivent porter sur le\npar certains ravageurs et maladies nuisibles. | , x\n« registre qu'elles tiennent, conformément audit règlement\n« technique, les références des laissez-passer prévus à l'article 4\nLE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE «ci-dessous, notamment leur numéro et leur origine.\nMARITIME, DU DÉVELOPPEMENT RURAL ET DES ,\nEAUX ET FORÊTS, « Les producteurs de dattes de la zone protégée de la\n> nue . , . « maladie du bayoud doivent tenir un \"registre d'entretien et\n. vu arrêté du ministre de 1 agriculture et de la pêche « de gestion des produits primaires du palmier dattier des zones\nmaritime n° 2027-15 du 3 ramadan 1436 (20 juin 2015) fixant « protégées de la maladie du bayoud\" établi conformément au\nles conditions de production, de circulation, de cession et\nde plantation du palmier dattier dans certaines zones et\ncomplétant l'arrêté du ministre de l'agriculture et de la réforme\nagraire n° 468-84 du 15 joumada II 1404 (19 mars 1984) relatif\naux contrôles phytosanitaires des plantes ou parties de plantes\n«modèle fixé à l'annexe 2 au présent arrêté. Pour ces producteurs,\n«ce registre remplace le rgistre prévu à l'arrêté du ministre de\n«l'agriculture et de la pêche maritime n° 1129-13 du 2] joumada I\n« 1434 (2 avril 2013) relatif au registre d'entretien et de gesion\nsusceptibles d'être infestées par certains ravageurs et maladies « des produits primaires d'origine végétale. »\nnuisibles, « Article 4. — Dans les zones protégées de la maladie du\n\nLes dispositions de l'arrêté n° 2027-15 précité\nsont complétées par un article 2 bis comme suit :\n« Article 2 bis. — Les prospections phytosanitaires visées\n«à l'article 2 ci-dessus consistent dans :\n«- l'observation visuelle sur le plamier dattier des\n«symptômes, de la maladi du bayoud ;\n«- le prélèvement d'échantillons du matériel végétal du\n«palmier dattier, du sol et de l'eau d'irrigation et leur\n«analyse en laboratoire.\n«Les analyses des échantillons doivent être réalisées dans\n«un laboratoire de 'ONSSA ou dans un laboratoire autorisé à\n« cet effet par le directeur général de lONSSA.\n«L'autorisation visée ci-dessus est délivrée aux laboratoires\n«répondant à la norme NM ISO/CEI 17025 “Exigences générales\n« concernant la compétence des laboratoires d'étalonnages\n«et d'essais” telle qu'homologuée par l'arrêté du ministre de\n« l'industrie, du commerce et de la mise à niveau de l'économie\n«n° 406-06 du 28 moharrem 1427 (27 février 2006) ou toute norme\n«équivalente la remplaçant et/ou aux spécifications particulières\n« édictées par le directeur général de l'ONSSA compte tenu des\n«analyses exigées.\n« Le demande d'autorisation est déposée auprès du\n«service local de PONSSA chargé de la protection des végétaux,\n« accompagnée d'un dossier constitué des pièces et documents\n« permettant d'identifier le demandeur et de s'assurer des\n«moyens humains et techniques du laboratoire nécessaires pour\n« la réalisation des analyses susmentionnées.\n«Cette autorisation est retirée si, suite à une visite effectuée\n« sur place par ledit service, il est constaté que le laboratoire\n« bénéficiaire ne répond plus aux spécifications précitées. »\n\nLes annexes à l'arrêté n° 2027-15 précité sont\nabrogées et remplacées par les annexes au présent arrêté.\n\nLe présent arrêté sera publié au Bulletin officiel\nRabat, le 27 ramadan 1439 (12 juin 2018).\nAZIZ AKHANNOUCH.\nN° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1739\nGo É\nGA\nà l'arrêté du ministre de\nforêts n°1812-18 du 27 ra\nPagriculture et de la\nconditions de production,\nzones et complétant l'a\njoumada I 1404 (19 mars\n| susceptibles\nModèle de la liste des\nl'Office :\nListe des zones proté:\nCercle Caïdat\nAnnexes\nl'agriculture, de la pêche maritime, du développement rural et des eaux et\nmadan 1439 (12 juin 2018) modifiant et complétant l'arrêté du ministre de\npêche maritime n°2027-15 du 3 ramadan 1436 (20 juin 2015) fixant les\nde circulation, de cession et de plantation du palmier dattier dans certaines\nrêté du ministre de l'agriculture et de la réforme agraire n°468-84 du 15\n1984) relatif aux contrôles phytosanitaires des plantes ou parties de plantes\nd'être infestées par certains ravageurs et maladies nuisibles\n\nAnnexe 1\nzones protégées de la maladie du bayoud publiée sur le site web de\naational de sécurité sanitaire des produits alimentaires\nkkkkkkkkkk\nzées de la maladie du Bayoud (Fusarium oxysporium f. sp. albedinis)\nZone reconnue Coordonnées Lambert\nCommune indemne de la\nRurale maladie de\nbayoud\nN° POINT X\n1740 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)\nN° 6718 - 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL VAT\nModèle du laissez-passer des vitro-plants, des\npalmiers dattiers des zones protég\nOffice National de Sécurité Sanitaire des produits\nAlimentaires\nService de la Protection des Végétaux de  […texte non modifié…] …\nLAISSEZ-PASSER\nValable pour le transport des vitro-plants, des\npalmiers dattiers ou des rejets issus de palmiers\ndatiicrs des zones protégées de la maladie de N …\nbayoud (article 4 de l'arrêté du ministre de\nl'agriculture et de la pêche maritime n°2027-15\ndu 3 ramadan 1436 (20 juin 2015))\nVitro-plants [1\nPalmier dattier [1\nRejets C1]\nLes vitro-plants, les palmier dattiers ou les rejets qui ils\nfont l'objet de l'expédition détaillée ci dessous en\nprovenance de (1)... ponnenrsenesnsrsseseensens\nSIUÉE À (2): eee cerner neurrerreupeure\ndéstinés à (3}:  […texte non modifié…] ,.., […texte non modifié…] , […texte non modifié…] ,.,.,,,,, ponrenesessenpores\nont été soumis au contrôle phytosanitaire et sont\naulorisés à circuler.\n, Ê\nSR en nn areas entre ms tt\ntone ere eme mnnsteeessssst\nNOMBRE DE VITRO\nPLANTS / PALMIER\nDATTIER/ REJET *\n*Barrer la mention inutile\nNom et signature du propriétaire ou gérant\nJanuall sf clilatf pli pruil\nDate él\n(1) nom ou raison sociale\n(2) emplacement exact du lieu de provencance\n(3) nom et adresse exacte du destinataire\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin o\npalmiers dattier ou des rejets issus des\nées de la maladie de bayoud\nAl ia cslérrelt Lentille gli ai all\nJ ill Ajban Labs\nCLREIELELEEEE) CERRELEELL)\nJa Ji\ngai us 9! Rail ul Jill AS\nChatialls Sast salt hall jlantf cp Atial Jihilt\nsous 835 Dé ge 4 Bi) Le sul ui 3e ds Apan-all\nçsè ball 2027.15 88) 6.724 ul ÿ ADM\nAspuuil dt A\ndituuill\nall Jhu NT € ga ge lui sf peill dass sf tisauill COHEN CH\n: (1) os Léidll ; all aitu\nPRET PEER EE EEE EEE TEE EEE TETE TES ETES ETES IT ETES IT ETSEETE EEE EEEET\nAPPRENTI TETE ES ET EEE EEE ETEEEEEE IEEE ET ETES\nmn nn nn pres ouest seras nues es ouse ' .) 41 2)\n4) anuill ML sie\n* Jill 9 paill Jui\npie gall old cle let *\nNom et signature de l'inspecteur\nCachet du service de la protection des végétaux\ncal all sl] 3 paul\nŒULUN Aban abus ail\nDate A)\nLuuspall au (1)\nbull aie Hill GISall ai ge (2)\nAÏ au pal Ggie 9 pal (3)\nfficiel » n° 6716 du 1° safar 1440 (11 octobre 2018).\n1742 BULLETIN OFFICIEL | N° 6718 — 8 safar 1440 (18-10-2018)",
+      "content": "Arrêté du ministre de l'agriculture, de la pêche maritime, du « La liste des zones protégées de la maladie du bayoud est\ndéveloppement rural et des eaux et forêts n° 1812-18 du « fixée par le directeur général de PONSSA et publiée sur le site\n27 ramadan 1439 (12 juin 2018) modifiant et complétant « web de cet Office selon le modèle fixé à l'annexe 1 du présent\nl'arrêté du ministre de l'agriculture et de la pêche maritime «arrêté.\nn° 2027-15 du 3 ramadan 1436 (20 juin 2015) fixant les\nconditions de production, de circulation, de cession et « Article 3. — Toute pépinière n° 1129-13.\nde plantation du palmier dattier dans certaines zones « Les personnes visées au VIII du règlement technique\nLA D] AL CL L] . k\nL t copine rare 84 du “ mg l a « relatif à la production, au contrôle, au conditionnement et à\nANS OIUe PSTAUS FU | du 5 jouma 2 I «la certification des plants de palmier dattier, tel qu'homologué\n(19 mars 1984) relatif aux contrôles phytosanitaires des , nue = > + a …:\n«par l'arrêté du ministre de l'agriculture et de la pêche maritime\nlant ties de plant tibles d'être infesté\nplantes où parties 6e p'antes SUBepER Es Here HERTEES «n° 3229-15 du 18 hija 1436 (2 octobre 2015) doivent porter sur le\npar certains ravageurs et maladies nuisibles. | , x\n« registre qu'elles tiennent, conformément audit règlement\n« technique, les références des laissez-passer prévus à l'article 4\nLE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE «ci-dessous, notamment leur numéro et leur origine.\nMARITIME, DU DÉVELOPPEMENT RURAL ET DES ,\nEAUX ET FORÊTS, « Les producteurs de dattes de la zone protégée de la\n> nue . , . « maladie du bayoud doivent tenir un \"registre d'entretien et\n. vu arrêté du ministre de 1 agriculture et de la pêche « de gestion des produits primaires du palmier dattier des zones\nmaritime n° 2027-15 du 3 ramadan 1436 (20 juin 2015) fixant « protégées de la maladie du bayoud\" établi conformément au\nles conditions de production, de circulation, de cession et\nde plantation du palmier dattier dans certaines zones et\ncomplétant l'arrêté du ministre de l'agriculture et de la réforme\nagraire n° 468-84 du 15 joumada II 1404 (19 mars 1984) relatif\naux contrôles phytosanitaires des plantes ou parties de plantes\n«modèle fixé à l'annexe 2 au présent arrêté. Pour ces producteurs,\n«ce registre remplace le rgistre prévu à l'arrêté du ministre de\n«l'agriculture et de la pêche maritime n° 1129-13 du 2] joumada I\n« 1434 (2 avril 2013) relatif au registre d'entretien et de gesion\nsusceptibles d'être infestées par certains ravageurs et maladies « des produits primaires d'origine végétale. »\nnuisibles, « Article 4. — Dans les zones protégées de la maladie du\n\nLes dispositions de l'arrêté n° 2027-15 précité\nsont complétées par un article 2 bis comme suit :\n« Article 2 bis. — Les prospections phytosanitaires visées\n«à l'article 2 ci-dessus consistent dans :\n«- l'observation visuelle sur le plamier dattier des\n«symptômes, de la maladi du bayoud ;\n«- le prélèvement d'échantillons du matériel végétal du\n«palmier dattier, du sol et de l'eau d'irrigation et leur\n«analyse en laboratoire.\n«Les analyses des échantillons doivent être réalisées dans\n«un laboratoire de 'ONSSA ou dans un laboratoire autorisé à\n« cet effet par le directeur général de lONSSA.\n«L'autorisation visée ci-dessus est délivrée aux laboratoires\n«répondant à la norme NM ISO/CEI 17025 “Exigences générales\n« concernant la compétence des laboratoires d'étalonnages\n«et d'essais” telle qu'homologuée par l'arrêté du ministre de\n« l'industrie, du commerce et de la mise à niveau de l'économie\n«n° 406-06 du 28 moharrem 1427 (27 février 2006) ou toute norme\n«équivalente la remplaçant et/ou aux spécifications particulières\n« édictées par le directeur général de l'ONSSA compte tenu des\n«analyses exigées.\n« Le demande d'autorisation est déposée auprès du\n«service local de PONSSA chargé de la protection des végétaux,\n« accompagnée d'un dossier constitué des pièces et documents\n« permettant d'identifier le demandeur et de s'assurer des\n«moyens humains et techniques du laboratoire nécessaires pour\n« la réalisation des analyses susmentionnées.\n«Cette autorisation est retirée si, suite à une visite effectuée\n« sur place par ledit service, il est constaté que le laboratoire\n« bénéficiaire ne répond plus aux spécifications précitées. »\n\nLes annexes à l'arrêté n° 2027-15 précité sont\nabrogées et remplacées par les annexes au présent arrêté.\n\nLe présent arrêté sera publié au Bulletin officiel\nRabat, le 27 ramadan 1439 (12 juin 2018).\nAZIZ AKHANNOUCH.\nN° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1739\nGo É\nGA\nà l'arrêté du ministre de\nforêts n°1812-18 du 27 ra\nPagriculture et de la\nconditions de production,\nzones et complétant l'a\njoumada I 1404 (19 mars\n| susceptibles\nModèle de la liste des\nl'Office :\nListe des zones proté:\nCercle Caïdat\nAnnexes\nl'agriculture, de la pêche maritime, du développement rural et des eaux et\nmadan 1439 (12 juin 2018) modifiant et complétant l'arrêté du ministre de\npêche maritime n°2027-15 du 3 ramadan 1436 (20 juin 2015) fixant les\nde circulation, de cession et de plantation du palmier dattier dans certaines\nrêté du ministre de l'agriculture et de la réforme agraire n°468-84 du 15\n1984) relatif aux contrôles phytosanitaires des plantes ou parties de plantes\nd'être infestées par certains ravageurs et maladies nuisibles\n\nAnnexe 1\nzones protégées de la maladie du bayoud publiée sur le site web de\naational de sécurité sanitaire des produits alimentaires\nkkkkkkkkkk\nzées de la maladie du Bayoud (Fusarium oxysporium f. sp. albedinis)\nZone reconnue Coordonnées Lambert\nCommune indemne de la\nRurale maladie de\nbayoud\nN° POINT X\nN° 6718 - 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL VAT\nModèle du laissez-passer des vitro-plants, des\npalmiers dattiers des zones protég\nOffice National de Sécurité Sanitaire des produits\nAlimentaires\nService de la Protection des Végétaux de  […texte non modifié…] …\nLAISSEZ-PASSER\nValable pour le transport des vitro-plants, des\npalmiers dattiers ou des rejets issus de palmiers\ndatiicrs des zones protégées de la maladie de N …\nbayoud (article 4 de l'arrêté du ministre de\nl'agriculture et de la pêche maritime n°2027-15\ndu 3 ramadan 1436 (20 juin 2015))\nVitro-plants [1\nPalmier dattier [1\nRejets C1]\nLes vitro-plants, les palmier dattiers ou les rejets qui ils\nfont l'objet de l'expédition détaillée ci dessous en\nprovenance de (1)... ponnenrsenesnsrsseseensens\nSIUÉE À (2): eee cerner neurrerreupeure\ndéstinés à (3}:  […texte non modifié…] ,.., […texte non modifié…] , […texte non modifié…] ,.,.,,,,, ponrenesessenpores\nont été soumis au contrôle phytosanitaire et sont\naulorisés à circuler.\n, Ê\nSR en nn areas entre ms tt\ntone ere eme mnnsteeessssst\nNOMBRE DE VITRO\nPLANTS / PALMIER\nDATTIER/ REJET *\n*Barrer la mention inutile\nNom et signature du propriétaire ou gérant\nJanuall sf clilatf pli pruil\nDate él\n(1) nom ou raison sociale\n(2) emplacement exact du lieu de provencance\n(3) nom et adresse exacte du destinataire\nLe texte en langue arabe a été publié dans l'édition générale du « Bulletin o\npalmiers dattier ou des rejets issus des\nées de la maladie de bayoud\nAl ia cslérrelt Lentille gli ai all\nJ ill Ajban Labs\nCLREIELELEEEE) CERRELEELL)\nJa Ji\ngai us 9! Rail ul Jill AS\nChatialls Sast salt hall jlantf cp Atial Jihilt\nsous 835 Dé ge 4 Bi) Le sul ui 3e ds Apan-all\nçsè ball 2027.15 88) 6.724 ul ÿ ADM\nAspuuil dt A\ndituuill\nall Jhu NT € ga ge lui sf peill dass sf tisauill COHEN CH\n: (1) os Léidll ; all aitu\nPRET PEER EE EEE EEE TEE EEE TETE TES ETES ETES IT ETES IT ETSEETE EEE EEEET\nAPPRENTI TETE ES ET EEE EEE ETEEEEEE IEEE ET ETES\nmn nn nn pres ouest seras nues es ouse ' .) 41 2)\n4) anuill ML sie\n* Jill 9 paill Jui\npie gall old cle let *\nNom et signature de l'inspecteur\nCachet du service de la protection des végétaux\ncal all sl] 3 paul\nŒULUN Aban abus ail\nDate A)\nLuuspall au (1)\nbull aie Hill GISall ai ge (2)\nAÏ au pal Ggie 9 pal (3)\nfficiel » n° 6716 du 1° safar 1440 (11 octobre 2018).\n1742 BULLETIN OFFICIEL | N° 6718 — 8 safar 1440 (18-10-2018)",
       "domain": {
         "label": "Urbain",
         "confidence": 0.528,
@@ -4807,7 +4795,7 @@
       "date_gregorian": "2018-07-26",
       "decree_date_hijri": "12 kaada 1439",
       "decree_date_gregorian": "2018-07-26",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": null,
@@ -4843,7 +4831,7 @@
       "date_gregorian": "2018-08-03",
       "decree_date_hijri": "20 kaada 1439",
       "decree_date_gregorian": "2018-08-03",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": null,
@@ -4885,7 +4873,7 @@
       "date_gregorian": "2018-08-29",
       "decree_date_hijri": "17 hija 1439",
       "decree_date_gregorian": "2018-08-29",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": null,
@@ -4923,9 +4911,11 @@
       "type": "ARRETE",
       "reference_label": "arrêté n° 2935-18",
       "title": "Arrêté du ministre de la santé n° 2935-18 du 24 hija 1439 (S septembre 2018) modifiant et complétant l'arrêté n° 787-14 du 7 joumada IT 1435 (7 avril 2014) portant révision des prix publics de vente des médicaments princeps, génériques et bio- similaires commercialisés au Maroc.",
-      "decree_date_hijri": null,
-      "decree_date_gregorian": null,
-      "bo_date_publication": null,
+      "date_hijri": "7 joumada IT 1435",
+      "date_gregorian": "2014-04-07",
+      "decree_date_hijri": "7 joumada IT 1435",
+      "decree_date_gregorian": "2014-04-07",
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": null,
@@ -4958,7 +4948,7 @@
       "title": "Annexe 1 Nom du Médicament EN) pos) COSYREL 10mg/10mg comprimés pelliculés sécables Boite de 30 COSYREL 10mg/5mg comprimés pelliculés sécables Boite de 30 COSYREL 5mg/10mg comprimés pelliculés sécables Boite de 30 COSYREL 5mg/Smg comprimés pelliculés sécables Boite de 30 ELAPRASE 2mg/mi, solution à diluer pour perfusion de 3mi dans 1 flacon de Sml, Boîte de 1 KYPROLIS 60mg Poudre pour solution injectable Boite d'un flacon LUMIGAN 0,1mg/ml Collyre en solution Boite d'un flacon de 3 mi MABTHERA 1400mg/11,7ml Solution pour injection SC Boite d'un flacon de 15 mi OCTAGAM 50 mg/ml, Solution pour perfusion , Boite d'un flacon 50ml PERGOVERIS 150UL/75 UI Poudre et solvant pour solution injectable Boite d'un flacon de poudre de 3ml et un flacon de solvant de 3ml RIBOMUSTIN 100mg Poudre pour solution à diluer pour perfusion Boite de 5 flacons de poudre RIBOMUSTIN 100mg Poudre pour solution à diluer pour perfusion Boite d'un flacon de poudre RIBOMUSTIN 25mg Poudre pour solution à diluer pour perfusion Boîte de 5 flacons de poudre TECENTRIQ 1200mg/20m! Solution à diluer pour perfusion Boite d'un flacon de 20 mi me TRULICITY 0,75 mg Solution injectable (S.C) en stylo pré-rempli Boite de 4 TRULICITY 1,5 mg Solution injectable (S.C) en stylo pré-rempli Boite de 4 XARELTO 2,5 mg Comprimés pelliculés Boite de 14 ZOMET A 4 mg/100 mi Solution pour perfusion Boîte d'un flacon de 100 ml + + * Prix Public de Vente en Dirham Prix Hôpital en Dirham 98,10 61,30 98,10 34817,00 34115,00 12592,00 12836,00 127,10 16778,00 16457,00 1662,00 1376,00 1099,00 798,00 6897,00 6688,00 1859,00 1605,00 1924,00 1672,00 46600,00 47524,00 1171,00 897,00 897,00 1174,00 339,00 225,00 1428,00 1136,00 1746 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)",
       "decree_date_hijri": null,
       "decree_date_gregorian": null,
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [],
       "content": "Annexe 1\nNom du Médicament\nEN) pos)\nCOSYREL 10mg/10mg comprimés pelliculés sécables Boite de 30\nCOSYREL 10mg/5mg comprimés pelliculés sécables Boite de 30\nCOSYREL 5mg/10mg comprimés pelliculés sécables Boite de 30\nCOSYREL 5mg/Smg comprimés pelliculés sécables Boite de 30\nELAPRASE 2mg/mi, solution à diluer pour perfusion de 3mi dans 1 flacon de Sml, Boîte de 1\nKYPROLIS 60mg Poudre pour solution injectable Boite d'un flacon\nLUMIGAN 0,1mg/ml Collyre en solution Boite d'un flacon de 3 mi\nMABTHERA 1400mg/11,7ml Solution pour injection SC Boite d'un flacon de 15 mi\nOCTAGAM 50 mg/ml, Solution pour perfusion , Boite d'un flacon 50ml\nPERGOVERIS 150UL/75 UI Poudre et solvant pour solution injectable Boite d'un flacon de poudre de 3ml et un\nflacon de solvant de 3ml\nRIBOMUSTIN 100mg Poudre pour solution à diluer pour perfusion Boite de 5 flacons de poudre\nRIBOMUSTIN 100mg Poudre pour solution à diluer pour perfusion Boite d'un flacon de poudre\nRIBOMUSTIN 25mg Poudre pour solution à diluer pour perfusion Boîte de 5 flacons de poudre\nTECENTRIQ 1200mg/20m! Solution à diluer pour perfusion Boite d'un flacon de 20 mi\nme\nTRULICITY 0,75 mg Solution injectable (S.C) en stylo pré-rempli Boite de 4\nTRULICITY 1,5 mg Solution injectable (S.C) en stylo pré-rempli Boite de 4\nXARELTO 2,5 mg Comprimés pelliculés Boite de 14\nZOMET A 4 mg/100 mi Solution pour perfusion Boîte d'un flacon de 100 ml\nPrix Public de Vente en\nDirham\nPrix Hôpital en Dirham\n1746 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)\n\nmg Géluie Boîte de 30\nAUGMENTIN NOURRISSON 100 mg/12,5 mg/ml Poudre pour suspension orale\nFlacon 30 mi\nBAXMUNE 500mg Comprimé pelliculé Boite de 30 cps\nBIOTIC PLUS 100 mg/12,5 mg/2mt Poudre pour Solution buvable Flacon de 60 ml\nBIPROL POLYMEDIC 10 mg Comprimé pelliculé sécable Boîte de 30\nCELLCEPT 500 mg Comprimé Boîte de 50\nCLAVULIN 100 mg/12,5 mg/mi Poudre pour suspension buvable NOURRISSON\nFlacon de 30 ml\nCO MEDZAR 100/25 mg Comprimés pelliculés Boite de 30\nCORALAN 5 mg Comprimé pelliculé Boîte de 28\nCORALAN 5 mg Comprimé peïiculé Hoîte de 56\nCORALAN 7,5 mg Comprimé pelliculé Boîte de 28\nCORALAN 7,5 mg Comprimé pelliculé Boîte de 56\nCO-TANZAAR 100mg/25mg Comprimé pelliculé L4cpp\nCO-TANZAAR 100mg/25mg Comprimé peiliculé 28cpp\nCURACNE 10 mg Capsule molle Boîte de 30\nCURACNE 20 mg Capsule molle Boîte de 30\nDIPREZAR FORT 100 mg / 25 mg Comprimé pelliculé Boîte de 28\nDIPREZAR FORT 100mg/25mg Comprimés pelliculés Boite de 30\ne 3\nPrix Hôpital en\ndirham après\nrévision\nPrix Hôpital en\nDirham avant\nPrix Public de Vente | Prix Public de Vente\nen Dirham avant en Dirham après\nrévision révision révision\npd nl au ualäll œil\ndé pa ait vi all, pa Ji ciel,\nAsa sell At all JS\n1750 BULLETIN OFFICIEL N° 6718 — 8 safar 1440 (18-10-2018)\nro\nPrix F\nen\nPrix Public de Vente\nen Dirham avant\nrévision\nNom du Médicament\npas\nDIPREZAR FORT 100mpg/25mg Comprimés pelliculés Boite de 90\nFERMED 100mg/Smi Solution injectable Boite de 5 ampoules de Sml\nFORTZAAR 100 mg/12.5 mg Comprimé pelliculé Boîte de 28\nFORTZAAR 100 mg/25 mg Comprimé pelliculé Boîte de 28\nFOSAMAX 70 mg Comprimé pelliculé Boîte de 4 264,00\nFOSAVANCE 70 mg/5600 UI Comprimé Boîte de 4 294,00\nFUCIDINE 250 mg Comprimé pelliculé Boîte de 10\nGRISEO 125 mg Comprimé Boîte de 30\nHERCEPTIN 600mg/Sml Solution injectable Boite d'un flacon\nHYTACAND 16 mg/12,5 mg Comprimé Boîte de 30 241,00\nHYTACAND 8 mg/12,5 mg Comprimé Boîte de 30 223,00\nINROS 70 mg Comprimé Boîte de 12 445,00\nKIDROLASE 10 000 UI Poudre lyophilisée pour Solution injectable Boîte de 10 4428,00\nFlacons\nLEVAMOX 100 mg/12,5 mg/m!I Poudre pour Suspension buvable en flacon Flacon\nde 30 ml\nLOSACAR 100/25 mg Comprimé enrobé Boîte de 14\nLOSACAR 100/25 mg Comprimé enrobé Boîte de 28\nMOFILET 500 mg Comprimé pelliculé Boite 10\nNEOCLAV NOURRISSON 100 mg/12,5 mg/mi Poudre pour suspension buvable 2\nFlacons de 30ml\nOROTREX 10 mg Capsule molle Boîte de 30\nOROTREX 20 mg Capsule molle Boîte de 30\nREGAXIDIL 5% Solution pour application cutanée boite d'un flacon de 60 ml\nTAMIFLU 75 mg Gélule Boîte de 10\nVENULA 200 mg Gélule Boîte de 60\nVICTOZA 6mg/ml Sol inj B/2stylo pré-remplis de 3ml\nVIRECTIL 100 mg Comprimé pelliculé Boîte de 1\nPrix Hôpital en\ndirham après\nrévision\nPrix Hôpital en\nDirham avant\nrévision\nublic de Vente\nDirham après\nrévision\nN° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL | 1751\nNom du Médicament\nBi gai auul\nVIRECTIL 100 mg Comprimé pelliculé Boîte de 4\nVIRECTIL 50 mg Comprimé pelliculé Boîte de 1 |\nVIRECTIL 50 mg Comprimé pelliculé Boîte de 4\nXARELTO 10mg Comprimé pelliculé Boîte de 10\nXARELTO 10mg Comprimé pelliculé Boîte de 5\nXERACTAN 10 me capsules molles Boite de 30\nZAMOX 100 mg/12,5 mg/ml Nourrisson Poudre pour Solution orale Flaccon de 30\nml\nZAMOX 100 mg/12,5 mg/m! Poudre pour Solution orale Flaccon de 60 ml\nLe texte en langue arabe a été publié dans l'édition générale du « Bullet",
       "domain": {
@@ -4995,7 +4985,7 @@
       "date_gregorian": "2018-09-14",
       "decree_date_hijri": "4 moharrem 1440",
       "decree_date_gregorian": "2018-09-14",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": null,
@@ -5037,7 +5027,7 @@
       "date_gregorian": "2018-10-02",
       "decree_date_hijri": "22 moharrem 1440",
       "decree_date_gregorian": "2018-10-02",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": "Chef du Gouvernement",
@@ -5095,7 +5085,7 @@
       "date_gregorian": "2018-06-11",
       "decree_date_hijri": "26 ramadan 1439",
       "decree_date_gregorian": "2018-06-11",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [],
       "content": "Arrêté du ministre de l'agriculture, de la pêche maritime, du\ndéveloppement rural et des eaux et forêts n°1801-18 du\n26 ramadan 1439 (11 juin 2018) portant reconnaissance\nde Pindication géographique « Huile d'olive d''Amizmiz »\net homologation du cahier des charges y afférent.\nLE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE\nMARITIME, DU DÉVELOPPEMENT RURAL ET DES\nEAUX ET FORÊTS,\nVu la loi n°25-06 relative aux signes distinctifs d'origine\net de qualité des denrées alimentaires et des produits agricoles\net halieutiques, promulguée par le dahir n°1-08-56 du\n17 joumada I 1429 (23 mai 2008), notamment son article 14 ;\nVu le décret n°2-08-403 du 6 hija 1429 (5 décembre 2008)\npris en application de la loi n°25-06 relative aux signes\ndistinctifs d'origine et de qualité des denrées alimentaires et\ndes produits agricoles et halieutiques ;\nVu le décret n°2-14-268 du 8 rabii IL 1436 (29 janvier 2015)\nrelatif à la qualité et la sécurité sanitaire des huiles d'olive et\ndes huiles de grignons d'olive commercialisées ;\nVu le décret n°2-08-404 du 6 hija 1429 (5 décembre 2008)\nrelatif à la composition et au mode de fonctionnement de la\nCommission nationale des signes distinctifs d'origine et de\nqualité ;\nAprès avis de la Commission nationale des signes\ndistinctifs d'origine et de qualité, réunie le 5 joumada II 1439\n(22 février 2018),\n\nEst reconnue l'indication\ngéographique « Huile d'Olive d'Amizmiz » demandée par\n«l'Union des Coopératives Agricoles Zouyout Amizmiz » pour\nl'huile d'olive obtenue dans les conditions fixées par le cahier\ndes charges homologué et annexé à l'original du présent arrêté.\n\nSeule peut bénéficier de l'indication\ngéographique « Huile d'Olive d'Amizmiz », l'huile d'olive\nproduite exclusivement dans les conditions fixées par le\ncahier des charges homologué et mentionné à l'article premier\nci-dessus.\n\nL'aire géographique couverte par l'indication\ngéographique « Huile d'Olive d'Amizmiz » comprend huit\n(8) communes appartenant à la province d'AI Haouz et sont\ncomme suit : Ouzguita, Lalla Takrkoust, Sidi Badhaj, Ouled\nMtaa, Tizguine, Dar Jamaa, Amizmiz et Amghrasse.\n\n, — L'huile d'olive bénéficiant de l'indication\ngéographique « Huile d'Olive d'Amizmiz » est une huile vierge\nextra, telle que définie à l'article 3 du décret n°2-14-268 susvisé\net dont les principales caractéristiques sont les suivantes :\n1. Caractéristiques physico-chimiques :\n_ taux d'acidité libre (exprimée en acide oléique) : <0,4% ;\n_ indice de peroxyde : < 15méq d'O, /Kg ;\n— teneur en polyphénols totaux : 2 200 mg/kg (ppm).\n2. Caractéristiques organoleptiques :\n_ intensité du fruité : moyen à intense, variant de 4 à\n6 sur l'échelle organoleptique du Conseil Oléicole\nInternational (COD) ;\n_ intensité du piquant et de l'amer : équilibrée, variant de\n3,5 à 4,5 sur l'échelle organoleptique du COT ;\n_ arômes spécifiques : essentiellement tomate, artichaut,\namande verte, herbe et feuille d'arbres.\n_ absence de défauts.\n\nLes principales conditions de production, de\nstockage et de conditionnement de l'huile d'olive d'indication\ngéographique « Huile d'Olive d'Amizmiz » sont les suivantes :\n1. les opérations de production, de stockage et de\nconditionnement de l'huile d'olive doivent être réalisées à\nl'intérieur de l'aire géographique mentionnée à l'article 3\nci-dessus ;\n2. l'huile d'olive doit provenir exclusivement des olives\nde variétés « Picholine marocaine », Menara et Haouzia ;\n3. la fertilisation consiste en un apport d'engrais\norganiques pendant le travail du sol selon les besoins et l'âge\nde l'arbre ;\n4, les plantations peuvent être conduites en bour ou en\nirrigué ;\n5, les traitements phytosanitaires peuvent être appliqués,\nsi nécessaire, conformément à la réglementation en vigueur ;\n6. la taille d'entretien doit être pratiquée une fois tous\nles deux ans après la récolte des olives ;\n7. la récolte des olives doit être basée sur l'indice de\nmaturité qui doit être compris entre 1,5 et 3,5 sur l'échelle\nde maturité du COI. Elle débute fin octobre et s'achève fin\nnovembre ;\n8. les olives doivent être cueillies, de façon à conserver leur\nqualité, manuellement ou en utilisant des vibreurs électriques\nmanuels. L'utilisation du gaulage flexible est permise pour les\noliviers âgés. Les olives doivent être réceptionnées sur des filets\nou autres réceptacles ;\n9, le transport vers l'unité de trituration, des olives doit\nse faire dans des contenants appropriés. La durée entre la\nrécolte et la trituration ne doit pas excéder 48 heures ;\n10. la trituration des olives doit être réalisée en système\ncontinu à deux phases ;\n11. le stockage des huiles doit être réalisé dans des\ncontenants propres permettant de préserver sa qualité ;\n12, le conditionnement de l'huile d'olive doit se faire dans\ndes bouteilles en verre ou d'autres contenants alimentaires\nconformes à la réglementation en vigueur d'une contenance de\n250 ml à 10 litres. La date limite d'utilisation optimale (DLUO)\nne doit pas dépasser 24 mois à partir de la date de trituration.\n\nLe contrôle du respect des clauses du cahier\ndes charges est assuré, selon le plan de contrôle prévu par le\ncahier des charges précité, par la société « Normacert, Sarl. »\nou par tout autre organisme de certification et de contrôle\nagréé conformément à la réglementation en vigueur.\nN° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1755\n| oo\nL'organisme de certification et de contrôle concerné\ndélivre aux producteurs, transformateurs et conditionneurs,\ninscrits auprès dudit organisme l'attestation de certification\nde l'huile d'olive bénéficiant de l'indication géographique\n« Huile d'Olive d'Amizmiz ».\n\nOutre les mentions et les conditions fixées à\nl'article 10 du décret n°2-14-268 précité, l'étiquetage de l'huile\nd'olive bénéficiant de l'Indication Géographique Protégée\n« Huile d'Olive d''Amizmiz », doit comporter les indications\nsuivantes :\n_ la mention « Indication Géographique Protégée Huile\nd'Olive d'Amizmiz » ou «1GP Huile d'Olive d'Amizmiz» ;\n_ Je logo officiel de l'indication géographique protégée\ntel que publié en annexe au décret susvisé n° 2-08-403 ;\n_ Ja référence de l'organisme de certification et de contrôle.\nCes mentions doivent être regroupées dans le même\nchamp visuel sur la même étiquette.\nElles sont présentées dans des caractères apparents,\nlisibles, indélébiles et suffisamment grands pour qu'ils\nressortent bien du cadre sur lequel ils sont imprimés et pour\nqu'on puisse les distinguer nettement de lPensemble des autres\nindications et dessins.\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 26 ramadan 1439 (11 juin 2016).\nAZ1Z AKHANNOUCH.",
       "domain": {
@@ -5138,7 +5128,7 @@
       "date_gregorian": "2018-06-11",
       "decree_date_hijri": "26 ramadan 1439",
       "decree_date_gregorian": "2018-06-11",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [
         {
           "role": null,
@@ -5188,7 +5178,7 @@
       "date_gregorian": "2018-06-12",
       "decree_date_hijri": "27 ramadan 1439",
       "decree_date_gregorian": "2018-06-12",
-      "bo_date_publication": null,
+      "bo_date_publication": "2018-10-18",
       "signatories": [],
       "content": "Arrêté du ministre de l'agriculture, de la pêche maritime,\ndu développement rural et des eaux et forêts n°1814-18 du\n27 ramadan 1439 (12 juin 2018) portant reconnaissance\nde Pindication géographique « Piment Fort Zenatya »\net homologation du cahier des charges y afférent.\nLE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE\nMARITIME, DU DÉVELOPPEMENT RURAL ET DES\nEAUX ET FORÊTS,\nVu la loi n°25-06 relative aux signes distinctifs d'origine\net de qualité des denrées alimentaires et des produits agricoles\net halieutiques, promulguée par le dahir n°1-08-56 du\n17 joumada I 1429 (23 mai 2008), notamment son article 14 ;\nVu le décret n°2-08-403 du 6 hija 1429 (5 décembre 2008)\npris en application de la loi n°25-06 relative aux signes\ndistinctifs d'origine et de qualité des denrées alimentaires\net des produits agricoles et halieutiques ;\nVu le décret n° 2-08-404 du 6 hija 1429 (5 décembre 2008)\nrelatif à la composition et au mode de fonctionnement de la\ncommission nationale des signes distinctifs d'origine et de\nqualité ;\nAprès avis de la commission nationale des signes\ndistinctifs d'origine et de qualité, réunie le 15 joumada I 1439\n(is février 2018),\n\nEst reconnue l'indication\ngéographique « Piment Fort Zenatya », demandée par la\n« Coopérative Agricole Zenata » pour le piment obtenu dans\nles conditions fixées par le cahier des charges homologué et\nannexé à l'original du présent arrêté.\n\nSeul peut bénéficier de l'indication géographique\n«Piment Fort Zenatya », le piment produit exclusivement dans\nles conditions fixées par le cahier des charges homologué\net mentionné à l'article premier ci-dessus.\n\nL'aire géographique couverte par l'indication\ngéographique « Piment Fort Zenatya », comprend trois (3)\ncommunes, appartenant à la préfecture de Mohammedia\net sont comme suit : Echallalat, Sidi Moussa El Majdoub et\nSidi Moussa Ben Ali.\nN° 6718 — 8 safar 1440 (18-10-2018) BULLETIN OFFICIEL 1757\n\nL'indication géographique « Piment Fort\nZenatya » concerne uniquement le piment frais et provenant\ndu genre Capsicum. Les principales caractéristiques sont les\nsuivantes :\n1. Caractéristiques liées à la forme et à la couleur :\n— longueur : varie entre 8 et 14 cm ;\n- diamètre : S 20 mm;\n_ couleur : verte avant maturité et rouge foncé à maturité\ncomplète.\n2. Caractéristiques physico-chimiques :\n— Capsaïcine : 2 134 mg/kg ;\n— Degré du piquant : z 3000 selon l'échelle de Scoville.\n\nLes principales conditions de production,\nde récolte, de stockage et de conditionnement du piment\nbénéficiant de l'indication géographique « Piment Fort\nZenatya » sont les suivantes :\nl.les opérations de production, de stockage et de\n_ conditionnement du piment, doivent être réalisées à l'intérieur\nde l'aire géographique mentionnée à l'article 3 ci-dessus ;\n2.le semis peut être direct dans le sol ou dans des plateaux\nen pépinière, sous serre. Les plants, issus desdites pépinières,\ndoivent être transplantés sur les parcelles entre début mars\net mi-mai ;\n3. les engrais organiques et minéraux doivent être\nincorporés au sol pendant le semis ou lors de la transplantation.\nUn deuxième apport en engrais minéraux doit être effectué\nlorsque la plante atteint environ 25 cm de longueur ;\n4.le piment fort doit être conduit, en totalité, en irrigué ;\n5.les traitements phytosanitaires peuvent être appliqués,\nsi nécessaire, conformément à la réglementation en vigueur ;\n6.la récolte des fruits débute en mai pour le piment de\ncouleur verte et en août pour le piment de couleur rouge ;\n7.le transport du piment fort récolté à l'unité de\nconditionnement doit se faire dans des contenants appropriées\npermettant de préserver la qualité du produit ;\n8.le conditionnement du piment fort Zenatya doit se\nfaire, en lots homogènes, dans des filets où dans des contenants\nalimentaires, conformes à la réglementation en vigueur, d'une\ncontenance de 0,5 à 5 kg.\n\nLe contrôle du respect des clauses du cahier\ndes charges est assuré, selon le plan de contrôle prévu par le\ncahier des charges précité, par la société « Normacert sarl »\nou tout autre organisme de certification et de contrôle, agréé\nconformément à la réglementation en vigueur.\nL'organisme de certification et de contrôle concerné\ndélivre aux producteurs et conditionneurs, inscrits auprès\ndudit organisme, l'attestation de certification du piment\nbénéficiant de l'indication géographique protégée « Piment\nfort Zenatya ».\n\nOutre les mentions obligatoires prévues par\nla réglementation applicable en matière d'étiquetage et de\nprésentation des produits alimentaires, l'étiquetage du piment\nbénéficiant de l'indication géographique protégée « Piment\nFort Zenatya », doit comporter les indications suivantes :\n. la mention «Indication Géographique Protégée Piment\nFort Zenatya » ou de « IGP Piment Fort Zenatya » ;\n- le logo officiel de l'indication géo graphique protégée tel\nque publié en annexe au décret susvisé n°2-08-403 ;\n. la référence de l'organisme de certification et de contrôle.\nCes mentions doivent être regroupées dans le même\nchamp visuel sur la même étiquette,\nElles sont présentées dans des caractères apparents,\nlisibles, indélébiles et suffisamment grands pour qu'ils\nressortent bien du cadre sur lequel ils sont imprimés et pour\nqu'on puisse les distinguer nettement de l'ensemble des autres\nindications et dessins.\n\nLe présent arrêté sera publié au Bulletin officiel.\nRabat, le 27 ramadan 1439 (12 juin 2018).\nAZ1IZ AKHANNOUCE.",
       "domain": {
@@ -5201,5 +5191,8 @@
     }
   ],
   "n_instruments": 12,
-  "bo_date_publication": null
+  "bo_date_publication": "2018-10-18",
+  "unlinked_tables": [],
+  "n_unlinked_tables": 0,
+  "n_total_tables": 0
 }

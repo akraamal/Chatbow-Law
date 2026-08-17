@@ -166,7 +166,7 @@ GOLDEN_SIGNATORIES = [
     },
     {
         "file": "ar_BO_7506_Ar_entities.json",
-        "instrument_id": "instr_2_26_23_2",
+        "instrument_id": "instr_2_26_23",
         "expected": [
             {"role": "رئيس الحكومة", "name": "عزيز اخنوش", "type": "issuer"},
             {"role": "وزير الافلحة والصيد البحري والتنمي ة القروية والمياه والغابات", "name": "احمد البواري", "type": "contreseing"},
