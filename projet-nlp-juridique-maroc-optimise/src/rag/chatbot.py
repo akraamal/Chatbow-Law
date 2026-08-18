@@ -65,6 +65,16 @@ SYNTHESIS_TOP_K = 10  # plus large que DEFAULT_TOP_K=3 : une synthèse a besoin 
 # en aval gardant le contrôle du risque.
 DEFAULT_SCORE_THRESHOLD = 0.75
 
+# Plancher bas, uniquement pour écarter les questions de synthèse
+# manifestement hors sujet — PAS pour filtrer le contexte article par
+# article (contrairement à DEFAULT_SCORE_THRESHOLD). Une synthèse a
+# légitimement besoin d'articles à score moyen ; mais si AUCUN résultat
+# n'atteint même ce plancher, la question sort probablement du corpus, et
+# mieux vaut le détecter mécaniquement que de compter uniquement sur la
+# bonne volonté du LLM (règle 1 du prompt de synthèse). À calibrer avec
+# des requêtes réelles, comme 0.75 l'a été (cf. commentaire plus haut).
+SYNTHESIS_SCORE_FLOOR = 0.55
+
 NO_RESULT_MESSAGE = OUT_OF_SCOPE_SENTENCE_FR
 
 NO_RESULT_MESSAGE_AR = OUT_OF_SCOPE_SENTENCE_AR
@@ -132,6 +142,26 @@ class LegalRAGChatbot:
         self.doc_unlinked = _load_doc_unlinked()
         self.catalog = _load_catalog(index_dir)
         self.catalog_top_n = 8
+
+    def _resolve_catalog_ref(self, reference: str, lang: str | None) -> str | None:
+        """
+        Référence → doc_id via le catalogue (seule source qui relie une
+        référence à un document : les chunks de l'index ne portent pas le
+        champ 'reference'). Normalise tirets/points et chiffres pour la
+        correspondance, et privilégie l'entrée dans la langue de la
+        question.
+        """
+        norm = reference.replace("-", ".")
+        candidates = [
+            e for e in self.catalog or []
+            if (e.get("reference") or "").replace("-", ".") == norm
+        ]
+        if not candidates:
+            return None
+        for e in candidates:
+            if (lang and e.get("lang") == lang) or (not lang and e.get("lang") == "fr"):
+                return e.get("doc_id")
+        return candidates[0].get("doc_id")
 
     def _standalone_query(self, query: str, history: list[dict]) -> str:
         """
@@ -204,14 +234,55 @@ class LegalRAGChatbot:
         # Se replie silencieusement sur le chemin sémantique si le catalogue
         # n'est pas disponible ou ne donne rien.
         route = route_query(search_query, lang)
-        if route.get("scope") == "synthesis" and not route.get("catalog"):
-            results = self.search_engine.search(
-                search_query, top_k=SYNTHESIS_TOP_K, lang=lang
-            )
+        # Gate synthèse : scope synthesis ET pas de catalogue — SAUF quand
+        # la question nomme une référence précise (« résume le décret n°
+        # 2-25-1080 ») : le routeur marque catalog=True dès qu'une
+        # référence est présente (has_ref), mais une vue d'ensemble sur un
+        # texte précis doit quand même passer par le mode synthèse complet,
+        # pas par la liste d'instruments du catalogue.
+        if route.get("scope") == "synthesis" and (not route.get("catalog") or route.get("reference")):
+            target_doc_id = None
+            if route.get("reference"):
+                target_doc_id = self.search_engine.find_doc_id(route["reference"])
+                if target_doc_id is None:
+                    # Les chunks de l'index ne portent pas le champ
+                    # 'reference' : seule source de correspondance
+                    # référence ↔ document, le catalogue.
+                    target_doc_id = self._resolve_catalog_ref(route["reference"], lang)
+
+            if target_doc_id:
+                # La question nomme un texte précis : on prend TOUT le
+                # document plutôt que le top_k sémantique, qui couperait
+                # des articles peu similaires à la question mais
+                # nécessaires à une synthèse complète.
+                results = self.search_engine.get_document_chunks(target_doc_id, lang=lang)
+                if not results:
+                    target_doc_id = None  # référence introuvable dans l'index : repli
+
+            if not target_doc_id:
+                results = self.search_engine.search(
+                    search_query, top_k=SYNTHESIS_TOP_K, lang=lang
+                )
             # Pas de coupe stricte au seuil cosinus ici : une synthèse a
             # légitimement besoin de contexte "moyennement" pertinent
             # (article 2 d'un décret dont seul l'article 1 matche fort).
             if not results:
+                no_result = NO_RESULT_MESSAGE_AR if lang == "ar" else NO_RESULT_MESSAGE
+                return {
+                    "answer": no_result, "sources": [], "citations": [],
+                    "citation_stats": {"claimed": 0, "verified": 0, "failed": 0},
+                    "query_used": search_query, "mode": "synthesis",
+                }
+
+            # Plancher de pertinence : ne s'applique que quand les résultats
+            # viennent de search() (vrais cosine_score) — pas de
+            # get_document_chunks() (le match explicite de référence vaut
+            # déjà preuve de pertinence, et cosine_score y est None par
+            # conception).
+            if target_doc_id is None and not any(
+                r.get("cosine_score") is not None and r["cosine_score"] >= SYNTHESIS_SCORE_FLOOR
+                for r in results
+            ):
                 no_result = NO_RESULT_MESSAGE_AR if lang == "ar" else NO_RESULT_MESSAGE
                 return {
                     "answer": no_result, "sources": [], "citations": [],

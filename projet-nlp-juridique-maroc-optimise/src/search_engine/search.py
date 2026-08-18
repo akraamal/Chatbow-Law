@@ -208,3 +208,12 @@ class SemanticSearchEngine:
             for m in self.metadata
             if m.get("doc_id") == doc_id and (lang is None or m.get("lang") == lang)
         ]
+
+    def find_doc_id(self, reference: str) -> str | None:
+        """Retrouve le doc_id d'un document dont le champ 'reference'
+        correspond exactement. Utilisé quand une question de synthèse
+        nomme un texte précis ('résume le décret n° 2-25-1080')."""
+        for m in self.metadata:
+            if m.get("reference") == reference:
+                return m.get("doc_id")
+        return None

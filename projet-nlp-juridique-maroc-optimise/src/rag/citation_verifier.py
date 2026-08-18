@@ -367,13 +367,22 @@ _REF_NUMBER_RE = re.compile(r"\b[0-9]{1,2}(?:[-.][0-9]{1,4}){1,2}\b")
 _YEAR_NUMBER_RE = re.compile(r"\b(?:19|20)\d{2}\b")
 
 
+def _normalize_digits(text: str) -> str:
+    """Convertit les chiffres arabes-indiens en chiffres ASCII, pour que
+    la vérification numérique du mode synthèse ne dépende pas du script —
+    le LLM peut répondre en ASCII même quand la source arabe utilise des
+    chiffres arabes-indiens, et inversement."""
+    return "".join(_AR_DIGITS.get(ch, ch) for ch in text)
+
+
 def extract_numeric_claims(text: str) -> list[str]:
     """Extrait les références (ex. '2-25-1080') et années à 4 chiffres
     d'un texte — les seuls éléments chiffrés que la règle 2 du prompt de
     synthèse interdit de paraphraser."""
+    normalized = _normalize_digits(text)
     seen: set[str] = set()
     out: list[str] = []
-    for tok in _REF_NUMBER_RE.findall(text) + _YEAR_NUMBER_RE.findall(text):
+    for tok in _REF_NUMBER_RE.findall(normalized) + _YEAR_NUMBER_RE.findall(normalized):
         if tok not in seen:
             seen.add(tok)
             out.append(tok)
@@ -395,7 +404,7 @@ def verify_numeric_claims(answer_text: str, retrieved_chunks: list[dict]) -> dic
     claims = extract_numeric_claims(answer_text)
     if not claims:
         return {"claimed": [], "failed": []}
-    haystack = "\n".join(
-        (c.get("text_clean") or c.get("text") or "") for c in retrieved_chunks
+    haystack = _normalize_digits(
+        "\n".join((c.get("text_clean") or c.get("text") or "") for c in retrieved_chunks)
     )
     return {"claimed": claims, "failed": [t for t in claims if t not in haystack]}
