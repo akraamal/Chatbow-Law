@@ -240,26 +240,25 @@ class LegalRAGChatbot:
         # référence est présente (has_ref), mais une vue d'ensemble sur un
         # texte précis doit quand même passer par le mode synthèse complet,
         # pas par la liste d'instruments du catalogue.
-        if route.get("scope") == "synthesis" and (not route.get("catalog") or route.get("reference")):
-            target_doc_id = None
-            if route.get("reference"):
-                target_doc_id = self.search_engine.find_doc_id(route["reference"])
-                if target_doc_id is None:
-                    # Les chunks de l'index ne portent pas le champ
-                    # 'reference' : seule source de correspondance
-                    # référence ↔ document, le catalogue.
-                    target_doc_id = self._resolve_catalog_ref(route["reference"], lang)
+        if route.get("scope") == "synthesis" and (not route.get("catalog") or route.get("references")):
+            target_doc_ids: list[str] = []
+            for ref in route.get("references") or []:
+                doc_id = self.search_engine.find_doc_id(ref) or self._resolve_catalog_ref(ref, lang)
+                if doc_id and doc_id not in target_doc_ids:
+                    target_doc_ids.append(doc_id)
 
-            if target_doc_id:
-                # La question nomme un texte précis : on prend TOUT le
-                # document plutôt que le top_k sémantique, qui couperait
-                # des articles peu similaires à la question mais
-                # nécessaires à une synthèse complète.
-                results = self.search_engine.get_document_chunks(target_doc_id, lang=lang)
+            if target_doc_ids:
+                # La question nomme un ou plusieurs textes précis : on prend
+                # TOUT chaque document plutôt que le top_k sémantique, qui
+                # couperait des articles peu similaires à la question mais
+                # nécessaires à une synthèse complète (ou à une comparaison).
+                results = []
+                for doc_id in target_doc_ids:
+                    results.extend(self.search_engine.get_document_chunks(doc_id, lang=lang))
                 if not results:
-                    target_doc_id = None  # référence introuvable dans l'index : repli
+                    target_doc_ids = []  # références introuvables dans l'index : repli
 
-            if not target_doc_id:
+            if not target_doc_ids:
                 results = self.search_engine.search(
                     search_query, top_k=SYNTHESIS_TOP_K, lang=lang
                 )
@@ -279,7 +278,7 @@ class LegalRAGChatbot:
             # get_document_chunks() (le match explicite de référence vaut
             # déjà preuve de pertinence, et cosine_score y est None par
             # conception).
-            if target_doc_id is None and not any(
+            if not target_doc_ids and not any(
                 r.get("cosine_score") is not None and r["cosine_score"] >= SYNTHESIS_SCORE_FLOOR
                 for r in results
             ):

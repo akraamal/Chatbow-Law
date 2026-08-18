@@ -119,18 +119,27 @@ def _is_synthesis_query(q_norm: str, lang: str) -> bool:
 _AR_TO_ASCII = str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")
 
 
-def _extract_reference(q: str, lang: str) -> str | None:
-    """Isole la référence numérique pure (ex. '2-25-1080') d'une question
-    qui nomme un texte précis — utilisé pour cibler get_document_chunks()
-    en mode synthèse plutôt que de se limiter au top_k sémantique."""
-    m = (AR_REF_RE if lang == "ar" else FR_REF_RE).search(q)
-    if not m:
-        return None
-    digits_only = re.search(r"[0-9\u0660-\u0669][0-9\u0660-\u0669\-.]*[0-9\u0660-\u0669]", m.group(0))
-    if not digits_only:
-        return None
-    # Chiffres arabes-indiens (٢٥) → ASCII (25) : le catalogue indexe en ASCII.
-    return digits_only.group(0).translate(_AR_TO_ASCII)
+def _extract_references(q: str, lang: str, max_refs: int = 3) -> list[str]:
+    """Isole les références numériques (ex. '2-25-1080') d'une question —
+    plusieurs pour une comparaison ('compare le décret X et le décret Y'),
+    dédupliquées et plafonnées à max_refs. Utilisé pour cibler
+    get_document_chunks() en mode synthèse plutôt que de se limiter au
+    top_k sémantique."""
+    pattern = AR_REF_RE if lang == "ar" else FR_REF_RE
+    seen: set[str] = set()
+    out: list[str] = []
+    for m in pattern.finditer(q):
+        digits_only = re.search(r"[0-9\u0660-\u0669][0-9\u0660-\u0669\-.]*[0-9\u0660-\u0669]", m.group(0))
+        if not digits_only:
+            continue
+        # Chiffres arabes-indiens (٢٥) → ASCII (25) : le catalogue indexe en ASCII.
+        ref = digits_only.group(0).translate(_AR_TO_ASCII)
+        if ref not in seen:
+            seen.add(ref)
+            out.append(ref)
+        if len(out) >= max_refs:
+            break
+    return out
 
 
 def route_query(query: str, lang: str | None = None) -> dict:
@@ -153,7 +162,7 @@ def route_query(query: str, lang: str | None = None) -> dict:
             "type": None,
             "year": None,
             "scope": "synthesis" if _is_synthesis_query(q, lang) else None,
-            "reference": _extract_reference(q, lang),
+            "references": _extract_references(q, lang),
         }
     lang = lang or _guess_lang(query)
     words = _split_words(q)
@@ -177,7 +186,7 @@ def route_query(query: str, lang: str | None = None) -> dict:
             "type": None,
             "year": None,
             "scope": "synthesis" if _is_synthesis_query(q, lang) else None,
-            "reference": _extract_reference(q, lang),
+            "references": _extract_references(q, lang),
         }
 
     has_ref = bool(
@@ -200,5 +209,5 @@ def route_query(query: str, lang: str | None = None) -> dict:
         "type": matched_type,
         "year": year,
         "scope": "synthesis" if _is_synthesis_query(q, lang) else None,
-        "reference": _extract_reference(q, lang),
+        "references": _extract_references(q, lang),
     }
