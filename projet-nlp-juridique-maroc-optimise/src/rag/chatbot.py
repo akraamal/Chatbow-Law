@@ -292,6 +292,7 @@ class LegalRAGChatbot:
             system_instruction, user_prompt = build_synthesis_prompt(
                 search_query, results, doc_unlinked=self.doc_unlinked,
                 max_context_chars=MAX_CONTEXT_CHARS,
+                budget_by_doc=len(target_doc_ids) > 1,
             )
             answer_text = self.llm.generate(system_instruction, user_prompt)
             clean_answer, source_ids = parse_grounding(answer_text)

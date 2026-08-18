@@ -231,6 +231,7 @@ def format_context(
     articles: list[dict],
     doc_unlinked: dict[str, list[dict]] | None = None,
     max_context_chars: int = MAX_CONTEXT_CHARS,
+    budget_by_doc: bool = False,
 ) -> str:
     """
     Formate les articles récupérés (résultats de SemanticSearchEngine.search
@@ -252,12 +253,30 @@ def format_context(
     Le texte de chaque article est tronqué à parts égales (plancher
     MIN_ARTICLE_CHARS) pour tenir dans ce budget — évite les 413 "request
     too large" côté LLM quand plusieurs articles longs sont récupérés.
+
+    budget_by_doc: répartit d'abord le budget par DOCUMENT (part égale),
+    puis entre les articles de chaque document — pour les comparaisons
+    multi-documents (mode synthèse, plusieurs références nommées) où un
+    document plus long capte sinon l'essentiel du budget partagé au
+    détriment du document comparé.
     """
     if not articles:
         return "(Aucun extrait pertinent trouvé.)"
 
-    # Budget par article, réparti équitablement, jamais sous le plancher.
-    per_article_budget = max(MIN_ARTICLE_CHARS, max_context_chars // max(len(articles), 1))
+    if budget_by_doc:
+        doc_counts: dict[str, int] = {}
+        for a in articles:
+            doc_counts[a.get("doc_id", "?")] = doc_counts.get(a.get("doc_id", "?"), 0) + 1
+        n_docs = max(len(doc_counts), 1)
+        per_doc_budget = max(MIN_ARTICLE_CHARS * 2, max_context_chars // n_docs)
+        article_budget_of = {
+            doc_id: max(MIN_ARTICLE_CHARS, per_doc_budget // count)
+            for doc_id, count in doc_counts.items()
+        }
+        flat_budget = None
+    else:
+        flat_budget = max(MIN_ARTICLE_CHARS, max_context_chars // max(len(articles), 1))
+        article_budget_of = None
 
     blocks = []
     seen_doc_ids: set[str] = set()
@@ -308,7 +327,8 @@ def format_context(
 
         # Le bloc tableau est conservé INTÉGRALEMENT : on tronque uniquement
         # la partie narrative pour tenir le budget par article.
-        narrative_budget = max(MIN_ARTICLE_CHARS, per_article_budget - len(table_block))
+        this_budget = article_budget_of[doc] if article_budget_of else flat_budget
+        narrative_budget = max(MIN_ARTICLE_CHARS, this_budget - len(table_block))
         text = _truncate(narrative, narrative_budget) + table_block
 
         # Append table summary if tables are linked — redondant quand
@@ -377,12 +397,18 @@ def build_user_prompt(
     articles: list[dict],
     doc_unlinked: dict[str, list[dict]] | None = None,
     max_context_chars: int = MAX_CONTEXT_CHARS,
+    budget_by_doc: bool = False,
 ) -> str:
     """
     Assemble la question de l'utilisateur avec le contexte récupéré, prêt à
     être envoyé comme `user_prompt` à LLMClient.generate().
     """
-    context = format_context(articles, doc_unlinked=doc_unlinked, max_context_chars=max_context_chars)
+    context = format_context(
+        articles,
+        doc_unlinked=doc_unlinked,
+        max_context_chars=max_context_chars,
+        budget_by_doc=budget_by_doc,
+    )
     return (
         f"Contexte (extraits du Bulletin Officiel) :\n\n{context}\n\n"
         f"---\n\n"
@@ -464,8 +490,13 @@ def build_synthesis_prompt(
     articles: list[dict],
     doc_unlinked: dict[str, list[dict]] | None = None,
     max_context_chars: int = MAX_CONTEXT_CHARS,
+    budget_by_doc: bool = False,
 ) -> tuple[str, str]:
     """Variante de build_prompt() pour les questions de vue d'ensemble."""
     return SYNTHESIS_SYSTEM_INSTRUCTION, build_user_prompt(
-        query, articles, doc_unlinked=doc_unlinked, max_context_chars=max_context_chars
+        query,
+        articles,
+        doc_unlinked=doc_unlinked,
+        max_context_chars=max_context_chars,
+        budget_by_doc=budget_by_doc,
     )
