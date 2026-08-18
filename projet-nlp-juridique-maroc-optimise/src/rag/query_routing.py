@@ -94,17 +94,49 @@ def _split_words(text: str) -> set[str]:
     return set(re.findall(r"[\w\u0600-\u06FF]+", text))
 
 
+# Signaux de "vue d'ensemble" : la question porte sur le document/corpus
+# comme un tout (résumé, thèmes, comparaison, structure), pas sur un fait
+# ponctuel citable en une phrase.
+_SYNTHESIS_SIGNALS_FR = (
+    "résume", "résumé", "resume", "de quoi parle", "de quoi il s'agit",
+    "de quoi ça parle", "sujet principal", "thèmes", "themes", "sujets",
+    "à propos de quoi", "compare", "comparer", "comparaison",
+    "différence entre", "quelle est la différence", "en quoi consiste",
+    "que dit ce document", "que contient ce document", "structure de",
+    "vue d'ensemble", "explique", "expliquer",
+)
+_SYNTHESIS_SIGNALS_AR = (
+    "لخص", "ملخص", "عن ماذا يتحدث", "الموضوع الرئيسي", "المواضيع",
+    "قارن", "المقارنة", "الفرق بين", "ماذا يتضمن", "بم يتعلق",
+)
+
+
+def _is_synthesis_query(q_norm: str, lang: str) -> bool:
+    signals = _SYNTHESIS_SIGNALS_AR if lang == "ar" else _SYNTHESIS_SIGNALS_FR
+    return any(s in q_norm for s in signals)
+
+
 def route_query(query: str, lang: str | None = None) -> dict:
     """
-    Renvoie {"catalog": bool, "type": str|None, "year": int|None}.
+    Renvoie {"catalog": bool, "type": str|None, "year": int|None,
+    "scope": str|None}.
 
     « catalog == True » signifie que la question doit être traitée par le
     catalogue d'instruments (agrégation / référence numérique), sinon elle
     suit le chemin sémantique classique.
+
+    « scope == "synthesis" » signifie que la question porte sur une vue
+    d'ensemble du contenu (résumé, thèmes, comparaison, structure) et doit
+    être traitée par le mode synthèse (vérification d'ancrage allégée).
     """
     q = _norm(query).strip()
     if not q:
-        return {"catalog": False, "type": None, "year": None}
+        return {
+            "catalog": False,
+            "type": None,
+            "year": None,
+            "scope": "synthesis" if _is_synthesis_query(q, lang) else None,
+        }
     lang = lang or _guess_lang(query)
     words = _split_words(q)
 
@@ -122,7 +154,12 @@ def route_query(query: str, lang: str | None = None) -> dict:
             break
 
     if matched_word is None:
-        return {"catalog": False, "type": None, "year": None}
+        return {
+            "catalog": False,
+            "type": None,
+            "year": None,
+            "scope": "synthesis" if _is_synthesis_query(q, lang) else None,
+        }
 
     has_ref = bool(
         (AR_REF_RE if lang == "ar" else FR_REF_RE).search(q)
@@ -143,4 +180,5 @@ def route_query(query: str, lang: str | None = None) -> dict:
         "catalog": bool(implied_agg),
         "type": matched_type,
         "year": year,
+        "scope": "synthesis" if _is_synthesis_query(q, lang) else None,
     }

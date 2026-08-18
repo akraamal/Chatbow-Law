@@ -18,21 +18,31 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from src.rag.citation_verifier import parse_citations, verify_citations
+from src.rag.citation_verifier import (
+    parse_citations,
+    verify_citations,
+    parse_grounding,
+    verify_grounding,
+    verify_numeric_claims,
+)
 from src.rag.llm_client import LLMClient
 from src.rag.prompt_builder import (
     REFUSAL_SENTENCE_AR,
     REFUSAL_SENTENCE_FR,
     UNSUPPORTED_SENTENCE_AR,
     UNSUPPORTED_SENTENCE_FR,
+    OUT_OF_SCOPE_SENTENCE_FR,
+    OUT_OF_SCOPE_SENTENCE_AR,
     MAX_CONTEXT_CHARS,
     build_prompt,
     build_catalog_prompt,
+    build_synthesis_prompt,
 )
 from src.rag.query_routing import route_query
 from src.search_engine.search import DEFAULT_INDEX_DIR, SemanticSearchEngine
 
 DEFAULT_TOP_K = 3
+SYNTHESIS_TOP_K = 10  # plus large que DEFAULT_TOP_K=3 : une synthèse a besoin de voir plus du document
 
 # Seuil de similarité cosinus (embeddings E5 normalisés, cf. embedder.py) en
 # dessous duquel on considère qu'un résultat est trop éloigné pour figurer
@@ -55,17 +65,9 @@ DEFAULT_TOP_K = 3
 # en aval gardant le contrôle du risque.
 DEFAULT_SCORE_THRESHOLD = 0.75
 
-NO_RESULT_MESSAGE = (
-    "Je n'ai pas trouvé d'information suffisamment pertinente dans le corpus "
-    "indexé pour répondre à cette question. Essaie de la reformuler, ou "
-    "vérifie que le domaine concerné est bien couvert par les documents indexés."
-)
+NO_RESULT_MESSAGE = OUT_OF_SCOPE_SENTENCE_FR
 
-NO_RESULT_MESSAGE_AR = (
-    "لم أتمكن من العثور على معلومات كافية وذات صلة في الوثائق المفهرسة "
-    "للإجابة على هذا السؤال. حاول إعادة صياغته، أو تأكد من أن المجال "
-    "المعني مغطى بالوثائق المفهرسة."
-)
+NO_RESULT_MESSAGE_AR = OUT_OF_SCOPE_SENTENCE_AR
 
 # Utilisé uniquement quand un historique de conversation est fourni, pour
 # reformuler une question de suivi ("et pour les décrets ?") en requête
@@ -176,12 +178,16 @@ class LegalRAGChatbot:
     ) -> dict:
         """
         Renvoie {"answer": str, "sources": list[dict], "citations": list[dict],
-        "citation_stats": dict, "query_used": str, "mode": "catalog"|None}.
+        "citation_stats": dict, "query_used": str,
+        "mode": "catalog"|"synthesis"|None}.
 
         Les questions agrégées (« les dahirs les plus importants », « les
         décrets de 2024 », « combien d'articles comporte le décret n° X ? »)
         sont aiguillées vers le catalogue d'instruments (mode "catalog") ;
-        les autres suivent la recherche sémantique classique. Dans les
+        les questions de vue d'ensemble (résumé, comparaison, structure)
+        suivent le mode synthèse (mode "synthesis", ancrage vérifié par
+        existence des sources, pas par citation mot à mot) ; les autres
+        suivent la recherche sémantique classique. Dans les
         deux cas, les citations du LLM sont extraites du bloc [[CITATIONS]]
         et VÉRIFIÉES mécaniquement contre le texte des sources récupérées
         (src/rag/citation_verifier.py). Une citation qui ne se retrouve pas
@@ -198,6 +204,74 @@ class LegalRAGChatbot:
         # Se replie silencieusement sur le chemin sémantique si le catalogue
         # n'est pas disponible ou ne donne rien.
         route = route_query(search_query, lang)
+        if route.get("scope") == "synthesis" and not route.get("catalog"):
+            results = self.search_engine.search(
+                search_query, top_k=SYNTHESIS_TOP_K, lang=lang
+            )
+            # Pas de coupe stricte au seuil cosinus ici : une synthèse a
+            # légitimement besoin de contexte "moyennement" pertinent
+            # (article 2 d'un décret dont seul l'article 1 matche fort).
+            if not results:
+                no_result = NO_RESULT_MESSAGE_AR if lang == "ar" else NO_RESULT_MESSAGE
+                return {
+                    "answer": no_result, "sources": [], "citations": [],
+                    "citation_stats": {"claimed": 0, "verified": 0, "failed": 0},
+                    "query_used": search_query, "mode": "synthesis",
+                }
+
+            system_instruction, user_prompt = build_synthesis_prompt(
+                search_query, results, doc_unlinked=self.doc_unlinked,
+                max_context_chars=MAX_CONTEXT_CHARS,
+            )
+            answer_text = self.llm.generate(system_instruction, user_prompt)
+            clean_answer, source_ids = parse_grounding(answer_text)
+            grounded_sources, grounding_stats = verify_grounding(source_ids, results)
+
+            refusal_phrase = REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR
+            out_of_scope = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
+            if refusal_phrase in clean_answer or out_of_scope in clean_answer:
+                return {
+                    "answer": out_of_scope, "sources": [], "citations": [],
+                    "citation_stats": grounding_stats, "query_used": search_query,
+                    "mode": "synthesis",
+                }
+            if clean_answer.strip() and not grounded_sources:
+                return {
+                    "answer": out_of_scope, "sources": [], "citations": [],
+                    "citation_stats": grounding_stats, "query_used": search_query,
+                    "mode": "synthesis",
+                }
+
+            numeric_check = verify_numeric_claims(clean_answer, results)
+            if numeric_check["failed"]:
+                # Une synthèse a le droit de reformuler — mais pas de
+                # déformer une référence ou une année. Si un nombre cité
+                # ne se retrouve dans AUCUNE source, on ne montre pas la
+                # réponse : c'est le signal le plus net d'hallucination
+                # qu'on puisse attraper mécaniquement en mode synthèse.
+                unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
+                return {
+                    "answer": unsupported,
+                    "sources": [],
+                    "citations": [],
+                    "citation_stats": {
+                        **grounding_stats,
+                        "numeric_claimed": numeric_check["claimed"],
+                        "numeric_failed": numeric_check["failed"],
+                    },
+                    "query_used": search_query,
+                    "mode": "synthesis",
+                }
+
+            return {
+                "answer": clean_answer,
+                "sources": [results[i - 1] for i in grounded_sources],
+                "citations": [],
+                "citation_stats": grounding_stats,
+                "query_used": search_query,
+                "mode": "synthesis",
+            }
+
         catalog_hits = None
         if route.get("catalog") and self.catalog:
             from src.search_engine.catalog import search_catalog

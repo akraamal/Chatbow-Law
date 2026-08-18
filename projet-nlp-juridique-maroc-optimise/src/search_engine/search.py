@@ -194,3 +194,17 @@ class SemanticSearchEngine:
             }
             for idx, score in fused[:top_k]
         ]
+
+    def get_document_chunks(self, doc_id: str, lang: str | None = None) -> list[dict]:
+        """
+        Renvoie TOUS les chunks indexés pour un doc_id donné, dans l'ordre
+        du corpus — sans filtrage par similarité. Utilisé pour les
+        questions de synthèse au niveau du document ("résume ce texte",
+        "de quoi parle ce bulletin ?") où un top_k restreint par cosinus
+        couperait le contexte avant d'avoir vu l'essentiel du document.
+        """
+        return [
+            {**m, "score": None, "cosine_score": None}
+            for m in self.metadata
+            if m.get("doc_id") == doc_id and (lang is None or m.get("lang") == lang)
+        ]

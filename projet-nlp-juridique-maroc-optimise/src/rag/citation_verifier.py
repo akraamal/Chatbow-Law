@@ -305,3 +305,97 @@ def verify_citations(
         "failed": failed,
     }
     return verified, stats
+
+
+# --- Mode « synthèse » : vérification d'ancrage (existence) ----------------
+# Contrairement aux citations mot à mot ([[CITATIONS]]), le mode synthèse
+# demande au LLM un bloc [[GROUNDED-IN]] listant les numéros de sources
+# réellement utilisées — la réponse étant une reformulation légitime, on ne
+# vérifie que l'EXISTENCE de chaque source déclarée dans le contexte fourni.
+
+GROUNDING_BLOCK_RE = re.compile(
+    r"\[\[\s*GROUNDED-IN\s*\]\](.*?)\[\[\s*END\s*\]\]", re.DOTALL | re.IGNORECASE
+)
+
+
+def parse_grounding(answer_text: str) -> tuple[str, list[int]]:
+    """Extrait le bloc [[GROUNDED-IN]] d'une réponse en mode synthèse."""
+    m = GROUNDING_BLOCK_RE.search(answer_text)
+    if not m:
+        return answer_text, []
+    block = m.group(1)
+    after = answer_text[m.end():]
+    clean = answer_text[: m.start()].rstrip()
+    if after.strip():
+        clean += "\n" + after.lstrip()
+    return clean, [int(n) for n in re.findall(r"\d+", block)]
+
+
+def verify_grounding(
+    source_indices: list[int],
+    retrieved_chunks: list[dict],
+) -> tuple[list[int], dict]:
+    """
+    Vérification allégée pour le mode synthèse : contrairement à
+    verify_citations() (correspondance mot à mot), on vérifie seulement que
+    chaque numéro de source déclaré existe dans le contexte réellement
+    fourni — la réponse elle-même est une reformulation légitime, pas une
+    citation. Les données précises (règle 2 du prompt synthèse) ne sont
+    PAS re-vérifiées ici mécaniquement.
+    """
+    valid = sorted({i for i in source_indices if 1 <= i <= len(retrieved_chunks)})
+    stats = {
+        "claimed": len(source_indices),
+        "verified": len(valid),
+        "failed": len(source_indices) - len(valid),
+    }
+    return valid, stats
+
+
+# --- Vérification des données chiffrées (mode synthèse) ------------------
+#
+# Complète verify_grounding() (qui ne vérifie que l'EXISTENCE des sources
+# citées, pas leur contenu) par un contrôle ciblé de la RÈGLE 2 du prompt
+# de synthèse : les références (n° de décret/dahir/loi) et les années ne
+# peuvent pas être paraphrasées, contrairement au reste d'une réponse de
+# synthèse — elles doivent apparaître telles quelles dans le contexte
+# fourni. Ne couvre PAS les dates complètes ni les petits nombres
+# génériques ("3 articles") : trop de formes valides pour un contrôle
+# regex fiable sans faux positifs.
+
+_REF_NUMBER_RE = re.compile(r"\b[0-9]{1,2}(?:[-.][0-9]{1,4}){1,2}\b")
+_YEAR_NUMBER_RE = re.compile(r"\b(?:19|20)\d{2}\b")
+
+
+def extract_numeric_claims(text: str) -> list[str]:
+    """Extrait les références (ex. '2-25-1080') et années à 4 chiffres
+    d'un texte — les seuls éléments chiffrés que la règle 2 du prompt de
+    synthèse interdit de paraphraser."""
+    seen: set[str] = set()
+    out: list[str] = []
+    for tok in _REF_NUMBER_RE.findall(text) + _YEAR_NUMBER_RE.findall(text):
+        if tok not in seen:
+            seen.add(tok)
+            out.append(tok)
+    return out
+
+
+def verify_numeric_claims(answer_text: str, retrieved_chunks: list[dict]) -> dict:
+    """
+    Vérifie que chaque référence/année mentionnée dans `answer_text`
+    apparaît textuellement dans AU MOINS UNE des sources fournies. Ne
+    vérifie pas la source précise de provenance (contrairement à
+    verify_citations) — juste l'existence du nombre quelque part dans le
+    contexte réellement donné au LLM, ce qui suffit à détecter un numéro
+    inventé ou déformé par la synthèse.
+
+    Renvoie {"claimed": [...], "failed": [...]} — `failed` liste les
+    tokens absents de toutes les sources (candidats hallucination).
+    """
+    claims = extract_numeric_claims(answer_text)
+    if not claims:
+        return {"claimed": [], "failed": []}
+    haystack = "\n".join(
+        (c.get("text_clean") or c.get("text") or "") for c in retrieved_chunks
+    )
+    return {"claimed": claims, "failed": [t for t in claims if t not in haystack]}
