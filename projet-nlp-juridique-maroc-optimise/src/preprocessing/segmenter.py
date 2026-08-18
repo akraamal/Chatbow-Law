@@ -295,10 +295,17 @@ def _is_doc_title_match(text: str, match, lang: str = "fr") -> bool:
 # --- Arabe ---
 # Couvre "المادة 1." / "المادة الأولى" (première) / "المادة الثانية" (deuxième, rare
 # car les textes juridiques utilisent presque toujours les chiffres au-delà de 1)
-# Tous les nombres ordinaux arabes jusqu'à la dixième, et la combinaison
-# « الأولى / الأولى » qui couvre les deux orthographes possibles du 1er.
+# Tous les nombres ordinaux arabes jusqu'à la dixième.
+#
+# Real OCR evidence (BO_7517_Ar, arrêtés 899.26–1043.26): "الأولى" is not
+# just missing its hamza under OCR — the whole lam/hamza cluster gets
+# transposed (observed: "االولى" instead of "الأولى"). A single added
+# spelling doesn't cover it; needs a tolerant shape match instead. أ est
+# dans la classe [اوأ] : sans lui, la forme standard «الأولى» (hamza sur
+# l'alef) ne matcherait plus — vérifié contre les trois orthographes.
+_AR_ORDINAL_FIRST = r"ا{1,2}ل{1,2}[اوأ]{0,2}لى"   # covers الأولى / الاولى / OCR-transposed ااولى
 _AR_ORDINALS = (
-    r"الأولى|الأولى|"
+    rf"{_AR_ORDINAL_FIRST}|"
     r"الثانية|"
     r"الثالثة|"
     r"الرابعة|"
@@ -691,8 +698,13 @@ def segment_into_articles_ar(text: str) -> list:
         المادة الثانية
         املادة ...
     """
-
-    matches = list(ARTICLE_PATTERN_AR.finditer(text))
+    # segment_into_articles_ar() bypassed the guillemet/line-start filter
+    # that get_preamble()/get_per_decree_preamble_map() already apply via
+    # _filter_article_matches() — so a quoted "«المادة الأولى...»" inside
+    # amendment text (common: this arrêté cites the OLD article text it's
+    # replacing) was creating a spurious article boundary. Route through
+    # the same filter here.
+    matches = _filter_article_matches(text, lang="ar")
     articles = []
 
     for i, match in enumerate(matches):

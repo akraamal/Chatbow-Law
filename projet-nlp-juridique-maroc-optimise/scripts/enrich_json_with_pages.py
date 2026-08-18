@@ -1156,6 +1156,38 @@ def _issuer_role_from_text(text: str) -> str | None:
     return None
 
 
+# Version arabe : le rôle de l'émetteur en tête de préambule/énonciation.
+# L'article défini ال est OPTIONNEL devant « وزير » — le BO utilise la
+# forme construite sans ال (idafa : « وزير التعليم العالي… », standard
+# arabe), une exigence de ال aurait donc fait échouer le match et replié
+# sur le « رئيس الحكومة » codé en dur (faux pour les arrêtés ministériels,
+# ex. BO_7517_Ar : l'émetteur est « وزير التعليم العالي والبحث العلمي
+# والابتكار », pas le Chef du Gouvernement).
+_ISSUER_ROLE_RE_AR = re.compile(
+    r"(?:^|\n)[ \t]*(?:إن\s+)?"
+    r"((?:رئيس\s+الحكومة)|"
+    r"(?:(?:ال)?وزيرة?|كاتب(?:ة)?\s+الدولة)"       # 'ال' now optional — idafa form is unprefixed
+    r"(?:\s+المنتدبة?)?(?:\s+المكلفة?\s+ب)?"
+    r"\s+[\u0621-\u064A][\u0621-\u064A\s]{0,60}[\u0621-\u064A])"
+    r"\s*،",
+)
+
+
+def _issuer_role_from_preamble_ar(preamble: str) -> str | None:
+    m = _ISSUER_ROLE_RE_AR.search(preamble or "")
+    if m:
+        return re.sub(r"\s+", " ", m.group(1)).strip()
+    from src.extraction.institution_patterns_ar import INSTITUTION_PATTERN_AR
+    m2 = INSTITUTION_PATTERN_AR.search(preamble or "")
+    return m2.group().strip() if m2 else None
+
+
+def _issuer_role_from_text_ar(text: str) -> str | None:
+    from src.extraction.institution_patterns_ar import INSTITUTION_PATTERN_AR
+    m = INSTITUTION_PATTERN_AR.search(text or "")
+    return m.group().strip() if m else None
+
+
 def _clean_role_lines(lines: list[str]) -> str | None:
     """Aplati les lignes d'un bloc de rôle en une chaîne unique lisible."""
     if not lines:
@@ -1416,7 +1448,14 @@ def _instrument_signatories(articles: list[dict], preamble: str = "") -> list[di
     if not zone.strip():
         return []
     if is_ar:
-        issuer_role = "رئيس الحكومة"
+        issuer_role = _issuer_role_from_preamble_ar(preamble)
+        if issuer_role is None:
+            # Préambule tronqué : chercher la ligne d'énonciation dans le
+            # texte des articles (avant la zone de signature).
+            for art in articles:
+                issuer_role = _issuer_role_from_text_ar(art.get("text", "") or "")
+                if issuer_role:
+                    break
     else:
         issuer_role = _issuer_role_from_preamble(preamble)
         if issuer_role is None:
