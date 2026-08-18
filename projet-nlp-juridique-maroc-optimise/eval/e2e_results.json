@@ -8,9 +8,9 @@
     },
     "answerable": {
       "n": 65,
-      "answered_rate": 0.292,
-      "citation_doc_match_rate": 0.947,
-      "mean_citation_precision": 0.93,
+      "answered_rate": 0.338,
+      "citation_doc_match_rate": 0.955,
+      "mean_citation_precision": 0.939,
       "unexpectedly_refused": [
         "fr_005",
         "fr_010",
@@ -19,12 +19,9 @@
         "fr_ext_02",
         "fr_ext_07",
         "fr_ext_08",
-        "fr_ext_09",
         "fr_ext_10",
         "ar_ext_01",
         "ar_ext_02",
-        "ar_ext_03",
-        "ar_ext_04",
         "ar_ext_05",
         "ar_ext_06",
         "ar_ext_07",
@@ -62,8 +59,8 @@
       "by_type": {
         "exact_reference": {
           "n": 26,
-          "answered_rate": 0.308,
-          "citation_doc_match_rate": 0.875
+          "answered_rate": 0.423,
+          "citation_doc_match_rate": 0.909
         },
         "multi_doc": {
           "n": 12,
@@ -78,13 +75,6 @@
       }
     },
     "errors": [
-      "fr_ext_07",
-      "fr_ext_09",
-      "fr_ext_10",
-      "ar_ext_01",
-      "ar_ext_02",
-      "ar_ext_03",
-      "ar_ext_04",
       "ar_ext_05",
       "ar_ext_06",
       "ar_ext_07",
@@ -634,14 +624,21 @@
       "query": "Quels établissements doivent être agréés ou autorisés conformément à l'article 4 du décret n° 2-10-473 ?",
       "expected_doc_id": "BO_7506_Fr",
       "refused": true,
-      "answer_text": "",
-      "cited_doc_ids": [],
-      "citation_doc_match": false,
+      "answer_text": "لا يحتوي السياق المقدم على المعلومة المطلوبة.",
+      "cited_doc_ids": [
+        "BO_6822_Fr",
+        "BO_7470_Fr",
+        "BO_7480_Fr",
+        "BO_7488-bis_Fr",
+        "BO_7492_Fr",
+        "BO_7506_Fr"
+      ],
+      "citation_doc_match": true,
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 52.79,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96503, Requested 4152. Please try again in 9m25.92s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 4.02,
+      "error": null
     },
     {
       "id": "fr_ext_08",
@@ -665,15 +662,17 @@
       "lang": "fr",
       "query": "Quel décret du 22 décembre 2025 est relatif aux fermes aquacoles ?",
       "expected_doc_id": "BO_7470_Fr",
-      "refused": true,
-      "answer_text": "",
-      "cited_doc_ids": [],
-      "citation_doc_match": false,
-      "claimed": 0,
-      "verified": 0,
-      "citation_precision": null,
-      "elapsed_s": 50.84,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99055, Requested 4399. Please try again in 49m44.256s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
+      "refused": false,
+      "answer_text": "Le décret du 22 décembre 2025 relatif aux fermes aquacoles est le **décret n° 2‑24‑830** publié au Bulletin Officiel n° 7470 (52 articles) [Source 1].",
+      "cited_doc_ids": [
+        "BO_7470_Fr"
+      ],
+      "citation_doc_match": true,
+      "claimed": 1,
+      "verified": 1,
+      "citation_precision": 1.0,
+      "elapsed_s": 26.07,
+      "error": null
     },
     {
       "id": "fr_ext_10",
@@ -682,14 +681,14 @@
       "query": "Quelle société d'assurances et de réassurance, sise 181, boulevard d'Anfa à Casablanca, a été agréée pour pratiquer les opérations prévues par la circulaire n° 01/AS/19 ?",
       "expected_doc_id": "BO_7132_Fr",
       "refused": true,
-      "answer_text": "",
+      "answer_text": "Je n'ai pas pu confirmer cette réponse dans les documents indexés ; le passage cité n'est pas vérifiable dans le texte source.",
       "cited_doc_ids": [],
       "citation_doc_match": false,
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 48.7,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98995, Requested 2752. Please try again in 25m9.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 7.66,
+      "error": null
     },
     {
       "id": "ar_ext_01",
@@ -698,14 +697,17 @@
       "query": "ما هو الظهير الشريف رقم 1.25.11 الصادر في 21 شعبان 1446 (20 فبراير 2025) ؟",
       "expected_doc_id": "BO_7384_Ar",
       "refused": true,
-      "answer_text": "",
-      "cited_doc_ids": [],
-      "citation_doc_match": false,
+      "answer_text": "لا يحتوي السياق المقدم على المعلومة المطلوبة.",
+      "cited_doc_ids": [
+        "BO_7384_Ar",
+        "BO_7412_Ar"
+      ],
+      "citation_doc_match": true,
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 48.19,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98936, Requested 2345. Please try again in 18m26.784s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 8.62,
+      "error": null
     },
     {
       "id": "ar_ext_02",
@@ -714,14 +716,14 @@
       "query": "ما هو القرار المشترك رقم 695.24 الصادر في 18 مارس 2024 المتعلق بالترخيص لشركة AQUA TYPE Sarl بإنشاء واستغلال مزرعة لتربية الأحياء البحرية ؟",
       "expected_doc_id": "BO_7384_Ar",
       "refused": true,
-      "answer_text": "",
+      "answer_text": "لم أتمكن من تأكيد هذه الإجابة في الوثائق المفهرسة؛ المقطع المذكور لا يمكن التحقق منه في النص الأصلي.",
       "cited_doc_ids": [],
       "citation_doc_match": false,
-      "claimed": 0,
+      "claimed": 1,
       "verified": 0,
-      "citation_precision": null,
-      "elapsed_s": 49.93,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98874, Requested 4473. Please try again in 48m11.808s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
+      "citation_precision": 0.0,
+      "elapsed_s": 56.07,
+      "error": null
     },
     {
       "id": "ar_ext_03",
@@ -729,15 +731,17 @@
       "lang": "ar",
       "query": "ما هو قرار وزير الداخلية رقم 692.25 الصادر في 12 ماي 2025 المتعلق بالترخيص بنقل عتاد وتجهيزات الدفاع والأمن والأسلحة والذخيرة ؟",
       "expected_doc_id": "BO_7415_Ar",
-      "refused": true,
-      "answer_text": "",
-      "cited_doc_ids": [],
-      "citation_doc_match": false,
-      "claimed": 0,
-      "verified": 0,
-      "citation_precision": null,
-      "elapsed_s": 54.43,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98808, Requested 7049. Please try again in 1h24m20.447999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
+      "refused": false,
+      "answer_text": "**قرار وزير الداخلية رقم 692.25 الصادر في 12 مايو 2025**  \nهو قرار يحدد نظام الترخيص بنقل عتاد وتجهيزات الدفاع، الأمن، الأسلحة والذخيرة. يستند القرار إلى المرسوم رقم 2.21.405 الصادر في 15 يوليو 2021 وتطبيق القانون رقم 10.20 المتعلق بعتاد وتجهيزات الدفاع (المادتان 38 و 39).  \n\n‑ المادة الأولى تنص على أن جميع عتاد وتجهيزات الدفاع، الأمن، الأسلحة والذخيرة المذكورة في الملاحق 1، 2 و 3 المرفقة بالمرسوم رقم 2.21.405 تخضع لترخيص النقل المنصوص عليه في المادة 39 من ذلك المرسوم.  \n\nبهذا القرار يُحدد الإطار القانوني للترخيص ويُلزِم الجهات المختصة الالتزام بالشروط المنصوص عليها لنقل هذه المعدات.",
+      "cited_doc_ids": [
+        "BO_7415_Ar"
+      ],
+      "citation_doc_match": true,
+      "claimed": 2,
+      "verified": 2,
+      "citation_precision": 1.0,
+      "elapsed_s": 26.11,
+      "error": null
     },
     {
       "id": "ar_ext_04",
@@ -745,15 +749,17 @@
       "lang": "ar",
       "query": "ما هو المرسوم الصادر في 22 أبريل 2026 الذي غير وتمم المرسوم رقم 2.14.377 الصادر في 25 أغسطس 2014 ؟",
       "expected_doc_id": "BO_7506_Ar",
-      "refused": true,
-      "answer_text": "",
-      "cited_doc_ids": [],
-      "citation_doc_match": false,
-      "claimed": 0,
-      "verified": 0,
-      "citation_precision": null,
-      "elapsed_s": 37.02,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+      "refused": false,
+      "answer_text": "المرسوم الصادر في 22 أبريل 2026 والذي قام بتغيير وتتميم المرسوم رقم 2.14.377 الصادر في 28 شوال 1435 (25 أغسطس 2014) هو **المرسوم رقم 2.26.23**، النشر في الجريدة الرسمية رقم 7506، ويتألف من 5 مواد.",
+      "cited_doc_ids": [
+        "BO_7506_Ar"
+      ],
+      "citation_doc_match": true,
+      "claimed": 1,
+      "verified": 1,
+      "citation_precision": 1.0,
+      "elapsed_s": 9.84,
+      "error": null
     },
     {
       "id": "ar_ext_05",
@@ -768,8 +774,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.3,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 51.75,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98488, Requested 7363. Please try again in 1h24m15.264s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "ar_ext_06",
@@ -784,8 +790,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.86,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 52.05,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98424, Requested 2362. Please try again in 11m19.104s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "ar_ext_07",
@@ -800,8 +806,8 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.36,
-      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
+      "elapsed_s": 49.2,
+      "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98364, Requested 2772. Please try again in 16m21.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'compound', 'code': 'rate_limit_exceeded'}}"
     },
     {
       "id": "ar_ext_08",
@@ -816,7 +822,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.3,
+      "elapsed_s": 22.14,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -832,7 +838,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.41,
+      "elapsed_s": 6.32,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -848,7 +854,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.41,
+      "elapsed_s": 6.35,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -864,7 +870,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.61,
+      "elapsed_s": 10.56,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -880,7 +886,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.61,
+      "elapsed_s": 6.66,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -914,7 +920,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.6,
+      "elapsed_s": 6.39,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -930,7 +936,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.62,
+      "elapsed_s": 6.68,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -946,7 +952,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.6,
+      "elapsed_s": 6.53,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -962,7 +968,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.62,
+      "elapsed_s": 11.67,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -978,7 +984,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.6,
+      "elapsed_s": 6.65,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -994,7 +1000,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.56,
+      "elapsed_s": 6.83,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1010,7 +1016,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.57,
+      "elapsed_s": 6.5,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1026,7 +1032,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.39,
+      "elapsed_s": 6.37,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1058,7 +1064,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.4,
+      "elapsed_s": 6.33,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1074,7 +1080,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.39,
+      "elapsed_s": 6.29,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1090,7 +1096,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.62,
+      "elapsed_s": 10.08,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1106,7 +1112,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.51,
+      "elapsed_s": 7.43,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1122,7 +1128,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.62,
+      "elapsed_s": 6.8,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1138,7 +1144,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.31,
+      "elapsed_s": 6.28,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1154,7 +1160,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.71,
+      "elapsed_s": 6.56,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1186,7 +1192,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.71,
+      "elapsed_s": 6.6,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1202,7 +1208,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.31,
+      "elapsed_s": 6.25,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1218,7 +1224,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.72,
+      "elapsed_s": 6.45,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1234,7 +1240,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.72,
+      "elapsed_s": 6.61,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1250,7 +1256,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.31,
+      "elapsed_s": 6.34,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1266,7 +1272,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.31,
+      "elapsed_s": 6.44,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1282,7 +1288,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.61,
+      "elapsed_s": 7.02,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1298,7 +1304,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.72,
+      "elapsed_s": 6.61,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1314,7 +1320,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.34,
+      "elapsed_s": 6.37,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1330,7 +1336,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 7.11,
+      "elapsed_s": 9.75,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1346,7 +1352,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.69,
+      "elapsed_s": 7.56,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1362,7 +1368,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.62,
+      "elapsed_s": 6.76,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1378,7 +1384,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.4,
+      "elapsed_s": 6.96,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1394,7 +1400,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.51,
+      "elapsed_s": 7.25,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1410,7 +1416,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.31,
+      "elapsed_s": 6.32,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     },
     {
@@ -1426,7 +1432,7 @@
       "claimed": 0,
       "verified": 0,
       "citation_precision": null,
-      "elapsed_s": 6.51,
+      "elapsed_s": 6.79,
       "error": "RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `groq/compound-mini` in organization `org_01ky4r01ege76b0mqssdn09ckn` service tier `on_demand` on requests per day (RPD): Limit 250, Used 250, Requested 1. Please try again in 5m45.6s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'requests', 'code': 'rate_limit_exceeded'}}"
     }
   ]
