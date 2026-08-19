@@ -1,0 +1,38 @@
+{
+  "categories": {
+    "Fiscal": [
+      "impôt", "taxe", "TVA", "IR", "IS", "douane", "recouvrement",
+      "exonération", "déduction", "fiscal", "contribution", "patente"
+    ],
+    "Social": [
+      "travail", "salarié", "congé", "retraite", "assurance", "maladie",
+      "accident", "chômage", "sécurité sociale", "allocations", "pension"
+    ],
+    "Administratif": [
+      "fonctionnaire", "administration", "collectivité", "territoriale",
+      "élection", "municipal", "préfecture", "province", "commune",
+      "établissement public", "agent", "décentralisation"
+    ],
+    "Civil": [
+      "contrat", "mariage", "succession", "testament", "donation",
+      "divorce", "héritage", "tutelle", "curatelle", "propriété"
+    ],
+    "Pénal": [
+      "infraction", "délit", "crime", "peine", "emprisonnement",
+      "amende", "tribunal", "cour d'assises", "procès", "enquête"
+    ],
+    "Commercial": [
+      "commerce", "société", "entreprise", "commerçant", "fonds de commerce",
+      "registre du commerce", "achat", "vente", "contractant", "fournisseur"
+    ],
+    "Environnement": [
+      "environnement", "eau", "air", "déchet", "pollution", "protection",
+      "forêt", "foret", "biodiversité", "climat", "énergie",
+      "développement durable"
+    ],
+    "Urbain": [
+      "urbanisme", "logement", "construction", "aménagement", "ville",
+      "métropole", "architecte", "permis de construire", "zoning"
+    ]
+  }
+}

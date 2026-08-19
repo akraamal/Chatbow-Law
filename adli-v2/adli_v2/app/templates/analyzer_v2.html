@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>ADLI v2 — Analyseur décret</title>
+<style>
+  :root { --accent: #1a4d8f; --bg: #f5f7fa; --card: #fff; --border: #dce3ec; }
+  * { box-sizing: border-box; }
+  body { font-family: "Segoe UI", system-ui, sans-serif; margin: 0; background: var(--bg); color: #1c2733; }
+  header { background: var(--accent); color: #fff; padding: 14px 24px; display: flex; gap: 18px; align-items: baseline; }
+  header h1 { margin: 0; font-size: 18px; }
+  header a { color: #cfe0f5; margin-left: auto; font-size: 13px; }
+  main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 16px; margin-bottom: 16px; }
+  h2 { font-size: 15px; margin: 0 0 10px; color: var(--accent); }
+  button { background: var(--accent); color: #fff; border: 0; border-radius: 6px; padding: 8px 14px; cursor: pointer; }
+  button:disabled { opacity: .5; cursor: wait; }
+  input[type=file] { margin-right: 10px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 7px 9px; border-bottom: 1px solid var(--border); }
+  th { color: #5a6b7f; font-weight: 600; }
+  tr.clickable { cursor: pointer; }
+  tr.clickable:hover { background: #eef3fa; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 700; }
+  .badge.DECRET, .badge.DECRET_LOI { background: #1a4d8f; color: #fff; }
+  .badge.LOI { background: #2e7d32; color: #fff; }
+  .badge.DAHIR { background: #8e24aa; color: #fff; }
+  .badge.ARRETE { background: #ef6c00; color: #fff; }
+  .badge.other { background: #78909c; color: #fff; }
+  .chip { display: inline-block; background: #eef3fa; border: 1px solid var(--border); border-radius: 10px; padding: 2px 8px; font-size: 11px; margin: 2px; }
+  pre { white-space: pre-wrap; font-family: inherit; font-size: 13px; background: #f8fafc; border: 1px solid var(--border); border-radius: 6px; padding: 10px; max-height: 320px; overflow: auto; }
+  #log { height: 180px; overflow-y: auto; background: #10161f; color: #b9e6a9; font-family: Consolas, monospace; font-size: 12px; padding: 10px; border-radius: 6px; white-space: pre-wrap; }
+  .muted { color: #5a6b7f; font-size: 12px; }
+  .ins-title { font-weight: 600; }
+  details { border: 1px solid var(--border); border-radius: 6px; padding: 8px 12px; margin-bottom: 8px; background: #fbfcfe; }
+  summary { cursor: pointer; }
+  .kw-head { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 6px; }
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>ADLI v2 — Analyseur centré décret</h1>
+  <span class="muted">fréquences de mots-clés · articles complets · métadonnées</span>
+  <a href="/">Chatbot (v1)</a>
+</header>
+<main>
+
+  <div class="card">
+    <h2>Traiter un Bulletin Officiel</h2>
+    <form id="uploadForm">
+      <input type="file" id="pdfFile" accept="application/pdf" required>
+      <button type="submit" id="uploadBtn">Lancer l'extraction</button>
+      <span id="status" class="muted"></span>
+    </form>
+    <div id="logWrap" class="hidden" style="margin-top:10px">
+      <div class="muted" style="margin-bottom:4px">Journal du pipeline :</div>
+      <div id="log"></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Documents traités</h2>
+    <table id="docTable">
+      <thead><tr><th>Bulletin</th><th>BO n°</th><th>Date parution</th><th>Langue</th><th>Instr.</th><th>Articles</th><th>Catégories dominantes</th></tr></thead>
+      <tbody></tbody>
+    </table>
+    <div class="muted" id="docEmpty">Aucun document traité pour l'instant.</div>
+  </div>
+
+  <div class="card hidden" id="docCard">
+    <h2 id="docTitle"></h2>
+    <div id="docMeta" class="muted"></div>
+    <h2 style="margin-top:14px">Instruments (décrets en premier)</h2>
+    <div id="docInstruments"></div>
+  </div>
+
+  <div class="card">
+    <h2>Fréquences de mots-clés (corpus)</h2>
+    <div id="kwContent"></div>
+  </div>
+
+</main>
+<script>
+"use strict";
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
+const BADGE = (t) => { const k = String(t || "").toUpperCase(); return `<span class="badge ${/DECRET/.test(k) ? k : (/LOI/.test(k) ? "LOI" : (/DAHIR/.test(k) ? "DAHIR" : (/ARRETE/.test(k) ? "ARRETE" : "other")))}">${esc(t)}</span>`; };
+const chips = (pc) => Object.entries(pc || {}).filter(([, v]) => v > 0)
+  .sort((a, b) => b[1] - a[1])
+  .map(([k, v]) => `<span class="chip">${esc(k)} : ${v}</span>`).join("") || '<span class="muted">aucun</span>';
+
+async function refreshDocuments() {
+  const r = await fetch("/documents"); const { documents } = await r.json();
+  const tb = $("docTable").querySelector("tbody");
+  tb.innerHTML = "";
+  $("docEmpty").classList.toggle("hidden", documents.length > 0);
+  for (const d of documents) {
+    const tr = document.createElement("tr"); tr.className = "clickable";
+    tr.innerHTML = `<td>${esc(d.doc_name)}</td><td>${esc(d.bo_number)}</td><td>${esc(d.date_parution)}</td>
+      <td>${esc(d.lang)}</td><td>${d.n_instruments}</td><td>${d.n_articles}</td><td>${chips(d.categories)}</td>`;
+    tr.onclick = () => openDocument(d.doc_id);
+    tb.appendChild(tr);
+  }
+}
+
+async function openDocument(docId) {
+  const r = await fetch(`/document/${encodeURIComponent(docId)}`); const d = await r.json();
+  if (d.error) { alert(d.error); return; }
+  $("docCard").classList.remove("hidden");
+  $("docTitle").textContent = `Bulletin ${d.doc_id}`;
+  const m = d.metadata || {};
+  $("docMeta").innerHTML = `BO n° <b>${esc(m.bo_number)}</b> · parution ${esc(m.date_parution)} · ${esc(m.lang)} ·
+    ${m.n_instruments} instruments · ${m.n_articles} articles` + (d.total_pdf_pages ? ` · ${d.total_pdf_pages} pages` : "");
+  const inst = document.createElement("div");
+  for (const it of d.instruments) {
+    const idx = it.article_indices || [];
+    const arts = d.articles.filter(a => idx.includes(a.index));
+    const content = arts.map(a => {
+      const p = a.pdf_page ? `<div class="muted">— page ${a.pdf_page} —</div>` : "";
+      return `${p}<div><b>${esc(a.raw_header)}</b></div><pre>${esc(a.text)}</pre>`;
+    }).join("");
+    const det = document.createElement("details");
+    det.innerHTML = `<summary>
+        ${BADGE(it.instrument_type)} <span class="ins-title">${esc(it.reference)}</span>
+        ${it.title ? `<span class="muted">— ${esc(it.title)}</span>` : ""}
+        <span class="muted">· ${it.n_articles} article(s)</span>
+        ${it.decree_date_gregorian ? `<span class="muted">· signé ${esc(it.decree_date_gregorian)}</span>` : ""}
+      </summary>
+      <div class="kw-head">${chips(it.keyword_counts && it.keyword_counts.per_category)}</div>
+      ${content}
+    `;
+    inst.appendChild(det);
+  }
+  $("docInstruments").replaceWith(inst); inst.id = "docInstruments";
+}
+
+async function refreshKeywords() {
+  const r = await fetch("/keywords"); const k = await r.json();
+  let html = `<div class="muted">${k.n_documents} document(s) traité(s)</div>`;
+  const rows = Object.entries(k.per_category || {}).map(([cat, n]) =>
+    `<tr><td>${esc(cat)}</td><td>${n}</td></tr>`).join("");
+  html += `<table><thead><tr><th>Catégorie</th><th>Occurrences</th></tr></thead><tbody>${rows}</tbody></table>`;
+  const terms = (k.top_terms || []).map(([t, n]) => `${esc(t)} (${n})`).join(" · ");
+  if (terms) html += `<p class="muted" style="margin-top:10px"><b>Termes les plus fréquents :</b> ${terms}</p>`;
+  $("kwContent").innerHTML = html;
+}
+
+$("uploadForm").onsubmit = async (e) => {
+  e.preventDefault();
+  const file = $("pdfFile").files[0]; if (!file) return;
+  const fd = new FormData(); fd.append("file", file);
+  $("uploadBtn").disabled = true; $("status").textContent = "envoi…";
+  const r = await fetch("/analyze", { method: "POST", body: fd });
+  const { task_id, error } = await r.json();
+  if (error) { $("status").textContent = error; $("uploadBtn").disabled = false; return; }
+  $("logWrap").classList.remove("hidden"); const log = $("log"); log.textContent = "";
+  $("status").textContent = "extraction en cours…";
+  const es = new EventSource(`/stream/${task_id}`);
+  es.onmessage = (ev) => { log.textContent += ev.data + "\n"; log.scrollTop = log.scrollHeight; };
+  es.addEventListener("done", (ev) => {
+    const data = JSON.parse(ev.data);
+    es.close();
+    $("uploadBtn").disabled = false;
+    $("status").textContent = data.error ? `échec : ${data.error}` : "terminé.";
+    refreshDocuments(); refreshKeywords();
+  });
+};
+
+refreshDocuments(); refreshKeywords();
+setInterval(refreshDocuments, 20000);
+</script>
+</body>
+</html>
