@@ -303,7 +303,7 @@ def _is_doc_title_match(text: str, match, lang: str = "fr") -> bool:
 # spelling doesn't cover it; needs a tolerant shape match instead. أ est
 # dans la classe [اوأ] : sans lui, la forme standard «الأولى» (hamza sur
 # l'alef) ne matcherait plus — vérifié contre les trois orthographes.
-_AR_ORDINAL_FIRST = r"ا{1,2}ل{1,2}[اوأ]{0,2}لى"   # covers الأولى / الاولى / OCR-transposed ااولى
+_AR_ORDINAL_FIRST = r"[اولأ]{2,5}لى"
 _AR_ORDINALS = (
     rf"{_AR_ORDINAL_FIRST}|"
     r"الثانية|"
@@ -332,6 +332,11 @@ ARTICLE_PATTERN_AR = re.compile(
     """,
     re.VERBOSE | re.UNICODE,
 )
+
+# Suite d'en-tête typique d'une RÉFÉRENCE CROISÉE arabe en début de ligne
+# (« المادة 2 منه؛ », « المادة 4 من القانون رقم ... ») — une citation
+# dans un préambule, pas un vrai en-tête d'article.
+_AR_XREF_RE = re.compile(r"^(?:منه|منها|اعلاه|ااعله|المشار اليه|من القانون|من المرسوم|من القرار|من الظهير|من النص)\b|^؛")
 
 def normalize_arabic_digits(text: str) -> str:
     """Convertit les chiffres arabes (٠-٩) en chiffres latins (0-9)."""
@@ -425,11 +430,31 @@ def _extract_article_number_ar(header: str) -> str:
     return header.strip()
 
 
-def _inside_guillemets(text: str, pos: int) -> bool:
-    """Check if *pos* is inside «...» (guillemet-quoted text)."""
-    before_open = text.rfind('\u00AB', 0, pos)  # «
-    before_close = text.rfind('\u00BB', 0, pos)  # »
-    return before_open > before_close
+def _inside_guillemets(text: str, pos: int, lang: str = "fr") -> bool:
+    """Check if *pos* is inside «...» (guillemet-quoted text).
+
+    The pairing rule (last « before *pos* after the last ») is only
+    reliable for the French edition.  The Arabic edition of the BO
+    typesets multi-line quoted amendment blocks with the opening «
+    repeated at the start of every line and closes with a single »
+    (verified on BO_7517_Ar: all 16 multi-line quote blocks), and the
+    closing » is sometimes lost under OCR — so the last-«-after-last-»
+    pairing would swallow the *real* article marker that follows an
+    unclosed block.  Since article markers are line-anchored and quoted
+    markers always sit on a line that itself starts with « or », the
+    robust Arabic rule is line-based: the marker is quoted iff its own
+    line starts with a guillemet (works whichever of « / » is used as
+    the per-line repetition character).
+    """
+    if lang == "ar":
+        line_start = text.rfind("\n", 0, pos) + 1
+        j = line_start
+        while j < pos and text[j] in " \t":
+            j += 1
+        return j < pos and text[j] in '\u00AB\u00BB'
+    last_ab = text.rfind('\u00AB', 0, pos)  # «
+    last_bb = text.rfind('\u00BB', 0, pos)  # »
+    return last_ab > last_bb       # « opens, » closes (French convention)
 
 
 # Marqueurs de sommaire et de section, par langue du BO.  L'édition
@@ -536,8 +561,17 @@ def _filter_article_matches(text: str, lang: str = "fr") -> list:
             if not first_word or not first_word[0].isupper():
                 continue
         # Must not be inside guillemets
-        if _inside_guillemets(text, pos):
+        if _inside_guillemets(text, pos, lang=lang):
             continue
+        if lang == "ar":
+            # Arabic has no case distinction, so the uppercase check above
+            # does not apply.  OCR line breaks put cross-references like
+            # "المادة 2 منه؛" / "المادة 4 من القانون رقم ..." at line
+            # start inside preambles (citations, not article headers):
+            # filter them by what follows the header.
+            rest = text[m.end():m.end() + 40].lstrip()
+            if _AR_XREF_RE.match(rest):
+                continue
         filtered.append(m)
     return filtered
 
@@ -707,12 +741,19 @@ def segment_into_articles_ar(text: str) -> list:
     matches = _filter_article_matches(text, lang="ar")
     articles = []
 
+    title_positions = [
+        m.start() for m in DOCUMENT_TITLE_PATTERN_AR.finditer(text)
+        if _is_doc_title_match(text, m, lang="ar")
+    ]
+
     for i, match in enumerate(matches):
         header = match.group(1)
-
         start = match.end()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-
+        next_art_start = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        next_title = next(
+            (p for p in title_positions if start < p < next_art_start), None
+        )
+        end = next_title if next_title is not None else next_art_start
         content = text[start:end].strip()
 
         articles.append(
