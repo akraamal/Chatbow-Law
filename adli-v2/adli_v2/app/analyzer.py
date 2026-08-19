@@ -237,7 +237,9 @@ def _run_pipeline_subprocess(tid: str, pdf_path: Path):
 # ── Historique des analyses (dérivé du dossier annoté v2) ─────────────
 
 def _history_entries() -> list[dict]:
-    """Analyses précédentes : une entrée par JSON annoté v2 existant."""
+    """Analyses précédentes : une entrée par JSON annoté v2 existant,
+    comptant uniquement les décrets (cœur de l'outil v2)."""
+    DECREE_TYPES = ("DECRET", "DECRET_LOI", "DECRET-LOI", "DÉCRET")
     entries = []
     for path in sorted(DEFAULT_ANNOTATED.glob("*_entities.json")):
         try:
@@ -245,13 +247,17 @@ def _history_entries() -> list[dict]:
                 data = json.load(f)
         except (json.JSONDecodeError, OSError):
             continue
+        n_decrees = sum(
+            1 for i in (data.get("instruments") or [])
+            if str(i.get("instrument_type") or "").upper() in DECREE_TYPES
+        )
         entries.append({
             "doc_id": data.get("doc_id") or path.stem,
             "result_path": str(path),
             "filename": path.stem,
             "bo_number": data.get("bo_number"),
             "date_publication": data.get("date_publication"),
-            "n_instruments": len(data.get("instruments") or []),
+            "n_instruments": n_decrees,
             "n_articles": len(data.get("articles") or []),
         })
     entries.sort(key=lambda e: str(e.get("bo_number") or ""), reverse=True)
@@ -420,10 +426,19 @@ def _count_entities(data: dict) -> dict:
 
 
 def build_response(data: dict) -> dict:
-    """Réponse frontend au format v1 (la page v1 la consomme telle quelle)."""
+    """Réponse frontend : mêmes cartes et onglets que v1, mais seuls les
+    DÉCRETS sont affichés, enrichis des métadonnées v2 (titre, date,
+    référence) et des compteurs de mots-clés (document + instrument)."""
     articles = data.get("articles", [])
     instruments = data.get("instruments", [])
     preamble_entities = data.get("preamble_entities", [])
+
+    DECREE_TYPES = ("DECRET", "DECRET_LOI", "DECRET-LOI", "DÉCRET")
+    instruments = [
+        i for i in instruments
+        if str(i.get("instrument_type") or "").upper() in DECREE_TYPES
+    ]
+
     articles_out = []
     for a in articles:
         entities = a.get("entities", [])
@@ -457,9 +472,17 @@ def build_response(data: dict) -> dict:
             "instrument_id": instr.get("instrument_id"),
             "instrument_type": instr.get("instrument_type"),
             "reference": instr.get("reference"),
+            "reference_label": instr.get("reference_label"),
+            "title": instr.get("title"),
+            "decree_date_gregorian": (
+                instr.get("decree_date_gregorian") or instr.get("date_gregorian")
+            ),
+            "decree_date_hijri": instr.get("decree_date_hijri"),
+            "signatories": instr.get("signatories_flat") or instr.get("signatories"),
             "n_articles": instr.get("n_articles"),
             "article_indices": instr.get("article_indices"),
             "articles": instr_articles,
+            "keyword_counts": instr.get("keyword_counts", {}),
             "tables": [
                 {
                     "page": t.get("page_number"),
@@ -487,18 +510,26 @@ def build_response(data: dict) -> dict:
         if e.get("start", -1) >= 0 and e.get("end", -1) >= 0
     ]
 
+    meta = data.get("metadata") or {}
     return {
         "doc_id": data.get("doc_id", ""),
         "bo_number": data.get("bo_number", ""),
-        "date_publication": data.get("date_publication", ""),
+        "bo_number_confidence": meta.get("bo_number_confidence"),
+        "date_publication": (
+            meta.get("date_parution")
+            or data.get("bo_date_publication")
+            or data.get("date_publication", "")
+        ),
+        "edition_label": meta.get("edition_label") or data.get("edition_label"),
         "n_articles": len(articles),
-        "n_instruments": len(instruments),
+        "n_instruments": len(instruments_out),
         "preamble_text": data.get("preamble_text", ""),
         "preamble_entities": preamble_out,
         "entity_counts": [
             {"label": lbl, "count": cnt, "color": get_entity_color(lbl)}
             for lbl, cnt in sorted(entity_counts.items(), key=lambda x: -x[1])
         ],
+        "keyword_counts": data.get("keyword_counts", {}),
         "instruments": instruments_out,
     }
 
@@ -539,6 +570,14 @@ def _canonical_instrument_type(i_type: str) -> str:
     }.get(n, n.title())
 
 
+def _chat_decrees(data: dict) -> list:
+    DECREE_TYPES = ("DECRET", "DECRET_LOI", "DECRET-LOI", "DÉCRET")
+    return [
+        i for i in data.get("instruments", [])
+        if str(i.get("instrument_type") or "").upper() in DECREE_TYPES
+    ]
+
+
 def _find_instrument_by_reference(data: dict, query: str) -> dict | None:
     import re
     m = re.search(r"(?:n\s*[°o]?\s*|رقم\s*)([\d٠-٩]+(?:[-.][\d٠-٩]+)+)", query)
@@ -547,7 +586,7 @@ def _find_instrument_by_reference(data: dict, query: str) -> dict | None:
     want = _digits_only(m.group(1))
     if len(want) < 3:
         return None
-    for instr in data.get("instruments", []):
+    for instr in _chat_decrees(data):
         if want == _digits_only(instr.get("reference", "")):
             return instr
     return None
@@ -557,7 +596,7 @@ def _chat_answer(data: dict, question: str) -> str:
     q = question.lower().strip()
 
     n_arts = len(data.get("articles", []))
-    n_instrs = len(data.get("instruments", []))
+    n_instrs = len(_chat_decrees(data))
     bo = data.get("bo_number", "?")
     date_pub = data.get("date_publication", "?")
 
@@ -567,8 +606,8 @@ def _chat_answer(data: dict, question: str) -> str:
             if exact:
                 return (f"L'instrument **{exact.get('instrument_type') or '?'} "
                         f"{exact.get('reference','')}** contient **{exact.get('n_articles','?')} articles**.")
-            return f"Ce document contient **{n_instrs} instruments** : " + \
-                   ", ".join(f"{i.get('instrument_type') or '?'} {i.get('reference','')}" for i in data.get("instruments", []))
+            return f"Ce document contient **{n_instrs} décrets** : " + \
+                   ", ".join(f"décret n° {i.get('reference','')}" for i in _chat_decrees(data))
         if "article" in q or "section" in q:
             return f"Ce document contient **{n_arts} articles** au total."
         if "entité" in q or "entite" in q or "entity" in q:
@@ -606,7 +645,7 @@ def _chat_answer(data: dict, question: str) -> str:
                           "principales", "récents", "récentes", "important",
                           "importante", "tous les", "toutes les")
     if asks_list or (wanted_type and any(s in q for s in importance_signals)):
-        matched = data.get("instruments", [])
+        matched = _chat_decrees(data)
         if wanted_type:
             matched = [i for i in matched
                        if _canonical_instrument_type(i.get("instrument_type")) == wanted_type]
@@ -620,8 +659,8 @@ def _chat_answer(data: dict, question: str) -> str:
             na = instr.get("n_articles", 0)
             lines.append(f"**{i}.** {typ} {ref} — {na} articles")
         if len(matched) > 8:
-            lines.append(f"… et {len(matched) - 8} autre(s) instrument(s).")
-        title = f"Instruments « {wanted_type or 'tous types'} » triés par importance (nombre d'articles) :"
+            lines.append(f"… et {len(matched) - 8} autre(s) décret(s).")
+        title = f"Décrets « {wanted_type or 'tous types'} » triés par importance (nombre d'articles) :"
         return title + "\n\n" + "\n".join(lines)
 
     if any(w in q for w in ["domaine", "sujet principal", "principalement",

@@ -23,6 +23,7 @@ SAMPLE_JSON = {
     "lang": "fr",
     "bo_number": "9999",
     "date_publication": "2026-08-01",
+    "edition_label": "Test",
     "preamble_text": "LOI n° 10-26 portant test",
     "preamble_entities": [
         {"label": "LOI", "start": 0, "end": 3, "text": "LOI"}
@@ -46,11 +47,22 @@ SAMPLE_JSON = {
     "instruments": [
         {
             "instrument_id": "inst-0",
-            "instrument_type": "LOI",
-            "reference": "10-26",
+            "instrument_type": "DECRET",
+            "reference": "2-26-100",
+            "reference_label": "décret n° 2-26-100",
+            "title": "décret portant institution d'un test",
+            "decree_date_gregorian": "2026-06-15",
             "n_articles": 2,
             "article_indices": [0, 1],
-        }
+            "keyword_counts": {"per_term": {"impôt": 1}},
+        },
+        {
+            "instrument_id": "inst-1",
+            "instrument_type": "ARRETE",
+            "reference": "3-26-1",
+            "n_articles": 1,
+            "article_indices": [0],
+        },
     ],
     "keyword_counts": {
         "per_category": {"Fiscal": 4},
@@ -74,10 +86,15 @@ def test_build_response_contract(annotated_dir):
     assert resp["bo_number"] == "9999"
     assert resp["n_articles"] == 2
     assert resp["n_instruments"] == 1
+    assert resp["date_publication"] == "2026-08-01"
+    assert resp["keyword_counts"]["per_category"]["Fiscal"] == 4
 
     inst = resp["instruments"][0]
-    assert inst["instrument_type"] == "LOI"
-    assert inst["reference"] == "10-26"
+    assert inst["instrument_type"] == "DECRET"
+    assert inst["reference"] == "2-26-100"
+    assert inst["title"] == "décret portant institution d'un test"
+    assert inst["decree_date_gregorian"] == "2026-06-15"
+    assert inst["keyword_counts"]["per_term"]["impôt"] == 1
     assert len(inst["articles"]) == 2
     assert inst["articles"][0]["number"] == "1"
     assert inst["articles"][0]["entities"][0]["label"] == "DECRET"
@@ -88,6 +105,17 @@ def test_build_response_contract(annotated_dir):
     }
     assert resp["preamble_entities"][0]["label"] == "LOI"
     assert "tables" in inst and inst["tables"] == []
+
+
+def test_build_response_filters_non_decrees(annotated_dir):
+    p = _write_sample(annotated_dir)
+    data = json.loads(p.read_text(encoding="utf-8"))
+    resp = analyzer_mod.build_response(data)
+    assert all(
+        i["instrument_type"] in ("DECRET", "DECRET_LOI")
+        for i in resp["instruments"]
+    )
+    assert resp["n_instruments"] == 1
 
 
 def test_analyses_lists_annotated_dir(annotated_dir):
@@ -135,7 +163,7 @@ def test_chat_answers_from_context(annotated_dir):
     assert "2 articles" in r.get_json()["answer"]
 
     r = client.post("/chat", json={"question": "Liste des instruments ?", "doc_id": "BO_9999_Fr"})
-    assert "LOI 10-26" in r.get_json()["answer"]
+    assert "DECRET 2-26-100" in r.get_json()["answer"]
 
 
 def test_documents_and_keywords_endpoints(annotated_dir):

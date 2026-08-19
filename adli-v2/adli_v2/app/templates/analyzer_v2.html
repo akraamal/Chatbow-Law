@@ -181,6 +181,21 @@
   .instrument-header .meta { color: var(--text-muted); font-size: 12px; }
   .instrument-body { padding: 0 16px 16px; display: none; }
   .instrument-body.open { display: block; }
+  .instrument-title { padding: 6px 16px 2px; font-size: 13px; font-style: italic; color: #003049; }
+  .instrument-date { padding: 2px 16px; font-size: 12px; color: var(--text-muted); }
+  .keyword-chips { padding: 8px 16px; display: flex; flex-wrap: wrap; gap: 6px; }
+  .keyword-chip { display: inline-block; padding: 2px 9px; border-radius: 999px; background: #e8f6ff; border: 1px solid #2c537f; color: #2c537f; font-size: 11px; font-weight: 600; }
+
+  /* ── Mots-clés ────────────────────────────────────────────── */
+  .kw-block { background: #ffffff; border: 2px solid #2c537f; border-radius: 7px; padding: 14px 18px; }
+  .kw-block-title { font-size: 13px; font-weight: 700; color: #2c537f; margin-bottom: 10px; text-transform: uppercase; letter-spacing: .05em; }
+  .kw-list { display: flex; flex-direction: column; gap: 8px; }
+  .kw-row { display: flex; align-items: center; gap: 10px; }
+  .kw-label { width: 130px; font-size: 12px; font-weight: 600; color: #001e2b; text-align: right; }
+  .kw-bar { flex: 1; height: 14px; background: #eef2f6; border-radius: 999px; overflow: hidden; }
+  .kw-fill { height: 100%; background: linear-gradient(90deg, #2c537f, #2980b9); border-radius: 999px; }
+  .kw-count { width: 40px; font-size: 12px; font-weight: 700; color: #2c537f; }
+  .kw-cloud { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 
   /* ── Article ─────────────────────────────────────────────── */
   .article-item { padding: 10px 0; border-bottom: 1px solid #c3c6d0; }
@@ -430,12 +445,14 @@
         <div class="entity-pills" id="entityPills"></div>
         <div class="preamble-box" id="preambleBox"></div>
         <div class="tabs">
-          <button class="tab-btn active" data-tab="instruments">Instruments</button>
+          <button class="tab-btn active" data-tab="instruments">D&eacute;crets</button>
           <button class="tab-btn" data-tab="articles">Articles</button>
+          <button class="tab-btn" data-tab="keywords">Mots-cl&eacute;s</button>
           <button class="tab-btn" data-tab="tables">Tableaux</button>
         </div>
         <div class="tab-content active" id="tab-instruments"></div>
         <div class="tab-content" id="tab-articles"></div>
+        <div class="tab-content" id="tab-keywords"></div>
         <div class="tab-content" id="tab-tables"></div>
       </div>
 
@@ -867,7 +884,7 @@ function renderHistory(analyses) {
         <div class="font-bold text-primary text-sm truncate">
           ${escapeHtml(a.bo_number ? 'BO n° ' + a.bo_number : 'Document')} ${a.date_publication ? '— ' + escapeHtml(a.date_publication) : ''}
         </div>
-        <div class="text-xs text-on-surface-variant truncate">${escapeHtml(a.filename || '')} · ${a.n_instruments} instruments · ${a.n_articles} articles</div>
+        <div class="text-xs text-on-surface-variant truncate">${escapeHtml(a.filename || '')} · ${a.n_instruments} décrets · ${a.n_articles} articles</div>
       </div>
       <div class="flex gap-2 flex-shrink-0">
         <button class="btn-outline history-open" data-doc="${escapeHtml(a.doc_id)}">&#x1F441; Voir</button>
@@ -916,12 +933,15 @@ function renderResults(data) {
   document.getElementById('resultTitle').textContent =
     `Résultats — BO ${data.bo_number || ''} ${data.date_publication || ''}`;
 
+  const kc = data.keyword_counts || { per_category: {}, per_term: {} };
+
   document.getElementById('statsBar').innerHTML = `
-    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.n_instruments}</div><div class="stat-label">Instruments</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.n_instruments}</div><div class="stat-label">Décrets</div></div>
     <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.n_articles}</div><div class="stat-label">Articles</div></div>
     <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
     <div class="stat-card"><div class="stat-value" style="color:#2c537f">${escapeHtml(data.bo_number || '—')}</div><div class="stat-label">BO</div></div>
     <div class="stat-card"><div class="stat-value" style="color:#2c537f">${escapeHtml(data.date_publication || '—')}</div><div class="stat-label">Date</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${Object.keys(kc.per_category || {}).length}</div><div class="stat-label">Catégories</div></div>
   `;
 
   document.getElementById('entityPills').innerHTML = data.entity_counts.map(e =>
@@ -939,17 +959,32 @@ function renderResults(data) {
   const cmap = { LOI:'#e74c3c', DAHIR:'#8e44ad', DECRET:'#2980b9', ARRETE:'#16a085',
     DECISION:'#d35400', DELIBERATION:'#c0392b', AVIS:'#95a5a6', CIRCULAIRE:'#7f8c8d' };
 
+  const isDecree = i => ['DECRET','DECRET_LOI','DÉCRET','DECRET-LOI'].includes((i.instrument_type || '').toUpperCase());
+  const decrees = data.instruments.filter(isDecree);
+  if (decrees.length !== data.instruments.length) {
+    data.instruments = decrees;
+    data.n_instruments = decrees.length;
+  }
+
   document.getElementById('tab-instruments').innerHTML = data.instruments.map(instr => {
-    const bg = cmap[instr.instrument_type] || '#6b7280';
+    const bg = cmap['DECRET'] || '#2980b9';
+    const title = instr.title || instr.reference_label || '';
+    const date = instr.decree_date_gregorian || instr.date_gregorian || '';
+    const terms = (instr.keyword_counts && instr.keyword_counts.per_term)
+      ? Object.entries(instr.keyword_counts.per_term).filter(([,c]) => c > 0).sort((a,b) => b[1] - a[1]).slice(0, 3)
+      : [];
     return `
       <div class="instrument-card">
         <div class="instrument-header">
           <div>
-            <span class="type-badge" style="background:${bg}">${escapeHtml(instr.instrument_type)}</span>
+            <span class="type-badge" style="background:${bg}">DECRET</span>
             <span class="ref">${escapeHtml(instr.reference || '—')}</span>
           </div>
           <div class="meta">${instr.n_articles} article${instr.n_articles > 1 ? 's' : ''}</div>
         </div>
+        ${title ? `<div class="instrument-title">${escapeHtml(title)}</div>` : ''}
+        ${date ? `<div class="instrument-date">&#x1F4C5; ${escapeHtml(date)}</div>` : ''}
+        ${terms.length ? `<div class="keyword-chips">${terms.map(([t,c]) => `<span class="keyword-chip">${escapeHtml(t)} · ${c}</span>`).join('')}</div>` : ''}
         <div class="instrument-body">
           ${instr.articles.map(a => `
             <div class="article-item">
@@ -984,7 +1019,7 @@ function renderResults(data) {
   }).join('');
 
   const allTables = data.instruments.flatMap(instr =>
-    instr.tables.map(t => ({ ...t, instrType: instr.instrument_type, instrRef: instr.reference }))
+    instr.tables.map(t => ({ ...t, instrType: 'DECRET', instrRef: instr.reference }))
   );
   document.getElementById('tab-tables').innerHTML = allTables.length === 0
     ? '<p style="color:#43474f;padding:20px;">Aucun tableau extrait.</p>'
@@ -1005,6 +1040,8 @@ function renderResults(data) {
       </div>
     `).join('');
 
+  renderKeywords(data);
+
   document.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -1013,6 +1050,43 @@ function renderResults(data) {
       document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
     });
   });
+}
+
+function renderKeywords(data) {
+  const kc = data.keyword_counts || { per_category: {}, per_term: {} };
+  const cats = kc.per_category || {};
+  const terms = kc.per_term || {};
+  const entries = Object.entries(cats).sort((a,b) => b[1] - a[1]);
+  const termList = Object.entries(terms).sort((a,b) => b[1] - a[1]);
+  const maxCat = Math.max(1, ...entries.map(([,c]) => c));
+  const maxTerm = Math.max(1, ...termList.map(([,c]) => c));
+
+  const catHtml = entries.length === 0
+    ? '<p style="color:#43474f;padding:20px;">Aucune catégorie de mots-clés détectée.</p>'
+    : entries.map(([cat, count]) => `
+      <div class="kw-row">
+        <div class="kw-label">${escapeHtml(cat)}</div>
+        <div class="kw-bar"><div class="kw-fill" style="width:${Math.round(count / maxCat * 100)}%"></div></div>
+        <div class="kw-count">${count}</div>
+      </div>
+    `).join('');
+
+  const termHtml = termList.length === 0
+    ? '<p style="color:#43474f;padding:20px;">Aucun terme détecté.</p>'
+    : termList.slice(0, 30).map(([term, count]) => `
+      <span class="keyword-chip" style="font-size:${10 + Math.round(count / maxTerm * 8)}px">${escapeHtml(term)} · ${count}</span>
+    `).join('');
+
+  document.getElementById('tab-keywords').innerHTML = `
+    <div class="kw-block">
+      <h3 class="kw-block-title">Occurrences par catégorie</h3>
+      <div class="kw-list">${catHtml}</div>
+    </div>
+    <div class="kw-block" style="margin-top:18px">
+      <h3 class="kw-block-title">Termes les plus fréquents</h3>
+      <div class="kw-cloud">${termHtml}</div>
+    </div>
+  `;
 }
 
 function showError(msg) {
@@ -1058,9 +1132,19 @@ function exportMarkdown() {
   if (!cachedResult) { showError('Aucun résultat à exporter.'); return; }
   const d = cachedResult;
   let md = `# Analyse BO ${d.bo_number || ''} — ${d.date_publication || ''}\n\n`;
-  md += `- **Instruments** : ${d.n_instruments}\n`;
+  md += `- **Décrets** : ${d.n_instruments}\n`;
   md += `- **Articles** : ${d.n_articles}\n`;
   md += `- **Entités** : ${d.entity_counts.reduce((s,e)=>s+e.count,0)}\n\n`;
+  const kc = d.keyword_counts || { per_category: {}, per_term: {} };
+  md += `## Mots-clés\n\n### Par catégorie\n\n`;
+  for (const [cat, count] of Object.entries(kc.per_category || {})) {
+    md += `- **${cat}** : ${count}\n`;
+  }
+  md += `\n### Termes les plus fréquents\n\n`;
+  for (const [term, count] of Object.entries(kc.per_term || {}).sort((a,b) => b[1] - a[1]).slice(0, 25)) {
+    md += `- **${term}** : ${count}\n`;
+  }
+  md += '\n';
   md += `## Entités\n\n`;
   for (const e of d.entity_counts) {
     md += `- **${e.label}** : ${e.count}\n`;
