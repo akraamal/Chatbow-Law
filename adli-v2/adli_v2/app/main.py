@@ -41,6 +41,24 @@ app.register_blueprint(chat_bp)
 app.register_blueprint(analyzer_bp)
 
 
+def _v2_index():
+    """Page d'accueil v2 : même page chat que v1, mais sans le bandeau
+    « Chargement du modèle juridique… » (le v2 ne dépend pas du chatbot)."""
+    from app.chat import chatbot_status
+
+    _, error = chatbot_status()
+    return flask.render_template(
+        "index.html",
+        setup_error=error,
+        model_loading=False,
+    )
+
+
+# Remplace la vue « / » du blueprint chat par la version v2 (le v1 reste
+# inchangé : il conserve son bandeau de chargement).
+app.view_functions["chat.index"] = _v2_index
+
+
 def _preload_chatbot():
     from app.chat import preload_chatbot
 
