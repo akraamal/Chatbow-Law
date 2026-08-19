@@ -537,12 +537,18 @@ def build_response(data: dict) -> dict:
 # ── Chatbot documentaire (règles, porté de v1 tel quel) ───────────────
 
 def _search_articles(data: dict, query: str) -> list:
-    q = query.lower()
+    q = query.lower().strip()
+    qd = _digits_only(q)
     results = []
     for a in data.get("articles", []):
         txt = a.get("text", "").lower()
         num = str(a.get("number", "")).lower()
-        if q in txt or q in num:
+        hit = (
+            (qd and len(qd) >= 3 and qd in _digits_only(txt))
+            or q in txt
+            or q in num
+        )
+        if hit:
             results.append(a)
     return results[:5]
 
@@ -579,16 +585,28 @@ def _chat_decrees(data: dict) -> list:
 
 
 def _find_instrument_by_reference(data: dict, query: str) -> dict | None:
+    """Trouve un décret par sa référence, quelle que soit la formulation :
+    « n° 2-25-439 », « 2.25.439 », « décret 2 25 439 », « رقم ٢.٢٥.٤٣٩ »,
+    « numéro 2-25-439 »...  Compare les chiffres après normalisation
+    (séparateurs . - , espaces et chiffres arabes ignorés)."""
     import re
-    m = re.search(r"(?:n\s*[°o]?\s*|رقم\s*)([\d٠-٩]+(?:[-.][\d٠-٩]+)+)", query)
-    if not m:
-        return None
-    want = _digits_only(m.group(1))
-    if len(want) < 3:
-        return None
-    for instr in _chat_decrees(data):
-        if want == _digits_only(instr.get("reference", "")):
-            return instr
+    q = _western_digits(query)
+    patterns = [
+        # avec préfixe explicite (n°, n, numéro, رقم)
+        r"(?:n\s*[°o]?\s*|num[ée]ro\s*|رقم\s*)(\d+(?:[.,\-\s]\d+){1,3})",
+        # référence multi-parties seule, n'importe où dans la question
+        r"(?<![\d.,])(\d{1,4}(?:[.,\-\s]\d{1,4}){1,3})(?![\d.,])",
+    ]
+    candidates: list[str] = []
+    for pat in patterns:
+        candidates.extend(re.findall(pat, q))
+    for cand in candidates:
+        want = _digits_only(cand)
+        if len(want) < 3:
+            continue
+        for instr in _chat_decrees(data):
+            if want == _digits_only(instr.get("reference", "")):
+                return instr
     return None
 
 
@@ -622,16 +640,31 @@ def _chat_answer(data: dict, question: str) -> str:
 
     exact = _find_instrument_by_reference(data, q)
     if exact:
+        content_intent = any(w in q for w in [
+            "contenu", "content", "résumé", "resume", "summary",
+            "que dit", "que prévoit", "what does", "what is",
+            "c'est quoi", "quoi", "dispose", "mضمون", "محتوى", "محتوي", "مضمون",
+        ])
         art_idxs = exact.get("article_indices", [])
+        n_max = min(len(art_idxs), 6) if content_intent else min(len(art_idxs), 3)
         previews = []
-        for i in art_idxs[:3]:
+        for i in art_idxs[:n_max]:
             if isinstance(i, int) and i < len(data.get("articles", [])):
                 a = data["articles"][i]
-                txt = (a.get("text") or "").strip()[:220]
+                txt = (a.get("text") or "").strip()[:300]
                 previews.append(f"**Article {a.get('number','?')}** — {txt}…")
         head = (f"**{exact.get('instrument_type') or '?'} {exact.get('reference','')}** — "
                 f"**{exact.get('n_articles','?')} articles**, BO n°{bo}.")
-        return head + ("\n\n" + "\n\n".join(previews) if previews else "")
+        title = exact.get("title") or exact.get("reference_label") or ""
+        if title and title.lower() != (f"{exact.get('reference_label') or ''}").lower():
+            head += f"\n\n*{title}*"
+        date = exact.get("decree_date_gregorian") or exact.get("date_gregorian") or ""
+        if date:
+            head += f"\n\n📅 {date}"
+        body = "\n\n".join(previews) if previews else ""
+        if content_intent and len(art_idxs) > n_max:
+            body += f"\n\n… et {len(art_idxs) - n_max} autre(s) article(s)."
+        return head + ("\n\n" + body if body else "")
 
     try:
         from src.rag.query_routing import route_query

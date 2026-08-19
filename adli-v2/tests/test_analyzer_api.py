@@ -1,4 +1,4 @@
-"""Tests de l'API analyseur v2 : contrat API identique à v1, backend v2."""
+﻿"""Tests de l'API analyseur v2 : contrat API identique à v1, backend v2."""
 
 import json
 
@@ -63,6 +63,16 @@ SAMPLE_JSON = {
             "n_articles": 1,
             "article_indices": [0],
         },
+        {
+            "instrument_id": "inst-2",
+            "instrument_type": "DECRET",
+            "reference": "2-22-1020",
+            "reference_label": "décret n° 2-22-1020",
+            "title": "décret fixant la liste des équipements",
+            "decree_date_gregorian": "2025-11-27",
+            "n_articles": 1,
+            "article_indices": [1],
+        },
     ],
     "keyword_counts": {
         "per_category": {"Fiscal": 4},
@@ -85,7 +95,7 @@ def test_build_response_contract(annotated_dir):
     assert resp["doc_id"] == "BO_9999_Fr"
     assert resp["bo_number"] == "9999"
     assert resp["n_articles"] == 2
-    assert resp["n_instruments"] == 1
+    assert resp["n_instruments"] == 2
     assert resp["date_publication"] == "2026-08-01"
     assert resp["keyword_counts"]["per_category"]["Fiscal"] == 4
 
@@ -115,7 +125,7 @@ def test_build_response_filters_non_decrees(annotated_dir):
         i["instrument_type"] in ("DECRET", "DECRET_LOI")
         for i in resp["instruments"]
     )
-    assert resp["n_instruments"] == 1
+    assert resp["n_instruments"] == 2
 
 
 def test_analyses_lists_annotated_dir(annotated_dir):
@@ -126,7 +136,7 @@ def test_analyses_lists_annotated_dir(annotated_dir):
     entries = r.get_json()["analyses"]
     assert len(entries) == 1
     assert entries[0]["doc_id"] == "BO_9999_Fr"
-    assert entries[0]["n_instruments"] == 1
+    assert entries[0]["n_instruments"] == 2
     assert entries[0]["n_articles"] == 2
 
 
@@ -137,7 +147,7 @@ def test_open_analysis_returns_v1_shape(annotated_dir):
     assert r.status_code == 200
     body = r.get_json()
     assert body["doc_id"] == "BO_9999_Fr"
-    assert body["n_instruments"] == 1
+    assert body["n_instruments"] == 2
     assert body["instruments"][0]["articles"][1]["number"] == "2"
 
 
@@ -166,6 +176,53 @@ def test_chat_answers_from_context(annotated_dir):
     assert "DECRET 2-26-100" in r.get_json()["answer"]
 
 
+def test_chat_finds_decree_any_phrasing(annotated_dir):
+    _write_sample(annotated_dir)
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+
+    cases = [
+        ("contenu de decret 2.26.100", "2-26-100"),
+        ("contenu du décret 2-26-100", "2-26-100"),
+        ("décret 2 26 100", "2-26-100"),
+        ("que dit le décret n° 2.26.100 ?", "2-26-100"),
+        ("what is the content of decree 2.26.100", "2-26-100"),
+        ("رقم ٢.٢٦.١٠٠", "2-26-100"),
+        ("numéro 2-26-100", "2-26-100"),
+        ("combien d'articles dans le décret 2.26.100 ?", "2-26-100"),
+        ("que dit le décret 2.22.1020 ?", "2-22-1020"),
+        ("décret 2.22.1020", "2-22-1020"),
+    ]
+    for question, expected in cases:
+        r = client.post("/chat", json={"question": question, "doc_id": "BO_9999_Fr"})
+        assert r.status_code == 200
+        answer = r.get_json()["answer"]
+        assert expected in answer, f"{question!r} -> {answer!r}"
+
+
+def test_chat_content_answer_has_title_and_articles(annotated_dir):
+    _write_sample(annotated_dir)
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+
+    r = client.post("/chat", json={"question": "contenu de decret 2.26.100", "doc_id": "BO_9999_Fr"})
+    answer = r.get_json()["answer"]
+    assert "portant institution d'un test" in answer
+    assert "2026-06-15" in answer
+    assert "Article 1" in answer
+    assert "Article 2" in answer
+
+
+def test_chat_search_articles_digit_insensitive(annotated_dir):
+    _write_sample(annotated_dir)
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+
+    r = client.post("/chat", json={"question": "recherche 2.26.100", "doc_id": "BO_9999_Fr"})
+    assert r.status_code == 200
+    assert "Article 1" in r.get_json()["answer"]
+
+
 def test_documents_and_keywords_endpoints(annotated_dir):
     _write_sample(annotated_dir)
     client = app.test_client()
@@ -173,7 +230,7 @@ def test_documents_and_keywords_endpoints(annotated_dir):
     r = client.get("/documents")
     docs = r.get_json()["documents"]
     assert len(docs) == 1
-    assert docs[0]["n_instruments"] == 1
+    assert docs[0]["n_instruments"] == 2
 
     r = client.get("/document/BO_9999_Fr")
     assert r.status_code == 200
