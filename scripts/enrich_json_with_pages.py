@@ -1136,7 +1136,7 @@ def _issuer_role_from_preamble(preamble: str) -> str | None:
     m = _ISSUER_ROLE_RE.search(preamble or "")
     if not m:
         return None
-    return _ISSUER_ROLE_MAP.get(m.group(1).lower())
+    return _ISSUER_ROLE_MAP.get(re.sub(r"\s+", " ", m.group(1)).lower())
 
 
 def _issuer_role_from_text(text: str) -> str | None:
@@ -1148,11 +1148,11 @@ def _issuer_role_from_text(text: str) -> str | None:
     croisée « …du chef du gouvernement… » dans une clause « Vu ».
     """
     for m in re.finditer(
-        r"(?:^|\n)[ \t]*(LE CHEF DU GOUVERNEMENT|LE PREMIER MINISTRE)"
+        r"(?:^|\n)[ \t]*(LE\s+CHEF\s+DU\s+GOUVERNEMENT|LE\s+PREMIER\s+MINISTRE)"
         r"(?:[ \t]*,)?",
         text or "",
     ):
-        return _ISSUER_ROLE_MAP.get(m.group(1).lower())
+        return _ISSUER_ROLE_MAP.get(re.sub(r"\s+", " ", m.group(1)).lower())
     return None
 
 

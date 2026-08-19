@@ -55,6 +55,8 @@ def entry_from_json(data: dict) -> list[dict]:
             "reference": instr.get("reference"),
             "title": instr.get("title") or instr.get("reference_label"),
             "decree_date_gregorian": instr.get("decree_date_gregorian"),
+            "signatories": instr.get("signatories") or [],
+            "signatories_flat": instr.get("signatories_flat") or [],
             "n_articles": instr.get("n_articles"),
             "article_indices": instr.get("article_indices"),
             "keyword_counts": instr.get("keyword_counts", {}),

@@ -55,6 +55,11 @@ SAMPLE_JSON = {
             "n_articles": 2,
             "article_indices": [0, 1],
             "keyword_counts": {"per_term": {"impôt": 1}},
+            "signatories": [
+                {"role": "Chef du Gouvernement", "name": "AZIZ AKHANNOUCH", "type": "issuer"},
+                {"role": "La ministre de l'économie et des finances", "name": "NADIA FETTAH", "type": "contreseing"},
+            ],
+            "signatories_flat": ["AZIZ AKHANNOUCH", "NADIA FETTAH"],
         },
         {
             "instrument_id": "inst-1",
@@ -72,6 +77,11 @@ SAMPLE_JSON = {
             "decree_date_gregorian": "2025-11-27",
             "n_articles": 1,
             "article_indices": [1],
+            "signatories": [
+                {"role": "Chef du Gouvernement", "name": "AZIZ AKHANNOUCH", "type": "issuer"},
+                {"role": "La ministre de l'économie et des finances", "name": "NADIA FETTAH", "type": "contreseing"},
+            ],
+            "signatories_flat": ["AZIZ AKHANNOUCH", "NADIA FETTAH"],
         },
     ],
     "keyword_counts": {
@@ -105,6 +115,9 @@ def test_build_response_contract(annotated_dir):
     assert inst["title"] == "décret portant institution d'un test"
     assert inst["decree_date_gregorian"] == "2026-06-15"
     assert inst["keyword_counts"]["per_term"]["impôt"] == 1
+    assert inst["signatories"][0]["role"] == "Chef du Gouvernement"
+    assert inst["signatories"][0]["name"] == "AZIZ AKHANNOUCH"
+    assert inst["signatories_flat"] == ["AZIZ AKHANNOUCH", "NADIA FETTAH"]
     assert len(inst["articles"]) == 2
     assert inst["articles"][0]["number"] == "1"
     assert inst["articles"][0]["entities"][0]["label"] == "DECRET"
@@ -221,6 +234,53 @@ def test_chat_search_articles_digit_insensitive(annotated_dir):
     r = client.post("/chat", json={"question": "recherche 2.26.100", "doc_id": "BO_9999_Fr"})
     assert r.status_code == 200
     assert "Article 1" in r.get_json()["answer"]
+
+
+def test_chat_who_signed_a_decree(annotated_dir):
+    _write_sample(annotated_dir)
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+
+    for question in [
+        "qui a signé le décret 2.26.100 ?",
+        "qui signe le décret 2.26.100",
+        "signataires du décret 2-26-100",
+        "signé par qui le décret 2.26.100",
+        "من وقع المرسوم 2.26.100",
+    ]:
+        r = client.post("/chat", json={"question": question, "doc_id": "BO_9999_Fr"})
+        answer = r.get_json()["answer"]
+        assert "2-26-100" in answer, f"{question!r} -> {answer!r}"
+        assert "Chef du Gouvernement" in answer
+        assert "AZIZ AKHANNOUCH" in answer
+        assert "NADIA FETTAH" in answer
+
+
+def test_chat_which_decree_a_person_signed(annotated_dir):
+    _write_sample(annotated_dir)
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+
+    for question in [
+        "qu'a signé Aziz Akhannouch ?",
+        "quel décret a signé nadia fettah",
+        "décrets signés par le chef du gouvernement",
+        "ما الذي وقع عليه عزيز أخنوش",
+    ]:
+        r = client.post("/chat", json={"question": question, "doc_id": "BO_9999_Fr"})
+        answer = r.get_json()["answer"]
+        assert "2-26-100" in answer, f"{question!r} -> {answer!r}"
+        assert "AZIZ AKHANNOUCH" in answer or "NADIA FETTAH" in answer
+
+
+def test_chat_count_signers(annotated_dir):
+    _write_sample(annotated_dir)
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+
+    r = client.post("/chat", json={"question": "combien de signataires pour le décret 2.26.100 ?", "doc_id": "BO_9999_Fr"})
+    answer = r.get_json()["answer"]
+    assert "2 personne(s)" in answer
 
 
 def test_documents_and_keywords_endpoints(annotated_dir):

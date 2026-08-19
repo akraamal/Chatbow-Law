@@ -183,6 +183,11 @@
   .instrument-body.open { display: block; }
   .instrument-title { padding: 6px 16px 2px; font-size: 13px; font-style: italic; color: #003049; }
   .instrument-date { padding: 2px 16px; font-size: 12px; color: var(--text-muted); }
+  .signers { padding: 8px 16px 2px; }
+  .signers-label { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--text-muted); margin-bottom: 4px; }
+  .signer { display: flex; align-items: baseline; gap: 8px; padding: 2px 0; font-size: 12px; }
+  .signer-role { color: #2c537f; font-weight: 600; }
+  .signer-name { color: #001e2b; font-weight: 700; letter-spacing: .02em; }
   .keyword-chips { padding: 8px 16px; display: flex; flex-wrap: wrap; gap: 6px; }
   .keyword-chip { display: inline-block; padding: 2px 9px; border-radius: 999px; background: #e8f6ff; border: 1px solid #2c537f; color: #2c537f; font-size: 11px; font-weight: 600; }
 
@@ -984,6 +989,16 @@ function renderResults(data) {
         </div>
         ${title ? `<div class="instrument-title">${escapeHtml(title)}</div>` : ''}
         ${date ? `<div class="instrument-date">&#x1F4C5; ${escapeHtml(date)}</div>` : ''}
+        ${instr.signatories && instr.signatories.length ? `
+          <div class="signers">
+            <div class="signers-label">Signataires</div>
+            ${instr.signatories.map(s => `
+              <div class="signer">
+                <span class="signer-role">${escapeHtml(s.role || 'Signataire')}</span>
+                <span class="signer-name">${escapeHtml(s.name || '')}</span>
+              </div>
+            `).join('')}
+          </div>` : ''}
         ${terms.length ? `<div class="keyword-chips">${terms.map(([t,c]) => `<span class="keyword-chip">${escapeHtml(t)} · ${c}</span>`).join('')}</div>` : ''}
         <div class="instrument-body">
           ${instr.articles.map(a => `
@@ -1156,6 +1171,12 @@ function exportMarkdown() {
   md += `## Instruments\n\n`;
   for (const instr of d.instruments) {
     md += `### ${instr.instrument_type} ${instr.reference || ''}\n`;
+    if (instr.title) md += `\n*${instr.title}*\n`;
+    if (instr.decree_date_gregorian) md += `\n- **Date** : ${instr.decree_date_gregorian}\n`;
+    if (instr.signatories && instr.signatories.length) {
+      md += `\n**Signataires :**\n`;
+      for (const s of instr.signatories) md += `- ${s.role || 'Signataire'} — ${s.name || ''}\n`;
+    }
     md += `- **${instr.n_articles} articles**\n\n`;
     for (const a of instr.articles) {
       md += `**Article ${a.number}** `;

@@ -478,7 +478,8 @@ def build_response(data: dict) -> dict:
                 instr.get("decree_date_gregorian") or instr.get("date_gregorian")
             ),
             "decree_date_hijri": instr.get("decree_date_hijri"),
-            "signatories": instr.get("signatories_flat") or instr.get("signatories"),
+            "signatories": instr.get("signatories") or [],
+            "signatories_flat": instr.get("signatories_flat") or [],
             "n_articles": instr.get("n_articles"),
             "article_indices": instr.get("article_indices"),
             "articles": instr_articles,
@@ -610,6 +611,36 @@ def _find_instrument_by_reference(data: dict, query: str) -> dict | None:
     return None
 
 
+def _normalize_name(s: str) -> str:
+    """Normalise un nom pour comparaison : minuscules, sans accents ni
+    diacritiques, espaces multiples aplatis."""
+    import unicodedata
+    s = unicodedata.normalize("NFD", str(s or "").lower())
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    return " ".join(s.split())
+
+
+def _find_signer_in_query(data: dict, query: str) -> list[str]:
+    """Noms de signataires mentionnés dans la question (normalisés).
+    « qu'a signé Aziz Rabbah ? » -> ['aziz rabbah'] ;
+    « décrets signés par le ministre de l'économie » -> ['nadia fettah', ...]."""
+    qn = _normalize_name(query)
+    matched: set[str] = set()
+    for instr in _chat_decrees(data):
+        for s in instr.get("signatories") or []:
+            nm = _normalize_name(s.get("name") or "")
+            if not nm:
+                continue
+            role_n = _normalize_name(s.get("role") or "")
+            if (
+                nm in qn
+                or any(len(t) > 3 and t in qn for t in nm.split())
+                or (role_n and len(role_n) > 6 and role_n in qn)
+            ):
+                matched.add(nm)
+    return sorted(matched)
+
+
 def _chat_answer(data: dict, question: str) -> str:
     q = question.lower().strip()
 
@@ -618,7 +649,17 @@ def _chat_answer(data: dict, question: str) -> str:
     bo = data.get("bo_number", "?")
     date_pub = data.get("date_publication", "?")
 
+    signer_intent = any(w in q for w in [
+        "signé", "signe", "signer", "signataire", "signature",
+        "signed", "signs", "signed by", "وقع", "توقيع", "موق", "بالعطف",
+    ])
+
     if any(w in q for w in ["combien", "nombre", "how many", "count", "عدد"]):
+        if signer_intent or "signataire" in q:
+            exact = _find_instrument_by_reference(data, q)
+            if exact:
+                n = len(exact.get("signatories") or [])
+                return f"Le décret **{exact.get('reference','')}** a été signé par **{n} personne(s)**."
         if "instrument" in q or "décret" in q or "dahir" in q or "loi" in q or "arrêté" in q:
             exact = _find_instrument_by_reference(data, q)
             if exact:
@@ -637,6 +678,39 @@ def _chat_answer(data: dict, question: str) -> str:
         return f"Bulletin Officiel **n° {bo}** du **{date_pub}**."
     if any(w in q for w in ["date", "publication"]):
         return f"Date de publication : **{date_pub}**."
+
+    # ── Signataires : qui signe quel décret, et quel décret une personne signe ──
+    if signer_intent or "sign" in q or "وقع" in q or "توقيع" in q:
+        exact = _find_instrument_by_reference(data, q)
+        if exact:
+            sigs = exact.get("signatories") or []
+            if not sigs:
+                return f"Le décret **{exact.get('reference','')}** n'a pas de signataire enregistré."
+            lines = [f"**{s.get('role') or 'Signataire'}** : {s.get('name')}" for s in sigs]
+            return f"Le **décret {exact.get('reference','')}** est signé par :\n\n" + "\n".join(lines)
+
+        matched = _find_signer_in_query(data, q)
+        if matched:
+            lines = []
+            for instr in _chat_decrees(data):
+                for s in instr.get("signatories") or []:
+                    if _normalize_name(s.get("name") or "") in matched:
+                        lines.append(
+                            f"**décret {instr.get('reference','')}** — {s.get('name')} ({s.get('role') or 'Signataire'})"
+                        )
+            if lines:
+                return f"Décrets signés par **{', '.join(matched)}** :\n\n" + "\n".join(lines)
+
+        all_sigs = []
+        for instr in _chat_decrees(data):
+            for s in instr.get("signatories") or []:
+                all_sigs.append((instr.get("reference"), s))
+        if all_sigs:
+            lines = [
+                f"**décret {ref}** — {s.get('name')} ({s.get('role') or 'Signataire'})"
+                for ref, s in all_sigs
+            ]
+            return f"Signataires des décrets de ce document :\n\n" + "\n".join(lines)
 
     exact = _find_instrument_by_reference(data, q)
     if exact:
