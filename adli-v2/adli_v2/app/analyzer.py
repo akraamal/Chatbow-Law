@@ -1,17 +1,17 @@
 """
 adli_v2.app.analyzer
 --------------------
-Analyseur v2 centré décret — routes Flask.
+Analyseur v2 — portage fidèle de l'analyseur v1 (même page, mêmes contrats
+API : /upload, /stream, /cancel, /result, /analyses, /open-analysis,
+/chat), adossé au pipeline v2 (adli_v2.scripts.run_extraction, données
+dans adli-v2/data/).
 
-Upload d'un PDF du Bulletin Officiel → pipeline v2 en arrière-plan
-(adli_v2.scripts.run_extraction, sous-processus) avec logs streamés en
-SSE, puis :
-  /documents          liste des documents traités (métadonnées) ;
-  /document/<doc_id>  vue décret-first : instruments triés (décrets en
-                      premier), articles COMPLETS, compteurs de mots-clés ;
-  /keywords           fréquences agrégées de mots-clés sur le corpus.
+Les instruments y sont affichés EXACTEMENT comme en v1 (badges de type,
+cartes repliables, articles complets surlignés, onglets Instruments /
+Articles / Tableaux).  S'ajoutent en API (non utilisées par la page, pour
+rester identique à v1) : /documents, /document/<doc_id>, /keywords.
 
-Interface : adli_v2/app/templates/analyzer_v2.html
+Interface : adli_v2/app/templates/analyzer_v2.html (= copie de la v1).
 """
 
 from __future__ import annotations
@@ -32,7 +32,6 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
-from adli_v2.catalog import TYPE_RANK  # noqa: E402
 from adli_v2.pipeline import DEFAULT_ANNOTATED, DEFAULT_UPLOADS  # noqa: E402
 
 analyzer_bp = Blueprint("analyzer_v2", __name__, template_folder="templates")
@@ -40,16 +39,49 @@ analyzer_bp = Blueprint("analyzer_v2", __name__, template_folder="templates")
 # ── Store de tâches (mémoire) ──────────────────────────────────────────
 _tasks: dict[str, dict] = {}
 _tasks_lock = threading.Lock()
+
+# Chat contexts: doc_id -> result data (kept after task cleanup)
+_chat_contexts: dict[str, dict] = {}
+_chat_lock = threading.Lock()
+
 _MAX_CONCURRENT_PIPELINES = 2
 _pipeline_slots = threading.Semaphore(_MAX_CONCURRENT_PIPELINES)
+
+_TASK_TTL_SECONDS = 2 * 3600
+_CHAT_CONTEXT_TTL_SECONDS = 24 * 3600
+_JANITOR_INTERVAL_SECONDS = 300
+
+
+def _janitor_loop():
+    while True:
+        time.sleep(_JANITOR_INTERVAL_SECONDS)
+        now = time.time()
+        with _tasks_lock:
+            for tid in list(_tasks):
+                t = _tasks[tid]
+                if now - t["created_at"] > _TASK_TTL_SECONDS:
+                    del _tasks[tid]
+        with _chat_lock:
+            for doc_id in list(_chat_contexts):
+                if now - _chat_contexts[doc_id].get("_created_at", 0) > _CHAT_CONTEXT_TTL_SECONDS:
+                    del _chat_contexts[doc_id]
+
+
+threading.Thread(target=_janitor_loop, daemon=True).start()
 
 
 def _new_task(filename: str = "") -> str:
     tid = uuid.uuid4().hex[:12]
     with _tasks_lock:
         _tasks[tid] = {
-            "filename": filename, "logs": [], "done": False,
-            "error": None, "result": [], "cancelled": False,
+            "logs": [],
+            "done": False,
+            "error": None,
+            "result_path": None,
+            "cancel": False,
+            "proc": None,
+            "filename": filename,
+            "created_at": time.time(),
         }
     return tid
 
@@ -60,88 +92,170 @@ def _append_log(tid: str, line: str):
             _tasks[tid]["logs"].append(line)
 
 
-def _set_done(tid: str, result: list[str] | None = None, error: str | None = None):
+def _set_done(tid: str, result_path: Path | None = None, error: str | None = None):
     with _tasks_lock:
         if tid in _tasks:
             _tasks[tid]["done"] = True
             _tasks[tid]["error"] = error
-            if result is not None:
-                _tasks[tid]["result"] = result
+            if result_path:
+                _tasks[tid]["result_path"] = str(result_path)
+
+
+def _task_cancelled(tid: str) -> bool:
+    with _tasks_lock:
+        return bool(_tasks.get(tid, {}).get("cancel"))
+
+
+def _cancel_task(tid: str) -> bool:
+    with _tasks_lock:
+        task = _tasks.get(tid)
+        if not task or task.get("done"):
+            return False
+        task["cancel"] = True
+        proc = task.get("proc")
+    if proc and proc.poll() is None:
+        _append_log(tid, "  Interruption demandée — arrêt du pipeline...")
+        try:
+            proc.terminate()
+        except Exception:
+            pass
+    return True
+
+
+# ── Palette de couleurs des entités (identique à v1) ───────────────────
+
+ENTITY_COLORS = {
+    "LOI":               "#e74c3c",
+    "DAHIR":             "#8e44ad",
+    "DECRET":            "#2980b9",
+    "ARRETE":            "#16a085",
+    "DECISION":          "#d35400",
+    "DELIBERATION":      "#c0392b",
+    "CIRCULAIRE":        "#7f8c8d",
+    "AVIS":              "#95a5a6",
+    "MINISTERE":         "#f39c12",
+    "DATE_HIJRI":        "#2c3e50",
+    "DATE_GREGORIAN":    "#34495e",
+    "VILLE":             "#1abc9c",
+    "BULLETIN_OFFICIEL": "#e67e22",
+}
+
+
+def get_entity_color(label: str) -> str:
+    return ENTITY_COLORS.get(label, "#95a5a6")
 
 
 def _looks_like_pdf(f) -> bool:
-    head = f.read(5)
-    f.seek(0)
-    return head.startswith(b"%PDF")
+    try:
+        f.stream.seek(0)
+        head = f.stream.read(5)
+        f.stream.seek(0)
+        return head == b"%PDF-"
+    except Exception:
+        return False
 
+
+# ── Exécution du pipeline v2 en arrière-plan ──────────────────────────
 
 def _run_pipeline_task(tid: str, pdf_path: Path):
-    with _pipeline_slots:
-        if _tasks.get(tid, {}).get("cancelled"):
-            _set_done(tid, error="Annulé")
+    _append_log(tid, f"  Fichier : {pdf_path.name}")
+    _append_log(tid, "  Lancement du pipeline...")
+    _append_log(tid, "")
+
+    if not _pipeline_slots.acquire(timeout=0):
+        _append_log(tid, f"  Limite de {_MAX_CONCURRENT_PIPELINES} pipelines simultanés atteinte — file d'attente...")
+        _pipeline_slots.acquire()
+
+    try:
+        if _task_cancelled(tid):
+            _append_log(tid, "  Analyse annulée avant démarrage.")
+            _set_done(tid, error="Analyse interrompue par l'utilisateur")
             return
-        env = dict(os.environ)
-        env["PYTHONIOENCODING"] = "utf-8"
-        proc = subprocess.Popen(
-            [sys.executable, "-u", "-m", "adli_v2.scripts.run_extraction",
-             "--file", str(pdf_path)],
-            stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-            cwd=str(REPO_ROOT), env=env, text=True,
-        )
-        assert proc.stdout is not None
-        for raw in proc.stdout:
-            line = raw.rstrip("\n")
-            if line.strip():
-                _append_log(tid, line)
-        proc.wait()
-        if proc.returncode != 0:
-            _set_done(tid, error=f"Pipeline terminé avec le code {proc.returncode}")
-        else:
-            produced = sorted(DEFAULT_ANNOTATED.glob("*_entities.json"))
-            _set_done(tid, result=[p.name for p in produced])
+        _run_pipeline_subprocess(tid, pdf_path)
+    finally:
+        _pipeline_slots.release()
 
 
-# ── Helpers de lecture des documents v2 ────────────────────────────────
+def _run_pipeline_subprocess(tid: str, pdf_path: Path):
+    child_env = os.environ.copy()
+    child_env["PYTHONUNBUFFERED"] = "1"
+    child_env["PYTHONIOENCODING"] = "utf-8"
+    child_env["PYTHONPATH"] = str(REPO_ROOT / "adli-v2")
 
-
-def _annotated_files() -> list[Path]:
-    return sorted(DEFAULT_ANNOTATED.glob("*_entities.json"))
-
-
-def _load_doc(doc_id: str) -> dict | None:
-    path = DEFAULT_ANNOTATED / f"{doc_id}.json"
-    if not path.exists():
-        path = DEFAULT_ANNOTATED / f"{doc_id}_entities.json"
-    if not path.exists():
-        return None
-    with open(path, encoding="utf-8") as f:
-        return json.load(f)
-
-
-def _instruments_sorted(data: dict) -> list[dict]:
-    instruments = data.get("instruments") or []
-    return sorted(
-        instruments,
-        key=lambda i: (
-            TYPE_RANK.get(str(i.get("instrument_type") or "").upper(), 10),
-            str(i.get("reference") or ""),
-        ),
+    proc = subprocess.Popen(
+        [sys.executable, "-u", "-m", "adli_v2.scripts.run_extraction",
+         "--file", str(pdf_path)],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+        cwd=str(REPO_ROOT),
+        env=child_env,
     )
+    with _tasks_lock:
+        if tid in _tasks:
+            _tasks[tid]["proc"] = proc
+
+    for raw_line in proc.stdout:
+        line = raw_line.rstrip("\n\r")
+        if line:
+            _append_log(tid, line)
+        if _task_cancelled(tid):
+            _append_log(tid, "  ⚠ Analyse interrompue par l'utilisateur.")
+            try:
+                proc.terminate()
+            except Exception:
+                pass
+            break
+
+    proc.wait()
+
+    try:
+        if pdf_path.exists():
+            pdf_path.unlink()
+    except Exception:
+        pass
+
+    if _task_cancelled(tid):
+        _set_done(tid, error="Analyse interrompue par l'utilisateur")
+        return
+
+    if proc.returncode != 0:
+        _set_done(tid, error=f"Pipeline échoué (code {proc.returncode})")
+        return
+
+    stem = pdf_path.stem
+    candidates = list(DEFAULT_ANNOTATED.glob(f"*{stem}*entities*"))
+    if not candidates:
+        _set_done(tid, error="Fichier de résultat introuvable")
+        return
+
+    _set_done(tid, result_path=candidates[0])
 
 
-def _doc_summary(data: dict) -> dict:
-    meta = data.get("metadata") or {}
-    kc = data.get("keyword_counts") or {}
-    return {
-        "doc_id": data.get("doc_id"),
-        "doc_name": meta.get("doc_name"),
-        "lang": data.get("lang"),
-        "bo_number": meta.get("bo_number"),
-        "date_parution": meta.get("date_parution"),
-        "n_articles": meta.get("n_articles"),
-        "n_instruments": meta.get("n_instruments"),
-        "categories": kc.get("per_category", {}),
-    }
+# ── Historique des analyses (dérivé du dossier annoté v2) ─────────────
+
+def _history_entries() -> list[dict]:
+    """Analyses précédentes : une entrée par JSON annoté v2 existant."""
+    entries = []
+    for path in sorted(DEFAULT_ANNOTATED.glob("*_entities.json")):
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            continue
+        entries.append({
+            "doc_id": data.get("doc_id") or path.stem,
+            "result_path": str(path),
+            "filename": path.stem,
+            "bo_number": data.get("bo_number"),
+            "date_publication": data.get("date_publication"),
+            "n_instruments": len(data.get("instruments") or []),
+            "n_articles": len(data.get("articles") or []),
+        })
+    entries.sort(key=lambda e: str(e.get("bo_number") or ""), reverse=True)
+    return entries
 
 
 # ── Routes ─────────────────────────────────────────────────────────────
@@ -152,112 +266,469 @@ def index():
     return flask.render_template("analyzer_v2.html")
 
 
-@analyzer_bp.route("/analyze", methods=["POST"])
+@analyzer_bp.route("/upload", methods=["POST"])
 def upload():
     if "file" not in flask.request.files:
         return {"error": "Aucun fichier fourni"}, 400
+
     pdf_file = flask.request.files["file"]
     if not pdf_file.filename.lower().endswith(".pdf"):
         return {"error": "Le fichier doit être un PDF"}, 400
     if not _looks_like_pdf(pdf_file):
-        return {"error": "Le fichier n'est pas un PDF valide"}, 400
+        return {"error": "Le fichier n'est pas un PDF valide (extension trompeuse ?)"}, 400
 
     stem = Path(pdf_file.filename).stem.replace(" ", "_")
     unique_id = uuid.uuid4().hex[:8]
-    target = DEFAULT_UPLOADS / f"{stem}_{unique_id}.pdf"
-    target.parent.mkdir(parents=True, exist_ok=True)
-    pdf_file.save(str(target))
+    tmp_pdf = DEFAULT_UPLOADS / f"{stem}_{unique_id}.pdf"
+    tmp_pdf.parent.mkdir(parents=True, exist_ok=True)
+    pdf_file.save(str(tmp_pdf))
 
     tid = _new_task(filename=pdf_file.filename)
-    threading.Thread(target=_run_pipeline_task, args=(tid, target), daemon=True).start()
+    threading.Thread(target=_run_pipeline_task, args=(tid, tmp_pdf), daemon=True).start()
     return flask.jsonify({"task_id": tid})
+
+
+@analyzer_bp.route("/cancel/<task_id>", methods=["POST"])
+def cancel(task_id: str):
+    if not _cancel_task(task_id):
+        return {"ok": False, "error": "Tâche introuvable ou déjà terminée"}, 404
+    return {"ok": True}
+
+
+@analyzer_bp.route("/analyses")
+def analyses():
+    return flask.jsonify({"analyses": _history_entries()})
+
+
+@analyzer_bp.route("/open-analysis/<doc_id>")
+def open_analysis(doc_id: str):
+    for entry in _history_entries():
+        if entry.get("doc_id") != doc_id:
+            continue
+        result_path = entry.get("result_path")
+        if not result_path or not Path(result_path).exists():
+            return {"error": "Résultat de l'analyse introuvable"}, 404
+        with open(result_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        data["_created_at"] = time.time()
+        with _chat_lock:
+            _chat_contexts[doc_id] = data
+        return flask.jsonify(build_response(data))
+    return {"error": "Analyse introuvable dans l'historique"}, 404
 
 
 @analyzer_bp.route("/stream/<task_id>")
 def stream(task_id: str):
+    """SSE : lignes de logs en temps réel, puis événement done/error."""
+
     def generate():
-        last = 0
+        task = _tasks.get(task_id)
+        if not task:
+            yield "event: error\ndata: Tâche introuvable\n\n"
+            return
+
+        last_idx = 0
+        last_sent = time.time()
+        HEARTBEAT_INTERVAL = 10
         while True:
             with _tasks_lock:
-                task = _tasks.get(task_id)
-                if task is None:
-                    yield "event: done\ndata: {\"error\": \"tâche inconnue\"}\n\n"
-                    return
-                new_lines = task["logs"][last:]
-                done, error, result = task["done"], task["error"], task["result"]
-            for line in new_lines:
-                yield f"data: {json.dumps(line, ensure_ascii=False)}\n\n"
-            last += len(new_lines)
+                current_logs = list(task["logs"])
+                done = task["done"]
+                err = task["error"]
+
+            while last_idx < len(current_logs):
+                line = current_logs[last_idx]
+                yield f"data: {line}\n\n"
+                last_idx += 1
+                last_sent = time.time()
+
             if done:
-                payload = {"done": True, "error": error, "result": result}
-                yield f"event: done\ndata: {json.dumps(payload, ensure_ascii=False)}\n\n"
-                return
-            time.sleep(0.5)
+                if err:
+                    yield f"event: error\ndata: {err}\n\n"
+                else:
+                    yield "event: done\ndata: done\n\n"
+                break
 
-    return flask.Response(generate(), mimetype="text/event-stream")
+            if time.time() - last_sent > HEARTBEAT_INTERVAL:
+                yield ": keepalive\n\n"
+                last_sent = time.time()
+
+            time.sleep(0.15)
+
+    return flask.Response(
+        generate(),
+        mimetype="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "X-Accel-Buffering": "no",
+        },
+    )
 
 
-@analyzer_bp.route("/analysis/<task_id>")
-def analysis(task_id: str):
-    with _tasks_lock:
-        task = _tasks.get(task_id)
-    if task is None:
-        return {"error": "tâche inconnue"}, 404
+@analyzer_bp.route("/result/<task_id>")
+def result(task_id: str):
+    task = _tasks.get(task_id)
+    if not task:
+        return {"error": "Tâche introuvable"}, 404
+    if not task["done"]:
+        return {"error": "Tâche pas encore terminée"}, 425
+    if task["error"]:
+        return {"error": task["error"]}, 500
+
+    result_path = task.get("result_path")
+    if not result_path or not Path(result_path).exists():
+        return {"error": "Résultat introuvable"}, 500
+
+    with open(result_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    doc_id = data.get("doc_id", "")
+    if doc_id:
+        data["_created_at"] = time.time()
+        with _chat_lock:
+            _chat_contexts[doc_id] = data
+
+    return flask.jsonify(build_response(data))
+
+
+@analyzer_bp.route("/health")
+def health():
+    return {"ok": True}
+
+
+# ── Construction de la réponse frontend (identique à v1) ──────────────
+
+
+def _count_entities(data: dict) -> dict:
+    """Compte les entités : articles + préambule du document + préambules
+    par décret (titres d'instruments)."""
+    counts: dict[str, int] = {}
+
+    def _add(ents) -> None:
+        for e in ents:
+            lbl = e.get("label", "")
+            if lbl:
+                counts[lbl] = counts.get(lbl, 0) + 1
+
+    for a in data.get("articles", []):
+        _add(a.get("entities", []))
+    _add(data.get("preamble_entities", []))
+    for dec in data.get("decrees", []):
+        _add(dec.get("entities", []))
+
+    return counts
+
+
+def build_response(data: dict) -> dict:
+    """Réponse frontend au format v1 (la page v1 la consomme telle quelle)."""
+    articles = data.get("articles", [])
+    instruments = data.get("instruments", [])
+    preamble_entities = data.get("preamble_entities", [])
+    articles_out = []
+    for a in articles:
+        entities = a.get("entities", [])
+        article_text = a.get("text", "")
+        articles_out.append({
+            "number": a.get("number", ""),
+            "text": article_text,
+            "pdf_page": a.get("pdf_page"),
+            "printed_page": a.get("printed_page"),
+            "entities": [
+                {
+                    "start": e["start"],
+                    "end": e["end"],
+                    "label": e["label"],
+                    "text": e.get("text", ""),
+                    "color": get_entity_color(e["label"]),
+                }
+                for e in entities
+                if e.get("start", -1) >= 0 and e.get("end", -1) >= 0
+            ],
+        })
+
+    instruments_out = []
+    for instr in instruments:
+        instr_articles = [
+            articles_out[i] for i in instr.get("article_indices", [])
+            if i < len(articles_out)
+        ]
+        tables = instr.get("extracted_tables", [])
+        instruments_out.append({
+            "instrument_id": instr.get("instrument_id"),
+            "instrument_type": instr.get("instrument_type"),
+            "reference": instr.get("reference"),
+            "n_articles": instr.get("n_articles"),
+            "article_indices": instr.get("article_indices"),
+            "articles": instr_articles,
+            "tables": [
+                {
+                    "page": t.get("page_number"),
+                    "n_rows": t.get("n_rows"),
+                    "n_cols": t.get("n_cols"),
+                    "headers": t.get("rows", [[]])[0] if t.get("rows") else [],
+                    "data": t.get("rows", [])[1:] if t.get("rows") else [],
+                }
+                for t in tables
+            ],
+        })
+
+    entity_counts = _count_entities(data)
+
+    preamble_text = data.get("preamble_text", "")
+    preamble_out = [
+        {
+            "start": e["start"],
+            "end": e["end"],
+            "label": e["label"],
+            "text": e.get("text", ""),
+            "color": get_entity_color(e["label"]),
+        }
+        for e in preamble_entities
+        if e.get("start", -1) >= 0 and e.get("end", -1) >= 0
+    ]
+
     return {
-        "done": task["done"], "error": task["error"], "result": task["result"],
+        "doc_id": data.get("doc_id", ""),
+        "bo_number": data.get("bo_number", ""),
+        "date_publication": data.get("date_publication", ""),
+        "n_articles": len(articles),
+        "n_instruments": len(instruments),
+        "preamble_text": data.get("preamble_text", ""),
+        "preamble_entities": preamble_out,
+        "entity_counts": [
+            {"label": lbl, "count": cnt, "color": get_entity_color(lbl)}
+            for lbl, cnt in sorted(entity_counts.items(), key=lambda x: -x[1])
+        ],
+        "instruments": instruments_out,
     }
+
+
+# ── Chatbot documentaire (règles, porté de v1 tel quel) ───────────────
+
+def _search_articles(data: dict, query: str) -> list:
+    q = query.lower()
+    results = []
+    for a in data.get("articles", []):
+        txt = a.get("text", "").lower()
+        num = str(a.get("number", "")).lower()
+        if q in txt or q in num:
+            results.append(a)
+    return results[:5]
+
+
+def _western_digits(s: str) -> str:
+    return str(s).translate(str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789"))
+
+
+def _digits_only(s: str) -> str:
+    return "".join(c for c in _western_digits(s) if c.isdigit())
+
+
+def _canonical_instrument_type(i_type: str) -> str:
+    if not i_type:
+        return ""
+    import unicodedata
+    n = "".join(
+        c for c in unicodedata.normalize("NFD", i_type.lower())
+        if unicodedata.category(c) != "Mn"
+    )
+    return {
+        "dahir": "Dahir", "loi": "Loi", "decret": "Décret",
+        "arrete": "Arrêté", "decision": "Décision", "avis": "Avis",
+        "instruction": "Instruction", "ordonnance": "Ordonnance",
+    }.get(n, n.title())
+
+
+def _find_instrument_by_reference(data: dict, query: str) -> dict | None:
+    import re
+    m = re.search(r"(?:n\s*[°o]?\s*|رقم\s*)([\d٠-٩]+(?:[-.][\d٠-٩]+)+)", query)
+    if not m:
+        return None
+    want = _digits_only(m.group(1))
+    if len(want) < 3:
+        return None
+    for instr in data.get("instruments", []):
+        if want == _digits_only(instr.get("reference", "")):
+            return instr
+    return None
+
+
+def _chat_answer(data: dict, question: str) -> str:
+    q = question.lower().strip()
+
+    n_arts = len(data.get("articles", []))
+    n_instrs = len(data.get("instruments", []))
+    bo = data.get("bo_number", "?")
+    date_pub = data.get("date_publication", "?")
+
+    if any(w in q for w in ["combien", "nombre", "how many", "count", "عدد"]):
+        if "instrument" in q or "décret" in q or "dahir" in q or "loi" in q or "arrêté" in q:
+            exact = _find_instrument_by_reference(data, q)
+            if exact:
+                return (f"L'instrument **{exact.get('instrument_type') or '?'} "
+                        f"{exact.get('reference','')}** contient **{exact.get('n_articles','?')} articles**.")
+            return f"Ce document contient **{n_instrs} instruments** : " + \
+                   ", ".join(f"{i.get('instrument_type') or '?'} {i.get('reference','')}" for i in data.get("instruments", []))
+        if "article" in q or "section" in q:
+            return f"Ce document contient **{n_arts} articles** au total."
+        if "entité" in q or "entite" in q or "entity" in q:
+            counts = _count_entities(data)
+            parts = [f"{lbl} : {c}" for lbl, c in sorted(counts.items(), key=lambda x: -x[1])]
+            return f"Répartition des entités :\n" + "\n".join(parts)
+
+    if any(w in q for w in ["bo numéro", "numero bo", "bulletin", "bo n"]):
+        return f"Bulletin Officiel **n° {bo}** du **{date_pub}**."
+    if any(w in q for w in ["date", "publication"]):
+        return f"Date de publication : **{date_pub}**."
+
+    exact = _find_instrument_by_reference(data, q)
+    if exact:
+        art_idxs = exact.get("article_indices", [])
+        previews = []
+        for i in art_idxs[:3]:
+            if isinstance(i, int) and i < len(data.get("articles", [])):
+                a = data["articles"][i]
+                txt = (a.get("text") or "").strip()[:220]
+                previews.append(f"**Article {a.get('number','?')}** — {txt}…")
+        head = (f"**{exact.get('instrument_type') or '?'} {exact.get('reference','')}** — "
+                f"**{exact.get('n_articles','?')} articles**, BO n°{bo}.")
+        return head + ("\n\n" + "\n\n".join(previews) if previews else "")
+
+    try:
+        from src.rag.query_routing import route_query
+        wanted_type = route_query(question).get("type")
+    except Exception:
+        wanted_type = None
+    asks_list = any(w in q for w in ["liste", "list", "quels sont", "quelles sont",
+                                     "lister", "énumérer", "enumere", "recense"])
+    importance_signals = ("plus importants", "plus importantes", "importants",
+                          "importantes", "majeurs", "majeures", "principaux",
+                          "principales", "récents", "récentes", "important",
+                          "importante", "tous les", "toutes les")
+    if asks_list or (wanted_type and any(s in q for s in importance_signals)):
+        matched = data.get("instruments", [])
+        if wanted_type:
+            matched = [i for i in matched
+                       if _canonical_instrument_type(i.get("instrument_type")) == wanted_type]
+        if not matched:
+            return f"Aucun instrument de type « {wanted_type or '?'} » trouvé dans ce document."
+        matched = sorted(matched, key=lambda i: -(i.get("n_articles") or 0))
+        lines = []
+        for i, instr in enumerate(matched[:8], 1):
+            ref = instr.get("reference", "")
+            typ = instr.get("instrument_type") or "?"
+            na = instr.get("n_articles", 0)
+            lines.append(f"**{i}.** {typ} {ref} — {na} articles")
+        if len(matched) > 8:
+            lines.append(f"… et {len(matched) - 8} autre(s) instrument(s).")
+        title = f"Instruments « {wanted_type or 'tous types'} » triés par importance (nombre d'articles) :"
+        return title + "\n\n" + "\n".join(lines)
+
+    if any(w in q for w in ["domaine", "sujet principal", "principalement",
+                            "thème", "thèmes", "themes", "matière traité"]):
+        try:
+            from src.classification.keyword_classifier import classify_text_with_scores
+            text = " ".join((a.get("text") or "") for a in data.get("articles", []))[:80000]
+            if len(text.strip()) < 50:
+                return "Texte insuffisant pour classifier le domaine de ce document."
+            scores = classify_text_with_scores(text, lang=data.get("lang", "fr")) or {}
+            top = sorted(scores.items(), key=lambda kv: -kv[1])[:3]
+            if not top or top[0][1] <= 0:
+                return "Aucun domaine dominant détecté dans ce document."
+            lines = [f"**{d}** : {c} occurrence(s)" for d, c in top]
+            return f"Domaine(s) principal(aux) de ce document :\n\n" + "\n".join(lines)
+        except Exception:
+            pass
+
+    import re
+    m = re.search(r"(?:article|art[. ]*)[ ]*(\d+)", q)
+    if m:
+        art_num = m.group(1)
+        for a in data.get("articles", []):
+            if a.get("number") == art_num:
+                txt = a.get("text", "").strip()
+                preview = txt[:600] + "…" if len(txt) > 600 else txt
+                return f"**Article {art_num}** (page {a.get('pdf_page','?')}) :\n\n{preview}"
+        return f"Article **{art_num}** introuvable dans ce document."
+
+    if len(q) > 3:
+        hits = _search_articles(data, q)
+        if hits:
+            lines = [f"**Article {a.get('number','?')}** — {a.get('text','')[:200]}…" for a in hits]
+            return f"Résultats pour « {question} » :\n\n" + "\n".join(lines)
+
+    return f"Je n'ai pas trouvé de réponse à « {question} ».\n\n" \
+           "Essayez :\n- « Combien d'articles ? »\n- « Liste des décrets »\n" \
+           "- « Les lois les plus importantes »\n- « Quel est le domaine principal ? »\n" \
+           "- « Article 5 »\n- « Recherche [mot-clé] »\n- « décret n° 2-25-1080 »\n" \
+           "- « BO numéro ? »"
+
+
+@analyzer_bp.route("/chat", methods=["POST"])
+def chat():
+    body = flask.request.get_json(silent=True) or {}
+    question = (body.get("question") or "").strip()
+    doc_id = (body.get("doc_id") or "").strip()
+
+    if not question:
+        return flask.jsonify({"answer": "Veuillez poser une question."})
+
+    with _chat_lock:
+        data = _chat_contexts.get(doc_id)
+
+    if not data:
+        return flask.jsonify({"answer": "Aucun document analysé en mémoire. Lancez d'abord une analyse."})
+
+    answer = _chat_answer(data, question)
+    return flask.jsonify({"answer": answer})
+
+
+# ── API v2 (complémentaire, non utilisée par la page) ─────────────────
 
 
 @analyzer_bp.route("/documents")
 def documents():
     docs = []
-    for path in _annotated_files():
-        try:
-            with open(path, encoding="utf-8") as f:
-                data = json.load(f)
-        except (json.JSONDecodeError, OSError):
-            continue
-        docs.append(_doc_summary(data))
-    docs.sort(key=lambda d: str(d.get("bo_number") or ""), reverse=True)
+    for entry in _history_entries():
+        docs.append({
+            "doc_id": entry["doc_id"],
+            "doc_name": entry["filename"],
+            "bo_number": entry["bo_number"],
+            "date_parution": entry["date_publication"],
+            "n_instruments": entry["n_instruments"],
+            "n_articles": entry["n_articles"],
+        })
     return flask.jsonify({"documents": docs})
 
 
 @analyzer_bp.route("/document/<doc_id>")
 def document(doc_id: str):
-    data = _load_doc(doc_id)
-    if data is None:
+    path = DEFAULT_ANNOTATED / f"{doc_id}.json"
+    if not path.exists():
+        path = DEFAULT_ANNOTATED / f"{doc_id}_entities.json"
+    if not path.exists():
         return {"error": f"document inconnu : {doc_id}"}, 404
-    instruments = _instruments_sorted(data)
-    # Articles complets, indexés par position, avec leur page PDF.
-    articles = []
-    for i, art in enumerate(data.get("articles") or []):
-        articles.append({
-            "index": i,
-            "number": art.get("number"),
-            "raw_header": art.get("raw_header"),
-            "pdf_page": art.get("pdf_page"),
-            "text": art.get("text"),
-        })
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
     return flask.jsonify({
         "doc_id": data.get("doc_id"),
         "lang": data.get("lang"),
         "metadata": data.get("metadata"),
         "keyword_counts": data.get("keyword_counts", {}),
-        "instruments": instruments,
-        "articles": articles,
-        "total_pdf_pages": data.get("total_pdf_pages"),
+        "instruments": data.get("instruments", []),
+        "n_instruments": len(data.get("instruments") or []),
+        "n_articles": len(data.get("articles") or []),
     })
 
 
 @analyzer_bp.route("/keywords")
 def keywords():
-    """Fréquences agrégées de mots-clés sur tous les documents traités."""
     per_category: dict[str, int] = {}
     per_term: dict[str, int] = {}
     n_docs = 0
-    for path in _annotated_files():
+    for entry in _history_entries():
         try:
-            with open(path, encoding="utf-8") as f:
+            with open(entry["result_path"], encoding="utf-8") as f:
                 data = json.load(f)
         except (json.JSONDecodeError, OSError):
             continue

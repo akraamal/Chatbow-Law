@@ -76,12 +76,14 @@ def process_pdf(
         rpc.process_single_pdf(pdf_path, enrich=False)
 
         results = []
+        print("\n  ÉTAPE 4 — Enrichissement (instruments + pages)")
         for json_path in sorted(annotated_dir.glob("*_entities.json")):
             enrich_json(
                 json_path,
                 pdf_dir=uploads_dir,
                 classify_domain=classify_domain,
             )
+            print("\n  ÉTAPE 5 — Compteurs (mots-clés + métadonnées)")
             post_enrich(json_path)
             results.append(json_path)
         return results

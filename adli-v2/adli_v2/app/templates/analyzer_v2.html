@@ -1,174 +1,1209 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html class="light" lang="fr">
 <head>
-<meta charset="utf-8">
-<title>ADLI v2 — Analyseur décret</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Analyseur BO - ADLI MOROCCO</title>
+<script src="{{ url_for('static', filename='js/tailwind.js') }}"></script>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;600;700&amp;family=Cairo:wght@400;600;700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<script id="tailwind-config">
+    tailwind.config = {
+        darkMode: "class",
+        theme: {
+            extend: {
+                "colors": {
+                    "primary-container": "#466b99", "on-secondary-container": "#475f7f",
+                    "inverse-primary": "#a4c9fc", "on-error-container": "#93000a",
+                    "error": "#ba1a1a", "surface-tint": "#3b608d", "primary": "#2c537f",
+                    "secondary": "#486080", "on-surface": "#001e2b", "on-error": "#ffffff",
+                    "on-primary-fixed": "#001c38", "outline-variant": "#c3c6d0",
+                    "secondary-container": "#c1d9ff", "outline": "#737780",
+                    "surface-container-highest": "#c1e8ff", "primary-fixed-dim": "#a4c9fc",
+                    "on-secondary-fixed": "#001c39", "secondary-fixed-dim": "#b0c8ed",
+                    "primary-fixed": "#d3e4ff", "background": "#f4faff",
+                    "tertiary-fixed": "#c1e8ff", "surface-container-lowest": "#ffffff",
+                    "on-tertiary-container": "#d1edff", "on-primary-container": "#dfeaff",
+                    "on-secondary": "#ffffff", "tertiary": "#005774",
+                    "on-secondary-fixed-variant": "#304867", "secondary-fixed": "#d3e3ff",
+                    "on-tertiary-fixed": "#001e2b", "on-tertiary": "#ffffff",
+                    "on-primary-fixed-variant": "#204874", "inverse-on-surface": "#e2f3ff",
+                    "surface-variant": "#c1e8ff", "surface-dim": "#b8e0f7",
+                    "on-background": "#001e2b", "inverse-surface": "#053547",
+                    "surface": "#f4faff", "tertiary-fixed-dim": "#74d1ff",
+                    "tertiary-container": "#007196", "surface-bright": "#f4faff",
+                    "error-container": "#ffdad6", "surface-container": "#dbf1ff",
+                    "on-surface-variant": "#43474f", "surface-container-low": "#e8f6ff",
+                    "on-primary": "#ffffff", "surface-container-high": "#ceedff",
+                    "on-tertiary-fixed-variant": "#004d67", "teal-accent": "#178AB4",
+                    "panel-header": "#D9DCD9"
+                },
+                "borderRadius": {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "pill": "7px", "button": "7px", "input": "0px", "full": "9999px"},
+                "spacing": {"container-max": "1200px", "unit": "4px", "gutter": "24px", "margin-mobile": "16px", "margin-desktop": "64px"},
+                "fontFamily": {
+                    "display-lg": ["Archivo Narrow"], "label-md": ["Cairo"], "body-lg": ["Archivo Narrow"],
+                    "headline-md": ["Archivo Narrow"], "body-md": ["Archivo Narrow"], "arabic-body": ["Cairo"],
+                    "mono": ["ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", "monospace"]
+                }
+            }
+        }
+    }
+</script>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 <style>
-  :root { --accent: #1a4d8f; --bg: #f5f7fa; --card: #fff; --border: #dce3ec; }
-  * { box-sizing: border-box; }
-  body { font-family: "Segoe UI", system-ui, sans-serif; margin: 0; background: var(--bg); color: #1c2733; }
-  header { background: var(--accent); color: #fff; padding: 14px 24px; display: flex; gap: 18px; align-items: baseline; }
-  header h1 { margin: 0; font-size: 18px; }
-  header a { color: #cfe0f5; margin-left: auto; font-size: 13px; }
-  main { max-width: 1200px; margin: 20px auto; padding: 0 16px; }
-  .card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 16px; margin-bottom: 16px; }
-  h2 { font-size: 15px; margin: 0 0 10px; color: var(--accent); }
-  button { background: var(--accent); color: #fff; border: 0; border-radius: 6px; padding: 8px 14px; cursor: pointer; }
-  button:disabled { opacity: .5; cursor: wait; }
-  input[type=file] { margin-right: 10px; }
-  table { width: 100%; border-collapse: collapse; font-size: 13px; }
-  th, td { text-align: left; padding: 7px 9px; border-bottom: 1px solid var(--border); }
-  th { color: #5a6b7f; font-weight: 600; }
-  tr.clickable { cursor: pointer; }
-  tr.clickable:hover { background: #eef3fa; }
-  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 700; }
-  .badge.DECRET, .badge.DECRET_LOI { background: #1a4d8f; color: #fff; }
-  .badge.LOI { background: #2e7d32; color: #fff; }
-  .badge.DAHIR { background: #8e24aa; color: #fff; }
-  .badge.ARRETE { background: #ef6c00; color: #fff; }
-  .badge.other { background: #78909c; color: #fff; }
-  .chip { display: inline-block; background: #eef3fa; border: 1px solid var(--border); border-radius: 10px; padding: 2px 8px; font-size: 11px; margin: 2px; }
-  pre { white-space: pre-wrap; font-family: inherit; font-size: 13px; background: #f8fafc; border: 1px solid var(--border); border-radius: 6px; padding: 10px; max-height: 320px; overflow: auto; }
-  #log { height: 180px; overflow-y: auto; background: #10161f; color: #b9e6a9; font-family: Consolas, monospace; font-size: 12px; padding: 10px; border-radius: 6px; white-space: pre-wrap; }
-  .muted { color: #5a6b7f; font-size: 12px; }
-  .ins-title { font-weight: 600; }
-  details { border: 1px solid var(--border); border-radius: 6px; padding: 8px 12px; margin-bottom: 8px; background: #fbfcfe; }
-  summary { cursor: pointer; }
-  .kw-head { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 6px; }
-  .hidden { display: none; }
+  :root {
+    --bg: #f4faff;
+    --surface: #ffffff;
+    --surface-2: #e8f6ff;
+    --border: #c3c6d0;
+    --text: #001e2b;
+    --text-muted: #43474f;
+    --accent: #2c537f;
+    --accent-hover: #466b99;
+    --radius: 8px;
+    --green: #1b7f3a;
+    --orange: #b25e00;
+    --red: #ba1a1a;
+    --font-mono: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
+  }
+
+  .terminal-scroll::-webkit-scrollbar { width: 8px; }
+  .terminal-scroll::-webkit-scrollbar-track { background: #001e2b; }
+  .terminal-scroll::-webkit-scrollbar-thumb { background: #486080; border-radius: 4px; }
+  .chat-scrollbar::-webkit-scrollbar { width: 6px; }
+  .chat-scrollbar::-webkit-scrollbar-track { background: transparent; }
+  .chat-scrollbar::-webkit-scrollbar-thumb { background: #c3c6d0; border-radius: 10px; }
+
+  .brutal-border { border: 2px solid #2c537f; }
+
+  /* ── Upload zone ─────────────────────────────────────────── */
+  .upload-zone {
+    background: #ffffff;
+    border: 2px dashed #2c537f;
+    border-radius: var(--radius);
+    padding: 56px 24px;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color .2s, background .2s, padding .3s;
+    position: relative;
+  }
+  .upload-zone:hover, .upload-zone.dragover { border-color: #178AB4; background: #e8f6ff; }
+  .upload-zone.hidden { display: none; }
+  .upload-zone input[type="file"] { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+  .upload-zone h2 { font-size: 18px; font-weight: 600; color: #2c537f; margin-bottom: 6px; }
+  .upload-zone p { color: var(--text-muted); font-size: 14px; }
+
+  /* ── Pipeline views ──────────────────────────────────────── */
+  .pipeline-view { display: none; }
+  .pipeline-view.active { display: block; }
+  .results { display: none; }
+  .results.active { display: block; }
+
+  /* ── Stepper ─────────────────────────────────────────────── */
+  .step { transition: opacity .2s; }
+  .step .step-num {
+    width: 32px; height: 32px; border-radius: 9999px;
+    background: #ffffff; color: #737780;
+    border: 2px solid #c3c6d0;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 14px;
+    transition: all .3s;
+  }
+  .step .step-label { font-size: 13px; color: #737780; font-weight: 400; transition: all .3s; }
+  .step .step-time { font-size: 10px; color: #737780; font-variant-numeric: tabular-nums; }
+  .step.active .step-num { background: #ffffff; color: #005774; border-color: #005774; box-shadow: 0 0 0 4px rgba(0,87,116,.15); }
+  .step.active .step-label { color: #005774; font-weight: 700; }
+  .step.active .step-time { color: #005774; }
+  .step.done .step-num { background: #2c537f; border-color: #2c537f; color: #ffffff; }
+  .step.done .step-label { color: #2c537f; font-weight: 600; }
+  .step.done .step-time { color: #1b7f3a; }
+
+  /* ── Terminal console ────────────────────────────────────── */
+  .terminal-body .line {
+    white-space: pre-wrap; word-break: break-all; min-height: 1.25em;
+    color: #c1c6d0;
+  }
+  .terminal-body .line .t-time { color: #737780; }
+  .terminal-body .line .t-level { font-weight: 600; }
+  .terminal-body .line.etape { color: #a4c9fc; }
+  .terminal-body .line.etape .t-level { color: #a4c9fc; }
+  .terminal-body .line.ok { color: #4ade80; }
+  .terminal-body .line.ok .t-level { color: #4ade80; }
+  .terminal-body .line.warn { color: #fbbf24; }
+  .terminal-body .line.warn .t-level { color: #fbbf24; }
+  .terminal-body .line.err { color: #f87171; }
+  .terminal-body .line.err .t-level { color: #f87171; }
+  .terminal-body .line.sep { color: #486080; opacity: 0.5; }
+
+  /* ── Progress stats ──────────────────────────────────────── */
+  .progress-info { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+  .progress-stat { background: #e8f6ff; border: 1px solid #c3c6d0; border-radius: 7px; padding: 6px 12px; text-align: center; min-width: 90px; }
+  .progress-stat .ps-value { font-size: 15px; font-weight: 700; color: #2c537f; }
+  .progress-stat .ps-label { font-size: 10px; color: var(--text-muted); margin-top: 2px; text-transform: uppercase; letter-spacing: .04em; }
+
+  /* ── Buttons ─────────────────────────────────────────────── */
+  .btn-outline {
+    background: transparent; border: 2px solid #2c537f; color: #2c537f;
+    padding: 6px 14px; border-radius: 7px; cursor: pointer; font-size: 13px;
+    font-weight: 600; transition: .15s;
+  }
+  .btn-outline:hover { background: #2c537f; color: #ffffff; }
+
+  /* ── Stats bar ───────────────────────────────────────────── */
+  .stats-bar { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px; }
+  .stat-card { background: #ffffff; border: 2px solid #2c537f; border-radius: 7px; padding: 14px 18px; flex: 1; min-width: 120px; }
+  .stat-card .stat-value { font-size: 24px; font-weight: 700; }
+  .stat-card .stat-label { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+  /* ── Entity pills ────────────────────────────────────────── */
+  .entity-pills { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; }
+  .entity-pill { display: inline-flex; align-items: center; gap: 5px; padding: 4px 12px; border-radius: 999px; font-size: 12px; font-weight: 600; color: #fff; }
+
+  /* ── Preamble ────────────────────────────────────────────── */
+  .preamble-box { background: #ffffff; border: 2px solid #2c537f; border-radius: 7px; padding: 14px 18px; margin-bottom: 20px; }
+  .preamble-box h3 { font-size: 13px; font-weight: 600; margin-bottom: 8px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .05em; }
+  .preamble-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #001e2b; }
+
+  /* ── Tabs ────────────────────────────────────────────────── */
+  .tabs { display: flex; gap: 2px; background: #d9dcd9; border: 2px solid #2c537f; border-radius: 7px; padding: 3px; margin-bottom: 16px; }
+  .tab-btn { flex: 1; padding: 8px 16px; border: none; background: transparent; font-size: 13px; font-weight: 600; cursor: pointer; border-radius: 6px; color: #2c537f; white-space: nowrap; transition: .15s; }
+  .tab-btn:hover { color: var(--text); }
+  .tab-btn.active { background: #2c537f; color: #ffffff; }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  /* ── Instrument cards ────────────────────────────────────── */
+  .instrument-card { background: #ffffff; border: 2px solid #2c537f; border-radius: 7px; margin-bottom: 12px; overflow: hidden; }
+  .instrument-header { padding: 12px 16px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; background: #f4faff; }
+  .instrument-header:hover { background: #e8f6ff; }
+  .instrument-header .type-badge { display: inline-block; padding: 3px 10px; border-radius: 4px; font-size: 11px; font-weight: 700; color: #fff; margin-right: 8px; }
+  .instrument-header .ref { font-weight: 700; font-size: 14px; }
+  .instrument-header .meta { color: var(--text-muted); font-size: 12px; }
+  .instrument-body { padding: 0 16px 16px; display: none; }
+  .instrument-body.open { display: block; }
+
+  /* ── Article ─────────────────────────────────────────────── */
+  .article-item { padding: 10px 0; border-bottom: 1px solid #c3c6d0; }
+  .article-item:last-child { border-bottom: none; }
+  .article-number { font-weight: 700; font-size: 12px; color: #2c537f; margin-bottom: 3px; }
+  .article-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #001e2b; }
+  .article-text em { font-style: normal; padding: 1px 4px; border-radius: 3px; color: #fff; }
+  .article-meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
+
+  /* ── Table ───────────────────────────────────────────────── */
+  .table-wrap { overflow-x: auto; margin-top: 10px; }
+  .table-wrap table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  .table-wrap th, .table-wrap td { border: 1px solid #c3c6d0; padding: 5px 8px; text-align: left; white-space: nowrap; min-width: 70px; }
+  .table-wrap th { background: #e8f6ff; font-weight: 700; position: sticky; top: 0; }
+
+  /* ── Error ───────────────────────────────────────────────── */
+  .error-box { background: #ffdad6; border: 2px solid #ba1a1a; border-radius: 7px; padding: 14px 18px; color: #93000a; font-weight: 600; margin-bottom: 16px; display: none; font-size: 14px; }
+
+  /* ── Chat flottant ───────────────────────────────────────── */
+  .chat-toggle {
+    position: fixed; bottom: 24px; right: 24px; z-index: 1000;
+    width: 56px; height: 56px; border-radius: 9999px;
+    background: #2c537f; color: #fff; border: 2px solid #2c537f;
+    font-size: 24px; cursor: pointer; box-shadow: 0 4px 16px rgba(0,0,0,.25);
+    transition: transform .2s, background .2s;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .chat-toggle:hover { transform: scale(1.08); background: #466b99; }
+  .chat-toggle.active { background: #ba1a1a; border-color: #ba1a1a; transform: rotate(45deg); }
+  .chat-panel {
+    position: fixed; bottom: 92px; right: 24px; z-index: 999;
+    width: 400px; max-height: 560px; background: #ffffff;
+    border: 2px solid #2c537f; border-radius: 7px;
+    box-shadow: 0 8px 32px rgba(0,0,0,.25);
+    display: none; flex-direction: column; overflow: hidden;
+    font-size: 13px;
+  }
+  .chat-panel.open { display: flex; }
+  .chat-header { padding: 12px 14px; background: #d9dcd9; border-bottom: 2px solid #2c537f; font-weight: 700; font-size: 14px; color: #001e2b; display: flex; align-items: center; justify-content: space-between; }
+  .chat-header .chat-status { font-size: 11px; font-weight: 400; color: #43474f; }
+  .chat-messages { flex: 1; overflow-y: auto; padding: 10px 12px; max-height: 380px; min-height: 120px; display: flex; flex-direction: column; gap: 8px; }
+  .chat-msg { max-width: 85%; padding: 8px 12px; border-radius: 7px; line-height: 1.5; white-space: pre-wrap; word-break: break-word; }
+  .chat-msg.user { background: #2c537f; color: #ffffff; align-self: flex-end; }
+  .chat-msg.bot { background: #e8f6ff; color: #001e2b; align-self: flex-start; }
+  .chat-msg.bot strong { color: #2c537f; }
+  .chat-input-area { display: flex; border-top: 2px solid #2c537f; padding: 8px; gap: 6px; }
+  .chat-input-area input { flex: 1; background: #f4faff; border: 1px solid #c3c6d0; border-radius: 6px; padding: 8px 10px; color: #001e2b; font-size: 13px; outline: none; }
+  .chat-input-area input:focus { border-color: #2c537f; }
+  .chat-input-area button { background: #2c537f; color: #fff; border: none; border-radius: 6px; padding: 8px 14px; cursor: pointer; font-size: 13px; font-weight: 600; }
+  .chat-input-area button:hover { background: #466b99; }
+  .chat-input-area button:disabled { opacity: .5; cursor: default; }
+  .chat-welcome { color: #43474f; text-align: center; padding: 20px 10px; font-size: 12px; line-height: 1.6; }
+
+  @media (max-width: 768px) {
+    .stat-card { min-width: 80px; }
+    .step .step-label { font-size: 11px; }
+    .chat-panel { width: calc(100% - 32px); right: 16px; bottom: 80px; max-height: 480px; }
+    .chat-toggle { bottom: 16px; right: 16px; width: 48px; height: 48px; font-size: 20px; }
+  }
 </style>
 </head>
-<body>
-<header>
-  <h1>ADLI v2 — Analyseur centré décret</h1>
-  <span class="muted">fréquences de mots-clés · articles complets · métadonnées</span>
-  <a href="/">Chatbot (v1)</a>
-</header>
-<main>
+<body class="bg-background text-on-background font-body-md min-h-screen flex flex-col md:flex-row overflow-hidden administrative-pattern">
 
-  <div class="card">
-    <h2>Traiter un Bulletin Officiel</h2>
-    <form id="uploadForm">
-      <input type="file" id="pdfFile" accept="application/pdf" required>
-      <button type="submit" id="uploadBtn">Lancer l'extraction</button>
-      <span id="status" class="muted"></span>
-    </form>
-    <div id="logWrap" class="hidden" style="margin-top:10px">
-      <div class="muted" style="margin-bottom:4px">Journal du pipeline :</div>
-      <div id="log"></div>
+<!-- SideNavBar -->
+<nav class="hidden md:flex flex-col h-screen w-64 fixed left-0 top-0 border-r-2 border-primary bg-surface-container-low p-gutter z-20">
+  <div class="mb-8 flex items-center gap-4">
+    <div class="w-10 h-10 bg-primary-container rounded-lg flex items-center justify-center text-white">
+      <span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">gavel</span>
+    </div>
+    <div>
+      <h1 class="font-headline-md text-headline-md text-primary font-bold leading-tight">Portail Légal</h1>
+      <p class="font-label-md text-label-md text-on-surface-variant uppercase text-xs tracking-wider">Souveraineté Numérique</p>
     </div>
   </div>
-
-  <div class="card">
-    <h2>Documents traités</h2>
-    <table id="docTable">
-      <thead><tr><th>Bulletin</th><th>BO n°</th><th>Date parution</th><th>Langue</th><th>Instr.</th><th>Articles</th><th>Catégories dominantes</th></tr></thead>
-      <tbody></tbody>
-    </table>
-    <div class="muted" id="docEmpty">Aucun document traité pour l'instant.</div>
+  <div class="flex flex-col gap-2 flex-grow">
+    <a class="flex items-center gap-3 px-4 py-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all font-body-md" href="/">
+      <span class="material-symbols-outlined">chat_bubble</span>
+      Chat
+    </a>
+    <a class="flex items-center gap-3 px-4 py-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all font-body-md quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
+      <span class="material-symbols-outlined">history</span>
+      Chat historique
+    </a>
+    <a class="flex items-center gap-3 px-4 py-3 bg-primary-container text-on-primary-container font-bold rounded-lg transition-all translate-x-1 font-body-md border border-primary" href="/analyzer">
+      <span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">gavel</span>
+      Analyses
+    </a>
+    <a class="flex items-center gap-3 px-4 py-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all font-body-md quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
+      <span class="material-symbols-outlined">settings</span>
+      Paramètres
+    </a>
   </div>
-
-  <div class="card hidden" id="docCard">
-    <h2 id="docTitle"></h2>
-    <div id="docMeta" class="muted"></div>
-    <h2 style="margin-top:14px">Instruments (décrets en premier)</h2>
-    <div id="docInstruments"></div>
+  <div class="mt-auto">
+    <button class="w-full py-3 bg-primary text-on-primary rounded-button font-label-md text-label-md uppercase hover:bg-primary-container transition-colors shadow-sm flex items-center justify-center gap-2" onclick="resetToUpload()">
+      <span class="material-symbols-outlined">add</span>
+      Nouvelle analyse
+    </button>
   </div>
+</nav>
 
-  <div class="card">
-    <h2>Fréquences de mots-clés (corpus)</h2>
-    <div id="kwContent"></div>
+<!-- Main Content Area -->
+<div class="flex-1 flex flex-col md:ml-64 h-screen relative z-10">
+
+  <!-- TopNavBar -->
+  <header class="flex justify-between items-center w-full px-margin-mobile md:px-margin-desktop py-4 bg-surface-container-lowest border-b-2 border-primary sticky top-0 z-30">
+    <span class="font-display-lg text-headline-md text-primary uppercase tracking-tight font-extrabold">ADLI MOROCCO</span>
+    <div class="flex items-center gap-4">
+      <div class="relative hidden sm:block">
+        <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-outline">search</span>
+        <input class="pl-10 pr-4 py-2 bg-surface-container border-2 border-primary rounded-input focus:outline-none focus:border-tertiary font-body-md text-on-surface w-64 placeholder-outline transition-colors" placeholder="Rechercher un texte..." type="text">
+      </div>
+      <button class="font-label-md text-label-md font-bold text-primary hover:text-tertiary transition-colors uppercase">ARABIC</button>
+      <button class="text-primary hover:text-tertiary transition-colors">
+        <span class="material-symbols-outlined">account_balance</span>
+      </button>
+      <button class="text-primary hover:text-tertiary transition-colors">
+        <span class="material-symbols-outlined">settings</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Canvas -->
+  <main class="flex-1 overflow-y-auto p-4 md:p-gutter flex justify-center">
+    <div class="w-full max-w-container-max flex flex-col gap-6">
+
+        <!-- Header Actions -->
+        <div class="flex flex-wrap justify-between items-center gap-4 bg-surface-container-lowest p-4 border border-primary">
+          <div class="flex items-center gap-3">
+            <span class="material-symbols-outlined text-primary text-3xl">analytics</span>
+            <div>
+              <h2 class="font-headline-md text-headline-md text-primary font-bold">Analyseur BO</h2>
+              <p class="font-body-md text-sm text-on-surface-variant">NLP juridique marocain &middot; Temps r&eacute;el</p>
+            </div>
+          </div>
+          <a href="/" class="flex items-center gap-2 px-4 py-2 bg-surface-container-high text-primary border border-primary rounded-button font-label-md hover:bg-surface-variant transition-colors uppercase text-sm">
+            <span class="material-symbols-outlined text-sm">arrow_back</span>
+            Retour aux analyses
+          </a>
+        </div>
+
+        <!-- Analyses précédentes -->
+        <div class="bg-surface-container-lowest border border-primary p-4">
+          <div class="flex items-center justify-between mb-4">
+            <h3 class="font-label-md text-label-md text-primary uppercase border-b border-outline-variant pb-2 flex items-center gap-2">
+              <span class="material-symbols-outlined text-sm">history</span>
+              Analyses pr&eacute;c&eacute;dentes
+            </h3>
+            <button class="btn-outline" onclick="loadHistory()" title="Actualiser la liste">&#x21BB; Actualiser</button>
+          </div>
+          <div id="historyList">
+            <p class="text-sm text-on-surface-variant">Chargement des analyses...</p>
+          </div>
+        </div>
+
+      <!-- Upload -->
+      <div class="upload-zone" id="uploadZone">
+        <input type="file" accept=".pdf" id="fileInput">
+        <span class="material-symbols-outlined text-primary" style="font-size:56px;display:inline-block;margin-bottom:12px">description</span>
+        <h2>D&eacute;posez un Bulletin Officiel (PDF)</h2>
+        <p>ou cliquez pour parcourir &mdash; pipeline complet visible en direct</p>
+      </div>
+
+      <!-- Pipeline View (live) -->
+      <div class="pipeline-view" id="pipelineView">
+
+        <!-- Stepper -->
+        <div class="bg-surface-container-lowest border border-primary p-6 mb-4">
+          <h3 class="font-label-md text-label-md text-primary uppercase mb-6 border-b border-outline-variant pb-2">État du traitement</h3>
+          <div class="flex items-start justify-between relative">
+            <div class="absolute left-0 top-4 w-full h-1 bg-surface-container-high z-0"></div>
+            <div class="absolute left-0 top-4 h-1 bg-primary z-0 transition-all duration-700" id="progressLine" style="width:0%"></div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="1">
+              <div class="step-num" data-num="1">1</div>
+              <span class="step-label">Ingestion &amp; OCR</span>
+              <span class="step-time" id="time1"></span>
+            </div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="2">
+              <div class="step-num" data-num="2">2</div>
+              <span class="step-label">Nettoyage</span>
+              <span class="step-time" id="time2"></span>
+            </div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="3">
+              <div class="step-num" data-num="3">3</div>
+              <span class="step-label">Extraction NLP</span>
+              <span class="step-time" id="time3"></span>
+            </div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="4">
+              <div class="step-num" data-num="4">4</div>
+              <span class="step-label">Enrichissement</span>
+              <span class="step-time" id="time4"></span>
+            </div>
+            <div class="step flex flex-col items-center gap-2 relative z-10" data-step="5">
+              <div class="step-num" data-num="5">5</div>
+              <span class="step-label">Tables</span>
+              <span class="step-time" id="time5"></span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Actions + Progress -->
+        <div class="flex flex-wrap gap-2 items-center justify-between mb-4">
+          <div class="flex gap-2">
+            <button class="btn-outline" onclick="resetToUpload()">&#x25C0; Nouvelle analyse</button>
+            <button class="btn-outline" id="btnBackToResults" onclick="showResultsView()" style="display:none">&#x25B6; R&eacute;sultats</button>
+            <button class="btn-outline" id="cancelBtn" onclick="cancelTask()" style="display:none;border-color:#ba1a1a;color:#ba1a1a" title="Interrompre l'analyse en cours">
+              <span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px">stop_circle</span>
+              Interrompre
+            </button>
+          </div>
+          <div class="progress-info" id="progressInfo"></div>
+        </div>
+
+        <!-- Terminal Console -->
+        <div class="bg-on-background border border-primary flex flex-col shadow-lg">
+          <div class="bg-[#d9dcd9] px-4 py-2 flex justify-between items-center border-b border-primary">
+            <div class="flex items-center gap-2">
+              <span class="material-symbols-outlined text-on-surface-variant text-sm">terminal</span>
+              <span class="font-body-md text-sm font-semibold text-on-surface">Pipeline output</span>
+            </div>
+            <span class="font-mono text-xs text-on-surface-variant" id="lineCount">0 lines</span>
+          </div>
+          <div class="terminal-body terminal-scroll p-4 font-mono text-xs md:text-sm leading-relaxed h-96 overflow-y-auto bg-[#0a1118]" id="terminalBody"></div>
+        </div>
+      </div>
+
+      <!-- Error -->
+      <div class="error-box" id="errorBox"></div>
+
+      <!-- Results -->
+      <div class="results" id="results">
+        <div class="flex flex-wrap items-center justify-between gap-3 mb-5">
+          <h2 class="font-headline-md text-headline-md text-primary font-bold" id="resultTitle">R&eacute;sultats</h2>
+          <div class="flex gap-2 items-center flex-wrap">
+            <button class="btn-outline" onclick="showPipelineView()">&#x25B6; Voir le pipeline</button>
+            <button class="btn-outline" onclick="resetToUpload()">&#x1F4C1; Nouvelle analyse</button>
+            <div class="relative">
+              <button class="btn-outline" id="exportBtn" onclick="toggleExportMenu()">&#x2B07; Exporter</button>
+              <div id="exportMenu" style="display:none;position:absolute;right:0;top:100%;margin-top:4px;background:#ffffff;border:2px solid #2c537f;border-radius:7px;overflow:hidden;z-index:100;min-width:140px;box-shadow:0 4px 16px rgba(0,0,0,.2)">
+                <div onclick="exportJSON()" class="export-item" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px">&#x1F4CB; JSON</div>
+                <div onclick="exportMarkdown()" class="export-item" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px">&#x1F4DD; Markdown</div>
+                <div onclick="exportPDF()" class="export-item" style="padding:8px 14px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:8px">&#x1F4C4; PDF</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="stats-bar" id="statsBar"></div>
+        <div class="entity-pills" id="entityPills"></div>
+        <div class="preamble-box" id="preambleBox"></div>
+        <div class="tabs">
+          <button class="tab-btn active" data-tab="instruments">Instruments</button>
+          <button class="tab-btn" data-tab="articles">Articles</button>
+          <button class="tab-btn" data-tab="tables">Tableaux</button>
+        </div>
+        <div class="tab-content active" id="tab-instruments"></div>
+        <div class="tab-content" id="tab-articles"></div>
+        <div class="tab-content" id="tab-tables"></div>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="bg-surface-container-highest border-t border-outline-variant px-4 py-3 text-center">
+    <p class="font-label-md text-label-md text-on-surface-variant">© 2026 Royaume du Maroc - Secrétariat Général du Gouvernement</p>
+  </footer>
+</div>
+
+<!-- Chat toggle button -->
+<button class="chat-toggle" id="chatToggle" onclick="toggleChat()" title="Chat">💬</button>
+
+<!-- Chat panel -->
+<div class="chat-panel" id="chatPanel">
+  <div class="chat-header">
+    <span>🤖 Assistant BO</span>
+    <span class="chat-status" id="chatStatus">Aucun document</span>
   </div>
+  <div class="chat-messages chat-scrollbar" id="chatMessages">
+    <div class="chat-welcome" id="chatWelcome">
+      Analysez un BO pour discuter de son contenu.<br>
+      Questions possibles :<br>
+      • « Combien d'articles ? »<br>
+      • « Liste des instruments »<br>
+      • « Article 5 »<br>
+      • « Recherche [mot-clé] »
+    </div>
+  </div>
+  <div class="chat-input-area">
+    <input type="text" id="chatInput" placeholder="Posez une question..." onkeydown="if(event.key==='Enter') sendChat()" disabled>
+    <button id="chatSendBtn" onclick="sendChat()" disabled>Envoyer</button>
+  </div>
+</div>
 
-</main>
 <script>
-"use strict";
-const $ = (id) => document.getElementById(id);
-const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]));
-const BADGE = (t) => { const k = String(t || "").toUpperCase(); return `<span class="badge ${/DECRET/.test(k) ? k : (/LOI/.test(k) ? "LOI" : (/DAHIR/.test(k) ? "DAHIR" : (/ARRETE/.test(k) ? "ARRETE" : "other")))}">${esc(t)}</span>`; };
-const chips = (pc) => Object.entries(pc || {}).filter(([, v]) => v > 0)
-  .sort((a, b) => b[1] - a[1])
-  .map(([k, v]) => `<span class="chip">${esc(k)} : ${v}</span>`).join("") || '<span class="muted">aucun</span>';
+// ── State ────────────────────────────────────────────────────────────
 
-async function refreshDocuments() {
-  const r = await fetch("/documents"); const { documents } = await r.json();
-  const tb = $("docTable").querySelector("tbody");
-  tb.innerHTML = "";
-  $("docEmpty").classList.toggle("hidden", documents.length > 0);
-  for (const d of documents) {
-    const tr = document.createElement("tr"); tr.className = "clickable";
-    tr.innerHTML = `<td>${esc(d.doc_name)}</td><td>${esc(d.bo_number)}</td><td>${esc(d.date_parution)}</td>
-      <td>${esc(d.lang)}</td><td>${d.n_instruments}</td><td>${d.n_articles}</td><td>${chips(d.categories)}</td>`;
-    tr.onclick = () => openDocument(d.doc_id);
-    tb.appendChild(tr);
+let taskId = null;
+let eventSource = null;
+let cachedResult = null;
+
+// Step timing: { 1: { start: timestamp, done: bool }, ... }
+let stepTiming = {};
+let timerInterval = null;
+
+function initStepTiming() {
+  stepTiming = {};
+  for (let i = 1; i <= 5; i++) stepTiming[i] = { start: null, done: false };
+  document.querySelectorAll('.step-time').forEach(el => el.textContent = '');
+}
+
+function formatElapsed(ms) {
+  const s = Math.floor(ms / 1000);
+  const m = Math.floor(s / 60);
+  const sec = s % 60;
+  return m > 0 ? `${m}m ${sec}s` : `${sec}s`;
+}
+
+function updateTimers() {
+  for (let i = 1; i <= 5; i++) {
+    const t = stepTiming[i];
+    const el = document.getElementById(`time${i}`);
+    if (!el) continue;
+    if (t.done && t.elapsed) {
+      el.textContent = '⏱' + formatElapsed(t.elapsed);
+    } else if (t.start && !t.done) {
+      el.textContent = '⏱' + formatElapsed(Date.now() - t.start);
+    }
   }
 }
 
-async function openDocument(docId) {
-  const r = await fetch(`/document/${encodeURIComponent(docId)}`); const d = await r.json();
-  if (d.error) { alert(d.error); return; }
-  $("docCard").classList.remove("hidden");
-  $("docTitle").textContent = `Bulletin ${d.doc_id}`;
-  const m = d.metadata || {};
-  $("docMeta").innerHTML = `BO n° <b>${esc(m.bo_number)}</b> · parution ${esc(m.date_parution)} · ${esc(m.lang)} ·
-    ${m.n_instruments} instruments · ${m.n_articles} articles` + (d.total_pdf_pages ? ` · ${d.total_pdf_pages} pages` : "");
-  const inst = document.createElement("div");
-  for (const it of d.instruments) {
-    const idx = it.article_indices || [];
-    const arts = d.articles.filter(a => idx.includes(a.index));
-    const content = arts.map(a => {
-      const p = a.pdf_page ? `<div class="muted">— page ${a.pdf_page} —</div>` : "";
-      return `${p}<div><b>${esc(a.raw_header)}</b></div><pre>${esc(a.text)}</pre>`;
-    }).join("");
-    const det = document.createElement("details");
-    det.innerHTML = `<summary>
-        ${BADGE(it.instrument_type)} <span class="ins-title">${esc(it.reference)}</span>
-        ${it.title ? `<span class="muted">— ${esc(it.title)}</span>` : ""}
-        <span class="muted">· ${it.n_articles} article(s)</span>
-        ${it.decree_date_gregorian ? `<span class="muted">· signé ${esc(it.decree_date_gregorian)}</span>` : ""}
-      </summary>
-      <div class="kw-head">${chips(it.keyword_counts && it.keyword_counts.per_category)}</div>
-      ${content}
-    `;
-    inst.appendChild(det);
+function startTimerInterval() {
+  if (timerInterval) clearInterval(timerInterval);
+  timerInterval = setInterval(updateTimers, 1000);
+}
+
+function stopTimerInterval() {
+  if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
+}
+
+function markStepActive(stepNum) {
+  if (!stepTiming[stepNum].start) {
+    stepTiming[stepNum].start = Date.now();
   }
-  $("docInstruments").replaceWith(inst); inst.id = "docInstruments";
 }
 
-async function refreshKeywords() {
-  const r = await fetch("/keywords"); const k = await r.json();
-  let html = `<div class="muted">${k.n_documents} document(s) traité(s)</div>`;
-  const rows = Object.entries(k.per_category || {}).map(([cat, n]) =>
-    `<tr><td>${esc(cat)}</td><td>${n}</td></tr>`).join("");
-  html += `<table><thead><tr><th>Catégorie</th><th>Occurrences</th></tr></thead><tbody>${rows}</tbody></table>`;
-  const terms = (k.top_terms || []).map(([t, n]) => `${esc(t)} (${n})`).join(" · ");
-  if (terms) html += `<p class="muted" style="margin-top:10px"><b>Termes les plus fréquents :</b> ${terms}</p>`;
-  $("kwContent").innerHTML = html;
+function markStepDone(stepNum) {
+  const t = stepTiming[stepNum];
+  if (t.start && !t.done) {
+    t.elapsed = Date.now() - t.start;
+    t.done = true;
+  }
 }
 
-$("uploadForm").onsubmit = async (e) => {
+function updateProgressLine(activeStep) {
+  const line = document.getElementById('progressLine');
+  if (!line) return;
+  // activeStep 1..5 → 0..100% (étape active = déjà parcourue à 25% de sa largeur)
+  const pct = Math.max(0, Math.min(100, ((activeStep - 1) / 4) * 100));
+  line.style.width = pct + '%';
+}
+
+function setStepDoneIcon(stepEl, done) {
+  const num = stepEl.querySelector('.step-num');
+  if (!num) return;
+  if (done) {
+    if (num.dataset.num !== undefined && num.textContent !== '✓') {
+      num.textContent = '✓';
+    }
+  } else {
+    if (num.dataset.num !== undefined) num.textContent = num.dataset.num;
+  }
+}
+
+// ── Helpers ──────────────────────────────────────────────────────────
+
+function highlightText(text, entities) {
+  if (!entities || entities.length === 0) return escapeHtml(text);
+  const sorted = [...entities].sort((a, b) => a.start - b.start);
+  const parts = [];
+  let pos = 0;
+  for (const e of sorted) {
+    if (e.start > pos) parts.push(escapeHtml(text.slice(pos, e.start)));
+    parts.push(`<em style="background:${e.color}">${escapeHtml(text.slice(e.start, e.end))}</em>`);
+    pos = e.end;
+  }
+  if (pos < text.length) parts.push(escapeHtml(text.slice(pos)));
+  return parts.join('');
+}
+
+function escapeHtml(s) {
+  if (typeof s !== 'string') s = String(s);
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+// ── Pipeline step detection ──────────────────────────────────────────
+
+function detectStep(line) {
+  const steps = { 'ÉTAPE 1': 1, 'ÉTAPE 2': 2, 'ÉTAPE 3': 3, 'ÉTAPE 4': 4, 'ÉTAPE 5': 5 };
+  for (const [key, num] of Object.entries(steps)) {
+    if (line.includes(key)) return num;
+  }
+  return null;
+}
+
+function lineClass(line) {
+  if (line.startsWith('  ÉTAPE')) return 'etape';
+  if (line.includes('→') || line.startsWith('    ->') || line.includes('Fichier :')) return 'ok';
+  if (line.includes('⚠') || line.includes('Ignoré')) return 'warn';
+  if (line.includes('Err') || line.includes('erreur') || line.includes('fail')) return 'err';
+  if (line.trim() === '' || line.match(/^[=]{5,}/)) return 'sep';
+  return '';
+}
+
+// ── Upload ───────────────────────────────────────────────────────────
+
+const uploadZone = document.getElementById('uploadZone');
+const fileInput = document.getElementById('fileInput');
+
+fileInput.addEventListener('change', () => {
+  const file = fileInput.files[0];
+  if (file) uploadFile(file);
+});
+
+uploadZone.addEventListener('dragover', (e) => { e.preventDefault(); uploadZone.classList.add('dragover'); });
+uploadZone.addEventListener('dragleave', () => { uploadZone.classList.remove('dragover'); });
+uploadZone.addEventListener('drop', (e) => {
   e.preventDefault();
-  const file = $("pdfFile").files[0]; if (!file) return;
-  const fd = new FormData(); fd.append("file", file);
-  $("uploadBtn").disabled = true; $("status").textContent = "envoi…";
-  const r = await fetch("/analyze", { method: "POST", body: fd });
-  const { task_id, error } = await r.json();
-  if (error) { $("status").textContent = error; $("uploadBtn").disabled = false; return; }
-  $("logWrap").classList.remove("hidden"); const log = $("log"); log.textContent = "";
-  $("status").textContent = "extraction en cours…";
-  const es = new EventSource(`/stream/${task_id}`);
-  es.onmessage = (ev) => { log.textContent += ev.data + "\n"; log.scrollTop = log.scrollHeight; };
-  es.addEventListener("done", (ev) => {
-    const data = JSON.parse(ev.data);
-    es.close();
-    $("uploadBtn").disabled = false;
-    $("status").textContent = data.error ? `échec : ${data.error}` : "terminé.";
-    refreshDocuments(); refreshKeywords();
-  });
-};
+  uploadZone.classList.remove('dragover');
+  const file = e.dataTransfer.files[0];
+  if (file && file.name.endsWith('.pdf')) {
+    fileInput.files = e.dataTransfer.files;
+    uploadFile(file);
+  }
+});
 
-refreshDocuments(); refreshKeywords();
-setInterval(refreshDocuments, 20000);
+// Charger l'historique au démarrage
+loadHistory();
+
+// ── Upload & stream ──────────────────────────────────────────────────
+
+async function uploadFile(file) {
+  document.getElementById('errorBox').style.display = 'none';
+  document.getElementById('results').classList.remove('active');
+  cachedResult = null;
+
+  // Show pipeline view
+  uploadZone.classList.add('hidden');
+  const pv = document.getElementById('pipelineView');
+  pv.classList.add('active');
+
+  // Afficher le bouton d'interruption
+  const cancelBtn = document.getElementById('cancelBtn');
+  cancelBtn.style.display = 'inline-block';
+  cancelBtn.disabled = false;
+
+  // Reset terminal
+  document.getElementById('terminalBody').innerHTML = '';
+  document.getElementById('lineCount').textContent = '0 lines';
+  document.getElementById('progressInfo').innerHTML = '';
+
+  // Reset steps
+  document.querySelectorAll('.step').forEach(s => {
+    s.classList.remove('active', 'done');
+    setStepDoneIcon(s, false);
+  });
+  updateProgressLine(0);
+
+  // Init timers
+  initStepTiming();
+  startTimerInterval();
+
+  // Add initial log line
+  addLogLine(`  Envoi de ${file.name}...`);
+  addLogLine('');
+
+  const form = new FormData();
+  form.append('file', file);
+
+  try {
+    const resp = await fetch('/upload', { method: 'POST', body: form });
+    const data = await resp.json();
+    if (data.error) { showError(data.error); return; }
+    taskId = data.task_id;
+    addLogLine(`  Tâche démarrée : ${taskId}`);
+    addLogLine('');
+    connectSSE(taskId);
+  } catch (err) {
+    showError('Erreur de connexion au serveur.');
+  }
+}
+
+// ── SSE connection ───────────────────────────────────────────────────
+
+function connectSSE(tid) {
+  if (eventSource) eventSource.close();
+
+  eventSource = new EventSource(`/stream/${tid}`);
+
+  eventSource.onerror = (e) => {
+    eventSource.close();
+  };
+
+  eventSource.onmessage = (e) => {
+    const line = e.data;
+    addLogLine(line);
+
+    const stepNum = detectStep(line);
+    if (stepNum) {
+      for (let i = 1; i < stepNum; i++) {
+        const el = document.querySelector(`.step[data-step="${i}"]`);
+        if (el) { el.classList.remove('active'); el.classList.add('done'); setStepDoneIcon(el, true); }
+        markStepDone(i);
+      }
+      const curr = document.querySelector(`.step[data-step="${stepNum}"]`);
+      if (curr) { curr.classList.add('active'); }
+      markStepActive(stepNum);
+      updateProgressLine(stepNum);
+
+      const stepNames = {
+        1: 'Ingestion & OCR', 2: 'Nettoyage', 3: 'Extraction NLP',
+        4: 'Enrichissement', 5: 'Tables'
+      };
+      document.getElementById('progressInfo').innerHTML = `
+        <div class="progress-stat"><div class="ps-value">${stepNames[stepNum]}</div><div class="ps-label">Étape ${stepNum}/5</div></div>
+      `;
+    }
+
+    const artMatch = line.match(/(\d+)\s+articles?/);
+    if (artMatch && !line.includes('→')) {
+      document.getElementById('progressInfo').innerHTML += `
+        <div class="progress-stat"><div class="ps-value">${artMatch[1]}</div><div class="ps-label">Articles</div></div>
+      `;
+    }
+    const entMatch = line.match(/(\d+)\s+entit[ée]s?/);
+    if (entMatch) {
+      document.getElementById('progressInfo').innerHTML += `
+        <div class="progress-stat"><div class="ps-value">${entMatch[1]}</div><div class="ps-label">Entités</div></div>
+      `;
+    }
+    const instrMatch = line.match(/(\d+)\s+instrument/);
+    if (instrMatch) {
+      document.getElementById('progressInfo').innerHTML += `
+        <div class="progress-stat"><div class="ps-value">${instrMatch[1]}</div><div class="ps-label">Instruments</div></div>
+      `;
+    }
+  };
+
+  eventSource.addEventListener('done', () => {
+    eventSource.close();
+    addLogLine('');
+    addLogLine('  Pipeline terminé avec succès');
+    document.querySelectorAll('.step').forEach(s => {
+      s.classList.remove('active');
+      s.classList.add('done');
+      setStepDoneIcon(s, true);
+    });
+    for (let i = 1; i <= 5; i++) markStepDone(i);
+    updateTimers();
+    stopTimerInterval();
+    updateProgressLine(5);
+    document.getElementById('progressInfo').innerHTML = `
+      <div class="progress-stat"><div class="ps-value" style="color:var(--green)">&#x2713; Terminé</div><div class="ps-label">Pipeline complet</div></div>
+    `;
+    document.getElementById('cancelBtn').style.display = 'none';
+    loadHistory();
+    fetchResult(tid);
+  });
+
+  eventSource.addEventListener('error', (e) => {
+    eventSource.close();
+    document.getElementById('cancelBtn').style.display = 'none';
+    if (e.data) showError(e.data);
+    else showError('Erreur de connexion au pipeline');
+  });
+}
+
+// ── Log ──────────────────────────────────────────────────────────────
+
+function addLogLine(text) {
+  const body = document.getElementById('terminalBody');
+  const div = document.createElement('div');
+  const cls = lineClass(text);
+  div.className = 'line ' + cls;
+  if (cls === 'sep') {
+    div.textContent = text;
+  } else if (text.trim() !== '') {
+    const now = new Date();
+    const hh = String(now.getHours()).padStart(2, '0');
+    const mm = String(now.getMinutes()).padStart(2, '0');
+    const ss = String(now.getSeconds()).padStart(2, '0');
+    const level = cls === 'etape' ? 'EXEC' : cls === 'ok' ? 'OK' : cls === 'warn' ? 'WARN' : cls === 'err' ? 'ERROR' : 'INFO';
+    const levelColor = { EXEC: '#a4c9fc', OK: '#4ade80', WARN: '#fbbf24', ERROR: '#f87171', INFO: '#74d1ff' }[level];
+    div.innerHTML = `<span class="t-time">[${hh}:${mm}:${ss}]</span> <span class="t-level" style="color:${levelColor}">${level}</span> : `;
+    div.appendChild(document.createTextNode(text));
+  }
+  body.appendChild(div);
+  body.scrollTop = body.scrollHeight;
+  document.getElementById('lineCount').textContent = body.children.length + ' lines';
+}
+
+// ── Fetch result ─────────────────────────────────────────────────────
+
+async function fetchResult(tid) {
+  try {
+    const resp = await fetch(`/result/${tid}`);
+    const data = await resp.json();
+    if (data.error) { showError(data.error); return; }
+    cachedResult = data;
+    renderResults(data);
+    enableChat(data.doc_id);
+  } catch (err) {
+    showError('Erreur lors de la récupération des résultats.');
+  }
+}
+
+// ── Show/hide views ──────────────────────────────────────────────────
+
+function showResultsView() {
+  document.getElementById('pipelineView').classList.remove('active');
+  document.getElementById('results').classList.add('active');
+}
+
+function showPipelineView() {
+  document.getElementById('results').classList.remove('active');
+  document.getElementById('pipelineView').classList.add('active');
+}
+
+function resetToUpload() {
+  if (eventSource) { eventSource.close(); eventSource = null; }
+  stopTimerInterval();
+  taskId = null;
+  cachedResult = null;
+  chatDocId = null;
+  document.getElementById('pipelineView').classList.remove('active');
+  document.getElementById('results').classList.remove('active');
+  document.getElementById('errorBox').style.display = 'none';
+  document.getElementById('uploadZone').classList.remove('hidden');
+  document.getElementById('fileInput').value = '';
+  document.getElementById('chatStatus').textContent = 'Aucun document';
+  document.getElementById('chatInput').disabled = true;
+  document.getElementById('chatSendBtn').disabled = true;
+  document.getElementById('btnBackToResults').style.display = 'none';
+  document.getElementById('progressLine').style.width = '0%';
+  document.getElementById('cancelBtn').style.display = 'none';
+}
+
+// ── Interruption de l'analyse ────────────────────────────────────────
+
+async function cancelTask() {
+  if (!taskId) return;
+  const btn = document.getElementById('cancelBtn');
+  btn.disabled = true;
+  addLogLine('  ⚠ Interruption demandée — arrêt du pipeline...');
+  try {
+    await fetch(`/cancel/${taskId}`, { method: 'POST' });
+  } catch (err) {
+    showError('Erreur lors de l\'interruption.');
+    btn.disabled = false;
+  }
+}
+
+// ── Historique des analyses ──────────────────────────────────────────
+
+async function loadHistory() {
+  const listEl = document.getElementById('historyList');
+  try {
+    const resp = await fetch('/analyses');
+    const data = await resp.json();
+    renderHistory(data.analyses || []);
+  } catch (err) {
+    listEl.innerHTML = '<p class="text-sm text-on-surface-variant">Impossible de charger l\'historique.</p>';
+  }
+}
+
+function renderHistory(analyses) {
+  const listEl = document.getElementById('historyList');
+  if (!analyses.length) {
+    listEl.innerHTML = '<p class="text-sm text-on-surface-variant">Aucune analyse enregistr&eacute;e pour le moment.</p>';
+    return;
+  }
+  listEl.innerHTML = analyses.map(a => `
+    <div class="flex flex-wrap items-center justify-between gap-3 border border-outline-variant bg-surface-container-low p-3 mb-2">
+      <div class="min-w-0">
+        <div class="font-bold text-primary text-sm truncate">
+          ${escapeHtml(a.bo_number ? 'BO n° ' + a.bo_number : 'Document')} ${a.date_publication ? '— ' + escapeHtml(a.date_publication) : ''}
+        </div>
+        <div class="text-xs text-on-surface-variant truncate">${escapeHtml(a.filename || '')} · ${a.n_instruments} instruments · ${a.n_articles} articles</div>
+      </div>
+      <div class="flex gap-2 flex-shrink-0">
+        <button class="btn-outline history-open" data-doc="${escapeHtml(a.doc_id)}">&#x1F441; Voir</button>
+        <button class="btn-outline history-chat" data-doc="${escapeHtml(a.doc_id)}">&#x1F4AC; Nouveau chat</button>
+      </div>
+    </div>
+  `).join('');
+  listEl.querySelectorAll('.history-open').forEach(btn => {
+    btn.addEventListener('click', () => openAnalysis(btn.dataset.doc, false));
+  });
+  listEl.querySelectorAll('.history-chat').forEach(btn => {
+    btn.addEventListener('click', () => openAnalysis(btn.dataset.doc, true));
+  });
+}
+
+// ── Ouvrir une analyse passée ────────────────────────────────────────
+
+async function openAnalysis(docId, startChat) {
+  document.getElementById('errorBox').style.display = 'none';
+  try {
+    const resp = await fetch(`/open-analysis/${encodeURIComponent(docId)}`);
+    const data = await resp.json();
+    if (data.error) { showError(data.error); return; }
+    cachedResult = data;
+    uploadZone.classList.add('hidden');
+    renderResults(data);
+    enableChat(data.doc_id);
+    if (startChat) {
+      const panel = document.getElementById('chatPanel');
+      const btn = document.getElementById('chatToggle');
+      if (!panel.classList.contains('open')) toggleChat();
+      else document.getElementById('chatInput').focus();
+    }
+  } catch (err) {
+    showError('Erreur lors de l\'ouverture de l\'analyse.');
+  }
+}
+
+// ── Render ───────────────────────────────────────────────────────────
+
+function renderResults(data) {
+  document.getElementById('pipelineView').classList.remove('active');
+  document.getElementById('results').classList.add('active');
+  document.getElementById('btnBackToResults').style.display = 'inline-block';
+
+  document.getElementById('resultTitle').textContent =
+    `Résultats — BO ${data.bo_number || ''} ${data.date_publication || ''}`;
+
+  document.getElementById('statsBar').innerHTML = `
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.n_instruments}</div><div class="stat-label">Instruments</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.n_articles}</div><div class="stat-label">Articles</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${data.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${escapeHtml(data.bo_number || '—')}</div><div class="stat-label">BO</div></div>
+    <div class="stat-card"><div class="stat-value" style="color:#2c537f">${escapeHtml(data.date_publication || '—')}</div><div class="stat-label">Date</div></div>
+  `;
+
+  document.getElementById('entityPills').innerHTML = data.entity_counts.map(e =>
+    `<span class="entity-pill" style="background:${e.color}">${escapeHtml(e.label)} ${e.count}</span>`
+  ).join('');
+
+  const preBox = document.getElementById('preambleBox');
+  if (data.preamble_text) {
+    preBox.innerHTML = `<h3>Préambule</h3><div class="preamble-text">${highlightText(data.preamble_text, data.preamble_entities)}</div>`;
+    preBox.style.display = 'block';
+  } else {
+    preBox.style.display = 'none';
+  }
+
+  const cmap = { LOI:'#e74c3c', DAHIR:'#8e44ad', DECRET:'#2980b9', ARRETE:'#16a085',
+    DECISION:'#d35400', DELIBERATION:'#c0392b', AVIS:'#95a5a6', CIRCULAIRE:'#7f8c8d' };
+
+  document.getElementById('tab-instruments').innerHTML = data.instruments.map(instr => {
+    const bg = cmap[instr.instrument_type] || '#6b7280';
+    return `
+      <div class="instrument-card">
+        <div class="instrument-header">
+          <div>
+            <span class="type-badge" style="background:${bg}">${escapeHtml(instr.instrument_type)}</span>
+            <span class="ref">${escapeHtml(instr.reference || '—')}</span>
+          </div>
+          <div class="meta">${instr.n_articles} article${instr.n_articles > 1 ? 's' : ''}</div>
+        </div>
+        <div class="instrument-body">
+          ${instr.articles.map(a => `
+            <div class="article-item">
+              <div class="article-number">Article ${escapeHtml(a.number)}</div>
+              <div class="article-text">${highlightText(a.text, a.entities)}</div>
+              <div class="article-meta">${[a.pdf_page ? `Page PDF ${escapeHtml(a.pdf_page)}` : '', a.printed_page ? `p. ${escapeHtml(a.printed_page)}` : ''].filter(Boolean).join(' · ')}</div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+  }).join('');
+  document.querySelectorAll('#tab-instruments .instrument-card').forEach(card => {
+    card.querySelector('.instrument-header').addEventListener('click', () => {
+      card.querySelector('.instrument-body').classList.toggle('open');
+    });
+  });
+
+  const allArticles = data.instruments.flatMap(instr => instr.articles.map(a => ({ ...a, instrType: instr.instrument_type, instrRef: instr.reference })));
+  document.getElementById('tab-articles').innerHTML = allArticles.map(a => {
+    const bg = cmap[a.instrType] || '#6b7280';
+    return `
+      <div class="article-item">
+        <div class="article-number">
+          <span class="type-badge" style="display:inline-block;padding:2px 7px;border-radius:3px;font-size:10px;font-weight:700;color:#fff;background:${bg};margin-right:5px;vertical-align:middle">${escapeHtml(a.instrType)}</span>
+          Article ${escapeHtml(a.number)}
+        </div>
+        <div class="article-text">${highlightText(a.text, a.entities)}</div>
+        <div class="article-meta">${[a.pdf_page ? `Page PDF ${escapeHtml(a.pdf_page)}` : '', a.printed_page ? `p. ${escapeHtml(a.printed_page)}` : '', a.instrRef ? escapeHtml(a.instrRef) : ''].filter(Boolean).join(' · ')}</div>
+      </div>
+    `;
+  }).join('');
+
+  const allTables = data.instruments.flatMap(instr =>
+    instr.tables.map(t => ({ ...t, instrType: instr.instrument_type, instrRef: instr.reference }))
+  );
+  document.getElementById('tab-tables').innerHTML = allTables.length === 0
+    ? '<p style="color:#43474f;padding:20px;">Aucun tableau extrait.</p>'
+    : allTables.map(t => `
+      <div class="instrument-card">
+        <div class="instrument-header">
+          <div><strong>Tableau</strong> &mdash; ${escapeHtml(t.instrType)} ${escapeHtml(t.instrRef || '')} &mdash; Page ${escapeHtml(t.page || '?')}</div>
+          <div class="meta">${t.n_rows} lignes &times; ${t.n_cols} colonnes</div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr>${t.headers.map(h => `<th>${escapeHtml(h)}</th>`).join('')}</tr></thead>
+            <tbody>
+              ${t.data.map(row => `<tr>${(row.length ? row : Array(t.n_cols).fill('')).map(c => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`).join('')}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    `).join('');
+
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+    });
+  });
+}
+
+function showError(msg) {
+  const box = document.getElementById('errorBox');
+  box.textContent = msg;
+  box.style.display = 'block';
+}
+
+// ── Export ──────────────────────────────────────────────────────────────
+
+function toggleExportMenu() {
+  const menu = document.getElementById('exportMenu');
+  menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
+}
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('#exportBtn') && !e.target.closest('#exportMenu')) {
+    document.getElementById('exportMenu').style.display = 'none';
+  }
+});
+document.querySelectorAll('.export-item').forEach(item => {
+  item.addEventListener('mouseover', () => item.style.background = '#e8f6ff');
+  item.addEventListener('mouseout', () => item.style.background = '#ffffff');
+});
+
+function downloadFile(content, filename, mime) {
+  const blob = new Blob([content], { type: mime });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function exportJSON() {
+  document.getElementById('exportMenu').style.display = 'none';
+  if (!cachedResult) { showError('Aucun résultat à exporter.'); return; }
+  const jsonStr = JSON.stringify(cachedResult, null, 2);
+  downloadFile(jsonStr, `BO_${cachedResult.bo_number || 'export'}.json`, 'application/json');
+}
+
+function exportMarkdown() {
+  document.getElementById('exportMenu').style.display = 'none';
+  if (!cachedResult) { showError('Aucun résultat à exporter.'); return; }
+  const d = cachedResult;
+  let md = `# Analyse BO ${d.bo_number || ''} — ${d.date_publication || ''}\n\n`;
+  md += `- **Instruments** : ${d.n_instruments}\n`;
+  md += `- **Articles** : ${d.n_articles}\n`;
+  md += `- **Entités** : ${d.entity_counts.reduce((s,e)=>s+e.count,0)}\n\n`;
+  md += `## Entités\n\n`;
+  for (const e of d.entity_counts) {
+    md += `- **${e.label}** : ${e.count}\n`;
+  }
+  md += '\n';
+  if (d.preamble_text) {
+    md += `## Préambule\n\n${d.preamble_text}\n\n`;
+  }
+  md += `## Instruments\n\n`;
+  for (const instr of d.instruments) {
+    md += `### ${instr.instrument_type} ${instr.reference || ''}\n`;
+    md += `- **${instr.n_articles} articles**\n\n`;
+    for (const a of instr.articles) {
+      md += `**Article ${a.number}** `;
+      if (a.pdf_page) md += `(p. ${a.pdf_page})`;
+      md += ` : ${a.text}\n\n`;
+    }
+  }
+  downloadFile(md, `BO_${d.bo_number || 'export'}.md`, 'text/markdown');
+}
+
+function exportPDF() {
+  document.getElementById('exportMenu').style.display = 'none';
+  if (!cachedResult) { showError('Aucun résultat à exporter.'); return; }
+  const d = cachedResult;
+  const entityColor = (lbl) => {
+    const map = { LOI:'#e74c3c', DAHIR:'#8e44ad', DECRET:'#2980b9', ARRETE:'#16a085',
+      DECISION:'#d35400', DELIBERATION:'#c0392b', AVIS:'#95a5a6', CIRCULAIRE:'#7f8c8d',
+      MINISTERE:'#f39c12', DATE_HIJRI:'#2c3e50', DATE_GREGORIAN:'#34495e', BULLETIN_OFFICIEL:'#e67e22' };
+    return map[lbl] || '#6b7280';
+  };
+  const entityPills = d.entity_counts.map(e =>
+    `<span style="display:inline-block;padding:2px 8px;border-radius:10px;font-size:10px;color:#fff;background:${entityColor(e.label)};margin:2px">${escapeHtml(e.label)} ${e.count}</span>`
+  ).join(' ');
+  const instrHtml = d.instruments.map(instr => {
+    const bg = entityColor(instr.instrument_type);
+    const arts = instr.articles.map(a =>
+      `<div style="margin:6px 0;padding:6px 10px;background:#f5f5f5;border-radius:4px">
+        <div style="font-weight:600;font-size:12px;color:#2980b9">Article ${escapeHtml(a.number)}</div>
+        <div style="font-size:12px;line-height:1.5;margin-top:2px">${escapeHtml(a.text)}</div>
+      </div>`
+    ).join('');
+    return `<div style="margin-bottom:12px;border:1px solid #ddd;border-radius:6px;padding:10px">
+      <div style="margin-bottom:6px"><span style="display:inline-block;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:600;color:#fff;background:${bg}">${escapeHtml(instr.instrument_type)}</span>
+      <strong style="margin-left:6px;font-size:13px">${escapeHtml(instr.reference || '—')}</strong>
+      <span style="float:right;color:#888;font-size:11px">${instr.n_articles} articles</span></div>
+      ${arts}
+    </div>`;
+  }).join('');
+  const html = `<!DOCTYPE html><html><head><meta charset="utf-8">
+    <title>BO ${escapeHtml(d.bo_number || '')}</title>
+    <style>
+      body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; color: #222; padding: 20px; }
+      h1 { font-size: 20px; margin-bottom: 4px; }
+      .meta { color: #666; font-size: 12px; margin-bottom: 16px; }
+      h2 { font-size: 16px; margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 4px; }
+      .stats { display: flex; gap: 12px; margin: 12px 0; }
+      .stat { padding: 8px 14px; background: #f0f4f8; border-radius: 6px; }
+      .stat-value { font-size: 18px; font-weight: 700; color: #2980b9; }
+      .stat-label { font-size: 10px; color: #666; }
+      .preamble { background: #f9f9f9; padding: 10px; border-radius: 6px; font-size: 11px; line-height: 1.6; margin-bottom: 16px; }
+      .preamble h3 { margin: 0 0 6px 0; font-size: 12px; color: #888; text-transform: uppercase; }
+      @media print { body { padding: 0; } }
+    </style></head><body>
+    <h1>Bulletin Officiel n° ${escapeHtml(d.bo_number || '')}</h1>
+    <div class="meta">${escapeHtml(d.date_publication || '')} &middot; ${d.n_instruments} instruments &middot; ${d.n_articles} articles</div>
+    <div class="stats">
+      <div class="stat"><div class="stat-value">${d.n_instruments}</div><div class="stat-label">Instruments</div></div>
+      <div class="stat"><div class="stat-value">${d.n_articles}</div><div class="stat-label">Articles</div></div>
+      <div class="stat"><div class="stat-value">${d.entity_counts.reduce((s,e)=>s+e.count,0)}</div><div class="stat-label">Entités</div></div>
+    </div>
+    <div>${entityPills}</div>
+    ${d.preamble_text ? '<div class="preamble"><h3>Préambule</h3>'+escapeHtml(d.preamble_text)+'</div>' : ''}
+    <h2>Instruments</h2>
+    ${instrHtml}
+    <script>window.print();<\/script>
+  </body></html>`;
+  const win = window.open('', '_blank');
+  win.document.write(html);
+  win.document.close();
+}
+
+// ── Chat ──────────────────────────────────────────────────────────────
+
+let chatDocId = null;
+
+function enableChat(docId) {
+  chatDocId = docId;
+  document.getElementById('chatStatus').textContent = 'BO ' + (docId || '');
+  document.getElementById('chatInput').disabled = false;
+  document.getElementById('chatSendBtn').disabled = false;
+}
+
+function toggleChat() {
+  const panel = document.getElementById('chatPanel');
+  const btn = document.getElementById('chatToggle');
+  panel.classList.toggle('open');
+  btn.classList.toggle('active');
+  btn.textContent = panel.classList.contains('open') ? '+' : '💬';
+  if (panel.classList.contains('open')) {
+    document.getElementById('chatInput').focus();
+  }
+}
+
+async function sendChat() {
+  const input = document.getElementById('chatInput');
+  const btn = document.getElementById('chatSendBtn');
+  const question = input.value.trim();
+  if (!question || !chatDocId) return;
+
+  input.value = '';
+  input.focus();
+  btn.disabled = true;
+
+  const msgs = document.getElementById('chatMessages');
+  const welcome = document.getElementById('chatWelcome');
+  welcome.style.display = 'none';
+  const userDiv = document.createElement('div');
+  userDiv.className = 'chat-msg user';
+  userDiv.textContent = question;
+  msgs.appendChild(userDiv);
+  msgs.scrollTop = msgs.scrollHeight;
+
+  const botDiv = document.createElement('div');
+  botDiv.className = 'chat-msg bot';
+  botDiv.textContent = '…';
+  msgs.appendChild(botDiv);
+  msgs.scrollTop = msgs.scrollHeight;
+
+  try {
+    const resp = await fetch('/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question, doc_id: chatDocId }),
+    });
+    const data = await resp.json();
+    botDiv.textContent = data.answer || 'Pas de réponse.';
+  } catch (err) {
+    botDiv.textContent = 'Erreur de connexion au serveur.';
+  }
+  btn.disabled = false;
+  msgs.scrollTop = msgs.scrollHeight;
+}
 </script>
 </body>
 </html>
