@@ -18,6 +18,7 @@ import re
 import subprocess
 import sys
 import tempfile
+import threading
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -54,13 +55,17 @@ ANNOTATED_MD_DIR = Path("data/annotated-MD")
 
 # Cache NLP au niveau module (évite de reconstruire les modèles pour chaque PDF)
 _NLP_CACHE = {}
+# Les runs concurrents (adli_v2.pipeline.process_pdf, semaphore=2) peuvent
+# bâtir le modèle d'une langue en même temps : un lock évite le double
+# chargement (coûteux en RAM/CPU) et la course sur le dict.
+_NLP_CACHE_LOCK = threading.Lock()
 
 
 # ============================================================================
 # Étape 1 : Ingestion (PDF → interim/*.txt)
 # ============================================================================
 
-def _save_ingestion_result(result, pdf_path: Path) -> list[Path]:
+def _save_ingestion_result(result, pdf_path: Path, interim_dir: Path = INTERIM_DIR) -> list[Path]:
     """Sauvegarde le texte extrait dans data/interim/{fr,ar}/ et
     retourne la liste des fichiers .txt créés."""
     saved = []
@@ -69,13 +74,13 @@ def _save_ingestion_result(result, pdf_path: Path) -> list[Path]:
 
     if is_bilingual:
         if result.text_fr.strip():
-            p = INTERIM_DIR / "fr" / f"{stem}.txt"
+            p = interim_dir / "fr" / f"{stem}.txt"
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(result.text_fr, encoding="utf-8")
             stamp_interim_provenance(p, pdf_path)
             saved.append(p)
         if result.text_ar.strip():
-            p = INTERIM_DIR / "ar" / f"{stem}.txt"
+            p = interim_dir / "ar" / f"{stem}.txt"
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(result.text_ar, encoding="utf-8")
             stamp_interim_provenance(p, pdf_path)
@@ -84,39 +89,39 @@ def _save_ingestion_result(result, pdf_path: Path) -> list[Path]:
         len_fr = len(result.text_fr.strip())
         len_ar = len(result.text_ar.strip())
         if len_fr >= len_ar and len_fr > 0:
-            p = INTERIM_DIR / "fr" / f"{stem}.txt"
+            p = interim_dir / "fr" / f"{stem}.txt"
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(result.text_fr, encoding="utf-8")
             stamp_interim_provenance(p, pdf_path)
             saved.append(p)
         elif len_ar > 0:
-            p = INTERIM_DIR / "ar" / f"{stem}.txt"
+            p = interim_dir / "ar" / f"{stem}.txt"
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(result.text_ar, encoding="utf-8")
             stamp_interim_provenance(p, pdf_path)
             saved.append(p)
 
     if result.text_unknown.strip():
-        p = INTERIM_DIR / f"{stem}_unknown.txt"
+        p = interim_dir / f"{stem}_unknown.txt"
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_text(result.text_unknown, encoding="utf-8")
         saved.append(p)
 
     if result.tables:
-        p = INTERIM_DIR / "tables" / f"{stem}_tables.json"
+        p = interim_dir / "tables" / f"{stem}_tables.json"
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_text(json.dumps(result.tables, ensure_ascii=False, indent=2), encoding="utf-8")
 
     return saved
 
 
-def run_ingestion(pdf_path: Path) -> list[Path]:
+def run_ingestion(pdf_path: Path, interim_dir: Path = INTERIM_DIR) -> list[Path]:
     """Ingère un PDF et retourne la liste des fichiers texte créés dans interim/."""
     print(f"\n{'='*60}")
     print(f"ÉTAPE 1 — Ingestion : {pdf_path.name}")
     print(f"{'='*60}")
     result = run_ingestion_pipeline(str(pdf_path))
-    files = _save_ingestion_result(result, pdf_path)
+    files = _save_ingestion_result(result, pdf_path, interim_dir=interim_dir)
     for f in files:
         print(f"  → {f}")
     for w in result.warnings:
@@ -132,16 +137,32 @@ def _detect_language(text: str) -> str:
     return "ar" if arabic_char_ratio(text) > 0.30 else "fr"
 
 
-def run_preprocessing(interim_file: Path, arabic_runs: list | None = None) -> Path | None:
+def run_preprocessing(
+    interim_file: Path,
+    arabic_runs: list | None = None,
+    *,
+    interim_dir: Path | None = None,
+    processed_dir: Path | None = None,
+) -> Path | None:
     """Nettoie un fichier interim/ et retourne le chemin dans processed/.
 
     *arabic_runs* (optionnel) : collecte les tronçons arabes cités dans le
     texte français (titres d'émissions, clauses reprises verbatim) au lieu
     de les perdre — exposés ensuite dans le JSON (possible_embedded_arabic).
+
+    *interim_dir* / *processed_dir* (optionnels) : lorsque fournis, le
+    fichier de sortie est dérivé de la position relative du fichier
+    d'entrée dans *interim_dir* (portage de chemins explicite, thread-safe).
+    Sinon, comportement historique : le dossier « interim » du chemin est
+    remplacé par « processed ».
     """
-    parts = list(interim_file.parts)
-    parts = ["processed" if p == "interim" else p for p in parts]
-    out = Path(*parts)
+    if processed_dir is not None and interim_dir is not None:
+        rel = Path(interim_file).relative_to(interim_dir)
+        out = Path(processed_dir) / rel
+    else:
+        parts = list(interim_file.parts)
+        parts = ["processed" if p == "interim" else p for p in parts]
+        out = Path(*parts)
 
     print(f"\n  ÉTAPE 2 — Nettoyage : {interim_file.name}")
     raw = interim_file.read_text(encoding="utf-8")
@@ -235,13 +256,15 @@ def _ensure_processed_fresh(processed_file: Path) -> None:
 
 def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
                    metadata_override: dict | None = None,
-                   arabic_runs: list | None = None) -> Path | None:
+                   arabic_runs: list | None = None,
+                   annotated_dir: Path = ANNOTATED_DIR,
+                   annotated_md_dir: Path = ANNOTATED_MD_DIR) -> Path | None:
     """Extrait les entités d'un fichier processed/ et sauvegarde le JSON.
 
     Utilise enrich_articles_batch() pour exécuter le NER statistique en
     une seule passe pour tous les articles, et saute le NER pour les
     articles sans entité juridique."""
-    out_path = ANNOTATED_DIR / f"{processed_file.parent.name}_{processed_file.stem}_entities.json"
+    out_path = annotated_dir / f"{processed_file.parent.name}_{processed_file.stem}_entities.json"
 
     print(f"\n  ÉTAPE 3 — Extraction NLP : {processed_file.name} ({lang})")
     _ensure_processed_fresh(processed_file)
@@ -518,8 +541,8 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
     print(f"    → {out_path}  ({result['n_articles']} articles, {n_ent} entités)")
 
     # Also write a Markdown version with formatted tables in data/annotated-MD/
-    md_rel = out_path.relative_to(ANNOTATED_DIR).with_suffix(".md")
-    md_path = ANNOTATED_MD_DIR / md_rel
+    md_rel = out_path.relative_to(annotated_dir).with_suffix(".md")
+    md_path = annotated_md_dir / md_rel
     md_path.parent.mkdir(parents=True, exist_ok=True)
     try:
         md_content = build_full_markdown(result)
@@ -544,13 +567,34 @@ def _pdf_initial_language(pdf_path: Path) -> str | None:
     return None
 
 
-def process_single_pdf(pdf_path: Path, enrich: bool = False, tables: bool = False):
-    """Pipeline complet sur un seul PDF."""
+def process_single_pdf(
+    pdf_path: Path,
+    enrich: bool = False,
+    tables: bool = False,
+    *,
+    interim_dir: Path = INTERIM_DIR,
+    processed_dir: Path = PROCESSED_DIR,
+    annotated_dir: Path = ANNOTATED_DIR,
+    annotated_md_dir: Path = ANNOTATED_MD_DIR,
+) -> list[Path]:
+    """Pipeline complet sur un seul PDF.
+
+    Les répertoires de sortie sont passés EN PARAMÈTRE (les constantes du
+    module ne sont que les valeurs par défaut) : jamais de mutation de
+    globales — plusieurs appels peuvent donc tourner en parallèle sur des
+    jeux de répertoires distincts sans se corrompre mutuellement.
+
+    Retourne la liste des JSON annotés (*_entities.json) produits pour CE
+    PDF — les consommateurs (adli_v2.pipeline) enrichissent uniquement ces
+    fichiers, pas tout le contenu du dossier.
+    """
+    produced: list[Path] = []
+
     # Étape 1
-    interim_files = run_ingestion(pdf_path)
+    interim_files = run_ingestion(pdf_path, interim_dir=interim_dir)
     if not interim_files:
         print("  Aucun fichier texte produit à l'ingestion.")
-        return
+        return produced
 
     init_lang = _pdf_initial_language(pdf_path)
     if init_lang:
@@ -560,7 +604,7 @@ def process_single_pdf(pdf_path: Path, enrich: bool = False, tables: bool = Fals
     lang_files = [f for f in interim_files if f.parent.name in ("fr", "ar")]
     if not lang_files:
         print("  Aucun fichier texte fr/ar à traiter.")
-        return
+        return produced
 
     # Try to extract BO metadata from ALL interim files before language routing
     # (header pages are often misrouted by layout detection, e.g. an _Ar PDF
@@ -575,21 +619,31 @@ def process_single_pdf(pdf_path: Path, enrich: bool = False, tables: bool = Fals
 
         # Étape 2
         arabic_runs: list = []
-        processed_file = run_preprocessing(interim_file, arabic_runs=arabic_runs)
+        processed_file = run_preprocessing(
+            interim_file,
+            arabic_runs=arabic_runs,
+            interim_dir=interim_dir,
+            processed_dir=processed_dir,
+        )
         if processed_file is None:
             continue
 
         # Étape 3
-        if lang not in _NLP_CACHE:
-            _NLP_CACHE[lang] = (
-                build_fr_nlp() if lang == "fr" else build_ar_nlp()
-            )
+        with _NLP_CACHE_LOCK:
+            if lang not in _NLP_CACHE:
+                _NLP_CACHE[lang] = (
+                    build_fr_nlp() if lang == "fr" else build_ar_nlp()
+                )
 
         json_kw = {"nlp_fr": _NLP_CACHE.get("fr"), "nlp_ar": _NLP_CACHE.get("ar"),
-                   "metadata_override": bo_metadata if bo_metadata.get("bo_number") else None}
+                   "metadata_override": bo_metadata if bo_metadata.get("bo_number") else None,
+                   "annotated_dir": annotated_dir,
+                   "annotated_md_dir": annotated_md_dir}
         if lang == "fr":
             json_kw["arabic_runs"] = arabic_runs
         out_path = run_extraction(processed_file, lang, **json_kw)
+        if out_path is not None and out_path.exists():
+            produced.append(out_path)
 
         # Étape 4 : enrichissement (pages + instruments)
         if enrich and out_path and out_path.exists():
@@ -628,6 +682,8 @@ def process_single_pdf(pdf_path: Path, enrich: bool = False, tables: bool = Fals
                         print(f"    {line.strip()}")
             except subprocess.CalledProcessError as e:
                 print(f"  ⚠ Extraction des tableaux échouée : {e}")
+
+    return produced
 
 
 def process_directory(dir_path: Path, enrich: bool = False, tables: bool = False):

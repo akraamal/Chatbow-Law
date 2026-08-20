@@ -60,21 +60,25 @@ def test_v2_pipeline_end_to_end(tmp_path):
             assert instr.get("n_articles", 0) >= 1, "instrument sans articles"
 
 
-def test_v2_pipeline_restores_v1_dir_constants(tmp_path):
-    """Le pipeline v2 restaure les constantes du module v1 après son run."""
+def test_v2_pipeline_never_mutates_v1_dir_constants(tmp_path, monkeypatch):
+    """Le pipeline v2 ne touche PLUS aux constantes du module v1 : les
+    répertoires sont passés en paramètres à process_single_pdf (avant, ils
+    étaient mutés puis restaurés — course impossible à garantir en
+    multithread)."""
     import scripts.run_pipeline_complet as rpc
+    from adli_v2.pipeline import process_pdf
 
-    before = {n: getattr(rpc, n) for n in
-              ("INTERIM_DIR", "PROCESSED_DIR", "ANNOTATED_DIR", "ANNOTATED_MD_DIR")}
-    tmp = tmp_path / "x"
-    tmp.mkdir()
-    try:
-        # Pas de PDF : le pipeline s'arrête tôt mais le finally doit passer.
-        process_pdf(tmp / "missing.pdf", interim_dir=tmp / "i",
-                    processed_dir=tmp / "p", annotated_dir=tmp / "a",
-                    md_dir=tmp / "m", uploads_dir=tmp / "u")
-    except Exception:
-        pass
-    after = {n: getattr(rpc, n) for n in
-             ("INTERIM_DIR", "PROCESSED_DIR", "ANNOTATED_DIR", "ANNOTATED_MD_DIR")}
-    assert before == after, "constantes v1 non restaurées"
+    names = ("INTERIM_DIR", "PROCESSED_DIR", "ANNOTATED_DIR", "ANNOTATED_MD_DIR")
+    before = {n: getattr(rpc, n) for n in names}
+
+    def fake_process_single_pdf(pdf_path, enrich=False, **kwargs):
+        return []
+
+    monkeypatch.setattr(rpc, "process_single_pdf", fake_process_single_pdf)
+    # Pas de PDF : le pipeline s'arrête tôt mais ne doit RIEN avoir muté.
+    process_pdf(tmp_path / "missing.pdf", interim_dir=tmp_path / "i",
+                processed_dir=tmp_path / "p", annotated_dir=tmp_path / "a",
+                md_dir=tmp_path / "m", uploads_dir=tmp_path / "u")
+
+    after = {n: getattr(rpc, n) for n in names}
+    assert before == after, "constantes v1 modifiées par le pipeline v2"

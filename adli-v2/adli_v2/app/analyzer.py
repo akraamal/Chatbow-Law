@@ -44,6 +44,14 @@ _tasks_lock = threading.Lock()
 _chat_contexts: dict[str, dict] = {}
 _chat_lock = threading.Lock()
 
+# Plafond de pipelines simultanés. Depuis la paramétrisation des répertoires
+# (adli_v2.pipeline.process_pdf passe interim/processed/annotated/md en
+# arguments aux fonctions v1, plus aucune mutation de constantes globales),
+# deux runs concurrents ne peuvent plus fuir leurs chemins l'un dans
+# l'autre : ce plafond est donc un simple limiteur de RESSOURCES (CPU/RAM
+# des deux sous-processus), pas une nécessité de correction. Chaque run
+# tourne d'ailleurs dans son propre sous-processus (adli_v2.scripts.
+# run_extraction) : état de module v1 isolé par construction.
 _MAX_CONCURRENT_PIPELINES = 2
 _pipeline_slots = threading.Semaphore(_MAX_CONCURRENT_PIPELINES)
 

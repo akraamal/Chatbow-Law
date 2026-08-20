@@ -8,6 +8,12 @@ modifié — puis applique l'étape v2 (metadata + keyword_counts).
 Chemins : tout sort dans adli-v2/data/ (interim, processed, annotated,
 annotated-MD) ; les PDF d'entrée sont cherchés dans adli-v2/data/uploads.
 
+Les répertoires de sortie sont transmis EN PARAMÈTRE aux fonctions v1
+(scripts.run_pipeline_complet.process_single_pdf accepte désormais
+interim_dir / processed_dir / annotated_dir / annotated_md_dir) : aucune
+constante globale n'est mutée, plusieurs process_pdf() peuvent donc tourner
+en parallèle sur des jeux de répertoires distincts sans se corrompre.
+
 Usage :
     python -m adli_v2.scripts.run_extraction --file chemin/vers/document.pdf
 """
@@ -49,7 +55,10 @@ def process_pdf(
        False) : les compteurs de mots-clés le remplacent en version 2 ;
     3. étape v2 : metadata + keyword_counts par document et par instrument.
 
-    Retourne la liste des JSON annotés v2 produits.
+    Seuls les fichiers *_entities.json produits pour CE PDF sont enrichis
+    (retournés par process_single_pdf) — jamais l'ensemble du corpus déjà
+    présent dans annotated_dir.  Retourne la liste des JSON annotés v2
+    produits.
     """
     import scripts.run_pipeline_complet as rpc
     from scripts.enrich_json_with_pages import enrich_json
@@ -62,31 +71,30 @@ def process_pdf(
     md_dir = Path(md_dir)
     uploads_dir = Path(uploads_dir)
 
-    saved = {}
-    for name in ("INTERIM_DIR", "PROCESSED_DIR", "ANNOTATED_DIR", "ANNOTATED_MD_DIR"):
-        saved[name] = getattr(rpc, name)
-    try:
-        # Redirection des constantes du module v1 vers les répertoires v2
-        # (mutation in-process, aucun fichier v1 modifié).
-        rpc.INTERIM_DIR = interim_dir
-        rpc.PROCESSED_DIR = processed_dir
-        rpc.ANNOTATED_DIR = annotated_dir
-        rpc.ANNOTATED_MD_DIR = md_dir
+    # Les répertoires sont passés en arguments : les constantes du module
+    # v1 ne sont PAS modifiées, donc deux process_pdf() concurrents ne
+    # peuvent pas fuir leurs chemins l'un dans l'autre (le semaphore
+    # _pipeline_slots = 2 de l'analyseur reste valide).
+    produced = rpc.process_single_pdf(
+        pdf_path,
+        enrich=False,
+        interim_dir=interim_dir,
+        processed_dir=processed_dir,
+        annotated_dir=annotated_dir,
+        annotated_md_dir=md_dir,
+    )
 
-        rpc.process_single_pdf(pdf_path, enrich=False)
-
-        results = []
+    results = []
+    for json_path in produced or []:
+        if not json_path.exists():
+            continue
         print("\n  ÉTAPE 4 — Enrichissement (instruments + pages)")
-        for json_path in sorted(annotated_dir.glob("*_entities.json")):
-            enrich_json(
-                json_path,
-                pdf_dir=uploads_dir,
-                classify_domain=classify_domain,
-            )
-            print("\n  ÉTAPE 5 — Compteurs (mots-clés + métadonnées)")
-            post_enrich(json_path)
-            results.append(json_path)
-        return results
-    finally:
-        for name, value in saved.items():
-            setattr(rpc, name, value)
+        enrich_json(
+            json_path,
+            pdf_dir=uploads_dir,
+            classify_domain=classify_domain,
+        )
+        print("\n  ÉTAPE 5 — Compteurs (mots-clés + métadonnées)")
+        post_enrich(json_path)
+        results.append(json_path)
+    return results
