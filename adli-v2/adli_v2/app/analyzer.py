@@ -725,8 +725,9 @@ def _chat_answer(data: dict, question: str) -> str:
         for i in art_idxs[:n_max]:
             if isinstance(i, int) and i < len(data.get("articles", [])):
                 a = data["articles"][i]
-                txt = (a.get("text") or "").strip()[:300]
-                previews.append(f"**Article {a.get('number','?')}** — {txt}…")
+                txt = (a.get("text") or "").strip()
+                shown = txt[:600] + ("…" if len(txt) > 600 else "")
+                previews.append(f"**Article {a.get('number','?')}** — {shown}")
         head = (f"**{exact.get('instrument_type') or '?'} {exact.get('reference','')}** — "
                 f"**{exact.get('n_articles','?')} articles**, BO n°{bo}.")
         title = exact.get("title") or exact.get("reference_label") or ""
@@ -793,14 +794,17 @@ def _chat_answer(data: dict, question: str) -> str:
         for a in data.get("articles", []):
             if a.get("number") == art_num:
                 txt = a.get("text", "").strip()
-                preview = txt[:600] + "…" if len(txt) > 600 else txt
-                return f"**Article {art_num}** (page {a.get('pdf_page','?')}) :\n\n{preview}"
+                return f"**Article {art_num}** (page {a.get('pdf_page','?')}) :\n\n{txt}"
         return f"Article **{art_num}** introuvable dans ce document."
 
     if len(q) > 3:
         hits = _search_articles(data, q)
         if hits:
-            lines = [f"**Article {a.get('number','?')}** — {a.get('text','')[:200]}…" for a in hits]
+            lines = []
+            for a in hits:
+                txt = a.get("text", "")
+                shown = txt[:600] + ("…" if len(txt) > 600 else "")
+                lines.append(f"**Article {a.get('number','?')}** — {shown}")
             return f"Résultats pour « {question} » :\n\n" + "\n".join(lines)
 
     return f"Je n'ai pas trouvé de réponse à « {question} ».\n\n" \
