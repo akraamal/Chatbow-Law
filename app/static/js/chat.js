@@ -20,6 +20,7 @@
   const headerSearch = document.getElementById("header-search");
   const attachBtn = document.getElementById("attach-file-btn");
   const attachInput = document.getElementById("attach-file");
+  const sendBtn = formEl.querySelector("button[type=submit]");
 
   let history = [];
   let lastSources = [];
@@ -27,6 +28,15 @@
   let attachFile = null;      // PDF sélectionné sur le disque (téléchargement)
   let attachTask = null;      // task_id en cours d'analyse
   let docResult = null;       // résultat JSON du document attaché
+  let interruptMode = false;  // bouton d'envoi transformé en bouton d'interruption
+
+  function setInterruptMode(on) {
+    interruptMode = on;
+    const ico = sendBtn.querySelector(".material-symbols-outlined");
+    ico.textContent = on ? "stop" : "send";
+    sendBtn.classList.toggle("interrupt-mode", on);
+    sendBtn.title = on ? "Interrompre l'analyse" : "Envoyer";
+  }
 
   function scrollToBottom() {
     messagesEl.scrollTop = messagesEl.scrollHeight;
@@ -271,6 +281,10 @@
 
   formEl.addEventListener("submit", (e) => {
     e.preventDefault();
+    if (interruptMode) {
+      cancelAttach();
+      return;
+    }
     const query = inputEl.value.trim();
     if (!query) return;
     sendQuery(query);
@@ -398,6 +412,18 @@
     scrollToBottom();
   }
 
+  async function cancelAttach() {
+    if (!attachTask || attachTask === "pending") return;
+    const tid = attachTask;
+    addDocStatus("⚠ Interruption demandée — arrêt de l'analyse…");
+    try {
+      await fetch(`/cancel/${tid}`, { method: "POST" });
+    } catch (err) {
+      setInterruptMode(false);
+      addErrorMessage("Erreur lors de l'interruption.");
+    }
+  }
+
   async function attachDocument(file) {
     if (attachTask || docResult) {
       addErrorMessage("Un document est déjà en cours d'analyse. Clique sur « Nouvelle analyse » pour en joindre un autre.");
@@ -423,12 +449,14 @@
       removeTypingIndicator();
       addDocStatus(`⏳ Analyse de « ${file.name} » en cours…`);
       attachTask = data.task_id;
+      setInterruptMode(true);
       watchTaskProgress(data.task_id, file);
     } catch (err) {
       removeTypingIndicator();
       addErrorMessage(`Impossible de lancer l'analyse : ${err.message || err}`);
       attachFile = null;
       attachTask = null;
+      setInterruptMode(false);
     }
   }
 
@@ -448,10 +476,12 @@
           setDocStatus(`❌ ${data.error || "Analyse échouée."}`);
           attachFile = null;
           attachTask = null;
+          setInterruptMode(false);
           return;
         }
         docResult = data;
         attachTask = null;
+        setInterruptMode(false);
         setDocStatus(`✅ « ${file.name} » analysé${data.bo_number ? ` — BO n° ${data.bo_number}` : ""}. Pose une question sur ce document.`);
         subjectEl.textContent = `Document : ${file.name}`;
         downloadBtn.disabled = false;
@@ -467,6 +497,7 @@
         setDocStatus("❌ Erreur lors de la récupération des résultats.");
         attachFile = null;
         attachTask = null;
+        setInterruptMode(false);
       }
     });
 
@@ -479,6 +510,7 @@
       }
       attachFile = null;
       attachTask = null;
+      setInterruptMode(false);
     });
   }
 

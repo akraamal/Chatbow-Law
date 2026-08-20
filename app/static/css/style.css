@@ -80,3 +80,13 @@ html[dir="rtl"] body {
     opacity: 0.5;
     pointer-events: none;
 }
+
+#chat-form button[type="submit"].interrupt-mode {
+    background: #d32f2f;
+    border-radius: 50%;
+    box-shadow: 0 0 0 2px #ffffff, 0 0 0 3px #d32f2f;
+    transition: background .15s;
+}
+#chat-form button[type="submit"].interrupt-mode:hover {
+    background: #b71c1c;
+}
