@@ -652,6 +652,11 @@ def _find_signer_in_query(data: dict, query: str) -> list[str]:
 def _chat_answer(data: dict, question: str) -> str:
     q = question.lower().strip()
 
+    # Action « Analyse en profondeur » : vue d'ensemble complète du document
+    # (bouton de la page ou question équivalente) — synthèse LLM directe.
+    if any(w in q for w in _ANALYSIS_DEEP_WORDS):
+        return _llm_analysis_answer(data, question)
+
     n_arts = len(data.get("articles", []))
     n_instrs = len(_chat_decrees(data))
     bo = data.get("bo_number", "?")
@@ -815,11 +820,149 @@ def _chat_answer(data: dict, question: str) -> str:
                 lines.append(f"**Article {a.get('number','?')}** — {shown}")
             return f"Résultats pour « {question} » :\n\n" + "\n".join(lines)
 
-    return f"Je n'ai pas trouvé de réponse à « {question} ».\n\n" \
-           "Essayez :\n- « Combien d'articles ? »\n- « Liste des décrets »\n" \
-           "- « Les lois les plus importantes »\n- « Quel est le domaine principal ? »\n" \
-           "- « Article 5 »\n- « Recherche [mot-clé] »\n- « décret n° 2-25-1080 »\n" \
-           "- « BO numéro ? »"
+    # Repli LLM : la cascade de règles ne couvre pas cette question — on
+    # laisse le modèle analyser le contenu réel du document, avec vérification
+    # mécanique des citations (aucune hallucination n'est jamais montrée).
+    return _llm_analysis_answer(data, question)
+
+
+# ── Analyse du contenu par LLM (repli au-delà de la cascade de règles) ──
+
+# Budget de contexte pour l'analyse d'UN SEUL document : on peut envoyer
+# l'essentiel des articles (le budget par défaut de 9000 caractères existe
+# pour le corpus RAG multi-documents, pas pour un BO isolé). format_context
+# tronque encore les articles les plus longs pour tenir ce budget.
+ANALYSIS_MAX_CONTEXT_CHARS = 40000
+
+_ANALYSIS_OVERVIEW_WORDS = (
+    "résumé", "resume", "synthèse", "synthese", "thème", "theme", "thèmes",
+    "themes", "discute", "discuter", "porte sur", "décris", "décrire",
+    "détail", "detail", "article par article", "traite", "de quoi",
+    "à quoi", "summary", "about", "overview", "aperçu", "analyse",
+)
+
+_ANALYSIS_DEEP_WORDS = (
+    "analyse en profondeur", "analyse complète", "décris en détail",
+    "décris-moi en détail", "que traite ce document", "de quoi parle ce document",
+)
+
+
+def _articles_as_rag_sources(data: dict) -> list[dict]:
+    """Convertit les articles du document analysé en sources RAG au format
+    attendu par src/rag/prompt_builder.format_context().
+
+    L'ordre suit l'ordre du document (numéro d'article), pas un score de
+    pertinence : pour une analyse de contenu on veut VOIR le document dans
+    son déroulement, pas un top-k sémantique. Chaque article est enrichi
+    du doc_id / bo_number du document et, quand il appartient à un décret,
+    du type et de la référence de ce décret (champs que format_context
+    affiche dans l'en-tête de chaque source).
+    """
+    doc_id = data.get("doc_id", "")
+    bo = data.get("bo_number", "")
+    by_index: dict[int, dict] = {}
+    for instr in data.get("instruments", []):
+        for idx in instr.get("article_indices") or []:
+            if isinstance(idx, int):
+                by_index[idx] = instr
+    out: list[dict] = []
+    for i, a in enumerate(data.get("articles", [])):
+        src = dict(a)
+        src["article_number"] = a.get("number", a.get("article_number", ""))
+        src["doc_id"] = doc_id
+        src["bo_number"] = bo
+        instr = by_index.get(i)
+        if instr:
+            src.setdefault("instrument_type", instr.get("instrument_type"))
+            src.setdefault("reference", instr.get("reference"))
+        out.append(src)
+    return out
+
+
+def _llm_analysis_answer(data: dict, question: str) -> str:
+    """Réponse LLM fondée sur le contenu réel du document analysé.
+
+    Utilisée en repli quand la cascade de règles (comptages, signataires,
+    références, article exact, recherche plein texte, classification de
+    domaine) ne couvre pas la question. Réutilise TOUT le mécanisme
+    anti-hallucination du chatbot RAG v1 : citations mot à mot vérifiées
+    mécaniquement pour une question factuelle (src/rag/citation_verifier.py),
+    ancrage par numéros de sources pour une vue d'ensemble — rien
+    d'invérifiable n'est jamais montré à l'utilisateur.
+    """
+    from src.rag.citation_verifier import (
+        parse_citations,
+        verify_citations,
+        parse_grounding,
+        verify_grounding,
+    )
+    from src.rag.llm_client import LLMClient
+    from src.rag.prompt_builder import (
+        OUT_OF_SCOPE_SENTENCE_AR,
+        OUT_OF_SCOPE_SENTENCE_FR,
+        REFUSAL_SENTENCE_AR,
+        REFUSAL_SENTENCE_FR,
+        UNSUPPORTED_SENTENCE_AR,
+        UNSUPPORTED_SENTENCE_FR,
+        build_prompt,
+        build_synthesis_prompt,
+    )
+
+    lang = (data.get("lang") or "").lower()
+    sources = _articles_as_rag_sources(data)
+
+    low = question.lower().strip()
+    is_overview = any(w in low for w in _ANALYSIS_OVERVIEW_WORDS)
+
+    build = build_synthesis_prompt if is_overview else build_prompt
+    system_instruction, user_prompt = build(
+        question, sources, max_context_chars=ANALYSIS_MAX_CONTEXT_CHARS,
+    )
+
+    try:
+        llm = LLMClient()
+        if is_overview:
+            answer_text = llm.generate(system_instruction, user_prompt)
+        else:
+            answer_text = llm.generate_with_citation_guarantee(
+                system_instruction, user_prompt
+            )
+    except Exception:
+        return ("Je n'ai pas pu interroger le modèle de langage "
+                "(clé API, réseau ou service indisponible). Réessayez.")
+
+    refusal = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
+    refusal_phrase = REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR
+    unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
+
+    if is_overview:
+        clean, source_ids = parse_grounding(answer_text)
+        grounded, _stats = verify_grounding(source_ids, sources)
+        if refusal in clean or not clean.strip() or not grounded:
+            return refusal
+        cites = []
+        for i in grounded:
+            art = sources[i - 1]
+            page = art.get("pdf_page") or art.get("printed_page")
+            ref = f"art. {art.get('article_number', '?')}" + (f", p. {page}" if page else "")
+            cites.append(ref)
+        return clean + "\n\n📄 Sources : " + ", ".join(cites)
+
+    clean, spans = parse_citations(answer_text)
+    verified, _stats = verify_citations(spans, sources)
+    if refusal_phrase in clean:
+        return refusal_phrase
+    if spans and not verified:
+        return unsupported
+    cites = []
+    for c in verified:
+        art = sources[c["source"] - 1]
+        page = c.get("page") or art.get("pdf_page") or art.get("printed_page")
+        if page:
+            cites.append(f"p. {page}")
+        else:
+            cites.append(f"art. {art.get('article_number', '?')}")
+    return clean + (f"\n\n📄 {', '.join(cites)}" if cites else "")
 
 
 @analyzer_bp.route("/chat", methods=["POST"])

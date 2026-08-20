@@ -301,3 +301,139 @@ def test_documents_and_keywords_endpoints(annotated_dir):
     assert body["n_documents"] == 1
     assert body["per_category"]["Fiscal"] == 4
     assert body["top_terms"][0] == ["impôt", 3]
+
+
+# ── Analyse de contenu par LLM (repli au-delà de la cascade de règles) ──
+
+def test_articles_as_rag_sources_mapping():
+    data = {
+        "doc_id": "BO_9999_Fr",
+        "lang": "fr",
+        "bo_number": "9999",
+        "articles": [
+            {"number": "1", "text": "Il est institué un DECRET n° 2-26-100 test.", "pdf_page": 3},
+            {"number": "2", "text": "Les modalités d'application sont fixées par arrêté.", "pdf_page": 3},
+            {"number": "3", "text": "La présente loi entre en vigueur à sa publication.", "pdf_page": 4},
+        ],
+        "instruments": [
+            {"instrument_type": "DECRET", "reference": "2-26-100", "n_articles": 2, "article_indices": [0, 1]},
+            {"instrument_type": "LOI", "reference": "1-93-153", "n_articles": 1, "article_indices": [2]},
+        ],
+    }
+    srcs = analyzer_mod._articles_as_rag_sources(data)
+    assert len(srcs) == 3
+    a1, a2, a3 = srcs
+    assert a1["article_number"] == "1"
+    assert a1["doc_id"] == "BO_9999_Fr"
+    assert a1["bo_number"] == "9999"
+    assert a1["instrument_type"] == "DECRET"
+    assert a1["reference"] == "2-26-100"
+    assert a1["text"].startswith("Il est institué")
+    assert a2["reference"] == "2-26-100"
+    assert a3["instrument_type"] == "LOI"
+    assert a3["reference"] == "1-93-153"
+
+
+def test_llm_analysis_answer_synthesis_path(monkeypatch, annotated_dir):
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+
+    class FakeLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate(self, system_instruction, user_prompt):
+            assert "article 1" in user_prompt or "Article 1" in user_prompt
+            return ("Ce document institue un décret portant un test.\n\n"
+                    "[[GROUNDED-IN]]\nSource 1, Source 2\n[[END]]")
+
+    monkeypatch.setattr(llm_mod, "LLMClient", FakeLLM)
+    ans = analyzer_mod._llm_analysis_answer(SAMPLE_JSON, "Décris ce document")
+    assert "Ce document institue" in ans
+    assert "[[GROUNDED-IN]]" not in ans
+    assert "📄 Sources" in ans
+    assert "art. 1" in ans
+
+
+def test_llm_analysis_answer_factual_path(monkeypatch):
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+
+    class FakeLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate_with_citation_guarantee(self, system_instruction, user_prompt):
+            return ("Le décret n° 2-26-100 institue un test.\n\n"
+                    "[[CITATIONS]]\n«Il est institué un DECRET n° 2-26-100» [Source 1]\n[[END]]")
+
+    monkeypatch.setattr(llm_mod, "LLMClient", FakeLLM)
+    ans = analyzer_mod._llm_analysis_answer(SAMPLE_JSON, "que prévoit le décret ?")
+    assert "institue un test" in ans
+    assert "[[CITATIONS]]" not in ans
+    assert "📄" in ans
+
+
+def test_llm_analysis_answer_refusal(monkeypatch):
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+
+    class RefuseLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate(self, system_instruction, user_prompt):
+            return ("Je ne peux répondre qu'à partir des documents chargés dans le corpus "
+                    "indexé — cette question sort de leur contenu.\n\n[[GROUNDED-IN]]\n[[END]]")
+
+        def generate_with_citation_guarantee(self, system_instruction, user_prompt):
+            return ("Je ne peux répondre qu'à partir des documents chargés dans le corpus "
+                    "indexé — cette question sort de leur contenu.\n\n[[CITATIONS]]\n[[END]]")
+
+    monkeypatch.setattr(llm_mod, "LLMClient", RefuseLLM)
+    ans = analyzer_mod._llm_analysis_answer(SAMPLE_JSON, "quelle est la météo ?")
+    assert "Je ne peux répondre" in ans
+
+
+def test_chat_routes_unknown_question_to_llm(annotated_dir, monkeypatch):
+    _write_sample(annotated_dir)
+    calls = {"n": 0}
+
+    def fake_llm_answer(data, question):
+        calls["n"] += 1
+        return "réponse LLM testée"
+
+    monkeypatch.setattr(analyzer_mod, "_llm_analysis_answer", fake_llm_answer)
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+
+    r = client.post("/chat", json={"question": "comment s'applique le régime fiscal ?", "doc_id": "BO_9999_Fr"})
+    assert r.status_code == 200
+    assert r.get_json()["answer"] == "réponse LLM testée"
+    assert calls["n"] == 1
+
+    # Une question couverte par les règles reste sur les règles (pas de LLM)
+    r = client.post("/chat", json={"question": "Combien d'articles ?", "doc_id": "BO_9999_Fr"})
+    assert "2 articles" in r.get_json()["answer"]
+    assert calls["n"] == 1
+
+
+def test_chat_deep_analysis_action(annotated_dir, monkeypatch):
+    _write_sample(annotated_dir)
+    seen = {}
+
+    def fake_llm_answer(data, question):
+        seen["q"] = question
+        return "résumé du document"
+
+    monkeypatch.setattr(analyzer_mod, "_llm_analysis_answer", fake_llm_answer)
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+
+    r = client.post("/chat", json={
+        "question": "Décris en détail ce que traite ce document, article par article, avec pour chaque point la page correspondante.",
+        "doc_id": "BO_9999_Fr",
+    })
+    assert r.status_code == 200
+    assert r.get_json()["answer"] == "résumé du document"
+    assert "Décris en détail" in seen["q"]

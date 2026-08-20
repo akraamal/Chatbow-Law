@@ -447,6 +447,7 @@
           <div class="flex gap-2 items-center flex-wrap">
             <button class="btn-outline" onclick="showPipelineView()">&#x25B6; Voir le pipeline</button>
             <button class="btn-outline" onclick="resetToUpload()">&#x1F4C1; Nouvelle analyse</button>
+            <button class="btn-outline" id="btnDeepAnalysis" onclick="deepAnalysis()" style="display:none" title="Résumé détaillé du document, article par article">&#x1F50D; Analyse en profondeur</button>
             <div class="relative">
               <button class="btn-outline" id="exportBtn" onclick="toggleExportMenu()">&#x2B07; Exporter</button>
               <div id="exportMenu" style="display:none;position:absolute;right:0;top:100%;margin-top:4px;background:#ffffff;border:2px solid #2c537f;border-radius: 0;overflow:hidden;z-index:100;min-width:140px;box-shadow:0 4px 16px rgba(0,0,0,.2)">
@@ -495,7 +496,8 @@
       • « Combien d'articles ? »<br>
       • « Liste des instruments »<br>
       • « Article 5 »<br>
-      • « Recherche [mot-clé] »
+      • « Recherche [mot-clé] »<br>
+      • « Analyse en profondeur » (résumé détaillé article par article)
     </div>
   </div>
   <div class="chat-input-area">
@@ -971,6 +973,7 @@ function renderResults(data) {
   document.getElementById('pipelineView').classList.remove('active');
   document.getElementById('results').classList.add('active');
   document.getElementById('btnBackToResults').style.display = 'inline-block';
+  document.getElementById('btnDeepAnalysis').style.display = 'inline-block';
 
   document.getElementById('resultTitle').textContent =
     `Résultats — BO ${data.bo_number || ''} ${data.date_publication || ''}`;
@@ -1286,6 +1289,60 @@ function enableChat(docId) {
   document.getElementById('chatStatus').textContent = 'BO ' + (docId || '');
   document.getElementById('chatInput').disabled = false;
   document.getElementById('chatSendBtn').disabled = false;
+  document.getElementById('btnDeepAnalysis').style.display = 'inline-block';
+}
+
+function deepAnalysis() {
+  const panel = document.getElementById('chatPanel');
+  const input = document.getElementById('chatInput');
+  if (!chatDocId) return;
+  if (!panel.classList.contains('open')) toggleChat();
+  input.value = 'Décris en détail ce que traite ce document, article par article, avec pour chaque point la page correspondante.';
+  input.focus();
+  sendChat();
+}
+
+// Convertit la ligne « 📄 Sources : … » (ou « 📄 p. N, … ») d'une réponse en
+// liens cliquables qui basculent sur l'onglet Articles et font défiler
+// jusqu'au bon article.
+function linkChatSources(container) {
+  container.querySelectorAll('p').forEach(p => {
+    if (!p.textContent.includes('📄')) return;
+    const html = p.textContent.replace(/art\.\s*(\d+)\s*(?:,\s*p\.\s*(\d+))?/g,
+      (m, art, page) =>
+        `<a class="chat-source" data-art="${art}" href="#">art. ${art}${page ? ', p. ' + page : ''}</a>`);
+    p.innerHTML = html;
+  });
+  container.querySelectorAll('a.chat-source').forEach(a => {
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      gotoArticle(a.dataset.art);
+    });
+  });
+}
+
+function gotoArticle(artNum) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+  const artBtn = document.querySelector('.tab-btn[data-tab="articles"]');
+  if (artBtn) artBtn.classList.add('active');
+  const tab = document.getElementById('tab-articles');
+  if (tab) tab.classList.add('active');
+  const items = document.querySelectorAll('#tab-articles .article-item');
+  let found = false;
+  for (const it of items) {
+    const n = it.querySelector('.article-number');
+    if (n && n.textContent.includes('Article ' + artNum)) {
+      it.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      it.style.background = '#fff3cd';
+      setTimeout(() => it.style.background = '', 2500);
+      found = true;
+      break;
+    }
+  }
+  if (!found) {
+    document.getElementById('chatStatus').textContent = 'Article ' + artNum + ' introuvable dans l\'onglet Articles.';
+  }
 }
 
 function toggleChat() {
@@ -1362,6 +1419,7 @@ async function sendChat() {
     });
     const data = await resp.json();
     botDiv.innerHTML = renderMarkdown(data.answer || 'Pas de réponse.');
+    linkChatSources(botDiv);
   } catch (err) {
     botDiv.textContent = 'Erreur de connexion au serveur.';
   }
