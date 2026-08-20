@@ -77,8 +77,11 @@ def test_cancel_route_returns_json():
 
 @pytest.fixture()
 def _isolated_history(tmp_path, monkeypatch):
-    """Redirige le registre vers un fichier temporaire."""
+    """Redirige le registre et le dossier annoté vers des chemins temporaires."""
     monkeypatch.setattr(analyzer, "HISTORY_FILE", tmp_path / "analyses_history.json")
+    annotated = tmp_path / "annotated"
+    annotated.mkdir()
+    monkeypatch.setattr(analyzer, "ANNOTATED_DIR", annotated)
     yield tmp_path / "analyses_history.json"
 
 
@@ -177,6 +180,34 @@ def test_open_analysis_unknown_returns_404(_isolated_history, tmp_path):
     app = _make_app()
     with app.test_client() as c:
         assert c.get("/open-analysis/inconnu").status_code == 404
+
+
+def test_history_reconciles_after_project_move(_isolated_history, tmp_path):
+    """Un-nesting (déménagement du dépôt) : les chemins absolus du registre
+    pointent dans le vide. L'historique doit se reconstruire à partir des
+    JSON annotés présents sur disque, et l'ouverture doit fonctionner."""
+    orphan = _make_result_file(analyzer.ANNOTATED_DIR, "orphan123")
+    with analyzer._history_lock:
+        analyzer._save_history([{
+            "doc_id": "ghost999", "task_id": "t1", "filename": "",
+            "bo_number": "", "date_publication": "", "n_instruments": 0,
+            "n_articles": 0,
+            "result_path": str(tmp_path / "absent" / "ghost_entities.json"),
+            "created_at": time.time(),
+        }])
+
+    app = _make_app()
+    with app.test_client() as c:
+        r = c.get("/analyses")
+        assert r.status_code == 200
+        docs = [a["doc_id"] for a in r.get_json()["analyses"]]
+        assert "orphan123" in docs
+        assert "ghost999" not in docs
+
+        r2 = c.get("/open-analysis/orphan123")
+        assert r2.status_code == 200
+        assert r2.get_json()["bo_number"] == "7510"
+        assert r2.get_json()["n_articles"] == 1
 
 
 # ── Helpers ───────────────────────────────────────────────────────────

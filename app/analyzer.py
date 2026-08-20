@@ -315,6 +315,52 @@ def _save_history(history: list[dict]):
         pass
 
 
+def _history_entries() -> list[dict]:
+    """Historique réconcilié avec le dossier annoté.
+
+    Le registre persistant (data/analyses_history.json) stocke des chemins
+    absolus de résultats. Après un déménagement du dépôt (ex. l'un-nesting
+    du projet à la racine), ces chemins pointent dans le vide et l'onglet
+    « Analyses précédentes » se vide. On complète donc le registre par les
+    JSON annotés présents sur disque qui n'y figurent pas, et on réécrit le
+    registre pour qu'il se répare tout seul.
+    """
+    with _history_lock:
+        history = _load_history()
+        entries = [
+            h for h in history
+            if h.get("result_path") and Path(h["result_path"]).exists()
+        ]
+        seen = {e["doc_id"] for e in entries if e.get("doc_id")}
+        added = []
+        for path in sorted(ANNOTATED_DIR.glob("*_entities.json")):
+            try:
+                with open(path, encoding="utf-8") as f:
+                    data = json.load(f)
+            except Exception:
+                continue
+            doc_id = data.get("doc_id") or path.stem
+            if doc_id in seen:
+                continue
+            entry = {
+                "doc_id": doc_id,
+                "task_id": "",
+                "filename": data.get("source_file", "") or data.get("filename", "") or path.stem,
+                "bo_number": data.get("bo_number", ""),
+                "date_publication": data.get("date_publication", ""),
+                "n_instruments": len(data.get("instruments", [])),
+                "n_articles": len(data.get("articles", [])),
+                "result_path": str(path),
+                "created_at": time.time(),
+            }
+            entries.append(entry)
+            seen.add(doc_id)
+            added.append(entry)
+        if added:
+            _save_history(entries[:_MAX_HISTORY])
+        return entries
+
+
 def _record_analysis(tid: str, result_path: Path):
     """Ajoute une analyse terminée au registre persistant (dédupliquée par
     doc_id — une réanalyse du même document remplace l'ancienne entrée)."""
@@ -354,17 +400,14 @@ def cancel(task_id: str):
 @analyzer_bp.route("/analyses")
 def analyses():
     """Liste des analyses précédentes (documents déjà analysés)."""
-    history = _load_history()
-    # Seules les entrées dont le résultat existe encore sont listées.
-    visible = [h for h in history if h.get("result_path") and Path(h["result_path"]).exists()]
-    return flask.jsonify({"analyses": visible})
+    return flask.jsonify({"analyses": _history_entries()})
 
 
 @analyzer_bp.route("/open-analysis/<doc_id>")
 def open_analysis(doc_id: str):
     """Recharge une analyse passée : le résultat complet (résultats + chat
     documentaire) redevient disponible comme si l'analyse venait de finir."""
-    for entry in _load_history():
+    for entry in _history_entries():
         if entry.get("doc_id") != doc_id:
             continue
         result_path = entry.get("result_path")
