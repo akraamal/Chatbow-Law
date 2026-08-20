@@ -161,11 +161,6 @@
   .entity-pills { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; }
   .entity-pill { display: inline-flex; align-items: center; gap: 5px; padding: 4px 12px; border-radius: 0; font-size: 12px; font-weight: 600; color: #fff; }
 
-  /* ── Preamble ────────────────────────────────────────────── */
-  .preamble-box { background: #ffffff; border: 2px solid #2c537f; border-radius: 0; padding: 14px 18px; margin-bottom: 20px; }
-  .preamble-box h3 { font-size: 13px; font-weight: 600; margin-bottom: 8px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .05em; }
-  .preamble-text { font-size: 13px; line-height: 1.6; white-space: pre-wrap; color: #001e2b; }
-
   /* ── Tabs ────────────────────────────────────────────────── */
   .tabs { display: flex; gap: 2px; background: #d9dcd9; border: 2px solid #2c537f; border-radius: 0; padding: 3px; margin-bottom: 16px; }
   .tab-btn { flex: 1; padding: 8px 16px; border: none; background: transparent; font-size: 13px; font-weight: 600; cursor: pointer; border-radius: 0; color: #2c537f; white-space: nowrap; transition: .15s; }
@@ -460,7 +455,6 @@
         </div>
         <div class="stats-bar" id="statsBar"></div>
         <div class="entity-pills" id="entityPills"></div>
-        <div class="preamble-box" id="preambleBox"></div>
         <div class="tabs">
           <button class="tab-btn active" data-tab="instruments">D&eacute;crets</button>
           <button class="tab-btn" data-tab="articles">Articles</button>
@@ -991,14 +985,6 @@ function renderResults(data) {
   document.getElementById('entityPills').innerHTML = data.entity_counts.map(e =>
     `<span class="entity-pill" style="background:${e.color}">${escapeHtml(e.label)} ${e.count}</span>`
   ).join('');
-
-  const preBox = document.getElementById('preambleBox');
-  if (data.preamble_text) {
-    preBox.innerHTML = `<h3>Préambule</h3><div class="preamble-text">${highlightText(data.preamble_text, data.preamble_entities)}</div>`;
-    preBox.style.display = 'block';
-  } else {
-    preBox.style.display = 'none';
-  }
 
   const cmap = { LOI:'#e74c3c', DAHIR:'#8e44ad', DECRET:'#2980b9', ARRETE:'#16a085',
     DECISION:'#d35400', DELIBERATION:'#c0392b', AVIS:'#95a5a6', CIRCULAIRE:'#7f8c8d' };
