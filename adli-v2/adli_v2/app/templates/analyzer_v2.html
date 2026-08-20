@@ -252,6 +252,16 @@
   .chat-input-area input { flex: 1; background: #f4faff; border: 1px solid #c3c6d0; border-radius: 0; padding: 8px 10px; color: #001e2b; font-size: 13px; outline: none; }
   .chat-input-area input:focus { border-color: #2c537f; }
   .chat-input-area button { background: #2c537f; color: #fff; border: none; border-radius: 0; padding: 8px 14px; cursor: pointer; font-size: 13px; font-weight: 600; }
+  #chatSendBtn.interrupt-mode {
+    width: 34px; height: 34px; padding: 0;
+    border-radius: 50%;
+    background: #d32f2f;
+    border: 2px solid #ffffff;
+    box-shadow: 0 0 0 2px #d32f2f;
+    flex-shrink: 0;
+  }
+  #chatSendBtn.interrupt-mode:hover { background: #b71c1c; box-shadow: 0 0 0 2px #b71c1c; }
+  #chatSendBtn.interrupt-mode:disabled { opacity: .6; cursor: not-allowed; }
   .chat-input-area button:hover { background: #466b99; }
   .chat-input-area button:disabled { opacity: .5; cursor: default; }
   .chat-welcome { color: #43474f; text-align: center; padding: 20px 10px; font-size: 12px; line-height: 1.6; }
@@ -492,7 +502,7 @@
   </div>
   <div class="chat-input-area">
     <input type="text" id="chatInput" placeholder="Posez une question..." onkeydown="if(event.key==='Enter') sendChat()" disabled>
-    <button id="chatSendBtn" onclick="sendChat()" disabled>Envoyer</button>
+    <button id="chatSendBtn" onclick="chatSendClick()" title="Envoyer" disabled>Envoyer</button>
   </div>
 </div>
 
@@ -502,6 +512,28 @@
 let taskId = null;
 let eventSource = null;
 let cachedResult = null;
+let analysisRunning = false;
+
+function setChatInterruptMode(on) {
+  analysisRunning = on;
+  const btn = document.getElementById('chatSendBtn');
+  btn.classList.toggle('interrupt-mode', on);
+  if (on) {
+    btn.disabled = false;
+    btn.title = 'Interrompre l\'analyse';
+  } else {
+    btn.disabled = !chatDocId;
+    btn.title = 'Envoyer';
+  }
+}
+
+function chatSendClick() {
+  if (analysisRunning) {
+    cancelTask();
+    return;
+  }
+  sendChat();
+}
 
 // Step timing: { 1: { start: timestamp, done: bool }, ... }
 let stepTiming = {};
@@ -686,13 +718,15 @@ async function uploadFile(file) {
   try {
     const resp = await fetch('/upload', { method: 'POST', body: form });
     const data = await resp.json();
-    if (data.error) { showError(data.error); return; }
+    if (data.error) { showError(data.error); setChatInterruptMode(false); return; }
     taskId = data.task_id;
     addLogLine(`  Tâche démarrée : ${taskId}`);
     addLogLine('');
+    setChatInterruptMode(true);
     connectSSE(taskId);
   } catch (err) {
     showError('Erreur de connexion au serveur.');
+    setChatInterruptMode(false);
   }
 }
 
@@ -769,6 +803,7 @@ function connectSSE(tid) {
       <div class="progress-stat"><div class="ps-value" style="color:var(--green)">&#x2713; Terminé</div><div class="ps-label">Pipeline complet</div></div>
     `;
     document.getElementById('cancelBtn').style.display = 'none';
+    setChatInterruptMode(false);
     loadHistory();
     fetchResult(tid);
   });
@@ -776,6 +811,7 @@ function connectSSE(tid) {
   eventSource.addEventListener('error', (e) => {
     eventSource.close();
     document.getElementById('cancelBtn').style.display = 'none';
+    setChatInterruptMode(false);
     if (e.data) showError(e.data);
     else showError('Erreur de connexion au pipeline');
   });
@@ -838,6 +874,7 @@ function resetToUpload() {
   taskId = null;
   cachedResult = null;
   chatDocId = null;
+  setChatInterruptMode(false);
   document.getElementById('pipelineView').classList.remove('active');
   document.getElementById('results').classList.remove('active');
   document.getElementById('errorBox').style.display = 'none';
