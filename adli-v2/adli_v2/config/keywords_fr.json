@@ -5,8 +5,9 @@
       "exonération", "déduction", "fiscal", "contribution", "patente"
     ],
     "Social": [
-      "travail", "salarié", "congé", "retraite", "assurance", "maladie",
-      "accident", "chômage", "sécurité sociale", "allocations", "pension"
+      "travail", "travaux", "salarié", "congé", "retraite", "assurance",
+      "maladie", "accident", "chômage", "sécurité sociale", "allocations",
+      "pension"
     ],
     "Administratif": [
       "fonctionnaire", "administration", "collectivité", "territoriale",
@@ -19,15 +20,15 @@
     ],
     "Pénal": [
       "infraction", "délit", "crime", "peine", "emprisonnement",
-      "amende", "tribunal", "cour d'assises", "procès", "enquête"
+      "amende", "tribunal", "tribunaux", "cour d'assises", "procès", "enquête"
     ],
     "Commercial": [
       "commerce", "société", "entreprise", "commerçant", "fonds de commerce",
       "registre du commerce", "achat", "vente", "contractant", "fournisseur"
     ],
     "Environnement": [
-      "environnement", "eau", "air", "déchet", "pollution", "protection",
-      "forêt", "foret", "biodiversité", "climat", "énergie",
+      "environnement", "eau", "eaux", "air", "déchet", "pollution",
+      "protection", "forêt", "foret", "biodiversité", "climat", "énergie",
       "développement durable"
     ],
     "Urbain": [

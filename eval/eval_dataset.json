@@ -677,6 +677,126 @@
       "type": "unanswerable",
       "expected_doc_id": null,
       "notes": "مرسوم مستقبلي (2027) غير موجود في المجموعة النصية."
+    },
+    {
+      "id": "fr_route_agg_01",
+      "query": "Quels sont les derniers documents analysés ?",
+      "lang": "fr",
+      "type": "routing",
+      "expected_route": {"catalog": true, "scope": null},
+      "notes": "Agrégation sans nom d'instrument : doit atteindre le catalogue via le repli (quels sont + document)."
+    },
+    {
+      "id": "fr_route_agg_02",
+      "query": "Combien d'actes juridiques contient ce bulletin ?",
+      "lang": "fr",
+      "type": "routing",
+      "expected_route": {"catalog": true, "scope": null},
+      "notes": "Décompte sans nom d'instrument : repli (combien + bulletin)."
+    },
+    {
+      "id": "fr_route_agg_03",
+      "query": "Peux-tu lister les documents du bulletin ?",
+      "lang": "fr",
+      "type": "routing",
+      "expected_route": {"catalog": true, "scope": null},
+      "notes": "Liste sans nom d'instrument : repli (lister + documents)."
+    },
+    {
+      "id": "ar_route_agg_01",
+      "query": "كم عدد الوثائق الموجودة في هذا الجريدة؟",
+      "lang": "ar",
+      "type": "routing",
+      "expected_route": {"catalog": true, "scope": null},
+      "notes": "Décompte en arabe sans nom d'instrument : repli (كم عدد + الوثائق)."
+    },
+    {
+      "id": "ar_route_agg_02",
+      "query": "ما هي أهم الوثائق؟",
+      "lang": "ar",
+      "type": "routing",
+      "expected_route": {"catalog": true, "scope": null},
+      "notes": "Liste en arabe : repli (ما هي + الوثائق)."
+    },
+    {
+      "id": "ar_route_agg_03",
+      "query": "عرض لي جميع الوثائق الجديدة",
+      "lang": "ar",
+      "type": "routing",
+      "expected_route": {"catalog": true, "scope": null},
+      "notes": "Liste en arabe : repli (جميع + الوثائق)."
+    },
+    {
+      "id": "fr_route_synth_01",
+      "query": "Quel est le propos de ce texte ?",
+      "lang": "fr",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": "synthesis"},
+      "notes": "Vue d'ensemble sans signal lexical explicite : repli (le propos de)."
+    },
+    {
+      "id": "fr_route_synth_02",
+      "query": "Résume-moi ce document en quelques phrases.",
+      "lang": "fr",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": "synthesis"},
+      "notes": "Résumé : signal lexical (résume)."
+    },
+    {
+      "id": "ar_route_synth_01",
+      "query": "ما هو المضمون العام لهذه الوثيقة؟",
+      "lang": "ar",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": "synthesis"},
+      "notes": "Vue d'ensemble en arabe : repli (المضمون العام)."
+    },
+    {
+      "id": "ar_route_synth_02",
+      "query": "لخص لي هذا النص",
+      "lang": "ar",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": "synthesis"},
+      "notes": "Résumé en arabe : signal lexical (لخص)."
+    },
+    {
+      "id": "fr_route_sem_01",
+      "query": "Quels sont les délais de recours contre une décision de permis de construire ?",
+      "lang": "fr",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": null},
+      "notes": "Question factuelle avec « quels sont » ET le mot « décision » : le garde-fou des noms de corpus doit la maintenir en sémantique."
+    },
+    {
+      "id": "fr_route_sem_02",
+      "query": "Combien de jours pour déposer un recours ?",
+      "lang": "fr",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": null},
+      "notes": "« Combien » factuel sans nom de corpus : sémantique."
+    },
+    {
+      "id": "fr_route_sem_03",
+      "query": "Qui délivre le permis de construire ?",
+      "lang": "fr",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": null},
+      "notes": "Question factuelle pure : sémantique."
+    },
+    {
+      "id": "ar_route_sem_01",
+      "query": "كم من الوقت يستغرق تسليم الترخيص؟",
+      "lang": "ar",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": null},
+      "notes": "« كم » factuel sans nom de corpus : sémantique."
+    },
+    {
+      "id": "ar_route_sem_02",
+      "query": "ما هي شروط الحصول على رخصة البناء؟",
+      "lang": "ar",
+      "type": "routing",
+      "expected_route": {"catalog": false, "scope": null},
+      "notes": "« ما هي » factuel sans nom de corpus : sémantique."
     }
   ]
 }

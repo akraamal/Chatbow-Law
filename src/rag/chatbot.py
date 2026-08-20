@@ -233,7 +233,7 @@ class LegalRAGChatbot:
         # « combien d'articles comporte le décret n° 2-25-1080 ? »).
         # Se replie silencieusement sur le chemin sémantique si le catalogue
         # n'est pas disponible ou ne donne rien.
-        route = route_query(search_query, lang)
+        route = route_query(search_query, lang, embed_fn=self.search_engine.embedder.embed_query)
         # Gate synthèse : scope synthesis ET pas de catalogue — SAUF quand
         # la question nomme une référence précise (« résume le décret n°
         # 2-25-1080 ») : le routeur marque catalog=True dès qu'une
