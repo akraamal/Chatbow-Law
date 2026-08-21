@@ -437,3 +437,203 @@ def test_chat_deep_analysis_action(annotated_dir, monkeypatch):
     assert r.status_code == 200
     assert r.get_json()["answer"] == "résumé du document"
     assert "Décris en détail" in seen["q"]
+
+
+# ── Analyse profonde fragmentée (documents volumineux, ex. BO_7488-bis) ──
+
+def _make_big_data(n_articles=40, text_len=400) -> dict:
+    """Document dépassant largement le budget d'une seule requête."""
+    articles = [
+        {"number": str(i + 1),
+         "text": f"Article {i + 1} contenu test " + "x" * text_len,
+         "pdf_page": i // 10 + 3}
+        for i in range(n_articles)
+    ]
+    half = n_articles // 2
+    instruments = [
+        {"instrument_type": "DECRET", "reference": "2-26-100",
+         "n_articles": half, "article_indices": list(range(half))},
+        {"instrument_type": "ARRETE", "reference": "3-26-1",
+         "n_articles": n_articles - half, "article_indices": list(range(half, n_articles))},
+    ]
+    return {
+        "doc_id": "BO_9999_Fr", "lang": "fr", "bo_number": "9999",
+        "date_publication": "2026-08-01",
+        "articles": articles, "instruments": instruments,
+    }
+
+
+def test_plan_analysis_chunks_respects_budget(monkeypatch):
+    monkeypatch.setattr(analyzer_mod, "ANALYSIS_CHUNK_CONTEXT_CHARS", 1000)
+    srcs = [{"text": "a" * 300} for _ in range(5)]   # coût ≈ 500/article → 2/paquet
+
+    chunks, covered = analyzer_mod._plan_analysis_chunks(srcs)
+
+    assert [len(c) for c in chunks] == [2, 2, 1]
+    assert covered == 5
+    # Aucun paquet ne dépasse le budget (marge incluse)
+    for chunk in chunks:
+        assert sum(analyzer_mod._article_context_len(a) for a in chunk) \
+            <= analyzer_mod.ANALYSIS_CHUNK_CONTEXT_CHARS
+
+
+def test_plan_analysis_chunks_caps_max_chunks(monkeypatch):
+    monkeypatch.setattr(analyzer_mod, "ANALYSIS_CHUNK_CONTEXT_CHARS", 1000)
+    monkeypatch.setattr(analyzer_mod, "ANALYSIS_MAX_CHUNKS", 2)
+    srcs = [{"text": "a" * 300} for _ in range(7)]   # 2/paquet → 4 paquets nécessaires
+
+    chunks, covered = analyzer_mod._plan_analysis_chunks(srcs)
+
+    assert len(chunks) == 2
+    assert covered == 4                              # les 3 derniers sont exclus
+
+
+def _install_chunk_llm(monkeypatch, behavior):
+    """Remplace LLMClient par une fausse classe pilotée par behavior(call_idx).
+    Renvoie la liste des prompts reçus."""
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+    prompts: list[str] = []
+
+    class FakeLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate(self, system_instruction, user_prompt):
+            prompts.append(user_prompt)
+            return behavior(len(prompts) - 1)
+
+    monkeypatch.setattr(llm_mod, "LLMClient", FakeLLM)
+    return prompts
+
+
+def test_llm_analysis_answer_chunked_path(monkeypatch):
+    data = _make_big_data(n_articles=40, text_len=400)
+    srcs = analyzer_mod._articles_as_rag_sources(data)
+    total = sum(analyzer_mod._article_context_len(a) for a in srcs)
+    assert total > analyzer_mod.ANALYSIS_MAX_CONTEXT_CHARS   # précondition mode fragmenté
+
+    def behave(idx):
+        return ("Contenu de cette tranche du document.\n\n"
+                "[[GROUNDED-IN]]\nSource 1\n[[END]]")
+
+    prompts = _install_chunk_llm(monkeypatch, behave)
+    chunks, covered = analyzer_mod._plan_analysis_chunks(srcs)
+
+    ans = analyzer_mod._llm_analysis_answer(
+        data, "Décris en détail ce que traite ce document, article par article.")
+
+    assert len(prompts) == len(chunks) >= 2           # plusieurs requêtes séquentielles
+    assert covered == len(srcs)                       # tout le document tient dans les paquets
+    for chunk in chunks:                              # chaque section porte son en-tête
+        title = analyzer_mod._analysis_section_title(chunk)
+        assert title and title in ans
+    assert "[[GROUNDED-IN]]" not in ans               # bloc d'ancrage retiré
+    assert "📄 Sources" in ans
+    assert "Analyse partielle" not in ans             # pas de note : couverture complète
+
+
+def test_llm_analysis_answer_chunked_partial_coverage(monkeypatch):
+    data = _make_big_data(n_articles=40, text_len=400)
+    monkeypatch.setattr(analyzer_mod, "ANALYSIS_MAX_CHUNKS", 1)   # latence bornée
+
+    prompts = _install_chunk_llm(
+        monkeypatch,
+        lambda idx: ("Résumé de la première tranche.\n\n"
+                     "[[GROUNDED-IN]]\nSource 1\n[[END]]"))
+
+    ans = analyzer_mod._llm_analysis_answer(
+        data, "Décris en détail ce que traite ce document, article par article.")
+
+    srcs = analyzer_mod._articles_as_rag_sources(data)
+    chunks, covered = analyzer_mod._plan_analysis_chunks(srcs)
+    assert len(prompts) == 1
+    assert "Analyse partielle" in ans
+    assert f"{covered} premiers articles couverts sur {len(srcs)}" in ans
+    assert covered < len(srcs)
+
+
+def test_llm_analysis_answer_chunk_failure_skips_section(monkeypatch):
+    data = _make_big_data(n_articles=40, text_len=400)
+
+    state = {"calls": 0}
+
+    def behave(idx):
+        state["calls"] += 1
+        if state["calls"] == 1:                       # premier paquet en erreur
+            raise RuntimeError("boom")
+        return ("Tranche suivante.\n\n[[GROUNDED-IN]]\nSource 1\n[[END]]")
+
+    _install_chunk_llm(monkeypatch, behave)
+    srcs = analyzer_mod._articles_as_rag_sources(data)
+    chunks, _cov = analyzer_mod._plan_analysis_chunks(srcs)
+
+    ans = analyzer_mod._llm_analysis_answer(
+        data, "Décris en détail ce que traite ce document, article par article.")
+
+    assert ans.count("📄 Sources") == len(chunks) - 1   # section en erreur sautée
+    assert "Tranche suivante" in ans
+
+
+def test_llm_analysis_answer_chunk_all_failed_messages(monkeypatch):
+    data = _make_big_data(n_articles=40, text_len=400)
+
+    def boom(idx):
+        raise RuntimeError("boom")
+
+    # Tous les appels échouent → message générique (et pas un faux refus)
+    _install_chunk_llm(monkeypatch, boom)
+    ans = analyzer_mod._llm_analysis_answer(
+        data, "Décris en détail ce que traite ce document, article par article.")
+    assert "pas pu interroger" in ans
+
+    # Le modèle répond mais rien n'est ancré → refus hors périmètre
+    _install_chunk_llm(
+        monkeypatch, lambda idx: "Je ne sais pas.\n\n[[GROUNDED-IN]]\n[[END]]")
+    ans = analyzer_mod._llm_analysis_answer(
+        data, "Décris en détail ce que traite ce document, article par article.")
+    assert "Je ne peux répondre qu'à partir des documents chargés" in ans
+
+
+def _make_status_error(status: int):
+    import httpx
+    from groq import APIStatusError
+
+    resp = httpx.Response(status, request=httpx.Request("POST", "http://test"))
+    return APIStatusError("err", response=resp, body=None)
+
+
+class _StatusErrorLLM:
+    """Faux LLMClient qui lève une APIStatusError du code fourni."""
+
+    def __init__(self, status: int):
+        self.status = status
+
+    def generate(self, system_instruction, user_prompt):
+        raise _make_status_error(self.status)
+
+    def generate_with_citation_guarantee(self, system_instruction, user_prompt):
+        raise _make_status_error(self.status)
+
+
+def test_llm_analysis_answer_typed_413_message(monkeypatch):
+    """Le message « document trop long » est déclenché par le CODE HTTP 413
+    (APIStatusError typé), plus par un appariement de chaîne sur str(e)."""
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+
+    # Document assez petit pour rester en une seule requête
+    monkeypatch.setattr(llm_mod, "LLMClient",
+                        lambda *a, **k: _StatusErrorLLM(413))
+    ans = analyzer_mod._llm_analysis_answer(SAMPLE_JSON, "Décris ce document")
+    assert "trop long pour une analyse" in ans
+
+
+def test_llm_analysis_answer_other_status_generic_message(monkeypatch):
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+
+    monkeypatch.setattr(llm_mod, "LLMClient",
+                        lambda *a, **k: _StatusErrorLLM(400))
+    ans = analyzer_mod._llm_analysis_answer(SAMPLE_JSON, "Décris ce document")
+    assert "pas pu interroger" in ans

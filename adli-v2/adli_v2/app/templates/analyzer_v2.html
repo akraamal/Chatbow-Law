@@ -1356,13 +1356,21 @@ function toggleChat() {
   }
 }
 
+function renderInlineMarkdown(line) {
+  const boldCount = (line.match(/\*\*/g) || []).length;
+  if (boldCount % 2 === 0) {
+    line = line.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  }
+  const singleStars = (line.match(/(?:^|[^*])\*(?!\*)/g) || []).length;
+  if (singleStars % 2 === 0) {
+    line = line.replace(/(^|[^*])\*([^*\n]+)\*/g, '$1<em>$2</em>');
+  }
+  return line.replace(/`([^`]+)`/g, '<code>$1</code>');
+}
+
 function renderMarkdown(text) {
   const esc = escapeHtml(String(text));
-  let html = esc
-    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-    .replace(/(^|[^*])\*([^*\n]+)\*/g, '$1<em>$2</em>')
-    .replace(/`([^`]+)`/g, '<code>$1</code>');
-  const lines = html.split('\n');
+  const lines = esc.split('\n').map(renderInlineMarkdown);
   const out = [];
   let list = [];
   const flushList = () => {

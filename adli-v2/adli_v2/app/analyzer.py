@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import subprocess
 import sys
 import threading
@@ -151,6 +152,22 @@ ENTITY_COLORS = {
 
 def get_entity_color(label: str) -> str:
     return ENTITY_COLORS.get(label, "#95a5a6")
+
+
+_MD_SPECIAL_RE = re.compile(r"[*`]")
+
+def _md_safe(text: str) -> str:
+    """Neutralise les caractères à sens Markdown (*, `) dans du texte BRUT
+    extrait du PDF (OCR, artefacts d'extraction) avant de l'insérer dans une
+    réponse de chat formatée en Markdown. Sans ça, un astérisque isolé dans
+    le texte source romprait l'appariement **/`*` côté client et ferait
+    déraper la mise en forme du reste du message. Les marqueurs ** et * 
+    insérés par CE module (autour des labels qu'on contrôle) ne passent
+    jamais par cette fonction — seul le contenu issu du PDF y passe.
+    """
+    if not text:
+        return text
+    return _MD_SPECIAL_RE.sub("", text)
 
 
 def _looks_like_pdf(f) -> bool:
@@ -739,11 +756,11 @@ def _chat_answer(data: dict, question: str) -> str:
             if isinstance(i, int) and i < len(data.get("articles", [])):
                 a = data["articles"][i]
                 txt = (a.get("text") or "").strip()
-                shown = txt[:600] + ("…" if len(txt) > 600 else "")
+                shown = _md_safe(txt)[:600] + ("…" if len(txt) > 600 else "")
                 previews.append(f"**Article {a.get('number','?')}** — {shown}")
         head = (f"**{exact.get('instrument_type') or '?'} {exact.get('reference','')}** — "
                 f"**{exact.get('n_articles','?')} articles**, BO n°{bo}.")
-        title = exact.get("title") or exact.get("reference_label") or ""
+        title = _md_safe(exact.get("title") or exact.get("reference_label") or "")
         if title and title.lower() != (f"{exact.get('reference_label') or ''}").lower():
             head += f"\n\n*{title}*"
         date = exact.get("decree_date_gregorian") or exact.get("date_gregorian") or ""
@@ -816,7 +833,7 @@ def _chat_answer(data: dict, question: str) -> str:
             lines = []
             for a in hits:
                 txt = a.get("text", "")
-                shown = txt[:600] + ("…" if len(txt) > 600 else "")
+                shown = _md_safe(txt)[:600] + ("…" if len(txt) > 600 else "")
                 lines.append(f"**Article {a.get('number','?')}** — {shown}")
             return f"Résultats pour « {question} » :\n\n" + "\n".join(lines)
 
@@ -828,11 +845,34 @@ def _chat_answer(data: dict, question: str) -> str:
 
 # ── Analyse du contenu par LLM (repli au-delà de la cascade de règles) ──
 
-# Budget de contexte pour l'analyse d'UN SEUL document : on peut envoyer
-# l'essentiel des articles (le budget par défaut de 9000 caractères existe
-# pour le corpus RAG multi-documents, pas pour un BO isolé). format_context
-# tronque encore les articles les plus longs pour tenir ce budget.
-ANALYSIS_MAX_CONTEXT_CHARS = 40000
+# Budget de contexte par requête LLM pour l'analyse d'UN document. Groq
+# renvoie HTTP 413 « request_too_large » bien avant la fenêtre de contexte
+# nominative dès que le prompt dépasse la taille acceptée par son système
+# compound (constaté : 413 à ~42k caractères de prompt sur BO_7488-bis,
+# succès à ~11k). format_context tronque en dernier recours à
+# max_context_chars + 2000 pour rester sous cette limite.
+ANALYSIS_MAX_CONTEXT_CHARS = 9000
+
+# Un BO complet peut dépasser 1 Mo de texte (BO_7488-bis : 89 instruments,
+# 1224 articles) : une seule requête n'emporte qu'un tronçon tronqué du
+# document — voire un refus 413. Pour la vue d'ensemble (« Analyse en
+# profondeur »), les articles sont donc découpés en paquets séquentiels
+# tenant chacun dans ANALYSIS_CHUNK_CONTEXT_CHARS, le modèle est interrogé
+# paquet par paquet et les sections sont concaténées. Le nombre de paquets
+# est plafonné pour contenir la latence (~3 s par appel) ; quand tout le
+# document n'a pas tenu, une note finale signale la couverture réelle.
+ANALYSIS_CHUNK_CONTEXT_CHARS = 9000
+ANALYSIS_MAX_CHUNKS = 12
+
+# Marge par article dans l'estimation de remplissage d'un paquet : en-tête
+# « [Source i] » + métadonnées (BO, doc_id, type/référence, page) + séparateur.
+_ARTICLE_META_OVERHEAD_CHARS = 200
+
+# Sources citées listées au maximum en bas de chaque section (au-delà, « … »).
+_ANALYSIS_SECTION_MAX_CITES = 10
+
+_LLM_UNAVAILABLE_MSG = ("Je n'ai pas pu interroger le modèle de langage "
+    "(clé API, réseau ou service indisponible). Réessayez.")
 
 _ANALYSIS_OVERVIEW_WORDS = (
     "résumé", "resume", "synthèse", "synthese", "thème", "theme", "thèmes",
@@ -879,6 +919,127 @@ def _articles_as_rag_sources(data: dict) -> list[dict]:
     return out
 
 
+def _article_context_len(article: dict) -> int:
+    """Taille estimée d'un article dans le bloc de contexte formaté
+    (texte + en-tête de métadonnées + séparateur)."""
+    text = article.get("text_clean") or article.get("text") or ""
+    return len(text) + _ARTICLE_META_OVERHEAD_CHARS
+
+
+def _plan_analysis_chunks(sources: list[dict]) -> tuple[list[list[dict]], int]:
+    """Découpe les sources en paquets séquentiels tenant chacun dans
+    ANALYSIS_CHUNK_CONTEXT_CHARS (estimation via _article_context_len).
+
+    L'ordre du document est conservé et un article n'est jamais coupé en
+    deux entre deux paquets ; un article isolé plus gros que le budget sera
+    tronqué par le filet de sécurité de format_context. Le nombre de paquets
+    est plafonné à ANALYSIS_MAX_CHUNKS : renvoie (paquets, articles_couverts),
+    les articles au-delà du plafond étant exclus de la couverture.
+    """
+    chunks: list[list[dict]] = []
+    current: list[dict] = []
+    used = 0
+    covered = 0
+    for src in sources:
+        cost = _article_context_len(src)
+        if current and used + cost > ANALYSIS_CHUNK_CONTEXT_CHARS:
+            chunks.append(current)
+            covered += len(current)
+            current, used = [], 0
+            if len(chunks) >= ANALYSIS_MAX_CHUNKS:
+                break
+        current.append(src)
+        used += cost
+    if current and len(chunks) < ANALYSIS_MAX_CHUNKS:
+        chunks.append(current)
+        covered += len(current)
+    return chunks, covered
+
+
+def _analysis_section_title(chunk: list[dict]) -> str | None:
+    """En-tête de section d'après l'instrument du premier article du paquet."""
+    first = chunk[0]
+    itype = first.get("instrument_type")
+    ref = first.get("reference")
+    if ref:
+        return f"{itype or 'Texte'} n° {ref}"
+    if itype:
+        return str(itype)
+    return None
+
+
+def _chunked_analysis_answer(lang: str, question: str,
+                             sources: list[dict]) -> str:
+    """Vue d'ensemble d'un document volumineux par paquets séquentiels.
+
+    Chaque paquet produit une section ancrée (grounding vérifié contre les
+    seuls articles du paquet — les numéros [Source N] restent donc valides),
+    précédée du type/référence de l'instrument qui l'ouvre. Un paquet qui
+    échoue (erreur LLM transitoire, réponse non ancrée) est sauté sans
+    compromettre les suivants ; si aucun paquet ne répond, on retombe sur
+    le refus hors périmètre (au moins un appel a abouti) ou le message
+    générique d'échec LLM.
+    """
+    from src.rag.citation_verifier import parse_grounding, verify_grounding
+    from src.rag.llm_client import LLMClient
+    from src.rag.prompt_builder import (
+        OUT_OF_SCOPE_SENTENCE_AR,
+        OUT_OF_SCOPE_SENTENCE_FR,
+        build_synthesis_prompt,
+    )
+
+    refusal = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
+    chunks, covered = _plan_analysis_chunks(sources)
+
+    try:
+        llm = LLMClient()
+    except Exception:
+        return _LLM_UNAVAILABLE_MSG
+
+    sections: list[str] = []
+    llm_reached = False
+    for chunk in chunks:
+        system_instruction, user_prompt = build_synthesis_prompt(
+            question, chunk, max_context_chars=ANALYSIS_CHUNK_CONTEXT_CHARS,
+        )
+        try:
+            answer_text = llm.generate(system_instruction, user_prompt)
+        except Exception:
+            continue
+        llm_reached = True
+        clean, source_ids = parse_grounding(answer_text)
+        grounded, _stats = verify_grounding(source_ids, chunk)
+        if refusal in clean or not clean.strip() or not grounded:
+            continue
+        body = clean.strip()
+        title = _analysis_section_title(chunk)
+        if title:
+            body = f"**{title}**\n\n{body}"
+        cites = []
+        for i in grounded[:_ANALYSIS_SECTION_MAX_CITES]:
+            art = chunk[i - 1]
+            page = art.get("pdf_page") or art.get("printed_page")
+            ref = f"art. {art.get('article_number', '?')}" + (f", p. {page}" if page else "")
+            cites.append(ref)
+        if len(grounded) > _ANALYSIS_SECTION_MAX_CITES:
+            cites.append("…")
+        body += "\n\n📄 Sources : " + ", ".join(cites)
+        sections.append(body)
+
+    if not sections:
+        return refusal if llm_reached else _LLM_UNAVAILABLE_MSG
+
+    out = "\n\n".join(sections)
+    if covered < len(sources):
+        note_fr = (f"\n\n_Analyse partielle : {covered} premiers articles couverts "
+                   f"sur {len(sources)} — précisez un décret ou un thème "
+                   "pour aller plus loin._")
+        note_ar = (f"\n\n_تحليل جزئي: أول {covered} مادة من أصل {len(sources)} — "
+                   "اطرح سؤالاً محدداً عن مرسوم أو موضوع للمزيد._")
+        out += note_ar if lang == "ar" else note_fr
+    return out
+
+
 def _llm_analysis_answer(data: dict, question: str) -> str:
     """Réponse LLM fondée sur le contenu réel du document analysé.
 
@@ -889,7 +1050,13 @@ def _llm_analysis_answer(data: dict, question: str) -> str:
     mécaniquement pour une question factuelle (src/rag/citation_verifier.py),
     ancrage par numéros de sources pour une vue d'ensemble — rien
     d'invérifiable n'est jamais montré à l'utilisateur.
+
+    Vue d'ensemble sur un document volumineux (contexte total > budget) :
+    bascule en mode fragmenté (_chunked_analysis_answer) — une seule requête
+    n'emporterait qu'un tronçon tronqué du document, voire un refus 413 de
+    l'API.
     """
+    from groq import APIStatusError
     from src.rag.citation_verifier import (
         parse_citations,
         verify_citations,
@@ -914,6 +1081,11 @@ def _llm_analysis_answer(data: dict, question: str) -> str:
     low = question.lower().strip()
     is_overview = any(w in low for w in _ANALYSIS_OVERVIEW_WORDS)
 
+    if is_overview:
+        total_chars = sum(_article_context_len(a) for a in sources)
+        if total_chars > ANALYSIS_MAX_CONTEXT_CHARS:
+            return _chunked_analysis_answer(lang, question, sources)
+
     build = build_synthesis_prompt if is_overview else build_prompt
     system_instruction, user_prompt = build(
         question, sources, max_context_chars=ANALYSIS_MAX_CONTEXT_CHARS,
@@ -927,10 +1099,19 @@ def _llm_analysis_answer(data: dict, question: str) -> str:
             answer_text = llm.generate_with_citation_guarantee(
                 system_instruction, user_prompt
             )
+    except APIStatusError as e:
+        # Erreur typée du SDK plutôt qu'un appariement de chaîne sur
+        # str(e) : 413 = requête trop volumineuse pour l'API (payload ou
+        # contexte). Ne survient plus en pratique pour la vue d'ensemble
+        # (mode fragmenté ci-dessus) — filet de sécurité.
+        if getattr(e, "status_code", None) == 413:
+            return ("Le document est trop long pour une analyse en une seule "
+                "requête. Réessayez avec une question plus ciblée "
+                "(un décret, un article, un thème).")
+        return _LLM_UNAVAILABLE_MSG
     except Exception:
-        return ("Je n'ai pas pu interroger le modèle de langage "
-                "(clé API, réseau ou service indisponible). Réessayez.")
-
+        return _LLM_UNAVAILABLE_MSG
+    
     refusal = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
     refusal_phrase = REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR
     unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR

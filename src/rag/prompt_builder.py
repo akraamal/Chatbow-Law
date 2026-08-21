@@ -482,6 +482,11 @@ Source N, Source M \
 Liste uniquement les numéros [Source N] réellement utilisés, séparés par \
 des virgules. N'invente jamais un numéro absent du contexte. Si tu \
 refuses (règle 1), laisse le bloc vide : [[GROUNDED-IN]] [[END]].
+
+6. [MISE EN FORME] Structure ta réponse en Markdown lisible : un saut de \
+ligne vide entre chaque point ou article distinct que tu abordes, **gras** \
+pour les numéros d'article/décret et dates, jamais un seul bloc de texte \
+continu pour une analyse « article par article ».
 """
 
 
