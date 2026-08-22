@@ -1,4 +1,4 @@
-"""Tests de la mémoire conversationnelle du chat analyseur v2 (TÂCHE 2).
+﻿"""Tests de la mémoire conversationnelle du chat analyseur v2 (TÂCHE 2).
 
 Couvre : trims d'historique, injection dans le repli LLM factuel UNIQUEMENT,
 bypass du cache quand une conversation est active, écriture via /chat et
@@ -35,11 +35,11 @@ SAMPLE_JSON = {
 def _clear_chat_state():
     analyzer_mod._analysis_cache.clear()
     analyzer_mod._chat_history.clear()
-    analyzer_mod._deep_analysis_count_today.update(date=None, count=0)
+    analyzer_mod._llm_feature_count_today.update(date=None, count=0)
     yield
     analyzer_mod._analysis_cache.clear()
     analyzer_mod._chat_history.clear()
-    analyzer_mod._deep_analysis_count_today.update(date=None, count=0)
+    analyzer_mod._llm_feature_count_today.update(date=None, count=0)
 
 
 @pytest.fixture()

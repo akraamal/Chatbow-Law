@@ -12,15 +12,20 @@ from adli_v2.app.main import app
 @pytest.fixture(autouse=True)
 def _clear_chat_state():
     """État module du repli LLM vidé avant/après chaque test : cache,
-    historique de conversation et compteur de budget quotidien — pour
-    qu'aucun test n'hérite d'une réponse mockée ou d'un budget entamé."""
+    historique de conversation, compteur de budget quotidien et caches des
+    points clés — pour qu'aucun test n'hérite d'une réponse mockée ou d'un
+    budget entamé."""
     analyzer_mod._analysis_cache.clear()
     analyzer_mod._chat_history.clear()
-    analyzer_mod._deep_analysis_count_today.update(date=None, count=0)
+    analyzer_mod._llm_feature_count_today.update(date=None, count=0)
+    analyzer_mod._key_point_cache.clear()
+    analyzer_mod._key_point_detail_cache.clear()
     yield
     analyzer_mod._analysis_cache.clear()
     analyzer_mod._chat_history.clear()
-    analyzer_mod._deep_analysis_count_today.update(date=None, count=0)
+    analyzer_mod._llm_feature_count_today.update(date=None, count=0)
+    analyzer_mod._key_point_cache.clear()
+    analyzer_mod._key_point_detail_cache.clear()
 
 
 @pytest.fixture()
@@ -803,7 +808,7 @@ def test_deep_analysis_budget_blocks_second_launch(monkeypatch):
     """TÂCHE 1.3 : budget=1 lancement/jour — le second appel renvoie le
     message dédié SANS rappeler le LLM (le cache est purgé entre les deux
     pour prouver que c'est le garde-fou qui bloque, pas lui)."""
-    monkeypatch.setattr(analyzer_mod, "_DEEP_ANALYSIS_DAILY_BUDGET", 1)
+    monkeypatch.setattr(analyzer_mod, "_LLM_FEATURE_DAILY_BUDGET", 1)
     data = _make_big_data(n_articles=40, text_len=400)
 
     def behave(idx):
@@ -850,3 +855,161 @@ def test_coverage_meta_in_chat_response(annotated_dir, monkeypatch):
     r2 = client.post("/chat", json={"question": "Combien d'articles ?", "doc_id": "BO_9999_Fr"})
     assert r2.get_json()["covered_articles"] is None
     assert r2.get_json()["total_articles"] is None
+
+# ── Points clés (remplace « Analyse en profondeur » côté interface) ──────
+
+def _make_multi_decree_data(n_instruments: int, articles_per: int = 1,
+                            marker_every: int = 0) -> dict:
+    """Document avec n décrets de `articles_per` articles chacun ; si
+    marker_every > 0, chaque n-ième décret porte un marqueur reconnaissable
+    dans le texte (pour simuler une réponse LLM mal formée ciblée)."""
+    articles, instruments = [], []
+    idx = 0
+    for i in range(n_instruments):
+        indices = []
+        for _ in range(articles_per):
+            text = f"Contenu du texte numero {idx + 1}."
+            if marker_every and (i + 1) % marker_every == 0:
+                text += " MARQUEUR-MAUVAIS"
+            articles.append({"number": str(idx + 1), "text": text,
+                             "pdf_page": 3})
+            indices.append(idx)
+            idx += 1
+        instruments.append({
+            "instrument_id": f"inst-{i}",
+            "instrument_type": "DECRET",
+            "reference": f"2-26-{100 + i}",
+            "n_articles": articles_per,
+            "article_indices": indices,
+        })
+    return {
+        "doc_id": "BO_7777_Fr", "lang": "fr", "bo_number": "7777",
+        "date_publication": "2026-08-01",
+        "articles": articles, "instruments": instruments,
+    }
+
+
+def _install_keypoint_llm(monkeypatch, malformed_marker: str | None = None):
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+    calls = {"n": 0}
+
+    class FakeLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate(self, system_instruction, user_prompt):
+            calls["n"] += 1
+            if malformed_marker and malformed_marker in user_prompt:
+                return "Réponse sans les marqueurs attendus."
+            if "[[TITRE]]" in system_instruction:
+                return ("[[TITRE]]\nTitre généré du décret test\n"
+                        "[[TEASER]]\nTeaser court de test.\n[[END]]")
+            # Prompt de détail (synthèse) : réponse ancrée vérifiable
+            return ("Développement détaillé du contenu.\n\n"
+                    "[[GROUNDED-IN]]\nSource 1\n[[END]]")
+
+    monkeypatch.setattr(llm_mod, "LLMClient", lambda *a, **k: FakeLLM())
+    return calls
+
+
+def test_key_points_returns_one_bullet_per_decree(annotated_dir, monkeypatch):
+    data = _make_multi_decree_data(4)
+    p = annotated_dir / "BO_7777_Fr_entities.json"
+    p.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    calls = _install_keypoint_llm(monkeypatch)
+
+    client = app.test_client()
+    client.get("/open-analysis/BO_7777_Fr")
+    r = client.get("/key-points/BO_7777_Fr")
+
+    body = r.get_json()
+    assert len(body["bullets"]) == 4
+    assert body["truncated"] is False and body["shown"] == 4
+    for b in body["bullets"]:
+        assert b["title"] == "Titre généré du décret test"
+        assert b["teaser"] == "Teaser court de test."
+        assert b["ref_badge"].startswith("DECRET n°")
+        assert b["error"] is None
+    assert calls["n"] == 4                       # un appel par décret
+
+
+def test_key_points_caps_at_max_instruments(annotated_dir, monkeypatch):
+    data = _make_multi_decree_data(analyzer_mod._KEY_POINTS_MAX_INSTRUMENTS + 3)
+    p = annotated_dir / "BO_7777_Fr_entities.json"
+    p.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    calls = _install_keypoint_llm(monkeypatch)
+
+    client = app.test_client()
+    client.get("/open-analysis/BO_7777_Fr")
+    r = client.get("/key-points/BO_7777_Fr")
+
+    body = r.get_json()
+    assert body["shown"] == analyzer_mod._KEY_POINTS_MAX_INSTRUMENTS
+    assert body["total_instruments"] == analyzer_mod._KEY_POINTS_MAX_INSTRUMENTS + 3
+    assert body["truncated"] is True and len(body["bullets"]) == body["shown"]
+    assert calls["n"] == body["shown"]           # jamais au-delà du plafond
+
+
+def test_key_point_detail_is_lazy_and_cached(annotated_dir, monkeypatch):
+    data = _make_multi_decree_data(2)
+    p = annotated_dir / "BO_7777_Fr_entities.json"
+    p.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    calls = _install_keypoint_llm(monkeypatch)
+
+    client = app.test_client()
+    client.get("/open-analysis/BO_7777_Fr")
+
+    # Liste seule : 2 appels (titre+teaser), AUCUN pour les détails
+    r = client.get("/key-points/BO_7777_Fr")
+    n_after_list = calls["n"]
+    assert n_after_list == 2
+
+    d1 = client.get("/key-points/BO_7777_Fr/inst-0").get_json()["detail"]
+    assert "Développement détaillé" in d1 and "📄 Sources" in d1
+    n_after_detail = calls["n"]
+    assert n_after_detail == n_after_list + 1     # génération paresseuse : +1
+
+    d1b = client.get("/key-points/BO_7777_Fr/inst-0").get_json()["detail"]
+    assert d1b == d1 and calls["n"] == n_after_detail   # cache, zéro appel
+
+
+def test_key_point_malformed_llm_response_does_not_crash_others(
+        annotated_dir, monkeypatch):
+    data = _make_multi_decree_data(3, marker_every=2)   # décret n°2 marqué
+    p = annotated_dir / "BO_7777_Fr_entities.json"
+    p.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    _install_keypoint_llm(monkeypatch, malformed_marker="MARQUEUR-MAUVAIS")
+
+    client = app.test_client()
+    client.get("/open-analysis/BO_7777_Fr")
+    body = client.get("/key-points/BO_7777_Fr").get_json()
+
+    assert len(body["bullets"]) == 3
+    bad = [b for b in body["bullets"]
+           if b["instrument_id"] == "inst-1"][0]
+    good = [b for b in body["bullets"] if b["instrument_id"] != "inst-1"]
+    assert bad["title"] is None and bad["teaser"] is None
+    assert bad["error"] == "Résumé indisponible pour ce décret."
+    for g in good:
+        assert g["error"] is None and g["title"]
+
+
+def test_key_points_budget_guard(annotated_dir, monkeypatch):
+    import datetime
+    data = _make_multi_decree_data(2)
+    p = annotated_dir / "BO_7777_Fr_entities.json"
+    p.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    calls = _install_keypoint_llm(monkeypatch)
+
+    analyzer_mod._llm_feature_count_today.update(
+        date=datetime.date.today().isoformat(),
+        count=analyzer_mod._LLM_FEATURE_DAILY_BUDGET)
+
+    client = app.test_client()
+    client.get("/open-analysis/BO_7777_Fr")
+    r = client.get("/key-points/BO_7777_Fr")
+
+    assert r.status_code == 429
+    assert "Budget quotidien" in r.get_json()["error"]
+    assert calls["n"] == 0                       # aucun appel LLM
