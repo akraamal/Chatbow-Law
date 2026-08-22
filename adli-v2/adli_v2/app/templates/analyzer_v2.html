@@ -240,6 +240,7 @@
   .chat-header .chat-status { font-size: 11px; font-weight: 400; color: #43474f; }
   .chat-messages { flex: 1; overflow-y: auto; padding: 10px 12px; max-height: 380px; min-height: 120px; display: flex; flex-direction: column; gap: 8px; }
   .chat-msg { max-width: 85%; padding: 8px 12px; border-radius: 0; line-height: 1.5; white-space: pre-wrap; word-break: break-word; }
+  .chat-banner { max-width: 85%; margin: 2px auto; padding: 4px 10px; font-size: 11px; color: #7a5c1e; background: #fdf6e3; border: 1px solid #efe1b3; }
   .chat-msg.user { background: #2c537f; color: #ffffff; align-self: flex-end; }
   .chat-msg.bot { background: #e8f6ff; color: #001e2b; align-self: flex-start; white-space: normal; }
   .chat-msg.bot p { margin: 0 0 6px 0; }
@@ -1284,12 +1285,40 @@ function exportPDF() {
 
 let chatDocId = null;
 
-function enableChat(docId) {
+async function enableChat(docId) {
   chatDocId = docId;
   document.getElementById('chatStatus').textContent = 'BO ' + (docId || '');
   document.getElementById('chatInput').disabled = false;
   document.getElementById('chatSendBtn').disabled = false;
   document.getElementById('btnDeepAnalysis').style.display = 'inline-block';
+
+  // Réhydratation de l'historique existant : survit à un rechargement de
+  // page tant que le doc_id est le même et que le TTL serveur n'a pas
+  // expiré. Confort non bloquant — le chat reste utilisable si l'appel
+  // échoue.
+  try {
+    const resp = await fetch('/chat/history/' + encodeURIComponent(docId));
+    const data = await resp.json();
+    const hist = data.history || [];
+    if (hist.length) {
+      document.getElementById('chatWelcome').style.display = 'none';
+      const msgs = document.getElementById('chatMessages');
+      for (const turn of hist) {
+        const div = document.createElement('div');
+        div.className = 'chat-msg ' + (turn.role === 'user' ? 'user' : 'bot');
+        if (turn.role === 'user') {
+          div.textContent = turn.content;
+        } else {
+          div.innerHTML = renderMarkdown(turn.content);
+          linkChatSources(div);
+        }
+        msgs.appendChild(div);
+      }
+      msgs.scrollTop = msgs.scrollHeight;
+    }
+  } catch (err) {
+    console.warn('Historique de chat indisponible :', err);
+  }
 }
 
 function deepAnalysis() {
@@ -1426,6 +1455,14 @@ async function sendChat() {
       body: JSON.stringify({ question, doc_id: chatDocId }),
     });
     const data = await resp.json();
+    if (typeof data.covered_articles === 'number' && typeof data.total_articles === 'number'
+        && data.covered_articles < data.total_articles) {
+      const banner = document.createElement('div');
+      banner.className = 'chat-banner';
+      banner.textContent = 'Analyse partielle : ' + data.covered_articles
+        + '/' + data.total_articles + ' articles couverts.';
+      msgs.insertBefore(banner, botDiv);
+    }
     botDiv.innerHTML = renderMarkdown(data.answer || 'Pas de réponse.');
     linkChatSources(botDiv);
   } catch (err) {
