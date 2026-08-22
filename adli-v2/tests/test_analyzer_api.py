@@ -10,12 +10,17 @@ from adli_v2.app.main import app
 
 
 @pytest.fixture(autouse=True)
-def _clear_analysis_cache():
-    """Le cache du repli LLM vit au niveau module : vidé avant/après chaque
-    test pour qu'aucun test n'hérite d'une réponse mockée d'un autre."""
+def _clear_chat_state():
+    """État module du repli LLM vidé avant/après chaque test : cache,
+    historique de conversation et compteur de budget quotidien — pour
+    qu'aucun test n'hérite d'une réponse mockée ou d'un budget entamé."""
     analyzer_mod._analysis_cache.clear()
+    analyzer_mod._chat_history.clear()
+    analyzer_mod._deep_analysis_count_today.update(date=None, count=0)
     yield
     analyzer_mod._analysis_cache.clear()
+    analyzer_mod._chat_history.clear()
+    analyzer_mod._deep_analysis_count_today.update(date=None, count=0)
 
 
 @pytest.fixture()
@@ -408,7 +413,7 @@ def test_chat_routes_unknown_question_to_llm(annotated_dir, monkeypatch):
     _write_sample(annotated_dir)
     calls = {"n": 0}
 
-    def fake_llm_answer(data, question):
+    def fake_llm_answer(data, question, doc_id=""):
         calls["n"] += 1
         return "réponse LLM testée"
 
@@ -431,11 +436,12 @@ def test_chat_deep_analysis_action(annotated_dir, monkeypatch):
     _write_sample(annotated_dir)
     seen = {}
 
-    def fake_llm_answer(data, question):
+    def fake_llm_answer(data, question, doc_id=""):
         seen["q"] = question
-        return "résumé du document"
+        return "résumé du document", None, None
 
-    monkeypatch.setattr(analyzer_mod, "_llm_analysis_answer", fake_llm_answer)
+    monkeypatch.setattr(analyzer_mod, "_llm_analysis_answer_with_meta",
+                        fake_llm_answer)
     client = app.test_client()
     client.get("/open-analysis/BO_9999_Fr")
 
@@ -738,3 +744,109 @@ def test_chunked_all_failed_rate_limit_message(monkeypatch):
     ans = analyzer_mod._llm_analysis_answer(
         data, "Décris en détail ce que traite ce document, article par article.")
     assert "Quota quotidien" in ans
+
+
+def test_plan_chunks_align_on_instrument_boundary(monkeypatch):
+    """TÂCHE 1.4 : sans la correction, un paquet mélangera la fin du décret A
+    et le début du décret B ; avec, chaque paquet reste mono-référence."""
+    monkeypatch.setattr(analyzer_mod, "ANALYSIS_CHUNK_CONTEXT_CHARS", 1000)
+    srcs = [{"reference": ref, "instrument_type": "DECRET", "text": "a" * 300}
+            for ref in ("A", "A", "A", "B", "B", "B")]  # coût 500/article
+
+    chunks, covered = analyzer_mod._plan_analysis_chunks(srcs)
+
+    assert covered == 6
+    assert len(chunks) >= 3                       # la frontière a bien coupé
+    for chunk in chunks:
+        refs = {s["reference"] for s in chunk}
+        assert len(refs) == 1                     # aucun mélange A/B
+
+
+def test_chunked_calls_run_in_parallel(monkeypatch):
+    """TÂCHE 1.2 : 6 paquets × 0,3 s sous 3 workers ≈ 0,6 s, pas 1,8 s ;
+    toutes les réponses sont réassemblées dans l'ordre des paquets."""
+    import time
+
+    # Force le chemin fragmenté : contexte total > ANALYSIS_MAX_CONTEXT_CHARS
+    monkeypatch.setattr(analyzer_mod, "ANALYSIS_MAX_CONTEXT_CHARS", 500)
+    monkeypatch.setattr(analyzer_mod, "ANALYSIS_CHUNK_CONTEXT_CHARS", 1000)
+    data = _make_big_data(n_articles=12, text_len=250)   # coût ≈ 470 → 2/paquet
+
+    calls = {"n": 0}
+
+    def behave(idx):
+        calls["n"] += 1
+        time.sleep(0.3)
+        return ("Section.\n\n[[GROUNDED-IN]]\nSource 1\n[[END]]")
+
+    _install_chunk_llm(monkeypatch, behave)
+
+    srcs = analyzer_mod._articles_as_rag_sources(data)
+    chunks, covered = analyzer_mod._plan_analysis_chunks(srcs)
+    assert len(chunks) == 6 and covered == 12
+
+    t0 = time.monotonic()
+    ans = analyzer_mod._llm_analysis_answer(
+        data, "Décris en détail ce que traite ce document, article par article.")
+    elapsed = time.monotonic() - t0
+
+    assert calls["n"] == 6
+    assert elapsed < 1.4          # séquentiel serait ≥ 1,8 s
+    # ordre du document conservé : les titres de sections apparaissent dans
+    # l'ordre DECRET (paquets 1-3) puis ARRETE (paquets 4-6)
+    titles = [analyzer_mod._analysis_section_title(c) for c in chunks]
+    pos = [ans.find(t) for t in titles]
+    assert pos == sorted(pos)
+
+
+def test_deep_analysis_budget_blocks_second_launch(monkeypatch):
+    """TÂCHE 1.3 : budget=1 lancement/jour — le second appel renvoie le
+    message dédié SANS rappeler le LLM (le cache est purgé entre les deux
+    pour prouver que c'est le garde-fou qui bloque, pas lui)."""
+    monkeypatch.setattr(analyzer_mod, "_DEEP_ANALYSIS_DAILY_BUDGET", 1)
+    data = _make_big_data(n_articles=40, text_len=400)
+
+    def behave(idx):
+        return ("Section.\n\n[[GROUNDED-IN]]\nSource 1\n[[END]]")
+
+    prompts = _install_chunk_llm(monkeypatch, behave)
+
+    q = "Décris en détail ce que traite ce document, article par article."
+    ans1 = analyzer_mod._llm_analysis_answer(data, q)
+    n_after_first = len(prompts)
+    assert n_after_first > 0 and "Budget quotidien" not in ans1
+
+    analyzer_mod._analysis_cache.clear()
+    ans2 = analyzer_mod._llm_analysis_answer(data, q)
+    assert "Budget quotidien d'analyses en profondeur atteint" in ans2
+    assert len(prompts) == n_after_first           # aucun appel LLM de plus
+
+
+def test_coverage_meta_in_chat_response(annotated_dir, monkeypatch):
+    """Tâche 1.1 : /chat expose covered_articles/total_articles sur le chemin
+    fragmenté partiel ; None ailleurs (question factuelle)."""
+    _write_sample(annotated_dir)
+    monkeypatch.setattr(analyzer_mod, "ANALYSIS_MAX_CHUNKS", 1)  # couverture partielle forcée
+    data = _make_big_data(n_articles=40, text_len=400)
+    p = annotated_dir / "BO_9999_Fr_entities.json"
+    p.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+
+    _install_chunk_llm(
+        monkeypatch,
+        lambda idx: ("Tranche.\n\n[[GROUNDED-IN]]\nSource 1\n[[END]]"))
+
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+    r = client.post("/chat", json={
+        "question": "Décris en détail ce que traite ce document, article par article.",
+        "doc_id": "BO_9999_Fr",
+    })
+    body = r.get_json()
+    total = len(analyzer_mod._articles_as_rag_sources(data))
+    assert body["covered_articles"] is not None
+    assert 0 < body["covered_articles"] < body["total_articles"] == total
+
+    # Chemin non fragmenté : méta absente (None)
+    r2 = client.post("/chat", json={"question": "Combien d'articles ?", "doc_id": "BO_9999_Fr"})
+    assert r2.get_json()["covered_articles"] is None
+    assert r2.get_json()["total_articles"] is None
