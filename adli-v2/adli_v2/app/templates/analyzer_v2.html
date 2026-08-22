@@ -936,6 +936,7 @@ function renderHistory(analyses) {
       <div class="flex gap-2 flex-shrink-0">
         <button class="btn-outline history-open" data-doc="${escapeHtml(a.doc_id)}">&#x1F441; Voir</button>
         <button class="btn-outline history-chat" data-doc="${escapeHtml(a.doc_id)}">&#x1F4AC; Nouveau chat</button>
+        <button class="btn-outline history-delete" data-doc="${escapeHtml(a.doc_id)}" title="Supprimer cette analyse (résultats inclus)">&#x1F5D1;</button>
       </div>
     </div>
   `).join('');
@@ -945,6 +946,25 @@ function renderHistory(analyses) {
   listEl.querySelectorAll('.history-chat').forEach(btn => {
     btn.addEventListener('click', () => openAnalysis(btn.dataset.doc, true));
   });
+  listEl.querySelectorAll('.history-delete').forEach(btn => {
+    btn.addEventListener('click', () => deleteAnalysis(btn.dataset.doc));
+  });
+}
+
+async function deleteAnalysis(docId) {
+  if (!confirm('Supprimer définitivement cette analyse ?\nLes résultats annotés de ce document seront effacés du disque.')) return;
+  try {
+    const resp = await fetch('/analysis/' + encodeURIComponent(docId), { method: 'DELETE' });
+    const data = await resp.json().catch(() => ({}));
+    if (!resp.ok || data.error) {
+      alert(data.error || 'Suppression impossible.');
+      return;
+    }
+    if (chatDocId === docId) resetToUpload();   // le document ouvert venait d'être supprimé
+    await loadHistory();
+  } catch (err) {
+    alert('Erreur de connexion au serveur.');
+  }
 }
 
 // ── Ouvrir une analyse passée ────────────────────────────────────────
