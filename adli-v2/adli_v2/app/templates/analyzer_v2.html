@@ -448,7 +448,7 @@
           <div class="flex gap-2 items-center flex-wrap">
             <button class="btn-outline" onclick="showPipelineView()">&#x25B6; Voir le pipeline</button>
             <button class="btn-outline" onclick="resetToUpload()">&#x1F4C1; Nouvelle analyse</button>
-            <button class="btn-outline" id="btnDeepAnalysis" onclick="deepAnalysis()" style="display:none" title="Résumé détaillé du document, article par article">&#x1F50D; Analyse en profondeur</button>
+            <button class="btn-outline" id="btnDeepAnalysis" onclick="showKeyPoints()" style="display:none" title="Résumé du contenu du document, par décret">&#x1F4CC; Points clés</button>
             <div class="relative">
               <button class="btn-outline" id="exportBtn" onclick="toggleExportMenu()">&#x2B07; Exporter</button>
               <div id="exportMenu" style="display:none;position:absolute;right:0;top:100%;margin-top:4px;background:#ffffff;border:2px solid #2c537f;border-radius: 0;overflow:hidden;z-index:100;min-width:140px;box-shadow:0 4px 16px rgba(0,0,0,.2)">
@@ -464,11 +464,13 @@
         <div class="tabs">
           <button class="tab-btn active" data-tab="instruments">D&eacute;crets</button>
           <button class="tab-btn" data-tab="articles">Articles</button>
+          <button class="tab-btn" data-tab="keypoints">Points cl&eacute;s</button>
           <button class="tab-btn" data-tab="keywords">Mots-cl&eacute;s</button>
           <button class="tab-btn" data-tab="tables">Tableaux</button>
         </div>
         <div class="tab-content active" id="tab-instruments"></div>
         <div class="tab-content" id="tab-articles"></div>
+        <div class="tab-content" id="tab-keypoints"></div>
         <div class="tab-content" id="tab-keywords"></div>
         <div class="tab-content" id="tab-tables"></div>
       </div>
@@ -497,8 +499,7 @@
       • « Combien d'articles ? »<br>
       • « Liste des instruments »<br>
       • « Article 5 »<br>
-      • « Recherche [mot-clé] »<br>
-      • « Analyse en profondeur » (résumé détaillé article par article)
+      • « Recherche [mot-clé] »
     </div>
   </div>
   <div class="chat-input-area">
@@ -875,6 +876,7 @@ function resetToUpload() {
   taskId = null;
   cachedResult = null;
   chatDocId = null;
+  keyPointsLoaded = null;
   setChatInterruptMode(false);
   document.getElementById('pipelineView').classList.remove('active');
   document.getElementById('results').classList.remove('active');
@@ -1287,6 +1289,8 @@ let chatDocId = null;
 
 async function enableChat(docId) {
   chatDocId = docId;
+  keyPointsLoaded = null;   // nouveau document affiché : la liste se régénère
+                            // (sans coût Groq si déjà en cache serveur)
   document.getElementById('chatStatus').textContent = 'BO ' + (docId || '');
   document.getElementById('chatInput').disabled = false;
   document.getElementById('chatSendBtn').disabled = false;
@@ -1321,14 +1325,96 @@ async function enableChat(docId) {
   }
 }
 
-function deepAnalysis() {
-  const panel = document.getElementById('chatPanel');
-  const input = document.getElementById('chatInput');
+let keyPointsLoaded = null;  // doc_id pour lequel la liste a déjà été chargée côté client
+
+async function showKeyPoints() {
+  // Bascule sur l'onglet dédié (réutilise le handler générique existant)
+  const tabBtn = document.querySelector('.tab-btn[data-tab="keypoints"]');
+  if (tabBtn) tabBtn.click();
+
   if (!chatDocId) return;
-  if (!panel.classList.contains('open')) toggleChat();
-  input.value = 'Décris en détail ce que traite ce document, article par article, avec pour chaque point la page correspondante.';
-  input.focus();
-  sendChat();
+  if (keyPointsLoaded === chatDocId) return;  // déjà chargé pour ce document
+
+  const container = document.getElementById('tab-keypoints');
+  container.innerHTML = '<p class="text-sm text-on-surface-variant p-4">Génération des points clés…</p>';
+
+  try {
+    const resp = await fetch('/key-points/' + encodeURIComponent(chatDocId));
+    const data = await resp.json();
+    if (!resp.ok || data.error) {
+      container.innerHTML = `<p class="error-box" style="display:block">${escapeHtml(data.error || 'Erreur.')}</p>`;
+      return;
+    }
+    renderKeyPoints(data);
+    keyPointsLoaded = chatDocId;
+  } catch (err) {
+    container.innerHTML = '<p class="error-box" style="display:block">Erreur de connexion au serveur.</p>';
+  }
+}
+
+function renderKeyPoints(data) {
+  const container = document.getElementById('tab-keypoints');
+  const bullets = data.bullets || [];
+
+  const truncationNote = data.truncated
+    ? `<p class="text-xs text-on-surface-variant mb-3 p-3">Affichage de ${data.shown} décret(s) sur ${data.total_instruments} — voir l'onglet Décrets pour la liste complète.</p>`
+    : '';
+
+  container.innerHTML = truncationNote + bullets.map((b) => {
+    const heading = b.title
+      ? escapeHtml(b.title)
+      : `<em>${escapeHtml(b.error || 'Résumé indisponible')}</em>`;
+    return `
+      <div class="key-point-item" style="border:1px solid #dadce0;background:#f8f9fa;margin-bottom:8px" data-instrument="${escapeHtml(String(b.instrument_id || ''))}">
+        <button class="key-point-header" style="width:100%;text-align:left;padding:12px;display:flex;justify-content:space-between;align-items:center;gap:8px;background:transparent;border:none;cursor:pointer">
+          <div style="min-width:0">
+            <div style="font-weight:700;color:#2c537f;font-size:14px">${heading}</div>
+            <div style="font-size:12px;color:#43474f">${escapeHtml(b.ref_badge || '')}${b.teaser ? ' — ' + escapeHtml(b.teaser) : ''}</div>
+          </div>
+          <span class="material-symbols-outlined key-point-chevron" style="font-size:18px;color:#43474f;flex-shrink:0">expand_more</span>
+        </button>
+        <div class="key-point-detail" style="display:none;padding:0 14px 14px 14px"></div>
+      </div>
+    `;
+  }).join('');
+
+  container.querySelectorAll('.key-point-header').forEach(btn => {
+    btn.addEventListener('click', () => toggleKeyPoint(btn.parentElement));
+  });
+}
+
+async function toggleKeyPoint(item) {
+  const detailEl = item.querySelector('.key-point-detail');
+  const chevron = item.querySelector('.key-point-chevron');
+  const isOpen = detailEl.style.display !== 'none';
+
+  if (isOpen) {
+    detailEl.style.display = 'none';
+    chevron.textContent = 'expand_more';
+    return;
+  }
+
+  detailEl.style.display = 'block';
+  chevron.textContent = 'expand_less';
+
+  if (detailEl.dataset.loaded === 'true') return;  // déjà chargé, pas de re-fetch
+
+  detailEl.innerHTML = '<p class="text-xs text-on-surface-variant">Génération du détail…</p>';
+  const instrumentId = item.dataset.instrument;
+
+  try {
+    const resp = await fetch(`/key-points/${encodeURIComponent(chatDocId)}/${encodeURIComponent(instrumentId)}`);
+    const data = await resp.json();
+    if (!resp.ok || data.error) {
+      detailEl.innerHTML = `<p class="error-box" style="display:block">${escapeHtml(data.error || 'Erreur.')}</p>`;
+      return;
+    }
+    detailEl.innerHTML = renderMarkdown(data.detail || '');
+    linkChatSources(detailEl);   // utilitaire de rendu pur, pas spécifique au chat
+    detailEl.dataset.loaded = 'true';
+  } catch (err) {
+    detailEl.innerHTML = '<p class="error-box" style="display:block">Erreur de connexion au serveur.</p>';
+  }
 }
 
 // Convertit la ligne « 📄 Sources : … » (ou « 📄 p. N, … ») d'une réponse en
