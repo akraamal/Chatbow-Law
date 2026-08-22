@@ -1013,3 +1013,52 @@ def test_key_points_budget_guard(annotated_dir, monkeypatch):
     assert r.status_code == 429
     assert "Budget quotidien" in r.get_json()["error"]
     assert calls["n"] == 0                       # aucun appel LLM
+
+
+def test_delete_analysis_removes_files_history_and_memory(annotated_dir):
+    """Bouton Supprimer : JSON annotés effacés du disque, entrée d'historique
+    disparue (dérivée du dossier), état mémoire purgé SÉLECTIVEMENT."""
+    data = _make_multi_decree_data(2)
+    p = annotated_dir / "BO_7777_Fr_entities.json"
+    p.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    p2 = annotated_dir / "BO_7777_Fr.json"          # variante sans suffixe
+    p2.write_text("{}", encoding="utf-8")
+
+    # État mémoire vivant pour ce document + un autre (témoin)
+    analyzer_mod._chat_contexts["BO_7777_Fr"] = data
+    analyzer_mod._append_history("BO_7777_Fr", "user", "q")
+    analyzer_mod._key_point_cache[("BO_7777_Fr", "inst-0")] = {"title": "T"}
+    analyzer_mod._analysis_cache[("BO_7777_Fr", "question ?")] = ("rép", None, None)
+    analyzer_mod._analysis_cache[("AUTRE_DOC", "question ?")] = ("gardé", None, None)
+
+    client = app.test_client()
+    assert any(e["doc_id"] == "BO_7777_Fr"
+               for e in client.get("/analyses").get_json()["analyses"])
+
+    r = client.delete("/analysis/BO_7777_Fr")
+    body = r.get_json()
+    assert r.status_code == 200 and body["ok"] is True
+    assert sorted(body["deleted"]) == ["BO_7777_Fr.json",
+                                       "BO_7777_Fr_entities.json"]
+    assert not p.exists() and not p2.exists()
+
+    # L'historique est dérivé du disque : l'entrée a disparu.
+    restantes = client.get("/analyses").get_json()["analyses"]
+    assert not any(e["doc_id"] == "BO_7777_Fr" for e in restantes)
+
+    # Mémoire purgée sélectivement — le témoin d'un autre document survit.
+    assert "BO_7777_Fr" not in analyzer_mod._chat_contexts
+    assert "BO_7777_Fr" not in analyzer_mod._chat_history
+    assert ("BO_7777_Fr", "inst-0") not in analyzer_mod._key_point_cache
+    assert ("BO_7777_Fr", "question ?") not in analyzer_mod._analysis_cache
+    assert ("AUTRE_DOC", "question ?") in analyzer_mod._analysis_cache
+
+    # Re-suppression : plus rien n'existe → 404.
+    assert client.delete("/analysis/BO_7777_Fr").status_code == 404
+
+
+def test_delete_analysis_unknown_doc_returns_404():
+    client = app.test_client()
+    r = client.delete("/analysis/document_absent_xyz")
+    assert r.status_code == 404
+    assert "introuvable" in r.get_json()["error"]
