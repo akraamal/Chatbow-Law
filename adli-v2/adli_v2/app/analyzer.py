@@ -872,7 +872,35 @@ _ARTICLE_META_OVERHEAD_CHARS = 200
 _ANALYSIS_SECTION_MAX_CITES = 10
 
 _LLM_UNAVAILABLE_MSG = ("Je n'ai pas pu interroger le modèle de langage "
-    "(clé API, réseau ou service indisponible). Réessayez.")
+    "(erreur inattendue : voir les logs serveur). Réessayez.")
+
+
+def _llm_failure_message(e: Exception | None) -> str:
+    """Message utilisateur DISTINCT selon la cause réelle de l'échec LLM —
+    sans cette distinction, quota Groq épuisé, panne réseau et clé invalide
+    produisent le même « réessayez », impossible à diagnostiquer. Trace
+    aussi l'exception brute côté serveur (seule trace de la cause)."""
+    if e is not None:
+        print(f"  [analyzer] échec LLM : {type(e).__name__}: {e}")
+    from groq import APIConnectionError, APIStatusError, RateLimitError
+    if isinstance(e, RateLimitError):
+        return ("Quota quotidien du modèle de langage atteint — "
+                "réessayez plus tard, ou contactez l'administrateur "
+                "pour augmenter la limite Groq.")
+    if isinstance(e, APIConnectionError):
+        return "Impossible de joindre le service de langage (réseau). Réessayez."
+    if isinstance(e, ValueError):
+        # LLMClient() lève ValueError quand GROQ_API_KEY est absente.
+        return "Clé API du modèle de langage invalide ou absente."
+    if isinstance(e, APIStatusError):
+        status = getattr(e, "status_code", None)
+        if status == 413:
+            return ("Le document est trop long pour une analyse en une seule "
+                    "requête. Réessayez avec une question plus ciblée "
+                    "(un décret, un article, un thème).")
+        if status == 401:
+            return "Clé API du modèle de langage invalide ou absente."
+    return _LLM_UNAVAILABLE_MSG
 
 _ANALYSIS_OVERVIEW_WORDS = (
     "résumé", "resume", "synthèse", "synthese", "thème", "theme", "thèmes",
@@ -978,7 +1006,7 @@ def _chunked_analysis_answer(lang: str, question: str,
     échoue (erreur LLM transitoire, réponse non ancrée) est sauté sans
     compromettre les suivants ; si aucun paquet ne répond, on retombe sur
     le refus hors périmètre (au moins un appel a abouti) ou le message
-    générique d'échec LLM.
+    d'échec LLM nommant la cause (quota, réseau, clé API…).
     """
     from src.rag.citation_verifier import parse_grounding, verify_grounding
     from src.rag.llm_client import LLMClient
@@ -993,18 +1021,24 @@ def _chunked_analysis_answer(lang: str, question: str,
 
     try:
         llm = LLMClient()
-    except Exception:
-        return _LLM_UNAVAILABLE_MSG
+    except Exception as e:
+        return _llm_failure_message(e)
 
     sections: list[str] = []
     llm_reached = False
-    for chunk in chunks:
+    last_error: Exception | None = None
+    for idx, chunk in enumerate(chunks, start=1):
         system_instruction, user_prompt = build_synthesis_prompt(
             question, chunk, max_context_chars=ANALYSIS_CHUNK_CONTEXT_CHARS,
         )
         try:
             answer_text = llm.generate(system_instruction, user_prompt)
-        except Exception:
+        except Exception as e:
+            # Paquet sauté sans compromettre les suivants ; l'exception est
+            # tracée et mémorisée pour nommer la cause si TOUT a échoué.
+            last_error = e
+            print(f"  [analyzer] paquet {idx}/{len(chunks)} : "
+                  f"échec LLM ({type(e).__name__})")
             continue
         llm_reached = True
         clean, source_ids = parse_grounding(answer_text)
@@ -1027,7 +1061,9 @@ def _chunked_analysis_answer(lang: str, question: str,
         sections.append(body)
 
     if not sections:
-        return refusal if llm_reached else _LLM_UNAVAILABLE_MSG
+        if llm_reached:
+            return refusal
+        return _llm_failure_message(last_error)
 
     out = "\n\n".join(sections)
     if covered < len(sources):
@@ -1040,7 +1076,68 @@ def _chunked_analysis_answer(lang: str, question: str,
     return out
 
 
+# ── Cache anti-gaspillage du repli LLM ────────────────────────────────
+# Chaque question hors-cascade déclenche de vrais appels Groq (jusqu'à
+# ANALYSIS_MAX_CHUNKS requêtes sur un gros BO) facturés contre un quota
+# quotidien limité : reposer la même question pendant une démo ne doit rien
+# refacturer. Cache en mémoire de process, comme _tasks / _chat_contexts.
+
+_analysis_cache: dict[tuple[str, str], str] = {}
+_ANALYSIS_CACHE_MAX = 200
+
+_ANALYSIS_ERROR_PREFIXES = (
+    "Je n'ai pas pu interroger",
+    "Quota quotidien",
+    "Impossible de joindre",
+    "Clé API du modèle",
+    "Le document est trop long",
+)
+
+
+def _cache_key(data: dict, question: str) -> tuple[str, str]:
+    return (data.get("doc_id", ""), question.strip().lower())
+
+
+def _answer_not_cacheable(answer: str) -> bool:
+    """Erreurs LLM (préfixes ci-dessus) et refus d'ancrage : à retenter,
+    jamais à mémoriser — sinon un « quota atteint » resterait figé après
+    le retour du service."""
+    if answer.startswith(_ANALYSIS_ERROR_PREFIXES):
+        return True
+    from src.rag.prompt_builder import (
+        OUT_OF_SCOPE_SENTENCE_AR,
+        OUT_OF_SCOPE_SENTENCE_FR,
+        REFUSAL_SENTENCE_AR,
+        REFUSAL_SENTENCE_FR,
+        UNSUPPORTED_SENTENCE_AR,
+        UNSUPPORTED_SENTENCE_FR,
+    )
+    return answer.startswith((
+        OUT_OF_SCOPE_SENTENCE_FR, OUT_OF_SCOPE_SENTENCE_AR,
+        REFUSAL_SENTENCE_FR, REFUSAL_SENTENCE_AR,
+        UNSUPPORTED_SENTENCE_FR, UNSUPPORTED_SENTENCE_AR,
+    ))
+
+
 def _llm_analysis_answer(data: dict, question: str) -> str:
+    """Repli LLM avec cache mémoire par (doc_id, question normalisée) —
+    évite de refacturer le quota Groq pour une question déjà posée sur le
+    même document (démo, session de test). Éviction FIFO naïve, suffisante
+    ici ; les erreurs/refus ne sont jamais mis en cache."""
+    key = _cache_key(data, question)
+    if key in _analysis_cache:
+        return _analysis_cache[key]
+
+    answer = _llm_analysis_answer_uncached(data, question)
+
+    if not _answer_not_cacheable(answer):
+        if len(_analysis_cache) >= _ANALYSIS_CACHE_MAX:
+            _analysis_cache.pop(next(iter(_analysis_cache)))
+        _analysis_cache[key] = answer
+    return answer
+
+
+def _llm_analysis_answer_uncached(data: dict, question: str) -> str:
     """Réponse LLM fondée sur le contenu réel du document analysé.
 
     Utilisée en repli quand la cascade de règles (comptages, signataires,
@@ -1056,7 +1153,6 @@ def _llm_analysis_answer(data: dict, question: str) -> str:
     n'emporterait qu'un tronçon tronqué du document, voire un refus 413 de
     l'API.
     """
-    from groq import APIStatusError
     from src.rag.citation_verifier import (
         parse_citations,
         verify_citations,
@@ -1099,18 +1195,10 @@ def _llm_analysis_answer(data: dict, question: str) -> str:
             answer_text = llm.generate_with_citation_guarantee(
                 system_instruction, user_prompt
             )
-    except APIStatusError as e:
-        # Erreur typée du SDK plutôt qu'un appariement de chaîne sur
-        # str(e) : 413 = requête trop volumineuse pour l'API (payload ou
-        # contexte). Ne survient plus en pratique pour la vue d'ensemble
-        # (mode fragmenté ci-dessus) — filet de sécurité.
-        if getattr(e, "status_code", None) == 413:
-            return ("Le document est trop long pour une analyse en une seule "
-                "requête. Réessayez avec une question plus ciblée "
-                "(un décret, un article, un thème).")
-        return _LLM_UNAVAILABLE_MSG
-    except Exception:
-        return _LLM_UNAVAILABLE_MSG
+    except Exception as e:
+        # Message distinct selon la cause (quota, réseau, clé API, 413) et
+        # trace serveur de l'exception brute — cf. _llm_failure_message.
+        return _llm_failure_message(e)
     
     refusal = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
     refusal_phrase = REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR

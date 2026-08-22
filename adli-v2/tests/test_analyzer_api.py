@@ -9,6 +9,15 @@ from adli_v2.app import analyzer as analyzer_mod
 from adli_v2.app.main import app
 
 
+@pytest.fixture(autouse=True)
+def _clear_analysis_cache():
+    """Le cache du repli LLM vit au niveau module : vidé avant/après chaque
+    test pour qu'aucun test n'hérite d'une réponse mockée d'un autre."""
+    analyzer_mod._analysis_cache.clear()
+    yield
+    analyzer_mod._analysis_cache.clear()
+
+
 @pytest.fixture()
 def annotated_dir(tmp_path, monkeypatch):
     d = tmp_path / "annotated"
@@ -637,3 +646,95 @@ def test_llm_analysis_answer_other_status_generic_message(monkeypatch):
                         lambda *a, **k: _StatusErrorLLM(400))
     ans = analyzer_mod._llm_analysis_answer(SAMPLE_JSON, "Décris ce document")
     assert "pas pu interroger" in ans
+
+
+def _make_rate_limit_error():
+    import httpx
+    from groq import RateLimitError
+
+    resp = httpx.Response(429, request=httpx.Request("POST", "http://test"))
+    return RateLimitError("rate limit", response=resp, body=None)
+
+
+def test_llm_analysis_answer_rate_limit_message(monkeypatch):
+    """RateLimitError produit le message « Quota quotidien », distinct du
+    générique réseau — la cause est nommée au lieu d'être avalée."""
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+
+    class RateLimitedLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate(self, system_instruction, user_prompt):
+            raise _make_rate_limit_error()
+
+    monkeypatch.setattr(llm_mod, "LLMClient",
+                        lambda *a, **k: RateLimitedLLM())
+    ans = analyzer_mod._llm_analysis_answer_uncached(
+        SAMPLE_JSON, "résumé du document")
+    assert "Quota quotidien" in ans
+    assert "réseau" not in ans
+
+
+def test_llm_analysis_answer_cache_hit(monkeypatch):
+    """Même question sur le même document : un seul appel LLM, le second
+    appel vient du cache."""
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+    calls = {"n": 0}
+
+    class CountingLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate(self, system_instruction, user_prompt):
+            calls["n"] += 1
+            return "Réponse test.\n\n[[GROUNDED-IN]]\nSource 1\n[[END]]"
+
+    monkeypatch.setattr(llm_mod, "LLMClient", lambda *a, **k: CountingLLM())
+
+    q = "Décris ce document"
+    a1 = analyzer_mod._llm_analysis_answer(SAMPLE_JSON, q)
+    a2 = analyzer_mod._llm_analysis_answer(SAMPLE_JSON, q)
+
+    assert a1 == a2
+    assert calls["n"] == 1
+
+
+def test_llm_analysis_answer_errors_not_cached(monkeypatch):
+    """Une réponse d'erreur n'est jamais mise en cache : chaque appel
+    retente réellement le LLM."""
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+    calls = {"n": 0}
+
+    class FlakyLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate(self, system_instruction, user_prompt):
+            calls["n"] += 1
+            raise ConnectionError("panne réseau simulée")
+
+    monkeypatch.setattr(llm_mod, "LLMClient", lambda *a, **k: FlakyLLM())
+
+    q = "Décris ce document"
+    analyzer_mod._llm_analysis_answer(SAMPLE_JSON, q)
+    analyzer_mod._llm_analysis_answer(SAMPLE_JSON, q)
+
+    assert calls["n"] == 2
+
+
+def test_chunked_all_failed_rate_limit_message(monkeypatch):
+    """Vue d'ensemble fragmentée, tous les paquets en 429 : le quota est
+    nommé (et pas le générique) — c'était invisible avant Fix 1."""
+    data = _make_big_data(n_articles=40, text_len=400)
+
+    def rate_limited(idx):
+        raise _make_rate_limit_error()
+
+    _install_chunk_llm(monkeypatch, rate_limited)
+    ans = analyzer_mod._llm_analysis_answer(
+        data, "Décris en détail ce que traite ce document, article par article.")
+    assert "Quota quotidien" in ans
