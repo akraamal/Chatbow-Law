@@ -45,6 +45,35 @@ _tasks_lock = threading.Lock()
 _chat_contexts: dict[str, dict] = {}
 _chat_lock = threading.Lock()
 
+# Historique de conversation par document : doc_id -> messages
+# [{"role": "user"|"assistant", "content": str, "ts": float}] — même
+# pattern en mémoire que _chat_contexts, purge janitor au même TTL.
+_chat_history: dict[str, list[dict]] = {}
+_MAX_HISTORY_TURNS = 6  # paires Q/R conservées — chaque tour réinjecté dans
+                        # le prompt consomme du budget de contexte Groq
+
+
+def _append_history(doc_id: str, role: str, content: str) -> None:
+    with _chat_lock:
+        hist = _chat_history.setdefault(doc_id, [])
+        hist.append({"role": role, "content": content, "ts": time.time()})
+        max_msgs = _MAX_HISTORY_TURNS * 2
+        if len(hist) > max_msgs:
+            del hist[: len(hist) - max_msgs]
+
+
+def _history_block(doc_id: str) -> str:
+    """Bloc « échanges précédents » pour le prompt LLM (questions de suivi).
+    Vide sans historique ; chaque message tronqué à 300 car. pour ne pas
+    grignoter le budget de contexte réservé aux articles."""
+    with _chat_lock:
+        hist = list(_chat_history.get(doc_id, []))[-_MAX_HISTORY_TURNS * 2:]
+    if not hist:
+        return ""
+    lines = [f"{'Q' if h['role'] == 'user' else 'R'}: {h['content'][:300]}"
+             for h in hist]
+    return "Échanges précédents sur ce document :\n" + "\n".join(lines) + "\n\n"
+
 # Plafond de pipelines simultanés. Depuis la paramétrisation des répertoires
 # (adli_v2.pipeline.process_pdf passe interim/processed/annotated/md en
 # arguments aux fonctions v1, plus aucune mutation de constantes globales),
@@ -74,6 +103,10 @@ def _janitor_loop():
             for doc_id in list(_chat_contexts):
                 if now - _chat_contexts[doc_id].get("_created_at", 0) > _CHAT_CONTEXT_TTL_SECONDS:
                     del _chat_contexts[doc_id]
+            for doc_id in list(_chat_history):
+                hist = _chat_history[doc_id]
+                if hist and now - hist[-1]["ts"] > _CHAT_CONTEXT_TTL_SECONDS:
+                    del _chat_history[doc_id]
 
 
 threading.Thread(target=_janitor_loop, daemon=True).start()
@@ -666,13 +699,37 @@ def _find_signer_in_query(data: dict, query: str) -> list[str]:
     return sorted(matched)
 
 
-def _chat_answer(data: dict, question: str) -> str:
+def _chat_answer(data: dict, question: str, doc_id: str = "") -> str:
+    """Réponse textuelle seule — cf. _chat_answer_with_meta pour la méta."""
+    return _chat_answer_with_meta(data, question, doc_id=doc_id)[0]
+
+
+def _chat_answer_with_meta(
+        data: dict, question: str, doc_id: str = "",
+) -> tuple[str, int | None, int | None]:
+    """(réponse, articles_couverts, articles_total) — couverture renseignée
+    uniquement sur le chemin « analyse en profondeur » fragmentée, None
+    ailleurs (questions de cascade et repli LLM mono-requête : tout le
+    document tient dans le contexte)."""
     q = question.lower().strip()
 
     # Action « Analyse en profondeur » : vue d'ensemble complète du document
-    # (bouton de la page ou question équivalente) — synthèse LLM directe.
+    # (bouton de la page ou question équivalente) — synthèse LLM directe,
+    # éventuellement fragmentée : c'est le seul chemin qui renseigne la
+    # couverture d'articles.
     if any(w in q for w in _ANALYSIS_DEEP_WORDS):
-        return _llm_analysis_answer(data, question)
+        return _llm_analysis_answer_with_meta(data, question, doc_id=doc_id)
+
+    answer = _chat_answer_rules(data, question, doc_id=doc_id)
+    return answer, None, None
+
+
+def _chat_answer_rules(data: dict, question: str, doc_id: str = "") -> str:
+    """Cascade de règles déterministes (comptages, signataires, références,
+    article exact, recherche plein texte, domaine) puis repli LLM factuel.
+    Répond en texte seul — ces questions n'ont ni historique ni couverture
+    partielle à exposer."""
+    q = question.lower().strip()
 
     n_arts = len(data.get("articles", []))
     n_instrs = len(_chat_decrees(data))
@@ -840,7 +897,7 @@ def _chat_answer(data: dict, question: str) -> str:
     # Repli LLM : la cascade de règles ne couvre pas cette question — on
     # laisse le modèle analyser le contenu réel du document, avec vérification
     # mécanique des citations (aucune hallucination n'est jamais montrée).
-    return _llm_analysis_answer(data, question)
+    return _llm_analysis_answer(data, question, doc_id=doc_id)
 
 
 # ── Analyse du contenu par LLM (repli au-delà de la cascade de règles) ──
@@ -864,6 +921,33 @@ ANALYSIS_MAX_CONTEXT_CHARS = 9000
 ANALYSIS_CHUNK_CONTEXT_CHARS = 9000
 ANALYSIS_MAX_CHUNKS = 12
 
+# Parallélisme des appels par paquet : borne basse volontaire pour ne pas
+# cogner les limites de concurrence de Groq. Accélère l'attente utilisateur
+# mais n'économise PAS le quota — chaque paquet reste une requête facturée.
+_ANALYSIS_MAX_PARALLEL_CHUNKS = 3
+
+# Garde-fou quota dédié à l'analyse en profondeur : un lancement peut
+# consommer jusqu'à ANALYSIS_MAX_CHUNKS requêtes (~5 % du quota quotidien
+# Groq en un clic). Ce compteur borne les LANCEMENTS distincts par jour ;
+# le cache borne la répétition d'une même question — les deux sont
+# complémentaires.
+_DEEP_ANALYSIS_DAILY_BUDGET = 20
+_deep_analysis_count_today = {"date": None, "count": 0}
+_deep_analysis_lock = threading.Lock()
+
+
+def _deep_analysis_budget_ok() -> bool:
+    import datetime
+    today = datetime.date.today().isoformat()
+    with _deep_analysis_lock:
+        if _deep_analysis_count_today["date"] != today:
+            _deep_analysis_count_today["date"] = today
+            _deep_analysis_count_today["count"] = 0
+        if _deep_analysis_count_today["count"] >= _DEEP_ANALYSIS_DAILY_BUDGET:
+            return False
+        _deep_analysis_count_today["count"] += 1
+        return True
+
 # Marge par article dans l'estimation de remplissage d'un paquet : en-tête
 # « [Source i] » + métadonnées (BO, doc_id, type/référence, page) + séparateur.
 _ARTICLE_META_OVERHEAD_CHARS = 200
@@ -885,6 +969,9 @@ _LLM_KEY_MSG = "Clé API du modèle de langage invalide ou absente."
 _LLM_TOO_LONG_MSG = ("Le document est trop long pour une analyse en une seule "
     "requête. Réessayez avec une question plus ciblée "
     "(un décret, un article, un thème).")
+_LLM_BUDGET_MSG = ("Budget quotidien d'analyses en profondeur atteint — "
+    "réessayez demain, ou posez une question plus ciblée (elle passe par la "
+    "cascade de règles, pas par ce budget).")
 
 
 def _llm_failure_message(e: Exception | None) -> str:
@@ -963,14 +1050,18 @@ def _article_context_len(article: dict) -> int:
 
 
 def _plan_analysis_chunks(sources: list[dict]) -> tuple[list[list[dict]], int]:
-    """Découpe les sources en paquets séquentiels tenant chacun dans
+    """Découpe les sources en paquets tenant chacun dans
     ANALYSIS_CHUNK_CONTEXT_CHARS (estimation via _article_context_len).
 
     L'ordre du document est conservé et un article n'est jamais coupé en
     deux entre deux paquets ; un article isolé plus gros que le budget sera
-    tronqué par le filet de sécurité de format_context. Le nombre de paquets
-    est plafonné à ANALYSIS_MAX_CHUNKS : renvoie (paquets, articles_couverts),
-    les articles au-delà du plafond étant exclus de la couverture.
+    tronqué par le filet de sécurité de format_context. Quand c'est possible
+    sans dépasser ANALYSIS_MAX_CHUNKS, on préfère fermer un paquet à la
+    frontière entre deux instruments (dès ~50 % du budget consommé) plutôt
+    qu'au milieu d'un décret — compromis assumé : des paquets moins remplis
+    peuvent faire atteindre le plafond plus tôt et réduire la couverture.
+    Renvoie (paquets, articles_couverts), les articles au-delà du plafond
+    étant exclus de la couverture.
     """
     chunks: list[list[dict]] = []
     current: list[dict] = []
@@ -978,7 +1069,15 @@ def _plan_analysis_chunks(sources: list[dict]) -> tuple[list[list[dict]], int]:
     covered = 0
     for src in sources:
         cost = _article_context_len(src)
-        if current and used + cost > ANALYSIS_CHUNK_CONTEXT_CHARS:
+        # Frontière d'instrument : l'article entrant change de référence par
+        # rapport au dernier article du paquet courant, déjà à moitié rempli
+        # → on ferme ici plutôt que de mélanger deux décrets dans un paquet.
+        boundary = (
+            current
+            and src.get("reference") != current[-1].get("reference")
+            and used >= ANALYSIS_CHUNK_CONTEXT_CHARS * 0.5
+        )
+        if current and (used + cost > ANALYSIS_CHUNK_CONTEXT_CHARS or boundary):
             chunks.append(current)
             covered += len(current)
             current, used = [], 0
@@ -1004,9 +1103,27 @@ def _analysis_section_title(chunk: list[dict]) -> str | None:
     return None
 
 
+def _run_one_chunk(llm, idx: int, chunk: list[dict], question: str):
+    """Appel LLM d'un paquet, exécuté dans le pool de threads.
+    Renvoie (idx, réponse|None, erreur|None) — ne propage jamais d'exception
+    : les erreurs sont réassemblées et tracées dans l'ordre du document."""
+    from src.rag.prompt_builder import build_synthesis_prompt
+
+    system_instruction, user_prompt = build_synthesis_prompt(
+        question, chunk, max_context_chars=ANALYSIS_CHUNK_CONTEXT_CHARS,
+    )
+    try:
+        answer_text = llm.generate(system_instruction, user_prompt)
+        return idx, answer_text, None
+    except Exception as e:
+        return idx, None, e
+
+
 def _chunked_analysis_answer(lang: str, question: str,
-                             sources: list[dict]) -> str:
-    """Vue d'ensemble d'un document volumineux par paquets séquentiels.
+                             sources: list[dict],
+                             ) -> tuple[str, int, int]:
+    """Vue d'ensemble d'un document volumineux par paquets exécutés en
+    parallèle (pool borné), réassemblés dans l'ordre du document.
 
     Chaque paquet produit une section ancrée (grounding vérifié contre les
     seuls articles du paquet — les numéros [Source N] restent donc valides),
@@ -1015,38 +1132,57 @@ def _chunked_analysis_answer(lang: str, question: str,
     compromettre les suivants ; si aucun paquet ne répond, on retombe sur
     le refus hors périmètre (au moins un appel a abouti) ou le message
     d'échec LLM nommant la cause (quota, réseau, clé API…).
-    """
+
+    Renvoie (réponse, articles_couverts, articles_total)."""
     from src.rag.citation_verifier import parse_grounding, verify_grounding
     from src.rag.llm_client import LLMClient
     from src.rag.prompt_builder import (
         OUT_OF_SCOPE_SENTENCE_AR,
         OUT_OF_SCOPE_SENTENCE_FR,
-        build_synthesis_prompt,
     )
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    total = len(sources)
+
+    # Garde-fou quota : borner AVANT tout appel LLM (le cache ne protège que
+    # la répétition d'une même question, pas un premier lancement).
+    if not _deep_analysis_budget_ok():
+        return _LLM_BUDGET_MSG, 0, total
 
     refusal = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
     chunks, covered = _plan_analysis_chunks(sources)
+    coverage_ratio = covered / total if total else 1.0
+    if coverage_ratio < 0.9:
+        print(f"  [analyzer] couverture prévisionnelle : {covered}/{total} "
+              f"articles ({coverage_ratio:.0%})")
 
     try:
         llm = LLMClient()
     except Exception as e:
-        return _llm_failure_message(e)
+        return _llm_failure_message(e), covered, total
 
+    # Client unique partagé par les workers : le SDK Groq repose sur
+    # httpx.Client, thread-safe pour des requêtes concurrentes.
+    results: list[tuple[str | None, Exception | None] | None] = [None] * len(chunks)
+    workers = max(1, min(_ANALYSIS_MAX_PARALLEL_CHUNKS, len(chunks)))
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(_run_one_chunk, llm, i, c, question): i
+                   for i, c in enumerate(chunks)}
+        for fut in as_completed(futures):
+            idx, answer_text, err = fut.result()
+            results[idx] = (answer_text, err)
+
+    # Réassemblage DANS L'ORDRE DU DOCUMENT (pas l'ordre d'arrivée).
     sections: list[str] = []
     llm_reached = False
     last_error: Exception | None = None
     for idx, chunk in enumerate(chunks, start=1):
-        system_instruction, user_prompt = build_synthesis_prompt(
-            question, chunk, max_context_chars=ANALYSIS_CHUNK_CONTEXT_CHARS,
-        )
-        try:
-            answer_text = llm.generate(system_instruction, user_prompt)
-        except Exception as e:
-            # Paquet sauté sans compromettre les suivants ; l'exception est
-            # tracée et mémorisée pour nommer la cause si TOUT a échoué.
-            last_error = e
+        outcome = results[idx - 1]
+        answer_text, err = outcome if outcome is not None else (None, RuntimeError("paquet sans résultat"))
+        if err is not None:
+            last_error = err
             print(f"  [analyzer] paquet {idx}/{len(chunks)} : "
-                  f"échec LLM ({type(e).__name__})")
+                  f"échec LLM ({type(err).__name__})")
             continue
         llm_reached = True
         clean, source_ids = parse_grounding(answer_text)
@@ -1070,18 +1206,18 @@ def _chunked_analysis_answer(lang: str, question: str,
 
     if not sections:
         if llm_reached:
-            return refusal
-        return _llm_failure_message(last_error)
+            return refusal, covered, total
+        return _llm_failure_message(last_error), covered, total
 
     out = "\n\n".join(sections)
-    if covered < len(sources):
+    if covered < total:
         note_fr = (f"\n\n_Analyse partielle : {covered} premiers articles couverts "
-                   f"sur {len(sources)} — précisez un décret ou un thème "
+                   f"sur {total} — précisez un décret ou un thème "
                    "pour aller plus loin._")
-        note_ar = (f"\n\n_تحليل جزئي: أول {covered} مادة من أصل {len(sources)} — "
+        note_ar = (f"\n\n_تحليل جزئي: أول {covered} مادة من أصل {total} — "
                    "اطرح سؤالاً محدداً عن مرسوم أو موضوع للمزيد._")
         out += note_ar if lang == "ar" else note_fr
-    return out
+    return out, covered, total
 
 
 # ── Cache anti-gaspillage du repli LLM ────────────────────────────────
@@ -1090,7 +1226,7 @@ def _chunked_analysis_answer(lang: str, question: str,
 # quotidien limité : reposer la même question pendant une démo ne doit rien
 # refacturer. Cache en mémoire de process, comme _tasks / _chat_contexts.
 
-_analysis_cache: dict[tuple[str, str], str] = {}
+_analysis_cache: dict[tuple[str, str], tuple[str, int | None, int | None]] = {}
 _ANALYSIS_CACHE_MAX = 200
 
 # Préfixes de non-cacheable : les messages d'échec ci-dessus repris
@@ -1102,6 +1238,7 @@ _ANALYSIS_ERROR_PREFIXES = (
     _LLM_NETWORK_MSG,
     _LLM_KEY_MSG,
     _LLM_TOO_LONG_MSG,
+    _LLM_BUDGET_MSG,
 )
 
 
@@ -1130,26 +1267,48 @@ def _answer_not_cacheable(answer: str) -> bool:
     ))
 
 
-def _llm_analysis_answer(data: dict, question: str) -> str:
+def _llm_analysis_answer(data: dict, question: str, doc_id: str = "") -> str:
+    """Réponse textuelle seule — cf. _llm_analysis_answer_with_meta."""
+    return _llm_analysis_answer_with_meta(data, question, doc_id=doc_id)[0]
+
+
+def _llm_analysis_answer_with_meta(
+        data: dict, question: str, doc_id: str = "",
+) -> tuple[str, int | None, int | None]:
     """Repli LLM avec cache mémoire par (doc_id, question normalisée) —
     évite de refacturer le quota Groq pour une question déjà posée sur le
     même document (démo, session de test). Éviction FIFO naïve, suffisante
-    ici ; les erreurs/refus ne sont jamais mis en cache."""
+    ici ; les erreurs/refus ne sont jamais mis en cache.
+
+    Le cache est court-circuité dès qu'un historique de conversation existe
+    pour le document : la réponse dépend alors des échanges précédents, pas
+    seulement de (doc_id, question) — servir une entrée en cache ignorerait
+    le contexte de suivi."""
+    has_history = bool(_chat_history.get(doc_id))
     key = _cache_key(data, question)
-    if key in _analysis_cache:
+    if not has_history and key in _analysis_cache:
         return _analysis_cache[key]
 
-    answer = _llm_analysis_answer_uncached(data, question)
+    result = _llm_analysis_core(data, question, doc_id=doc_id)
 
-    if not _answer_not_cacheable(answer):
+    if not has_history and not _answer_not_cacheable(result[0]):
         if len(_analysis_cache) >= _ANALYSIS_CACHE_MAX:
             _analysis_cache.pop(next(iter(_analysis_cache)))
-        _analysis_cache[key] = answer
-    return answer
+        _analysis_cache[key] = result
+    return result
 
 
-def _llm_analysis_answer_uncached(data: dict, question: str) -> str:
-    """Réponse LLM fondée sur le contenu réel du document analysé.
+def _llm_analysis_answer_uncached(data: dict, question: str,
+                                  doc_id: str = "") -> str:
+    """Réponse textuelle seule du repli LLM — cf. _llm_analysis_core."""
+    return _llm_analysis_core(data, question, doc_id=doc_id)[0]
+
+
+def _llm_analysis_core(
+        data: dict, question: str, doc_id: str = "",
+) -> tuple[str, int | None, int | None]:
+    """(réponse, articles_couverts, articles_total) fondés sur le contenu
+    réel du document analysé.
 
     Utilisée en repli quand la cascade de règles (comptages, signataires,
     références, article exact, recherche plein texte, classification de
@@ -1193,9 +1352,13 @@ def _llm_analysis_answer_uncached(data: dict, question: str) -> str:
         if total_chars > ANALYSIS_MAX_CONTEXT_CHARS:
             return _chunked_analysis_answer(lang, question, sources)
 
+    # Historique injecté UNIQUEMENT sur le chemin factuel : les questions de
+    # suivi en ont besoin ; l'analyse d'ensemble est auto-suffisante et
+    # préserve son budget de contexte pour les articles.
     build = build_synthesis_prompt if is_overview else build_prompt
+    prompt_question = question if is_overview else _history_block(doc_id) + question
     system_instruction, user_prompt = build(
-        question, sources, max_context_chars=ANALYSIS_MAX_CONTEXT_CHARS,
+        prompt_question, sources, max_context_chars=ANALYSIS_MAX_CONTEXT_CHARS,
     )
 
     try:
@@ -1209,8 +1372,8 @@ def _llm_analysis_answer_uncached(data: dict, question: str) -> str:
     except Exception as e:
         # Message distinct selon la cause (quota, réseau, clé API, 413) et
         # trace serveur de l'exception brute — cf. _llm_failure_message.
-        return _llm_failure_message(e)
-    
+        return _llm_failure_message(e), None, None
+
     refusal = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
     refusal_phrase = REFUSAL_SENTENCE_AR if lang == "ar" else REFUSAL_SENTENCE_FR
     unsupported = UNSUPPORTED_SENTENCE_AR if lang == "ar" else UNSUPPORTED_SENTENCE_FR
@@ -1219,21 +1382,21 @@ def _llm_analysis_answer_uncached(data: dict, question: str) -> str:
         clean, source_ids = parse_grounding(answer_text)
         grounded, _stats = verify_grounding(source_ids, sources)
         if refusal in clean or not clean.strip() or not grounded:
-            return refusal
+            return refusal, None, None
         cites = []
         for i in grounded:
             art = sources[i - 1]
             page = art.get("pdf_page") or art.get("printed_page")
             ref = f"art. {art.get('article_number', '?')}" + (f", p. {page}" if page else "")
             cites.append(ref)
-        return clean + "\n\n📄 Sources : " + ", ".join(cites)
+        return clean + "\n\n📄 Sources : " + ", ".join(cites), None, None
 
     clean, spans = parse_citations(answer_text)
     verified, _stats = verify_citations(spans, sources)
     if refusal_phrase in clean:
-        return refusal_phrase
+        return refusal_phrase, None, None
     if spans and not verified:
-        return unsupported
+        return unsupported, None, None
     cites = []
     for c in verified:
         art = sources[c["source"] - 1]
@@ -1242,7 +1405,8 @@ def _llm_analysis_answer_uncached(data: dict, question: str) -> str:
             cites.append(f"p. {page}")
         else:
             cites.append(f"art. {art.get('article_number', '?')}")
-    return clean + (f"\n\n📄 {', '.join(cites)}" if cites else "")
+    answer = clean + (f"\n\n📄 {', '.join(cites)}" if cites else "")
+    return answer, None, None
 
 
 @analyzer_bp.route("/chat", methods=["POST"])
@@ -1260,8 +1424,25 @@ def chat():
     if not data:
         return flask.jsonify({"answer": "Aucun document analysé en mémoire. Lancez d'abord une analyse."})
 
-    answer = _chat_answer(data, question)
-    return flask.jsonify({"answer": answer})
+    answer, covered, total = _chat_answer_with_meta(data, question, doc_id=doc_id)
+    # Historique écrit APRÈS le calcul : la question courante ne doit pas
+    # figurer dans son propre contexte.
+    _append_history(doc_id, "user", question)
+    _append_history(doc_id, "assistant", answer)
+    return flask.jsonify({
+        "answer": answer,
+        "covered_articles": covered,
+        "total_articles": total,
+    })
+
+
+@analyzer_bp.route("/chat/history/<doc_id>")
+def chat_history(doc_id: str):
+    """Historique de conversation du document — réhydratation côté client
+    après rechargement de page (tant que le TTL serveur n'a pas expiré)."""
+    with _chat_lock:
+        hist = list(_chat_history.get(doc_id, []))
+    return flask.jsonify({"history": hist})
 
 
 # ── API v2 (complémentaire, non utilisée par la page) ─────────────────
