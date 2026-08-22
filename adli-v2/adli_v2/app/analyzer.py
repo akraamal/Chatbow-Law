@@ -24,6 +24,7 @@ import sys
 import threading
 import time
 import uuid
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 import flask
@@ -926,26 +927,27 @@ ANALYSIS_MAX_CHUNKS = 12
 # mais n'économise PAS le quota — chaque paquet reste une requête facturée.
 _ANALYSIS_MAX_PARALLEL_CHUNKS = 3
 
-# Garde-fou quota dédié à l'analyse en profondeur : un lancement peut
-# consommer jusqu'à ANALYSIS_MAX_CHUNKS requêtes (~5 % du quota quotidien
-# Groq en un clic). Ce compteur borne les LANCEMENTS distincts par jour ;
-# le cache borne la répétition d'une même question — les deux sont
-# complémentaires.
-_DEEP_ANALYSIS_DAILY_BUDGET = 20
-_deep_analysis_count_today = {"date": None, "count": 0}
-_deep_analysis_lock = threading.Lock()
+# Garde-fou quota des fonctionnalités LLM : un lancement peut consommer
+# plusieurs requêtes (~5 % du quota quotidien Groq en un clic). Ce compteur
+# borne les LANCEMENTS distincts par jour, TOUS usages confondus (analyse
+# fragmentée du chat, points clés) — ils tapent sur le même quota de 250
+# requêtes/jour. Le cache borne la répétition d'une même question — les
+# deux sont complémentaires.
+_LLM_FEATURE_DAILY_BUDGET = 20
+_llm_feature_count_today = {"date": None, "count": 0}
+_llm_feature_lock = threading.Lock()
 
 
-def _deep_analysis_budget_ok() -> bool:
+def _llm_feature_budget_ok() -> bool:
     import datetime
     today = datetime.date.today().isoformat()
-    with _deep_analysis_lock:
-        if _deep_analysis_count_today["date"] != today:
-            _deep_analysis_count_today["date"] = today
-            _deep_analysis_count_today["count"] = 0
-        if _deep_analysis_count_today["count"] >= _DEEP_ANALYSIS_DAILY_BUDGET:
+    with _llm_feature_lock:
+        if _llm_feature_count_today["date"] != today:
+            _llm_feature_count_today["date"] = today
+            _llm_feature_count_today["count"] = 0
+        if _llm_feature_count_today["count"] >= _LLM_FEATURE_DAILY_BUDGET:
             return False
-        _deep_analysis_count_today["count"] += 1
+        _llm_feature_count_today["count"] += 1
         return True
 
 # Marge par article dans l'estimation de remplissage d'un paquet : en-tête
@@ -1008,6 +1010,28 @@ _ANALYSIS_DEEP_WORDS = (
     "analyse en profondeur", "analyse complète", "décris en détail",
     "décris-moi en détail", "que traite ce document", "de quoi parle ce document",
 )
+
+# ── Points clés : parsing du bloc délimité [[TITRE]]/[[TEASER]]/[[END]] ──
+
+_KEY_POINT_RE = re.compile(
+    r"\[\[TITRE\]\]\s*(.*?)\s*\[\[TEASER\]\]\s*(.*?)\s*\[\[END\]\]",
+    re.DOTALL,
+)
+
+_KEY_POINT_DETAIL_QUESTION = (
+    "Décris en détail le contenu de ce décret, article par article."
+)
+
+
+def _parse_key_point(answer_text: str) -> tuple[str, str] | None:
+    m = _KEY_POINT_RE.search(answer_text or "")
+    if not m:
+        return None
+    title = m.group(1).strip()
+    teaser = m.group(2).strip()
+    if not title:
+        return None
+    return title, teaser
 
 
 def _articles_as_rag_sources(data: dict) -> list[dict]:
@@ -1140,13 +1164,12 @@ def _chunked_analysis_answer(lang: str, question: str,
         OUT_OF_SCOPE_SENTENCE_AR,
         OUT_OF_SCOPE_SENTENCE_FR,
     )
-    from concurrent.futures import ThreadPoolExecutor, as_completed
 
     total = len(sources)
 
     # Garde-fou quota : borner AVANT tout appel LLM (le cache ne protège que
     # la répétition d'une même question, pas un premier lancement).
-    if not _deep_analysis_budget_ok():
+    if not _llm_feature_budget_ok():
         return _LLM_BUDGET_MSG, 0, total
 
     refusal = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
@@ -1218,6 +1241,179 @@ def _chunked_analysis_answer(lang: str, question: str,
                    "اطرح سؤالاً محدداً عن مرسوم أو موضوع للمزيد._")
         out += note_ar if lang == "ar" else note_fr
     return out, covered, total
+
+
+# ── Points clés (remplace « Analyse en profondeur » côté interface) ────
+# Un point clé = un décret, résumé par le LLM (titre + teaser courts) —
+# choix assumé : les frontières inter-décrets sont correctes par
+# construction (article_indices du pipeline), chaque appel ne porte que sur
+# un seul instrument (contexte petit), et la segmentation est déjà fournie.
+# Des thèmes transversaux multi-décrets seraient une V2 distincte.
+# Le détail développé est généré PARESSEUSEMENT au clic sur un point,
+# jamais en masse — chaque appel ne consomme le quota qu'à la demande.
+
+_KEY_POINTS_MAX_INSTRUMENTS = 15   # au-delà, les décrets restants ne sont
+                                   # pas résumés par IA (note de troncature)
+_KEY_POINTS_MAX_PARALLEL = 3       # même borne prudente que le pool de chunks
+
+_key_point_cache: dict[tuple[str, str], dict] = {}       # (doc_id, instrument_id)
+_key_point_detail_cache: dict[tuple[str, str], str] = {} # (doc_id, instrument_id)
+_key_point_lock = threading.Lock()
+
+
+def _key_point_sources_for_instrument(data: dict, instr: dict) -> list[dict]:
+    """Sous-ensemble de _articles_as_rag_sources() limité aux articles de CE
+    décret — réutilise l'ordre du document, pas de logique nouvelle."""
+    all_sources = _articles_as_rag_sources(data)
+    idxs = set(i for i in instr.get("article_indices", []) if isinstance(i, int))
+    return [s for i, s in enumerate(all_sources) if i in idxs]
+
+
+def _generate_one_key_point(doc_id: str, instr: dict, sources: list[dict]) -> dict:
+    cache_key = (doc_id, str(instr.get("instrument_id")))
+    with _key_point_lock:
+        cached = _key_point_cache.get(cache_key)
+    if cached:
+        return cached
+
+    from src.rag.llm_client import LLMClient
+    from src.rag.prompt_builder import build_key_point_prompt
+
+    result = {
+        "instrument_id": instr.get("instrument_id"),
+        "ref_badge": f"{instr.get('instrument_type') or 'Texte'} n° {instr.get('reference', '')}",
+        "title": None,
+        "teaser": None,
+        "error": None,
+    }
+    try:
+        llm = LLMClient()
+        system_instruction, user_prompt = build_key_point_prompt(
+            sources, max_context_chars=ANALYSIS_CHUNK_CONTEXT_CHARS,
+        )
+        answer_text = llm.generate(system_instruction, user_prompt)
+    except Exception as e:
+        result["error"] = _llm_failure_message(e)
+        return result
+
+    parsed = _parse_key_point(answer_text)
+    if not parsed:
+        result["error"] = "Résumé indisponible pour ce décret."
+        return result
+
+    result["title"], result["teaser"] = parsed
+    with _key_point_lock:
+        _key_point_cache[cache_key] = result
+    return result
+
+
+@analyzer_bp.route("/key-points/<doc_id>")
+def key_points(doc_id: str):
+    """Liste des points clés du document : un bullet par décret, titre+teaser
+    générés par IA. Budget quotidien consommé UNE FOIS par ouverture d'onglet
+    (pas par décret) — il protège le clic, pas chaque appel individuel."""
+    with _chat_lock:
+        data = _chat_contexts.get(doc_id)
+    if not data:
+        return {"error": "Aucun document analysé en mémoire. Ouvrez d'abord l'analyse."}, 404
+
+    if not _llm_feature_budget_ok():
+        return {"error": "Budget quotidien du modèle de langage atteint — réessayez plus tard."}, 429
+
+    instruments = _chat_decrees(data)
+    total = len(instruments)
+    shown = instruments[:_KEY_POINTS_MAX_INSTRUMENTS]
+
+    bullets: list[dict | None] = [None] * len(shown)
+    with ThreadPoolExecutor(max_workers=_KEY_POINTS_MAX_PARALLEL) as pool:
+        futures = {}
+        for i, instr in enumerate(shown):
+            sources = _key_point_sources_for_instrument(data, instr)
+            if not sources:
+                bullets[i] = {
+                    "instrument_id": instr.get("instrument_id"),
+                    "ref_badge": f"{instr.get('instrument_type') or 'Texte'} n° {instr.get('reference', '')}",
+                    "title": None, "teaser": None,
+                    "error": "Aucun article rattaché à ce décret.",
+                }
+                continue
+            futures[pool.submit(_generate_one_key_point, doc_id, instr, sources)] = i
+        for fut in as_completed(futures):
+            i = futures[fut]
+            bullets[i] = fut.result()
+
+    return flask.jsonify({
+        "bullets": bullets,
+        "total_instruments": total,
+        "shown": len(shown),
+        "truncated": total > len(shown),
+    })
+
+
+@analyzer_bp.route("/key-points/<doc_id>/<instrument_id>")
+def key_point_detail(doc_id: str, instrument_id: str):
+    """Développement détaillé d'UN point clé — généré paresseusement au clic
+    et mis en cache. Réutilise le même garde-fou anti-hallucination
+    (grounding vérifié) que l'ancienne analyse fragmentée, appliqué à un
+    seul décret."""
+    with _chat_lock:
+        data = _chat_contexts.get(doc_id)
+    if not data:
+        return {"error": "Aucun document analysé en mémoire."}, 404
+
+    cache_key = (doc_id, instrument_id)
+    with _key_point_lock:
+        cached = _key_point_detail_cache.get(cache_key)
+    if cached:
+        return flask.jsonify({"detail": cached})
+
+    instr = next(
+        (i for i in _chat_decrees(data) if str(i.get("instrument_id")) == instrument_id),
+        None,
+    )
+    if not instr:
+        return {"error": "Décret introuvable dans ce document."}, 404
+
+    if not _llm_feature_budget_ok():
+        return {"error": "Budget quotidien du modèle de langage atteint — réessayez plus tard."}, 429
+
+    sources = _key_point_sources_for_instrument(data, instr)
+    lang = (data.get("lang") or "").lower()
+
+    from src.rag.citation_verifier import parse_grounding, verify_grounding
+    from src.rag.llm_client import LLMClient
+    from src.rag.prompt_builder import (
+        OUT_OF_SCOPE_SENTENCE_AR, OUT_OF_SCOPE_SENTENCE_FR, build_synthesis_prompt,
+    )
+
+    refusal = OUT_OF_SCOPE_SENTENCE_AR if lang == "ar" else OUT_OF_SCOPE_SENTENCE_FR
+    system_instruction, user_prompt = build_synthesis_prompt(
+        _KEY_POINT_DETAIL_QUESTION, sources,
+        max_context_chars=ANALYSIS_MAX_CONTEXT_CHARS,
+    )
+
+    try:
+        llm = LLMClient()
+        answer_text = llm.generate(system_instruction, user_prompt)
+    except Exception as e:
+        return flask.jsonify({"detail": _llm_failure_message(e)})
+
+    clean, source_ids = parse_grounding(answer_text)
+    grounded, _stats = verify_grounding(source_ids, sources)
+    if refusal in clean or not clean.strip() or not grounded:
+        return flask.jsonify({"detail": refusal})
+
+    cites = []
+    for i in grounded:
+        art = sources[i - 1]
+        page = art.get("pdf_page") or art.get("printed_page")
+        cites.append(f"art. {art.get('article_number', '?')}"
+                     + (f", p. {page}" if page else ""))
+    detail = clean.strip() + "\n\n📄 Sources : " + ", ".join(cites)
+
+    with _key_point_lock:
+        _key_point_detail_cache[cache_key] = detail
+    return flask.jsonify({"detail": detail})
 
 
 # ── Cache anti-gaspillage du repli LLM ────────────────────────────────
