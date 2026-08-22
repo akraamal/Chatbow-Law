@@ -382,6 +382,44 @@ def open_analysis(doc_id: str):
     return {"error": "Analyse introuvable dans l'historique"}, 404
 
 
+@analyzer_bp.route("/analysis/<doc_id>", methods=["DELETE"])
+def delete_analysis(doc_id: str):
+    """Supprime une analyse : JSON annoté(s) sur disque (l'historique en
+    dérive directement) + état mémoire du document — contexte de chat,
+    historique de conversation, caches points clés et repli LLM. Idempotent
+    côté mémoire ; 404 seulement si rien n'existait nulle part."""
+    entry = next((e for e in _history_entries() if e["doc_id"] == doc_id), None)
+
+    deleted: list[str] = []
+    if entry:
+        candidates = [Path(entry["result_path"]),
+                      DEFAULT_ANNOTATED / f"{doc_id}.json"]
+        for path in candidates:
+            try:
+                # Garde-fou traversée de chemin : jamais hors du dossier annoté.
+                if (path.is_file()
+                        and path.resolve().parent == DEFAULT_ANNOTATED.resolve()):
+                    path.unlink()
+                    deleted.append(path.name)
+            except OSError:
+                continue
+
+    # Purge mémoire, même si les fichiers étaient déjà absents.
+    with _chat_lock:
+        _chat_contexts.pop(doc_id, None)
+        _chat_history.pop(doc_id, None)
+    with _key_point_lock:
+        for cache in (_key_point_cache, _key_point_detail_cache):
+            for k in [k for k in cache if k[0] == doc_id]:
+                cache.pop(k, None)
+    for k in [k for k in list(_analysis_cache) if k[0] == doc_id]:
+        _analysis_cache.pop(k, None)
+
+    if entry is None and not deleted:
+        return {"error": "Analyse introuvable dans l'historique"}, 404
+    return flask.jsonify({"ok": True, "deleted": deleted})
+
+
 @analyzer_bp.route("/stream/<task_id>")
 def stream(task_id: str):
     """SSE : lignes de logs en temps réel, puis événement done/error."""
