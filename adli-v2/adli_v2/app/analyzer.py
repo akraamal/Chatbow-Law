@@ -871,8 +871,20 @@ _ARTICLE_META_OVERHEAD_CHARS = 200
 # Sources citées listées au maximum en bas de chaque section (au-delà, « … »).
 _ANALYSIS_SECTION_MAX_CITES = 10
 
+# Messages d'échec LLM : source UNIQUE de leur texte — _llm_failure_message
+# les renvoie tels quels et _ANALYSIS_ERROR_PREFIXES les reprend comme
+# préfixes (startswith accepte la phrase entière), sans duplication.
 _LLM_UNAVAILABLE_MSG = ("Je n'ai pas pu interroger le modèle de langage "
     "(erreur inattendue : voir les logs serveur). Réessayez.")
+_LLM_QUOTA_MSG = ("Quota quotidien du modèle de langage atteint — "
+    "réessayez plus tard, ou contactez l'administrateur pour augmenter "
+    "la limite Groq.")
+_LLM_NETWORK_MSG = ("Impossible de joindre le service de langage (réseau). "
+    "Réessayez.")
+_LLM_KEY_MSG = "Clé API du modèle de langage invalide ou absente."
+_LLM_TOO_LONG_MSG = ("Le document est trop long pour une analyse en une seule "
+    "requête. Réessayez avec une question plus ciblée "
+    "(un décret, un article, un thème).")
 
 
 def _llm_failure_message(e: Exception | None) -> str:
@@ -884,22 +896,18 @@ def _llm_failure_message(e: Exception | None) -> str:
         print(f"  [analyzer] échec LLM : {type(e).__name__}: {e}")
     from groq import APIConnectionError, APIStatusError, RateLimitError
     if isinstance(e, RateLimitError):
-        return ("Quota quotidien du modèle de langage atteint — "
-                "réessayez plus tard, ou contactez l'administrateur "
-                "pour augmenter la limite Groq.")
+        return _LLM_QUOTA_MSG
     if isinstance(e, APIConnectionError):
-        return "Impossible de joindre le service de langage (réseau). Réessayez."
+        return _LLM_NETWORK_MSG
     if isinstance(e, ValueError):
         # LLMClient() lève ValueError quand GROQ_API_KEY est absente.
-        return "Clé API du modèle de langage invalide ou absente."
+        return _LLM_KEY_MSG
     if isinstance(e, APIStatusError):
         status = getattr(e, "status_code", None)
         if status == 413:
-            return ("Le document est trop long pour une analyse en une seule "
-                    "requête. Réessayez avec une question plus ciblée "
-                    "(un décret, un article, un thème).")
+            return _LLM_TOO_LONG_MSG
         if status == 401:
-            return "Clé API du modèle de langage invalide ou absente."
+            return _LLM_KEY_MSG
     return _LLM_UNAVAILABLE_MSG
 
 _ANALYSIS_OVERVIEW_WORDS = (
@@ -1085,12 +1093,15 @@ def _chunked_analysis_answer(lang: str, question: str,
 _analysis_cache: dict[tuple[str, str], str] = {}
 _ANALYSIS_CACHE_MAX = 200
 
+# Préfixes de non-cacheable : les messages d'échec ci-dessus repris
+# ENTIERS (startswith accepte la phrase complète) — si un texte change,
+# le préfixe suit automatiquement.
 _ANALYSIS_ERROR_PREFIXES = (
-    "Je n'ai pas pu interroger",
-    "Quota quotidien",
-    "Impossible de joindre",
-    "Clé API du modèle",
-    "Le document est trop long",
+    _LLM_UNAVAILABLE_MSG,
+    _LLM_QUOTA_MSG,
+    _LLM_NETWORK_MSG,
+    _LLM_KEY_MSG,
+    _LLM_TOO_LONG_MSG,
 )
 
 
@@ -1099,9 +1110,9 @@ def _cache_key(data: dict, question: str) -> tuple[str, str]:
 
 
 def _answer_not_cacheable(answer: str) -> bool:
-    """Erreurs LLM (préfixes ci-dessus) et refus d'ancrage : à retenter,
-    jamais à mémoriser — sinon un « quota atteint » resterait figé après
-    le retour du service."""
+    """Erreurs LLM (messages ci-dessus, comparés en préfixe) et refus
+    d'ancrage : à retenter, jamais à mémoriser — sinon un « quota atteint »
+    resterait figé après le retour du service."""
     if answer.startswith(_ANALYSIS_ERROR_PREFIXES):
         return True
     from src.rag.prompt_builder import (
