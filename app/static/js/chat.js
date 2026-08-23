@@ -1,4 +1,4 @@
-/**
+﻿/**
  * ADLI Morocco — logique du chat.
  * Chaque message passe par /api/chat, qui appelle le vrai chatbot RAG
  * côté serveur (aucune donnée factice).
@@ -29,6 +29,15 @@
   let attachTask = null;      // task_id en cours d'analyse
   let docResult = null;       // résultat JSON du document attaché
   let interruptMode = false;  // bouton d'envoi transformé en bouton d'interruption
+
+  // Aperçu PDF paginé (« Document Original » en mode document attaché)
+  let pdfDoc = null;        // instance PDF.js chargée (cache après premier chargement)
+  let pdfPageNum = 1;        // page actuellement affichée
+  let pdfRenderTask = null;  // tâche de rendu en cours, annulable
+
+  function ensurePdfLib() {
+    return window.pdfjsLib || null;
+  }
 
   function setInterruptMode(on) {
     interruptMode = on;
@@ -177,8 +186,23 @@
   }
 
   function renderDocPanel() {
+    if (attachFile && !docResult) {
+      // Upload en cours (pipeline en arrière-plan) : montrer le PDF si
+      // l'onglet « original » est actif, plutôt que rien.
+      if (currentDocView === "original") {
+        renderAttachedOriginalPanel();
+        return;
+      }
+      docPreviewEl.innerHTML =
+        '<p class="text-xs text-outline text-center mt-12">Analyse en cours…</p>';
+      return;
+    }
     if (docResult) {
-      renderAttachedDocPanel();
+      if (currentDocView === "original") {
+        renderAttachedOriginalPanel();
+      } else {
+        renderAttachedDocPanel();
+      }
       return;
     }
     if (!lastSources.length) {
@@ -358,6 +382,84 @@
   }
 
   // ── Pièce jointe : analyse d'un PDF du Bulletin Officiel ─────────────
+
+  // Aperçu PDF paginé (onglet « Document Original », mode document attaché)
+  async function ensurePdfLoaded() {
+    const lib = ensurePdfLib();
+    if (!lib) throw new Error("PDF.js indisponible");
+    if (pdfDoc || !attachFile) return;
+    const arrayBuffer = await attachFile.arrayBuffer();
+    pdfDoc = await lib.getDocument({ data: arrayBuffer }).promise;
+    pdfPageNum = 1;
+  }
+
+  async function renderPdfPage(num) {
+    if (!pdfDoc) return;
+    if (pdfRenderTask) {
+      pdfRenderTask.cancel(); // pas de rendus concurrents si clics rapides
+    }
+    const page = await pdfDoc.getPage(num);
+    const canvas = document.getElementById("pdf-canvas");
+    if (!canvas) return; // l'utilisateur a changé d'onglet entre-temps
+    const ctx = canvas.getContext("2d");
+
+    const containerWidth = docPreviewEl.parentElement.clientWidth - 32;
+    const unscaledViewport = page.getViewport({ scale: 1 });
+    const scale = Math.min(containerWidth / unscaledViewport.width, 2);
+    const viewport = page.getViewport({ scale });
+    canvas.width = viewport.width;
+    canvas.height = viewport.height;
+
+    pdfRenderTask = page.render({ canvasContext: ctx, viewport });
+    try {
+      await pdfRenderTask.promise;
+    } catch (err) {
+      if (err && err.name !== "RenderingCancelledException") throw err;
+      return; // rendu annulé volontairement
+    }
+
+    document.getElementById("pdf-page-indicator").textContent =
+      "Page " + num + " / " + pdfDoc.numPages;
+    document.getElementById("pdf-prev-btn").disabled = num <= 1;
+    document.getElementById("pdf-next-btn").disabled = num >= pdfDoc.numPages;
+  }
+
+  async function renderAttachedOriginalPanel() {
+    docPreviewEl.innerHTML =
+      '<p class="text-xs text-outline text-center mt-12">Chargement de l\'aperçu…</p>';
+
+    try {
+      await ensurePdfLoaded();
+    } catch (err) {
+      docPreviewEl.innerHTML =
+        '<p class="text-xs text-center" style="display:block;background:#ffdad6;border:2px solid #ba1a1a;color:#93000a;padding:10px 14px">Impossible de charger l\'aperçu du PDF.</p>';
+      return;
+    }
+
+    docPreviewEl.innerHTML =
+      '<div class="flex flex-col items-center gap-3">' +
+        '<canvas id="pdf-canvas" class="shadow max-w-full"></canvas>' +
+        '<div class="flex items-center gap-3">' +
+          '<button id="pdf-prev-btn" class="px-3 py-1 text-sm font-bold text-primary border border-primary/30 rounded-md hover:bg-primary-fixed disabled:opacity-40" title="Page précédente">&#x2039;</button>' +
+          '<span id="pdf-page-indicator" class="text-xs text-outline"></span>' +
+          '<button id="pdf-next-btn" class="px-3 py-1 text-sm font-bold text-primary border border-primary/30 rounded-md hover:bg-primary-fixed disabled:opacity-40" title="Page suivante">&#x203A;</button>' +
+        '</div>' +
+      '</div>';
+
+    document.getElementById("pdf-prev-btn").addEventListener("click", () => {
+      if (pdfPageNum > 1) { pdfPageNum -= 1; renderPdfPage(pdfPageNum); }
+    });
+    document.getElementById("pdf-next-btn").addEventListener("click", () => {
+      if (pdfDoc && pdfPageNum < pdfDoc.numPages) { pdfPageNum += 1; renderPdfPage(pdfPageNum); }
+    });
+
+    try {
+      await renderPdfPage(pdfPageNum);
+    } catch (err) {
+      docPreviewEl.innerHTML =
+        '<p class="text-xs text-center" style="display:block;background:#ffdad6;border:2px solid #ba1a1a;color:#93000a;padding:10px 14px">Impossible d\'afficher cette page.</p>';
+    }
+  }
 
   function renderAttachedDocPanel() {
     const d = docResult;

@@ -208,5 +208,14 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
 </div>
 </footer>
 
-<script src="{{ url_for('static', filename='js/chat.js') }}?v=5"></script>
+<!-- PDF.js (ESM cdnjs) : expose window.pdfjsLib pour l'aperçu paginé du
+     « Document Original ». Module = exécution après le parse, mais chat.js
+     n'y accède qu'au clic de l'utilisateur — aucun souci d'ordre. -->
+<script type="module">
+  import * as pdfjsLib from "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/6.2.108/pdf.min.mjs";
+  window.pdfjsLib = pdfjsLib;
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/6.2.108/pdf.worker.min.mjs";
+</script>
+<script src="{{ url_for('static', filename='js/chat.js') }}?v=6"></script>
 </body></html>
