@@ -79,11 +79,11 @@ session.
 
 ## 4. Captures d'écran
 
-| Fichier | Contenu |
-|---|---|
-| `%TEMP%\adli_shots\kp_1_liste.png` | Liste des points clés (petit document, 2 décrets) |
-| `%TEMP%\adli_shots\kp_2_detail.png` | Point déplié : détail + sources cliquables |
-| `%TEMP%\adli_shots\kp_3_tronque.png` | Gros BO : note de troncature 15/33 |
+| Fichier | Contenu | Aperçu |
+|---|---|---|
+| `../pics/kp_1_liste.png` | Liste des points clés (petit document, 2 décrets) | ![Liste des points clés](../pics/kp_1_liste.png) |
+| `../pics/kp_2_detail.png` | Point déplié : détail + sources cliquables | ![Détail avec sources](../pics/kp_2_detail.png) |
+| `../pics/kp_3_tronque.png` | Gros BO : note de troncature 15/33 | ![Troncature 15/33](../pics/kp_3_tronque.png) |
 
 ---
 
