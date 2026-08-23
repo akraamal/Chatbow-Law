@@ -208,6 +208,29 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
 </div>
 </footer>
 
+<!-- Modale plein écran pour l'aperçu PDF (hors de la <section> principale :
+     position:fixed doit rester relatif au viewport, pas à un ancêtre) -->
+<div id="pdf-fullscreen-modal"
+     style="display:none;position:fixed;inset:0;z-index:500;background:rgba(0,0,0,.9)"
+     class="flex-col items-center justify-center"
+     role="dialog" aria-modal="true" aria-label="Aperçu du document en plein écran">
+  <button id="pdf-fullscreen-close"
+          style="position:absolute;top:16px;right:16px;color:#fff;background:transparent;border:none;cursor:pointer"
+          title="Fermer (Échap)">
+    <span class="material-symbols-outlined text-3xl">close</span>
+  </button>
+  <div style="flex:1;display:flex;align-items:center;justify-content:center;width:100%;overflow:auto;padding:16px">
+    <canvas id="pdf-canvas-fullscreen" style="box-shadow:0 8px 32px rgba(0,0,0,.5);max-width:100%;max-height:100%"></canvas>
+  </div>
+  <div style="display:flex;align-items:center;gap:16px;padding-bottom:24px">
+    <button id="pdf-fs-prev-btn" title="Page précédente (←)"
+            class="px-3 py-1 text-sm font-bold text-white bg-transparent border border-white/70 rounded-md hover:bg-white/10">&#x2039;</button>
+    <span id="pdf-fs-page-indicator" style="color:#fff;font-size:13px"></span>
+    <button id="pdf-fs-next-btn" title="Page suivante (→)"
+            class="px-3 py-1 text-sm font-bold text-white bg-transparent border border-white/70 rounded-md hover:bg-white/10">&#x203A;</button>
+  </div>
+</div>
+
 <!-- PDF.js (ESM cdnjs) : expose window.pdfjsLib pour l'aperçu paginé du
      « Document Original ». Module = exécution après le parse, mais chat.js
      n'y accède qu'au clic de l'utilisateur — aucun souci d'ordre. -->

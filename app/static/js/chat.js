@@ -393,19 +393,19 @@
     pdfPageNum = 1;
   }
 
-  async function renderPdfPage(num) {
+  async function _renderPdfToCanvas(num, canvasId, indicatorId, prevBtnId,
+                                     nextBtnId, computeScale) {
     if (!pdfDoc) return;
     if (pdfRenderTask) {
-      pdfRenderTask.cancel(); // pas de rendus concurrents si clics rapides
+      pdfRenderTask.cancel(); // pas de rendus concurrents sur le même canvas
     }
     const page = await pdfDoc.getPage(num);
-    const canvas = document.getElementById("pdf-canvas");
-    if (!canvas) return; // l'utilisateur a changé d'onglet entre-temps
-    const ctx = canvas.getContext("2d");
+    const canvas = document.getElementById(canvasId);
+    if (!canvas) return; // l'utilisateur a changé de vue entre-temps
 
-    const containerWidth = docPreviewEl.parentElement.clientWidth - 32;
+    const ctx = canvas.getContext("2d");
     const unscaledViewport = page.getViewport({ scale: 1 });
-    const scale = Math.min(containerWidth / unscaledViewport.width, 2);
+    const scale = computeScale(unscaledViewport);
     const viewport = page.getViewport({ scale });
     canvas.width = viewport.width;
     canvas.height = viewport.height;
@@ -418,10 +418,104 @@
       return; // rendu annulé volontairement
     }
 
-    document.getElementById("pdf-page-indicator").textContent =
-      "Page " + num + " / " + pdfDoc.numPages;
-    document.getElementById("pdf-prev-btn").disabled = num <= 1;
-    document.getElementById("pdf-next-btn").disabled = num >= pdfDoc.numPages;
+    const indicator = document.getElementById(indicatorId);
+    if (indicator) indicator.textContent = "Page " + num + " / " + pdfDoc.numPages;
+    const prevBtn = document.getElementById(prevBtnId);
+    if (prevBtn) prevBtn.disabled = num <= 1;
+    const nextBtn = document.getElementById(nextBtnId);
+    if (nextBtn) nextBtn.disabled = num >= pdfDoc.numPages;
+  }
+
+  function renderPdfPage(num) {
+    const containerWidth = docPreviewEl.parentElement.clientWidth - 32;
+    return _renderPdfToCanvas(
+      num, "pdf-canvas", "pdf-page-indicator", "pdf-prev-btn", "pdf-next-btn",
+      (vp) => Math.min(containerWidth / vp.width, 2),
+    );
+  }
+
+  function renderPdfPageFullscreen(num) {
+    const maxW = window.innerWidth * 0.9;
+    const maxH = (window.innerHeight - 140) * 0.95; // place pour croix + contrôles
+    return _renderPdfToCanvas(
+      num, "pdf-canvas-fullscreen", "pdf-fs-page-indicator",
+      "pdf-fs-prev-btn", "pdf-fs-next-btn",
+      (vp) => Math.min(maxW / vp.width, maxH / vp.height, 4),
+    );
+  }
+
+  // ── Modale plein écran (position:fixed custom, pas la Fullscreen API) ──
+  let pdfFullscreenOpen = false;
+  let _pdfKeyHandler = null;
+  let _pdfResizeHandler = null;
+
+  function _pdfBackdropClickHandler(e) {
+    if (e.target.id === "pdf-fullscreen-modal") closePdfFullscreen();
+  }
+
+  function openPdfFullscreen() {
+    if (!pdfDoc) return; // PDF pas encore chargé — bouton normalement non cliquable avant
+    const modal = document.getElementById("pdf-fullscreen-modal");
+    modal.style.display = "flex";
+    pdfFullscreenOpen = true;
+    document.body.style.overflow = "hidden"; // bloque le scroll derrière la modale
+
+    document.getElementById("pdf-fs-prev-btn").onclick = () => {
+      if (pdfPageNum > 1) { pdfPageNum -= 1; renderPdfPageFullscreen(pdfPageNum); }
+    };
+    document.getElementById("pdf-fs-next-btn").onclick = () => {
+      if (pdfDoc && pdfPageNum < pdfDoc.numPages) { pdfPageNum += 1; renderPdfPageFullscreen(pdfPageNum); }
+    };
+    document.getElementById("pdf-fullscreen-close").onclick = closePdfFullscreen;
+
+    _pdfKeyHandler = (e) => {
+      if (e.key === "Escape") {
+        closePdfFullscreen();
+      } else if (e.key === "ArrowRight") {
+        if (pdfDoc && pdfPageNum < pdfDoc.numPages) { pdfPageNum += 1; renderPdfPageFullscreen(pdfPageNum); }
+      } else if (e.key === "ArrowLeft") {
+        if (pdfPageNum > 1) { pdfPageNum -= 1; renderPdfPageFullscreen(pdfPageNum); }
+      }
+    };
+    document.addEventListener("keydown", _pdfKeyHandler);
+    modal.addEventListener("click", _pdfBackdropClickHandler);
+
+    // Re-rendu à la bonne échelle au redimensionnement (débouncé)
+    let resizeTimer = null;
+    _pdfResizeHandler = () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(() => renderPdfPageFullscreen(pdfPageNum), 150);
+    };
+    window.addEventListener("resize", _pdfResizeHandler);
+
+    document.getElementById("pdf-fullscreen-close").focus();
+    renderPdfPageFullscreen(pdfPageNum);
+  }
+
+  function closePdfFullscreen() {
+    const modal = document.getElementById("pdf-fullscreen-modal");
+    modal.style.display = "none";
+    pdfFullscreenOpen = false;
+    document.body.style.overflow = "";
+
+    // Toujours retirer les écouteurs — sinon ils s'accumulent à chaque
+    // ouverture et la navigation clavier sauterait plusieurs pages d'un coup.
+    if (_pdfKeyHandler) {
+      document.removeEventListener("keydown", _pdfKeyHandler);
+      _pdfKeyHandler = null;
+    }
+    modal.removeEventListener("click", _pdfBackdropClickHandler);
+    if (_pdfResizeHandler) {
+      window.removeEventListener("resize", _pdfResizeHandler);
+      _pdfResizeHandler = null;
+    }
+
+    // Le mini-aperçu reflète la page consultée en plein écran.
+    const expandBtn = document.getElementById("pdf-expand-btn");
+    if (expandBtn) expandBtn.focus();
+    if (document.getElementById("pdf-canvas")) {
+      renderPdfPage(pdfPageNum);
+    }
   }
 
   async function renderAttachedOriginalPanel() {
@@ -443,6 +537,8 @@
           '<button id="pdf-prev-btn" class="px-3 py-1 text-sm font-bold text-primary border border-primary/30 rounded-md hover:bg-primary-fixed disabled:opacity-40" title="Page précédente">&#x2039;</button>' +
           '<span id="pdf-page-indicator" class="text-xs text-outline"></span>' +
           '<button id="pdf-next-btn" class="px-3 py-1 text-sm font-bold text-primary border border-primary/30 rounded-md hover:bg-primary-fixed disabled:opacity-40" title="Page suivante">&#x203A;</button>' +
+          '<button id="pdf-expand-btn" class="px-2 py-1 text-primary border border-primary/30 rounded-md hover:bg-primary-fixed" title="Plein écran">' +
+            '<span class="material-symbols-outlined text-sm">open_in_full</span></button>' +
         '</div>' +
       '</div>';
 
@@ -452,6 +548,7 @@
     document.getElementById("pdf-next-btn").addEventListener("click", () => {
       if (pdfDoc && pdfPageNum < pdfDoc.numPages) { pdfPageNum += 1; renderPdfPage(pdfPageNum); }
     });
+    document.getElementById("pdf-expand-btn").addEventListener("click", openPdfFullscreen);
 
     try {
       await renderPdfPage(pdfPageNum);
