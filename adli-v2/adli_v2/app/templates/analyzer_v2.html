@@ -169,6 +169,17 @@
   .tab-content { display: none; }
   .tab-content.active { display: block; }
 
+  /* ── Historique des analyses : repli + scroll interne ────── */
+  .history-list-scroll {
+    max-height: 480px;
+    overflow-y: auto;
+    transition: max-height .2s ease;
+  }
+  .history-list-scroll.collapsed {
+    max-height: 0;
+    overflow: hidden;
+  }
+
   /* ── Instrument cards ────────────────────────────────────── */
   .instrument-card { background: #ffffff; border: 2px solid #2c537f; border-radius: 0; margin-bottom: 12px; overflow: hidden; }
   .instrument-header { padding: 12px 16px; cursor: pointer; display: flex; align-items: center; justify-content: space-between; background: #f4faff; }
@@ -359,10 +370,16 @@
             <h3 class="font-label-md text-label-md text-primary uppercase border-b border-outline-variant pb-2 flex items-center gap-2">
               <span class="material-symbols-outlined text-sm">history</span>
               Analyses pr&eacute;c&eacute;dentes
+              <span id="historyCount" class="text-xs normal-case font-normal text-on-surface-variant"></span>
             </h3>
-            <button class="btn-outline" onclick="loadHistory()" title="Actualiser la liste">&#x21BB; Actualiser</button>
+            <div class="flex gap-2">
+              <button class="btn-outline" onclick="loadHistory()" title="Actualiser la liste">&#x21BB; Actualiser</button>
+              <button class="btn-outline" id="historyToggleBtn" onclick="toggleHistoryCollapse()" title="Réduire / agrandir la liste">
+                <span class="material-symbols-outlined text-sm" id="historyToggleIcon">expand_less</span>
+              </button>
+            </div>
           </div>
-          <div id="historyList">
+          <div id="historyList" class="history-list-scroll">
             <p class="text-sm text-on-surface-variant">Chargement des analyses...</p>
           </div>
         </div>
@@ -919,7 +936,38 @@ async function loadHistory() {
   }
 }
 
+let historyCollapsed = false;
+
+function toggleHistoryCollapse() {
+  historyCollapsed = !historyCollapsed;
+  document.getElementById('historyList').classList.toggle('collapsed', historyCollapsed);
+  document.getElementById('historyToggleIcon').textContent =
+    historyCollapsed ? 'expand_more' : 'expand_less';
+  try {
+    localStorage.setItem('adli_history_collapsed', historyCollapsed ? '1' : '0');
+  } catch (err) {
+    // localStorage indisponible (navigation privée, quota…) — non bloquant,
+    // l'état replié/déplié ne survivra juste pas au rechargement.
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  let saved = false;
+  try {
+    saved = localStorage.getItem('adli_history_collapsed') === '1';
+  } catch (err) {
+    saved = false;
+  }
+  if (saved) {
+    historyCollapsed = true;
+    document.getElementById('historyList').classList.add('collapsed');
+    document.getElementById('historyToggleIcon').textContent = 'expand_more';
+  }
+});
+
 function renderHistory(analyses) {
+  document.getElementById('historyCount').textContent =
+    analyses.length ? `(${analyses.length})` : '';
   const listEl = document.getElementById('historyList');
   if (!analyses.length) {
     listEl.innerHTML = '<p class="text-sm text-on-surface-variant">Aucune analyse enregistr&eacute;e pour le moment.</p>';
