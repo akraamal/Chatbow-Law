@@ -1,4 +1,4 @@
-"""
+﻿"""
 run_pipeline_complet.py
 ------------------------
 Pipeline complet : ingestion (PDF → texte) + prétraitement (nettoyage)
@@ -37,7 +37,10 @@ from src.extraction.etape4_pipeline import enrich_article_json, enrich_articles_
 from src.extraction.citation_resolver import resolve_citations, LEGAL_TEXT_LABELS
 from src.extraction.article_citation_patterns import find_article_citations
 from src.extraction.entity_span_utils import normalize_entity
-from src.extraction.document_metadata_extractor import extract_document_metadata
+from src.extraction.document_metadata_extractor import (
+    extract_document_metadata,
+    resolve_raw_pdf_path,
+)
 from src.extraction.ner_filter import filter_entities, align_entity_text
 from src.extraction.ocr_corrector import correct_ocr
 from src.preprocessing.segmenter import (
@@ -209,7 +212,11 @@ def _process_article_entities(art, extract_fn, nlp):
     }
 
 
-def _extract_bo_metadata_from_interim(pdf_stem: str, interim_files: list[Path]) -> dict:
+def _extract_bo_metadata_from_interim(
+    pdf_stem: str,
+    interim_files: list[Path],
+    pdf_path: Path | None = None,   # NEW: active le repli OCR en-tête
+) -> dict:
     """Extract BO metadata by trying all interim files (fr, ar, unknown) since the
     header page can be misrouted by layout detection (e.g. first cover page routed
     to 'fr' while the PDF is labeled _Ar)."""
@@ -234,7 +241,12 @@ def _extract_bo_metadata_from_interim(pdf_stem: str, interim_files: list[Path]) 
         folder_lang = f.parent.name if f.parent.name in ("fr", "ar") else None
         order = ("fr", "ar") if folder_lang == "fr" else ("ar", "fr")
         for lang in order:
-            meta = extract_document_metadata(text, doc_id=pdf_stem, lang=lang)
+            meta = extract_document_metadata(
+                text,
+                doc_id=pdf_stem,
+                lang=lang,
+                pdf_path=str(pdf_path) if pdf_path else None,  # repli OCR en-tête
+            )
             if meta.get("bo_number"):
                 return meta
     return {}
@@ -287,7 +299,12 @@ def run_extraction(processed_file: Path, lang: str, nlp_fr=None, nlp_ar=None,
         doc_id=processed_file.stem, lang=lang,
     )
 
-    metadata = metadata_override if metadata_override else extract_document_metadata(text, doc_id=processed_file.stem, lang=lang)
+    metadata = metadata_override if metadata_override else extract_document_metadata(
+        text,
+        doc_id=processed_file.stem,
+        lang=lang,
+        pdf_path=resolve_raw_pdf_path(processed_file.stem, RAW_DIR),  # repli OCR en-tête
+    )
 
     # Per-decree preamble extraction (grouped Vu clauses)
     decrees = get_per_decree_preamble_map(text, lang=lang)
@@ -609,7 +626,8 @@ def process_single_pdf(
     # Try to extract BO metadata from ALL interim files before language routing
     # (header pages are often misrouted by layout detection, e.g. an _Ar PDF
     #  has its first page routed to interim/fr/ while the rest goes to interim/ar/)
-    bo_metadata = _extract_bo_metadata_from_interim(pdf_path.stem, interim_files)
+    bo_metadata = _extract_bo_metadata_from_interim(
+        pdf_path.stem, interim_files, pdf_path=pdf_path)
 
     for interim_file in lang_files:
         lang = interim_file.parent.name

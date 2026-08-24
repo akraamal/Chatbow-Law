@@ -1,4 +1,4 @@
-"""
+﻿"""
 run_extraction.py
 --------------------
 Étape 3 : Extraction NLP.
@@ -20,13 +20,18 @@ import json
 from pathlib import Path
 
 from src.extraction.etape4_pipeline import enrich_article_json
-from src.extraction.document_metadata_extractor import extract_document_metadata
+from src.extraction.document_metadata_extractor import (
+    extract_document_metadata,
+    resolve_raw_pdf_path,
+)
 from src.extraction.ner_filter import filter_entities
 from src.preprocessing.arabic_utils import arabic_char_ratio
 from src.preprocessing.segmenter import segment_into_articles, get_preamble
 from src.extraction.entity_ruler_builder_fr import build_fr_nlp, extract_legal_entities_fr
 from src.extraction.entity_ruler_builder_ar import build_ar_nlp, extract_legal_entities_ar
 from src.ingestion.pipeline import ensure_interim_fresh
+
+RAW_DIR = Path("data/raw")   # PDFs bruts : source du repli OCR en-tête
 
 PROCESSED_DIR = Path("data/processed")
 ANNOTATED_DIR = Path("data/annotated")
@@ -85,7 +90,12 @@ def extract_entities_from_file(input_path: Path, lang: str, nlp_fr=None, nlp_ar=
     return {
         "source": str(input_path),
         "lang": lang,
-        **extract_document_metadata(text, doc_id=input_path.stem, lang=lang),
+        **extract_document_metadata(
+            text,
+            doc_id=input_path.stem,
+            lang=lang,
+            pdf_path=resolve_raw_pdf_path(input_path.stem, RAW_DIR),  # repli OCR en-tête
+        ),
         "preamble_entities": filter_entities(_entities_to_dicts(preamble_doc)),
         "n_articles": len(articles_out),
         "articles": articles_out,

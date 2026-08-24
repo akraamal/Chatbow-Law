@@ -11,6 +11,12 @@ Exemple d'en-tête réel (FR) :
 import re
 import warnings
 from datetime import datetime
+from pathlib import Path
+
+from src.extraction.dates_patterns_ar import (  # noqa: F401  (réexport utile)
+    MOIS_GREGORIEN_AR,
+    _GREG_MONTHS_SORTED,
+)
 
 # --- Patterns FRANÇAIS ---
 # "N° 7500", "N°7500", "n° 7500", "NO 4804" (l'OCR confond °, O et o),
@@ -43,17 +49,14 @@ EDITION_YEAR_PATTERN_FR = r"([A-Za-zÀ-ÿ\-]+)\s+ann[ée]e"
 # Format 3: "العدد 4 - 7350" with definite article
 BO_NUMBER_PATTERN_AR = r"(?:عدد|العدد)\s*(?:\d+\s*[-–])?\s*(\d{3,5})"
 
-# Mois grégoriens en arabe (transcrits, tels qu'utilisés dans les BO)
-_MONTHS_AR = {
-    "يناير": 1, "فبراير": 2, "مارس": 3, "أبريل": 4, "ماي": 5, "يونيو": 6,
-    "يوليوز": 7, "غشت": 8, "شتنبر": 9, "أكتوبر": 10, "نونبر": 11, "دجنبر": 12,
-    # orthographes alternatives sans alif
-    "براير": 2, "ابريل": 4, "اكتوبر": 10,
-}
+# Mois grégoriens en arabe : source UNIQUE = dates_patterns_ar.py (couvre
+# les orthographes maghrébines ET MSA : أغسطس, مايو, سبتمبر, نوفمبر,
+# ديسمبر…). L'ancienne copie locale était incomplète et a dérivé.
+_MONTHS_AR = MOIS_GREGORIEN_AR
 
 GREGORIAN_DATE_PATTERN_AR = (
     r"\((\d{1,2})\s*"
-    r"(يناير|فبراير|مارس|أبريل|ابريل|ماي|يونيو|يوليوز|غشت|شتنبر|أكتوبر|اكتوبر|نونبر|دجنبر)"
+    r"(" + "|".join(_GREG_MONTHS_SORTED) + r")"
     r"\s*(\d{4})\)"
 )
 
@@ -169,6 +172,114 @@ def extract_publication_date(text: str, window: int = 500, lang: str = "fr") -> 
         return None
 
 
+# --- Repli OCR ciblé (en-tête page 1) --------------------------------------
+# Cas d'usage : couche texte native corrompue au niveau caractère
+# (BO_7430_Ar : l'en-tête se rend correctement à l'écran mais PyMuPDF en
+# extrait un texte brouillé même trié par position x des glyphes — corruption
+# du PDF source, pas un bug d'ordre de lecture). On relit donc l'IMAGE du
+# bandeau supérieur uniquement (HEADER_BAND_FRACTION ≈ 8 %), pas la page.
+
+_HEADER_OCR_DPI = 200          # suffisant pour une date, reste rapide
+_HEADER_OCR_LANGS = ("ar", "fr")
+
+
+def extract_publication_date_ocr(
+    pdf_path: str | Path,
+    page_number: int = 1,
+) -> str | None:
+    """Date de publication relue par OCR sur le seul bandeau d'en-tête.
+
+    Ne doit être appelée que lorsque l'extraction native a échoué. Toute
+    erreur (Tesseract absent, pack de langue manquant, PDF illisible)
+    dégrade en warning + None — jamais d'exception vers le pipeline.
+    """
+    try:
+        import fitz  # PyMuPDF
+        import pytesseract
+
+        from src.ingestion.ocr_extractor import HEADER_BAND_FRACTION
+    except ImportError as e:                       # dépendance non installée
+        warnings.warn(f"OCR header indisponible (import): {e}")
+        return None
+
+    try:
+        with fitz.open(str(pdf_path)) as doc:
+            page = doc[max(0, page_number - 1)]
+            zoom = _HEADER_OCR_DPI / 72
+            pix = page.get_pixmap(matrix=fitz.Matrix(zoom, zoom), alpha=False)
+        import io
+
+        from PIL import Image
+        img = Image.open(io.BytesIO(pix.tobytes("png")))
+        header = img.crop((0, 0, img.width,
+                           int(img.height * HEADER_BAND_FRACTION)))
+
+        for lang in _HEADER_OCR_LANGS:
+            tesseract_lang = "ara+fra" if lang == "ar" else "fra"
+            text = pytesseract.image_to_string(
+                header, lang=tesseract_lang, config="--oem 3 --psm 6")
+            iso = extract_publication_date(text or "", lang=lang,
+                                           window=len(text or "") + 10)
+            if iso:
+                return iso
+        return None
+    except Exception as e:                         # noqa: BLE001
+        warnings.warn(f"OCR header en échec pour {pdf_path!r}: {e}")
+        return None
+
+
+def extract_publication_date_cross_validated(
+    text: str,
+    lang: str = "fr",
+    pdf_path: str | Path | None = None,
+    page_number: int = 1,
+) -> dict:
+    """Date de publication + provenance/confiance, même pattern que
+    extract_bo_number_cross_validated :
+
+        date_publication_source     — 'text' | 'ocr_header' | None
+        date_publication_confidence — 'high' (texte natif) |
+                                      'low' (repli OCR) | None
+    """
+    native = extract_publication_date(text, lang=lang)
+    result = {
+        "date_publication": native,
+        "date_publication_source": "text" if native else None,
+        "date_publication_confidence": "high" if native else None,
+    }
+    if native or not pdf_path:
+        return result                              # dégradation identique à avant
+    ocr_iso = extract_publication_date_ocr(pdf_path, page_number)
+    if ocr_iso:
+        result.update(date_publication=ocr_iso,
+                      date_publication_source="ocr_header",
+                      date_publication_confidence="low")
+    return result
+
+
+def resolve_raw_pdf_path(stem: str, raw_dir: str | Path) -> str | None:
+    """
+    Retrouve le PDF brut correspondant à un stem de fichier interim/processed
+    (ex. 'BO_7430_Ar', 'BO_7522_Fr_3af5da6a', 'BO_7460-bis_Fr').
+
+    Le pipeline d'ingestion nomme systématiquement interim/processed/annotated
+    d'après ``pdf_path.stem`` tel quel (voir run_pipeline_complet.run_ingestion,
+    ``stem = pdf_path.stem``) : aucun hash n'est ajouté par le pipeline lui-même,
+    donc '<stem>.pdf' est le nom exact à chercher sous raw_dir (recherche
+    récursive, au cas où raw/ contiendrait des sous-dossiers).
+
+    Retourne le chemin en str (compatible avec extract_document_metadata,
+    pdf_path=...), ou None si rien n'est trouvé (le fallback OCR est alors
+    simplement ignoré par extract_publication_date_cross_validated — pas
+    d'erreur).
+    """
+    raw_dir = Path(raw_dir)
+    if not raw_dir.exists():
+        return None
+    match = next(raw_dir.glob(f"**/{stem}.pdf"), None)
+    return str(match) if match else None
+
+
 def extract_edition_label(text: str, window: int = 500, lang: str = "fr") -> str | None:
     """Retourne le libellé d'année d'édition en toutes lettres."""
     pattern = EDITION_YEAR_PATTERN_FR  # l'arabe n'utilise pas ce format
@@ -176,18 +287,31 @@ def extract_edition_label(text: str, window: int = 500, lang: str = "fr") -> str
     return m.group(1) if m else None
 
 
-def extract_document_metadata(text: str, doc_id: str, lang: str = "fr") -> dict:
+def extract_document_metadata(
+    text: str,
+    doc_id: str,
+    lang: str = "fr",
+    pdf_path: str | None = None,
+    page_number: int = 1,
+) -> dict:
     """Point d'entrée : regroupe les extractions ci-dessus dans un dict.
 
     ``bo_number`` est désormais validé par recoupement nom-de-fichier /
     en-tête (voir extract_bo_number_cross_validated) : les champs
     bo_number_source et bo_number_confidence documentent la fiabilité.
+
+    ``pdf_path`` / ``page_number`` (optionnels, rétrocompatibles) : quand un
+    PDF brut est fourni ET que l'extraction native de la date échoue (couche
+    texte corrompue), un repli OCR ciblé sur le bandeau d'en-tête est tenté —
+    voir extract_publication_date_cross_validated. Sans pdf_path, le
+    comportement est strictement identique à avant.
     """
     return {
         "doc_id": doc_id,
         "lang": lang,
         **extract_bo_number_cross_validated(text, doc_id=doc_id, lang=lang),
-        "date_publication": extract_publication_date(text, lang=lang),
+        **extract_publication_date_cross_validated(
+            text, lang=lang, pdf_path=pdf_path, page_number=page_number),
         "edition_label": extract_edition_label(text, lang=lang),
     }
 
