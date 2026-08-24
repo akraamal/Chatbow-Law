@@ -367,13 +367,20 @@
 
         <!-- Analyses précédentes -->
         <div class="bg-surface-container-lowest border border-primary p-4">
-          <div class="flex items-center justify-between mb-4">
+          <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
             <h3 class="font-label-md text-label-md text-primary uppercase border-b border-outline-variant pb-2 flex items-center gap-2">
               <span class="material-symbols-outlined text-sm">history</span>
               Analyses pr&eacute;c&eacute;dentes
               <span id="historyCount" class="text-xs normal-case font-normal text-on-surface-variant"></span>
             </h3>
-            <div class="flex gap-2">
+            <div class="flex flex-wrap items-center gap-2">
+              <label for="history-sort" class="text-xs text-on-surface-variant">Trier par</label>
+              <select id="history-sort" class="text-xs border border-outline-variant bg-white px-2 py-1.5 rounded-lg text-on-surface max-w-full">
+                <option value="date-desc">Date d'analyse — plus récente</option>
+                <option value="date-asc">Date d'analyse — plus ancienne</option>
+                <option value="name-asc">Nom — A → Z</option>
+                <option value="name-desc">Nom — Z → A</option>
+              </select>
               <button class="btn-outline" onclick="loadHistory()" title="Actualiser la liste">&#x21BB; Actualiser</button>
               <button class="btn-outline" id="historyToggleBtn" onclick="toggleHistoryCollapse()" title="Réduire / agrandir la liste">
                 <span class="material-symbols-outlined text-sm" id="historyToggleIcon">expand_less</span>
@@ -939,12 +946,58 @@ async function cancelTask() {
 
 // ── Historique des analyses ──────────────────────────────────────────
 
+// ── Historique des analyses ──────────────────────────────────────────
+
+let analysisHistory = [];
+let currentHistorySort = 'date-desc';
+
+function formatAnalysisDate(timestamp) {
+  if (!timestamp) return 'Date d\u2019analyse inconnue';
+  const date = new Date(Number(timestamp) * 1000);
+  if (Number.isNaN(date.getTime())) return 'Date d\u2019analyse inconnue';
+  return new Intl.DateTimeFormat('fr-FR', {
+    dateStyle: 'medium',
+    timeStyle: 'short'
+  }).format(date);
+}
+
+function getAnalysisName(analysis) {
+  return (
+    analysis.filename ||
+    analysis.bo_number ||
+    analysis.doc_id ||
+    ''
+  ).trim();
+}
+
+function sortAnalyses(analyses, sortMode) {
+  const sorted = [...analyses];
+  switch (sortMode) {
+    case 'name-asc':
+      return sorted.sort((a, b) =>
+        getAnalysisName(a).localeCompare(getAnalysisName(b), 'fr',
+          { sensitivity: 'base', numeric: true }));
+    case 'name-desc':
+      return sorted.sort((a, b) =>
+        getAnalysisName(b).localeCompare(getAnalysisName(a), 'fr',
+          { sensitivity: 'base', numeric: true }));
+    case 'date-asc':
+      return sorted.sort((a, b) =>
+        Number(a.created_at || 0) - Number(b.created_at || 0));
+    case 'date-desc':
+    default:
+      return sorted.sort((a, b) =>
+        Number(b.created_at || 0) - Number(a.created_at || 0));
+  }
+}
+
 async function loadHistory() {
   const listEl = document.getElementById('historyList');
   try {
     const resp = await fetch('/analyses');
     const data = await resp.json();
-    renderHistory(data.analyses || []);
+    analysisHistory = data.analyses || [];
+    renderHistory();
   } catch (err) {
     listEl.innerHTML = '<p class="text-sm text-on-surface-variant">Impossible de charger l\'historique.</p>';
   }
@@ -979,21 +1032,32 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 });
 
-function renderHistory(analyses) {
+// Tri côté client : jamais de re-fetch, jamais d'analyse relancée.
+document.getElementById('history-sort').addEventListener('change', (event) => {
+  currentHistorySort = event.target.value;
+  renderHistory();
+});
+
+function renderHistory() {
+  const sortedAnalyses = sortAnalyses(analysisHistory, currentHistorySort);
   document.getElementById('historyCount').textContent =
-    analyses.length ? `(${analyses.length})` : '';
+    sortedAnalyses.length ? `(${sortedAnalyses.length})` : '';
   const listEl = document.getElementById('historyList');
-  if (!analyses.length) {
+  if (!sortedAnalyses.length) {
     listEl.innerHTML = '<p class="text-sm text-on-surface-variant">Aucune analyse enregistr&eacute;e pour le moment.</p>';
     return;
   }
-  listEl.innerHTML = analyses.map(a => `
+  listEl.innerHTML = sortedAnalyses.map(a => `
     <div class="flex flex-wrap items-center justify-between gap-3 border border-outline-variant bg-surface-container-low p-3 mb-2">
       <div class="min-w-0">
         <div class="font-bold text-primary text-sm truncate">
           ${escapeHtml(a.bo_number ? 'BO n° ' + a.bo_number : 'Document')} ${a.date_publication ? '— ' + escapeHtml(a.date_publication) : ''}
         </div>
-        <div class="text-xs text-on-surface-variant truncate">${escapeHtml(a.filename || '')} · ${a.n_instruments} décrets · ${a.n_articles} articles</div>
+        <div class="text-xs text-on-surface-variant truncate">${escapeHtml(getAnalysisName(a))} · ${a.n_instruments} décrets · ${a.n_articles} articles</div>
+        <div class="analysis-date flex items-center gap-1 mt-1 text-[11px] text-on-surface-variant">
+          <span class="material-symbols-outlined" style="font-size:13px">schedule</span>
+          Analysé le ${formatAnalysisDate(a.created_at)}
+        </div>
       </div>
       <div class="flex gap-2 flex-shrink-0">
         <button class="btn-outline history-open" data-doc="${escapeHtml(a.doc_id)}">&#x1F441; Voir</button>
