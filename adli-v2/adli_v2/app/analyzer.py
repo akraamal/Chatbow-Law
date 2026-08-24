@@ -1679,6 +1679,30 @@ def chat_history(doc_id: str):
     return flask.jsonify({"history": hist})
 
 
+@analyzer_bp.route("/chat/conversations")
+def chat_conversations():
+    """Documents ayant un historique de conversation, les plus récents
+    d'abord — utilisé par le panneau « Chat historique » du menu latéral.
+    Réutilise _history_entries() pour les métadonnées document (pas de
+    duplication) ; tri par activité récente, pas par numéro de BO."""
+    with _chat_lock:
+        last_message = {doc_id: hist[-1]
+                        for doc_id, hist in _chat_history.items() if hist}
+
+    entries = []
+    for entry in _history_entries():
+        lm = last_message.get(entry["doc_id"])
+        if not lm:
+            continue  # document sans conversation active : exclu du panneau
+        entries.append({
+            **entry,
+            "last_message_preview": lm["content"][:120],
+            "last_message_at": lm["ts"],
+        })
+    entries.sort(key=lambda e: e["last_message_at"], reverse=True)
+    return flask.jsonify({"conversations": entries})
+
+
 # ── API v2 (complémentaire, non utilisée par la page) ─────────────────
 
 

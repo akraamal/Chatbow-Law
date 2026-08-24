@@ -1062,3 +1062,45 @@ def test_delete_analysis_unknown_doc_returns_404():
     r = client.delete("/analysis/document_absent_xyz")
     assert r.status_code == 404
     assert "introuvable" in r.get_json()["error"]
+
+
+def test_chat_conversations_lists_only_docs_with_history(
+        annotated_dir, monkeypatch):
+    """Panneau « Chat historique » : seuls les documents AYANT une
+    conversation apparaissent, triés par activité récente."""
+    data_b = json.loads(json.dumps(SAMPLE_JSON))
+    data_b["doc_id"] = "BO_8888_Fr"
+    for doc_id, data in (("BO_9999_Fr", SAMPLE_JSON), ("BO_8888_Fr", data_b)):
+        p = annotated_dir / f"{doc_id}_entities.json"
+        p.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+
+    client = app.test_client()
+    client.get("/open-analysis/BO_9999_Fr")
+    client.get("/open-analysis/BO_8888_Fr")
+
+    # Aucune question posée : aucun document dans le panneau
+    convos = client.get("/chat/conversations").get_json()["conversations"]
+    assert convos == []
+
+    # Une question sur BO_9999_Fr uniquement (repli LLM simulé)
+    import importlib
+    llm_mod = importlib.import_module("src.rag.llm_client")
+
+    class FakeLLM:
+        def __init__(self, *a, **k):
+            pass
+
+        def generate(self, si, up):
+            return "Réponse.\n\n[[GROUNDED-IN]]\nSource 1\n[[END]]"
+
+        def generate_with_citation_guarantee(self, si, up):
+            return "Réponse testée [[citation 1]]"
+
+    monkeypatch.setattr(llm_mod, "LLMClient", lambda *a, **k: FakeLLM())
+    client.post("/chat", json={
+        "question": "comment s'applique le régime fiscal ?",
+        "doc_id": "BO_9999_Fr"})
+
+    convos = client.get("/chat/conversations").get_json()["conversations"]
+    assert [c["doc_id"] for c in convos] == ["BO_9999_Fr"]
+    assert len(convos[0]["last_message_preview"]) > 0
