@@ -10,6 +10,7 @@ exécutée APRÈS l'enrichissement v1).  Distingue explicitement :
 from __future__ import annotations
 
 import json
+import time
 from pathlib import Path
 
 from adli_v2.keyword_counter import count_keywords
@@ -74,6 +75,9 @@ def post_enrich(json_path: Path) -> dict:
         data = json.load(f)
     data["metadata"] = build_document_metadata(data)
     add_keyword_counts(data)
+    # Horodatage de l'ÉVÉNEMENT analyse (réécrit à chaque ré-analyse) :
+    # distinct de date_publication (date du BO lui-même).
+    data["created_at"] = time.time()
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     return data

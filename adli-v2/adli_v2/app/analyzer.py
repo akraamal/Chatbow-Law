@@ -318,6 +318,10 @@ def _history_entries() -> list[dict]:
             "date_publication": data.get("date_publication"),
             "n_instruments": n_decrees,
             "n_articles": len(data.get("articles") or []),
+            # Moment de l'analyse : champ créé par post_enrich depuis
+            # l'ajout du tri par date ; les analyses plus anciennes (sans
+            # champ) retombent sur la mtime du JSON, qui vaut la même chose.
+            "created_at": data.get("created_at") or path.stat().st_mtime,
         })
     entries.sort(key=lambda e: str(e.get("bo_number") or ""), reverse=True)
     return entries

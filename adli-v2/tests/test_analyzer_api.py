@@ -1104,3 +1104,47 @@ def test_chat_conversations_lists_only_docs_with_history(
     convos = client.get("/chat/conversations").get_json()["conversations"]
     assert [c["doc_id"] for c in convos] == ["BO_9999_Fr"]
     assert len(convos[0]["last_message_preview"]) > 0
+
+
+def test_analyses_exposes_created_at_json_preferred_mtime_fallback(
+        annotated_dir):
+    """Chaque entrée d'historique porte created_at : valeur du JSON quand
+    elle existe (horodatage posé par post_enrich), sinon mtime du fichier
+    pour les analyses antérieures au champ."""
+    import os
+
+    data_a = json.loads(json.dumps(SAMPLE_JSON))
+    data_a["created_at"] = 1700000000.5
+    pa = annotated_dir / "BO_9999_Fr_entities.json"
+    pa.write_text(json.dumps(data_a, ensure_ascii=False), encoding="utf-8")
+    os.utime(pa, (1111111111, 1111111111))   # mtime volontairement très vieille
+
+    data_b = json.loads(json.dumps(SAMPLE_JSON))
+    data_b["doc_id"] = "BO_8888_Fr"
+    pb = annotated_dir / "BO_8888_Fr_entities.json"
+    pb.write_text(json.dumps(data_b, ensure_ascii=False), encoding="utf-8")
+    os.utime(pb, (1755000000, 1755000000))
+
+    client = app.test_client()
+    entries = {
+        e["doc_id"]: e
+        for e in client.get("/analyses").get_json()["analyses"]
+    }
+
+    assert entries["BO_9999_Fr"]["created_at"] == 1700000000.5   # JSON prioritaire
+    assert entries["BO_8888_Fr"]["created_at"] == pytest.approx(
+        1755000000, abs=1)                                        # repli mtime
+
+
+def test_post_enrich_stamps_created_at(tmp_path):
+    """post_enrich horodate l'événement analyse à chaque ré-analyse."""
+    from adli_v2.metadata import post_enrich
+
+    p = tmp_path / "BO_X_entities.json"
+    p.write_text(json.dumps(SAMPLE_JSON, ensure_ascii=False), encoding="utf-8")
+
+    out1 = post_enrich(p)
+    out2 = post_enrich(p)
+
+    assert isinstance(out1["created_at"], float)
+    assert out2["created_at"] >= out1["created_at"]   # ré-analyse >= première
