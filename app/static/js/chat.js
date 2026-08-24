@@ -30,6 +30,14 @@
   let docResult = null;       // résultat JSON du document attaché
   let interruptMode = false;  // bouton d'envoi transformé en bouton d'interruption
 
+  // Conversation persistée côté serveur (SQLite) : identifiant courant
+  let conversationId = (() => {
+    try { return localStorage.getItem("adli_current_conversation"); }
+    catch (e) { return null; }
+  })();
+  const GREETING_HTML = messagesEl.innerHTML;   // bulle d'accueil d'origine
+  const DEFAULT_SUBJECT = subjectEl.textContent;
+
   // Aperçu PDF paginé (« Document Original » en mode document attaché)
   let pdfDoc = null;        // instance PDF.js chargée (cache après premier chargement)
   let pdfPageNum = 1;        // page actuellement affichée
@@ -278,17 +286,23 @@
       const response = await fetch(docResult ? "/chat" : "/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        // Historique plafonné aux 8 derniers tours (coût de la reformulation
-        // et surface d'injection) ; lang transmet le toggle FR/AR réellement.
+        // En mode document attaché, /chat gère son propre historique serveur.
+        // Sinon : conversation_id suffit — l'historique de reformulation est
+        // reconstruit côté serveur depuis SQLite (client plus source de vérité).
         body: JSON.stringify(docResult
           ? { question: query, doc_id: docResult.doc_id }
-          : { query, history: history.slice(-8), lang: uiLang }),
+          : { query, conversation_id: conversationId, lang: uiLang }),
       });
       data = await response.json();
       if (!response.ok) {
         removeTypingIndicator();
         addErrorMessage(data.error || "Une erreur est survenue.");
         return;
+      }
+      if (!docResult && data.conversation_id) {
+        conversationId = data.conversation_id;
+        try { localStorage.setItem("adli_current_conversation", conversationId); }
+        catch (e) { /* stockage indisponible : la persistance ne survira juste pas */ }
       }
     } catch (err) {
       removeTypingIndicator();
@@ -733,6 +747,136 @@
     });
     if (I18N[uiLang].placeholder) inputEl.placeholder = I18N[uiLang].placeholder;
   });
+
+  // ── Chat historique : conversations persistées (SQLite côté serveur) ──
+
+  const histPanelEl = document.getElementById("chat-history-panel");
+  const histListEl = document.getElementById("chat-history-list");
+  const histNavBtn = document.getElementById("chat-history-nav-btn");
+  const histCloseBtn = document.getElementById("chat-history-close");
+  const newConvoBtn = document.getElementById("new-conversation-btn");
+
+  function fmtRelative(ts) {
+    const s = Math.max(0, Math.floor(Date.now() / 1000 - ts));
+    if (s < 60) return "à l'instant";
+    if (s < 3600) return "il y a " + Math.floor(s / 60) + " min";
+    if (s < 86400) return "il y a " + Math.floor(s / 3600) + " h";
+    return "il y a " + Math.floor(s / 86400) + " j";
+  }
+
+  function openChatHistory() {
+    histPanelEl.style.display = "flex";
+    loadChatHistoryList();
+  }
+
+  function closeChatHistory() {
+    histPanelEl.style.display = "none";
+  }
+
+  async function loadChatHistoryList() {
+    histListEl.innerHTML =
+      '<p class="text-xs text-outline p-2">Chargement…</p>';
+    try {
+      const resp = await fetch("/api/chat/conversations");
+      const data = await resp.json();
+      const convos = data.conversations || [];
+      if (!convos.length) {
+        histListEl.innerHTML =
+          '<p class="text-xs text-outline p-2">Aucune conversation enregistrée.</p>';
+        return;
+      }
+      histListEl.innerHTML = convos.map((c) => `
+        <div class="border border-primary p-3 mb-2 bg-white cursor-pointer hover:bg-primary-fixed" data-conv="${escapeHtml(c.id)}">
+          <div class="flex justify-between items-start gap-2">
+            <div style="min-width:0">
+              <p class="text-xs font-bold text-primary truncate">${escapeHtml(c.title || "Sans titre")}</p>
+              <p class="text-[10px] text-outline">${fmtRelative(c.updated_at)}</p>
+            </div>
+            <span class="material-symbols-outlined text-outline text-sm cursor-pointer delete-conv" data-id="${escapeHtml(c.id)}" title="Supprimer">delete</span>
+          </div>
+        </div>`).join("");
+      histListEl.querySelectorAll("[data-conv]").forEach((el) => {
+        el.addEventListener("click", (e) => {
+          if (e.target.closest(".delete-conv")) return;
+          selectConversation(el.dataset.conv);
+        });
+      });
+      histListEl.querySelectorAll(".delete-conv").forEach((el) => {
+        el.addEventListener("click", async (e) => {
+          e.stopPropagation();
+          const id = el.dataset.id;
+          if (!confirm("Supprimer cette conversation ?")) return;
+          await fetch(`/api/chat/conversations/${encodeURIComponent(id)}`,
+            { method: "DELETE" });
+          if (conversationId === id) startNewConversation();
+          loadChatHistoryList();
+        });
+      });
+    } catch (err) {
+      histListEl.innerHTML =
+        '<p class="text-xs text-outline p-2">Impossible de charger l\'historique.</p>';
+    }
+  }
+
+  function selectConversation(id) {
+    conversationId = id;
+    try { localStorage.setItem("adli_current_conversation", id); } catch (e) { /* non bloquant */ }
+    closeChatHistory();
+    loadConversationMessages(id);
+  }
+
+  function startNewConversation() {
+    conversationId = null;
+    try { localStorage.removeItem("adli_current_conversation"); } catch (e) { /* non bloquant */ }
+    history = [];
+    lastSources = [];
+    messagesEl.innerHTML = GREETING_HTML;
+    subjectEl.textContent = DEFAULT_SUBJECT;
+    scrollToBottom();
+  }
+
+  async function loadConversationMessages(convId) {
+    if (!convId) return;
+    try {
+      const resp = await fetch(
+        "/api/chat/history/" + encodeURIComponent(convId));
+      const data = await resp.json();
+      const msgs = data.messages || [];
+      if (!msgs.length) return;   // identifiant inconnu : page vierge, sans erreur
+      messagesEl.innerHTML = GREETING_HTML;
+      let pendingQ = null;
+      for (const m of msgs) {
+        if (m.role === "user") {
+          addUserMessage(m.content);
+          pendingQ = m.content;
+        } else {
+          addBotMessage(m.content, m.sources);   // sources re-rendues en cartes
+          if (pendingQ !== null) {
+            history.push({ question: pendingQ, answer: m.content });
+            pendingQ = null;
+          }
+        }
+      }
+      if (history.length > 8) history.splice(0, history.length - 8);
+      const firstUser = msgs.find((m) => m.role === "user");
+      if (firstUser) {
+        subjectEl.textContent = "Sujet : " + firstUser.content.slice(0, 70)
+          + (firstUser.content.length > 70 ? "…" : "");
+      }
+      scrollToBottom();
+    } catch (err) {
+      console.warn("Historique de chat indisponible :", err);
+    }
+  }
+
+  if (histNavBtn) histNavBtn.addEventListener("click", openChatHistory);
+  if (histCloseBtn) histCloseBtn.addEventListener("click", closeChatHistory);
+  if (newConvoBtn) {
+    newConvoBtn.addEventListener("click", startNewConversation);
+  }
+
+  // Réhydratation au chargement : la conversation courante réapparaît.
+  loadConversationMessages(conversationId);
 
   renderDocPanel();
 })();

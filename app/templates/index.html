@@ -101,7 +101,7 @@
 <span class="material-symbols-outlined">chat_bubble</span>
 <span class="font-body-md">Chat</span>
 </a>
-<a class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group quick-chip-disabled" href="#" aria-disabled="true" title="Bientôt disponible">
+<a id="chat-history-nav-btn" class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group cursor-pointer">
 <span class="material-symbols-outlined text-primary group-hover:translate-x-1 transition-transform">history</span>
 <span class="font-body-md">Chat historique</span>
 </a>
@@ -131,6 +131,9 @@
 </div>
 </div>
 <div class="flex gap-2">
+<button id="new-conversation-btn" class="bg-white border border-primary text-primary px-3 py-1.5 rounded-[7px] text-xs font-bold uppercase tracking-tight hover:bg-primary-fixed transition-colors" title="Démarrer une nouvelle conversation">
+<span class="material-symbols-outlined text-sm align-middle">add</span> Nouvelle conversation
+</button>
 <button data-i18n="exporter" id="export-convo-btn" class="bg-primary-container text-white px-4 py-1.5 rounded-[7px] text-xs font-bold uppercase tracking-tight hover:bg-secondary transition-colors">Exporter</button>
 </div>
 </div>
@@ -229,6 +232,21 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
     <button id="pdf-fs-next-btn" title="Page suivante (→)"
             class="px-3 py-1 text-sm font-bold text-white bg-transparent border border-white/70 rounded-md hover:bg-white/10">&#x203A;</button>
   </div>
+</div>
+
+<!-- Panneau « Chat historique » : liste des conversations persistées -->
+<div id="chat-history-panel"
+     style="display:none;position:fixed;top:0;right:0;bottom:0;width:380px;max-width:92vw;z-index:450;background:#ffffff;border-left:2px solid #2c537f;box-shadow:-8px 0 24px rgba(0,0,0,.15);flex-direction:column"
+     role="dialog" aria-label="Historique des conversations">
+  <div style="display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:2px solid #2c537f;background:#f4faff">
+    <span class="font-bold text-primary uppercase text-sm tracking-widest flex items-center gap-2">
+      <span class="material-symbols-outlined text-sm">history</span> Chat historique
+    </span>
+    <button id="chat-history-close" style="background:transparent;border:none;cursor:pointer;color:#43474f" title="Fermer">
+      <span class="material-symbols-outlined">close</span>
+    </button>
+  </div>
+  <div id="chat-history-list" style="flex:1;overflow-y:auto;padding:12px"></div>
 </div>
 
 <!-- PDF.js (ESM cdnjs) : expose window.pdfjsLib pour l'aperçu paginé du

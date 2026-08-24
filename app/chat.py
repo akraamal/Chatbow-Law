@@ -25,6 +25,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
+from app import chat_history_store as store  # noqa: E402
+
 chat_bp = Blueprint("chat", __name__)
 
 _chatbot = None
@@ -115,14 +117,30 @@ def index():
 def api_chat():
     data = request.get_json(silent=True) or {}
     query = (data.get("query") or "").strip()
-    # Plafond serveur (défense en profondeur, même si le client est bridé) :
-    # un historique interminable renchérirait chaque reformulation et
-    # offrirait une surface d'injection inutile.
-    history = (data.get("history") or [])[-8:]
     lang = data.get("lang") or None
+    conversation_id = (data.get("conversation_id") or "").strip()
 
     if not query:
         return jsonify({"error": "La question est vide."}), 400
+
+    # Historique de reformulation construit CÔTÉ SERVEUR depuis le store :
+    # le client n'est plus la source de vérité (même philosophie que
+    # l'analyseur v2 et son _history_block). Plafond identique : 8 tours.
+    if conversation_id and store.conversation_exists(conversation_id):
+        past = store.get_history(conversation_id, limit=16)
+        history = []
+        pending_q = None
+        for m in past:
+            if m["role"] == "user":
+                pending_q = m["content"]
+            elif pending_q is not None:
+                history.append({"question": pending_q, "answer": m["content"]})
+                pending_q = None
+        history = history[-8:]
+    else:
+        # Aucun id valide fourni (ancien client, API externe) : repli sur
+        # l'historique client, plafonné — défense en profondeur inchangée.
+        history = (data.get("history") or [])[-8:]
 
     bot, error = get_chatbot()
     if error:
@@ -135,7 +153,46 @@ def api_chat():
     except Exception as e:
         return jsonify({"error": f"Erreur lors du traitement de la question : {e}"}), 500
 
+    # Écriture APRÈS calcul : la question courante ne doit pas figurer dans
+    # son propre contexte (même ordre que l'analyseur v2). La persistance ne
+    # doit JAMAIS casser la réponse — toute erreur est tracée et ignorée.
+    try:
+        if not conversation_id or not store.conversation_exists(conversation_id):
+            conversation_id = store.create_conversation(title=query[:70])
+        else:
+            store.touch_conversation(conversation_id)
+        store.set_title(conversation_id, query[:70])
+        store.append_message(conversation_id, "user", query)
+        store.append_message(conversation_id, "assistant", result.get("answer", ""),
+                             sources=result.get("sources"))
+    except Exception:
+        import traceback
+        traceback.print_exc()
+
+    result = dict(result)
+    result["conversation_id"] = conversation_id or ""
     return jsonify(result)
+
+
+@chat_bp.route("/api/chat/history/<conversation_id>")
+def api_chat_history(conversation_id):
+    """Messages d'une conversation, du plus ancien au plus récent.
+    Identifiant inconnu -> liste vide (pas un 500) pour simplifier le client."""
+    messages = store.get_history(conversation_id) \
+        if store.conversation_exists(conversation_id) else []
+    return jsonify({"messages": messages})
+
+
+@chat_bp.route("/api/chat/conversations")
+def api_chat_conversations():
+    """Liste des conversations persistées, les plus récentes d'abord."""
+    return jsonify({"conversations": store.list_conversations()})
+
+
+@chat_bp.route("/api/chat/conversations/<conversation_id>", methods=["DELETE"])
+def api_chat_conversations_delete(conversation_id):
+    deleted = store.delete_conversation(conversation_id)
+    return jsonify({"ok": True, "deleted": deleted})
 
 
 @chat_bp.route("/download/<doc_id>")
