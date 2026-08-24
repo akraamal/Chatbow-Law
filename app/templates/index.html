@@ -1,4 +1,4 @@
-<!DOCTYPE html><html class="light" lang="fr" dir="ltr"><head>
+﻿<!DOCTYPE html><html class="light" lang="fr" dir="ltr"><head>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <title>ADLI MOROCCO - Portail Légal</title>
@@ -101,7 +101,7 @@
 <span class="material-symbols-outlined">chat_bubble</span>
 <span class="font-body-md">Chat</span>
 </a>
-<a id="chat-history-nav-btn" class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group cursor-pointer">
+<a id="chat-history-nav-btn" role="button" tabindex="0" class="flex items-center gap-3 p-3 text-on-surface hover:bg-surface-container-high rounded-lg transition-all group cursor-pointer">
 <span class="material-symbols-outlined text-primary group-hover:translate-x-1 transition-transform">history</span>
 <span class="font-body-md">Chat historique</span>
 </a>
@@ -258,5 +258,5 @@ uniquement à partir des textes indexés et je cite systématiquement mes source
   pdfjsLib.GlobalWorkerOptions.workerSrc =
     "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/6.2.108/pdf.worker.min.mjs";
 </script>
-<script src="{{ url_for('static', filename='js/chat.js') }}?v=6"></script>
+<script src="{{ url_for('static', filename='js/chat.js') }}?v=7"></script>
 </body></html>

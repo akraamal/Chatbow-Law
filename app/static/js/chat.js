@@ -837,6 +837,13 @@
 
   async function loadConversationMessages(convId) {
     if (!convId) return;
+    // Verrouille la saisie PENDANT le fetch : sans ça, un message envoyé
+    // avant la résolution serait effacé de l'écran par le wipe ci-dessous
+    // (et history.length===0 ferait écraser le sujet à tort).
+    inputEl.disabled = true;
+    sendBtn.disabled = true;
+    const placeholder = inputEl.placeholder;
+    inputEl.placeholder = "Chargement de la conversation…";
     try {
       const resp = await fetch(
         "/api/chat/history/" + encodeURIComponent(convId));
@@ -866,10 +873,24 @@
       scrollToBottom();
     } catch (err) {
       console.warn("Historique de chat indisponible :", err);
+    } finally {
+      // Toujours réactiver, même sur fetch en échec ou réponse non-OK.
+      inputEl.disabled = false;
+      sendBtn.disabled = false;
+      inputEl.placeholder = placeholder;
     }
   }
 
-  if (histNavBtn) histNavBtn.addEventListener("click", openChatHistory);
+  if (histNavBtn) {
+    histNavBtn.addEventListener("click", openChatHistory);
+    // Accessibilité clavier (élément sans href : role="button" tabindex="0")
+    histNavBtn.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        openChatHistory();
+      }
+    });
+  }
   if (histCloseBtn) histCloseBtn.addEventListener("click", closeChatHistory);
   if (newConvoBtn) {
     newConvoBtn.addEventListener("click", startNewConversation);
