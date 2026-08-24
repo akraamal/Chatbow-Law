@@ -151,6 +151,24 @@
   }
   .btn-outline:hover { background: #2c537f; color: #ffffff; }
 
+  /* ── Select de tri : mêmes angles durs / cadre bleu que .btn-outline ── */
+  #history-sort {
+    appearance: none; -webkit-appearance: none;
+    background: transparent; border: 2px solid #2c537f; color: #2c537f;
+    padding: 6px 30px 6px 14px; border-radius: 0; cursor: pointer;
+    font-size: 13px; font-weight: 600; transition: .15s; max-width: 100%;
+  }
+  #history-sort:hover, .history-sort-wrap:hover #history-sort {
+    background: #2c537f; color: #ffffff;
+  }
+  #history-sort:focus { outline: none; }
+  #history-sort option { color: #001e2b; background: #ffffff; }
+  .sort-chevron {
+    position: absolute; right: 8px; pointer-events: none;
+    color: #2c537f; font-size: 18px; transition: .15s;
+  }
+  .history-sort-wrap:hover .sort-chevron { color: #ffffff; }
+
   /* ── Stats bar ───────────────────────────────────────────── */
   .stats-bar { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px; }
   .stat-card { background: #ffffff; border: 2px solid #2c537f; border-radius: 0; padding: 14px 18px; flex: 1; min-width: 120px; }
@@ -374,16 +392,15 @@
               <span id="historyCount" class="text-xs normal-case font-normal text-on-surface-variant"></span>
             </h3>
             <div class="flex flex-wrap items-center gap-2">
-              <label for="history-sort" class="text-xs text-primary-container font-body-md">Trier par</label>
-              <div class="relative inline-flex items-center max-w-full">
-                <select id="history-sort" aria-label="Trier les analyses précédentes"
-                        class="appearance-none inline-flex items-center pl-3 pr-8 py-2 bg-surface-container-lowest border border-surface-dim rounded-button shadow-sm hover:bg-surface-container-low focus:outline-none focus:ring-2 focus:ring-tertiary-container focus:border-tertiary-container transition-all text-primary-container font-body-md whitespace-nowrap text-xs cursor-pointer max-w-full">
+              <label for="history-sort" class="text-xs text-on-surface-variant">Trier par</label>
+              <div class="relative inline-flex items-center history-sort-wrap">
+                <select id="history-sort" aria-label="Trier les analyses précédentes">
                   <option value="date-desc">Date d'analyse — plus récente</option>
                   <option value="date-asc">Date d'analyse — plus ancienne</option>
                   <option value="name-asc">Nom — A → Z</option>
                   <option value="name-desc">Nom — Z → A</option>
                 </select>
-                <span class="material-symbols-outlined text-primary-container text-[20px] pointer-events-none absolute right-1.5">expand_more</span>
+                <span class="material-symbols-outlined sort-chevron" aria-hidden="true">expand_more</span>
               </div>
               <button class="btn-outline" onclick="loadHistory()" title="Actualiser la liste">&#x21BB; Actualiser</button>
               <button class="btn-outline" id="historyToggleBtn" onclick="toggleHistoryCollapse()" title="Réduire / agrandir la liste">
