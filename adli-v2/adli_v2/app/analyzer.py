@@ -16,6 +16,7 @@ Interface : adli_v2/app/templates/analyzer_v2.html (= copie de la v1).
 
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import re
@@ -34,41 +35,94 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
-from adli_v2.pipeline import DEFAULT_ANNOTATED, DEFAULT_UPLOADS  # noqa: E402
+from adli_v2.pipeline import DEFAULT_ANNOTATED, DEFAULT_CHAT, DEFAULT_UPLOADS  # noqa: E402
 
 analyzer_bp = Blueprint("analyzer_v2", __name__, template_folder="templates")
+
+# Historiques de conversation durables : un fichier JSON par document.
+# Créé dès l'import comme les autres répertoires par défaut du pipeline.
+DEFAULT_CHAT.mkdir(parents=True, exist_ok=True)
 
 # ── Store de tâches (mémoire) ──────────────────────────────────────────
 _tasks: dict[str, dict] = {}
 _tasks_lock = threading.Lock()
 
-# Chat contexts: doc_id -> result data (kept after task cleanup)
+# Chat contexts: doc_id -> result data. CACHE seulement — la source de
+# vérité durable est data/annotated/{doc_id}_entities.json ; toute lecture
+# qui trouve le cache vide se rabat sur le disque (_load_context_for_doc).
 _chat_contexts: dict[str, dict] = {}
 _chat_lock = threading.Lock()
 
 # Historique de conversation par document : doc_id -> messages
-# [{"role": "user"|"assistant", "content": str, "ts": float}] — même
-# pattern en mémoire que _chat_contexts, purge janitor au même TTL.
+# [{"role", "content", "ts"}]. CACHE mémoire seulement — persisté à chaque
+# écriture dans data/chat/{doc_id}.json et rechargé de là après TTL,
+# redémarrage ou depuis un autre worker.
 _chat_history: dict[str, list[dict]] = {}
 _MAX_HISTORY_TURNS = 6  # paires Q/R conservées — chaque tour réinjecté dans
                         # le prompt consomme du budget de contexte Groq
 
 
+def _chat_file(doc_id: str) -> Path:
+    """Fichier d'historique du document. doc_id provient de noms de fichiers
+    déjà slugifiés (upload()) — pas de traversée de chemin possible, mais on
+    protège quand même."""
+    safe = re.sub(r"[^A-Za-z0-9_\-]", "_", doc_id)
+    return DEFAULT_CHAT / f"{safe}.json"
+
+
+def _load_history_from_disk(doc_id: str) -> list[dict]:
+    path = _chat_file(doc_id)
+    if not path.exists():
+        return []
+    try:
+        with open(path, encoding="utf-8") as f:
+            hist = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return []
+    return hist if isinstance(hist, list) else []
+
+
+def _save_history_to_disk(doc_id: str, hist: list[dict]) -> None:
+    """Écriture ATOMIQUE (tmp + os.replace) : jamais de fichier à moitié
+    écrit, y compris en multi-worker. Best-effort : ne casse jamais une
+    réponse de chat pour un souci d'écriture."""
+    path = _chat_file(doc_id)
+    tmp = path.with_suffix(".json.tmp")
+    try:
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(hist, f, ensure_ascii=False)
+        os.replace(tmp, path)
+    except OSError:
+        pass
+
+
 def _append_history(doc_id: str, role: str, content: str) -> None:
     with _chat_lock:
-        hist = _chat_history.setdefault(doc_id, [])
+        hist = _chat_history.setdefault(doc_id, _load_history_from_disk(doc_id))
         hist.append({"role": role, "content": content, "ts": time.time()})
         max_msgs = _MAX_HISTORY_TURNS * 2
         if len(hist) > max_msgs:
             del hist[: len(hist) - max_msgs]
+        _save_history_to_disk(doc_id, hist)
+
+
+def _get_history(doc_id: str) -> list[dict]:
+    """Historique complet : cache mémoire prioritaire, sinon rechargé du
+    disque (et remis en cache) — jamais un échec silencieux après TTL ou
+    redémarrage."""
+    with _chat_lock:
+        hist = _chat_history.get(doc_id)
+        if hist is None:
+            hist = _load_history_from_disk(doc_id)
+            _chat_history[doc_id] = hist
+        return list(hist)
 
 
 def _history_block(doc_id: str) -> str:
     """Bloc « échanges précédents » pour le prompt LLM (questions de suivi).
     Vide sans historique ; chaque message tronqué à 300 car. pour ne pas
     grignoter le budget de contexte réservé aux articles."""
-    with _chat_lock:
-        hist = list(_chat_history.get(doc_id, []))[-_MAX_HISTORY_TURNS * 2:]
+    hist = _get_history(doc_id)[-_MAX_HISTORY_TURNS * 2:]
     if not hist:
         return ""
     lines = [f"{'Q' if h['role'] == 'user' else 'R'}: {h['content'][:300]}"
@@ -91,23 +145,31 @@ _CHAT_CONTEXT_TTL_SECONDS = 24 * 3600
 _JANITOR_INTERVAL_SECONDS = 300
 
 
+def _janitor_once(now: float) -> None:
+    """Une passe de nettoyage. Les évictions de chat ci-dessous sont un
+    allègement MÉMOIRE uniquement : aucune donnée n'est supprimée — le
+    contexte se recharge depuis data/annotated/ (_load_context_for_doc) et
+    l'historique depuis data/chat/{doc_id}.json (_get_history) au prochain
+    accès, y compris après redémarrage du process."""
+    with _tasks_lock:
+        for tid in list(_tasks):
+            t = _tasks[tid]
+            if now - t["created_at"] > _TASK_TTL_SECONDS:
+                del _tasks[tid]
+    with _chat_lock:
+        for doc_id in list(_chat_contexts):
+            if now - _chat_contexts[doc_id].get("_created_at", 0) > _CHAT_CONTEXT_TTL_SECONDS:
+                del _chat_contexts[doc_id]   # cache seulement — /chat recharge du disque
+        for doc_id in list(_chat_history):
+            hist = _chat_history[doc_id]
+            if hist and now - hist[-1]["ts"] > _CHAT_CONTEXT_TTL_SECONDS:
+                del _chat_history[doc_id]    # cache seulement — le fichier data/chat/ n'est PAS supprimé
+
+
 def _janitor_loop():
     while True:
         time.sleep(_JANITOR_INTERVAL_SECONDS)
-        now = time.time()
-        with _tasks_lock:
-            for tid in list(_tasks):
-                t = _tasks[tid]
-                if now - t["created_at"] > _TASK_TTL_SECONDS:
-                    del _tasks[tid]
-        with _chat_lock:
-            for doc_id in list(_chat_contexts):
-                if now - _chat_contexts[doc_id].get("_created_at", 0) > _CHAT_CONTEXT_TTL_SECONDS:
-                    del _chat_contexts[doc_id]
-            for doc_id in list(_chat_history):
-                hist = _chat_history[doc_id]
-                if hist and now - hist[-1]["ts"] > _CHAT_CONTEXT_TTL_SECONDS:
-                    del _chat_history[doc_id]
+        _janitor_once(time.time())
 
 
 threading.Thread(target=_janitor_loop, daemon=True).start()
@@ -346,9 +408,16 @@ def upload():
     if not _looks_like_pdf(pdf_file):
         return {"error": "Le fichier n'est pas un PDF valide (extension trompeuse ?)"}, 400
 
+    # doc_id STABLE : hash du contenu (pas un uuid aléatoire). Réuploader le
+    # même PDF reconnecte donc automatiquement l'analyse et l'historique de
+    # chat existants (réanalyse idemponte : même stem → mêmes JSON annotés) ;
+    # un fichier différent, même nommé pareil, obtient un doc_id distinct.
+    pdf_file.stream.seek(0)
+    content_hash = hashlib.sha256(pdf_file.stream.read()).hexdigest()[:10]
+    pdf_file.stream.seek(0)
+
     stem = Path(pdf_file.filename).stem.replace(" ", "_")
-    unique_id = uuid.uuid4().hex[:8]
-    tmp_pdf = DEFAULT_UPLOADS / f"{stem}_{unique_id}.pdf"
+    tmp_pdf = DEFAULT_UPLOADS / f"{stem}_{content_hash}.pdf"
     tmp_pdf.parent.mkdir(parents=True, exist_ok=True)
     pdf_file.save(str(tmp_pdf))
 
@@ -369,29 +438,45 @@ def analyses():
     return flask.jsonify({"analyses": _history_entries()})
 
 
-@analyzer_bp.route("/open-analysis/<doc_id>")
-def open_analysis(doc_id: str):
+def _load_context_for_doc(doc_id: str) -> dict | None:
+    """Contexte de chat pour doc_id : cache mémoire, sinon rechargé du JSON
+    annoté sur disque (même source que /open-analysis). Renvoie None si le
+    document n'existe nulle part — le cache mémoire n'est jamais la seule
+    copie : TTL, redémarrage ou autre worker restent transparents."""
+    with _chat_lock:
+        data = _chat_contexts.get(doc_id)
+    if data:
+        return data
     for entry in _history_entries():
         if entry.get("doc_id") != doc_id:
             continue
         result_path = entry.get("result_path")
         if not result_path or not Path(result_path).exists():
-            return {"error": "Résultat de l'analyse introuvable"}, 404
-        with open(result_path, "r", encoding="utf-8") as f:
+            return None
+        with open(result_path, encoding="utf-8") as f:
             data = json.load(f)
         data["_created_at"] = time.time()
         with _chat_lock:
             _chat_contexts[doc_id] = data
-        return flask.jsonify(build_response(data))
-    return {"error": "Analyse introuvable dans l'historique"}, 404
+        return data
+    return None
+
+
+@analyzer_bp.route("/open-analysis/<doc_id>")
+def open_analysis(doc_id: str):
+    data = _load_context_for_doc(doc_id)
+    if not data:
+        return {"error": "Analyse introuvable dans l'historique"}, 404
+    return flask.jsonify(build_response(data))
 
 
 @analyzer_bp.route("/analysis/<doc_id>", methods=["DELETE"])
 def delete_analysis(doc_id: str):
     """Supprime une analyse : JSON annoté(s) sur disque (l'historique en
-    dérive directement) + état mémoire du document — contexte de chat,
-    historique de conversation, caches points clés et repli LLM. Idempotent
-    côté mémoire ; 404 seulement si rien n'existait nulle part."""
+    dérive directement), fichier d'historique de chat persistant, et état
+    mémoire du document — contexte, historique, caches points clés et repli
+    LLM. Idempotent côté mémoire ; 404 seulement si rien n'existait nulle
+    part."""
     entry = next((e for e in _history_entries() if e["doc_id"] == doc_id), None)
 
     deleted: list[str] = []
@@ -408,10 +493,16 @@ def delete_analysis(doc_id: str):
             except OSError:
                 continue
 
-    # Purge mémoire, même si les fichiers étaient déjà absents.
+    # Purge mémoire + fichier d'historique persistant, même si les fichiers
+    # annotés étaient déjà absents (pas d'historique fantôme si un doc_id
+    # est réutilisé plus tard).
     with _chat_lock:
         _chat_contexts.pop(doc_id, None)
         _chat_history.pop(doc_id, None)
+    try:
+        _chat_file(doc_id).unlink(missing_ok=True)
+    except OSError:
+        pass
     with _key_point_lock:
         for cache in (_key_point_cache, _key_point_detail_cache):
             for k in [k for k in cache if k[0] == doc_id]:
@@ -742,6 +833,202 @@ def _find_signer_in_query(data: dict, query: str) -> list[str]:
     return sorted(matched)
 
 
+# ── Recentrage conversationnel sur les décrets uniquement ─────────────
+# Décision de périmètre : les capacités de chat sont fiables pour les
+# DÉCRETS ; toute question visant un autre type d'instrument (arrêté,
+# décision, dahir, loi, avis, ordonnance) reçoit un message EXPLICITE de
+# hors-périmètre plutôt qu'un faux « aucun résultat » ou un refus ambigu.
+
+# Sujet « date » détecté à LIMITE DE MOT : la sous-chaîne nue faisait
+# dérailler n'importe quelle question contenant accidentellement « date ».
+_DATE_TOPIC_RE = re.compile(r"\bdates?\b|publication|parution|\bpubli[eé]e?s?\b|\bparu\b")
+
+# Question portant EXCLUSIVEMENT sur la publication du bulletin : seuls ces
+# mots-outils / termes de bulletin sont tolérés autour de « date ». Toute
+# autre notion (« licence », « société », « renouvelée »…) renvoie False —
+# la question doit alors atteindre le repli LLM, pas la date du BO.
+_BULLETIN_DATE_WORDS = frozenset({
+    "date", "dates", "publication", "publications", "parution",
+    "parutions", "publie", "publiee", "publies", "publiees", "paru",
+    "bulletin", "bulletins", "document", "documents", "officiel",
+    "officielle", "bo", "journal",
+})
+_QUESTION_FUNCTION_WORDS = frozenset({
+    "quelle", "quel", "quels", "quelles", "quand", "est", "sont", "ete",
+    "etre", "le", "la", "les", "de", "du", "des", "un", "une", "au",
+    "aux", "ce", "cette", "ces", "et", "ou", "en", "dans", "sur", "pour",
+    "par", "que", "qui", "quoi", "il", "elle", "on", "nous", "vous",
+    "je", "se", "son", "sa", "ses", "leur", "leurs",
+    # Questions de date en anglais admises aussi (« when was it published »)
+    "the", "of", "what", "is", "this", "when", "was", "published",
+})
+
+# Noms propres de la question (candidats à l'attribution d'un instrument) :
+# initiale majuscule hors début de phrase, normalisés ensuite. Les mots
+# génériques ci-dessous (boilerplate des titres d'instruments et types eux-
+# mêmes) ne servent jamais à attribuer une question à un type.
+_PROPER_NOUN_RE = re.compile(r"(?<![\w'’-])[A-ZÀ-ÖØ-Þ][\w'’-]+")
+_PHRASE_BREAK_CHARS = ".!?…:;\n\r"
+_NON_ATTRIB_WORDS = frozenset({
+    "royaume", "maroc", "ministre", "ministres", "ministere",
+    "secretariat", "general", "generale", "rabat",
+    "bulletin", "officiel", "journal", "article", "articles",
+    "annexe", "annexes", "numero", "edition", "editions",
+    "decret", "decrets", "arrete", "arretes", "decision", "decisions",
+    "dahir", "dahirs", "loi", "lois", "avis", "ordonnance", "ordonnances",
+})
+
+
+def _asks_bulletin_date_only(question: str) -> bool:
+    """Vrai si la question porte UNIQUEMENT sur la date de publication du
+    bulletin lui-même (« quelle est la date de publication ? »). Une
+    question de contenu qui mentionne accessoirement une date (« renouvelée
+    … à partir de quelle date ? ») renvoie False."""
+    if not _DATE_TOPIC_RE.search(question.lower()):
+        return False
+    for raw in re.findall(r"[a-zà-öø-ÿ]+", question.lower()):
+        tok = _normalize_name(raw)  # accents retirés pour la comparaison
+        if len(tok) <= 2 or tok in _QUESTION_FUNCTION_WORDS \
+                or tok in _BULLETIN_DATE_WORDS:
+            continue
+        return False  # un mot de contenu réel : ce n'est pas juste la date du BO
+    return True
+
+
+def _named_non_decree_type(question: str) -> str | None:
+    """Type d'instrument NON décret explicitement nommé dans la question
+    (« arrêté », « décision », « loi »… — routage lexical v1 réutilisé tel
+    quel), ou None. Les alias génériques (« texte », « instrument ») ne
+    comptent pas : route_query y répond None."""
+    try:
+        from src.rag.query_routing import route_query
+        rtype = route_query(question).get("type")
+    except Exception:
+        return None
+    if rtype and rtype != "Décret":
+        return rtype
+    return None
+
+
+def _question_proper_nouns(question: str) -> list[str]:
+    """Noms propres exploitables de la question (hors début de phrase et
+    mots génériques), normalisés minuscules/sans accents."""
+    out: list[str] = []
+    for m in _PROPER_NOUN_RE.finditer(question):
+        s = m.start()
+        if s == 0:
+            continue
+        j = s - 1
+        while j >= 0 and question[j] in " \t":
+            j -= 1
+        if j >= 0 and question[j] in _PHRASE_BREAK_CHARS:
+            continue  # capitale de début de phrase : non significative
+        norm = _normalize_name(m.group(0))
+        if len(norm) >= 4 and norm not in _NON_ATTRIB_WORDS:
+            out.append(norm)
+    return out
+
+
+def _non_decree_target_type(data: dict, question: str) -> str | None:
+    """Instrument NON décret que la question vise : type explicitement nommé
+    (route_query), sinon nom propre partagé avec le TITRE d'un instrument non
+    décret du document (ex. société citée dans une décision). None si rien
+    ne désigne une cible hors décrets — l'appelant garde son message usuel."""
+    named = _named_non_decree_type(question)
+    if named:
+        return named
+    propers = _question_proper_nouns(question)
+    if not propers:
+        return None
+    for instr in data.get("instruments", []):
+        ctype = _canonical_instrument_type(instr.get("instrument_type"))
+        if not ctype or ctype == "Décret":
+            continue
+        hay = _normalize_name(
+            f"{instr.get('title') or ''} {instr.get('reference_label') or ''}"
+        )
+        if hay and any(p in hay for p in propers):
+            return ctype
+    return None
+
+
+# ── BM25 ranking helper for chat fallback ─────────────────────────────────
+# Reuses rank_bm25.BM25Okapi (already a project dependency, used in
+# src/search_engine/search.py). Keyword relevance, no embeddings — fits v2's
+# deterministic philosophy. Scores a single document's décret articles
+# (a few hundred at most) in-memory per request, cheap.
+# Returns top_k articles with score > 0; empty list if no lexical overlap.
+
+def _rank_sources_by_query(sources: list[dict], query: str, top_k: int = 8) -> list[dict]:
+    """Rank décret article sources by BM25 relevance to the query and return
+    the top_k. Falls back to the input order (existing behavior) if BM25
+    can't be built (e.g. empty corpus) or the top score is 0 (no lexical
+    overlap at all — let the caller decide what to do with an empty result,
+    don't guess by returning irrelevant articles)."""
+    if not sources:
+        return []
+    try:
+        from rank_bm25 import BM25Okapi
+    except Exception:
+        return sources  # fallback to original order if BM25 unavailable
+    import re
+
+    def _tokenize(text: str) -> list[str]:
+        return re.findall(r"\w+", (text or "").lower())
+
+    corpus = [_tokenize(s.get("text_clean") or s.get("text") or "") for s in sources]
+    bm25 = BM25Okapi(corpus)
+    scores = bm25.get_scores(_tokenize(query))
+    ranked_idx = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)
+    top = [sources[i] for i in ranked_idx[:top_k] if scores[i] > 0]
+    return top
+
+
+# Table-question detection — used to narrow candidate pool to articles with
+# extracted_tables when the question signals a table is wanted.
+
+_TABLE_QUESTION_WORDS = (
+    "tableau", "table", "annexe", "barème", "bareme", "grille tarifaire",
+    "montant", "taux", "liste des", "جدول", "قائمة",
+)
+
+def _wants_table_content(question: str) -> bool:
+    q = question.lower()
+    return any(w in q for w in _TABLE_QUESTION_WORDS)
+
+
+def _out_of_scope_message(ctype: str) -> str:
+    label = ctype.lower()
+    return (
+        f"Pour le moment, je peux répondre uniquement sur les décrets. "
+        f"Cette question porte sur un(e) {label} — posez-moi une question "
+        f"sur l'un des décrets de ce document."
+    )
+
+
+def _list_unsupported_message(data: dict, ctype: str) -> str:
+    """Message de listage non pris en charge — DISTINCT du « aucun trouvé » :
+    c'est une limite de la fonctionnalité, pas un vide d'indexation."""
+    label = ctype.lower()
+    n = sum(
+        1 for i in data.get("instruments", [])
+        if _canonical_instrument_type(i.get("instrument_type")) == ctype
+    )
+    if n:
+        pl = "" if n == 1 else "s"
+        return (
+            f"Pour le moment, je peux lister uniquement les décrets. "
+            f"Ce document contient {n} {label}{pl}, mais leur listage "
+            f"n'est pas encore pris en charge par cette fonction — posez-moi "
+            f"plutôt une question précise sur l'un d'entre eux."
+        )
+    return (
+        f"Pour le moment, je peux lister uniquement les décrets — le "
+        f"listage par type ({label}) n'est pas encore pris en charge par "
+        f"cette fonction."
+    )
+
+
 def _chat_answer(data: dict, question: str, doc_id: str = "") -> str:
     """Réponse textuelle seule — cf. _chat_answer_with_meta pour la méta."""
     return _chat_answer_with_meta(data, question, doc_id=doc_id)[0]
@@ -806,8 +1093,10 @@ def _chat_answer_rules(data: dict, question: str, doc_id: str = "") -> str:
 
     if any(w in q for w in ["bo numéro", "numero bo", "bulletin", "bo n"]):
         return f"Bulletin Officiel **n° {bo}** du **{date_pub}**."
-    if any(w in q for w in ["date", "publication"]):
-        return f"Date de publication : **{date_pub}**."
+    # NB : la règle « date » a été DÉPLACÉE plus bas dans la cascade —
+    # placée ici, elle capturait toute question contenant « date » (ex.
+    # « renouvelée … à partir de quelle date ? ») avant la résolution de
+    # référence et le repli LLM.
 
     # ── Signataires : qui signe quel décret, et quel décret une personne signe ──
     if signer_intent or "sign" in q or "وقع" in q or "توقيع" in q:
@@ -871,6 +1160,15 @@ def _chat_answer_rules(data: dict, question: str, doc_id: str = "") -> str:
             body += f"\n\n… et {len(art_idxs) - n_max} autre(s) article(s)."
         return head + ("\n\n" + body if body else "")
 
+    # Règle « date » (Bug 1) : APRÈS la résolution de référence — une question
+    # contenant à la fois une référence de décret et « date » est déjà partie
+    # par le bloc ci-dessus, qui affiche decree_date_gregorian. On ne répond
+    # par la date de publication du bulletin que si c'est le SEUL sujet de la
+    # question ; sinon (contenu d'un décret, durée, etc.) laisser filer vers
+    # les règles suivantes puis le repli LLM.
+    if _asks_bulletin_date_only(question):
+        return f"Date de publication : **{date_pub}**."
+
     try:
         from src.rag.query_routing import route_query
         wanted_type = route_query(question).get("type")
@@ -883,6 +1181,11 @@ def _chat_answer_rules(data: dict, question: str, doc_id: str = "") -> str:
                           "principales", "récents", "récentes", "important",
                           "importante", "tous les", "toutes les")
     if asks_list or (wanted_type and any(s in q for s in importance_signals)):
+        # Bug 2 : _chat_decrees ne contient QUE des décrets — filtrer par un
+        # autre type produisait structurellement un faux « aucun trouvé ».
+        # Périmètre assumé décrets-only : répondre honnêtement hors-scope.
+        if wanted_type and wanted_type != "Décret":
+            return _list_unsupported_message(data, wanted_type)
         matched = _chat_decrees(data)
         if wanted_type:
             matched = [i for i in matched
@@ -936,6 +1239,14 @@ def _chat_answer_rules(data: dict, question: str, doc_id: str = "") -> str:
                 shown = _md_safe(txt)[:600] + ("…" if len(txt) > 600 else "")
                 lines.append(f"**Article {a.get('number','?')}** — {shown}")
             return f"Résultats pour « {question} » :\n\n" + "\n".join(lines)
+
+    # §4.1 : la question a traversé toute la cascade sans matcher une règle
+    # ET nomme explicitement un type hors périmètre (arrêté, décision, loi…)
+    # → message honnête immédiat, sans consommer le repli LLM. (wanted_type
+    # est déjà calculé par route_query plus haut ; None = pas de type nommé
+    # ou import indisponible, on laisse filer.)
+    if wanted_type and wanted_type != "Décret":
+        return _out_of_scope_message(wanted_type)
 
     # Repli LLM : la cascade de règles ne couvre pas cette question — on
     # laisse le modèle analyser le contenu réel du document, avec vérification
@@ -1076,9 +1387,14 @@ def _parse_key_point(answer_text: str) -> tuple[str, str] | None:
     return title, teaser
 
 
-def _articles_as_rag_sources(data: dict) -> list[dict]:
+def _articles_as_rag_sources(data: dict, decree_only: bool = True) -> list[dict]:
     """Convertit les articles du document analysé en sources RAG au format
     attendu par src/rag/prompt_builder.format_context().
+
+    decree_only=True (défaut, recentrage du chat sur les décrets) : ne
+    retient que les articles rattachés à un décret — le contexte LLM est
+    priorisé et fiable sur ce seul type ; les questions visant un autre
+    instrument sont traitées en amont comme hors périmètre.
 
     L'ordre suit l'ordre du document (numéro d'article), pas un score de
     pertinence : pour une analyse de contenu on veut VOIR le document dans
@@ -1091,11 +1407,16 @@ def _articles_as_rag_sources(data: dict) -> list[dict]:
     bo = data.get("bo_number", "")
     by_index: dict[int, dict] = {}
     for instr in data.get("instruments", []):
+        if decree_only and _canonical_instrument_type(
+                instr.get("instrument_type")) != "Décret":
+            continue
         for idx in instr.get("article_indices") or []:
             if isinstance(idx, int):
                 by_index[idx] = instr
     out: list[dict] = []
     for i, a in enumerate(data.get("articles", [])):
+        if decree_only and i not in by_index:
+            continue
         src = dict(a)
         src["article_number"] = a.get("number", a.get("article_number", ""))
         src["doc_id"] = doc_id
@@ -1519,10 +1840,11 @@ def _llm_analysis_answer_with_meta(
     ici ; les erreurs/refus ne sont jamais mis en cache.
 
     Le cache est court-circuité dès qu'un historique de conversation existe
-    pour le document : la réponse dépend alors des échanges précédents, pas
-    seulement de (doc_id, question) — servir une entrée en cache ignorerait
-    le contexte de suivi."""
-    has_history = bool(_chat_history.get(doc_id))
+    pour le document (mémoire OU disque — cf. _get_history) : la réponse
+    dépend alors des échanges précédents, pas seulement de
+    (doc_id, question) — servir une entrée en cache ignorerait le contexte
+    de suivi."""
+    has_history = bool(_get_history(doc_id))
     key = _cache_key(data, question)
     if not has_history and key in _analysis_cache:
         return _analysis_cache[key]
@@ -1590,6 +1912,33 @@ def _llm_analysis_core(
         if total_chars > ANALYSIS_MAX_CONTEXT_CHARS:
             return _chunked_analysis_answer(lang, question, sources)
 
+    # On the factual (non-overview) path: rank sources by BM25 relevance
+    # to the question, so the LLM gets the most pertinent articles within
+    # the context budget. Overview questions keep the full document (and
+    # fall back to chunked analysis if needed).
+    if not is_overview:
+        # If there's conversation history, skip BM25 ranking — follow-up
+        # questions (e.g. "et son article 3 ?") rely on history context,
+        # not lexical overlap with article text. Only rank when the
+        # question must stand alone.
+        has_history = bool(_get_history(doc_id))
+
+        # If the question looks table-shaped, prefer articles that have
+        # extracted_tables — the table-linking fix populates this field.
+        if _wants_table_content(question):
+            table_sources = [s for s in sources if s.get("extracted_tables")]
+            if table_sources:
+                sources = table_sources
+
+        if not has_history:
+            ranked = _rank_sources_by_query(sources, question, top_k=8)
+            if ranked:
+                sources = ranked
+            # else: no lexical overlap — fall back to original behavior
+            # (pass all sources to LLM) and let citation verifier handle it.
+            # This preserves existing behavior for edge cases where the
+            # question relies on LLM reasoning rather than keyword match.
+
     # Historique injecté UNIQUEMENT sur le chemin factuel : les questions de
     # suivi en ont besoin ; l'analyse d'ensemble est auto-suffisante et
     # préserve son budget de contexte pour les articles.
@@ -1620,6 +1969,12 @@ def _llm_analysis_core(
         clean, source_ids = parse_grounding(answer_text)
         grounded, _stats = verify_grounding(source_ids, sources)
         if refusal in clean or not clean.strip() or not grounded:
+            # Échec d'ancrage : si la question visait en réalité un instrument
+            # non décret du document (hors périmètre assumé), le dire
+            # explicitement plutôt que de renvoyer le refus générique.
+            target = _non_decree_target_type(data, question)
+            if target:
+                return _out_of_scope_message(target), None, None
             return refusal, None, None
         cites = []
         for i in grounded:
@@ -1631,6 +1986,15 @@ def _llm_analysis_core(
 
     clean, spans = parse_citations(answer_text)
     verified, _stats = verify_citations(spans, sources)
+    if refusal_phrase in clean or (spans and not verified):
+        # Refus ou citation invérifiable : la réponse n'est PAS fondable dans
+        # le contexte (décrets uniquement depuis le recentrage). Si la
+        # question vise un instrument non décret du document — ex. société
+        # d'une décision, produit d'un arrêté — renvoyer le message explicite
+        # de hors-périmètre au lieu du refus ambigu / « non vérifiable ».
+        target = _non_decree_target_type(data, question)
+        if target:
+            return _out_of_scope_message(target), None, None
     if refusal_phrase in clean:
         return refusal_phrase, None, None
     if spans and not verified:
@@ -1656,9 +2020,9 @@ def chat():
     if not question:
         return flask.jsonify({"answer": "Veuillez poser une question."})
 
-    with _chat_lock:
-        data = _chat_contexts.get(doc_id)
-
+    # Cache mémoire OU disque : un TTL expiré, un redémarrage ou un autre
+    # worker ne fait plus échouer la question — le contexte est rechargé.
+    data = _load_context_for_doc(doc_id)
     if not data:
         return flask.jsonify({"answer": "Aucun document analysé en mémoire. Lancez d'abord une analyse."})
 
@@ -1677,21 +2041,25 @@ def chat():
 @analyzer_bp.route("/chat/history/<doc_id>")
 def chat_history(doc_id: str):
     """Historique de conversation du document — réhydratation côté client
-    après rechargement de page (tant que le TTL serveur n'a pas expiré)."""
-    with _chat_lock:
-        hist = list(_chat_history.get(doc_id, []))
-    return flask.jsonify({"history": hist})
+    après rechargement de page. Cache mémoire ou disque : l'historique
+    survit au TTL et aux redémarrages."""
+    return flask.jsonify({"history": _get_history(doc_id)})
 
 
 @analyzer_bp.route("/chat/conversations")
 def chat_conversations():
     """Documents ayant un historique de conversation, les plus récents
     d'abord — utilisé par le panneau « Chat historique » du menu latéral.
-    Réutilise _history_entries() pour les métadonnées document (pas de
-    duplication) ; tri par activité récente, pas par numéro de BO."""
-    with _chat_lock:
-        last_message = {doc_id: hist[-1]
-                        for doc_id, hist in _chat_history.items() if hist}
+    Source de vérité = fichiers data/chat/ (pas la mémoire) : le panneau
+    reste complet après un redémarrage du process. Réutilise
+    _history_entries() pour les métadonnées document (pas de duplication) ;
+    tri par activité récente, pas par numéro de BO."""
+    last_message: dict[str, dict] = {}
+    for path in DEFAULT_CHAT.glob("*.json"):
+        doc_id = path.stem
+        hist = _get_history(doc_id)
+        if hist:
+            last_message[doc_id] = hist[-1]
 
     entries = []
     for entry in _history_entries():
