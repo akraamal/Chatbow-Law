@@ -22,8 +22,44 @@ import json
 import sys
 from pathlib import Path
 
+from src.search_engine.catalog import _canonical_rank
+
 ANNOTATED_DIR = Path("data/annotated")
 INDEX_DIR = Path("data/index")
+
+
+def _dedupe_annotated_files(paths: list[Path]) -> list[Path]:
+    """
+    Deduplicate annotated JSON files using the same logic as catalog.build_catalog.
+    Keeps one file per (lang, bo_number), preferring canonical filename and
+    as tiebreaker the one with more articles.
+    """
+    import re
+    BO_RE = re.compile(r"BO[_\s]?(\d{4,5})", re.IGNORECASE)
+
+    def extract_bo_from_name(name: str) -> str:
+        m = BO_RE.search(name)
+        return m.group(1) if m else ""
+
+    best: dict[tuple[str, str], tuple[Path, int]] = {}
+    for p in paths:
+        try:
+            data = json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        lang = data.get("lang") or "fr"
+        bo = str(data.get("bo_number") or "")
+        if not bo:
+            bo = extract_bo_from_name(p.name)
+        key = (lang, bo or p.stem)
+        n_arts = len(data.get("articles", []))
+        cand_rank = _canonical_rank(p.name)
+        current = best.get(key)
+        if current is None or cand_rank < _canonical_rank(current[0].name) or (
+            cand_rank == _canonical_rank(current[0].name) and n_arts > current[1]
+        ):
+            best[key] = (p, n_arts)
+    return [p for p, _ in best.values()]
 
 
 def _load_all_enriched_jsons() -> tuple[list[dict], dict[str, list[dict]]]:
@@ -33,7 +69,8 @@ def _load_all_enriched_jsons() -> tuple[list[dict], dict[str, list[dict]]]:
     """
     articles = []
     doc_unlinked: dict[str, list[dict]] = {}
-    for p in sorted(ANNOTATED_DIR.glob("**/*_entities.json")):
+    all_paths = sorted(ANNOTATED_DIR.glob("**/*_entities.json"))
+    for p in _dedupe_annotated_files(all_paths):
         with open(p, encoding="utf-8") as f:
             data = json.load(f)
         doc_id = data.get("doc_id", p.stem)
@@ -46,18 +83,39 @@ def _load_all_enriched_jsons() -> tuple[list[dict], dict[str, list[dict]]]:
         if ul:
             doc_unlinked[doc_id] = ul
 
-        for art in data.get("articles", []):
+        articles_raw = data.get("articles", [])
+
+        # Map each article's position in articles_raw to its owning instrument.
+        idx_to_instrument: dict[int, dict] = {}
+        for instr in data.get("instruments", []):
+            for idx in instr.get("article_indices", []):
+                idx_to_instrument[idx] = instr
+
+        for i, art in enumerate(articles_raw):
+            instr = idx_to_instrument.get(i, {})
+            instr_type = instr.get("instrument_type") or instr.get("type", "")
+            instr_ref = instr.get("reference", "")
+
+            # Build text_clean with instrument header for LLM context
+            art_num = art.get("number", "")
+            text_clean = art.get("text_clean", "") or art.get("text", "")
+            if instr_type and instr_ref:
+                header = f"[{instr_type} n° {instr_ref}] {art_num}\n"
+            else:
+                header = f"{art_num}\n"
+            text_for_llm = header + text_clean
+
             articles.append({
                 "article_id": art.get("article_id", ""),
                 "doc_id": doc_id,
                 "bo_number": bo_number,
                 "date_publication": date_pub,
                 "lang": lang,
-                "article_number": art.get("number", ""),
+                "article_number": art_num,
                 "text": art.get("text", ""),
-                "text_clean": art.get("text_clean", ""),
-                "instrument_type": art.get("instrument_type", ""),
-                "reference": art.get("reference", ""),
+                "text_clean": text_for_llm,
+                "instrument_type": instr_type,
+                "reference": instr_ref,
                 "pdf_page": art.get("pdf_page"),
                 "printed_page": art.get("printed_page"),
                 "extracted_tables": art.get("extracted_tables", []),
@@ -66,29 +124,17 @@ def _load_all_enriched_jsons() -> tuple[list[dict], dict[str, list[dict]]]:
                 "citations": art.get("citations", []),
             })
 
-        # Also add articles nested inside instruments (if present)
-        for instr in data.get("instruments", []):
-            instr_type = instr.get("instrument_type", "")
-            instr_ref = instr.get("reference", "")
-            for art in instr.get("articles", []):
-                articles.append({
-                    "article_id": art.get("article_id", ""),
-                    "doc_id": doc_id,
-                    "bo_number": bo_number,
-                    "date_publication": date_pub,
-                    "lang": lang,
-                    "article_number": art.get("number", ""),
-                    "text": art.get("text", ""),
-                    "text_clean": art.get("text_clean", ""),
-                    "instrument_type": instr_type,
-                    "reference": instr_ref,
-                    "pdf_page": art.get("pdf_page"),
-                    "printed_page": art.get("printed_page"),
-                    "extracted_tables": art.get("extracted_tables", []),
-                    "entities": art.get("entities", []),
-                    "dates": art.get("dates", []),
-                    "citations": art.get("citations", []),
-                })
+    # Remove exact duplicates (same doc_id, article_number, and text)
+    seen: set[tuple[str, str, str]] = set()
+    unique_articles = []
+    for a in articles:
+        key = (a["doc_id"], a["article_number"], a["text"])
+        if key not in seen:
+            seen.add(key)
+            unique_articles.append(a)
+    if len(unique_articles) != len(articles):
+        print(f"  Removed {len(articles) - len(unique_articles)} exact duplicate chunks")
+    articles = unique_articles
 
     return articles, doc_unlinked
 
