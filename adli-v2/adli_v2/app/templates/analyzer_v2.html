@@ -295,6 +295,10 @@
   .chat-input-area button:hover { background: #466b99; }
   .chat-input-area button:disabled { opacity: .5; cursor: default; }
   .chat-welcome { color: #43474f; text-align: center; padding: 20px 10px; font-size: 12px; line-height: 1.6; }
+  .chat-quick-chips { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 12px 10px; }
+  .chat-quick-chip { background: #ffffff; border: 1px solid #2c537f; color: #2c537f; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .02em; padding: 5px 10px; border-radius: 0; cursor: pointer; transition: .15s; }
+  .chat-quick-chip:hover { background: #2c537f; color: #ffffff; }
+  .chat-quick-chip:disabled { opacity: .45; cursor: default; background: #ffffff; color: #2c537f; }
 
   @media (max-width: 768px) {
     .stat-card { min-width: 80px; }
@@ -561,6 +565,10 @@
       • « Recherche [mot-clé] »
     </div>
   </div>
+  <div class="chat-quick-chips" id="chatQuickChips">
+    <button type="button" class="chat-quick-chip" id="chipCiterArticle" data-suggestion="Cite l'article exact de ce Bulletin Officiel qui régit " disabled>Citer l'article</button>
+    <button type="button" class="chat-quick-chip" id="chipExplorerBO" data-suggestion="Dans ce Bulletin Officiel, " disabled>Explorer ce BO</button>
+  </div>
   <div class="chat-input-area">
     <input type="text" id="chatInput" placeholder="Posez une question..." onkeydown="if(event.key==='Enter') sendChat()" disabled>
     <button id="chatSendBtn" onclick="chatSendClick()" title="Envoyer" disabled>Envoyer</button>
@@ -574,6 +582,18 @@ let taskId = null;
 let eventSource = null;
 let cachedResult = null;
 let analysisRunning = false;
+
+// ── Puces de question rapide du chat (scopées au document ouvert) ─────
+// Préremplissent l'entrée sans envoyer, comme les suggestions du portail
+// principal — l'utilisateur termine la phrase dans ses propres mots.
+document.querySelectorAll('.chat-quick-chip').forEach((btn) => {
+  btn.addEventListener('click', () => {
+    const input = document.getElementById('chatInput');
+    input.value = btn.dataset.suggestion;
+    input.focus();
+    input.setSelectionRange(input.value.length, input.value.length);
+  });
+});
 
 function setChatInterruptMode(on) {
   analysisRunning = on;
@@ -945,6 +965,8 @@ function resetToUpload() {
   document.getElementById('chatStatus').textContent = 'Aucun document';
   document.getElementById('chatInput').disabled = true;
   document.getElementById('chatSendBtn').disabled = true;
+  document.getElementById('chipCiterArticle').disabled = true;
+  document.getElementById('chipExplorerBO').disabled = true;
   document.getElementById('btnBackToResults').style.display = 'none';
   document.getElementById('progressLine').style.width = '0%';
   document.getElementById('cancelBtn').style.display = 'none';
@@ -1082,7 +1104,7 @@ function renderHistory() {
       </div>
       <div class="flex gap-2 flex-shrink-0">
         <button class="btn-outline history-open" data-doc="${escapeHtml(a.doc_id)}">&#x1F441; Voir</button>
-        <button class="btn-outline history-chat" data-doc="${escapeHtml(a.doc_id)}">&#x1F4AC; Nouveau chat</button>
+        <button class="btn-outline history-chat" data-doc="${escapeHtml(a.doc_id)}" title="Rouvre cette analyse et son chat (historique conservé)">&#x1F4AC; Chat</button>
         <button class="btn-outline history-delete" data-doc="${escapeHtml(a.doc_id)}" title="Supprimer cette analyse (résultats inclus)">&#x1F5D1;</button>
       </div>
     </div>
@@ -1303,16 +1325,23 @@ function renderResults(data) {
     `).join('');
 
   renderKeywords(data);
-
-  document.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-      btn.classList.add('active');
-      document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
-    });
-  });
 }
+
+// ── Tab bar handler (registered once at load) ─────────────────────────
+// Toggles active classes and triggers key points loading when the
+// "Points clés" tab is clicked. Runs once, not on every renderResults().
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+
+    if (btn.dataset.tab === 'keypoints') {
+      loadKeyPoints();
+    }
+  });
+});
 
 function renderKeywords(data) {
   const kc = data.keyword_counts || { per_category: {}, per_term: {} };
@@ -1506,6 +1535,8 @@ async function enableChat(docId) {
   document.getElementById('chatStatus').textContent = 'BO ' + (docId || '');
   document.getElementById('chatInput').disabled = false;
   document.getElementById('chatSendBtn').disabled = false;
+  document.getElementById('chipCiterArticle').disabled = false;
+  document.getElementById('chipExplorerBO').disabled = false;
   document.getElementById('btnDeepAnalysis').style.display = 'inline-block';
 
   // Réhydratation de l'historique existant : survit à un rechargement de
@@ -1540,11 +1571,7 @@ async function enableChat(docId) {
 
 let keyPointsLoaded = null;  // doc_id pour lequel la liste a déjà été chargée côté client
 
-async function showKeyPoints() {
-  // Bascule sur l'onglet dédié (réutilise le handler générique existant)
-  const tabBtn = document.querySelector('.tab-btn[data-tab="keypoints"]');
-  if (tabBtn) tabBtn.click();
-
+async function loadKeyPoints() {
   if (!chatDocId) return;
   if (keyPointsLoaded === chatDocId) return;  // déjà chargé pour ce document
 
@@ -1563,6 +1590,14 @@ async function showKeyPoints() {
   } catch (err) {
     container.innerHTML = '<p class="error-box" style="display:block">Erreur de connexion au serveur.</p>';
   }
+}
+
+async function showKeyPoints() {
+  // Bascule sur l'onglet dédié (réutilise le handler générique existant)
+  const tabBtn = document.querySelector('.tab-btn[data-tab="keypoints"]');
+  if (tabBtn) tabBtn.click();  // triggers loadKeyPoints() via the tab handler below
+
+  await loadKeyPoints();
 }
 
 function renderKeyPoints(data) {
